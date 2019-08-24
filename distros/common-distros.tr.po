@@ -1,0 +1,731 @@
+# Turkish translation of https://www.gnu.org/distros/common-distros.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Umutcan OLĞUN <birsenesen4@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: common-distros.html\n"
+"POT-Creation-Date: 2019-08-14 19:55+0000\n"
+"PO-Revision-Date: 2019-08-24 12:40+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Language-Team: Turkish <web-translators@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2019-07-31 11:25+0000\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#. type: Content of: <title>
+msgid ""
+"Explaining Why We Don't Endorse Other Systems - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Diğer Sistemleri Neden Desteklemediğimizi Açıklıyoruz - GNU Projesi - Özgür "
+"Yazılım Vakfı"
+
+#. type: Attribute 'title' of: <link>
+msgid "Free GNU/Linux distributions"
+msgstr "Özgür GNU/Linux Dağıtımları"
+
+#. type: Content of: <h2>
+msgid "Explaining Why We Don't Endorse Other Systems"
+msgstr "Diğer Sistemleri Neden Desteklemediğimizi Açıklıyoruz"
+
+#. type: Content of: <p>
+msgid ""
+"We're often asked why we don't endorse a particular system&mdash;usually a "
+"popular GNU/Linux distribution.  The short answer to that question is that "
+"they don't follow the <a href=\"/distros/free-system-distribution-guidelines."
+"html\">free system distribution guidelines</a>.  But since it isn't always "
+"obvious how a particular system fails to follow the guidelines, this list "
+"gives more information about the problems of certain well-known nonfree "
+"system distros."
+msgstr ""
+"Sıklıkla belirli bir sistemi -genellikle popüler bir GNU/Linux dağıtımı- "
+"niçin onaylamadığımız soruluyor. Bu sorunun kısa cevabı, <a href=\"/distros/"
+"free-system-distribution-guidelines.html\">özgür sistem dağıtım kurallarına</"
+"a> uymadıklarıdır. Ancak belirli bir sistemin kurallara neden uymadığı her "
+"zaman açık olmadığı için, bu listeyle bazı iyi bilinen sistem dağıtımlarının "
+"sorunları hakkında daha fazla bilgi vermeyi amaçlıyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"To learn more about the GNU/Linux systems that we do endorse, check out our "
+"list of <a href=\"/distros/free-distros.html\">free GNU/Linux distributions</"
+"a>."
+msgstr ""
+"Desteklediğimiz GNU/Linux sistemleri hakkında daha fazla bilgi edinmek için "
+"<a href=\"/distros/free-distros.html\">özgür GNU/Linux dağıtımları</a> "
+"listemize göz atabilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"Except where noted, all of the distributions listed on this page fail to "
+"follow the guidelines in at least two important ways:"
+msgstr ""
+"Ayrıca belirtilen durumlar dışında, bu sayfada listelenen tüm dağıtımların "
+"yönergeleri izlemekte başarısız olduğu en az iki önemli durum söz konusu:"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"They do not have a policy of <em>only</em> including free software, and "
+"removing nonfree software if it is discovered.  Most of them have no clear "
+"policy on what software they'll accept or reject at all.  The distributions "
+"that do have a policy unfortunately aren't strict enough, as explained below."
+msgstr ""
+"<em>Yalnızca</em> özgür yazılımlar içeren ve keşfedildiğinde özgür olmayan "
+"yazılımı kaldıracakları bir ilkeye sahip değiller. Çoğu, hangi yazılımı "
+"kabul edeceği veya reddedeceği konusunda net bir politikaya sahip değil. Bir "
+"politikaya sahip olan dağıtımlar maalesef aşağıda açıklandığı gibi yeterince "
+"katı değiller."
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"The kernel that they distribute (in most cases, Linux) includes &ldquo;"
+"blobs&rdquo;: pieces of object code distributed without source, usually "
+"firmware to run some device."
+msgstr ""
+"Dağıttıkları çekirdek (çoğu durumda Linux) &ldquo;blob’lar&rdquo; içeriyor: "
+"kaynak kod olmadan dağıtılan program parçaları, genellikle bazı aygıtları "
+"çalıştırmak için donanım yazılımı (firmware)."
+
+#. type: Content of: <p>
+msgid ""
+"Here is a list of some popular nonfree GNU/Linux distributions in "
+"alphabetical order, with brief notes about how they fall short.  We do not "
+"aim for completeness; once we know some reasons we can't endorse a certain "
+"distro, we do not keep looking for all the reasons."
+msgstr ""
+"Alfabetik sıraya göre bazı popüler ve özgür olmayan GNU/Linux dağıtımlarının "
+"bir listesi aşağıdadır. Bütünlüğü hedeflemiyoruz: belirli bir dağıtım "
+"hakkında bazı nedenleri farkettiğimizde onu desteklemiyoruz, bütün nedenleri "
+"araştırmaya devam etmiyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"A distro may have changed since we last updated information about it; if you "
+"think one of the problems mentioned here has been corrected, please <a href="
+"\"mailto:webmasters@gnu.org\">let us know</a>.  However, we will study and "
+"endorse a distro only if its developers ask for our endorsement."
+msgstr ""
+"Son güncellemeden bu yana bir dağıtım değişmiş olabilir: Burada sözü edilen "
+"sorunlardan birinin giderildiğini düşünüyorsanız lütfen bize bildirin. "
+"Bununla birlikte yalnızca geliştiricileri onayımızı isterse bir dağıtımı "
+"inceleyeceğiz ve onaylayacağız."
+
+#. type: Content of: <h3>
+msgid "Arch GNU/Linux"
+msgstr "Arch GNU/Linux"
+
+#. type: Content of: <p>
+msgid ""
+"Arch has no policy against distributing nonfree software through their "
+"normal channels, and nonfree blobs are shipped with their kernel, Linux."
+msgstr ""
+"Arch iki alışılmış problemi içeriyor: hangi yazılımın dâhil edilebileceği "
+"konusunda net bir politika yok ve özgür olmayan blob’lar çekirdek (Linux) "
+"ile birlikte geliyor. Arch ayrıca özgür olmayan yazılımları normal kanalları "
+"üzerinden dağıtmama konusunda da bir politikaya sahip değildir."
+
+#. type: Content of: <h3>
+msgid "Canaima"
+msgstr "Canaima"
+
+#. type: Content of: <p>
+msgid ""
+"Canaima GNU/Linux is a distribution made by Venezuela's government to "
+"distribute computers with GNU/Linux.  While the overall plan is admirable, "
+"Canaima is flawed by the inclusion of nonfree software."
+msgstr ""
+"Canaima GNU/Linux, Venezuela hükûmetinin bilgisayarları GNU/Linux ile "
+"dağıtmaya yönelik yaptığı bir dağıtımdır. Genel plan takdire şayan olsa da "
+"özgür olmayan yazılımın eklenmesiyle Canaima kusurludur."
+
+#. type: Content of: <p>
+msgid ""
+"Its main menu has an option, &ldquo;Install nonfree software&rdquo;, which "
+"installs all the nonfree drivers (even the ones that are not necessary). The "
+"distro also ships blobs for the kernel, Linux, and invites installing "
+"nonfree applications including Flash Player."
+msgstr ""
+"Ana menüsü, tüm özgür olmayan sürücüleri (gerekli olmayanları bile) yükleyen "
+"&ldquo;Özgür olmayan yazılımı yükle&rdquo; seçeneğine sahiptir. Dağıtım "
+"ayrıca çekirdek (Linux) içinde bloblarla birlikte geliyor ve Flash Player "
+"dâhil olmak üzere özgür olmayan uygulamaları kurmayı teşvik ediyor."
+
+#. type: Content of: <h3>
+msgid "CentOS"
+msgstr "CentOS"
+
+#. type: Content of: <p>
+msgid ""
+"We're not aware of problems in CentOS aside from the two usual ones: there's "
+"no clear policy about what software can be included, and nonfree blobs are "
+"shipped with Linux, the kernel.  Of course, with no firm policy in place, "
+"there might be other nonfree software included that we missed."
+msgstr ""
+"CentOS’taki sorunların her zamanki iki sorunun yanı sıra farkında değiliz: "
+"Hangi yazılımın dâhil edilebileceği konusunda net bir politika yoktur ve "
+"özgür olmayan blob’lar, Linux (çekirdek) ile birlikte gönderilir."
+
+#. type: Content of: <h3>
+msgid "Debian GNU/Linux"
+msgstr "Debian GNU/Linux"
+
+#. type: Content of: <p>
+msgid ""
+"Debian's Social Contract states the goal of making Debian entirely free "
+"software, and Debian conscientiously keeps nonfree software out of the "
+"official Debian system.  However, Debian also maintains a repository of "
+"nonfree software.  According to the project, this software is &ldquo;not "
+"part of the Debian system,&rdquo; but the repository is hosted on many of "
+"the project's main servers, and people can readily find these nonfree "
+"packages by browsing Debian's online package database and its wiki."
+msgstr ""
+"Debian’ın Toplumsal Sözleşmesi, Debian’ı tamamen özgür bir yazılım hâline "
+"getirmeyi hedefliyor ve Debian, özgür olmayan yazılımı resmî Debian "
+"sisteminden bilinçli olarak koruyor. Bununla birlikte Debian, ayrıca özgür "
+"olmayan bir yazılım deposu da sağlıyor. Projeye göre bu yazılım, &ldquo;"
+"Debian sisteminin bir parçası değil&rdquo;, ancak depo, projenin ana "
+"sunucularının birçoğunda barındırılıyor ve insanlar, bu özgür olmayan "
+"paketleri Debian’ın çevrimiçi paket veritabanına ve wiki’sine bakarak "
+"kolayca bulabiliyor."
+
+#. type: Content of: <p>
+msgid ""
+"There is also a &ldquo;contrib&rdquo; repository; its packages are free, but "
+"some of them exist to load separately distributed proprietary programs.  "
+"This too is not thoroughly separated from the main Debian distribution."
+msgstr ""
+"Ayrıca &ldquo;contrib&rdquo; deposu da var: Paketleri özgürdür ancak "
+"bazıları ayrı olarak dağıtılmış sahipli programlar yüklemek için var. Bu da "
+"ana Debian dağıtımından tamamen ayrı değildir."
+
+#. type: Content of: <p>
+msgid ""
+"Debian is the only common non-endorsed distribution to keep nonfree blobs "
+"out of its main distribution. However, the problem partly remains.  The "
+"nonfree firmware files live in Debian's nonfree repository, which is "
+"referenced in the documentation on debian.org, and the installer in some "
+"cases recommends them for the peripherals on the machine."
+msgstr ""
+"Debian, özgür olmayan blob'ları ana dağıtımından uzak tutan tek yaygın "
+"onaylanmamış dağıtımdır. Ancak sorun kısmen devam etmektedir. Özgür olmayan "
+"aygıt yazılım (firmware) dosyaları, debian.org'daki belgelerde atıfta "
+"bulunan Debian'ın özgür olmayan deposunda yaşar ve bazı durumlarda "
+"yükleyici, makinedeki çevre birimleri için bunları önerir."
+
+#. type: Content of: <p>
+msgid ""
+"In addition, some of the free programs that are officially part of Debian "
+"invite the user to install some nonfree programs.  Specifically, the Debian "
+"versions of Firefox and Chromium suggest nonfree plug-ins to install into "
+"them."
+msgstr ""
+"Ek olarak, Debian'ın resmi parçası olan bazı özgür programlar kullanıcıları "
+"bazı özgür olmayan programlar kurmaya teşvik ediyor. Özellikle, Firefox ve "
+"Chromium tarayıcılarının Debian sürümleri özgür olmayan eklentileri onlarla "
+"birlikte kurmayı öneriyor."
+
+#. type: Content of: <p>
+msgid "Debian's wiki also includes pages about installing nonfree firmware."
+msgstr ""
+"Debian’ın wiki’sinde özgür olmayan ürün yazılımı (firmware) kurulumu ile "
+"ilgili sayfalar bulunuyor."
+
+#. type: Content of: <h3>
+msgid "Fedora"
+msgstr "Fedora"
+
+#. type: Content of: <p>
+msgid ""
+"Fedora does have a clear policy about what can be included in the "
+"distribution, and it seems to be followed carefully.  The policy requires "
+"that most software and all fonts be available under a free license, but "
+"makes an exception for certain kinds of nonfree firmware.  Unfortunately, "
+"the decision to allow that firmware in the policy keeps Fedora from meeting "
+"the free system distribution guidelines."
+msgstr ""
+"Fedora, dağıtımda nelerin dâhil edilebileceğine dair net bir politikaya "
+"sahiptir ve dikkatle takip edilmektedir. İlke, çoğu yazılımın ve tüm yazı "
+"tiplerinin özgür bir lisans kapsamında bulunmasını gerektirir ancak belirli "
+"türdeki özgür olmayan ürün yazılımı (firmware) için bir istisna oluşturur. "
+"Ne yazık ki bu ürün yazılımı (firmware) politikasına izin verme kararı, "
+"Fedora’nın özgür sistem dağıtım kurallarına uymasını engellemektedir."
+
+#. type: Content of: <h3>
+msgid "Gentoo GNU/Linux"
+msgstr "Gentoo GNU/Linux"
+
+#. type: Content of: <p>
+msgid ""
+"Gentoo includes installation recipes for a number of nonfree programs in its "
+"primary package system."
+msgstr ""
+"Gentoo, birincil paket sisteminde bir dizi özgür olmayan program için "
+"kurulum tarifleri içerir."
+
+#. type: Content of: <h3>
+msgid "Mandriva GNU/Linux"
+msgstr "Mandriva GNU/Linux"
+
+#. type: Content of: <p>
+msgid ""
+"Mandriva does have a stated policy about what can be included in the main "
+"system.  It's based on Fedora's, which means that it also allows certain "
+"kinds of nonfree firmware to be included.  On top of that, it permits "
+"software released under the original Artistic License to be included, even "
+"though that's a nonfree license."
+msgstr ""
+"Mandriva’nın ana sisteme neyin dâhil edilebileceği konusunda bir politika "
+"var. Fedora’ya dayanıyor, bu da belirli türdeki özgür olmayan yazılımın "
+"dâhil edilmesine izin verdiği anlamına geliyor. Bunun da ötesinde özgür "
+"olmayan bir lisans olsa da özgün Sanatsal Lisans (original Artistic License) "
+"kapsamında yayımlanan yazılımların dâhil edilmesine izin veriyor."
+
+#. type: Content of: <p>
+msgid "Mandriva also ships nonfree software through dedicated repositories."
+msgstr ""
+"Mandriva ayrıca adanmış depolar üzerinden özgür olmayan yazılım sağlıyor."
+
+#. type: Content of: <h3>
+msgid "Manjaro GNU/Linux"
+msgstr "Manjaro GNU/Linux"
+
+#. type: Content of: <p>
+msgid ""
+"Manjaro includes nonfree software through its normal channels, and ships "
+"nonfree blobs with its kernel, Linux. It includes a proprietary office suite "
+"and proprietary games with DRM. The distro also recommends the installation "
+"of nonfree drivers."
+msgstr ""
+"Manjaro normal kanalları aracılığıyla özgür olmayan yazılım barındırıyor ve "
+"Linux çekirdeğinde özgür olmayan kısımlarla birlikte geliyor. Özel mülkiyet "
+"bir ofis yazılım ve DRM barındıran özel mülk oyunlar içeriyor. Bu dağıtım "
+"ayrı özgür olmayan sürücüleri kurmayı öneriyor."
+
+#. type: Content of: <h3>
+msgid "Mint GNU/Linux"
+msgstr "Mint GNU/Linux"
+
+#. type: Content of: <p>
+msgid ""
+"Mint does not have a policy against including nonfree software, it includes "
+"nonfree binary blobs in drivers packaged with the kernel, and it includes "
+"nonfree programs in its repositories.  It even includes proprietary codecs."
+msgstr ""
+"Mint; özgür olmayan yazılım içermeyen bir politikaya sahip değildir, "
+"çekirdekle paketlenmiş sürücülerde özgür olmayan ikili blob’ları içerir ve "
+"depolarında özgür olmayan programlar içerir. Hatta sahipli çözücüler "
+"(codec’ler) içerir."
+
+#. type: Content of: <h3>
+msgid "openSUSE"
+msgstr "openSUSE"
+
+#. type: Content of: <p>
+msgid ""
+"openSUSE offers a repository of nonfree software.  This is an instance of "
+"how <a href=\"/philosophy/open-source-misses-the-point.html\"> &ldquo;"
+"open&rdquo; is weaker than &ldquo;free&rdquo;</a>."
+msgstr ""
+"openSUSE, özgür olmayan bir yazılım deposu sunar. Bu, <a href=\"/philosophy/"
+"open-source-misses-the-point.html\">&ldquo;açık&rdquo;ın “özgür”den daha "
+"zayıf olmasının</a> bir örneğidir."
+
+#. type: Content of: <h3>
+msgid "Red Hat GNU/Linux"
+msgstr "Red Hat GNU/Linux"
+
+#. type: Content of: <p>
+msgid ""
+"Red Hat's enterprise distribution primarily follows the same licensing "
+"policies as Fedora, with one exception.  Thus, we don't endorse it for <a "
+"href=\"#Fedora\">the same reasons</a>.  In addition to those, Red Hat has no "
+"policy against making nonfree software available for the system through "
+"supplementary distribution channels."
+msgstr ""
+"Red Hat’ın kurumsal dağıtımı, bir istisna dışında, öncelikle Fedora ile aynı "
+"lisans politikalarını takip eder. Bu nedenle <a href=\"#Fedora\">aynı "
+"sebeplerden</a> dolayı onaylamıyoruz. Bunlara ek olarak Red Hat, ek dağıtım "
+"kanalları aracılığıyla sisteme özgür olmayan yazılım yapma konusunda bir "
+"politikaya sahip değildir."
+
+#. type: Content of: <h3>
+msgid "Slackware"
+msgstr "Slackware"
+
+#. type: Content of: <p>
+msgid ""
+"Slackware has the two usual problems: there's no clear policy about what "
+"software can be included, and nonfree blobs are included in Linux, the "
+"kernel.  It also ships with the nonfree image-viewing program xv.  Of "
+"course, with no firm policy against them, more nonfree programs could get in "
+"at any time.  There is an <a href=\"http://freeslack.net/\">unofficial list</"
+"a> of nonfree software in Slackware."
+msgstr ""
+"Slackware’nin iki olağan sorunu var: Hangi yazılımın dâhil edilebileceğine "
+"dair net bir politika yok ve Linux’a (çekirdek) özgür olmayan blob’lar "
+"dâhildir. Ayrıca özgür olmayan görüntü izleme programı xv ile birlikte "
+"gönderilir. Elbette, onlara karşı kesin bir politika olmadan özgür olmayan "
+"programlar her an içeri girebilir. Slackware’de özgür olmayan yazılımın <a "
+"href=\"http://freeslack.net/\">resmî olmayan bir listesi</a> var."
+
+#. type: Content of: <h3>
+msgid "SteamOS"
+msgstr "SteamOS"
+
+#. type: Content of: <p>
+msgid ""
+"SteamOS, a version of GNU/Linux to be distributed by Valve. It contains "
+"proprietary software, including the Steam client and proprietary drivers. "
+"Steam uses <a href=\"https://www.defectivebydesign.org/what_is_drm\">Digital "
+"Restrictions Management (DRM)</a> to impose restrictions on the software it "
+"distributes, as well as on the proprietary software it promotes via the "
+"Steam store."
+msgstr ""
+"SteamOS, Valve tarafından dağıtılacak GNU/Linux sürümü. Steam istemcisi ve "
+"sahipli sürücüler de dâhil olmak üzere sahipli bir yazılım içerir. Steam, "
+"dağıttığı yazılımın yanı sıra Steam mağazası aracılığıyla tanıttığı sahipli "
+"yazılım üzerinde kısıtlamalar getirmek için Dijital Sınırlamalar Yönetimi "
+"(DRM [Digital Restrictions Management]) kullanır."
+
+#. type: Content of: <h3>
+msgid "SUSE GNU/Linux Enterprise"
+msgstr "SUSE GNU/Linux Enterprise"
+
+#. type: Content of: <p>
+msgid ""
+"In addition to the usual two problems, several nonfree software programs are "
+"available for download from SUSE's official FTP site."
+msgstr ""
+"Her zamanki iki soruna ek olarak SUSE’nin resmî FTP sitesinden indirmek için "
+"birçok özgür olmayan yazılım programı mevcuttur."
+
+#. type: Content of: <h3>
+msgid "Tails"
+msgstr "Tails"
+
+#. type: Content of: <p>
+msgid ""
+"Tails uses the vanilla version of Linux, which contains nonfree firmware "
+"blobs."
+msgstr ""
+"Tails, özgür olmayan donanım yazılımı (firmware) blob’larını içeren Linux’un "
+"vanilya sürümünü kullanır."
+
+#. type: Content of: <h3>
+msgid "Ubuntu GNU/Linux"
+msgstr "Ubuntu GNU/Linux"
+
+#. type: Content of: <p>
+msgid ""
+"Ubuntu maintains specific repositories of nonfree software, and Canonical "
+"expressly promotes and recommends nonfree software under the Ubuntu name in "
+"some of their distribution channels.  Ubuntu offers the option to install "
+"only free packages, which means it also offers the option to install nonfree "
+"packages too.  In addition, the version of Linux, the kernel, included in "
+"Ubuntu contains firmware blobs."
+msgstr ""
+"Ubuntu, özgür olmayan yazılımlar için belirli depolar sağlıyor ve Canonical, "
+"bazı dağıtım kanallarında Ubuntu adı altında özgür olmayan yazılımı açıkça "
+"destekliyor ve öneriyor. Ubuntu, yalnızca ücretsiz paketleri, yani özgür "
+"olmayan paketleri de yükleme seçeneği sunuyor. Ayrıca Ubuntu’ya dâhil olan "
+"Linux’un çekirdeği, donanım yazılımı (firmware) blob’ları içeriyor."
+
+#. type: Content of: <p>
+msgid ""
+"The &ldquo;Ubuntu Software Center&rdquo; lists proprietary programs and free "
+"programs jumbled together.  It is <a href=\"http://www.freesoftwaremagazine."
+"com/articles/"
+"ubuntu_software_center_proprietary_and_free_software_mixed_confusing_ui"
+"\">hard to tell which ones are free</a> since proprietary programs for "
+"download at no charge are labelled &ldquo;free&rdquo;."
+msgstr ""
+"&ldquo;Ubuntu Yazılım Merkezi&rdquo;, sahipli programları ve özgür "
+"programları bir araya getiriyor. Ücretsiz olarak indirilebilecek sahipli "
+"programlar&ldquo; free&rdquo; olarak etiketlendiğinden <a href=\"http://www."
+"freesoftwaremagazine.com/articles/"
+"ubuntu_software_center_proprietary_and_free_software_mixed_confusing_ui"
+"\">hangisinin özgür olduğunu söylemek zor</a>."
+
+#. type: Content of: <p>
+msgid ""
+"Ubuntu <a href=\"https://www.ubuntu.com/legal/intellectual-property-"
+"policy#your-use-of-ubuntu\">appears to permit commercial redistribution of "
+"exact copies with the trademarks</a>; removal of the trademarks is required "
+"only for modified versions.  That is an acceptable policy for trademarks.  "
+"The same page, further down, makes a vague and ominous statement about "
+"&ldquo;Ubuntu patents,&rdquo; without giving enough details to show whether "
+"that constitutes aggression or not."
+msgstr ""
+"Ubuntu, <a href=\"https://www.ubuntu.com/legal/intellectual-property-"
+"policy#your-use-of-ubuntu\">ticari markalarla tam kopyaların ticari olarak "
+"yeniden dağıtılmasına izin veriyor gibi görünüyor</a>: Ticari markaların "
+"kaldırılması sadece değiştirilmiş sürümler için gereklidir. Bu, ticari "
+"markalar için kabul edilebilir bir politikadır. Aynı sayfa, aşağı yukarı, "
+"&ldquo;Ubuntu patentleri&rdquo; hakkında saldırganlık yaratıp yaratmadığına "
+"dair yeterli bilgi vermeden, belirsiz ve uğursuz bir açıklama yapar."
+
+#. type: Content of: <p>
+msgid ""
+"That page spreads confusion by using the misleading term <a href=\"/"
+"philosophy/not-ipr.html\">&ldquo;intellectual property rights&rdquo;</a>, "
+"which falsely presumes that trademark law and patent law and several other "
+"laws belong in one single conceptual framework.  Use of that term is "
+"harmful, without exception, so after making a reference to someone else's "
+"use of the term, we should always reject it.  However, that is not a "
+"substantive issue about Ubuntu as a GNU/Linux distribution."
+msgstr ""
+"Bu sayfa, marka kanunu ve patent kanunu ile diğer bazı yasaların tek bir "
+"kavramsal çerçeveye ait olduğunu yanlış bir şekilde iddia eden yanıltıcı <a "
+"href=\"/philosophy/not-ipr.html\">&ldquo;fikrî mülkiyet hakları&rdquo;</a> "
+"terimini kullanarak karışıklık yayıyor. Bu terimin kullanımı istisnasız "
+"zararlıdır, bu nedenle başka birinin terimin kullanımına referans "
+"gösterdikten sonra her zaman onu reddetmeliyiz ancak bu, Ubuntu hakkında bir "
+"GNU/Linux dağıtımı olarak önemli bir konu değildir."
+
+#. type: Content of: <h2>
+msgid "Some Other Distros"
+msgstr "Diğer Bazı Dağıtımlar"
+
+#. type: Content of: <p>
+msgid ""
+"Here we discuss some well-known or significant non-GNU/Linux system distros "
+"that do not qualify as free."
+msgstr ""
+"Burada özgür olarak nitelendirilmeyen bazı tanınmış veya GNU/Linux olmayan "
+"sistem dağıtımlarını ele alıyoruz."
+
+#. type: Content of: <h3>
+msgid "Android"
+msgstr "Android"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/philosophy/android-and-users-freedom.html\">Android</a> as "
+"released by Google contains many nonfree parts as well as many free parts.  "
+"Most of the free parts are covered by a pushover license (not <a href=\"/"
+"licenses/copyleft.html\">copyleft</a>), so manufacturers that distribute "
+"Android in a product sometimes make those parts nonfree as well."
+msgstr ""
+"Google tarafından yayınlanan <a href=\"/philosophy/android-and-users-freedom."
+"html\">Android</a>, birçok özgür parçanın yanı sıra özgür olmayan birçok "
+"parça içeriyor. Özgür parçaların çoğu bir pushover lisansı (<a href=\"/"
+"licenses/copyleft.html\">copyleft</a> değil) tarafından karşılanır, bu "
+"yüzden bir ürünü Android’e dağıtan üreticilerin bazen bu parçaları da özgür "
+"olmazlar."
+
+#. type: Content of: <h3>
+msgid "BSD systems"
+msgstr "BSD Sistemleri"
+
+#. type: Content of: <p>
+msgid ""
+"FreeBSD, NetBSD, and OpenBSD all include instructions for obtaining nonfree "
+"programs in their ports system.  In addition, their kernels include nonfree "
+"firmware blobs."
+msgstr ""
+"FreeBSD, NetBSD ve OpenBSD; port sistemlerinde özgür olmayan programlar elde "
+"etme talimatlarını içerir. Ayrıca bunların çekirdeklerinde özgür olmayan "
+"donanım yazılımı (firmware) blob’ları bulunur."
+
+#. type: Content of: <p>
+msgid ""
+"Nonfree firmware programs used with Linux, the kernel, are called &ldquo;"
+"blobs&rdquo;, and that's how we use the term.  In BSD parlance, the term "
+"&ldquo;blob&rdquo; means something else: a nonfree driver.  OpenBSD and "
+"perhaps other BSD distributions (called &ldquo;projects&rdquo; by BSD "
+"developers) have the policy of not including those.  That is the right "
+"policy, as regards drivers; but when the developers say these distributions "
+"&ldquo;contain no blobs&rdquo;, it causes a misunderstanding.  They are not "
+"talking about firmware blobs."
+msgstr ""
+"Linux (çekirdek) ile kullanılan özgür olmayan donanım yazılımı (firmware) "
+"programları, &ldquo;blob’lar&rdquo; olarak adlandırılır ve bu terimi "
+"kullanırız. BSD tabirinde &ldquo;blob&rdquo; terimi başka bir şey ifade "
+"eder: özgür olmayan bir sürücü. OpenBSD ve diğer BSD dağıtımları (BSD "
+"geliştiricileri tarafından &ldquo;projeler (projects)&rdquo; olarak "
+"adlandırılır.), bunları içermeme politikasına sahiptir. Sürücüler açısından "
+"doğru politika budur: Ancak geliştiriciler bu dağıtımların &ldquo;blob "
+"içermediğini&rdquo; söylediğinde yanlış anlaşılmalara neden olur. Donanım "
+"yazılımı (firmware) blob’ları hakkında konuşmuyorlar."
+
+#. type: Content of: <p>
+msgid ""
+"None of those BSD distributions has policies against proprietary binary-only "
+"firmware that might be loaded even by free drivers."
+msgstr ""
+"Bu BSD dağıtımlarının hiçbiri, özgür sürücüler tarafından bile "
+"yüklenebilecek olan sahipli ikili ürün yazılımlarına (proprietary binary-"
+"only firmware) yönelik politikalara sahip değildir."
+
+#. type: Content of: <h3>
+msgid "Chrome OS"
+msgstr "Chrome OS"
+
+#. type: Content of: <p>
+msgid ""
+"The central part of Chrome OS is the nonfree Chrome browser.  It may contain "
+"other nonfree software as well."
+msgstr ""
+"Chrome OS’un merkezî kısmı, özgür olmayan Chrome tarayıcısıdır. Başka özgür "
+"olmayan yazılım da içerebilir."
+
+#. type: Content of: <h3>
+msgid "/e/"
+msgstr "/e/"
+
+#. type: Content of: <p>
+msgid ""
+"/e/ (formerly eelo) is a modified version of Android, which contains nonfree "
+"libraries."
+msgstr ""
+"/e/ (eskiden eelo), özgür olmayan kütüphaneler içeren Android’in "
+"değiştirilmiş bir sürümüdür."
+
+#. type: Content of: <h3>
+msgid "Haiku"
+msgstr "Haiku"
+
+#. type: Content of: <p>
+msgid ""
+"Haiku includes some software that you're not allowed to modify.  It also "
+"includes nonfree firmware blobs."
+msgstr ""
+"Haiku, değiştirmenize izin verilmeyen bazı yazılımlar içerir. Ayrıca özgür "
+"olmayan donanım yazılımı blob’larını içerir."
+
+#. type: Content of: <h3>
+msgid "LineageOS"
+msgstr "LineageOS"
+
+#. type: Content of: <p>
+msgid ""
+"LineageOS (formerly CyanogenMod) is a modified version of Android, which "
+"contains nonfree libraries. It also explains how to install the nonfree "
+"applications that Google distributes with Android."
+msgstr ""
+"LineageOS (eskiden CyanogenMod), özgür olmayan kütüphaneler içeren "
+"Android’in değiştirilmiş bir sürümüdür. Ayrıca Google’nin Android ile "
+"dağıttığı özgür olmayan uygulamaların nasıl yükleneceğini de açıklar."
+
+#. type: Content of: <h3>
+msgid "ReactOS"
+msgstr "ReactOS"
+
+#. type: Content of: <p>
+msgid ""
+"ReactOS is meant as a free binary compatible replacement for Windows.  Use "
+"with proprietary software and drivers meant for Windows is one of the stated "
+"goals of the project."
+msgstr ""
+"ReactOS, Windows için özgür bir ikili uyumlu değiştirme (a free binary "
+"compatible replacement) anlamına gelir. Sahipli yazılım ve Windows için "
+"kullanılan sürücülerle kullanmak, projenin belirtilen hedeflerinden biridir."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilir."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu eser <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\"> Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> ile lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr " "
+
+#. timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Instead of this nonfree distribution, use <a href=\"/distros/free-distros."
+#~ "html#for-pc\">Parabola</a> or <a href=\"https://www.hyperbola.info/?gnu-"
+#~ "free-stros-page\">Hyperbola</a>, free distros which are made from it."
+#~ msgstr ""
+#~ "Bu özgür olmayan dağıtım yerine ondan yapılan özgür dağıtım <a href=\"/"
+#~ "distros/free-distros.html#for-pc\">Parabola’yı</a> veya <a href=\"https://"
+#~ "www.hyperbola.info/?gnu-free-stros-page\">Hyperbola</a> kullanın."
+
+#~ msgid ""
+#~ "Instead of this nonfree distribution, use one of the free distros which "
+#~ "are made from it: <a href=\"/distros/free-distros.html#for-pc"
+#~ "\">gNewSense</a>, and <a href=\"/distros/free-distros.html#for-pc"
+#~ "\">PureOS</a>."
+#~ msgstr ""
+#~ "Bu özgür olmayan dağıtım yerine ondan yapılan özgür dağıtımlardan birini "
+#~ "kullanın: <a href=\"/distros/free-distros.html#for-pc\">gNewSense</a> ve "
+#~ "<a href=\"/distros/free-distros.html#for-pc\">PureOS</a>."
+
+#~ msgid ""
+#~ "Instead of this nonfree distribution, use one of the free distros which "
+#~ "are made from it: <a href=\"/distros/free-distros.html#for-pc\">Dyne:"
+#~ "bolic</a>, <a href=\"/distros/free-distros.html#for-pc\">Trisquel</a>, "
+#~ "and <a href=\"/distros/free-distros.html#for-pc\">Ututo S</a>."
+#~ msgstr ""
+#~ "Bu özgür olmayan dağıtım yerine ondan yapılan özgür dağıtımlardan birini "
+#~ "kullanın: <a href=\"/distros/free-distros.html#for-pc\">Dyne:bolic</a>, "
+#~ "<a href=\"/distros/free-distros.html#for-pc\">Trisquel</a> ve <a href=\"/"
+#~ "distros/free-distros.html#for-pc\">Ututo S</a>."

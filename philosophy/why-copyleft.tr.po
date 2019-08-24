@@ -1,0 +1,251 @@
+# Turkish translations for why-copyleft.html package
+# why-copyleft.html paketi için Türkçe çeviriler
+# Copyright (C) 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the why-copyleft.html package.
+# Ali Servet Dönmez <asd@pittle.org>, 2008.
+# Sönmez Kartal <sz@szk0.org>, 2008.
+# June 2014: trivial update (T. Godefroy)
+# July 2014: switch to translated license notice (T. Godefroy).
+# May 2017: clean up.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: why-copyleft.html\n"
+"POT-Creation-Date: 2018-01-01 05:59+0000\n"
+"PO-Revision-Date: 2019-08-24 13:26+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2017-12-11 09:56+0000\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#. type: Content of: <title>
+msgid "Why Copyleft? - GNU Project - Free Software Foundation"
+msgstr "Neden Copyleft? - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Why Copyleft?"
+msgstr "Neden Copyleft?"
+
+#. type: Content of: <p>
+msgid ""
+"<cite>&ldquo;When it comes to defending the freedom of others, to lie down "
+"and do nothing is an act of weakness, not humility.&rdquo;</cite>"
+msgstr ""
+"<cite>&ldquo;Söz konusu diğerlerinin haklarını savunmak olduğunda, yatıp "
+"uzanmak ve hiçbir şey yapmamak alçakgönüllülük değil zayıflık göstergesidir."
+"&rdquo;</cite>"
+
+#. type: Content of: <p>
+msgid ""
+"In the GNU Project we usually recommend people use <a href=\"/copyleft/"
+"copyleft.html\">copyleft</a> licenses like GNU GPL, rather than permissive "
+"non-copyleft free software licenses.  We don't argue harshly against the non-"
+"copyleft licenses&mdash;in fact, we occasionally recommend them in special "
+"circumstances&mdash;but the advocates of those licenses show a pattern of "
+"arguing harshly against the <acronym title=\"General Public License\">GPL</"
+"acronym>."
+msgstr ""
+"GNU projesinde, genelde insanlara her şeye izin veren özgür yazılım "
+"lisansları yerine, GNU GPL gibi <a href=\"/copyleft/copyleft.html"
+"\">copyleft</a> lisanslarını kullanmalarını öneriyoruz. Biz, copyleft "
+"olmayan lisanslara karşı sert tartışmalara girmiyoruz; aslında, bu "
+"yazılımları ara sıra özel durumlar için öneriyoruz&mdash; ancak bu "
+"lisansların savunucuları <acronym title=\"Genel Kamu Lisansı\">GPL</"
+"acronym>'ye karşı sert bir tartışmaya giriyor."
+
+#. type: Content of: <p>
+msgid ""
+"In one such argument, a person stated that his use of one of the BSD "
+"licenses was an &ldquo;act of humility&rdquo;: &ldquo;I ask nothing of those "
+"who use my code, except to credit me.&rdquo; It is rather a stretch to "
+"describe a legal demand for credit as &ldquo;humility&rdquo;, but there is a "
+"deeper point to be considered here."
+msgstr ""
+"Bu tartışmalardan birinde, birisi, BSD lisanslarını kullanmasının &ldquo;"
+"alçakgönüllü bir davranış&rdquo; olduğunu belirtmişti. &ldquo;Benim yazdığım "
+"kodları kullananlardan, bana itibar etmeleri dışında bir şey beklemiyorum."
+"&rdquo; İtibar konusunda yasal bir istemi &ldquo;alçakgönüllülük&rdquo; "
+"olarak açıklamak oldukça abartılı, fakat burada, dikkat edilmesi gereken "
+"daha derin bir nokta var."
+
+#. type: Content of: <p>
+msgid ""
+"Humility is disregarding your own self-interest, but the interest you "
+"abandon when you don't copyleft your code is much bigger than your own.  "
+"Someone who uses your code in a nonfree program is denying freedom to "
+"others, so if you allow that, you're failing to defend those people's "
+"freedom.  When it comes to defending everyone's freedom, to lie down and do "
+"nothing is an act of weakness, not humility."
+msgstr ""
+"Alçak gönüllülük, kendi çıkarlarınızdan vazgeçmektir, ancak siz ve sizin "
+"kodunuzu kullanan kişiler, kodunuz için kullandığınız özgür yazılım lisansı "
+"tercihinden etkilenen yegâne kişiler değilsiniz. Sizin kodlarınızı, özgür "
+"olmayan bir programda kullanan kişi, diğerlerinin özgürlüğünü reddetmeye "
+"çalışıyordur ve siz, onun bunu yapmasına izin verirseniz, diğerlerinin "
+"özgürlüklerini korumakta başarısız olursunuz. Söz konusu, diğerlerinin "
+"haklarını savunmak olduğunda, yatıp uzanmak ve hiçbir şey yapmamak alçak "
+"gönüllülük değil zayıflık göstergesidir."
+
+#. type: Content of: <p>
+msgid ""
+"Releasing your code under <a href=\"/licenses/bsd.html\"> one of the BSD "
+"licenses</a>, or some other lax, permissive license, is not doing wrong; the "
+"program is still free software, and still a contribution to our community.  "
+"But it is weak, and in most cases it is not the best way to promote users' "
+"freedom to share and change software."
+msgstr ""
+"Kodlarınızı BSD lisanslarının veya başka aşırı hoşgörülü copyleft olmayan "
+"lisansların altında yayımlamak, yanlış yapmak değildir; program hala özgür "
+"bir yazılımdır ve hala bizim topluluğumuz için bir katkıdır. Ancak zayıftır "
+"ve çoğu durumda kullanıcıların yazılımı paylaşma ve değiştirme "
+"özgürlüklerini ilerletmek adına en iyi yol değildir."
+
+#. type: Content of: <p>
+msgid ""
+"Here are specific examples of nonfree versions of free programs that have "
+"done major harm to the free world."
+msgstr ""
+"İşte, özgür programların özgür olmayan sürümlerinin özgür dünyaya yaptığı "
+"büyük zararların bazı örnekleri."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Those who released LLVM under a non-copyleft license <a href=\"https://www."
+"anandtech.com/show/5238/nvidia-releases-cuda-41-cuda-goes-llvm-and-open-"
+"source-kind-of\">enabled nVidia to release a high-quality nonfree compiler</"
+"a> for its GPUs, while keeping its instruction set secret.  Thus, we can't "
+"write a free compiler for that platform without a big reverse engineering "
+"job.  The nonfree adaptation of LLVM is the only compiler for those "
+"machines, and is likely to remain so."
+msgstr ""
+"LLVM'yi copyleft olmayan bir lisans altında yayınlayanlar nVidia'nın kendi "
+"GPU'ları için, komut kümelerini gizli tutarken, <a href=\"https://www."
+"anandtech.com/show/5238/nvidia-releases-cuda-41-cuda-goes-llvm-and-open-"
+"source-kind-of\">yüksek kalitede özgür olmayan bir derleyici yayınlamasını "
+"mümkün kıldılar</a>. Böylece, bu platform için, büyük bir tersine "
+"mühendislik işine girişmeden özgür bir derleyici yazamıyoruz. LLVM'nin özgür "
+"olmayan uyarlaması bu platformlar için yegane derleyici ve öyle kalacak gibi "
+"gözüküyor."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Intel uses <a href=\"http://www.tomshardware.com/news/google-removing-minix-"
+"management-engine-intel,35876.html\">a proprietary version of the MINIX "
+"system</a>, which is free but not copylefted, in the Management Engine back "
+"door in its modern processors."
+msgstr ""
+"Intel, modern işlemcilerinin Yönetim Moturu arka kapısında <a href=\"http://"
+"www.tomshardware.com/news/google-removing-minix-management-engine-"
+"intel,35876.html\">MINIX sisteminin özel mülk bir sürümünü</a> kullanıyor, "
+"MINIX özgürdür ama copyleft değildir."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilir."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2003, 2007, 2008, 2013, 2017, 2018 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 International "
+"License</a> ile lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"\n"
+"<li>\n"
+"Fatma Ekşioğlu\n"
+"<a href=\"mailto:fatma.eksioglu@gmail.com\">&lt;fatma.eksioglu@gmail.com&gt;"
+"</a>,\n"
+"2007.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"Sönmez Kartal\n"
+"<a href=\"mailto:sz@szk0.org\">&lt;sz@szk0.org&gt;</a>,\n"
+"2008.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"<a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a>\n"
+"<a href=\"mailto:asd@pittle.org\">&lt;asd@pittle.org&gt;</a>,\n"
+"2008.\n"
+"</li>\n"
+"\n"
+"</ul>"
+
+#. timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "This page is licensed under a <a rel=\"license\" href=\"http://"
+#~ "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+#~ "NoDerivs 3.0 United States License</a>."
+#~ msgstr ""
+#~ "Bu sayfa a <a rel=\"license\" href=\"http://creativecommons.org/licenses/"
+#~ "by-nd/3.0/us/deed.tr\">Creative Commons Attribution-NoDerivs 3.0 United "
+#~ "States License</a> ile lisanslanmıştır."
