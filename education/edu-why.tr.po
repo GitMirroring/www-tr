@@ -1,0 +1,316 @@
+# Turkish translation of https://www.gnu.org/education/edu-why.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# C.Y. <cyildizli@autistici.org>, 2019.
+# T. E. Kalayci <tekrei@fsf.org>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-why.html\n"
+"POT-Creation-Date: 2018-01-01 05:56+0000\n"
+"PO-Revision-Date: 2019-06-18 20:33+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Why Educational Institutions Should Use and Teach Free Software - GNU "
+"Project - Free Software Foundation"
+msgstr ""
+"Eğitim Kurumları Neden Özgür Yazılım Kullanmalı ve Öğretmeli? - GNU Projesi "
+"- Özgür Yazılım Vakfı"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
+"education/education.html#indepth\">In Depth</a> &rarr; Why Educational "
+"Institutions Should Use and Teach Free Software"
+msgstr ""
+"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
+"education.html#indepth\">Ayrıntılı</a> &rarr; Eğitim Kurumları Neden Özgür "
+"Yazılım Kullanmalı ve Öğretmeli"
+
+#. type: Content of: <h2>
+msgid "Why Educational Institutions Should Use and Teach Free Software"
+msgstr "Eğitim Kurumları Neden Özgür Yazılım Kullanmalı ve Öğretmeli"
+
+#. type: Content of: <div><p>
+msgid ""
+"<strong>\"Schools should teach their students to be citizens of a strong, "
+"capable, independent and free society.\"</strong>"
+msgstr ""
+"<strong>\"Okullar, öğrencilerine güçlü, yetenekli, bağımsız ve özgür bir "
+"toplumun yurttaşı olmayı öğretmelidir.\"</strong>"
+
+#. type: Content of: <p>
+msgid ""
+"These are the main reasons why universities and schools of all levels should "
+"use exclusively Free Software."
+msgstr ""
+"Bunlar üniversitelerin ve her düzeyden okulun neden sadece Özgür Yazılım "
+"kullanması gerektiğinin nedenleridir."
+
+#. type: Content of: <h3>
+msgid "Sharing"
+msgstr "Paylaşmak"
+
+#. type: Content of: <p>
+msgid ""
+"Schools should teach the value of sharing by setting an example. Free "
+"software supports education by allowing the sharing of knowledge and tools:"
+msgstr ""
+"Okullar paylaşmanın değerini öğretmek için örnek olmalıdır. Özgür yazılım, "
+"eğitimi, bilginin ve araçların paylaşımına izin vererek destekler:"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<strong>Knowledge</strong>. Many young students have a talent for "
+"programming; they are fascinated with computers and eager to learn how their "
+"systems work. With proprietary software, this information is a secret so "
+"teachers have no way of making it available to their students. But if it is "
+"Free Software, the teacher can explain the basic subject and then hand out "
+"the source code for the student to read and learn."
+msgstr ""
+"<strong>Bilgi</strong>. Birçok genç öğrencinin programlamaya yeteneği "
+"vardır; bilgisayarlar tarafından büyülenmiş ve sistemlerinin nasıl "
+"çalıştığını öğrenmeye heveslidirler. Özel mülkiyet yazılımlarda, bu bilgi "
+"gizli olduğundan dolayı öğretmenler bunu öğrencilerine erişilebilir hale "
+"getirmenin yolunu bulamaz. Ancak eğer Özgür Yazılım olursa, öğretmen basit "
+"bir konuyu açıklayabilir ve daha sonra da öğrenciye okuyup öğrenmesi için "
+"kaynak kodunu dağıtabilir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<strong>Tools</strong>. Teachers can hand out to students copies of the "
+"programs they use in the classroom so that they can use them at home. With "
+"Free Software, copying is not only authorized, it is encouraged."
+msgstr ""
+"<strong>Araçlar</strong>. Öğretmenler sınıfta kullandıkları programların "
+"kopyalarını evde kullanabilmeleri için öğrencilere dağıtabilir. Özgür "
+"Yazılım, kopyalamaya izinli verildiği gibi, teşvik de edilmektedir."
+
+#. type: Content of: <h3>
+msgid "Social Responsibility"
+msgstr "Sosyal Sorumluluk"
+
+#. type: Content of: <p>
+msgid ""
+"Computing has become an essential part of everyday life. Digital technology "
+"is transforming society very quickly, and schools have an influence on the "
+"future of society. Their mission is to get students ready to participate in "
+"a free digital society by teaching them the skills to make it easy for them "
+"to take control of their own lives.  Software should not be under the power "
+"of a software developer who unilaterally makes decisions that nobody else "
+"can change. Educational institutions should not allow proprietary software "
+"companies to impose their power on the rest of society and its future."
+msgstr ""
+"Bilgisayarlar günlük hayatın önemli bir parçası haline geldi. Dijital "
+"teknoloji toplumu çok hızlı bir şekilde dönüştürdü ve okulların da toplumun "
+"geleceği üzerinde etkisi var. Görevleri öğrencilere kendi hayatlarının "
+"denetimini kolaylıkla ele alabilmelerini sağlayacak becerileri öğreterek "
+"onların özgür dijital toplumda yer almasını sağlamaktır. Yazılım kendisi "
+"dışında kimsenin değişiklik yapamayacağı tek bir yazılım geliştiricisinin "
+"yetkisinde kalmamalı. Eğitim kurumları özel mülkiyet yazılım üreten "
+"şirketlerin iktidarlarını toplumun tümüne ve geleceğe dikte ettirmesine izin "
+"vermemelidir."
+
+#. type: Content of: <h3>
+msgid "Independence"
+msgstr "Bağımsızlık"
+
+#. type: Content of: <p>
+msgid ""
+"Schools have an ethical responsibility to teach strength, not dependency on "
+"a single product or a specific powerful company. Furthermore, by choosing to "
+"use Free Software, the school itself gains independence from any commercial "
+"interests and it avoids vendor lock-in."
+msgstr ""
+"Okullar tek bir ürüne veya belirli bir güçlü şirkete bağlılığı değil, "
+"güçlülüğü öğretmek konusunda ahlaki bir sorumluluk almalıdır. Dahası, okul "
+"Özgür Yazılım kullanmayı seçerek, ticari çıkarlardan ve bir satıcıya "
+"bağımlılıktan karşı bağımsızlığını kazanır."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Proprietary software companies use schools and universities as a springboard "
+"to reach users and thus impose their software on society as a whole. They "
+"offer discounts, or even gratis copies of their proprietary programs to "
+"educational institutions, so that students will learn to use them and become "
+"dependent on them. After these students graduate, neither they nor their "
+"future employers will be offered discounted copies.  Essentially, what these "
+"companies are doing is they are recruiting schools and universities into "
+"agents to lead people to permanent lifelong dependency."
+msgstr ""
+"Özel mülkiyet yazılımlar okulları ve üniversiteleri, kullanıcılara ulaşmak "
+"için bir sıçrama tahtası olarak kullanır ve böylece yazılımlarını bir bütün "
+"olarak topluma dayatır. Özel mülkiyet programların indirimli veya ücretsiz "
+"kopyalarını eğitim kurumlarına sunarlar, böylece öğrenciler onları "
+"kullanmayı öğrenip onlara bağımlı kalır. Bu öğrenciler mezun olduklarında, "
+"gelecekteki işverenlerinin hiçbiri onlara bu programların indirimli "
+"kopyalarını sunmayacaktır. Temel olarak, bu şirketlerin yaptığı şey, "
+"insanları kalıcı olarak yaşam boyu bağımlılığa yönlendirmek için okullara ve "
+"üniversitelere aracılık yaptırmaktır."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Free software licenses do not expire, which means that once Free Software is "
+"adopted, institutions remain independent from the vendor.  Moreover, Free "
+"Software licenses grant users the rights not only to use the software as "
+"they wish, to copy it and distribute it, but also to modify it in order to "
+"meet their own needs. Therefore, if institutions eventually wish to "
+"implement a particular function in a piece of software, they can engage the "
+"services of any developer to accomplish the task, independently from the "
+"original vendor."
+msgstr ""
+"Özgür yazılım lisansları sona ermez, bu da Özgür Yazılım bir kez kabul "
+"edildiği zaman, kurumların satıcılardan bağımsız kalması demektir. Dahası, "
+"Özgür Yazılım yalnızca yazılımı istedikleri gibi kullanma, kopyalama ve "
+"dağıtma olanağı vermez, aynı zamanda kendi ihtiyaçlarına göre değiştirme "
+"olanağı da sunar. Bundan ötürü, eğer kurumlar sonunda bir yazılımda belirli "
+"bir işlevi uygulamak isterlerse, asıl satıcıdan bağımsız olarak, bu görevi "
+"yerine getirmek için herhangi bir geliştiricinin hizmetlerini "
+"kullanabilirler."
+
+#. type: Content of: <h3>
+msgid "Learning"
+msgstr "Öğrenme"
+
+#. type: Content of: <p>
+msgid ""
+"When deciding where they will study, more and more students are considering "
+"whether a university teaches computer science and software development using "
+"Free Software. Free software means that students are free to study how the "
+"programs work and to learn how to adapt them for their own needs. Learning "
+"about Free Software also helps in studying software development ethics and "
+"professional practice."
+msgstr ""
+"Nerede okuyacaklarına karar verirken, gittikçe daha fazla sayıda öğrenci bir "
+"üniversitenin Özgür Yazılım kullanarak bilgisayar bilimi ve yazılım "
+"geliştirme dersleri verip vermediğini dikkate alıyor. Özgür yazılım, "
+"öğrencilerin özgür bir biçimde programlarının nasıl çalışacağını ve "
+"programları kendi ihtiyaçlarına göre nasıl uyarlayacağını belirlemesi "
+"demektir. Özgür Yazılım'ı öğrenmek ayrıca yazılım geliştirme etiği ve "
+"mesleki uygulamaları öğrenmeye de yardımcı olur."
+
+#. type: Content of: <h3>
+msgid "Saving"
+msgstr "Tasarruf"
+
+#. type: Content of: <p>
+msgid ""
+"This is an obvious advantage that will appeal immediately to many school "
+"administrators, but it is a marginal benefit. The main point of this aspect "
+"is that by being authorized to distribute copies of the programs at little "
+"or no cost, schools can actually aid families facing financial issues, thus "
+"promoting fairness and equal opportunities of learning among students."
+msgstr ""
+"Bu, hemen birçok okul yöneticisine hitap edecek açık bir avantajdır, ancak "
+"marjinal bir faydadır. Bu hususun ana noktası, okulların program kopyalarını "
+"çok az veya hiç bir bedel ödemeden dağıtma yetkisine sahip olarak, finansal "
+"sorunlarla karşı karşıya kalan ailelere yardım edebilmesi, böylece "
+"öğrenciler arasında adaletin ve eğitimde fırsat eşitliğinin teşvik "
+"edilmesidir."
+
+#. type: Content of: <h3>
+msgid "Quality"
+msgstr "Kalite"
+
+#. type: Content of: <p>
+msgid ""
+"Stable, secure and easily installed Free Software solutions are available "
+"for education already. In any case, excellence of performance is a secondary "
+"benefit; the ultimate goal is freedom for computer users."
+msgstr ""
+"Eğitim için halihazırda kararlı, güvenli ve kolay kurulumlu Özgür Yazılım "
+"çözümleri mevcuttur. Her açıdan, mükemmel performans ikincil bir yarardır; "
+"nihai amaç bilgisayar kullanıcılarının özgürlüğüdür."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2011, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a> ile lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"\n"
+"<li>\n"
+"C.Y. <a href=\"mailto:cyildizli@autistici.org\">&lt;cyildizli@autistici."
+"org&gt;</a>, 2019.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"T. E. Kalayci, 2019.\n"
+"</li>\n"
+"\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

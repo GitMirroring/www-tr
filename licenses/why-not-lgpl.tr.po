@@ -1,0 +1,259 @@
+# Turkish translation of https://www.gnu.org/licenses/why-not-lgpl.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Umutcan OLĞUN <birsenesen4@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: why-not-lgpl.html\n"
+"POT-Creation-Date: 2016-11-13 05:55+0000\n"
+"PO-Revision-Date: 2019-04-05 05:31+0300\n"
+"Last-Translator: Umutcan OLĞUN <birsenesen4@gmail.com>\n"
+"Language-Team: Turkish <web-translators@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid ""
+"Why you shouldn't use the Lesser GPL for your next library - GNU Project - "
+"Free Software Foundation"
+msgstr ""
+"Bir Sonraki Kütüphaneniz İçin Neden Kısıtlı GPL Kullanmamalısınız? - GNU "
+"Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Why you shouldn't use the Lesser GPL for your next library"
+msgstr "Bir Sonraki Kütüphaneniz İçin Neden Kısıtlı GPL Kullanmamalısınız?"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"See <a href=\"/licenses/license-recommendations.html\">&ldquo;How to choose "
+"a license for your own work&rdquo;</a> for general recommendations about "
+"choosing a license for your work."
+msgstr ""
+"Çalışmanız için bir lisans seçmeye ilişkin genel öneriler için bkz. <a href="
+"\"/licenses/license-recommendations.html\">&ldquo;“Kendi Çalışmanız İçin Bir "
+"Lisans Nasıl Seçilir?”&rdquo;</a>."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project has two principal licenses to use for libraries.  One is the "
+"GNU Lesser GPL; the other is the ordinary GNU GPL.  The choice of license "
+"makes a big difference: using the Lesser GPL permits use of the library in "
+"proprietary programs; using the ordinary GPL for a library makes it "
+"available only for free programs."
+msgstr ""
+"GNU Projesi, kütüphaneler için kullanılacak iki temel lisansa sahiptir. Biri "
+"GNU Kısıtlı GPL'dir; diğeri sıradan GNU GPL'dir. Lisans seçimi büyük bir "
+"fark yaratır: Kısıtlı GPL'nin kullanılması, sahipli programlarda "
+"kütüphanenin kullanımına izin verir; bir kütüphane için normal GPL'yi "
+"kullanmak sadece özgür programlar için kullanılabilir hâle getirir."
+
+#. type: Content of: <p>
+msgid ""
+"Which license is best for a given library is a matter of strategy, and it "
+"depends on the details of the situation.  At present, most GNU libraries are "
+"covered by the Lesser GPL, and that means we are using only one of these two "
+"strategies, neglecting the other.  So we are now seeking more libraries to "
+"release <strong>under the ordinary GPL</strong>."
+msgstr ""
+"Belirli bir kütüphane için hangi lisansın en iyi olduğu bir strateji "
+"meselesidir ve durumun ayrıntılarına bağlıdır. Şu anda çoğu GNU kütüphanesi "
+"Kısıtlı GPL tarafından kapsanmaktadır ve bu, bu iki stratejiden sadece "
+"birini kullanıp diğerini ihmal ettiğimiz anlamına gelmektedir. Şimdi "
+"<strong>sıradan GPL</strong> altında yayımlanacak daha fazla kütüphane "
+"arıyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"Proprietary software developers have the advantage of money; free software "
+"developers need to make advantages for each other.  Using the ordinary GPL "
+"for a library gives free software developers an advantage over proprietary "
+"developers: a library that they can use, while proprietary developers cannot "
+"use it."
+msgstr ""
+"Sahipli yazılım geliştiricileri para avantajına sahiptir: Özgür yazılım "
+"geliştiricilerin birbirleri için avantaj sağlamaları gerekmektedir. Bir "
+"kütüphane için sıradan GPL'yi kullanmak, özgür yazılım geliştiricilere "
+"sahipli geliştiricilere göre bir avantaj sağlar: Sahipli yazılım "
+"geliştiricileri bunu kullanamazken özgür yazılım geliştiricilerinin "
+"kullanabilecekleri bir kütüphanedir."
+
+#. type: Content of: <p>
+msgid ""
+"Using the ordinary GPL is not advantageous for every library.  There are "
+"reasons that can make it better to use the Lesser GPL in certain cases.  The "
+"most common case is when a free library's features are readily available for "
+"proprietary software through other libraries.  In that case, the library "
+"cannot give free software any particular advantage, so it is better to use "
+"the Lesser GPL for that library."
+msgstr ""
+"Sıradan GPL kullanmak her kütüphane için avantajlı değildir. Belirli "
+"durumlarda Kısıtlı GPL kullanmanın daha iyi hâle getirebilecek nedenleri "
+"vardır. En yaygın durum, özgür bir kütüphanenin özelliklerinin diğer "
+"kütüphaneler aracılığıyla sahipli yazılımlar için hazır bulunmasıdır. Bu "
+"durumda kütüphane herhangi bir özel avantaj sağlamaz, bu yüzden bu kitaplık "
+"için Kısıtlı GPL kullanmak daha iyidir."
+
+#. type: Content of: <p>
+msgid ""
+"This is why we used the Lesser GPL for the GNU C library.  After all, there "
+"are plenty of other C libraries; using the GPL for ours would have driven "
+"proprietary software developers to use another&mdash;no problem for them, "
+"only for us."
+msgstr ""
+"Bu yüzden GNU C kütüphanesi için Kısıtlı GPL kullandık. Sonuçta başka C "
+"kütüphaneleri de var: Bizim için GPL'yi kullanmak, sahipli yazılım "
+"geliştiricilerini bir başkasını kullanmaya yönlendirmiş olacaktı&mdash;onlar "
+"için sorun değil, sadece bizim için."
+
+#. type: Content of: <p>
+msgid ""
+"However, when a library provides a significant unique capability, like GNU "
+"Readline, that's a horse of a different color.  The Readline library "
+"implements input editing and history for interactive programs, and that's a "
+"facility not generally available elsewhere.  Releasing it under the GPL and "
+"limiting its use to free programs gives our community a real boost.  At "
+"least one application program is free software today specifically because "
+"that was necessary for using Readline."
+msgstr ""
+"Bununla birlikte bir kütüphane, GNU Readline gibi önemli bir benzersiz "
+"yetenek sağladığında bu farklı tamamıyla farklı bir konudur. Readline "
+"kitaplığı, etkileşimli programlar için giriş düzenleme ve geçmişe sahiptir "
+"ve bu, başka yerlerde genel olarak bulunmayan bir olanaktır. GPL kapsamında "
+"yayımlamak ve kullanımını özgür programlarla sınırlamak topluluğumuza gerçek "
+"bir destek sağlıyor. En az bir uygulama programı bugün özgür bir yazılımdır "
+"çünkü bu özellikle Readline'nin kullanımı için gerekliydi."
+
+#. type: Content of: <p>
+msgid ""
+"If we amass a collection of powerful GPL-covered libraries that have no "
+"parallel available to proprietary software, they will provide a range of "
+"useful modules to serve as building blocks in new free programs.  This will "
+"be a significant advantage for further free software development, and some "
+"projects will decide to make software free in order to use these libraries.  "
+"University projects can easily be influenced; nowadays, as companies begin "
+"to consider making software free, even some commercial projects can be "
+"influenced in this way."
+msgstr ""
+"Sahipli yazılımlar için herhangi bir paralel olmayan güçlü GPL kaplı "
+"kütüphanelerden oluşan bir koleksiyon toplarsak yeni özgür programlarda yapı "
+"taşları olarak görev yapacak bir dizi faydalı modül sunacaklardır. Bu, daha "
+"özgür yazılım geliştirme için önemli bir avantaj olacaktır ve bazı projeler "
+"bu kütüphaneleri kullanmak için yazılımı özgür bırakmaya karar verecektir. "
+"Üniversite projeleri kolayca etkilenebilir: Günümüzde firmalar, yazılım "
+"yapma özgürlüğüne kavuşmaya başladıkça bazı ticari projeler de bu şekilde "
+"etkilenebilir."
+
+#. type: Content of: <p>
+msgid ""
+"Proprietary software developers, seeking to deny the free competition an "
+"important advantage, will try to convince authors not to contribute "
+"libraries to the GPL-covered collection.  For example, they may appeal to "
+"the ego, promising &ldquo;more users for this library&rdquo; if we let them "
+"use the code in proprietary software products.  Popularity is tempting, and "
+"it is easy for a library developer to rationalize the idea that boosting the "
+"popularity of that one library is what the community needs above all."
+msgstr ""
+"Serbest rekabeti önemli bir avantajla inkâr etmek isteyen sahipli yazılım "
+"geliştiricileri, yazarları GPL kaplı koleksiyona kütüphanelere katkıda "
+"bulunmama konusunda ikna etmeye çalışacaklardır. Örneğin; kodu sahipli "
+"yazılım ürünlerinde kullanmasına izin verirsek “bu kütüphane için daha fazla "
+"kullanıcı” vaat ederek egoya hitap edebilirler. Popülerlik caziptir ve bir "
+"kütüphane geliştiricisinin bir kütüphanenin popülaritesini artırmanın "
+"toplumun her şeyden önce ihtiyaç duyduğu şey olduğu fikrini "
+"rasyonelleştirmesi kolaydır."
+
+#. type: Content of: <p>
+msgid ""
+"But we should not listen to these temptations, because we can achieve much "
+"more if we stand together.  We free software developers should support one "
+"another.  By releasing libraries that are limited to free software only, we "
+"can help each other's free software packages outdo the proprietary "
+"counterparts.  The whole free software movement will have more popularity, "
+"because free software as a whole will stack up better against the "
+"competition."
+msgstr ""
+"Ama biz bu cazibeleri dinlememeliyiz çünkü eğer beraber olursak çok daha "
+"fazlasını başarabiliriz. Özgür yazılım geliştiricileri birbirimizi "
+"desteklemeliyiz. Yalnızca özgür yazılımla sınırlı olan kütüphaneleri "
+"yayımlayarak birbirlerinin özgür yazılım paketlerinin mülkiyetindeki "
+"muadillerinin dışına çıkmasına yardımcı olabiliriz. Tüm özgür yazılım "
+"hareketi daha popüler olacak çünkü bir bütün olarak özgür yazılımlar "
+"rekabete karşı daha iyi bir şekilde toplanacak."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilir."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1999, 2007, 2013, 2014, 2015, 2016 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1999, 2007, 2013, 2014, 2015, 2016 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu eser <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\"> Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> ile lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr " "
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

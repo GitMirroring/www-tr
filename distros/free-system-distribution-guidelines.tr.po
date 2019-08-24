@@ -1,0 +1,722 @@
+# Turkish translation of https://www.gnu.org/distros/free-system-distribution-guidelines.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Umutcan OLĞUN <birsenesen4@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: free-system-distribution-guidelines.html\n"
+"POT-Creation-Date: 2018-09-12 16:56+0000\n"
+"PO-Revision-Date: 2019-04-05 06:46+0300\n"
+"Last-Translator: Umutcan OLĞUN <birsenesen4@gmail.com>\n"
+"Language-Team: Turkish <web-translators@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <title>
+msgid ""
+"Free System Distribution Guidelines (GNU FSDG) - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Özgür Sistem Dağıtım Yönergeleri (GNU FSDG) - GNU Projesi - Özgür Yazılım "
+"Vakfı"
+
+#. type: Attribute 'title' of: <link>
+msgid "Free GNU/Linux distributions"
+msgstr "Özgür GNU/Linux Dağıtımları"
+
+#. type: Content of: <h2>
+msgid "Free System Distribution Guidelines (GNU FSDG)"
+msgstr "Özgür Sistem Dağıtım Yönergeleri (GNU FSDG)"
+
+#. type: Content of: <h3>
+msgid "Introduction"
+msgstr "Giriş"
+
+#. type: Content of: <p>
+msgid ""
+"The purpose of these guidelines is to explain what it means for an "
+"installable system distribution (such as a <a href=\"/gnu/linux-and-gnu.html"
+"\">GNU/Linux</a> distribution) to qualify as <a href=\"/philosophy/free-sw."
+"html\">free</a> (libre), and help distribution developers make their "
+"distributions qualify."
+msgstr ""
+"Bu yönergelerin amacı, kurulabilir bir sistem dağıtımı (<a href=\"/gnu/linux-"
+"and-gnu.html\">GNU/Linux</a> dağıtımı gibi) için <a href=\"/philosophy/free-"
+"sw.html\">özgür</a> (libre) olarak nitelendirilmesinin ve dağıtım "
+"geliştiricilerinin dağıtımlarının yeterlilik kazanmasına yardımcı olmak için "
+"ne anlama geldiğini açıklamaktır."
+
+#. type: Content of: <p>
+msgid ""
+"These guidelines are not complete.  We have mentioned the issues we are "
+"aware of now, but we're sure there are more.  We will add them when we come "
+"across them."
+msgstr ""
+"Bu yönergeler eksiksiz değil. Şu an farkında olduğumuz konulardan "
+"bahsetmiştik ancak daha fazla olduğundan eminiz. Onlarla karşılaştığımızda "
+"onları ekleyeceğiz."
+
+#. type: Content of: <p>
+msgid ""
+"We would like to thank the Fedora Project for their help in focusing these "
+"policies, and allowing us to use their own distribution license guidelines "
+"as a basis for this document."
+msgstr ""
+"Fedora Projesi’ne bu politikalara odaklanma ve bu belge için kendi dağıtım "
+"lisansı kurallarını kullanmamıza izin veren yardımlarından dolayı teşekkür "
+"ederiz."
+
+#. type: Content of: <h3>
+msgid "Complete Distros"
+msgstr "Komple Dağıtımlar"
+
+#. type: Content of: <p>
+msgid ""
+"Our list of distributions is a guide for systems you can install in a "
+"computer.  Therefore, it only includes distributions that are complete in "
+"themselves and ready to use.  If a distribution is incomplete &mdash; if it "
+"requires further development, or presupposes installing other software as "
+"well &mdash; then it is not listed here, even if it is free software."
+msgstr ""
+"Dağıtım listemiz bir bilgisayara kurabileceğiniz sistemler için bir "
+"kılavuzdur. Bu nedenle, sadece kendi içinde eksiksiz ve kullanıma hazır olan "
+"dağıtımları içerir. Bir dağıtım eksikse (daha fazla geliştirme "
+"gerektiriyorsa veya başka yazılımlar da yüklemeyi gerektirirse) özgür "
+"yazılım olsa bile burada listelenmez."
+
+#. type: Content of: <p>
+msgid ""
+"An exception to this requirement and to the self-hosting requirement above "
+"is for <em>small system distributions</em>, which are distros designed for "
+"devices with limited resources, like a wireless router for example. Free "
+"small system distributions do not need to be self-hosting or complete, "
+"because it is impractical to do development on such a system, but it must be "
+"developable and buildable on top of a free complete system distribution from "
+"our list of distributions, perhaps with the aid of free tools distributed "
+"alongside the small system distribution itself."
+msgstr ""
+"Bu gereksinimin istisnası ve yukarıdaki kendi kendine barındırma gereksinimi "
+"örneğin; kablosuz yönlendirici gibi sınırlı kaynaklara sahip cihazlar için "
+"tasarlanmış dağıtımlar olan <em>küçük sistem dağıtımları</em> içindir. Böyle "
+"bir sistem üzerinde geliştirme yapmak pratik değildir çünkü özgür küçük "
+"sistem dağıtımları, kendi kendine barındırma veya tam olması gerekmez ama "
+"belki de küçük sistem dağıtımının kendisi yanında dağıtılan özgür araçlar "
+"yardımıyla dağıtımlar listemizden özgür bir tam sistem dağıtımının üstünde "
+"geliştirilebilir ve inşa edilebilir olmalıdır."
+
+#. type: Content of: <h3>
+msgid "License Rules"
+msgstr "Lisans Kuralları"
+
+#. type: Content of: <p>
+msgid ""
+"&ldquo;Information for practical use&rdquo; includes software, "
+"documentation, fonts, and other data that has direct functional "
+"applications.  It does not include artistic works that have an aesthetic "
+"(rather than functional) purpose, or statements of opinion or judgment."
+msgstr ""
+"&ldquo;Pratik kullanım için bilgiler&rdquo;; yazılımları, belgeleri, yazı "
+"tiplerini ve doğrudan işlevsel uygulamalara sahip diğer verileri içerir. "
+"Estetik (işlevsellikten ziyade) bir amaca ya da görüş ya da muhakeme "
+"ifadelerine sahip sanatsal eserleri içermez."
+
+#. type: Content of: <p>
+msgid ""
+"All information for practical use in a free distribution must be available "
+"in source form.  (&ldquo;Source&rdquo; means the form of the information "
+"that is preferred for making changes to it.)"
+msgstr ""
+"Özgür dağıtımda pratik kullanım için tüm bilgiler kaynak formunda mevcut "
+"olmalıdır. (&ldquo;Kaynak&rdquo;, değişiklik yapmak için tercih edilen "
+"bilgilerin şeklidir.)"
+
+#. type: Content of: <p>
+msgid ""
+"The information, and the source, must be provided under an appropriate <a "
+"href=\"/philosophy/free-sw.html\">free license</a>.  We evaluate specific "
+"licenses and list our determinations in <a class=\"reference\" href=\"/"
+"licenses/license-list.html\">our license list</a>, with separate sections "
+"for licenses that are suitable for software, documentation, fonts, and other "
+"useful works.  If such a work is released under a disjunction of licenses, "
+"the work is free as long as at least one of its licenses is free; the system "
+"developers should follow the terms of the applicable free license(s) when "
+"they distribute and/or modify it."
+msgstr ""
+"Bilgi ve kaynak, uygun bir <a href=\"/philosophy/free-sw.html\">özgür "
+"lisans</a> altında sağlanmalıdır. Yazılım, dokümantasyon, yazı tipleri ve "
+"diğer yararlı işler için uygun lisanslar için ayrı bölümlerle belirli "
+"lisansları değerlendirip <a class=\"reference\" href=\"/licenses/license-"
+"list.html\">lisans listemizdeki</a> tespitleri listeliyoruz. Böyle bir "
+"çalışma lisansların bir arıza altında yayımlanırsa lisanslarından en az biri "
+"özgür olduğu sürece iş özgürdür: Sistem geliştiricileri, dağıttıklarında "
+"ve / veya değiştirdiklerinde geçerli özgür lisansın / lisansların şartlarını "
+"takip etmelidir."
+
+#. type: Content of: <p>
+msgid ""
+"A free system distribution must not steer users towards obtaining any "
+"nonfree information for practical use, or encourage them to do so.  The "
+"system should have no repositories for nonfree software and no specific "
+"recipes for installation of particular nonfree programs. Nor should the "
+"distribution refer to third-party repositories that are not committed to "
+"only including free software; even if they only have free software today, "
+"that may not be true tomorrow.  Programs in the system should not suggest "
+"installing nonfree plugins, documentation, and so on."
+msgstr ""
+"Özgür bir sistem dağıtımı, kullanıcıları pratik kullanım için özgür olmayan "
+"herhangi bir bilgi edinme yönünde yönlendirmemeli veya bunları yapmaya "
+"teşvik etmemelidir. Sistemin özgür olmayan yazılım için depoları ve belirli "
+"özgür olmayan programların kurulumu için özel tarifleri olmamalıdır. "
+"Dağıtım, yalnızca özgür yazılım da dâhil olmak üzere taahhüt edilmeyen "
+"üçüncü taraf depolarına başvurmamalıdır: Bugün sadece özgür yazılım olsa "
+"bile yarın doğru olmayabilir. Sistemdeki programlar; özgür olmayan "
+"eklentileri, belgeleri vb. yüklemeyi önermemelidir."
+
+#. type: Content of: <p>
+msgid ""
+"For instance, a free system distribution must not contain browsers that "
+"implement EME, the browser functionality designed to load DRM modules."
+msgstr ""
+"Örneğin; özgür bir sistem dağıtımı, DRM modüllerini yüklemek için "
+"tasarlanmış tarayıcı işlevselliği olan EME’yi uygulayan tarayıcıları "
+"içermemelidir."
+
+#. type: Content of: <p>
+msgid ""
+"A free system distribution should be self-hosting.  This means that you must "
+"be able to develop and build the system with tools that the system provides "
+"you.  As a result, a free system distribution cannot include free software "
+"that can only be built by using nonfree software."
+msgstr ""
+"Özgür bir sistem dağıtımı kendi kendini barındırmalıdır. Bu, sistemi "
+"sistemin size sağladığı araçlarla geliştirip kurabilmeniz gerektiği anlamına "
+"gelir. Sonuç olarak özgür bir sistem dağıtımı, yalnızca özgür olmayan "
+"yazılım kullanılarak oluşturulabilen özgür yazılımı içeremez."
+
+#. type: Content of: <p>
+msgid ""
+"There's a lot of code in most free system distributions today; the amount of "
+"effort it would take to audit it all directly is impractical for most "
+"teams.  In the past, some nonfree code has accidentally been included in "
+"free system distributions.  We don't de-list distributions because of this; "
+"instead, we only ask that a distribution's developers make a good faith "
+"effort to avoid including nonfree software, and commit themselves to "
+"removing such programs if any are discovered."
+msgstr ""
+"Bugün birçok özgür sistem dağıtımında çok fazla kod var: Tüm takımları "
+"denetlemek için harcayacağı çaba, çoğu takım için pratik değildir. Geçmişte "
+"özgür olmayan bazı kodlar, özgür sistem dağıtımlarına yanlışlıkla dâhil "
+"edilmiştir. Bu yüzden dağıtımları listeden çıkarmıyoruz: Bunun yerine "
+"yalnızca bir dağıtımın geliştiricilerinin özgür olmayan yazılımları dâhil "
+"etmekten kaçınmaları için iyi niyetli bir çaba göstermelerini ve "
+"keşfedildikleri takdirde bu tür programların kaldırılmasına kendilerini "
+"adamasını talep ediyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"Certain kinds of license situations merit special attention for people "
+"creating or considering free software distributions; those are discussed in "
+"the sections below."
+msgstr ""
+"Bazı lisans durumları, özgür yazılım dağıtımlarını oluşturan veya düşünen "
+"insanlar için özel dikkat gerektirir: Bunlar aşağıdaki bölümlerde "
+"tartışılmaktadır."
+
+#. type: Content of: <h3>
+msgid "Nonfree Firmware"
+msgstr "Özgür Olmayan Donanım Yazılımı (Nonfree Firmware)"
+
+#. type: Content of: <p>
+msgid ""
+"Some applications and drivers require firmware to function, and sometimes "
+"that firmware is distributed only in object code form, under a nonfree "
+"license.  We call these firmware programs &ldquo;blobs.&rdquo; On most GNU/"
+"Linux systems, you'll typically find these accompanying some drivers in the "
+"kernel Linux.  Such firmware should be removed from a free system "
+"distribution."
+msgstr ""
+"Bazı uygulamalar ve sürücüler, donanım yazılımının işlev görmesini "
+"gerektirir ve bazen donanım yazılımının yalnızca özgür olmayan bir lisans "
+"altında nesne kodu formunda dağıtılması gerekir. Biz bu  donanım yazılımları "
+"programlarına &ldquo;blob’lar&rdquo; diyoruz. Çoğu GNU/Linux sisteminde "
+"bunlar genellikle çekirdek Linux’ta bazı sürücüleri bulabilirsiniz. Bu tür "
+"donanım yazılımı, özgür bir sistem dağıtımından çıkarılmalıdır."
+
+#. type: Content of: <p>
+msgid ""
+"Blobs can take many forms.  Sometimes, they will be provided in separate "
+"files.  Other times, they may be incorporated into the source of the driver "
+"itself&mdash;for example, it could be encoded as a large array of numbers.  "
+"But no matter how it's encoded, any nonfree firmware needs to be removed "
+"from a free system."
+msgstr ""
+"Blob’lar birçok form alabilir. Bazen ayrı dosyalarda sağlanacaktır. Diğer "
+"zamanlarda sürücünün kaynağına dâhil edilebilirler&mdash;örneğin; çok sayıda "
+"sayı dizisi olarak kodlanabilir ancak nasıl kodlanmış olursa olsun özgür "
+"olmayan herhangi bir donanım yazılımının özgür bir sistemden çıkarılması "
+"gerekir."
+
+#. type: Content of: <p>
+msgid ""
+"(To be clear, not every array of numbers in a driver is firmware.  It's "
+"important to understand the purpose of the data before deciding whether or "
+"not it's appropriate for a free system.)"
+msgstr ""
+"(Açıkçası bir sürücüdeki her sayı dizisi (array of number) aygıt yazılımı "
+"(firmware) değildir. Özgür bir sistem için uygun olup olmadığına karar "
+"vermeden önce verilerin amacını anlamak önemlidir.)"
+
+#. type: Content of: <p>
+msgid ""
+"Brian Brazil, Jeff Moe, and Alexandre Oliva have developed a series of <a "
+"class=\"reference\" href=\"http://www.fsfla.org/svn/fsfla/software/linux-"
+"libre/scripts/\">scripts to remove nonfree firmware</a> from a stock version "
+"of the Linux kernel.  You may find them helpful if you would like to develop "
+"your own free GNU/Linux distribution&mdash;although we recommend joining "
+"development of an existing free distro rather than fragmenting effort by "
+"starting a new one.  The complete source for a blob-free version of the "
+"Linux kernel is also available; you can learn more about this project from "
+"the <a class=\"reference\" href=\"http://directory.fsf.org/project/linux/"
+"\">Free Software Directory</a>."
+msgstr ""
+"Brian Brazil, Jeff Moe ve Alexandre Oliva; Linux çekirdeğinin standart "
+"versiyonundan <a class=\"reference\" href=\"http://www.fsfla.org/svn/fsfla/"
+"software/linux-libre/scripts/\">özgür olmayan donanım yazılımını kaldırmak "
+"için bir dizi komut dosyası</a> geliştirdiler. Kendi özgür GNU/Linux "
+"dağıtımınızı geliştirmek isterseniz bunları yararlı bulabilirsiniz ancak "
+"yeni bir tane başlatarak çabayı bölmek yerine mevcut bir özgür dağıtımın "
+"geliştirilmesine katılmanızı öneririz. Linux çekirdeğinin blob’suz sürümü "
+"için tam kaynak da mevcuttur: <a class=\"reference\" href=\"http://directory."
+"fsf.org/project/linux/\">Özgür Yazılım Dizini’nden</a> bu proje hakkında "
+"daha fazla bilgi edinebilirsiniz."
+
+#. type: Content of: <h3>
+msgid "Non-functional Data"
+msgstr "Fonksiyonel Olmayan Veriler"
+
+#. type: Content of: <p>
+msgid ""
+"Data that isn't functional, that doesn't do a practical job, is more of an "
+"adornment to the system's software than a part of it.  Thus, we don't insist "
+"on the free license criteria for non-functional data.  It can be included in "
+"a free system distribution as long as its license gives you permission to "
+"copy and redistribute, both for commercial and non-commercial purposes.  For "
+"example, some game engines released under the GNU GPL have accompanying game "
+"information&mdash;a fictional world map, game graphics, and so on&mdash;"
+"released under such a verbatim-distribution license.  This kind of data can "
+"be part of a free system distribution, even though its license does not "
+"qualify as free, because it is non-functional."
+msgstr ""
+"İşlevsel olmayan, pratik bir iş yapmayan veriler, sistem yazılımının bir "
+"parçası olmaktan ziyade, bir yazılımın bir parçası. Bu nedenle işlevsel "
+"olmayan veriler için özgür lisans kriterlerinde ısrar etmiyoruz. Lisansı, "
+"ticari ve ticari olmayan amaçlar için kopyalama ve yeniden dağıtma izni "
+"verdiğiniz sürece özgür bir sistem dağıtımına dâhil edilebilir. Örneğin; GNU "
+"GPL kapsamında piyasaya sürülen bazı oyun motorları, bu tür bir değişmeyen "
+"(verbatim) dağıtım lisansı altında yayınlanan oyun bilgisine (kurgusal bir "
+"dünya haritası, oyun grafikleri vb.) sahiptir. Bu tür verilerin lisansı "
+"özgür olarak nitelendirilmemesine rağmen özgür bir sistem dağıtımının bir "
+"parçası olabilir çünkü işlevsel değildir."
+
+#. type: Content of: <h3>
+msgid "Trademarks"
+msgstr "Ticari Markalar"
+
+#. type: Content of: <p>
+msgid ""
+"Trademarks are associated with some software.  For example, the name of a "
+"program may be trademarked, or its interface may display a trademarked "
+"logo.  Often, the use of these marks will be controlled in some way; in "
+"particular, developers are commonly asked to remove references to the "
+"trademark from the software when they modify it."
+msgstr ""
+"Ticari markalar bazı yazılımlarla ilişkilidir. Örneğin; bir programın adı "
+"ticari marka olabilir veya arabirimi ticari markalı bir logo "
+"görüntüleyebilir. Çoğunlukla bu işaretlerin kullanımı bir şekilde kontrol "
+"edilecektir: Özellikle geliştiricilerden ticari markanın referanslarını "
+"değiştirdiklerinde yazılımdan kaldırmaları istenir."
+
+#. type: Content of: <p>
+msgid ""
+"In extreme cases, these restrictions may effectively render the program "
+"nonfree.  It is unfair for someone to ask you to remove a trademark from "
+"modified code if that trademark is scattered all throughout the original "
+"source.  As long as the practical requirements are reasonable, however, free "
+"system distributions may include these programs, either with or without the "
+"trademarks."
+msgstr ""
+"Aşırı durumlarda bu kısıtlamalar, programı özgür olmayan hâle getirebilir. "
+"Bir ticari markanın orijinal kaynağın tamamına dağılmış olması durumunda "
+"birisinin değiştirilmiş koddan bir ticari markayı kaldırmanızı istemesi bir "
+"haksızlıktır ancak pratik gereklilikler makul olduğu sürece özgür sistem "
+"dağıtımları, bu programları ya ticari markalar olsun ya da olmasın "
+"içerebilir."
+
+#. type: Content of: <p>
+msgid ""
+"Similarly, the distribution itself may hold particular trademarks.  It is "
+"not a problem if modification requires removal of these trademarks, as long "
+"as they can readily be removed without losing functionality."
+msgstr ""
+"Benzer şekilde dağıtımın kendisi belirli ticari markaları taşıyabilir. "
+"Değişikliğin işlevselliğini kaybetmeden kolayca kaldırılabildiği sürece bu "
+"değişikliklerin bu ticari markaların kaldırılmasını gerektirmesi bir sorun "
+"teşkil etmez."
+
+#. type: Content of: <p>
+msgid ""
+"However, it is unacceptable to use trademarks to restrict verbatim copying "
+"and redistribution of the whole distribution, or any part."
+msgstr ""
+"Bununla birlikte tüm dağıtımın veya herhangi bir parçanın kopyalanmasını ve "
+"yeniden dağıtılmasını kısıtlamak için ticari markaları kullanmak kabul "
+"edilemez."
+
+#. type: Content of: <h3>
+msgid "Documentation"
+msgstr "Dokümantasyon"
+
+#. type: Content of: <p>
+msgid ""
+"All the documentation in a free system distribution must be released under "
+"an appropriate free license.  Additionally, it must take care not to "
+"recommend nonfree software."
+msgstr ""
+"Özgür sistem dağıtımındaki tüm belgeler uygun bir özgür lisans altında "
+"yayımlanmalıdır, ayrıca özgür olmayan yazılım önermemeye özen göstermelidir."
+
+#. type: Content of: <p>
+msgid ""
+"In general, something that helps people who already use nonfree software to "
+"use the free software better with it is acceptable, but something that "
+"encourages users of the free software to install nonfree software is not."
+msgstr ""
+"Genelde özgür olmayan yazılımı zaten kullananlar için özgür yazılımı "
+"kullanan kişilere yardımcı olan bir şey kabul edilebilir ancak özgür "
+"yazılımın kullanıcılarını özgür olmayan yazılım yükleme konusunda teşvik "
+"eden bir şey değildir."
+
+#. type: Content of: <p>
+msgid ""
+"For example, a free system distribution may have documentation for users "
+"setting up dual boot systems.  It could explain how to access filesystems of "
+"the proprietary operating system, import settings from it, and so on.  That "
+"would be helping people install a free system distribution on a machine "
+"which already has proprietary software, which is good."
+msgstr ""
+"Örneğin; özgür bir sistem dağıtımı, kullanıcılar için çift önyükleme sistemi "
+"oluşturan belgelere sahip olabilir. Sahipli işletim sisteminin dosya "
+"sistemlerine nasıl erişileceğini, bunlardan ayarları içe aktarmayı vb. "
+"açıklayabilir. Bu, insanların sahipli yazılımlara sahip bir makineye özgür "
+"bir sistem dağıtımı kurmalarına yardımcı olacaktır ki bu iyi bir şeydir."
+
+#. type: Content of: <p>
+msgid ""
+"What would be unacceptable is for the documentation to give people "
+"instructions for installing a nonfree program on the system, or mention "
+"conveniences they might gain by doing so."
+msgstr ""
+"Kabul edilemez olan belgelerin sisteme özgür olmayan bir program yüklemek "
+"için kullanıcılara talimat vermesi veya bunu yaparak kazanabilecekleri "
+"kolaylıkları belirtmesidir."
+
+#. type: Content of: <p>
+msgid ""
+"For a borderline case, a clear and serious exhortation not to use the "
+"nonfree program would move it to the acceptable side of the line."
+msgstr ""
+"Sınırda bir durum için, özgür olmayan programı kullanmamanın açık ve ciddi "
+"bir getirisi onu hattın kabul edilebilir tarafına taşıyacaktır."
+
+#. type: Content of: <h3>
+msgid "Patents"
+msgstr "Patentler"
+
+#. type: Content of: <p>
+msgid ""
+"It is effectively impossible for free software developers and distributors "
+"to know whether or not a given piece of software infringes any patents: "
+"there are too many of them, they vary from country to country, they're often "
+"worded so as to make it hard to tell what they do or don't cover, and it "
+"isn't easy to tell which ones are valid.  Therefore, we don't generally ask "
+"free system distributions to exclude software because of possible threats "
+"from patents.  On the other hand, we also don't object if a distributor "
+"chooses to omit some software in order to avoid patent risk."
+msgstr ""
+"Özgür yazılım geliştiricileri ve dağıtımcıların belirli bir yazılım "
+"parçasının herhangi bir patent ihlal edip etmediğini bilmeleri etkili bir "
+"şekilde imkânsızdır: Çok fazla vardır, ülkeden ülkeye değişir, genellikle ne "
+"yaptıklarını veya neyi örtmediklerini söylemek zor olacak şekilde ifade "
+"edilirler ve hangilerinin geçerli olduğunu söylemek kolay değildir. Bu "
+"nedenle patentlerden kaynaklanan olası tehditler nedeniyle genellikle özgür "
+"sistem dağıtımlarından yazılımları dışlamalarını istemiyoruz. Öte yandan bir "
+"dağıtımcının patent riskinden kaçınmak için bazı yazılımları çıkarmayı seçip "
+"seçmediğine de itiraz etmiyoruz."
+
+#. type: Content of: <h3>
+msgid "No Malware"
+msgstr "Kötü Amaçlı Yazılım Yok"
+
+#. type: Content of: <p>
+msgid "The distro must contain no DRM, no back doors, and no spyware."
+msgstr "Dağıtım; DRM, arka kapı ve casus yazılım içermemelidir."
+
+#. type: Content of: <h3>
+msgid "Commitment to Correct Mistakes"
+msgstr "Hataları Düzeltmek İçin Bağlılık"
+
+#. type: Content of: <p>
+msgid ""
+"Most distribution development teams don't have the resources to exhaustively "
+"check that their distribution meet all these criteria.  Neither do we.  So "
+"we expect distros to occasionally contain mistakes: nonfree software that "
+"slipped through, etc.  We don't reject a distribution over mistakes.  Our "
+"requirement is for the distribution developers to have a firm commitment to "
+"promptly correct any mistakes that are reported to them."
+msgstr ""
+"Çoğu dağıtım geliştirme ekibinin dağıtımlarının tüm bu kriterleri "
+"karşıladığını kapsamlı bir şekilde denetlemek için kaynakları yoktur. Bizim "
+"de öyle. Bu yüzden dağıtımların bazen hatalar içermesini bekliyoruz: Fark "
+"etmeden özgür olmayan yazılımları atlamak vb... Hatalar yüzünden bir "
+"dağıtımı reddetmeyiz. Bizim gereksinimimiz, dağıtım geliştiricilerine "
+"kendilerine bildirilen hataları derhâl düzeltmek için kesin bir taahhütte "
+"bulunmalarıdır."
+
+#. type: Content of: <h3>
+msgid "Maintenance"
+msgstr "Onarım"
+
+#. type: Content of: <p>
+msgid ""
+"To be listed, a distribution should be actively maintained, and should give "
+"the GNU Project a clear and specific way to report problems of nonfree "
+"software that we find out about.  It should also inform us when the problems "
+"we have reported are fixed."
+msgstr ""
+"Listelenmek için bir dağıtım aktif olarak sürdürülmeli ve GNU Projesi’ni, "
+"bizim bilmediğimiz özgür olmayan yazılım sorunları hakkında açık ve özel bir "
+"şekilde bildirmelidir. Ayrıca bildirdiğimiz sorunlar düzeltildiğinde bizi "
+"bilgilendirmelidir."
+
+#. type: Content of: <h3>
+msgid "Name Confusion"
+msgstr "İsim Karışıklığı"
+
+#. type: Content of: <p>
+msgid ""
+"We will not list a distribution whose name makes confusion with nonfree "
+"distributions likely.  For example, if Foobar Light is a free distribution "
+"and Foobar is a nonfree distribution, we will not list Foobar Light.  This "
+"is because we expect that the distinction between the two would be lost in "
+"the process of communicating the message."
+msgstr ""
+"Adı, özgür olmayan dağıtımlarla karışıklığa neden olan bir dağıtımı "
+"listelemeyeceğiz. Örneğin; Foobar Light özgür bir dağıtım ve Foobar özgür "
+"olmayan bir dağıtım ise Foobar Light’i listelemeyiz. Bunun nedeni, mesajın "
+"iletilmesi sürecinde ikisinin arasındaki ayrımın kaybolacağını beklememizdir."
+
+#. type: Content of: <p>
+msgid ""
+"In particular, the principal name of the free distribution (&ldquo;"
+"Foobar&rdquo;, in this example) should not be part of the name of any "
+"nonfree distribution."
+msgstr ""
+"Özellikle özgür dağıtımın asıl adı (bu örnekte &ldquo;Foobar&rdquo;), özgür "
+"olmayan dağıtımın isminin bir parçası olmamalıdır."
+
+#. type: Content of: <p>
+msgid ""
+"Some people have thought of adding the name &ldquo;GNU&rdquo; to a free "
+"distro name to distinguish it from a nonfree one.  This has two problems.  "
+"First, the two names would not be sufficiently different, since the "
+"principal word in both names would be the same."
+msgstr ""
+"Bazı insanlar, özgür olmayan bir isimden ayırt etmek için &ldquo;GNU&rdquo; "
+"ismini özgür bir dağıtım ismine eklemeyi düşünmüşlerdir. Bunun iki sorunu "
+"var. İlk olarak iki isim yeterince farklı olmayacaktır çünkü her iki isimde "
+"de asıl sözcük aynı olacaktır."
+
+#. type: Content of: <p>
+msgid ""
+"Second, this would promote a misunderstanding of what &ldquo;GNU&rdquo; "
+"means.  <a href=\"/gnu/linux-and-gnu.html\">GNU is an operating system</a>, "
+"typically used with Linux as the kernel, and essentially all so-called "
+"&ldquo;Linux&rdquo; distributions are really GNU/Linux distributions.  In "
+"this scenario, <em>both</em> versions are GNU/Linux, and it would be "
+"misleading to omit &ldquo;GNU&rdquo; from the name of one of them."
+msgstr ""
+"İkincisi, bu &ldquo;GNU&rdquo;nun ne anlama geldiğinin yanlış anlaşılmasını "
+"destekleyecektir. <a href=\"/gnu/linux-and-gnu.html\">GNU genellikle "
+"çekirdek olarak Linux ile kullanılan bir işletim sistemi</a> ve esasen tüm "
+"&ldquo;Linux&rdquo; dağıtımları gerçekten GNU/Linux dağıtımlarıdır."
+
+#. type: Content of: <h3>
+msgid "Contacting Upstream If You're Downstream"
+msgstr "Proje Yöneticisinden Yanıt Yoksa Sadece Bizimle İletişime Geçin"
+
+#. type: Content of: <p>
+msgid ""
+"For distro developers (or anyone else) who have sent an important bug report "
+"for a GNU package: if it has gone unheeded by the package maintainer after a "
+"reasonable time (please allow at least two weeks), you can escalate the bug "
+"by writing to &lt;maintainers@gnu.org&gt;.  This is especially warranted if "
+"you can't find evidence of recent activity by the package maintainer."
+msgstr ""
+"Bir GNU paketi için önemli bir hata raporu gönderen dağıtım geliştiricileri -"
+"ya da herhangi biri- için: Eğer makul bir süre sonra (eğer en az iki hafta "
+"izin verdiyse) paketin bakımcısı tarafından fark edilmemişse hatayı yazarak "
+"iletebilirsiniz: &lt;maintainers@gnu.org&gt;. Paketleyici tarafından son "
+"zamanlardaki faaliyetlerin kanıtını bulamazsanız bu özellikle garanti edilir."
+
+#. type: Content of: <h3>
+msgid "Please Teach Users about Free Software"
+msgstr "Lütfen Özgür Yazılım Hakkında Kullanıcıları Eğitin"
+
+#. type: Content of: <p>
+msgid ""
+"To establish lasting freedom, just giving users freedom isn't sufficient.  "
+"It is necessary also to teach them to understand what it means and to demand "
+"it.  Thus, we suggest and urge that free distros announce prominently on the "
+"screen, before login and on the default desktop after login, a prominent "
+"statement about freedom, such as &ldquo;This system is freedom-respecting "
+"free/libre software&rdquo; or something comparable, and to present a link or "
+"icon pointing at gnu.org or gnu.org/philosophy for further information about "
+"the issue."
+msgstr ""
+"Kalıcı özgürlük kurmak için sadece kullanıcılara özgürlük vermek yeterli "
+"değildir. Onlara ne anlama geldiğini anlamalarını ve talep etmelerini "
+"öğretmek de gereklidir. Böylece özgür dağıtımın giriş yapmadan önce ve giriş "
+"yaptıktan sonra varsayılan masaüstünde &ldquo;bu sistem, özgürlüğe saygı "
+"duyan özgür / libre yazılım&rdquo; veya karşılaştırılabilir bir şey gibi "
+"özgürlük hakkında belirgin bir açıklama yapmasını ve konuyla ilgili daha "
+"fazla bilgi için gnu.org veya gnu.org/philosophy adresini gösteren bir "
+"bağlantı veya simge sunmasını öneriyoruz ve teşvik ediyoruz."
+
+#. type: Content of: <h3>
+msgid "Please Avoid Repeating Propaganda and Confusion"
+msgstr "Lütfen Tekrarlanan Propaganda ve Karışıklıklardan Kaçının"
+
+#. type: Content of: <p>
+msgid ""
+"Please see our list of <a href=\"/philosophy/words-to-avoid.html\">words to "
+"avoid</a>, which are either biased, misguided or misleading, and try to "
+"avoid them in your public statements and discussions with the public."
+msgstr ""
+"Lütfen ön yargılı, yanlış yönlendirilmiş veya yanıltıcı olan <a href=\"/"
+"philosophy/words-to-avoid.html\">kaçınılması gereken kelimeler</a> listemize "
+"bakın ve bunları kamuoyundaki açıklamalarınızda ve halkla tartışmalarınızda "
+"onlardan kaçınmaya çalışın."
+
+#. type: Content of: <h3>
+msgid "Final Notes"
+msgstr "Son Notlar"
+
+#. type: Content of: <p>
+msgid ""
+"We maintain a list of the <a href=\"/distros/free-distros.html\">free GNU "
+"system distributions</a> we know about.  If you know about a free "
+"distribution that isn't listed there, please ask its developers write to &lt;"
+"<a class=\"reference\" href=\"mailto:webmasters@gnu.org\">webmasters@gnu."
+"org</a>&gt; with a description of their system and a link to their web page."
+msgstr ""
+"Bildiğimiz <a href=\"/distros/free-distros.html\">özgür GNU sistem "
+"dağıtımlarının</a> bir listesini tutuyoruz. Orada listelenmemiş bir özgür "
+"dağıtım hakkında bilgi sahibi olursanız lütfen geliştiricilerinden "
+"sistemlerinin bir açıklamasını ve web sayfalarının bir bağlantısını &lt;<a "
+"class=\"reference\" href=\"mailto:webmasters@gnu.org\">webmasters@gnu.org</"
+"a>&gt; adresine yazmasını rica edin."
+
+#. type: Content of: <p>
+msgid ""
+"We also list <a href=\"/distros/free-non-gnu-distros.html\">free non-GNU "
+"system distributions</a> on the same ethical conditions."
+msgstr ""
+"Aynı etik koşullarda <a href=\"/distros/free-non-gnu-distros.html\">özgür "
+"GNU olmayan sistem dağıtımlarını</a> da listeliyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"If you have questions or comments about these guidelines themselves, feel "
+"free to send those to &lt;<a class=\"reference\" href=\"mailto:licensing@fsf."
+"org\">licensing@fsf.org</a>&gt;.  We hope that they help everyone better "
+"understand the issues that are important for free system distributions, and "
+"we look forward to promoting more of them in the future."
+msgstr ""
+"Bu yönergelere ilişkin sorularınız veya yorumlarınız varsa bunları &lt;<a "
+"class=\"reference\" href=\"mailto:licensing@fsf.org\">licensing@fsf.org</"
+"a>&gt; adresine gönderebilirsiniz. Herkese özgür sistem dağıtımları için "
+"önemli olan konuları daha iyi anlamalarına yardımcı olduğumuzu ve gelecekte "
+"daha fazlasını tanıtmayı umuyoruz."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilir."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2015, 2017, 2018 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015, 2017, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu eser <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\"> Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> ile lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr " "
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

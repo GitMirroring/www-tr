@@ -1,0 +1,385 @@
+# Turkish translation of https://www.gnu.org/education/edu-schools.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# C.Y. <cyildizli@autistici.org>, 2019.
+# T. E. Kalayci <tekrei@fsf.org>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-schools.html\n"
+"POT-Creation-Date: 2016-09-13 15:56+0000\n"
+"PO-Revision-Date: 2019-06-18 20:39+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Why Schools Should Exclusively Use Free Software - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"Okullar Neden Sadece Özgür Yazılım Kullanmalı - GNU Projesi - Özgür Yazılım "
+"Vakfı"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
+"education/education.html#indepth\">In Depth</a> &rarr; Why Schools Should "
+"Exclusively Use Free Software"
+msgstr ""
+"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
+"education.html#indepth\">Ayrıntılı</a> &rarr; Okullar Neden Sadece Özgür "
+"Yazılım Kullanmalı"
+
+#. type: Content of: <h2>
+msgid "Why Schools Should Exclusively Use Free Software"
+msgstr "Okullar Neden Sadece Özgür Yazılım Kullanmalı"
+
+#. type: Content of: <p>
+msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Educational activities, including schools of all levels from kindergarten to "
+"university, have a moral duty to <a href=\"/education/education.html\">teach "
+"only free software.</a>"
+msgstr ""
+"Ana okulundan üniversiteye bütün okul düzeylerini içeren eğitim "
+"faaliyetleri, <a href=\"/education/education.html\">sadece özgür yazılımı "
+"öğretmek gibi ahlaki bir göreve sahiptir.</a>"
+
+#. type: Content of: <p>
+msgid ""
+"All computer users ought to <a href=\"/philosophy/free-software-even-more-"
+"important.html\"> insist on free software</a>: it gives users the freedom to "
+"control their own computers&mdash;with proprietary software, the program "
+"does what its owner or developer wants it to do, not what the user wants it "
+"to do.  Free software also gives users the freedom to cooperate with each "
+"other, to lead an upright life.  These reasons apply to schools as they do "
+"to everyone.  However, the purpose of this article is to present the "
+"additional reasons that apply specifically to education."
+msgstr ""
+"Tüm bilgisayar kullanıcıları kendilerine bilgisayarlarını denetleme "
+"özgürlüğünü sağlayan <a href=\"/philosophy/free-software-even-more-important."
+"html\">özgür yazılım konusunda ısrar etmelidir</a>. Özel mülkiyet yazılıma "
+"sahip bilgisayarlar, yazılımın sahibi veya geliştiricisi ne isterse onu  "
+"yapar, kullanıcıların istediğini değil. Özgür yazılım ayrıca kullanıcılara "
+"birbirleriyle işbirliği kurma özgürlüğü tanır, doğru bir yaşam olanağı "
+"sunar. Bu nedenler, herkes için olduğu gibi okullar için de geçerlidir. "
+"Bununla birlikte bu yazının amacı, eğitime özgü ek nedenleri sunmaktır."
+
+#. type: Content of: <p>
+msgid ""
+"Free software can save schools money, but this is a secondary benefit.  "
+"Savings are possible because free software gives schools, like other users, "
+"the freedom to copy and redistribute the software; the school system can "
+"give a copy to every school, and each school can install the program in all "
+"its computers, with no obligation to pay for doing so."
+msgstr ""
+"Özgür yazılım okulların paralarının ceplerinde kalmasını sağlar, ancak bu "
+"ikincil bir yarardır. Özgür yazılım diğer kullanıcılar gibi okullara da "
+"yazılımı kopyalama ve yeniden dağıtma özgürlüğü verdiği için tasarruf "
+"mümkündür. Eğitim sistemi her okula bir kopya verebilir ve her bir okul da "
+"bütün bilgisayarlarına programı yükleyebilir ve bunun için bir ödeme yapması "
+"da gerekmez."
+
+#. type: Content of: <p>
+msgid ""
+"This benefit is useful, but we firmly refuse to give it first place, because "
+"it is shallow compared to the important ethical issues at stake.  Moving "
+"schools to free software is more than a way to make education a little "
+"&ldquo;better&rdquo;: it is a matter of doing good education instead of bad "
+"education.  So let's consider the deeper issues."
+msgstr ""
+"Bu yararlı bir kazançtır, ancak biz bunu ilk sıraya koymayı kesinlikle "
+"reddediyoruz. Çünkü önemli ahlaki konularla karşılaştırdığımızda, bu kazanç "
+"oldukça yüzeysel kalıyor. Okulları özgür yazılıma geçirmek, okullardaki "
+"eğitim kalitesini biraz &ldquo;arttırmaktan&rdquo; daha fazlasıdır: bu kötü "
+"bir eğitim yerine iyi bir eğitim verme gerekliliğidir. Öyleyse daha derin "
+"hususları ele alalım."
+
+#. type: Content of: <p>
+msgid ""
+"Schools have a social mission: to teach students to be citizens of a strong, "
+"capable, independent, cooperating and free society.  They should promote the "
+"use of free software just as they promote conservation and voting.  By "
+"teaching students free software, they can graduate citizens ready to live in "
+"a free digital society.  This will help society as a whole escape from being "
+"dominated by megacorporations."
+msgstr ""
+"Okulların öğrencilere güçlü, yetenekli, bağımsız, dayanışmacı ve özgür bir "
+"toplumun yurttaşı olmayı öğretmek gibi toplumsal bir görevi vardır. "
+"Korumacılığı ve oylamayı gösterdikleri gibi özgür yazılım kullanmayı da "
+"göstermeleri gerekmektedir. Öğrencilere özgür yazılım öğreterek, onları "
+"özgür dijital bir toplumda yaşamaya hazır yurttaşlar olarak mezun etmiş "
+"olur. Bu durum toplumun bir bütün olarak dev şirketlerin egemenliğinden "
+"kaçmasını sağlar."
+
+#. type: Content of: <p>
+msgid ""
+"In contrast, to teach a nonfree program is implanting dependence, which goes "
+"counter to the schools' social mission.  Schools should never do this."
+msgstr ""
+"Buna karşın, özgür olmayan bir yazılım öğretmek okulların toplumsal "
+"göreviyle çelişen bağımlılığı besler. Okulların bunu hiç yapmaması gerekir."
+
+#. type: Content of: <p>
+msgid ""
+"Why, after all, do some proprietary software developers offer gratis "
+"copies<a href=\"#note1\">(1)</a> of their nonfree programs to schools? "
+"Because they want to <em>use</em> the schools to implant dependence on their "
+"products, like tobacco companies distributing gratis cigarettes to school "
+"children<a href=\"#note2\">(2)</a>.  They will not give gratis copies to "
+"these students once they've graduated, nor to the companies that they go to "
+"work for.  Once you're dependent, you're expected to pay, and future "
+"upgrades may be expensive."
+msgstr ""
+"Her şeye rağmen, neden bazı özel mülkiyet yazılım geliştiricileri özgür "
+"olmayan programlarının ücretsiz kopyalarını<a href=\"#note2\">(1)</a> "
+"okullara sunuyorlar? Çünkü onlar, sigara şirketlerinin okul çocuklarına "
+"ücretsiz sigara dağıtması gibi<a href=\"#note2\">(2)</a> okulların kendi "
+"ürünlerine olan bağımlılıklarını geliştirmek istiyorlar. Öğrenciler mezun "
+"olduklarında, ne bu yazılım şirketleri ne de çalışacakları hiçbir şirket "
+"onlara ücretsiz kopya vermeyecektir. Bağımlı olduğunuz zaman, sizden ödeme "
+"yapmanız beklenecek ve gelecekteki güncellemeler daha da pahalı olacaktır."
+
+#. type: Content of: <p>
+msgid ""
+"Free software permits students to learn how software works.  Some students, "
+"natural-born programmers, on reaching their teens yearn to learn everything "
+"there is to know about their computer and its software.  They are intensely "
+"curious to read the source code of the programs that they use every day."
+msgstr ""
+"Özgür yazılım öğrencilere yazılımın nasıl çalıştığını öğrenme olanağı "
+"sağlar. Bazı öğrenciler, doğuştan programcılar, ergenliklerini "
+"bilgisayarlara ve yazılımlarına dair her şeyi öğrenmeye can atarak "
+"geçiriyorlar. Her gün kullandıkları programların kaynak kodunu okumayı çok "
+"merak ediyorlar."
+
+#. type: Content of: <p>
+msgid ""
+"Proprietary software rejects their thirst for knowledge: it says, &ldquo;The "
+"knowledge you want is a secret&mdash;learning is forbidden!&rdquo; "
+"Proprietary software is the enemy of the spirit of education, so it should "
+"not be tolerated in a school, except as an object for reverse engineering."
+msgstr ""
+"Özel mülkiyet yazılım onların bilgi konusundaki susuzluklarını yadsır: "
+"&ldquo;İstediğiniz bilgi bir sırdır, öğrenmek yasaktır! &rdquo; Özel "
+"mülkiyet yazılım, eğitim ruhunun düşmanıdır ve okullarda tersine mühendislik "
+"nesnesi olarak kullanılmak dışında barındırılmamalıdır."
+
+#. type: Content of: <p>
+msgid ""
+"Free software encourages everyone to learn. The free software community "
+"rejects the &ldquo;priesthood of technology&rdquo;, which keeps the general "
+"public in ignorance of how technology works; we encourage students of any "
+"age and situation to read the source code and learn as much as they want to "
+"know."
+msgstr ""
+"Özgür yazılım herkesi öğrenmeye teşvik eder. Özgür yazılım topluluğu, halkı "
+"teknolojinin nasıl çalıştığı konusunda cahil bırakan &ldquo;teknolojinin "
+"ruhbanlığını&rdquo; reddeder; biz her yaştaki ve durumdaki öğrencinin kaynak "
+"kodunu okumasını ve bilmek istediği kadarını öğrenmesini teşvik ederiz."
+
+#. type: Content of: <p>
+msgid ""
+"Schools that use free software will enable gifted programming students to "
+"advance.  How do natural-born programmers learn to be good programmers? They "
+"need to read and understand real programs that people really use.  You learn "
+"to write good, clear code by reading lots of code and writing lots of code.  "
+"Only free software permits this."
+msgstr ""
+"Özgür yazılım kullanan okullar üstün yetenekli programlama öğrencilerine "
+"gelişme olanağı sağlayacaktır. Doğuştan programcılar nasıl iyi programcı "
+"olmayı öğrenirler? İnsanların fiilen kullandığı gerçek programları okuyup "
+"anlamaya ihtiyaçları vardır. Bol miktarda kod okuyarak ve bol miktarda kod "
+"yazarak iyi ve temiz kod yazmayı öğrenirsiniz. Yalnızca özgür yazılım buna "
+"izin verir."
+
+#. type: Content of: <p>
+msgid ""
+"How do you learn to write code for large programs? You do that by writing "
+"lots of changes in existing large programs.  Free Software lets you do this; "
+"proprietary software forbids this.  Any school can offer its students the "
+"chance to master the craft of programming, but only if it is a free software "
+"school."
+msgstr ""
+"Büyük programlar için kod yazmayı nasıl öğrenirsiniz? Halihazırda büyük "
+"programlar içinde büyük ölçüde değişiklikler yaparak öğrenirsiniz. Bunu "
+"özgür yazılım sağlar; özel mülkiyet yazılımlar bunu engeller. Herhangi bir "
+"okul öğrencilerine programlama tekniğinde ustalaşmak için bunu sunabilir, "
+"ama bu sadece özgür yazılım kullanan bir okulda mümkündür."
+
+#. type: Content of: <p>
+msgid ""
+"The deepest reason for using free software in schools is for moral "
+"education. We expect schools to teach students basic facts and useful "
+"skills, but that is only part of their job. The most fundamental task of "
+"schools is to teach good citizenship, including the habit of helping others. "
+"In the area of computing, this means teaching people to share software.  "
+"Schools, starting from nursery school, should tell their students, &ldquo;If "
+"you bring software to school, you must share it with the other students.  "
+"You must show the source code to the class, in case someone wants to learn.  "
+"Therefore bringing nonfree software to class is not permitted, unless it is "
+"for reverse-engineering work.&rdquo;"
+msgstr ""
+"Özgür yazılımın okullarda kullanımın en derin nedeni ahlaki eğitimdir. "
+"Okullardan öğrencilerine temel doğruları ve işe yarar becerileri öğretmesini "
+"bekleriz, ancak bunlar görevlerinin sadece bir parçasıdır. Okulların en "
+"temel görevi diğerlerine yardım etme alışkanlığını da içeren iyi bir yurttaş "
+"olmayı öğretmektir. Bilgisayar alanında bu insanlara yazılım paylaşmayı "
+"öğretmek demektir. Okullar öğrencilere, ana sınıfından itibaren şunu "
+"söylemelidir: &ldquo;Eğer okula bir yazılım getirecekseniz, bunu diğer "
+"öğrencilerle paylaşmak zorundasınız. Sınıfta öğrenmek isteyen insanlar için "
+"kaynak kodunu göstermelisiniz. Dolayısıyla sınıfa tersine mühendislik için "
+"kullanılmadığı sürece özgür olmayan bir yazılım sokmaya izin verilmez.&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"Of course, the school must practice what it preaches: it should bring only "
+"free software to class (except objects for reverse-engineering), and share "
+"copies including source code with the students so they can copy it, take it "
+"home, and redistribute it further."
+msgstr ""
+"Elbette, bir okul öğütlediğini de yapmalıdır: sınıfa sadece özgür yazılım "
+"(tersine mühendislik nesnesi olanlar dışında) sokulmalı ve öğrenciler "
+"kopyalayabilsin, evine götürebilsen, daha da fazla dağıtabilsin diye kaynak "
+"kodu içeren kopyalar paylaşılmalıdır."
+
+#. type: Content of: <p>
+msgid ""
+"Teaching the students to use free software, and to participate in the free "
+"software community, is a hands-on civics lesson.  It also teaches students "
+"the role model of public service rather than that of tycoons.  All levels of "
+"school should use free software."
+msgstr ""
+"Öğrencilere özgür yazılım kullanmayı öğretmek ve özgür yazılım topluluğunda "
+"yerlerini almalarını sağlamak uygulamalı bir yurttaşlık dersidir. Ayrıca "
+"öğrencilere kodamanlığı değil, kamu hizmeti örneğini öğretir. Her düzeydeki "
+"okul özgür yazılım kullanmalıdır."
+
+#. type: Content of: <p>
+msgid ""
+"If you have a relationship with a school &mdash;if you are a student, a "
+"teacher, an employee, an administrator, a donor, or a parent&mdash; it's "
+"your responsibility to campaign for the school to migrate to free software.  "
+"If a private request doesn't achieve the goal, raise the issue publicly in "
+"those communities; that is the way to make more people aware of the issue "
+"and find allies for the campaign."
+msgstr ""
+"Bir okulla ilişkiniz varsa (öğrenci, öğretmen, çalışan, yönetici, bağışçı "
+"veya öğrenci velisiyseniz) okulu özgür yazılıma geçirmek sizin "
+"sorumluluğunuzdadır. Özel bir istekle hedefe ulaşılamıyorsa, sorunu bu "
+"topluluklarda herkese açık olarak gündeme getirin; konuyla ilgili daha fazla "
+"insanı bilgilendirmenin ve kampanya için müttefikler bulmanın yolu budur."
+
+#. type: Content of: <ol><li>
+msgid ""
+"<cite><a id=\"note1\"></a>Warning: a school that accepts such an offer may "
+"find subsequent upgrades rather expensive.</cite>"
+msgstr ""
+"<cite><a id=\"note1\"></a>Uyarı: Böyle bir teklifi kabul eden bir okul daha "
+"sonra, daha pahalı güncellemelerle karşılaşabilir.</cite>"
+
+#. type: Content of: <ol><li>
+msgid ""
+"<cite><a id=\"note2\"></a>RJ Reynolds Tobacco Company was fined $15m in 2002 "
+"for handing out free samples of cigarettes at events attended by children.  "
+"See <a href=\"http://www.bbc.co.uk/worldservice/sci_tech/features/health/"
+"tobaccotrial/usa.htm\"> http://www.bbc.co.uk/worldservice/sci_tech/features/"
+"health/tobaccotrial/usa.htm</a>.</cite>"
+msgstr ""
+"<cite><a id=\"note2\"></a>RJ Reynolds Tobacco Company, 2002 yılında "
+"çocukların katıldığı etkinliklerde ücretsiz sigara numuneleri dağıttığı için "
+"15 milyon dolar para cezasına çarptırıldı. Ayrıntılar için:<a href=\"http://"
+"www.bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa.htm\"> "
+"http://www.bbc.co.uk/worldservice/sci_tech/features/health/tobaccotrial/usa."
+"htm</a>.</cite>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2003, 2009, 2014, 2015, 2016 Richard Stallman"
+msgstr "Copyright &copy; 2003, 2009, 2014, 2015, 2016 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a> ile lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"\n"
+"<li>\n"
+"C.Y. <a href=\"mailto:cyildizli@autistici.org\">&lt;cyildizli@autistici."
+"org&gt;</a>, 2019.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"T. E. Kalayci, 2019.\n"
+"</li>\n"
+"\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
