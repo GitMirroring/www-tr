@@ -1,0 +1,102 @@
+# Turkish translations for footer-text.html package
+# footer-text.html paketi için Türkçe çeviriler
+# Copyright (C) 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the footer-text.html package.
+# Ali Servet Dönmez <asd@pittle.org>, 2008.
+# The FLOSS Information <theflossinformation@yandex.com>, 2019.
+# Dec 2014, Jan 2019: remove wrong msgstr's (T. Godefroy).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: footer-text.html\n"
+"POT-Creation-Date: 2019-02-16 18:26+0000\n"
+"PO-Revision-Date: 2019-08-25 19:57+0300\n"
+"Last-Translator: Ali Servet Dönmez <asd@pittle.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Outdated-Since: 2011-09-26 20:25-0300\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#. type: Content of: <div>
+msgid "<a href=\"#navigation\"><span>TOP</span> &#9650;</a>"
+msgstr "<a href=\"#navigation\"><span>YUKARIYA GİT</span> &#9650;</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/proprietary.html\">MALWARE</a>"
+msgstr "<a href=\"/proprietary/proprietary.html\">KÖTÜ AMAÇLI YAZILIM</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/graphics/graphics.html\">GNU&nbsp;ART</a>"
+msgstr "<a href=\"/graphics/graphics.html\">GNU&nbsp;SANATI</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/people/people.html\">GNU'S&nbsp;WHO?</a>"
+msgstr "<a href=\"/people/people.html\">GNU&nbsp;KİM?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/server/sitemap.html\">SITEMAP</a>"
+msgstr "<a href=\"/server/sitemap.html\">SİTE HARİTASI</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"//directory.fsf.org\">SOFTWARE&nbsp;DIRECTORY</a>"
+msgstr "<a href=\"//directory.fsf.org\">YAZILIM&nbsp;DİZİNİ</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://h-node.org/\">HARDWARE</a>"
+msgstr "<a href=\"https://h-node.org/\">DONANIM</a>"
+
+#. type: Content of: <div><blockquote><p><a>
+msgid "<a href=\"//www.fsf.org\">"
+msgstr "<a href=\"//www.fsf.org\">"
+
+#. type: Attribute 'alt' of: <div><blockquote><p><a><img>
+msgid "[FSF logo]"
+msgstr "[FSF logosu]"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"</a><strong> &ldquo;The Free Software Foundation (FSF) is a nonprofit with a "
+"worldwide mission to promote computer user freedom. We defend the rights of "
+"all software users.&rdquo;</strong>"
+msgstr ""
+"</a><strong> &ldquo;Özgür Yazılım Vakfı (FSF [Free Software Foundation]), "
+"bilgisayar kullanıcısı özgürlüğünü desteklemek için dünya çapında bir misyon "
+"ile kâr amacı gütmeyen bir kuruluştur. Tüm yazılım kullanıcılarının "
+"haklarını savunuyoruz.&rdquo;</strong>"
+
+#. type: Content of: <div><p>
+msgid ""
+"<a class=\"join\" href=\"//www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JOIN</a> <a class=\"donate\" href=\"//donate.fsf.org/"
+"\">DONATE</a> <a class=\"shop\" href=\"//shop.fsf.org/\">SHOP</a>"
+msgstr ""
+"<a class=\"join\" href=\"//www.fsf.org/associate/support_freedom?"
+"referrer=4052\">KATIL</a> <a class=\"donate\" href=\"//donate.fsf.org/"
+"\">BAĞIŞ YAP</a> <a class=\"shop\" href=\"//shop.fsf.org/\">MAĞAZA</a>"
+
+#~ msgid "<a href=\"#header\">BACK TO TOP</a>"
+#~ msgstr "<a href=\"#header\">BAŞA DÖN</a>"
+
+#~ msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#~ msgstr "Yazan: <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://defectivebydesign.org/\">Defective by Design</a>, a "
+#~ "campaign against Digital Restrictions Management (DRM)"
+#~ msgstr ""
+#~ "<a href=\"http://defectivebydesign.org/\">Defective by Design</a>, a "
+#~ "campaign against Digital Restrictions Management (DRM)"
+
+#~ msgid ""
+#~ "<a href=\"http://playogg.org/\">PlayOgg</a> &mdash; support free media "
+#~ "formats"
+#~ msgstr ""
+#~ "<a href=\"http://playogg.org/\">PlayOgg</a> &mdash; support free media "
+#~ "formats"
+
+#~ msgid "Check out other Free Software Foundation campaigns"
+#~ msgstr "Diğer Özgür Yazılım Kampanyalarını gözden geçirin"
