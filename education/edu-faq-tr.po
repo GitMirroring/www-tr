@@ -1,0 +1,250 @@
+# LANGUAGE translation of https://www.gnu.org/education/edu-faq.html
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-faq.html\n"
+"POT-Creation-Date: 2019-08-24 13:20+0300\n"
+"PO-Revision-Date: 2019-08-28 19:11+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+
+#. type: Content of: <title>
+msgid ""
+"Frequently Asked Questions About Free Software and Education - GNU Project - "
+"Free Software Foundation"
+msgstr ""
+"Özgür Yazılım ve Eğitim ile İlgili Sıkça Sorulan Sorular - GNU Projesi - "
+"Özgür Yazılım Vakfı"
+
+#. type: Content of: <p>
+msgid "<a href=\"/education/education.html\">Education</a> &rarr; FAQ"
+msgstr "<a href=\"/education/education.html\">Eğitim</a> &rarr; SSS"
+
+#. type: Content of: <h2>
+msgid "Frequently Asked Questions About Free Software and Education"
+msgstr "Özgür Yazılım ve Eğitim ile İlgili Sıkça Sorulan Sorular"
+
+#. type: Content of: <p>
+msgid ""
+"Many Free Software advocates encounter difficulties when talking to the "
+"administrators of educational institutions about the advantages of using and "
+"teaching Free Software. Often school administrators have never heard of Free "
+"Software or have heard only about &ldquo;open source&rdquo;, so they raise "
+"many doubts. Here we put together some of the most common questions and the "
+"best possible answers to eliminate uncertainties."
+msgstr ""
+"Birçok Özgür Yazılım savunucusu Özgür Yazılım kullanmanın ve öğretmenin "
+"avantajlarından eğitim kurumlarının yöneticilerine bahsederken zorluklarla "
+"karşılaşır. Genelde okul yöneticileri ya Özgür Yazılım'ı hiç duymamıştır ya "
+"da sadece &ldquo;açık kaynak'ı&rdquo; duymuştur, dolayısıyla pek çok şüphe "
+"uyandırırlar. Belirsizlikleri gidermek adına burada en sık sorulan bazı "
+"soruları ve bunlara verilecek en doğru cevapları bir araya getirdik."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"As a teacher, I've been trying hard to explain to the school's "
+"administrators the advantages that open source software can bring to our "
+"school, but they don't seem to be interested."
+msgstr ""
+"Bir öğretmen olarak, okul yöneticilerine açık kaynak yazılımları okulumuza "
+"getirmenin avantajlarını açıklamak için oldukça çaba sarf ediyorum, ancak "
+"ilgilenmemiş gözüküyorlar."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"&ldquo;Open source&rdquo; refers only to the technical advantages of "
+"software. Schools may not be interested in that aspect since most probably "
+"technical requirements are already satisfied by the proprietary software in "
+"use. You need to talk to them in terms of Free Libre Software, not &ldquo;"
+"open source&rdquo;, so that you can explain to them the philosophical and "
+"ethical reasons why educational institutions should reject proprietary "
+"software."
+msgstr ""
+"&ldquo;Açık kaynak&rdquo; yalnızca yazılımın teknik avantajlarına atıfta "
+"bulunur. Okullar bu yönüyle ilgilenmeyebilir çünkü zaten teknik "
+"gereksinimler kullanımdaki özel mülk yazılımlar tarafından karşılanmıştır. "
+"Onlara &ldquo;açık kaynak'tan&rdquo; değil, Özgür Yazılım'dan söz etmeniz "
+"gerekiyor, böylece eğitim kurumlarının özel mülk yazılımlardan neden "
+"vazgeçmesi gerektiğini felsefi ve etik nedenlerle açıklayabilirsiniz."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"See the reasons <a href=\"/education/edu-why.html\">why educational "
+"institutions should use and teach exclusively Free Software.</a>"
+msgstr ""
+"<a href=\"/education/edu-why.html\">Eğitim kurumlarının neden özellikle "
+"Özgür Yazılım kullanması ve öğretmesi</a> gerektiğini okuyabilirsiniz."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"I would love to see all schools migrate to Free Software, but I think it's "
+"hopeless. Proprietary software companies have too much power, even over "
+"schools. The situation is discouraging."
+msgstr ""
+"Tüm okulların Özgür Yazılım'a taşınmasını görmek beni sevindirir, ama bence "
+"bu olanaksız. Özel mülk yazılım şirketlerinin okullar üzerinde bile çok "
+"fazla gücü var. Bu durum cesaret kırıcı."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"While it is true that proprietary software corporations have managed to "
+"impose their products on society by using schools as propaganda agents, it "
+"is also true that many schools around the world have adopted Free Software "
+"with excellent results.  See our <a href=\"/education/edu-cases.html\">Case "
+"Studies</a> section for some examples."
+msgstr ""
+"Özel mülk yazılım şirketlerinin okulları propaganda aracı olarak kullanarak "
+"ürünlerini topluma yerleştirmeye çalışmaları ne kadar gerçekse, dünya "
+"üzerindeki birçok okulun da mükemmel sonuçlarla Özgür Yazılım'ı kullanıyor "
+"olması da bir o kadar gerçektir. Bu çalışmalardan bazıları için <a href=\"/"
+"education/edu-cases.html\">Örnek Çalışmalar</a> yazısına bakabilirsiniz."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"When we started the GNU Project back in 1983, the situation was very "
+"discouraging for us too. We started from zero, and today millions of people "
+"around the world use Free Libre Software."
+msgstr ""
+"1983'te GNU Projesi'ni başlattığımızda, o zamanki durum bizim için oldukça "
+"cesaret kırıcıydı. Sıfırdan başladık ve bugün dünya üzerinde bulunan "
+"milyonlarca insan Özgür Yazılım kullanıyor."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"I am the head of a technical institute and I would like to teach our "
+"students the use and administration of a Free Libre platform, but I have to "
+"comply with the curriculum established by the Ministry of Education, which "
+"requires the teaching of proprietary platforms and programs."
+msgstr ""
+"Teknik enstitünün başındayım ve öğrencilerimize Özgür Libre bir platformu "
+"kullanmayı ve yönetmeyi öğretmeyi tercih ederdim ama Eğitim Bakanlığı'nın "
+"oluşturduğu, özel platform ve program kullanmayı gerektiren müfredatı "
+"öğretmek zorundayım."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"If you are literally forced to teach nonfree software, you should tell your "
+"students that you consider this software unethical, that you are doing this "
+"only because you are being forced, and that you will do as little of it as "
+"possible so that you can move on to freedom-respecting software."
+msgstr ""
+"Öze yazılımı öğretme konusunda tam olarak baskı görüyorsanız, "
+"öğrencilerinize bu yazılımları etik dışı bulduğunuzu, zorunda olduğunuz için "
+"bu yazılımı öğrettiğinizi söyleyecek ve özgürlüğünüze saygı duyan bir "
+"yazılıma geçinceye kadar bu zorunluluğu olabildiğince düşük boyutlarda "
+"uygulayacaksınız."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"We must not forget that schools have a great influence on society, so making "
+"our students aware of the advantages of Free Software is a way of putting "
+"pressure on decision makers. You can start by telling your students about "
+"Free Software and its ethical values, as they might never have heard of it. "
+"With your endorsement and support, this may lead to the formation of a <a "
+"href=\"http://libreplanet.org/wiki/Group_list\">Free Software Group</a> in "
+"your school. Then the group can make its voice heard by writing letters to "
+"the Ministry, holding events to promote Free Software, and other similar "
+"activities."
+msgstr ""
+"Okulların topluma olan büyük etkisini unutmamak zorundayız, dolayısıyla "
+"öğrencilerimizin Özgür Yazılım'ın avantajlarının farkında olmasını sağlamak "
+"karar verme mekanizmalarını baskı altına almak demektir. Özgür Yazılım'ı ve "
+"sahip olduğu etik değerleri öğrencilerinize hiç duymadıkları gibi anlatarak "
+"başlayabilirsiniz. Sizin onay ve desteğinizle bu durum okulunuzda bir <a "
+"href=\"http://libreplanet.org/wiki/Group_list\">Özgür Yazılım Grubu</a>nun "
+"oluşmasına yol açabilir. Sonrasında bu grup da sesini Bakanlık'a mektuplar "
+"yazarak, Özgür Yazılım'ı tanıtmak için etkinlikler düzenleyerek ve benzeri "
+"etkinliklerle duyurabilir."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"When computer users will start demanding their rights, Governments will have "
+"to issue their laws accordingly. That is why political and social awareness "
+"is a fundamental aspect which cannot be left aside when talking about Free "
+"Software."
+msgstr ""
+"Bilgisayar kullanıcıları haklarını aramaya başladığı zaman, hükümetler de "
+"yasalarını buna göre düzenlemek zorunda kalacaktır. Bundan dolayı, siyasi ve "
+"toplumsal farkındalıklar Özgür Yazılım'dan söz ederken bir kenara "
+"atılamayacak kadar temel unsurlardır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#
+#
+#
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Bu yazının çeviri koordinasyonu ve gönderimi hakkında bilgi edinmek için "
+"lütfen <a href=\"/server/standards/README.translations.html\">Çeviri "
+"BENİOKU</a> yazısını inceleyin."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
+msgstr "Telif hakkı &copy; 2011, 2016 Özgür Yazılım Vakfı, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul><li>\n"
+"Cenk &gt;cyildizli@autistici.org&lt; (2019)\n"
+"</li>\n"
+"</ul>"
+
+#. timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Güncellendi:"
