@@ -1,12 +1,11 @@
-# Turkish translations for why-free.html package
+# Turkish translation of https://www.gnu.org/philosophy/why-free.html
 # why-free.html paketi için Türkçe çeviriler
 # Copyright (C) 2008 Free Software Foundation, Inc.
-# This file is distributed under the same license as the why-free.html package.
+# This file is distributed under the same license as the original page.
 # Emre Sevinç <emre.sevinc@gmail.com>, 2003.
 # Sönmez Kartal <sz@szk0.org>, 2008.
 # Ali Servet Dönmez <asd@pittle.org>, 2009.
-# July 2014: trivial update, 7 fuzzy and 1 untransl. strings left (T. Godefroy).
-# May 2017: clean up.
+# The FLOSS Information &lt;theflossinformation@yandex.com&gt;, 2019.
 #
 msgid ""
 msgstr ""

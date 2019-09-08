@@ -1312,8 +1312,7 @@ msgstr ""
 "<a href=\"mailto:sz@szk0.org\">&lt;sz@szk0.org&gt;</a>,\n"
 "2008.\n"
 "</li>\n"
-"<li>T. E. Kalayci, 2019.</li>"
-"\n"
+"<li>T. E. Kalayci, 2019.</li>\n"
 "</ul>"
 
 #.  timestamp start 

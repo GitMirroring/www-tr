@@ -244,8 +244,7 @@ msgstr ""
 "com&gt;</a>,\n"
 "2007.\n"
 "</li>\n"
-"<li>T. E. Kalayci, 2019.</li>"
-"\n"
+"<li>T. E. Kalayci, 2019.</li>\n"
 "</ul>"
 
 #.  timestamp start 

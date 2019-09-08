@@ -1,14 +1,13 @@
-# Turkish translations for copyleft.html package
+# Turkish translation of https://www.gnu.org/licenses/copyleft.html
 # copyleft.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
-# This file is distributed under the same license as the copyleft.html package.
-# Tahir Emre Kalaycı <tekrei+ceviri@gmail.com>, 2009.
+# This file is distributed under the same license as the original page.
+# T. E. Kalayci <tekrei@fsf.org>, 2009, 2019.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
-# Dec 2014: trivial update of a few strings (T. Godefroy).
-# May 2017: update links and license, remove obsolete phrases, clean up.
+# The FLOSS Information <theflossinformation@yandex.com>, 2019.
 #
 msgid ""
 msgstr ""
@@ -21,7 +20,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Outdated-Since: 2013-10-06 18:41+0000\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.3\n"
 

@@ -1,15 +1,13 @@
-# Turkish translations for free-doc.html package
+# Turkish translation of https://www.gnu.org/philosophy/free-doc.html
 # free-doc.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
-# This file is distributed under the same license as the free-doc.html package.
-# Tahir Emre Kalaycı <tekrei+ceviri@gmail.com>, 2009.
+# This file is distributed under the same license as the original page.
+# T. E. Kalayci <tekrei@fsf.org>, 2009, 2019.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
-# Dec 2014: trivial update of a few strings (T. Godefroy).
-# August 2016: update a link.
-# May 2017: update license, clean up.
+# The FLOSS Information &lt;theflossinformation@yandex.com&gt;, 2019.
 #
 msgid ""
 msgstr ""
