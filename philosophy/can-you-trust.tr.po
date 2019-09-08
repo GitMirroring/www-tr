@@ -1,14 +1,12 @@
-# Turkish translations for https://www.gnu.org/philosophy/can-you-trust.html package
+# Turkish translation of https://www.gnu.org/philosophy/can-you-trust.html
 # can-you-trust.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
-# This file is distributed under the same license as the original package.
+# This file is distributed under the same license as the original page.
 # T. E. Kalayci, <tekrei@fsf.org>, 2019, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
-# July 2014: add br to separate list items; trivial update (T. Godefroy).
-# May 2017: update license, clean up.
 #
 msgid ""
 msgstr ""
@@ -21,7 +19,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Outdated-Since: 2015-02-26 15:55+0000\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.3\n"
 
@@ -596,17 +593,17 @@ msgstr ""
 "başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
 "\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
-#. TRANSLATORS: Ignore the original text in this paragraph,
-#. replace it with the translation of these two:
-#. We work hard and do our best to provide accurate, good quality
-#. translations.  However, we are not exempt from imperfection.
-#. Please send your comments and general suggestions in this regard
-#. to <a href="mailto:web-translators@gnu.org">
-#. &lt;web-translators@gnu.org&gt;</a>.</p>
-#. <p>For information on coordinating and submitting translations of
-#. our web pages, see <a
-#. href="/server/standards/README.translations.html">Translations
-#. README</a>.
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
@@ -650,7 +647,7 @@ msgstr ""
 "<li>İzlem Gözükeleş, 2009.</li>\n"
 "</ul>"
 
-#. timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"

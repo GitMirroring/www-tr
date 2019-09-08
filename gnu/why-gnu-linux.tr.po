@@ -1,13 +1,11 @@
-# Turkish translations for why-gnu-linux.html package
+# Turkish translation of https://www.gnu.org/gnu/why-gnu-linux.html
 # why-gnu-linux.html paketi için Türkçe çeviriler
 # Copyright (C) 2008 Free Software Foundation, Inc.
-# This file is distributed under the same license as the why-gnu-linux.html package.
+# This file is distributed under the same license as the original page.
 # Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
 # Hale Acun <halesss@yahoo.com>, 2007.
 # Fırat Özgül <fozgul@gmail.com>, 2008.
 # T. E. Kalayci <tekrei@fsf.org>, 2019.
-# Dec 2014: trivial update of a few strings (T. Godefroy).
-# May 2017: update link & license, clean up.
 #
 msgid ""
 msgstr ""
@@ -20,7 +18,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Outdated-Since: 2011-09-20 12:27-0300\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.3\n"
 
@@ -407,17 +404,17 @@ msgstr ""
 "başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
 "\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
-#. TRANSLATORS: Ignore the original text in this paragraph,
-#. replace it with the translation of these two:
-#. We work hard and do our best to provide accurate, good quality
-#. translations.  However, we are not exempt from imperfection.
-#. Please send your comments and general suggestions in this regard
-#. to <a href="mailto:web-translators@gnu.org">
-#. &lt;web-translators@gnu.org&gt;</a>.</p>
-#. <p>For information on coordinating and submitting translations of
-#. our web pages, see <a
-#. href="/server/standards/README.translations.html">Translations
-#. README</a>.
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
@@ -463,7 +460,7 @@ msgstr ""
 "<li> T. E. Kalayci, 2019.</li>\n"
 "</ul>"
 
-#. timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"

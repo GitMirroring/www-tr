@@ -1,0 +1,259 @@
+# Turkish translation of https://www.gnu.org/education/education.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalayci  <tekrei@fsf.org>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: education.html\n"
+"POT-Creation-Date: 2016-09-13 15:56+0000\n"
+"PO-Revision-Date: 2019-09-08 17:32+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
+
+#. type: Content of: <title>
+msgid "Free Software and Education - GNU Project - Free Software Foundation"
+msgstr "Özgür Yazılım ve Eğitim - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Free Software and Education"
+msgstr "Özgür Yazılım ve Eğitim"
+
+#. type: Content of: <h3>
+msgid "How Does Free Software Relate to Education?"
+msgstr "Özgür Yazılım ve Eğitim İlişkisi Nedir?"
+
+#. type: Content of: <p>
+msgid ""
+"Software freedom plays a fundamental role in education.  Educational "
+"institutions of all levels should use and teach Free Software because it is "
+"the only software that allows them to accomplish their essential missions: "
+"to disseminate human knowledge and to prepare students to be good members of "
+"their community. The source code and the methods of Free Software are part "
+"of human knowledge. On the contrary, proprietary software is secret, "
+"restricted knowledge, which is the opposite of the mission of educational "
+"institutions. Free Software supports education, proprietary software forbids "
+"education."
+msgstr ""
+"Yazılım özgürlüğü eğitimde asli bir görev oynar. Her düzeydeki eğitim "
+"kurumları Özgür Yazılım kullanmalı ve öğretmelidir. Çünkü insan bilgisini "
+"yaymak ve öğrencileri toplumlarının iyi bir bireyi kılmak şeklindeki temel "
+"görevlerini yerine getirebilecekleri tek yazılım, özgür yazılımdır. Özgür "
+"Yazılım kaynak kodları ve yöntemleri insan bilgisinin bir parçasıdır. Buna "
+"karşın, özel mülk yazılımlar gizli, kısıtlı bilgidir, bu da eğitim "
+"kurumlarının görevinin aksinedir. Özgür Yazılım eğitimi desteklerken, özel "
+"mülk yazılım eğitimi engeller."
+
+#. type: Content of: <p>
+msgid ""
+"Free Software is not just a technical question; it is an ethical, social, "
+"and political question. It is a question of the human rights that the users "
+"of software ought to have. Freedom and cooperation are essential values of "
+"Free Software. The GNU System implements these values and the principle of "
+"sharing, since sharing is good and beneficial to human progress."
+msgstr ""
+"Özgür Yazılım salt teknik bir husus değildir; etik, toplumsal ve politik bir "
+"husustur. Bütün yazılım kullanıcılarının sahip olası gereken bir insan hakkı "
+"sorunudur. Özgürlük ve işbirliği, Özgür Yazılımın temel değerleridir. GNU "
+"sistemi bu değerleri ve paylaşım ilkesini yerine getirir, ne de olsa "
+"paylaşmak iyidir ve insanlığın gelişiminin yararınadır."
+
+#. type: Content of: <p>
+msgid ""
+"To learn more, see the <a href=\"/philosophy/free-sw.html\">Free Software "
+"definition</a> and our article on <a href=\"/philosophy/shouldbefree.html"
+"\">why software should be free</a> (as in freedom)."
+msgstr ""
+"Daha fazlasını öğrenmek için <a href=\"/philosophy/free-sw.html\">Özgür "
+"Yazılım Tanımı</a> ve <a href=\"/philosophy/shouldbefree.html\">yazılım "
+"neden özgür olmalıdır</a> yazımıza bakın."
+
+#. type: Content of: <h3>
+msgid "The Basics"
+msgstr "Temeller"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project was <a href=\"/gnu/initial-announcement.html\">launched</a> "
+"in 1983 by Richard Stallman to develop a Free Libre operating system: the "
+"GNU operating system. As a result, today it is possible for anyone to use a "
+"computer in freedom."
+msgstr ""
+"GNU Projesi 1983 yılında Richard Stallman tarafından Özgür bir işletim "
+"sistemi, GNU işletim sistemini geliştirmek amacıyla <a href=\"/gnu/initial-"
+"announcement.html\">başlatıldı</a>. Sonuç olarak, bugün, herkesin "
+"bilgisayarları özgürce kullanması mümkün oldu."
+
+#. type: Content of: <p>
+msgid ""
+"In this six-minutes video <a href=\"http://www.fsf.org/about/leadership/#rms"
+"\">Richard Stallman</a> explains briefly and to the point the principles of "
+"Free Software and how they connect to education."
+msgstr ""
+"Bu altı dakikalık videoda <a href=\"http://www.fsf.org/about/leadership/#rms"
+"\">Richard Stallman</a> Özgür Yazılımın ilkelerini ve eğitimle ilişkilerini "
+"kısaca ve öz olarak açıklıyor."
+
+#. TRANSLATORS: Please replace the link to the video with subtitles in
+#. English with a link to the video with subtitles in your language,
+#. if it exists.
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.en.ogv"
+"\"> Download and watch the video</a> at a higher definition in the Ogg "
+"Theora (ogv) free format."
+msgstr ""
+"Videoyu, özgür bir biçim olan Ogg Theora (ogv) şeklinde yüksek çözünürlüklü "
+"olarak <a href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub."
+"en.ogv\">indirip izleyebilirsiniz</a>."
+
+#. TRANSLATORS: please add the link to your language here in the first
+#. place, followed by a comma.
+#. type: Content of: <div><div><p>
+msgid ""
+"Transcriptions of this video are available in <a href=\"/education/misc/rms-"
+"education-es-translation-to-en.txt\">English</a>, <a href=\"/education/misc/"
+"rms-education-es-transcription.txt\">Spanish</a>, and <a href=\"/education/"
+"misc/edu-misc.html#transcription-rms-education\"> other languages</a>."
+msgstr ""
+"Bu videonun çözümlemeleri <a href=\"/education/misc/rms-education-es-"
+"translation-to-en.txt\">İngilizce</a>, , <a href=\"/education/misc/rms-"
+"education-es-transcription.txt\">İspanyolca</a>, ve <a href=\"/education/"
+"misc/edu-misc.html#transcription-rms-education\"> diğer dillerde</a> mevcut."
+
+#. TRANSLATORS: please add the link to your language here in the first
+#. place, followed by a comma.
+#. type: Content of: <div><div><p>
+msgid ""
+"SubRip subtitle files are also available for download in <a href=\"/"
+"education/misc/rms-education-es-sub.en.srt\">English</a>, <a href=\"/"
+"education/misc/rms-education-es-sub.es.srt\">Spanish</a>, and <a href=\"/"
+"education/misc/edu-misc.html#subtitles-rms-education\">other languages</a>."
+msgstr ""
+"SubRip altyazı dosyaları da <a href=\"/education/misc/rms-education-es-sub."
+"en.srt\">İngilizce</a>, <a href=\"/education/misc/rms-education-es-sub.es.srt"
+"\">İspanyolca</a>, ve <a href=\"/education/misc/edu-misc.html#subtitles-rms-"
+"education\">diğer dillerde</a> indirmek için mevcut."
+
+#. type: Content of: <div><p>
+msgid ""
+"We are looking for free educational games, or information about free games "
+"that can be used for educational purposes. Contact <a href=\"mailto:"
+"education@gnu.org\">&lt;education@gnu.org&gt;</a>."
+msgstr ""
+"Özgür eğitim oyunları veya eğitim amacıyla kullanılabilecek özgür oyunlar "
+"hakkında bilgi arıyoruz. Konuyla ilgili olarak <a href=\"mailto:"
+"education@gnu.org\">&lt;education@gnu.org&gt;</a> adresinden bağlantıya "
+"geçebilirsiniz."
+
+#. type: Content of: <h3>
+msgid "In Depth"
+msgstr "Ayrıntılar"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Learn about the <a href=\"/education/edu-why.html\">Reasons Why</a> "
+"educational institutions should use and teach exclusively Free Software."
+msgstr ""
+"Eğitim kurumlarının neden özellikle Özgür Yazılım kullanması ve öğretmesi "
+"gerektiğine ilişkin <a href=\"/education/edu-why.html\">nedenleri</a> "
+"öğrenin."
+
+#. type: Content of: <ul><li>
+msgid ""
+"An article by Richard Stallman: <a href=\"/education/edu-schools.html\">Why "
+"Schools Should Exclusively Use Free Software</a>"
+msgstr ""
+"Richard Stallman'ın yazdığı bir yazı: <a href=\"/education/edu-schools.html"
+"\">Okullar Neden Sadece Özgür Yazılım Kullanmalı</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"An article by Dr. V. Sasi Kumar on the <a href=\"/education/edu-system-india."
+"html\">education system in India.</a>"
+msgstr ""
+"Dr. V. Sasi Kumar'ın <a href=\"/education/edu-system-india.html"
+"\">Hindistan'daki eğitim sistemi</a> hakkında bir makalesi."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#
+#
+#
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilir."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011, 2012, 2014, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012, 2014, 2016 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 International "
+"License</a> ile lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalaycı, 2019.</li>\n"
+"</ul>"
+
+#. timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Güncelleme:"
