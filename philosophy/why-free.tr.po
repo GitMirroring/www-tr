@@ -5,7 +5,7 @@
 # Emre Sevinç <emre.sevinc@gmail.com>, 2003.
 # Sönmez Kartal <sz@szk0.org>, 2008.
 # Ali Servet Dönmez <asd@pittle.org>, 2009.
-# The FLOSS Information &lt;theflossinformation@yandex.com&gt;, 2019.
+# The FLOSS Information <theflossinformation@yandex.com>, 2019.
 #
 msgid ""
 msgstr ""

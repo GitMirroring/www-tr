@@ -8,8 +8,6 @@
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
 # The FLOSS Information <theflossinformation@yandex.com>, 2019.
-# Dec 2014: trivial update of a few strings (T. Godefroy).
-# May 2017: update license, clean up.
 #
 msgid ""
 msgstr ""

@@ -1,3 +1,12 @@
+# Turkish translation of https://www.gnu.org/philosophy/words-to-avoid.html
+# Copyright (C) 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalayci <tekrei@fsf.org>, 2009, 2019.\n"
+# Çiğdem Özşar, 2009.\n"
+# Birkan Sarıfakıoğlu, 2009.\n"
+# Serkan Çapkan, 2009.\n"
+# İzlem Gözükeleş, 2009.\n"
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
@@ -51,72 +60,72 @@ msgstr ""
 "a>, <a href=\"/philosophy/why-call-it-the-swindle.html\">Neden "
 "Dolandırıcılık Olarak Adlandırılmalı?</a> yazılarına bakabilirsiniz."
 
-#. GNUN-SORT-START
+#.  GNUN-SORT-START 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Ad-blocker\">Ad-blocker</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Ad-blocker\">Reklam engelleyici</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Access\">Access</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Access\">Erişim</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Alternative\">Alternative</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Alternative\">Alternatif</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Assets\">Assets</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Assets\">Varlıklar</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#BSD-style\">BSD-style</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#BSD-style\">BSD-stili</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Closed\">Closed</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Closed\">Kapalı</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#CloudComputing\">Cloud Computing</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#CloudComputing\">Bulut Hesaplama</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Commercial\">Commercial</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Commercial\">Ticari</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Compensation\">Compensation</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Compensation\">Mükafat</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Consume\">Consume</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Consume\">Tüketim</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Consumer\">Consumer</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Consumer\">Tüketici</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Content\">Content</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Content\">İçerik</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#CopyrightOwner\">Copyright Owner</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Consumer\">Telif hakkı sahibi</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid ""
 "&ldquo;<a href=\"#CreativeCommonsLicensed\">Creative Commons licensed</"
@@ -125,22 +134,22 @@ msgstr ""
 "&ldquo;<a href=\"#CreativeCommonsLicensed\">Creative Commons lisanslı</"
 "a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Creator\">Creator</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Creator\">Yaratıcı</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#DigitalGoods\">Digital Goods</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#DigitalGoods\">Dijital meta</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#DigitalLocks\">Digital Locks</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#DigitalLocks\">Dijital Kilitler</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid ""
 "&ldquo;<a href=\"#DigitalRightsManagement\">Digital Rights Management</"
@@ -149,188 +158,188 @@ msgstr ""
 "&ldquo;<a href=\"#DigitalRightsManagement\">Dijital Haklar Yönetimi</"
 "a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Ecosystem\">Ecosystem</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Ecosystem\">Ekosistem</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#FLOSS\">FLOSS</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#FLOSS\">ÖLAKY</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#ForFree\">For free</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#ForFree\">Bedava</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#FOSS\">FOSS</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#FOSS\">ÖAKY</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#FreelyAvailable\">Freely available</a>&rdquo; |"
 msgstr ""
 "&ldquo;<a href=\"#FreelyAvailable\">Özgürce edinilebilen yazılım</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Freeware\">Freeware</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Freeware\">Ücretsiz Yazılım (freeware)</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#GiveAwaySoftware\">Give away software</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#GiveAwaySoftware\">Bağış yazılım</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Google\">Google</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Google\">Google</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid ""
 "&ldquo;<a href=\"#IntellectualProperty\">Intellectual property</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#IntellectualProperty\">Fikri Mülkiyet</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#InternetofThings\">Internet of Things</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#InternetofThings\">Nesnelerin İnterneti</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#LAMP\">LAMP system</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#LAMP\">LAMP sistemi</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Linux\">Linux system</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Linux\">Linux sistemi</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Market\">Market</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Market\">Pazar</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Monetize\">Monetize</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Monetize\">Paraya çevirme</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#MP3Player\">MP3 player</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#MP3Player\">MP3 Çalar</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Open\">Open</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Open\">Açık</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#PC\">PC</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#PC\">PC</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Photoshop\">Photoshop</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Photoshop\">Photoshop</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Piracy\">Piracy</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Piracy\">Korsanlık</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#PowerPoint\">PowerPoint</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#PowerPoint\">PowerPoint</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Product\">Product</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Protection\">Ürün</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Protection\">Protection</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Protection\">Koruma</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#RAND\">RAND</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#RAND\">RAND</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SaaS\">SaaS</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SaaS\">SaaS</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SellSoftware\">Sell software</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SellSoftware\">Yazılımın satılması</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid ""
 "&ldquo;<a href=\"#SharingPersonalData\">Sharing (personal data)</a>&rdquo; |"
-msgstr "&ldquo;<a href=\"#PowerPoint\">Paylaşım (kişisel veri)</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#SharingPersonalData\">Paylaşım (kişisel veri)</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SharingEconomy\">Sharing economy</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SharingEconomy\">Paylaşım ekonomisi</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Skype\">Skype</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Skype\">Skype</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SoftwareIndustry\">Software Industry</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SoftwareIndustry\">Yazılım Endüstrisi</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#SourceModel\">Source model</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SourceModel\">Kaynak model</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
-#. #if expr="$LANGUAGE_SUFFIX	= /^.(es)$/"
-#. TRANSLATORS: translate if this word is used often in your
-#. language to refer to mobile computers; otherwise,
-#. fill the translation with a space.
-#. GNUN-SORT-BEGIN-KEY
+#.  GNUN-SORT-NEXT-ITEM 
+#. #if expr="$LANGUAGE_SUFFIX	= /^.(es)$/" 
+#.  TRANSLATORS: translate if this word is used often in your
+#.      language to refer to mobile computers; otherwise,
+#.      fill the translation with a space. 
+#.  GNUN-SORT-BEGIN-KEY 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Terminal\">Terminal</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Terminal\">Uçbirim</a>&rdquo; |"
 
-#. GNUN-SORT-END-KEY
+#.  GNUN-SORT-END-KEY 
 #. #endif
-#.
-#. GNUN-SORT-NEXT-ITEM
+#.  
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Theft\">Theft</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Theft\">Hırsızlık</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#TrustedComputing\">Trusted Computing</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#TrustedComputing\">Güvenli İşletim</a>&rdquo; |"
 
-#. GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Vendor\">Vendor</a>&rdquo;"
 msgstr "&ldquo;<a href=\"#Vendor\">Satıcı</a>&rdquo;"
@@ -432,7 +441,7 @@ msgstr ""
 "<b>Özgür yazılımla kamunun programa erişimi vardır</b> demek yerine, "
 "<b>özgür yazılımla kullanıcılarına dört temel özgürlüğü var</b> ve <b>özgür "
 "yazılımla kullanıcılar programlarının kendileri için ne yaptığının "
-"denetimine sahip</a> diyoruz."
+"denetimine sahip</b> diyoruz."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Alternative&rdquo;"
@@ -488,7 +497,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "&ldquo;BSD-style&rdquo;"
-msgstr "&ldquo;BSD-stili&rdquo;"
+msgstr "&ldquo;BSD stili&rdquo;"
 
 #. type: Content of: <p>
 msgid ""
@@ -788,7 +797,7 @@ msgstr ""
 "Yazılım ve diğer çalışmaların kopyalarını dar görüşlü bir ekonomistin bakış "
 "açısından değerlendirmek anlamına geliyor. &ldquo;Tüketim&rdquo;, arabaların "
 "kullandığı yakıt veya elektrik gibi maddi metaların ekonomisiyle "
-"ilişkilidir. Benzin bir metadır, elektrik de öyle. Metalar <em>misli</emt> "
+"ilişkilidir. Benzin bir metadır, elektrik de öyle. Metalar <em>misli</em> "
 "şeylerdir: arabanızın bugün yaktığı bir damla benzinle, geçen hafta yaktığı "
 "için hiç bir özel durum yoktur."
 
@@ -1408,18 +1417,18 @@ msgid ""
 "really do that.  If neutrality is your goal, &ldquo;FLOSS&rdquo; is better.  "
 "But if you want to show you stand for freedom, don't use a neutral term."
 msgstr ""
-"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖAKK "
-"(FOSS)&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür "
-"yazılım ve açık kaynak arasında tarafsız olmanın</a> bir yolu olarak ortaya "
-"kondu, ama aslında bunu başaramıyor. Eğer tarafsızlık amacınızsa, &ldquo;"
-"ÖLAKK&rdquo; daha iyi bir seçenektir. Ancak eğer özgürlüğün tarafını "
-"tuttuğunuzu göstermek istiyorsanız, tarafsız bir terim kullanmayın."
+"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖAKY (FOSS)"
+"&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür yazılım ve "
+"açık kaynak arasında tarafsız olmanın</a> bir yolu olarak ortaya kondu, ama "
+"aslında bunu başaramıyor. Eğer tarafsızlık amacınızsa, &ldquo;ÖLAKK&rdquo; "
+"daha iyi bir seçenektir. Ancak eğer özgürlüğün tarafını tuttuğunuzu "
+"göstermek istiyorsanız, tarafsız bir terim kullanmayın."
 
 #. type: Content of: <blockquote><p>
 msgid ""
 "Instead of <b>FOSS</b>, we say, <b>free software</b> or <b>free (libre) "
 "software</b>."
-msgstr "<b>ÖAKK</b> yerine <b>özgür yazılım</a> diyoruz."
+msgstr "<b>ÖAKY</b> yerine <b>özgür yazılım</b> diyoruz."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Freely available&rdquo;"
@@ -1783,7 +1792,7 @@ msgstr ""
 msgid "&ldquo;MP3 Player&rdquo;"
 msgstr "&ldquo;MP3 Çalar&rdquo;"
 
-#. The MP3 patents will reportedly expire by 2018.
+#.  The MP3 patents will reportedly expire by 2018.  
 #. type: Content of: <p>
 msgid ""
 "In the late 1990s it became feasible to make portable, solid-state digital "
@@ -1855,7 +1864,7 @@ msgstr ""
 msgid ""
 "Instead of <b>open source</b>, we say, <b>free software</b> or <b>free "
 "(libre) software</b>."
-msgstr "<b>Açık kaynak</a> yerine <b>özgür yazılım</b> diyoruz."
+msgstr "<b>Açık kaynak</b> yerine <b>özgür yazılım</b> diyoruz."
 
 #. type: Content of: <h3>
 msgid "&ldquo;PC&rdquo;"
@@ -2488,17 +2497,17 @@ msgstr ""
 "başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
 "\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
-#. TRANSLATORS: Ignore the original text in this paragraph,
-#. replace it with the translation of these two:
-#. We work hard and do our best to provide accurate, good quality
-#. translations.  However, we are not exempt from imperfection.
-#. Please send your comments and general suggestions in this regard
-#. to <a href="mailto:web-translators@gnu.org">
-#. &lt;web-translators@gnu.org&gt;</a>.</p>
-#. <p>For information on coordinating and submitting translations of
-#. our web pages, see <a
-#. href="/server/standards/README.translations.html">Translations
-#. README</a>.
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
@@ -2546,7 +2555,7 @@ msgstr ""
 "<li>İzlem Gözükeleş, 2009.</li>\n"
 "</ul>"
 
-#. timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"

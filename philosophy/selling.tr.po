@@ -7,7 +7,7 @@
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
-# The FLOSS Information &lt;theflossinformation@yandex.com&gt;, 2019.
+# The FLOSS Information <theflossinformation@yandex.com>, 2019.
 #
 msgid ""
 msgstr ""
