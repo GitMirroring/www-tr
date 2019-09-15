@@ -1,27 +1,24 @@
-# Turkish translations for http://www.gnu.org/philosophy/shouldbefree.html package
+# Turkish translation of http://www.gnu.org/philosophy/shouldbefree.html
 # shouldbefree.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
-# This file is distributed under the same license as the original package.
+# This file is distributed under the same license as the original page.
 # T. E. Kalayci, <tekrei@fsf.org>, 2019, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
-# July 2014: trivial update, 2 fuzzy strings left (T. Godefroy).
-# May 2017: update license, clean up.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldbefree.html\n"
 "POT-Creation-Date: 2018-01-01 05:59+0000\n"
-"PO-Revision-Date: 2019-09-08 16:24+0200\n"
+"PO-Revision-Date: 2019-09-08 17:16+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Outdated-Since: 2010-06-28 18:53+0000\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.3\n"
 
@@ -1949,22 +1946,3 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
-
-#~ msgid ""
-#~ "This page is licensed under a <a rel=\"license\" href=\"http://"
-#~ "creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-#~ "NoDerivs 3.0 United States License</a>."
-#~ msgstr ""
-#~ "Bu sayfa a <a rel=\"license\" href=\"http://creativecommons.org/licenses/"
-#~ "by-nd/3.0/us/deed.tr\">Creative Commons Attribution-NoDerivs 3.0 United "
-#~ "States License</a> ile lisanslanmıştır."
-
-#~ msgid "(Version of April 24, 1992)"
-#~ msgstr "(24 Nisan 1992 sürümü)"
-
-#~ msgid ""
-#~ "Here is the same program in executable form, on the computer I normally "
-#~ "use:"
-#~ msgstr ""
-#~ "Aşağıda aynı programın çalıştırılabilir biçimi gösterilmektedir, "
-#~ "bilgisayarda normalde kullanılan:"
