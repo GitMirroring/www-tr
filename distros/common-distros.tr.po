@@ -1,7 +1,7 @@
 # Turkish translation of https://www.gnu.org/distros/common-distros.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Umutcan OLĞUN <birsenesen4@gmail.com>, 2019.
+# The FLOSS Information <theflossinformation@yandex.com>, 2019.
 #
 msgid ""
 msgstr ""

@@ -1,5 +1,5 @@
 # Turkish translation of https://www.gnu.org/philosophy/free-software-intro.html
-# Copyright (C) 2011 Free Software Foundation, Inc.
+# Copyright (C) 2008 Free Software Foundation, Inc.
 # This file is distributed under the same license as the  original article.
 # Ali Servet Dönmez <asd@pittle.org>, 2008.
 # T. E. Kalayci <tekrei@fsf.org>, 2019, 2011.
@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-intro.html\n"
-"POT-Creation-Date: 2019-06-28 19:27+0200\n"
+"POT-Creation-Date: 2014-03-14 04:33+0000\n"
 "PO-Revision-Date: 2019-09-08 17:50+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -15,7 +15,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Outdated-Since: 2019-06-28 19:27+0200\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.3\n"
 
@@ -97,16 +96,6 @@ msgstr ""
 "href=\"/philosophy/essays-and-articles.html#LicensingFreeSoftware\">bazı "
 "özel durumlarla ilgili</a> yazılarımız da vardır."
 
-# | In 1998 the term &ldquo;open source&rdquo; was coined and associated with
-# | <a href=\"/philosophy/open-source-misses-the-point.html\">views
-# | considerably different from ours</a>.  These views cite only the practical
-# | advantages of free software, and carefully avoid the deeper issues of
-# | freedom and social solidarity that the Free Software Movement raises.
-# | [-Open-]  {+The idea of open+} source is good as far as it goes, but it
-# | only scratches the surface of the issue.  We don't mind working with
-# | supporters of open source on practical activities such as software
-# | development, but we do not agree with their views, and we decline to
-# | operate under their name.
 #. type: Content of: <p>
 msgid ""
 "In 1998 the term &ldquo;open source&rdquo; was coined and associated with <a "
@@ -158,17 +147,17 @@ msgstr ""
 "başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
 "\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
-#. TRANSLATORS: Ignore the original text in this paragraph,
-#. replace it with the translation of these two:
-#. We work hard and do our best to provide accurate, good quality
-#. translations.  However, we are not exempt from imperfection.
-#. Please send your comments and general suggestions in this regard
-#. to <a href="mailto:web-translators@gnu.org">
-#. &lt;web-translators@gnu.org&gt;</a>.</p>
-#. <p>For information on coordinating and submitting translations of
-#. our web pages, see <a
-#. href="/server/standards/README.translations.html">Translations
-#. README</a>.
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
@@ -185,8 +174,6 @@ msgstr ""
 "istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilir."
 
-# | Copyright &copy; 1999, 2007, [-2008-] {+2008, 2009, 2010+} Free Software
-# | Foundation, Inc.[-,-]
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1999, 2007, 2008, 2009, 2010 Free Software Foundation, Inc."
@@ -207,16 +194,14 @@ msgstr ""
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
-"<p>\n"
-"<strong>Çeviriye katkıda bulunanlar:</strong>\n"
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>T. E. Kalaycı</a> 2019, 2011.</li>\n"
+"<li>T. E. Kalaycı 2019, 2011.</li>\n"
 "<li><a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a> <a href="
 "\"mailto:asd@pittle.org\">&lt;asd@pittle.org&gt;</a>, 2008.</li>\n"
-"</ul>\n"
-"</p>"
+"</ul>"
 
-#. timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
