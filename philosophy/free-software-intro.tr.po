@@ -2,14 +2,14 @@
 # Copyright (C) 2008 Free Software Foundation, Inc.
 # This file is distributed under the same license as the  original article.
 # Ali Servet Dönmez <asd@pittle.org>, 2008.
-# T. E. Kalayci <tekrei@fsf.org>, 2019, 2011.
+# T. E. Kalayci, 2019, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-intro.html\n"
 "POT-Creation-Date: 2014-03-14 04:33+0000\n"
 "PO-Revision-Date: 2019-09-08 17:50+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"

@@ -5,14 +5,14 @@
 # Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
 # Beyhan Parlakyıldız <beyhanpar@gmail.com>, 2007.
 # Anıl Mevlüt Güven <anilmevlutguven@mynet.com>, 2007.
-# T. E. Kalayci <tekrei@fsf.org>, 2019
+# T. E. Kalayci, 2019
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 15-years-of-free-software.html\n"
 "POT-Creation-Date: 2014-04-05 15:25+0000\n"
 "PO-Revision-Date: 2019-08-29 19:28+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"

@@ -2,7 +2,7 @@
 # lessig-fsfs-intro.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the lessig-fsfs-intro.html package.
-# Tahir Emre Kalaycı <tekrei+ceviri@gmail.com>, 2009.
+# T. E. Kalayci, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
@@ -513,9 +513,7 @@ msgstr ""
 "<ul>\n"
 "\n"
 "<li>\n"
-"<a href=\"http://yzgrafik.ege.edu.tr/~tekrei/\">Tahir Emre Kalaycı</a>\n"
-"<a href=\"mailto:tekrei+ceviri@gmail.com\">&lt;tekrei+ceviri@gmail.com&gt;</"
-"a>,\n"
+"T. E. Kalayci,\n"
 "2009.\n"
 "</li>\n"
 "\n"

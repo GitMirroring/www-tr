@@ -5,14 +5,14 @@
 # Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
 # Hale Acun <halesss@yahoo.com>, 2007.
 # Fırat Özgül <fozgul@gmail.com>, 2008.
-# T. E. Kalayci <tekrei@fsf.org>, 2019.
+# T. E. Kalayci, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: why-gnu-linux.html\n"
 "POT-Creation-Date: 2016-11-18 06:57+0000\n"
 "PO-Revision-Date: 2019-09-08 14:46+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"

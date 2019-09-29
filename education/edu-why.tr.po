@@ -2,14 +2,14 @@
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # C.Y. <cyildizli@autistici.org>, 2019.
-# T. E. Kalayci <tekrei@fsf.org>, 2019.
+# T. E. Kalayci, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-why.html\n"
 "POT-Creation-Date: 2018-01-01 05:56+0000\n"
 "PO-Revision-Date: 2019-06-18 20:33+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"

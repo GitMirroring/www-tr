@@ -1,7 +1,7 @@
 # Turkish translation of https://www.gnu.org/gnu/manifesto.html
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original page.
-# T. E. Kalayci <tekrei@fsf.org>, 2019, 2009.
+# T. E. Kalayci, 2019, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: manifesto.html\n"
 "POT-Creation-Date: 2015-06-02 12:55+0000\n"
 "PO-Revision-Date: 2019-09-08 17:16+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"

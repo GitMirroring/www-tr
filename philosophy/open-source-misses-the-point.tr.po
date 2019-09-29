@@ -2,7 +2,7 @@
 # open-source-misses-the-point.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Tahir Emre Kalaycı <tekrei+ceviri@gmail.com>, 2010.
+# T. E. Kalayci, 2010.
 # The FLOSS Information <theflossinformation@yandex.com>, 2019.
 #
 msgid ""
@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: open-source-misses-the-point.html\n"
 "POT-Creation-Date: 2019-04-28 11:56+0000\n"
 "PO-Revision-Date: 2019-08-25 21:55+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"

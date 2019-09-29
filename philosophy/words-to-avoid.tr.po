@@ -1,7 +1,7 @@
 # Turkish translation of https://www.gnu.org/philosophy/words-to-avoid.html
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# T. E. Kalayci <tekrei@fsf.org>, 2009, 2019.\n"
+# T. E. Kalayci, 2009, 2019.\n"
 # Çiğdem Özşar, 2009.\n"
 # Birkan Sarıfakıoğlu, 2009.\n"
 # Serkan Çapkan, 2009.\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-16 15:55+0000\n"
 "PO-Revision-Date: 2019-09-15 11:18+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
