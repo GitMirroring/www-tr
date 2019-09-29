@@ -294,7 +294,8 @@ msgstr "&ldquo;<a href=\"#SellSoftware\">Yazılımın satılması</a>&rdquo; |"
 #. type: Content of: <p>
 msgid ""
 "&ldquo;<a href=\"#SharingPersonalData\">Sharing (personal data)</a>&rdquo; |"
-msgstr "&ldquo;<a href=\"#SharingPersonalData\">Paylaşım (kişisel veri)</a>&rdquo; |"
+msgstr ""
+"&ldquo;<a href=\"#SharingPersonalData\">Paylaşım (kişisel veri)</a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
@@ -2522,7 +2523,7 @@ msgstr ""
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
 "istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr\">çalışma "
-"sayfamızı</a> ziyaret edebilir."
+"sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""

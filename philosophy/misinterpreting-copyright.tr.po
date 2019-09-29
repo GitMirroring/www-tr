@@ -1,8 +1,7 @@
 # Turkish translation of http://www.gnu.org/philosophy/misinterpreting-copyright.html
-# misinterpreting-copyright.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original page.
-# T. E. Kalayci <tekrei@fsf.org>, 2019, 2009.
+# T. E. Kalayci, 2019, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
@@ -1373,7 +1372,7 @@ msgstr ""
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
 "istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
-"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilir."
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""

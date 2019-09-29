@@ -1,0 +1,626 @@
+# Turkish translation of https://www.gnu.org/distros/free-distros.html
+# Copyright (C) 2014 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Cenk <cyildizli@autistici.org>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: free-distros.html\n"
+"POT-Creation-Date: 2019-09-03 13:51+0300\n"
+"PO-Revision-Date: 2019-09-29 17:33+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#. type: Content of: <title>
+msgid ""
+"List of Free GNU/Linux Distributions - GNU Project - Free Software Foundation"
+msgstr ""
+"Özgür GNU/Linux Dağıtımlarının Listesi - GNU Projesi- Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Free GNU/Linux distributions"
+msgstr "Özgür GNU/Linux dağıtımları"
+
+#. type: Content of: <div><h3>
+msgid "Table of Contents"
+msgstr "İçindekiler"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#intro\">Introduction</a>"
+msgstr "<a href=\"#intro\">Giriş</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#for-pc\">GNU/Linux distros for PCs and workstations</a>"
+msgstr ""
+"<a href=\"#for-pc\">PC'lere ve iş istasyonlarına yönelik GNU/Linux "
+"dağıtımları</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#small-distros\">Small GNU/Linux distros</a>"
+msgstr "<a href=\"#small-distros\">Küçük GNU/Linux dağıtımları</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#howto-get\">How to get free GNU/Linux distros</a>"
+msgstr ""
+"<a href=\"#howto-get\">Özgür GNU/Linux dağıtımlarına nasıl ulaşılır</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#NewDistro\">See something we missed?</a>"
+msgstr "<a href=\"#NewDistro\">Kaçırdığımız şeyler var mı?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#Historical\">Historical</a>"
+msgstr "<a href=\"#Historical\">Tarihi</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"<em>The <a href=\"http://www.fsf.org/\">Free Software Foundation</a> is not "
+"responsible for other websites, or how up-to-date their information is.</em>"
+msgstr ""
+"<em><a href=\"http://www.fsf.org/\">Özgür Yazılım Vakfı</a> diğer web "
+"sayfalarından veya bilgilerinin güncelliğinden sorumlu değildir.</em>"
+
+#. type: Content of: <h3>
+msgid "Introduction"
+msgstr "Giriş"
+
+#. type: Content of: <p>
+msgid ""
+"This page lists the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
+"distributions that are entirely <a href=\"/philosophy/free-sw.html\">free</"
+"a> as in freedom.  <a href=\"/distros/free-non-gnu-distros.html\">Non-GNU-"
+"based free system distributions</a> are listed separately."
+msgstr ""
+"Bu sayfada özgürlük bağlamında tamamen <a href=\"/philosophy/free-sw.html"
+"\">özgür</a> olan <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
+"dağıtımları listeleniyor. <a href=\"/distros/free-non-gnu-distros.html\">GNU "
+"olmayan özgür dağıtımlar</a> ayrıca listelenmiştir."
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation recommends and endorses these GNU/Linux "
+"distros, although <strong>we do not try to judge or compare them based on "
+"any criterion other than freedom</strong>; therefore, we list them in "
+"alphabetical order."
+msgstr ""
+"<strong>Her ne kadar özgürlük dışında başka bir değerlendirme veya "
+"karşılaştırma ölçütü kullanmasak da </strong>; Özgür Yazılım Vakfı buradaki "
+"GNU/Linux dağıtımlarını önerir ve destekler. Bu nedenle, dağıtımları "
+"alfabetik sırayla sıraladık."
+
+#. type: Content of: <p>
+msgid ""
+"These distros are ready-to-use full systems whose developers have made a "
+"commitment to follow the <a href=\"/distros/free-system-distribution-"
+"guidelines.html\">Guidelines for Free System Distributions</a>.  This means "
+"they will include, and propose, exclusively free software.  They will reject "
+"nonfree applications, nonfree programming platforms, nonfree drivers, "
+"nonfree firmware &ldquo;blobs&rdquo;, nonfree games, and any other nonfree "
+"software, as well as nonfree manuals or documentation."
+msgstr ""
+"Buradaki dağıtımlar geliştiricilerinin <a href=\"/distros/free-system-"
+"distribution-guidelines.html\">Özgür Sistem Dağıtımları için Yönergelerine</"
+"a> bağlılıklarını gösterdiği kullanılmaya hazır tam sistemlerdir. Bu onların "
+"özgür yazılım içerdiği ve önerdiği anlamına gelir. Bu dağıtımlar özgür "
+"olmayan uygulamaların, programlama platformlarının, donanım yazılımlarının "
+"(blobları), oyunların ve özgür olmayan kılavuz veya belgelendirmenin "
+"yanında, diğer herhangi bir özgür olmayan yazılımı da reddeder."
+
+#. type: Content of: <p>
+msgid ""
+"If one of these distros ever does include or propose anything nonfree, that "
+"must have happened by mistake, and the developers are committed to removing "
+"it.  If you find nonfree software or documentation in one of these "
+"distributions, you can <a href=\"/help/gnu-bucks.html\">report the problem, "
+"and earn GNU Bucks</a>, while we inform the developers so they can fix the "
+"problem."
+msgstr ""
+"Bu dağıtımlardan biri özgür olmayan herhangi bir şey içeriyor veya "
+"öneriyorsa, bu bir yanlışlık sonucu olmalıdır, çünkü geliştiricileri böyle "
+"bir yazılımın kaldıracağını taahhüt etmiştir. Bu dağıtımlardan birinde özgür "
+"olmayan yazılım veya belgelendirme bulursanız, <a href=\"/help/gnu-bucks.html"
+"\">sorunu bildirip, GNU Bucks kazanabilirsiniz</a>, biz de geliştiricileri "
+"sorunu çözmeleri için bilgilendiririz."
+
+#. type: Content of: <p>
+msgid ""
+"Fixing freedom bugs is an ethical requirement for listing a distro here; "
+"therefore, we list only distros with a development team that has told us it "
+"will remove any nonfree software that might be found in them.  Usually the "
+"team consists of volunteers, and they don't make legally binding commitments "
+"to users; but if we find out a distro is not properly maintained, we will de-"
+"list it."
+msgstr ""
+"Burada listelenen bir dağıtımın özgürlüğe dair bir açığını kapatmak etik bir "
+"yükümlülüktür; bu nedenle bize yalnızca bulunduğu takdirde herhangi bir "
+"özgür olmayan yazılımın kaldırılacağını taahhüt eden geliştirici "
+"takımlarının olduğu dağıtımları listeledik. Bu takımlar genellikle "
+"gönüllülerden oluşur ve kullanıcılara yasal olarak bağlayıcı taahhütler "
+"vermez; ancak bir dağıtımın uygun şekilde sürdürülmediğini tespit edersek, "
+"listeyi buna göre yeniden düzenleriz."
+
+#. type: Content of: <p>
+msgid ""
+"We hope the other existing GNU/Linux distributions will become entirely free "
+"software so that we can list them here.  If you wish to improve the state of "
+"free distros, helping to develop an existing free distro contributes more "
+"than starting a new one."
+msgstr ""
+"Diğer mevcut GNU/Linux dağıtımlarının da, burada listelediklerimiz gibi "
+"tümüyle özgür olacağını umuyoruz. Özgür dağıtımların durumunu iyileştirmek "
+"istiyorsanız, yeni bir dağıtım başlatmaktan ziyade, mevcut bir özgür "
+"dağıtımın gelişimine yardım edebilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"Please note that not all hardware works in the free world; each distro's "
+"site should say which hardware it supports. We suggest that, after reading "
+"the short descriptions below, you consult these sites as well as other "
+"available information, to judge which distro is most convenient for you."
+msgstr ""
+"Lütfen, özgür dünyada, bütün donanımların çalışmayacağını unutmayın; her bir "
+"dağıtım sitesinde hangi donanımın desteklendiği belirtilmiş olmalıdır. Hangi "
+"dağıtımın size uygun olduğunu anlayabilmeniz için, burada bulunan kısa "
+"açıklamaları okuduktan sonra, başka bilgilendirme olup olmadığını görmek "
+"için sitelerini ziyaret etmenizi öneririz."
+
+#. type: Content of: <h3>
+msgid "GNU/Linux distros for PCs and workstations"
+msgstr "PC'lere ve iş istasyonlarına yönelik GNU/Linux dağıtımları"
+
+#. type: Content of: <p>
+msgid ""
+"The distributions that follow are installable to a computer's hard drive and/"
+"or can be run live."
+msgstr ""
+"Burada gösterilen dağıtımlar bir bilgisayarın sabit sürücüsüne yüklenebilir "
+"veya canlı olarak çalıştırılabilir."
+
+#. type: Content of: <table><thead><tr><th>
+msgid "Distribution"
+msgstr "Dağıtım"
+
+#. type: Content of: <table><thead><tr><th>
+msgid "Brief Description"
+msgstr "Kısa Açıklaması"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://dragora.org/en/index.html\">"
+msgstr "<a href=\"https://dragora.org/en/index.html\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Dragora GNU/Linux-Libre"
+msgstr "Dragora GNU/Linux-Libre"
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Dragora GNU/Linux-Libre, an independent GNU/Linux distribution based on "
+"concepts of simplicity."
+msgstr ""
+"Dragora GNU/Linux-Libre, basitlik kavramlarına dayalı bağımsız bir GNU/Linux "
+"dağıtımıdır."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://www.dyne.org/software/dynebolic/\">"
+msgstr "<a href=\"https://www.dyne.org/software/dynebolic/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Dyne:bolic"
+msgstr "Dyne:bolic"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Dyne:bolic, a GNU/Linux distribution with special emphasis on audio and "
+"video editing. This is a &ldquo;static&rdquo; distro, normally run from a "
+"live CD. Since it will not receive security updates, it should be used "
+"offline."
+msgstr ""
+"Dyne:bolic, ses ve görüntü düzenlemeye odaklı bir GNU/Linux dağıtımıdır. Bu "
+"&ldquo;statik&rdquo; bir dağıtımdır, normal CD üstünden çalışır. Güvenlik "
+"güncellemesi almadığı için, çevrimdışı olarak kullanılmalıdır."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"http://www.gnewsense.org/\">"
+msgstr "<a href=\"http://www.gnewsense.org/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "gNewSense"
+msgstr "gNewSense"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"gNewSense, a GNU/Linux distribution based on Debian, with sponsorship from "
+"the FSF."
+msgstr ""
+"gNewSense, FSF sponsorluğunda Debian tabanlı bir GNU/Linux dağıtımıdır."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"/software/guix/\">"
+msgstr "<a href=\"/software/guix/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "guix"
+msgstr "guix"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Guix System, an advanced GNU/Linux distro built on top of GNU Guix "
+"(pronounced &ldquo;geeks&rdquo;), a purely functional package manager for "
+"the GNU system."
+msgstr ""
+"Guix sistemi, GNU sistemi için saf işlevsel paket yöneticisi olan GNU "
+"Guix'in (&ldquo;geeks'ten&rdquo; türetilmiştir) üstüne kurulu ileri düzey "
+"bir GNU/Linux dağıtımıdır."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://www.hyperbola.info/?gnu-free-stros-page\">"
+msgstr "<a href=\"https://www.hyperbola.info/?gnu-free-stros-page\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Hyperbola"
+msgstr "Hyperbola"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Hyperbola GNU/Linux-libre, a long-term support simplicity-focused "
+"distribution based on Arch GNU/Linux."
+msgstr ""
+"Hyperbola GNU/Linux-libre, uzun süreli desteğe sahip, basitliğe odaklı, Arch "
+"GNU/Linux tabanlı bir dağıtımdır."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://www.parabola.nu\">"
+msgstr "<a href=\"https://www.parabola.nu\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Parabola GNU/Linux-libre"
+msgstr "Parabola GNU/Linux-libre"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Parabola GNU/Linux-libre, a distribution based on Arch that prioritizes "
+"simple package and system management."
+msgstr ""
+"Parabola GNU/Linux-libre, basit paket ve sistem yönetimine öncelik veren "
+"Arch tabanlı bir dağıtımdır."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://pureos.net/\">"
+msgstr "<a href=\"https://pureos.net/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "PureOS"
+msgstr "PureOS"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"PureOS, a GNU distribution based on Debian with a focus on privacy, "
+"security, and convenience."
+msgstr ""
+"PureOS gizlilik, güvenlik ve kolaylığa odaklanmış Debian tabanlı bir GNU "
+"dağıtımıdır."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://trisquel.info/\">"
+msgstr "<a href=\"https://trisquel.info/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Trisquel"
+msgstr "Trisquel"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Trisquel, a GNU/Linux distribution based on Ubuntu that's oriented toward "
+"small enterprises, domestic users and educational centers."
+msgstr ""
+"Trisquel, küçük işletmelere, ev kullanıcılarına ve eğitim merkezlerine "
+"yönelik Ubuntu tabanlı bir GNU/Linux dağıtımıdır."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"http://www.ututo.org/\">"
+msgstr "<a href=\"http://www.ututo.org/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Ututo"
+msgstr "Ututo"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Ututo S, a GNU/Linux 100% free distribution.  It was the first fully free "
+"GNU/Linux system recognized by the GNU Project."
+msgstr ""
+"Ututo S, %100 özgür bir GNU/Linux dağıtımıdır. GNU projesi tarafından ilk "
+"onaylanan tamamıyla özgür bir GNU/Linux sistemidir."
+
+#. type: Content of: <h3>
+msgid "Small GNU/Linux distros"
+msgstr "Küçük GNU/Linux dağıtımları"
+
+#. type: Content of: <p>
+msgid ""
+"Below is a list of small system distributions. These distributions are meant "
+"for devices with limited resources, like a wireless router for example. A "
+"free small system distribution is not self-hosting, but it must be "
+"developable and buildable on top of one of the free complete systems listed "
+"above, perhaps with the aid of free tools distributed alongside the small "
+"system distribution itself."
+msgstr ""
+"Aşağıda küçük sistem dağıtımlarının listesi var. Bu dağıtımlar kablosuz "
+"yönlendirici gibi sınırlı kaynaklara sahip aygıtlar içindir. Özgür bir küçük "
+"sistem dağıtımı kendi kendini barındırmaz, ancak yukarıda listelenen özgür "
+"sistemlerden birinin üzerine, belki de küçük sistem dağıtımının yanında "
+"dağıtılan özgür araçlar yardımıyla geliştirilebilir ve oluşturulabilir "
+"olmalıdır."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"http://librecmc.org/\">"
+msgstr "<a href=\"http://librecmc.org/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "libreCMC"
+msgstr "libreCMC"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"libreCMC is an embedded GNU/Linux distro for devices with very limited "
+"resources. While primarily targeting routers, it offers support for a wide "
+"range of devices and use cases. In 2015, LibreWRT merged with libreCMC."
+msgstr ""
+"libreCMC çok sınırlı kaynaklara sahip aygıtlar için gömülü bir GNU/Linux "
+"dağıtımıdır. Öncelikle yönlendiricilere odaklansa da, çok çeşitli cihaz ve "
+"kullanım durumlarına da destek sağlamaktadır. 2015'te LibreWRT, libreCMC ile "
+"birleşti."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"http://proteanos.com/\">"
+msgstr "<a href=\"http://proteanos.com/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "ProteanOS"
+msgstr "ProteanOS"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"ProteanOS is a new, small, and fast distribution for embedded devices. Its "
+"platform configuration feature allows binary packages to be configured at "
+"build-time and run-time for different hardware and use cases."
+msgstr ""
+"ProteanOS gömülü aygıtlar için yeni, küçük ve hızlı bir dağıtımdır. Platform "
+"yapılandırma özelliği, ikili paketlerin farklı donanım ve kullanım durumları "
+"için derleme sırasında ve çalışma zamanında yapılandırılmasını sağlıyor."
+
+#. type: Content of: <h3>
+msgid "How to get free GNU/Linux distros"
+msgstr "Özgür GNU/Linux dağıtımları nasıl edinilir"
+
+#. type: Content of: <p>
+msgid ""
+"In addition to their own sites, many of these distributions are available "
+"from <a href=\"http://mirror.fsf.org/\">mirror.fsf.org</a>.  Feel free to "
+"download or mirror the distributions from there, preferably using rsync.  "
+"Free distribution maintainers can request a mirror for their project by "
+"mailing the <a href=\"mailto:sysadmin@fsf.org\">FSF sysadmins</a>."
+msgstr ""
+"Kendi sitelerine ek olarak, bu dağıtımların birçoğu <a href=\"http://mirror."
+"fsf.org/\">mirror.fsf.org'da</a> bulunabilmektedir. Dağıtımları indirebilir "
+"veya tercihen rsync yardımıyla, yansısını oluşturabilirsiniz. Özgür dağıtım "
+"geliştirenler, projelerinin bir yansısını oluşturmamız için <a href=\"mailto:"
+"sysadmin@fsf.org\">FSF sistem yöneticilerine</a> e-posta atabilirler."
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/software/software.html\">Individual GNU packages</a> (most of "
+"which are included in the free distributions here)  are described separately."
+msgstr ""
+"<a href=\"/software/software.html\">Tekil GNU paketleri</a> (birçoğu "
+"buradaki özgür dağıtımlarda bulunmaktadır) ayrıca anlatılmıştır."
+
+#. type: Content of: <p>
+msgid ""
+"We list <a href=\"https://www.fsf.org/resources/hw/endorsement/respects-your-"
+"freedom\"> companies that sell hardware preinstalled with a free GNU/Linux "
+"distribution</a> separately."
+msgstr ""
+"<a href=\"https://www.fsf.org/resources/hw/endorsement/respects-your-freedom"
+"\">İçine özgür bir GNU/Linux dağıtımı yüklenmiş donanımlar satan şirketleri</"
+"a> ayrıca listeledik."
+
+#. type: Content of: <h3>
+msgid "See something we missed?"
+msgstr "Kaçırdığımız şeyler var mı?"
+
+#. type: Content of: <p>
+msgid ""
+"Do you know about a distribution that you expected to find on our list, but "
+"didn't? First, check our page about <a href=\"/distros/common-distros.html"
+"\">why we don't endorse some common distributions</a>.  That page explains "
+"the reasons why several well-known distributions don't meet <a href=\"/"
+"distros/free-system-distribution-guidelines.html\">our guidelines</a>.  If "
+"the distribution isn't listed there either, and you think it qualifies for a "
+"listing under our guidelines, then please let the distribution's maintainers "
+"know about this page and encourage them to get in touch&mdash;we'd like to "
+"hear from them."
+msgstr ""
+"Listemizde bulmayı umup bulamadığınız bir dağıtım var mı? Öncelikle, <a href="
+"\"/distros/common-distros.html\">neden bazı yaygın dağıtımları "
+"desteklemediğimize</a> ilişkin sayfamıza bakın. Bu sayfada neden birçok "
+"bilinen dağıtımın <a href=\"/distros/free-system-distribution-guidelines.html"
+"\">yönergemizi</a> karşılamadığı açıklanıyor. Eğer bir dağıtım orada da "
+"listelenmemişse ve bizim yönergemize uyuyorsa, lütfen geliştiricileri bu "
+"sayfadan haberdar edin ve onların bizimle temasa geçmesini sağlayın; "
+"onlardan haber almak isteriz."
+
+#. type: Content of: <p>
+msgid ""
+"If you maintain a distribution that follows the <a href=\"/distros/free-"
+"system-distribution-guidelines.html\">Free System Distribution Guidelines</"
+"a> and would like to be listed here, please write to <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> with an introduction and "
+"a link to the project Web site.  When you do, we'll explain more about our "
+"evaluation process to you, and get started on it quickly.  We look forward "
+"to hearing from you!"
+msgstr ""
+"<a href=\"/distros/free-system-distribution-guidelines.html\">Özgür Sistem "
+"Dağıtımı Yönergeleri'ne</a> uyduğunu düşündüğünüz ve burada listelenmesini "
+"istediğiniz bir dağıtım varsa, lütfen <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine bir tanıtım yazısı ve projenin "
+"web sayfasını gönderin. Bunu yaptığınızda, değerlendirme sürecimiz hakkında "
+"size daha fazla bilgi vereceğiz ve hemen değerlendirmeye başlayacağız. "
+"Sizden haber almak için sabırsızlanıyoruz!"
+
+#. type: Content of: <h3>
+msgid "Historical"
+msgstr "Tarihi"
+
+#. type: Content of: <p>
+msgid ""
+"The distributions that follow were previously listed above, but are no "
+"longer recommended."
+msgstr ""
+"Burada bulunan dağıtımlar daha önce listede yer almaktaydı, fakat artık "
+"önerilmemektedir."
+
+#. type: Content of: <table><thead><tr><th>
+msgid "Retirement Info"
+msgstr "Çekilme Bilgisi"
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"http://www.blagblagblag.org/\">"
+msgstr "<a href=\"http://www.blagblagblag.org/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "BLAG Linux and GNU"
+msgstr "BLAG Linux ve GNU"
+
+#. type: Content of: <table><tr><td>
+msgid "BLAG Linux and GNU, a GNU/Linux distribution based on Fedora."
+msgstr "BLAG Linux ve GNU, Fedora tabanlı bir GNU/Linux dağıtımıdır."
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<em>Removed June 2018</em>. Removed at the request of the maintainers, as "
+"they had stopped maintaining it."
+msgstr ""
+"<em>Haziran 2018'de kaldırıldı</em>. Geliştirilmesi durdurulduğu için "
+"geliştiricilerin isteği üzerine kaldırıldı."
+
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"https://musixdistro.wordpress.com/\">"
+msgstr "<a href=\"https://musixdistro.wordpress.com/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Musix GNU+Linux"
+msgstr "Musix GNU+Linux"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"Musix, a GNU+Linux distribution based on Knoppix, with special emphasis on "
+"audio production. This is a &ldquo;static&rdquo; distro, normally run from a "
+"live CD. Since it will not receive security updates, it should be used "
+"offline."
+msgstr ""
+"Musix, ses prodüksiyonu üstünde duran Knoppix tabanlı bir GNU+Linux "
+"dağıtımıdır. Bu &ldquo;statik&rdquo; bir dağıtımdır, normal CD üstünden "
+"çalışır. Güvenlik güncellemesi almadığı için, çevrimdışı olarak "
+"kullanılmalıdır."
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<em>Removed March 2019</em>. Removed at the request of the maintainer, as "
+"they had stopped maintaining it."
+msgstr ""
+"<em>Mart 2019'da kaldırıldı</em>. Geliştirilmesi durdurulduğu için "
+"geliştiricilerin isteği üzerine kaldırıldı."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#
+#
+#
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul><li>\n"
+"C.Y. <a href=\"mailto:cyildizli@autistici.org\">&lt;cyildizli@autistici."
+"org&gt;</a>, 2019.\n"
+"</li>\n"
+"</ul>"
+
+#. timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

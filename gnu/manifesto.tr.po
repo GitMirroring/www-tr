@@ -1,5 +1,4 @@
 # Turkish translation of https://www.gnu.org/gnu/manifesto.html
-# manifesto.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original page.
 # T. E. Kalayci <tekrei@fsf.org>, 2019, 2009.
@@ -1327,7 +1326,7 @@ msgstr ""
 "anlamı dağıtmakta özgür olduğunuz, ancak genellikle kaynak kodu "
 "çalışamayacağınız, değiştiremeyeceğinizdir, bu yüzden çoğu özgür yazılım "
 "değildir. Daha fazla açıklama için <a href=\"/philosophy/words-to-avoid."
-"html#Freeware\">kafa karıştıran kelimeler ve ifadeler</a>e ziyaret ediniz."
+"html#Freeware\">kafa karıştıran kelimeler ve ifadeler</a> sayfasını ziyaret ediniz."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -1373,7 +1372,7 @@ msgstr ""
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
 "istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
-"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilir."
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""
