@@ -1,7 +1,6 @@
-# Turkish translations for rms-nyu-2001-transcript.html package
-# rms-nyu-2001-transcript.html paketi için Türkçe çeviriler
+# Turkish translation of https://www.gnu.org/philosophy/rms-nyu-2001-transcript.html
 # Copyright (C) 2009 Free Software Foundation, Inc.
-# This file is distributed under the same license as the rms-nyu-2001-transcript.html package.
+# This file is distributed under the same license as the roriginal article.
 # T. E. Kalayci, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.

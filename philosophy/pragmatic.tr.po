@@ -1,7 +1,6 @@
-# Turkish translations for pragmatic.html package
-# pragmatic.html paketi için Türkçe çeviriler
+# Turkish translation of https://www.gnu.org/philosophy/pragmatic.html
 # Copyright (C) 2009 Free Software Foundation, Inc.
-# This file is distributed under the same license as the pragmatic.html package.
+# This file is distributed under the same license as the original article.
 # T. E. Kalayci, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.

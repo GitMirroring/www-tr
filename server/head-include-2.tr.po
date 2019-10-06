@@ -1,7 +1,6 @@
-# Turkish translations for head-include-2.html package
-# banner.html paketi için Türkçe çeviriler
+# Turkish translation of https:/www.gnu.org/server/head-include-2.html
 # Copyright (C) 2008 Free Software Foundation, Inc.
-# This file is distributed under the same license as the banner.html package.
+# This file is distributed under the same license as the original page.
 # Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
 # The FLOSS Information <theflossinformation@yandex.com>, 2019.
 #
@@ -22,23 +21,3 @@ msgstr ""
 #. type: Attribute 'content' of: <meta>
 msgid "width=device-width, initial-scale=1"
 msgstr "width=device-width, initial-scale=1"
-
-# type: Content of: <style>
-#~ msgid "@import url('/style.css');"
-#~ msgstr "@import url('/style.css');"
-
-# type: Content of: <style>
-#, fuzzy
-#~| msgid "@import url('/print.css');"
-#~ msgid "@import url('/mini.css');"
-#~ msgstr "@import url('/print.css');"
-
-# type: Content of: <style>
-#~ msgid "@import url('/print.css');"
-#~ msgstr "@import url('/print.css');"
-
-# type: Content of: <style>
-#, fuzzy
-#~| msgid "@import url('/print.css');"
-#~ msgid "@import url('http://static.fsf.org/mini.css');"
-#~ msgstr "@import url('/print.css');"

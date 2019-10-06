@@ -1,7 +1,6 @@
-# Turkish translations for drdobbs-letter.html package
-# drdobbs-letter.html paketi için Türkçe çeviriler
+# Turkish translation of https://www.gnu.org/philosophy/drdobbs-letter.html
 # Copyright (C) 2008 Free Software Foundation, Inc.
-# This file is distributed under the same license as the drdobbs-letter.html package.
+# This file is distributed under the same license as the original article.
 # Ali Servet Dönmez <asd@pittle.org>, 2008.
 # Fatma Ekşioğlu <fatma.eksioglu@gmail.com>, 2007.
 # Anıl Mevlüt Güven <anilmevlutguven@mynet.com>, 2007.
