@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: not-ipr.html\n"
-"POT-Creation-Date: 2019-11-15 18:35+0100\n"
-"PO-Revision-Date: 2019-11-15 20:30+0100\n"
+"POT-Creation-Date: 2018-09-13 21:56+0000\n"
+"PO-Revision-Date: 2019-11-16 14:29+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -46,7 +46,7 @@ msgstr ""
 "Telif hakkını, patentleri ve markaları (üçü de ayrı ve farklı yasalar "
 "kümesine sahip, birbirinden farklı şeyler olduğu halde) ve üstelik bir "
 "düzine başka yasayı aynı kefeye koyup, &ldquo;fikri mülkiyet&rdquo; olarak "
-"adlandırmak bir moda haline geldi. Çarpık ve muğlak terimin yaygınlaşması "
+"adlandırmak bir moda haline geldi. Bu çarpık ve muğlak terimin yaygınlaşması "
 "bir rastlantıyla olmadı. Muğlaklıktan beslenen şirketler onu savundular. "
 "Muğlaklığı ortadan kaldırmanın en temiz yolu, bu terimi tamamen reddetmekle "
 "mümkündür."
@@ -92,12 +92,12 @@ msgstr ""
 "Terimin görmesi zor olmayan bir taraflılığı var: telif hakları, patentler ve "
 "markalar hakkında, fiziksel nesnelerin mülkiyet haklarıyla benzerlik kurarak "
 "düşünmeyi önerir. (Bu benzetme telif hakları yasası, patent yasası ve marka "
-"yasasının hukuk felsefelerine aykırıdır, ancak sadece uzmanlar bunu "
-"biliyor.) Bu yasalar hiç de fiziksel mülkiyet yasalarına benzemez, ancak bu "
-"terimin kullanımı yasa koyucuların onları daha da benzeyecek şekilde "
-"değiştirmesine yol açar. Bu değişiklik telif hakkı, patent ve marka "
-"yetkilerini uygulayan şirketlerin de arzuladığı bir şey olduğu için, &ldquo;"
-"fikri mülkiyet&rdquo; teriminin yarattığı taraflılık onların işine gelir."
+"yasasının hukuk felsefelerine aykırıdır, ancak sadece uzmanlar bunu bilir.) "
+"Bu yasalar fiziksel mülkiyet yasalarına hiç de benzemez, ancak bu terimin "
+"kullanımı yasa koyucuların onları daha da benzeyecek şekilde değiştirmesine "
+"yol açar. Bu değişiklik telif hakkı, patent ve marka yetkilerini uygulayan "
+"şirketlerin de arzuladığı bir şey olduğu için, &ldquo;fikri mülkiyet&rdquo; "
+"teriminin yarattığı taraflılık onların işine gelir."
 
 #. type: Content of: <p>
 msgid ""
@@ -114,8 +114,8 @@ msgstr ""
 "(Imposed Monopoly Privileges - Dayatılan Tekel Ayrıcalıkları), GOLEM "
 "(Government-Originated Legally Enforced Monopolies - Hükümet Kaynaklı Yasal "
 "olarak Zorlanmış Tekeller) gibi öneriler vardı. Bazıları &ldquo;münhasır "
-"haklar rejimi&rdquo;nden söz ederken, kısıtlamalardan &ldquo;haklar&rdquo; "
-"olarak gönderme yapması tam bir karşıt görüşlere inanmadır."
+"haklar rejimi&rdquo;nden söz ederken, kısıtlamalara &ldquo;haklar&rdquo; "
+"olarak gönderme yapması tam bir aynı anda iki zıt görüşe inanmadır."
 
 #. type: Content of: <p>
 msgid ""
@@ -350,12 +350,12 @@ msgid ""
 "be allowed to produce life-saving drugs and sell them cheaply to save lives; "
 "copyright law has nothing to do with such matters."
 msgstr ""
-"Bir başka sorun şudur. &ldquo;Fikri mülkiyet&rdquo; teriminde ima edilen "
-"geniş ölçekte, çeşitli yasaların ortaya koyduğu belirli hususlar neredeyse "
-"görünmez olurlar. Her yasanın özgünlüklerinden ortaya çıkan bu hususlar, tam "
-"da &ldquo;fikri mülkiyet&rdquo; teriminin insanları görmezden gelmeye teşvik "
-"ettiği şeydir. Örneğin, telif hakkı yasasıyla ilişkili bir sorun, müzik "
-"paylaşmaya izin verilip verilmeyeceğidir; patent yasasının bununla bir "
+"Bir başka sorun da, &ldquo;fikri mülkiyet&rdquo; teriminde ima edilen geniş "
+"ölçekte, çeşitli yasaların ortaya koyduğu belirli hususların neredeyse "
+"görünmez olmasıdır. Her yasanın özgünlüklerinden ortaya çıkan bu hususlar, "
+"tam da &ldquo;fikri mülkiyet&rdquo; teriminin insanları görmezden gelmeye "
+"teşvik ettiği şeydir. Örneğin, telif hakkı yasasıyla ilişkili bir sorun, "
+"müzik paylaşmaya izin verilip verilmeyeceğidir; patent yasasının bununla bir "
 "ilgisi yoktur. Patent yasası yoksul ülkelerin hayat kurtaran ilaçları "
 "üretmesine ve yaşam kurtarmak için ucuza satılmasına izin verilip "
 "verilmeyeceği gibi hususları ortaya koyarken, telif hakları yasasının bu "
@@ -369,11 +369,11 @@ msgid ""
 "two laws in the &ldquo;intellectual property&rdquo; pot obstructs clear "
 "thinking about each one."
 msgstr ""
-"Bu sorunların hiç birinin doğası gereği tamamen ekonomik değildir ve "
-"ekonomik olmayan yönleri birbirinden oldukça farklıdır. Onları dikkate "
-"almanın bir temeli olarak sığ ekonomik aşırı genellemeyi kullanmak, "
-"farklılıkları yok saymak anlamına gelir. İki yasayı da aynı &ldquo;fikri "
-"mülkiyet&rdquo; kefesine koymak, her biri hakkındaki açık düşünmeyi engeller."
+"Bu sorunların hiç biri doğası gereği tamamen ekonomik değildir ve ekonomik "
+"olmayan yönleri birbirinden oldukça farklıdır. Onları dikkate almanın bir "
+"temeli olarak yüzeysel ekonomik aşırı genellemeyi kullanmak, farklılıkları "
+"yok saymak anlamına gelir. İki yasayı da aynı &ldquo;fikri mülkiyet&rdquo; "
+"kefesine koymak, her biri hakkındaki açık düşünmeyi engeller."
 
 #. type: Content of: <p>
 msgid ""
@@ -497,20 +497,17 @@ msgstr ""
 "başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
 "\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
-#
-#
-#
-#. TRANSLATORS: Ignore the original text in this paragraph,
-#. replace it with the translation of these two:
-#. We work hard and do our best to provide accurate, good quality
-#. translations.  However, we are not exempt from imperfection.
-#. Please send your comments and general suggestions in this regard
-#. to <a href="mailto:web-translators@gnu.org">
-#. &lt;web-translators@gnu.org&gt;</a>.</p>
-#. <p>For information on coordinating and submitting translations of
-#. our web pages, see <a
-#. href="/server/standards/README.translations.html">Translations
-#. README</a>.
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
