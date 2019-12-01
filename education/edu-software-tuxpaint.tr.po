@@ -1,0 +1,424 @@
+# Turkish translation of https://www.gnu.org/education/edu-software-tuxpaint.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@yandex.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-software-tuxpaint.html\n"
+"POT-Creation-Date: 2016-09-13 15:56+0000\n"
+"PO-Revision-Date: 2019-12-01 11:06+0100\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid "Tux Paint - GNU Project - Free Software Foundation"
+msgstr "Tux Paint - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
+"education/edu-resources.html\">Educational Resources</a> &rarr; <a href=\"/"
+"education/edu-software.html\">Educational Free Software</a> &rarr; Tux Paint"
+msgstr ""
+"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
+"edu-resources.html\">Eğitim Kaynakları</a> &rarr; <a href=\"/education/edu-"
+"software.html\">Eğitsel Özgür Yazılım</a> &rarr; Tux Paint"
+
+#. type: Content of: <h2>
+msgid "Tux Paint"
+msgstr "Tux Paint"
+
+#. type: Content of: <h3>
+msgid "Description"
+msgstr "Açıklama"
+
+#. GNUN: localize URL /education/misc/tuxpaint-start-sm.png, /education/misc/tuxpaint-start.png
+#. type: Content of: <div><a>
+msgid "<a href=\"/education/misc/tuxpaint-start.png\">"
+msgstr "<a href=\"/education/misc/tuxpaint-start.png\">"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "Screenshot of the Tux Paint interface."
+msgstr "Tux Paint arayüzünün ekran görüntüsü."
+
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Tux Paint is a cross-platform drawing program created specifically for "
+"children. Little kids as young as 3 years old have no difficulty in finding "
+"their way around its clear and intuitive interface which features large "
+"buttons identified by a label as well as an icon so that the child can "
+"easily recognize them. At the center of the screen there is a white canvas "
+"for the child to draw making use of a wide variety of tools and paint "
+"brushes. As a start, the child can load outlined pictures to be colored, as "
+"in a coloring-book."
+msgstr ""
+"Tux Paint, özellikle çocuklar için oluşturulmuş bir çok platformu "
+"destekleyen bir çizim programıdır. 3 yaşından küçük çocuklar; bir etiket "
+"tarafından tanımlanan büyük butonların yanı sıra çocuğun kolayca "
+"tanıyabilmesi için bir simgeye sahip olan net ve sezgisel arayüzünün "
+"etrafında yol bulmakta güçlük çekmezler. Ekranın merkezinde çocuğun çok "
+"çeşitli araç ve boya fırçalarını kullanarak çizim yapması için beyaz bir "
+"tuval var. Bir başlangıç olarak çocuk boyama kitabındaki gibi renkli olması "
+"gereken resimleri yükleyebilir."
+
+#. type: Content of: <p>
+msgid ""
+"The program includes all of the most common drawing tools such as lines and "
+"brushes for free-hand drawing and coloring, geometric shapes, sizing, an "
+"eraser, the \"Redo\" and \"Undo\" options, plus sound that plays while "
+"painting and a special tool called \"Magic\" for impressive effects: "
+"rainbow, glitter, chalk, blur, flip, and more."
+msgstr ""
+"El çizimi ve boyama, geometrik şekiller, boyutlandırma, bir silgi, \"Yinele"
+"\" ve \"Geri Al\" seçenekleri, artı boyama sırasında oynayan ses ve "
+"etkileyici efektler için \"Sihir\" olarak adlandırılan özel bir araç: "
+"Gökkuşağı, parıltı, tebeşir, bulanıklık, dönüş ve daha fazlası..."
+
+#. type: Content of: <p>
+msgid ""
+"Along with the Magic tool, the other popular feature among children is "
+"\"Stamp\", which contains loads of pictures and clip art that can be "
+"\"stamped\" on the canvas, such as plants and flowers, animals, holiday art, "
+"planets, and much more. Many of these stamps are provided with the program "
+"out of the box, and others are available as separate collections to be "
+"installed. Many users contribute their own art work to be included as stamps "
+"in the program; here we are going to see an example of how this was done by "
+"a group of children from a school in India, thus putting into practice the "
+"software freedom that the program guarantees."
+msgstr ""
+"Sihir aracının yanı sıra çocuklar arasında diğer popüler özellik; bitkiler "
+"ve çiçekler, hayvanlar, tatil sanatı, gezegenler ve daha fazlası gibi tuval "
+"üzerine \"damgalanabilen\" birçok resim ve küçük resim içeren \"Damga\". Bu "
+"damgaların birçoğu program kutusundan çıkarılmış ve diğerleri kurulacak ayrı "
+"koleksiyonlar halinde temin edilmiştir. Birçok kullanıcı programda yer "
+"alması için kendi sanat eserlerine katkıda bulunur; Hindistan'da bir okuldan "
+"bir grup çocuk tarafından bunun nasıl yapıldığını gösteren bir örnek "
+"vereceğiz, böylece programın güvence altına aldığı yazılım özgürlüğünü "
+"uygulamaya koyacağız."
+
+#. type: Content of: <p>
+msgid ""
+"Tux Paint is available in more than 80 languages, including minority and "
+"right-to-left languages. Such a large number of languages is the result of "
+"contributions made by users from all over the world."
+msgstr ""
+"Tux Paint azınlık ve sağdan sola diller dahil olmak üzere 80'den fazla dilde "
+"mevcuttur. Bu kadar çok dil, dünyanın her yerinden kullanıcılar tarafından "
+"yapılan katkıların sonucudur."
+
+#. type: Content of: <p>
+msgid ""
+"To learn more: <a href=\"http://directory.fsf.org/project/TuxPaint/\"> FSF "
+"Directory</a>, <a href=\"http://tuxpaint.org\"> Tux Paint Official Website</"
+"a>"
+msgstr ""
+"Daha fazla öğrenmek için: <a href=\"http://directory.fsf.org/project/"
+"TuxPaint/\"> FSF Dizini</a>, <a href=\"http://tuxpaint.org\"> Tux Paint "
+"Resmî Web Sitesi</a>"
+
+#. type: Content of: <h3>
+msgid "Who's Using It and How"
+msgstr "Kim Kullanıyor ve Nasıl?"
+
+#. type: Content of: <div><a>
+msgid "<a href=\"/education/misc/tuxpaint-stamps.jpg\">"
+msgstr "<a href=\"/education/misc/tuxpaint-stamps.jpg\">"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "Screenshot of the Tux Paint interface in Malayalam with native flowers."
+msgstr ""
+"Malayalamca Tux Paint arayüzünün yerel çiçeklerle birlikte ekran görüntüsü."
+
+#. type: Content of: <p>
+msgid ""
+"Comments by <a href=\"http://tuxpaint.org/comments/\">home users</a> and "
+"stories from <a href=\"http://tuxpaint.org/schools/\">schools</a> using Tux "
+"Paint are presented in the official website. There are reports that the "
+"program is one of the most helpful tools for children to get acquainted with "
+"basic computer graphic skills while providing a highly attractive "
+"environment for them. However, the distinctive feature that makes Tux Paint "
+"preferable to similar drawing software for kids is the fact that it is Free "
+"Software, meaning it comes with no restrictions of any sort and the user is "
+"granted a series of freedoms. For example, one of the freedoms is that the "
+"user is allowed to install the program in as many work stations as needed, "
+"which is specially important for schools."
+msgstr ""
+"Ev kullanıcıları tarafından hazırlanan yorumlar ve Tux Paint kullanan "
+"okullardan gelen öyküler resmi web sitesinde sunulmuştur. Program çocuklar "
+"için son derece çekici bir ortam sağlarken temel bilgisayar çocukların "
+"grafik becerilerini tanımaları için en yararlı araçlarından biri olduğu "
+"bildirilmektedir. Bununla birlikte Tux Paint'i çocuklar için benzer çizim "
+"yazılımlarına göre daha fazla tercih ettiren özellik, Özgür Yazılım olduğu "
+"gerçeğidir, yani herhangi bir kısıtlama olmadan gelir ve kullanıcıya bir "
+"dizi özgürlük verir. Örneğin; özgürlüklerden biri, kullanıcının programı "
+"okullar için özel olarak önemli olan birçok iş istasyonuna kurmasına izin "
+"verilmesidir."
+
+#. type: Content of: <p>
+msgid ""
+"Another significant freedom that Free Software guarantees is the freedom to "
+"modify the program so as to adapt it to the user's needs and to redistribute "
+"copies of the modified version. It is thanks to this freedom that Tux Paint "
+"is available in so many languages, including those spoken by minority "
+"groups. In fact, translations into less widely spoken languages have been "
+"provided by the users themselves. This is so because most of the time, "
+"companies whose business consists of development of nonfree software adopt "
+"policies on the basis of market size: if the market is not large enough to "
+"ensure profit, they are generally reluctant to invest on it."
+msgstr ""
+"Özgür Yazılım'ın güvence altına aldığı bir diğer önemli özgürlük; programı "
+"kullanıcının ihtiyaçlarına göre uyarlamak ve değiştirilmiş sürümün "
+"kopyalarını yeniden dağıtmak için programı değiştirme özgürlüğüdür. Bu "
+"özgürlük sayesinde Tux Paint azınlık grupları tarafından konuşulanlar da "
+"dahil olmak üzere pek çok dilde mevcut. Aslında daha az konuşulan dillere "
+"yapılan çeviriler kullanıcıların kendileri tarafından sağlanmıştır. Bunun "
+"nedeni, çoğu zaman işleri özgür olmayan yazılımların geliştirilmesinden "
+"oluşan şirketlerin pazar büyüklüğüne dayanan politikalar benimsemeleridir: "
+"Pazar kâr sağlayacak kadar büyük değilse genellikle yatırım yapmakta "
+"isteksizdirler."
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/education/misc/appooppanthaady.jpg\">"
+msgstr "<a href=\"/education/misc/appooppanthaady.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "Image of the Appooppan Thaady flower."
+msgstr "Appooppan Thaady çiçeğinin görüntüsü."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"/education/misc/appooppanthady.ogg\">Listen</a> to a student "
+"pronounce the name of the Appooppan Thaady flower in Malayalam."
+msgstr ""
+"Malayalamca olarak Appooppan Thaady çiçeğinin adını söyleyen bir öğrenciyi "
+"<a href=\"/education/misc/appooppanthady.ogg\">dinleyin</a>."
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/education/misc/anthoorium.jpg\">"
+msgstr "<a href=\"/education/misc/anthoorium.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "Image of the Anthoorium flower."
+msgstr "Anthoorium çiçeğinin görüntüsü."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"/education/misc/anthoorium.ogg\">Listen</a> to a student pronounce "
+"the name of the Anthoorium flower in Malayalam."
+msgstr ""
+"Malayalamca olarak Anthoorium çiçeğinin adını söyleyen bir öğrenciyi <a href="
+"\"/education/misc/anthoorium.ogg\">dinleyin</a>."
+
+#. type: Content of: <p>
+msgid ""
+"A good example of how software freedom can be applied in Tux Paint is the "
+"work done by 11 and 12 years old students from the <a href=\"/education/edu-"
+"cases-india-irimpanam.html\">VHSS Irimpanam</a> school in the State of "
+"Kerala, in India. The work consisted in adding a series of stamps to the "
+"program, from photographs taken by the students themselves. They took "
+"pictures of autochthonous flowers and processed the digital images with the "
+"free libre GNU Image Manipulation Program <a href= \"http://directory.fsf."
+"org/project/gimp/\">GIMP</a>, adding also the name of each flower in English "
+"and in Malayalam, the local language.  As Tux Paint has a sound function, "
+"students also recorded with their own voices the name of the flowers in "
+"Malayalam, so when one of these flowers is chosen to be stamped onto the "
+"canvas, the user will see and hear the name of the flower in Malayalam.  <a "
+"href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.en.ogv\"> Watch "
+"and download the video</a> and <a href=\"/education/misc/irimpanam.en.srt"
+"\">the SubRip subtitles</a>."
+msgstr ""
+"Tux Paint'te yazılım özgürlüğünün nasıl uygulanabileceğinin güzel bir "
+"örneği; Hindistan'ın Kerala Eyaleti'ndeki <a href=\"/education/edu-cases-"
+"india-irimpanam.html\">VHSS Irimpanam</a> okulundan 11 ve 12 yaşındaki "
+"öğrenciler tarafından yapılan çalışmadır. Çalışma, programın öğrenciler "
+"tarafından çekilen fotoğraflardan bir dizi damga eklenmesinden oluşuyordu. "
+"Yerel çiçeklerin resimlerini çektiler ve dijital görüntüleri özgür GNU "
+"Görüntü İşleme Programı <a href= \"http://directory.fsf.org/project/gimp/"
+"\">GIMP (GNU Image Manipulation Program)</a> ile işleyerek her çiçeğin adını "
+"İngilizce ve yerel dil olan Malayalamca olarak eklediler. Tux Paint'in ses "
+"işlevi olduğundan dolayı öğrenciler çiçeklerin adını kendi sesleriyle "
+"Malayalamca olarak da kaydetmişlerdir, bu nedenle bu çiçeklerden biri tuvale "
+"damgalanmak üzere seçildiğinde kullanıcı görecek ve çiçeğin adını "
+"Malayalamca olarak duyacaktır.  <a href=\"http://audio-video.gnu.org/video/"
+"irimpanam-high-sub.en.ogv\"> Videoyu</a> ve <a href=\"/education/misc/"
+"irimpanam.en.srt\">SubRip alt yazılarını</a> izleyin ve indirin."
+
+#. type: Content of: <p>
+msgid ""
+"An additional useful activity done by this school by applying the freedom to "
+"modify the program, was the translation of the Tux Paint interface into "
+"Malayalam, the language spoken in the state of Kerala."
+msgstr ""
+"Bu okul tarafından programın değiştirilme özgürlüğünün uygulanmasıyla "
+"yapılan ek bir etkinlik, Tux Paint arayüzünün Kerala eyaletinde konuşulan "
+"dil olan Malayalamcaya çevrilmesiydi."
+
+#. type: Content of: <h3>
+msgid "Why"
+msgstr "Neden?"
+
+#. type: Content of: <p>
+msgid ""
+"The freedom to modify the program is an important resource that was used by "
+"the school to reach beyond the scope of teaching basic computer graphical "
+"skills or entertaining children. It was used to show them that information "
+"technology is not something to be subjected to, not something that should be "
+"imposed upon the user, but an instrument to serve users according to their "
+"requirements."
+msgstr ""
+"Programı değiştirme özgürlüğü; okul tarafından temel bilgisayar grafiksel "
+"becerilerini öğretme veya çocukları eğlendirme kapsamının ötesine geçmek "
+"için kullanılan önemli bir kaynaktır. Onlara bilişim teknolojisinin bağlı "
+"olunması gereken bir şey olmadığını, kullanıcıya uygulanması gereken bir şey "
+"değil, kullanıcılara gereksinimlerine göre hizmet edecek bir araç olduğunu "
+"göstermek için kullanıldı."
+
+#. type: Content of: <p>
+msgid ""
+"The freedom to install the program in all computers in the Lab was also "
+"important, since the school has limited economical resources to invest in "
+"licenses. By distributing copies of the original and modified version of the "
+"program to the students, the school provided assistance to families "
+"undergoing economic hardship."
+msgstr ""
+"Programı Laboratuvar'daki tüm bilgisayarlara kurma özgürlüğü de önemliydi "
+"çünkü okul lisanslara yatırım yapmak için ekonomik kaynakları kısıtlıyordu. "
+"Okul; programın orijinal ve değiştirilmiş versiyonunun kopyalarını "
+"öğrencilere dağıtarak ekonomik sıkıntı yaşayan ailelere yardım sağlamıştır."
+
+#. type: Content of: <h3>
+msgid "Results"
+msgstr "Sonuçlar"
+
+#. type: Content of: <p>
+msgid ""
+"Adding stamps to Tux Paint was an exciting and enriching experience for the "
+"students. First, they analyzed how the program works and discovered the "
+"mechanism that the program uses for the implementation of stamps. Then they "
+"learned how this particular characteristic of the program permitted the "
+"addition of stamps and how to do it. They also acquired a deeper knowledge "
+"of GIMP during the manipulation of the images. The whole process gave them "
+"an opportunity not only to develop new technical abilities, but also to "
+"identify and appreciate local flora. Most importantly, they learned that "
+"anyone, even non programmers or children, can actually influence and improve "
+"information technology when software freedom is granted."
+msgstr ""
+"Tux Paint'e damga eklemek; öğrenciler için heyecan verici ve zenginleştirici "
+"bir deneyim oldu. İlk olarak programın nasıl çalıştığını analiz ettiler ve "
+"programın, damgaların uygulanması için kullandığı mekanizmayı keşfettiler. "
+"Ardından programın bu özel özelliğinin damgaların eklenmesine nasıl izin "
+"verdiğini ve nasıl yapıldığını öğrendiler. Ayrıca görüntülerin "
+"değiştirilmesi sırasında GIMP hakkında daha derin bir bilgi edindiler. Tüm "
+"süreç onlara sadece yeni tekniksel yetenekler geliştirmekle kalmayıp aynı "
+"zamanda yerel bitki örtüsünü tanımlamak ve takdir etmek için bir fırsat "
+"verdi. En önemlisi, programcı olmayan veya çocuk bile olsa, yazılım "
+"özgürlüğü verildiğinde bilişim teknolojisini etkileyebileceğini ve "
+"geliştirebileceğini öğrendiler."
+
+#. type: Content of: <h4>
+msgid "Credits"
+msgstr "Atıflar"
+
+#. type: Content of: <p>
+msgid ""
+"Images of the Tux Paint interface in Malayalam with native flowers, of the "
+"Appooppan Thaady and Anthoorium flowers, as well as both sound files are "
+"courtesy of the Vocational Higher Secondary School Irimpanam and are "
+"licensed under CC-BY-SA, <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-sa/3.0/\"> Creative Commons Attribution-ShareAlike 3.0 "
+"Unported</a>."
+msgstr ""
+"Yerel çiçeklerle Malayalamca Tux Paint arayüzü, Appooppan Thaady ve "
+"Anthoorium çiçeklerinin görüntüsü yanı sıra her iki ses dosyası da "
+"Vocational Higher Secondary School Irimpanam'ın izniyle ve CC-BY-SA, <a rel="
+"\"license\" href=\"http://creativecommons.org/licenses/by-sa/3.0/\"> "
+"Creative Commons Attribution-ShareAlike 3.0 Unported</a> lisansıyla "
+"lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#
+#
+#
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011, 2012, 2014, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012, 2014, 2016 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@yandex.com"
+"\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
+"</ul>"
+
+#. timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
