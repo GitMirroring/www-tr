@@ -1,0 +1,529 @@
+# Turkish translation of https://www.gnu.org/philosophy/free-software-even-more-important.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@yandex.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: free-software-even-more-important.html\n"
+"POT-Creation-Date: 2019-05-24 10:26+0000\n"
+"PO-Revision-Date: 2019-12-14 08:19+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid "Free Software Is Even More Important Now - GNU Project - Free Software Foundation"
+msgstr "Özgür Yazılım Şimdi Çok Daha Önemli - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Free Software Is Even More Important Now"
+msgstr "Özgür Yazılım Şimdi Çok Daha Önemli"
+
+#. type: Content of: <p>
+msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <p>
+msgid ""
+"<em>A substantially edited version of this article was published in <a href=\"http://www.wired.com/opinion/2013/09/why-free-software-is-"
+"more-important-now-than-ever-before\"> Wired</a>.</em>"
+msgstr ""
+"<em>Bu makalenin büyük ölçüde düzenlenmiş bir sürümü <a href=\"http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-"
+"now-than-ever-before\"> Wired</a>'de yayımlandı.</em>"
+
+#. type: Content of: <div><p>
+msgid "<a href=\"/help/help.html\">Suggested ways you can help the free software movement</a>"
+msgstr "<a href=\"/help/help.html\">Özgür yazılım hareketine yardımcı olmak için önerilen yollar</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Since 1983, the Free Software Movement has campaigned for computer users' freedom&mdash;for users to control the software they use, rather "
+"than vice versa.  When a program respects users' freedom and community, we call it &ldquo;free software.&rdquo;"
+msgstr ""
+"1983'ten bu yana Özgür Yazılım Hareketi, bilgisayar kullanıcılarının özgürlüğü için kampanya yürütüyor, kullanıcıların, yazılımın "
+"denetimine girmemeleri, tam aksine kullandıkları yazılımı denetlemeleri için. Bir program kullanıcıların özgürlüğüne ve topluluğuna saygı "
+"duyduğunda ona &ldquo;özgür yazılım&rdquo; diyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"We also sometimes call it &ldquo;libre software&rdquo; to emphasize that we're talking about liberty, not price.  Some proprietary "
+"(nonfree) programs, such as Photoshop, are very expensive; others, such as Flash Player, are available gratis&mdash;but that's a minor "
+"detail.  Either way, they give the program's developer power over the users, power that no one should have."
+msgstr ""
+"Ayrıca bazen fiyattan değil, özgürlükten bahsettiğimizi vurgulamak için &ldquo;libre software&rdquo; olarak da adlandırıyoruz. Photoshop "
+"gibi bazı özel mülk (özgür olmayan) programlar çok pahalıdır; Flash Player gibi bazıları ücretsiz olarak kullanılabilir, ama bu küçük bir "
+"detay. Her iki durumda da bu programlar, geliştiricilerine kullanıcılar üzerinde bir iktidar sağlar, kimsenin sahip olmaması gereken bir "
+"güç."
+
+#. type: Content of: <p>
+msgid ""
+"Those two nonfree programs have something else in common: they are both <em>malware</em>.  That is, both have functionalities designed to "
+"mistreat the user.  Proprietary software nowadays is often malware because <a href=\"/proprietary/proprietary.html\">the developers' power "
+"corrupts them</a>.  That directory lists around 400 different malicious functionalities (as of April, 2019), but it is surely just the tip "
+"of the iceberg."
+msgstr ""
+"Bu iki özgür olmayan programın ortak bir yanı var: İkisi de <em>kötü amaçlı yazılım</em>. Yani her ikisi de kullanıcıya kötü davranmak "
+"üzere tasarlanmış işlevlere sahiptir. Günümüzde özel mülk yazılımlar genellikle kötü amaçlıdır çünkü <a href=\"/proprietary/proprietary."
+"html\">geliştiricilerin iktidarı onları bozar</a>. Bu rehber 400 farklı kötü niyetli işlevi (Nisan 2019 itibarıyla) listeler ancak bunlar "
+"kesinlikle buz dağının görünen kısmıdır."
+
+#. type: Content of: <p>
+msgid ""
+"With free software, the users control the program, both individually and collectively.  So they control what their computers do (assuming "
+"those computers are <a href=\"/philosophy/loyal-computers.html\">loyal</a> and do what the users' programs tell them to do)."
+msgstr ""
+"Özgür yazılımla kullanıcılar programı hem bireysel hem de toplu olarak denetler. Böylece bilgisayarlarının ne yaptığını denetim altında "
+"tutmuş olurlar (bu bilgisayarların <a href=\"/philosophy/loyal-computers.html\">sadık</a> olduğunu varsayarız ve kullanıcıların "
+"programları, kendilerinden isteneni yapar)."
+
+#. type: Content of: <p>
+msgid ""
+"With proprietary software, the program controls the users, and some other entity (the developer or &ldquo;owner&rdquo;) controls the "
+"program.  So the proprietary program gives its developer power over its users.  That is unjust in itself; moreover, it tempts the "
+"developer to mistreat the users in other ways."
+msgstr ""
+"Özel mülk yazılımda program kullanıcıları denetler ve diğer bazı kişiler de (geliştirici veya &ldquo;sahibi&rdquo;) programı denetler. "
+"Dolayısıyla özel mülk program, geliştiriciye kullanıcıları üzerinde bir iktidar sağlar. Bu özünde haksızlıktır; üstelik geliştiriciyi "
+"kullanıcılara başka şekillerde kötü davranmaya teşvik eder."
+
+#. type: Content of: <p>
+msgid ""
+"Even when proprietary software isn't downright malicious, its developers have an incentive to make it <a href=\"https://observer."
+"com/2016/06/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/\"> addictive, controlling "
+"and manipulative</a>.  You can say, as does the author of that article, that the developers have an ethical obligation not to do that, but "
+"generally they follow their interests.  If you want this not to happen, make sure the program is controlled by its users."
+msgstr ""
+"Özel mülk yazılımlar tamamen düpedüz kötü niyetli olmasa bile geliştiricilerin <a href=\"https://observer.com/2016/06/how-technology-"
+"hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/\"> onu bağımlılık yapan, denetleyen ve manipülatif</"
+"a> bir biçime getirmesine yönelik özendiricidir. Bu makalenin yazarının da dediği gibi geliştiricilerin bunu yapmama konusunda etik bir "
+"yükümlülüğü olduğunu söyleyebilirsiniz, ancak genel olarak çıkarlarını takip ederler. Bunun olmamasını istiyorsanız programın, "
+"kullanıcıların denetiminde olduğundan emin olun."
+
+#. type: Content of: <p>
+msgid ""
+"Freedom means having control over your own life.  If you use a program to carry out activities in your life, your freedom depends on your "
+"having control over the program.  You deserve to have control over the programs you use, and all the more so when you use them for "
+"something important in your life."
+msgstr ""
+"Özgürlük, kendi yaşamınız üzerinde denetim sahibi olmak demektir. Hayatınızdaki faaliyetleri yürütmek için bir program kullanıyorsanız "
+"özgürlüğünüz programı denetlemenize bağlıdır. Kullandığınız programlar üzerinde denetim sahibi olmayı ve hayatınız için önemli olan bir "
+"şeyi kullandığınızda daha fazlasını hak ediyorsunuz."
+
+#. type: Content of: <p>
+msgid "Users' control over the program requires four <a href=\"/philosophy/free-sw.html\">essential freedoms</a>."
+msgstr "Kullanıcıların program üzerindeki denetimi, dört <a href=\"/philosophy/free-sw.html\">temel özgürlük</a> gerektirir."
+
+#. type: Content of: <div><p>
+msgid "(0) The freedom to run the program as you wish, for whatever purpose."
+msgstr "(0) Herhangi bir amaç için programı istediğiniz gibi çalıştırma özgürlüğü."
+
+#. type: Content of: <div><p>
+msgid ""
+"(1) The freedom to study the program's &ldquo;source code&rdquo;, and change it, so the program does your computing as you wish.  Programs "
+"are written by programmers in a programming language&mdash;like English combined with algebra&mdash;and that form of the program is the "
+"&ldquo;source code&rdquo;.  Anyone who knows programming, and has the program in source code form, can read the source code, understand "
+"its functioning, and change it too.  When all you get is the executable form, a series of numbers that are efficient for the computer to "
+"run but extremely hard for a human being to understand, understanding and changing the program in that form are forbiddingly hard."
+msgstr ""
+"(1) Programın kaynak kodunu inceleme ve değiştirme özgürlüğü, böylece program hesaplamayı sizin istediğiniz gibi yapar. Programlar, "
+"programcılar tarafından (cebir ile birleştirilen İngilizce gibi) bir programlama dilinde yazılır ve programın bu şekli &ldquo;kaynak "
+"kod&lrdquo;dur. Programlamayı bilen ve programın kaynak koduna sahip olan herkes kaynak kodunu okuyabilir, çalışmasını anlayabilir ve "
+"hatta değiştirebilir. Elinizdeki tek şey çalıştırılabilir biçim, bir dizi sayı olduğunda, her ne kadar bu biçim bilgisayarın çalışması "
+"için verimli olsa da, bir insanın programı bu biçimde anlaması, kavraması ve değiştirmesi çekilmez bir şekilde zordur."
+
+#. type: Content of: <div><p>
+msgid ""
+"(2) The freedom to make and distribute exact copies when you wish.  (It is not an obligation; doing this is your choice.  If the program "
+"is free, that doesn't mean someone has an obligation to offer you a copy, or that you have an obligation to offer him a copy.  "
+"Distributing a program to users without freedom mistreats them; however, choosing not to distribute the program&mdash;using it "
+"privately&mdash;does not mistreat anyone.)"
+msgstr ""
+"(2) Dilediğiniz zaman tıpatıp kopyalar hazırlama ve dağıtma özgürlüğü. (Bu bir zorunluluk değildir; bunu yapmak senin seçimin. Program "
+"özgür ise bu size birisinin size bir kopya sunma zorunluluğu olduğu veya ona bir kopya sunma zorunluluğunuz olduğu anlamına gelmez. Bir "
+"programı kullanıcılara özgürlük olmadan dağıtmak onlara kötü davranmaktır; ancak programı dağıtmamayı seçmek&mdash;özel olarak "
+"kullanmak&mdash;kimseye kötü davranmak anlamına gelmez."
+
+#. type: Content of: <div><p>
+msgid "(3) The freedom to make and distribute copies of your modified versions, when you wish."
+msgstr "(3) Dilediğiniz zaman değiştirilmiş sürümlerin kopyalarını oluşturma ve dağıtma özgürlüğü."
+
+#. type: Content of: <p>
+msgid ""
+"The first two freedoms mean each user can exercise individual control over the program.  With the other two freedoms, any group of users "
+"can together exercise <em>collective control</em> over the program.  With all four freedoms, the users fully control the program.  If any "
+"of them is missing or inadequate, the program is proprietary (nonfree), and unjust."
+msgstr ""
+"İlk iki özgürlük, her kullanıcının program üzerinde bireysel denetim uygulayabileceği anlamına gelir. Diğer iki özgürlükle birlikte "
+"herhangi bir kullanıcı grubu birlikte program üzerinde <em>ortak denetim</em> uygulayabilir. Dört özgürlüğün tamamı ile kullanıcılar "
+"programı tamamen denetlerler. Bunlardan herhangi biri eksik veya yetersizse program özel mülk (özgür olmayan) ve adaletsizdir."
+
+#. type: Content of: <p>
+msgid ""
+"Other kinds of works are also used for practical activities, including recipes for cooking, educational works such as textbooks, reference "
+"works such as dictionaries and encyclopedias, fonts for displaying paragraphs of text, circuit diagrams for hardware for people to build, "
+"and patterns for making useful (not merely decorative) objects with a 3D printer.  Since these are not software, the free software "
+"movement strictly speaking doesn't cover them; but the same reasoning applies and leads to the same conclusion: these works should carry "
+"the four freedoms."
+msgstr ""
+"Yemek pişirme tarifleri, ders kitapları gibi eğitim çalışmaları, sözlükler ve ansiklopediler gibi referans çalışmaları, metin "
+"paragraflarını görüntülemek için yazı tipleri, insanların yapacağı donanımlar için devre şemaları ve 3D yazıcıyla (yalnızca dekoratif "
+"değil) yararlı nesneler için tasarımlar dahil olmak üzere pratik çalışmalar için başka türden çalışmalar da kullanılır. Bunlar yazılım "
+"olmadığından açıkçası özgür yazılım hareketi onları kapsamaz; fakat aynı mantık geçerlidir ve aynı sonuca götürür: Bu çalışmalar da dört "
+"özgürlüğe sahip olmalıdır."
+
+#. type: Content of: <p>
+msgid ""
+"A free program allows you to tinker with it to make it do what you want (or cease to do something you dislike).  Tinkering with software "
+"may sound ridiculous if you are accustomed to proprietary software as a sealed box, but in the Free World it's a common thing to do, and a "
+"good way to learn programming.  Even the traditional American pastime of tinkering with cars is obstructed because cars now contain "
+"nonfree software."
+msgstr ""
+"Özgür bir program, istediğiniz şeyi yapmasını (veya sevmediğiniz bir şeyi yapmamasını) sağlamak için onu kurcalamanıza izin verir. Mühürlü "
+"bir kutu olarak özel mülk yazılıma alışık iseniz yazılımı kurcalamak saçma gelebilir ancak Özgür Dünya'da yapılan yaygın bir şeydir ve "
+"programlamayı öğrenmek için iyi bir yoldur. Geleneksel Amerikan hobisi arabaları kurcalamak bile engellenmiş durumda, çünkü arabalarda "
+"artık özgür olmayan yazılım içeriyor."
+
+#. type: Content of: <h3>
+msgid "The Injustice of Proprietariness"
+msgstr "Mülkiyetin Adaletsizliği"
+
+#. type: Content of: <p>
+msgid ""
+"If the users don't control the program, the program controls the users.  With proprietary software, there is always some entity, the "
+"developer or &ldquo;owner&rdquo; of the program, that controls the program&mdash;and through it, exercises power over its users.  A "
+"nonfree program is a yoke, an instrument of unjust power."
+msgstr ""
+"Kullanıcılar programı denetlemezse, program kullanıcıları denetler. Özel mülk bir yazılım söz konusu olduğunda, programı denetleyen "
+"programın geliştiricisi veya &ldquo;sahibi&rdquo; gibi bir varlık her zaman vardır, ve bu sayede kullanıcıları üzerinde bir yetki "
+"kullanır. Özgür olmayan bir program bir boyunduruk, adaletsiz iktidarın bir aracıdır."
+
+#. type: Content of: <p>
+msgid ""
+"In outrageous cases (though this outrage has become quite usual) <a href=\"/proprietary/proprietary.html\">proprietary programs are "
+"designed to spy on the users, restrict them, censor them, and abuse them</a>.  For instance, the operating system of Apple <a href=\"/"
+"philosophy/why-call-it-the-swindle.html\">iThings</a> does all of these, and so does Windows on mobile devices with ARM chips.  Windows, "
+"mobile phone firmware, and Google Chrome for Windows include a universal back door that allows some company to change the program remotely "
+"without asking permission. The Amazon Kindle has a back door that can erase books."
+msgstr ""
+"Acımasız durumlarda (bu durum oldukça olağan hâle geldi) <a href=\"/proprietary/proprietary.html\">özel mülk programlar kullanıcıları "
+"gözetlemek, onları kısıtlamak, sansürlemek ve suistimal etmek için tasarlanmıştır</a>. Örneğin; Apple'nin işletim sistemi <a href=\"/"
+"philosophy/why-call-it-the-swindle.html\">iThings</a> bunların hepsini yapıyor, Windows da ARM yongaları bulunan mobil cihazlarda aynısını "
+"yapıyor. Windows, mobil telefon aygıt sürücüsü ve Windows için Google Chrome; bazı şirketlerin izinsiz bir şekilde programı uzaktan "
+"değiştirmelerine olanak tanıyan evrensel bir arka kapı içerir. Amazon Kindle'nin kitapları silebilecek bir arka kapısı var."
+
+#. type: Content of: <p>
+msgid ""
+"The use of nonfree software in the &ldquo;internet of things&rdquo; would turn it into the <a href=\"http://ieet.org/index.php/IEET/more/"
+"rinesi20150806\">&ldquo;internet of telemarketers&rdquo;</a> as well as the &ldquo;internet of snoopers&rdquo;."
+msgstr ""
+"Nesnelerin internetinde özgür olmayan yazılımların kullanılması; onu, <a href=\"http://ieet.org/index.php/IEET/more/"
+"rinesi20150806\">&ldquo;tele-pazarlamacıların interneti&rdquo;</a>ne ve de &ldquo;gizlice dinleyenlerin interneti&rdquo;ne dönüştürecektir."
+
+#. type: Content of: <p>
+msgid ""
+"With the goal of ending the injustice of nonfree software, the free software movement develops free programs so users can free "
+"themselves.  We began in 1984 by developing the free operating system <a href=\"/gnu/the-gnu-project.html\">GNU</a>. Today, millions of "
+"computers run GNU, mainly in the <a href=\"/gnu/gnu-linux-faq.html\">GNU/Linux combination</a>."
+msgstr ""
+"Özgür olmayan yazılımın adaletsizliğini sona erdirmek amacıyla, özgür yazılım hareketi, kullanıcıların kendilerini özgürleştirmeleri için "
+"özgür programlar geliştirir. 1984'te özgür işletim sistemi <a href=\"/gnu/the-gnu-project.html\">GNU</a>'yu geliştirerek başladık. Bugün "
+"milyonlarca bilgisayar, çoğunlukla <a href=\"/gnu/gnu-linux-faq.html\">GNU/Linux bileşeni</a> içerisinde GNU kullanıyor."
+
+#. type: Content of: <p>
+msgid ""
+"Distributing a program to users without freedom mistreats those users; however, choosing not to distribute the program does not mistreat "
+"anyone.  If you write a program and use it privately, that does no wrong to others.  (You do miss an opportunity to do good, but that's "
+"not the same as doing wrong.)  Thus, when we say all software must be free, we mean that every copy must come with the four freedoms, but "
+"we don't mean that someone has an obligation to offer you a copy."
+msgstr ""
+"Bir programı kullanıcılara özgürlük olmadan dağıtmak, bu kullanıcılara kötü davranmaktır; ancak programı dağıtmamayı seçmek kimseye kötü "
+"davranmak anlamına gelmez. Bir program yazıp özel olarak kullanıyorsanız bu başkalarını etkilemez. (İyilik yapma fırsatını kaçırıyorsunuz "
+"ama bu kötülük yapmakla aynı şey değil.) Bu nedenle bütün yazılımların özgür olması gerektiğini söylediğimizde her kopyasının dört "
+"özgürlüğe sahip olması gerektiğini kastediyoruz, ancak bu birisinin size bir kopya sunma zorunluluğu olduğu anlamına gelmez."
+
+#. type: Content of: <h3>
+msgid "Nonfree Software and SaaSS"
+msgstr "Özgür Olmayan Yazılım ve SaaSS"
+
+#. type: Content of: <p>
+msgid ""
+"Nonfree software was the first way for companies to take control of people's computing.  Nowadays, there is another way, called Service as "
+"a Software Substitute, or SaaSS.  That means letting someone else's server do your own computing tasks."
+msgstr ""
+"Özgür olmayan yazılım, şirketlerin insanların bilgisayarlarını denetim altına almasının ilk yoluydu. Günümüzde bir Yazılım Yerine Hizmet "
+"veya SaaSS (Service as a Software Substitute) olarak adlandırılan başka bir yol vardır. Bu, bir başkasının sunucusunun kendi bilişim "
+"görevlerinizi yapmasına izin vermek anlamına gelir."
+
+#. type: Content of: <p>
+msgid ""
+"SaaSS doesn't mean the programs on the server are nonfree (though they often are).  Rather, using SaaSS causes the same injustices as "
+"using a nonfree program: they are two paths to the same bad place.  Take the example of a SaaSS translation service: The user sends text "
+"to the server, and the server translates it (from English to Spanish, say)  and sends the translation back to the user.  Now the job of "
+"translating is under the control of the server operator rather than the user."
+msgstr ""
+"SaaSS, sunucudaki programların özgür olmadığı anlamına gelmez (çoğu zaman öyle olsa da). Aksine SaaSS kullanmak, özgür olmayan bir program "
+"kullanmakla aynı adaletsizliklere neden olur: Aynı kötü sonuca ulaşan iki farklı yol. Bir SaaSS çeviri hizmeti örneğini düşünün: "
+"Kullanıcı, sunucuya metni gönderir ve sunucu, onu çevirir (örneğin; İngilizceden İspanyolcaya) ve çeviriyi kullanıcıya geri gönderir. "
+"Şimdi çeviri işi, kullanıcı yerine sunucu operatörünün denetimi altındadır."
+
+#. type: Content of: <p>
+msgid ""
+"If you use SaaSS, the server operator controls your computing.  It requires entrusting all the pertinent data to the server operator, "
+"which will be forced to show it to the state as well&mdash;<a href=\"/philosophy/who-does-that-server-really-serve.html\">who does that "
+"server really serve, after all?</a>"
+msgstr ""
+"SaaSS kullanıyorsanız sunucu operatörü bilişiminizi denetler. İlgili tüm verilerin sunucu operatörüne emanet edilmesini gerektirir, bu da "
+"devlete gösterme zorunluluğu doğurur, <a href=\"/philosophy/who-does-that-server-really-serve.html\">hakikaten, bu sunucu aslında kime "
+"hizmet ediyor?</a>"
+
+#. type: Content of: <h3>
+msgid "Primary And Secondary Injustices"
+msgstr "Birincil ve İkincil Adaletsizlikler"
+
+#. type: Content of: <p>
+msgid ""
+"When you use proprietary programs or SaaSS, first of all you do wrong to yourself, because it gives some entity unjust power over you.  "
+"For your own sake, you should escape.  It also wrongs others if you make a promise not to share.  It is evil to keep such a promise, and a "
+"lesser evil to break it; to be truly upright, you should not make the promise at all."
+msgstr ""
+"Özel mülk programlar veya SaaSS kullandığınızda her şeyden önce kendi kendinize kötülük yapmış oluyorsunuz çünkü bu durum, bazılarına "
+"sizin üzerinizde haksız bir iktidar sağlar. Kendi iyiliğiniz için bundan kaçınmalısınız. Paylaşmamaya söz verirseniz diğerlerine de "
+"kötülük yapmış olursunuz. Böyle bir sözü tutmak fenalıktır ve tutmamak daha az kötüdür; gerçekten dürüst olmak gerekirse böyle bir söz hiç "
+"verilmemelidir."
+
+#. type: Content of: <p>
+msgid ""
+"There are cases where using nonfree software puts pressure directly on others to do likewise.  Skype is a clear example: when one person "
+"uses the nonfree Skype client software, it requires another person to use that software too&mdash;thus both surrender their freedom.  "
+"(Google Hangouts have the same problem.)  It is wrong even to suggest using such programs.  We should refuse to use them even briefly, "
+"even on someone else's computer."
+msgstr ""
+"Özgür olmayan yazılımı kullanmanın da benzer şekilde doğrudan başkalarının üzerinde baskı oluşturduğu durumlar vardır. Skype çok açık bir "
+"örnektir: Bir kişi özgür olmayan Skype istemci yazılımını kullandığında o yazılımı başka bir kişinin de kullanmasını gerektirir, böylece "
+"her ikisi de özgürlüğünden feragat etmiş olur. (Google Hangouts'ta da aynı sorun var.) Bu tür programları kullanmayı önermek bile "
+"yanlıştır. Bir başkasının bilgisayarında kurulmuş, kısa bir süre için olsa bile bu programları kullanmayı reddetmeliyiz."
+
+#. type: Content of: <p>
+msgid ""
+"Another harm of using nonfree programs and SaaSS is that it rewards the perpetrator, encouraging further development of that program or "
+"&ldquo;service&rdquo;, leading in turn to even more people falling under the company's thumb."
+msgstr ""
+"Özgür olmayan programlar ve SaaSS kullanmanın bir diğer zararı failleri ödüllendirmesi, bu programın veya &ldquo;hizmetin&rdquo; daha da "
+"geliştirilmesi için teşvik edilmesi ve dolayısıyla daha fazla insanın şirketin sıkı denetimi altına girmesine yol açmasıdır."
+
+#. type: Content of: <p>
+msgid "All the forms of indirect harm are magnified when the user is a public entity or a school."
+msgstr "Kullanıcı bir kamu kuruluşu veya okul olduğunda, bütün dolaylı zarar biçimleri oldukça büyür."
+
+#. type: Content of: <h3>
+msgid "Free Software and the State"
+msgstr "Özgür Yazılım ve Devlet"
+
+#. type: Content of: <p>
+msgid ""
+"Public agencies exist for the people, not for themselves.  When they do computing, they do it for the people.  They have a duty to "
+"maintain full control over that computing so that they can assure it is done properly for the people.  (This constitutes the computational "
+"sovereignty of the state.)  They must never allow control over the state's computing to fall into private hands."
+msgstr ""
+"Kamu kurumları, kendileri için değil, halk için vardır. Bilişim yaptıkları zaman bunu halk için yapıyorlar. Bu bilişim üzerinde tam "
+"denetim sağlama görevleri var, böylece halk için düzgün bir şekilde yapıldığından emin olabilirler. (Bu devletin bilgisayımsal "
+"egemenliğini oluşturur.) Devletin bilgisayarındaki denetimin özel ellere düşmesine asla izin verilmemelidir."
+
+#. type: Content of: <p>
+msgid ""
+"To maintain control of the people's computing, public agencies must not do it with proprietary software (software under the control of an "
+"entity other than the state).  And they must not entrust it to a service programmed and run by an entity other than the state, since this "
+"would be SaaSS."
+msgstr ""
+"Halkın bilişim denetimini korumak için, kamu kurumları hesaplamayı özel mülk bir yazılımla (devletten başka bir şirketin denetiminde olan "
+"yazılımla) yapmamalıdır. Ve bunu devlet dışında bir kuruluş tarafından programlanan ve çalıştırılan bir hizmete emanet etmemelidirler "
+"(yoksa bu SaaSS olacaktır)."
+
+#. type: Content of: <p>
+msgid ""
+"Proprietary software has no security at all in one crucial case &mdash; against its developer.  And the developer may help others attack.  "
+"<a href=\"http://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/\"> Microsoft shows Windows "
+"bugs to the NSA</a> (the US government digital spying agency) before fixing them.  We do not know whether Apple does likewise, but it is "
+"under the same government pressure as Microsoft.  If the government of any other country uses such software, it endangers national "
+"security.  Do you want the NSA to break into your government's computers? See our <a href=\"/philosophy/government-free-software.html"
+"\">suggested policies for governments to promote free software</a>."
+msgstr ""
+"Özel mülk yazılımın önemli bir durumda, mesela geliştiricisine karşı hiçbir güvenliği yoktur. Ve geliştirici, başkalarının saldırmasına "
+"yardımcı olabilir. <a href=\"http://arstechnica.com/security/2013/06/nsa-gets-early-access-to-zero-day-data-from-microsoft-others/"
+"\">Microsoft, Windows hatalarını düzeltmeden önce NSA'ya (ABD hükûmeti dijital casusluk kurumu) göstermektedir</a>. Apple'nin da aynı "
+"şekilde yapıp yapmadığını bilmiyoruz ancak Apple da Microsoft ile aynı hükümet baskısı altında. Başka bir ülkenin hükümeti bu yazılımı "
+"kullanıyorsa ulusal güvenliği tehlikeye atar. NSA'nın hükümetinizin bilgisayarlarına girmesini istiyor musunuz? <a href=\"/philosophy/"
+"government-free-software.html\">Özgür yazılımı tanıtmak için hükümetlere önerilen politikalarımızı</a> inceleyebilirsiniz."
+
+#. type: Content of: <h3>
+msgid "Free Software and Education"
+msgstr "Özgür Yazılım ve Eğitim"
+
+#. type: Content of: <p>
+msgid ""
+"Schools (and this includes all educational activities) influence the future of society through what they teach.  They should teach "
+"exclusively free software, so as to use their influence for the good.  To teach a proprietary program is to implant dependence, which goes "
+"against the mission of education.  By training in use of free software, schools will direct society's future towards freedom, and help "
+"talented programmers master the craft."
+msgstr ""
+"Okullar (bu ifade tüm eğitim faaliyetlerini içerir) toplumun geleceğini ne öğrettikleriyle etkilerler. İyilik etkisi yaratmak için "
+"yalnızca özgür yazılım öğretmelidirler. Özel mülk bir program öğretmek, eğitim görevine aykırı bir şekilde, bağımlılık aşılamaktır. Özgür "
+"yazılım kullanımı eğitimi alarak okullar toplumun geleceğini özgürlüğe yönlendirecek ve yetenekli programcıların konularında "
+"uzmanlaşmasına yardımcı olacaktır."
+
+#. type: Content of: <p>
+msgid ""
+"They will also teach students the habit of cooperating, helping other people.  Each class should have this rule: &ldquo;Students, this "
+"class is a place where we share our knowledge.  If you bring software to class, you may not keep it for yourself.  Rather, you must share "
+"copies with the rest of the class&mdash;including the program's source code, in case someone else wants to learn.  Therefore, bringing "
+"proprietary software to class is not permitted except to reverse engineer&nbsp;it.&rdquo;"
+msgstr ""
+"Ayrıca öğrencilere iş birliği yapma, diğer insanlara yardım etme alışkanlığını öğreteceklerdir. Her sınıfın şu kurala sahip olması "
+"gerekiyor: &ldquo;Öğrenciler, bu sınıf bilgimizi paylaştığımız bir yerdir. Yazılımı sınıfa getirirseniz kendiniz için saklayamazsınız. "
+"Aksine kopyaları sınıfın geri kalanıyla paylaşmalısınız, başkalarının öğrenmek istemesi durumunda programın kaynak kodu da dahil olmak "
+"üzere. Bu nedenle özel mülk yazılımı sınıfa getirmek, tersine mühendislik yapmak dışında, yasaktır.&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"Proprietary developers would have us punish students who are good enough at heart to share software and thwart those curious enough to "
+"want to change it.  This means a bad education.  See <a href=\"/education/\">http://www.gnu.org/education/</a> for more discussion of the "
+"use of free software in schools."
+msgstr ""
+"Özel mülk geliştiriciler; yazılımı paylaşmak ve değiştirmek isteyecek kadar meraklı olanları engellemek için yeterince iyi olan "
+"öğrencileri cezalandırmamızı isterdi. Bu kötü bir eğitimdir. Özgür yazılımın okullarda kullanımı hakkında daha fazla bilgi için <a href=\"/"
+"education/\">http://www.gnu.org/education/</a> adresini ziyaret edebilirsiniz."
+
+#. type: Content of: <h3>
+msgid "Free Software: More Than &ldquo;Advantages&rdquo;"
+msgstr "Özgür Yazılım: &ldquo;Avantajlar&rdquo;dan Daha Fazlası"
+
+#. type: Content of: <p>
+msgid ""
+"I'm often asked to describe the &ldquo;advantages&rdquo; of free software.  But the word &ldquo;advantages&rdquo; is too weak when it "
+"comes to freedom.  Life without freedom is oppression, and that applies to computing as well as every other activity in our lives.  We "
+"must refuse to give the developers of the programs or computing services control over the computing we do.  This is the right thing to do, "
+"for selfish reasons; but not solely for selfish reasons."
+msgstr ""
+"Sık sık özgür yazılımın &ldquo;avantajlarını&rdquo; tanımlamam isteniyor. Fakat özgürlük söz konusu olduğunda &ldquo;avantajlar&rdquo; "
+"zayıf bir ifade. Özgürlükten yoksun yaşam baskıdır ve bu, hayatımızdaki diğer her faaliyetin yanı sıra bilişim için de geçerlidir. "
+"Programların geliştiricilerine veya bilişim hizmetlerine, gerçekleştirdiğimiz bilişim üzerinde denetim vermeyi reddetmeliyiz. Bu, bencil "
+"nedenlerden dolayı yapılacak doğru şeydir; fakat salt bencil nedenler yok."
+
+#. type: Content of: <p>
+msgid ""
+"Freedom includes the freedom to cooperate with others.  Denying people that freedom means keeping them divided, which is the start of a "
+"scheme to oppress them.  In the free software community, we are very much aware of the importance of the freedom to cooperate because our "
+"work consists of organized cooperation.  If your friend comes to visit and sees you use a program, she might ask for a copy.  A program "
+"which stops you from redistributing it, or says you're &ldquo;not supposed to&rdquo;, is antisocial."
+msgstr ""
+"Özgürlük, başkalarıyla iş birliği yapma özgürlüğünü içerir. İnsanların özgürlüğü reddetmesi, bölünmelerini sağlamak anlamına gelir; bu "
+"onları ezmeye yönelik bir planın başıdır. Özgür yazılım topluluğunda iş birliği yapma özgürlüğünün önemini çok iyi biliyoruz çünkü "
+"çalışmalarımız örgütlü iş birliğinden oluşuyor. Arkadaşınız ziyarete gelir ve bir program kullandığınızı görürse bir kopya isteyebilir. "
+"Yeniden dağıtmanızı engelleyen veya &ldquo;yapmamanız gerektiğini&rdquo; söyleyen bir program topluma zararlıdır."
+
+#. type: Content of: <p>
+msgid ""
+"In computing, cooperation includes redistributing exact copies of a program to other users.  It also includes distributing your changed "
+"versions to them.  Free software encourages these forms of cooperation, while proprietary software forbids them.  It forbids "
+"redistribution of copies, and by denying users the source code, it blocks them from making changes.  SaaSS has the same effects: if your "
+"computing is done over the web in someone else's server, by someone else's copy of a program, you can't see it or touch the software that "
+"does your computing, so you can't redistribute it or change&nbsp;it."
+msgstr ""
+"Bilişimde, iş birliği, bir programın tıpatıp kopyalarının diğer kullanıcılara yeniden dağıtılmasını içerir. Ayrıca değiştirilen "
+"sürümlerinizi onlara dağıtmayı da içerir. Özgür yazılım bu iş birliği biçimlerini teşvik ederken özel mülk yazılım bunları yasaklar. "
+"Kopyaların yeniden dağıtılmasını yasaklar ve kullanıcıların kaynak koda erişimini redderek, değişiklik yapmalarını engeller. SaaSS aynı "
+"etkilere sahiptir: Bilgisayar kullanımınız başka birinin sunucusunda başka birinin bir programın kopyası ile web üzerinden yapılırsa bunu "
+"göremez veya bilgisayar kullanımınızı yapan yazılıma dokunamazsınız, böylece onu yeniden dağıtamazsınız veya onu&nbsp;değiştiremezsiniz."
+
+#. type: Content of: <h3>
+msgid "Conclusion"
+msgstr "Sonuç"
+
+#. type: Content of: <p>
+msgid ""
+"We deserve to have control of our own computing; how can we win this control? By rejecting nonfree software on the computers we own or "
+"regularly use, and rejecting SaaSS.  By <a href=\"/licenses/license-recommendations.html\"> developing free software</a> (for those of us "
+"who are programmers.) By refusing to develop or promote nonfree software or SaaSS.  By <a href=\"/help/help.html\">spreading these ideas "
+"to others</a>."
+msgstr ""
+"Kendi bilgisayarımızın denetimini hak ediyoruz; bu denetimi nasıl kazanabiliriz? Sahip olduğumuz veya düzenli olarak kullandığımız "
+"bilgisayarlardaki özgür olmayan yazılımları reddederek ve SaaSS'yi reddederek. <a href=\"/licenses/license-recommendations.html\"> Özgür "
+"yazılım geliştirerek</a> (programcı olanlar için). Özgür olmayan yazılım veya SaaSS geliştirmeyi veya tanıtmayı reddederek. <a href=\"/"
+"help/help.html\">Bu fikirleri başkalarına yayarak</a>."
+
+#. type: Content of: <p>
+msgid ""
+"We and thousands of users have done this since 1984, which is how we now have the free GNU/Linux operating system that anyone&mdash;"
+"programmer or not&mdash;can use.  Join our cause, as a programmer or an activist.  Let's make all computer users free."
+msgstr ""
+"1984'ten bu yana biz ve binlerce kullanıcı bunu yaptık, böylece, şimdi herkesin (programcı olsun veya olmasın) kullanabileceği özgür bir "
+"GNU/Linux işletim sistemine sahibiz. Mücadelemize bir programcı veya aktivist olarak katılın. Tüm bilgisayar kullanıcılarını "
+"özgürleştirelim!"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/"
+"\">other ways to contact</a> the FSF.  Broken links and other corrections or suggestions can be sent to <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim "
+"kurmanın <a href=\"/contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve başka düzeltmeleri veya önerilerinizi <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html\">Translations README</a> for information on coordinating and "
+"submitting translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org"
+"\">bize&nbsp;bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href=\"/server/standards/README."
+"translations.html\">Çeviriler BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe çevirileri gönüllüler tarafından "
+"yapılmaktadır; Türkçe niteliği yüksek bir <a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak istiyorsanız, <a href=\"https://"
+"savannah.gnu.org/projects/www-tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2015, 2017, 2018, 2019 Richard Stallman"
+msgstr "Copyright &copy; 2015, 2017, 2018, 2019 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"Uluslararası Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@yandex.com\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
+"</ul>"
+
+#. timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
