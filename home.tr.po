@@ -1,0 +1,677 @@
+# Turkish translation of https://www.gnu.org/home.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@yandex.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: home.html\n"
+"POT-Creation-Date: 2019-11-06 13:55+0000\n"
+"PO-Revision-Date: 2019-12-15 11:46+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid ""
+"The GNU Operating System and the Free Software Movement"
+msgstr ""
+"GNU İşletim Sistemi ve Özgür Yazılım Hareketi"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Free Software, "
+"Libre Software, Operating System, GNU Kernel, GNU Hurd"
+msgstr ""
+"GNU, FSF, Özgür Yazılım Vakfı, Linux, Emacs, GCC, Unix, Özgür Yazılım, Libre "
+"Yazılım, İşletim Sistemi, GNU Çekirdeği, GNU Hurd"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"Since 1983, developing the free Unix style operating system GNU, so that "
+"computer users can have the freedom to share and improve the software they "
+"use."
+msgstr ""
+"1983 yılından bu yana bilgisayar kullanıcılarının kullandıkları yazılımı "
+"paylaşma ve geliştirme özgürlüğüne sahip olmaları için özgür Unix tarzı "
+"işletim sistemi GNU geliştiriliyor."
+
+#. type: Attribute 'title' of: <link>
+msgid "Planet GNU"
+msgstr "GNU Gezegeni"
+
+#. type: Content of: <p>
+msgid ""
+"GNU is the only operating system developed specifically to give its users "
+"freedom.  What is GNU, and what freedom is at stake?"
+msgstr ""
+"GNU, özellikle kullanıcılarına özgürlük sağlamak için geliştirilen tek "
+"işletim sistemidir. GNU nedir ve hangi özgürlük tehlikede?"
+
+#. type: Content of: <div><div><h2>
+msgid "What is GNU?"
+msgstr "GNU Nedir?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"GNU is an operating system that is <a href=\"/philosophy/free-sw.html\">free "
+"software</a>&mdash;that is, it respects users' freedom.  The GNU operating "
+"system consists of GNU packages (programs specifically released by the GNU "
+"Project) as well as free software released by third parties.  The "
+"development of GNU made it possible to use a computer without software that "
+"would trample your freedom."
+msgstr ""
+"GNU, <a href=\"/philosophy/free-sw.html\">özgür yazılım</a> olan bir işletim "
+"sistemidir, yani kullanıcıların özgürlüğüne saygı duyar. GNU işletim "
+"sistemi; GNU paketlerinden (özellikle GNU Projesi tarafından yayımlanan "
+"programlar) ve üçüncü taraflarca yayımlanan özgür yazılımdan oluşur. GNU’nun "
+"geliştirilmesi, özgürlüğünüzü ihlal eden yazılımlar olmadan bir bilgisayarın "
+"kullanılmasını mümkün kılmıştır."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"We recommend <a href=\"/distros/free-distros.html\">installable versions of "
+"GNU</a> (more precisely, GNU/Linux distributions) which are entirely free "
+"software.  <a href=\"#More-GNU\">More about GNU below</a>."
+msgstr ""
+"Tamamen özgür yazılım olan <a href=\"/distros/free-distros.html"
+"\">kurulabilir GNU sürümlerini</a> (daha doğrusu GNU/Linux dağıtımlarını) "
+"öneririz. <a href=\"#More-GNU\">Aşağıda GNU hakkında daha fazla bilgiye "
+"ulaşabilirsiniz</a>."
+
+#. type: Content of: <div><div><p>
+msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux</a>"
+msgstr "<a href=\"/distros/free-distros.html\">GNU/Linux'u Deneyin</a>"
+
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/dragora-ice.png\">"
+msgstr "<a href=\"/distros/screenshots/dragora-ice.png\">"
+
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid ""
+"&nbsp;[Screenshot of Dragora&nbsp;3.0-beta1 with IceWM window manager]&nbsp;"
+msgstr ""
+"&nbsp;[IceWM pencere yöneticisi ile Dragora&nbsp;3.0-beta1'in ekran "
+"görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><h3>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://dragora.org/en/index.html\"> Dragora&nbsp;3.0-"
+"beta1</a> with customized <a href=\"https://ice-wm.org/\"> IceWM</a> window "
+"manager</small>"
+msgstr ""
+"<small>Kişiselleştirilmiş <a href=\"https://ice-wm.org/\">IceWM</a> pencere "
+"yöneticisi ile <a href=\"https://dragora.org/en/index.html"
+"\">Dragora&nbsp;3.0-beta1</a></small>"
+
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
+msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of Guix&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
+msgstr ""
+"&nbsp;[GNOME&nbsp;3 masaüstü ile Guix&nbsp;0.15'in ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"/software/guix/\">Guix&nbsp;0.15</a> with <a href=\"https://"
+"www.gnome.org/\">GNOME&nbsp;3</a> desktop, Epiphany web browser, Totem video "
+"player, and GNOME terminal emulator</small>"
+msgstr ""
+"<small><a href=\"https://www.gnome.org/\">GNOME&nbsp;3</a> masaüstü ile <a "
+"href=\"/software/guix/\">Guix&nbsp;0.15</a>, Epiphany web tarayıcısı, Totem "
+"video oynatıcısı ve GNOME uçbirim öykünücüsü</small>"
+
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
+msgstr "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Hyperbola with i3 window manager]&nbsp;"
+msgstr "&nbsp;[i3 pencere yöneticisi ile Hyperbola'nın ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://www.hyperbola.info/\"> Hyperbola&nbsp;0.3</a> with "
+"<a href=\"https://i3wm.org/\">i3 window manager</a>, cool-retro-term "
+"(terminal emulator), Gimp (image editor), and Iceweasel-UXP (web browser)</"
+"small>"
+msgstr ""
+"<small><a href=\"https://i3wm.org/\">i3 pencere yöneticisi</a> ile <a href="
+"\"https://www.hyperbola.info/\">Hyperbola&nbsp;0.3</a>, cool-retro-term "
+"(uçbirim öykünücüsü), Gimp (görüntü düzenleyicisi) ve Iceweasel-UXP (web "
+"tarayıcısı)</small>"
+
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
+msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of PureOS&nbsp;8 with GNOME&nbsp;3 desktop]&nbsp;"
+msgstr ""
+"&nbsp;[GNOME&nbsp;3 masaüstü ile PureOS&nbsp;8'in ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://www.pureos.net/\">PureOS&nbsp;8</a> with <a href="
+"\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, PureBrowser (web "
+"browser), and Gimp (image editor)</small>"
+msgstr ""
+"<small><a href=\"https://www.gnome.org/\">GNOME&nbsp;3</a> masaüstü ile <a "
+"href=\"https://www.pureos.net/\">PureOS&nbsp;8</a>, PureBrowser (web "
+"tarayıcısı) ve Gimp (görüntü düzenleyicisi)</small>"
+
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
+msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
+msgstr "&nbsp;[MATE masaüstü ile Trisquel&nbsp;8'in ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> with <a href="
+"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (web browser), and "
+"Inkscape (vector graphics editor)</small>"
+msgstr ""
+"<small><a href=\"https://mate-desktop.org/\">MATE</a> masaüstü ile <a href="
+"\"https://trisquel.info\">Trisquel&nbsp;8</a>, Abrowser (web tarayıcısı) ve "
+"Inkscape (vektörel grafik düzenleyicisi)</small>"
+
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=dragora#gnu-linux\">"
+
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
+
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
+
+#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+msgid "&nbsp;[Screenshot of Hyperbola&nbsp;0.3 with i3 window manager]&nbsp;"
+msgstr ""
+"&nbsp;[i3 pencere yöneticisi ile Hyperbola&nbsp;0.3'ün ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
+
+#. type: Content of: <div><div><table><tr><td><a>
+msgid "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Dragora / IceWM</small>"
+msgstr "<small>Dragora / IceWM</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Guix / GNOME3</small>"
+msgstr "<small>Guix / GNOME3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Hyperbola / i3</small>"
+msgstr "<small>Hyperbola / i3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>PureOS / GNOME3</small>"
+msgstr "<small>PureOS / GNOME3</small>"
+
+#. type: Content of: <div><div><table><tr><td>
+msgid "<small>Trisquel / MATE</small>"
+msgstr "<small>Trisquel / MATE</small>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"... or <a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
+"Free_software_replacements\"> Try parts of GNU</a>"
+msgstr ""
+"... veya <a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
+"Free_software_replacements\">GNU'nun bileşenlerini deneyin</a>"
+
+#. type: Content of: <div><div><h2>
+msgid "What is the Free Software Movement?"
+msgstr "Özgür Yazılım Hareketi Nedir?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The free software movement campaigns to win for the users of computing the "
+"freedom that comes from free software.  Free software puts its users in "
+"control of their own computing.  Nonfree software puts its users under the "
+"power of the software's developer.  See <a href=\"https://www.fsf.org/blogs/"
+"rms/20140407-geneva-tedx-talk-free-software-free-society\"> the video "
+"explanation</a>."
+msgstr ""
+"Özgür yazılım hareketi, özgür yazılımdan gelen özgürlüğü bilişim "
+"kullanıcılarına kazandırmak için kampanyalar yapar. Özgür yazılım, "
+"kullanıcıların kendi hesaplamalarını onların denetimine verir. Özgür olmayan "
+"yazılım, kullanıcıları yazılımın geliştiricisinin tahakkümüne sokar. <a href="
+"\"https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-"
+"society\">Açıklama videosuna</a> bakınız."
+
+#. type: Content of: <div><div><h2>
+msgid "What is Free Software?"
+msgstr "Özgür Yazılım Nedir?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<strong>Free software means the users have the freedom to run, copy, "
+"distribute, study, change and improve the software.</strong>"
+msgstr ""
+"<strong>Özgür yazılım; kullanıcıların yazılımı çalıştırma, kopyalama, "
+"dağıtma, inceleme, değiştirme ve geliştirme özgürlüğüne sahip olduğu "
+"anlamına gelir.</strong>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Free software is a matter of liberty, not price.  To understand the concept, "
+"you should think of &ldquo;free&rdquo; as in &ldquo;free speech&rdquo;, not "
+"as in &ldquo;free beer&rdquo;."
+msgstr ""
+"Özgür yazılım; ücretle ilgili değil, özgürlükle ilgilidir. Kavramı anlamak "
+"için &ldquo;bedava bira&rdquo;daki gibi değil, &ldquo;özgür konuşma&rdquo;"
+"daki gibi &ldquo;free&rdquo;yi düşünmelisiniz."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"More precisely, free software means users of a program have the <a href=\"/"
+"philosophy/free-sw.html\">four essential freedoms</a>:"
+msgstr ""
+"Daha doğrusu özgür yazılım, bir programın kullanıcılarının <a href=\"/"
+"philosophy/free-sw.html\">dört temel özgürlüğe</a> sahip olduğu anlamına "
+"gelir:"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"The freedom to run the program as you wish, for any purpose (freedom 0)."
+msgstr ""
+"Herhangi bir amaç için programı istediğiniz gibi çalıştırma özgürlüğü "
+"(özgürlük 0)."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"The freedom to study how the program works, and change it so it does your "
+"computing as you wish (freedom 1). Access to the source code is a "
+"precondition for this."
+msgstr ""
+"Programın nasıl çalıştığını inceleme özgürlüğü ve programı istediğiniz gibi "
+"yapın (özgürlük 1). Kaynak koduna erişim bunun için bir ön koşuldur."
+
+#. type: Content of: <div><div><ul><li>
+msgid "The freedom to redistribute copies so you can help others (freedom 2)."
+msgstr ""
+"Başkalarına yardım edebilmeniz için kopyaları yeniden dağıtma özgürlüğü "
+"(özgürlük 2)."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"The freedom to distribute copies of your modified versions to others "
+"(freedom 3).  By doing this you can give the whole community a chance to "
+"benefit from your changes.  Access to the source code is a precondition for "
+"this."
+msgstr ""
+"Değiştirilmiş sürümlerin kopyalarını başkalarına dağıtma özgürlüğü (özgürlük "
+"3). Bunu yaparak tüm topluluğa değişikliklerinden yararlanma şansı "
+"verebilirsiniz. Kaynak koduna erişim bunun için bir ön koşuldur."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Developments in technology and network use have made these freedoms <a href="
+"\"/philosophy/free-software-even-more-important.html\">even more important "
+"now</a> than they were in 1983."
+msgstr ""
+"Teknoloji ve ağ kullanımındaki gelişmeler bu özgürlükleri 1983’te olduğundan "
+"<a href=\"/philosophy/free-software-even-more-important.html\">daha da "
+"önemli</a> hâle getirmiştir."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nowadays the free software movement goes far beyond developing the GNU "
+"system.  See <a href=\"https://fsf.org\">the Free Software Foundation's web "
+"site</a> for more about what we do, and a list of <a href=\"/help\">ways you "
+"can help</a>."
+msgstr ""
+"Günümüzde özgür yazılım hareketi, GNU sistemini geliştirmenin çok ötesine "
+"geçer. Yaptıklarımız hakkında daha fazla bilgi edinmek <a href=\"https://fsf."
+"org\">Özgür Yazılım Vakfının web sitesine</a> bakabilirsiniz ve <a href=\"/"
+"help\">nasıl yardım edebileceğinizi</a> öğrenebilirsiniz."
+
+#. type: Content of: <div><div><h2>
+msgid "More about GNU"
+msgstr "GNU Hakkında Daha Fazla Bilgi"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a id=\"More-GNU\">GNU</a> is a Unix-like operating system.  That means it "
+"is a collection of many programs: applications, libraries, developer tools, "
+"even games.  The development of GNU, started in January 1984, is known as "
+"the GNU Project.  Many of the programs in GNU are released under the "
+"auspices of the GNU Project; those we call <a href=\"/software/\">GNU "
+"packages</a>."
+msgstr ""
+"GNU, Unix benzeri bir işletim sistemidir. Bu, birçok programın bir arada "
+"içerdiği anlamına gelir: Uygulamalar, kütüphaneler, geliştirici araçları, "
+"hatta oyunlar. Ocak 1984'te başlayan GNU'nun geliştirilmesi, GNU Projesi "
+"olarak bilinir. GNU'daki programların birçoğu GNU Projesi'nin himayesinde "
+"yayımlanmaktadır; onları biz <a href=\"/software/\">GNU paketleri</a> olarak "
+"adlandırıyoruz."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The name &ldquo;GNU&rdquo; is a recursive acronym for &ldquo;GNU's Not Unix."
+"&rdquo; <a href=\"/pronunciation/pronunciation.html\">&ldquo;GNU&rdquo; is "
+"pronounced <em>g'noo</em></a>, as one syllable, like saying &ldquo;"
+"grew&rdquo; but replacing the <em>r</em> with <em>n</em>."
+msgstr ""
+"&ldquo;GNU&rdquo; ismi, &ldquo;GNU's Not Unix (GNU, Unix Değildir)&rdquo; "
+"ifadesinin özyinelemeli bir kısaltmasıdır. <a href=\"/pronunciation/"
+"pronunciation.html\">&ldquo;GNU&rdquo;, tek heceli bir şekilde, İngilizce'de "
+"&ldquo;grew&rdquo; kelimesiyle aynı şekilde, <em>r</em> yerine <em>n</em> "
+"kullanılarak, <em>g'noo</em> şeklinde telaffuz edilir</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The program in a Unix-like system that allocates machine resources and talks "
+"to the hardware is called the &ldquo;kernel&rdquo;.  GNU is typically used "
+"with a kernel called Linux.  This combination is the <a href=\"/gnu/linux-"
+"and-gnu.html\"><strong>GNU/Linux operating system</strong></a>.  GNU/Linux "
+"is used by millions, though many <a href=\"/gnu/gnu-linux-faq.html\">call it "
+"&ldquo;Linux&rdquo; by mistake</a>."
+msgstr ""
+"Unix benzeri bir sistemdeki, makine kaynaklarını tahsis eden ve donanımla "
+"haberleşen programa &ldquo;çekirdek&rdquo; denir. GNU, genellikle Linux "
+"adındaki bir çekirdek ile kullanılır. Bu bileşim, <a href=\"/gnu/linux-and-"
+"gnu.html\"><strong>GNU/Linux işletim sistemidir</strong></a>. GNU/Linux "
+"milyonlarca kişi tarafından kullanılsa da çoğu kişi <a href=\"/gnu/gnu-linux-"
+"faq.html\">onu yanlışlıkla &ldquo;Linux&rdquo; olarak adlandırıyor</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"GNU's own kernel, <a href=\"/software/hurd/hurd.html\">The Hurd</a>, was "
+"started in 1990 (before Linux was started).  Volunteers continue developing "
+"the Hurd because it is an interesting technical project."
+msgstr ""
+"GNU'nun kendi çekirdeği olan <a href=\"/software/hurd/hurd.html\">Hurd</a>, "
+"1990'da (Linux başlamadan önce) başlatıldı. Gönüllüler, Hurd'u geliştirmeye "
+"devam ediyor çünkü ilginç bir teknik proje."
+
+#. type: Content of: <div><div><p>
+msgid "<a href=\"/gnu/gnu.html\">More information</a>"
+msgstr "<a href=\"/gnu/gnu.html\">Daha Fazla Bilgi</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<strong>The GNU Project encourages the community to communicate in ways that "
+"are friendly, welcoming and kind. See the <a href=\"/philosophy/kind-"
+"communication.html\"> GNU Kind Communications Guidelines</a></strong>."
+msgstr ""
+"<strong>GNU Projesi; topluluğu arkadaşça, samimi ve kibar bir şekilde "
+"iletişim kurmaya teşvik eder. <a href=\"/philosophy/kind-communication.html"
+"\">GNU Kibar İletişim Yönergeleri</a>'ne bakınız</strong>."
+
+#. type: Content of: <div><div><div><h3><a>
+msgid "Planet GNU <a href=\"https://planet.gnu.org/rss20.xml\">"
+msgstr "GNU Gezegeni <a href=\"https://planet.gnu.org/rss20.xml\">"
+
+#. type: Attribute 'alt' of: <div><div><div><h3><a><img>
+msgid "RSS Feed"
+msgstr "RSS Beslemesi"
+
+#. type: Content of: <div><div><div><h3>
+msgid "Take Action"
+msgstr "Eyleme Geçin"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"<strong>Support the efforts on net neutrality <a href=\"https://www."
+"freepress.net/issues/free-open-internet/net-neutrality\" title=\"Net "
+"neutrality in the United States of America\">in the USA</a></strong>, and in "
+"your home country."
+msgstr ""
+"<strong><a href=\"https://www.freepress.net/issues/free-open-internet/net-"
+"neutrality\" title=\"Net neutrality in the United States of America"
+"\">ABD'deki</a> ve kendi ülkenizdeki net tarafsızlığı çabalarını "
+"destekleyin</strong>."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"Defend <a href=\"https://www.laquadrature.net/en/personnal-data/\"> privacy</"
+"a>, and support <a href=\"https://www.laquadrature.net/en/?s=copyright\"> "
+"global copyright reform</a> with <a href=\"https://www.laquadrature.net/en/"
+"\">LQDN</a>."
+msgstr ""
+"<a href=\"https://www.laquadrature.net/en/personnal-data/\">Gizliliği</a> "
+"koruyun ve <a href=\"https://www.laquadrature.net/en/\">LQDN</a> ile <a href="
+"\"https://www.laquadrature.net/en/?s=copyright\">küresel telif hakkı "
+"reformunu</a> destekleyin."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"<strong><a href=\"http://www.fsf.org/campaigns\">Support current FSF "
+"campaigns</a></strong>."
+msgstr ""
+"<strong><a href=\"http://www.fsf.org/campaigns\">Mevcut FSF kampanyalarını "
+"destekleyin</a></strong>."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"Fight against software patents: <a href=\"http://www.endsoftpatents.org"
+"\">worldwide</a>, and <a href=\"/server/takeaction.html#swpat\">in Europe</"
+"a>."
+msgstr ""
+"Yazılım patentlerine karşı savaşın: <a href=\"http://www.endsoftpatents.org"
+"\">dünya çapında</a> ve <a href=\"/server/takeaction.html#swpat\">Avrupa'da</"
+"a>."
+
+#. type: Content of: <div><div><div><p>
+msgid "<a href=\"/server/takeaction.html\">More action items</a>"
+msgstr "<a href=\"/server/takeaction.html\">Daha Fazla Eylem Maddesi</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<strong>Can you contribute to any of these <a href=\"//www.fsf.org/campaigns/"
+"priority-projects/\">High Priority Areas</a>?</strong>"
+msgstr ""
+"<strong>Bu <a href=\"//www.fsf.org/campaigns/priority-projects/\">Yüksek "
+"Öncelikli Alanlar</a>'ın herhangi birine katkıda bulunabilir misiniz?</"
+"strong>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "Free phone operating system,"
+msgstr "Özgür telefon işletim sistemi,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "decentralization, federation and self-hosting,"
+msgstr "ademi merkeziyetçi, birleşik ve kendi kendine barındırma"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "free drivers, firmware and hardware designs,"
+msgstr "özgür sürücüler, aygıt yazılımları ve donanım tasarımları,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "real-time voice and video chat,"
+msgstr "gerçek zamanlı ses ve görüntülü sohbet,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "encourage contribution by people underrepresented in the community,"
+msgstr ""
+"toplulukta yeterince temsil edilmeyen kişilerin katkılarını teşvik etmek,"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "and more."
+msgstr "ve dahası."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<strong>Can you help <a href=\"/server/takeaction.html#unmaint\">maintain a "
+"GNU package</a>?</strong>"
+msgstr ""
+"<strong><a href=\"/server/takeaction.html#unmaint\">Bir GNU paketi bakımına</"
+"a> yardımcı olabilir misiniz?</strong>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"<a href=\"/software/cfengine/\">cfengine</a>, <a href=\"/software/freetalk/"
+"\">freetalk</a>, <a href=\"/software/halifax/\">halifax</a>, <a href=\"/"
+"software/mcron/\">mcron</a>, <a href=\"/software/quickthreads/"
+"\">quickthreads</a>"
+msgstr ""
+"<a href=\"/software/cfengine/\">cfengine</a>, <a href=\"/software/freetalk/"
+"\">freetalk</a>, <a href=\"/software/halifax/\">halifax</a>, <a href=\"/"
+"software/mcron/\">mcron</a>, <a href=\"/software/quickthreads/"
+"\">quickthreads</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ", are all looking for maintainers."
+msgstr ", hepsi sorumlu arıyorlar."
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "Also, these packages are looking for co-maintainers:"
+msgstr "Ayrıca bu paketler yardımcı sorumlular arıyor:"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid ""
+"<a href=\"/software/aspell/\">aspell</a>, <a href=\"/software/bison/"
+"\">bison</a>, <a href=\"/software/gnuae/\">gnuae</a>, <a href=\"/software/"
+"gnubik/\">gnubik</a>, <a href=\"/software/metaexchange/\">metaexchange</a>, "
+"<a href=\"/software/powerguru/\">powerguru</a>, <a href=\"/software/xboard/"
+"\">xboard</a>"
+msgstr ""
+"<a href=\"/software/aspell/\">aspell</a>, <a href=\"/software/bison/"
+"\">bison</a>, <a href=\"/software/gnuae/\">gnuae</a>, <a href=\"/software/"
+"gnubik/\">gnubik</a>, <a href=\"/software/metaexchange/\">metaexchange</a>, "
+"<a href=\"/software/powerguru/\">powerguru</a>, <a href=\"/software/xboard/"
+"\">xboard</a>"
+
+#. type: Content of: <div><div><div><ul><li>
+msgid "."
+msgstr "."
+
+#. type: Content of: <div><div><div><p>
+msgid "See the package web pages for more information."
+msgstr "Daha fazla bilgi için paket web sayfalarına bakabilirsiniz."
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<strong><a href=\"/software/recent-releases.html\">Recent GNU releases</a></"
+"strong>"
+msgstr ""
+"<strong><a href=\"/software/recent-releases.html\">Son GNU Sürümleri</a></"
+"strong>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<strong><a href=\"/manual/blurbs.html\">Short descriptions for all GNU "
+"packages</a></strong>"
+msgstr ""
+"<strong><a href=\"/manual/blurbs.html\">Tüm GNU Paketleri İçin Kısa "
+"Açıklamalar</a></strong>"
+
+#. type: Content of: <div><div><div><p>
+msgid "Today's random package&hellip;"
+msgstr "Bugünün Rastgele Paketi&hellip;"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"http://www.fsf.org/\">FSF</a> also has sister organizations in "
+"<a href=\"http://www.fsfe.org\">Europe</a>, <a href=\"http://www.fsfla.org/"
+"\">Latin America</a> and <a href=\"http://fsf.org.in/\">India</a>."
+msgstr ""
+"<a href=\"http://www.fsf.org/\">FSF</a>'nin ayrıca <a href=\"http://www.fsfe."
+"org\">Avrupa</a>, <a href=\"http://www.fsfla.org/\">Latin Amerika</a> ve <a "
+"href=\"http://fsf.org.in/\">Hindistan</a>'da kardeş kuruluşları vardır."
+
+#. type: Content of: <p>
+msgid "Feel free to join them!"
+msgstr "Onlara katılmaktan çekinmeyin!"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996-2019 <a href=\"http://www.fsf.org\">Free Software "
+"Foundation</a>, Inc."
+msgstr ""
+"Copyright &copy; 1996-2019 <a href=\"http://www.fsf.org\">Free Software "
+"Foundation</a>, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@yandex.com"
+"\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
+"</ul>"
+
+#. timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
