@@ -6,9 +6,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2019-11-06 13:55+0000\n"
-"PO-Revision-Date: 2019-12-15 11:46+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"POT-Creation-Date: 2019-12-17 09:55+0000\n"
+"PO-Revision-Date: 2019-12-17 21:59+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@yandex.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -17,10 +17,8 @@ msgstr ""
 "X-Generator: Poedit 2.2.4\n"
 
 #. type: Content of: <title>
-msgid ""
-"The GNU Operating System and the Free Software Movement"
-msgstr ""
-"GNU İşletim Sistemi ve Özgür Yazılım Hareketi"
+msgid "The GNU Operating System and the Free Software Movement"
+msgstr "GNU İşletim Sistemi ve Özgür Yazılım Hareketi"
 
 #. type: Attribute 'content' of: <meta>
 msgid ""
@@ -68,7 +66,7 @@ msgstr ""
 "GNU, <a href=\"/philosophy/free-sw.html\">özgür yazılım</a> olan bir işletim "
 "sistemidir, yani kullanıcıların özgürlüğüne saygı duyar. GNU işletim "
 "sistemi; GNU paketlerinden (özellikle GNU Projesi tarafından yayımlanan "
-"programlar) ve üçüncü taraflarca yayımlanan özgür yazılımdan oluşur. GNU’nun "
+"programlar) ve üçüncü taraflarca yayımlanan özgür yazılımdan oluşur. GNU'nun "
 "geliştirilmesi, özgürlüğünüzü ihlal eden yazılımlar olmadan bir bilgisayarın "
 "kullanılmasını mümkün kılmıştır."
 
@@ -413,12 +411,12 @@ msgstr "<a href=\"/gnu/gnu.html\">Daha Fazla Bilgi</a>"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<strong>The GNU Project encourages the community to communicate in ways that "
-"are friendly, welcoming and kind. See the <a href=\"/philosophy/kind-"
+"<strong>The GNU Project strongly urges the community to communicate in ways "
+"that are friendly, welcoming and kind. See the <a href=\"/philosophy/kind-"
 "communication.html\"> GNU Kind Communications Guidelines</a></strong>."
 msgstr ""
 "<strong>GNU Projesi; topluluğu arkadaşça, samimi ve kibar bir şekilde "
-"iletişim kurmaya teşvik eder. <a href=\"/philosophy/kind-communication.html"
+"iletişim kurma konusunda ısrarcıdır. <a href=\"/philosophy/kind-communication.html"
 "\">GNU Kibar İletişim Yönergeleri</a>'ne bakınız</strong>."
 
 #. type: Content of: <div><div><div><h3><a>
@@ -494,7 +492,7 @@ msgstr "Özgür telefon işletim sistemi,"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid "decentralization, federation and self-hosting,"
-msgstr "ademi merkeziyetçi, birleşik ve kendi kendine barındırma"
+msgstr "ademimerkeziyetçi, birleşik ve kendi kendine barındırma,"
 
 #. type: Content of: <div><div><div><ul><li>
 msgid "free drivers, firmware and hardware designs,"
@@ -616,17 +614,17 @@ msgstr ""
 "başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
 "\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
-#. TRANSLATORS: Ignore the original text in this paragraph,
-#. replace it with the translation of these two:
-#. We work hard and do our best to provide accurate, good quality
-#. translations.  However, we are not exempt from imperfection.
-#. Please send your comments and general suggestions in this regard
-#. to <a href="mailto:web-translators@gnu.org">
-#. &lt;web-translators@gnu.org&gt;</a>.</p>
-#. <p>For information on coordinating and submitting translations of
-#. our web pages, see <a
-#. href="/server/standards/README.translations.html">Translations
-#. README</a>.
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
@@ -671,7 +669,7 @@ msgstr ""
 "\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
 "</ul>"
 
-#. timestamp start
+#.  timestamp start
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
