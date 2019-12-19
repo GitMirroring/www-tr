@@ -1,0 +1,419 @@
+# Turkish translation of https://www.gnu.org/education/edu-cases-argentina-ecen.html
+# Copyright (C) 2019 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@yandex.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-cases-argentina-ecen.html\n"
+"POT-Creation-Date: 2016-09-13 15:55+0000\n"
+"PO-Revision-Date: 2019-12-19 20:25+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid ""
+"Escuela Cristiana Evangélica de Neuquén (ECEN) - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Escuela Cristiana Evangélica de Neuquén (ECEN) - GNU Projesi - Özgür Yazılım "
+"Vakfı"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
+"education/edu-cases.html\">Case Studies</a> &rarr; <a href=\"/education/edu-"
+"cases-argentina.html\">Argentina</a> &rarr; Escuela Cristiana Evangélica de "
+"Neuquén (ECEN)"
+msgstr ""
+"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
+"edu-cases.html\">Durum Çalışmaları</a> &rarr; <a href=\"/education/edu-cases-"
+"argentina.html\">Arjantin</a> &rarr; Escuela Cristiana Evangélica de Neuquén "
+"(ECEN)"
+
+#. type: Content of: <h2>
+msgid "Escuela Cristiana Evangélica de Neuquén (ECEN)"
+msgstr "Escuela Cristiana Evangélica de Neuquén (ECEN)"
+
+#. type: Content of: <p>
+msgid ""
+"The following information was extracted from a report submitted to us by "
+"ECEN Elementary Teacher Debora Badilla Huento. Her commitment played a key "
+"role in raising Free Software awareness and ultimately getting the school to "
+"migrate."
+msgstr ""
+"Aşağıdaki bilgiler, ECEN İlkokul Öğretmeni Debora Badilla Huento tarafından "
+"bize sunulan bir rapordan alınmıştır. Kararlılığı Özgür Yazılım bilincini "
+"arttırmada ve nihayetinde okulu göç ettirmede kilit bir rol oynadı."
+
+#. type: Content of: <div><h3>
+msgid "Location"
+msgstr "Yer"
+
+#. type: Content of: <div><p>
+msgid ""
+"City of Neuquén, capital of the <a href=\"http://en.wikipedia.org/wiki/"
+"Neuquen_Province\"> Province of Neuquén</a>, in the Argentine Patagonia "
+"Region."
+msgstr ""
+"Arjantin Patagonya Bölgesi'ndeki <a href=\"http://en.wikipedia.org/wiki/"
+"Neuquen_Province\">Neuquén Eyaleti</a>'nin başkenti olan Neuquén şehri."
+
+#. type: Content of: <div><h3>
+msgid "About"
+msgstr "Hakkında"
+
+#. type: Content of: <div><p>
+msgid ""
+"We are a private Christian school providing education from pre-elementary to "
+"high school levels in accord with state educational requirements."
+msgstr ""
+"Devlet eğitim gereksinimleri ile uyum içinde anaokulundan lise düzeyine "
+"kadar eğitim sağlayan özel bir Hristiyan okuluyuz."
+
+#. type: Content of: <div><p>
+msgid ""
+"In Argentina, each province develops its own educational policy. In the case "
+"of the province of Neuquén, teaching computer science at elementary schools "
+"is not obligatory. Actually, computer science is an extracurricular subject."
+msgstr ""
+"Arjantin'de her eyalet kendi eğitim politikasını geliştirir. Neuquén "
+"eyaletindeki ilkokullarda bilgisayar bilimi öğretimi zorunlu değildir. "
+"Aslında bilgisayar bilimi, müfredat dışı bir konudur."
+
+#. type: Content of: <div><h3>
+msgid "Motivation"
+msgstr "Motivasyon"
+
+#. type: Content of: <div><p>
+msgid ""
+"Our school advocates the ideals of solidarity, honesty, excellence in "
+"education, the observance of law, the constant search for truth, justice and "
+"love in all daily activities. Using and teaching proprietary software was in "
+"contrast with these values. School directors and teachers were also "
+"overwhelmed by software license management and by the many restrictions that "
+"the terms of those licenses imposed on the school."
+msgstr ""
+"Okulumuz tüm günlük faaliyetlerde dayanışma, dürüstlük, eğitimde "
+"mükemmellik, hukuka uyma, sürekli gerçeğin arayışı, adalet ve sevgi "
+"ideallerini savunmaktadır. Özel mülk yazılımları kullanmak ve öğretmek bu "
+"değerlerle bir tezat oluşturuyordu. Okul müdürleri ve öğretmenler de yazılım "
+"lisansı yönetimi ve bu lisansların şartlarının okula getirdiği pek çok "
+"kısıtlama nedeniyle bunalmıştı."
+
+#. type: Content of: <div><p>
+msgid ""
+"Educational quality and long term goals were also taken into account during "
+"the decision process. It is our understanding that training students on how "
+"to use a specific brand of software is far from the mission of a school."
+msgstr ""
+"Karar sürecinde eğitim kalitesi ve uzun vadeli hedefler de dikkate "
+"alınmıştır. Anlayışımız, öğrencilerin belirli bir yazılım markasını nasıl "
+"kullanacakları konusunda eğitilmesinin, bir okulun hiç de vazifesi "
+"olmadığıdır."
+
+#. type: Content of: <div><h3>
+msgid "How We Did It"
+msgstr "Nasıl Yaptık?"
+
+#. type: Content of: <div><p>
+msgid ""
+"The whole process lasted four years: we started in 2006 with all our work "
+"stations using proprietary software and concluded in 2010 with full free "
+"operating systems and programs in all the school's computers, including the "
+"administration offices and the library."
+msgstr ""
+"Tüm süreç dört yıl sürdü: 2006 yılında özel mülk yazılım içeren iş "
+"istasyonlarımızla başladık ve 2010 yılında idari ofisler ve kütüphane de "
+"dâhil olmak üzere tüm okul bilgisayarlarında tamamen özgür işletim "
+"sistemleri ve programları içerek şekilde sonuçlandırdık."
+
+#. type: Content of: <div><p>
+msgid ""
+"The plan consisted mainly of several measures aimed at raising awareness "
+"about the philosophical, ethical and socio-political implications of the use "
+"of technology. This fundamental aspect was maintained and underlined during "
+"the whole process and put into practice by the gradual substitution of "
+"existing proprietary programs with Free Libre Software programs."
+msgstr ""
+"Plan temel olarak teknolojinin kullanımının felsefi, etik ve sosyo-politik "
+"etkileri hakkında bilinç yaratmayı amaçlayan birkaç önlemden oluşuyordu. Bu "
+"temel yön, tüm süreç boyunca korunmuş ve vurgulanmıştır, ve mevcut özel mülk "
+"programların aşamalı olarak Özgür Yazılım programlarıyla değiştirilmesiyle "
+"uygulamaya konulmuştur."
+
+#. type: Content of: <div><p>
+msgid ""
+"During the first year we introduced some theoretical courses, namely "
+"\"Computer Science History\" and \"Introduction to Computer Architecture\".  "
+"We also covered the legal aspects of software such as the various types of "
+"licenses, and we talked about the commitment of Free Software users and "
+"developers to the community."
+msgstr ""
+"İlk yıl boyunca \"Bilgisayar Bilimi Tarihi\" ve \"Bilgisayar Mimarisine Giriş"
+"\" gibi bazı kuramsal dersler verdik. Ayrıca çeşitli lisans türleri gibi "
+"yazılımların yasal yönlerini ele aldık ve Özgür Yazılım kullanıcılarının ve "
+"geliştiricilerinin topluma bağlılıkları hakkında konuştuk."
+
+#. type: Content of: <div><p>
+msgid ""
+"Training courses were given to high school level teachers in the IT and all "
+"other areas, to teachers of the elementary level, to the Board of Directors "
+"and administration staff, and to the librarian."
+msgstr ""
+"BT ve diğer tüm alanlardaki lise öğretmenlerine, ilkokul öğretmenlerine, "
+"Yönetim Kurulu ve yönetim kadrosuna ve kütüphaneciye eğitim kursları verildi."
+
+#. type: Content of: <div><p>
+msgid "The following human resources were employed to carry out the migration:"
+msgstr ""
+"Göçün gerçekleştirilmesi için aşağıdaki insan kaynakları kullanılmıştır:"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"1 Computer Science teacher for the pre-elementary and elementary levels. "
+"This teacher is also in charge of maintaining the computers in the classroom "
+"and qualifying other teachers and school staff in the use of the operating "
+"system."
+msgstr ""
+"Anaokulu ve ilkokul seviyeleri için 1 Bilgisayar Bilimi öğretmeni. Bu "
+"öğretmen aynı zamanda sınıftaki bilgisayarların bakımını yapmaktan ve diğer "
+"öğretmenleri ve okul personelini işletim sistemi kullanımında yetiştirmekten "
+"sorumludur."
+
+#. type: Content of: <div><ul><li>
+msgid "5 Computer Science teachers for the high school Level."
+msgstr "Lise Seviyesi için 5 Bilgisayar Bilimi öğretmeni."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"1 PC and network technician in charge of repairing the computers of the high "
+"school level."
+msgstr ""
+"Lise seviyesindeki bilgisayarların onarımından sorumlu 1 PC ve ağ teknisyeni."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"1 Free Software programmer hired to write the Administrative Management "
+"System."
+msgstr ""
+"1 Özgür Yazılım programcısı, İdari Yönetim Sistemi'ni yazmak için işe alındı."
+
+#. type: Content of: <div><ul><li>
+msgid "1 IT Professor hired to qualify the school staff."
+msgstr "1 IT Profesörü, okul personelini yetiştirmek için işe alındı."
+
+#. type: Content of: <div><p>
+msgid "Migration costs were affordable and well within the school's budget:"
+msgstr "Göç maliyetleri uygun fiyatlı ve okulun bütçesine uygundu:"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"PC Repairs: In 2006, ECEN hired a computer technician who was provided with "
+"Free Software documentation and a DVD of the operating system in use. The "
+"school has been working with him since then."
+msgstr ""
+"PC Onarımı: 2006 yılında ECEN, bir bilgisayar teknisyenini işe aldı ve ona "
+"Özgür Yazılım belgelendirmesi ve kullanılan işletim sisteminin bir DVD'sini "
+"sağladı. Okul o zamandan beri onunla çalışıyor."
+
+#. type: Content of: <div><ul><li>
+msgid "Training: 60 training hours to qualify the school staff."
+msgstr "Eğitim: Okul personelini yetiştirmek için 60 eğitim saati."
+
+#. type: Content of: <div><h3>
+msgid "Commitment to Free Software"
+msgstr "Özgür Yazılıma Bağlılık"
+
+#. type: Content of: <div><p>
+msgid ""
+"As of 2010, we are using fully free operating systems, non in dual boot, as "
+"follows:"
+msgstr ""
+"2010 itibariyle çift önyükleme olmadan, tamamen özgür işletim sistemlerini "
+"kullanıyoruz:"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"22 PC in the pre-elementary and primary classrooms (4-12 years old students)"
+msgstr "Anaokulu ve ilkokul sınıflarında 22 adet PC (4-12 yaş öğrencileri)"
+
+#. type: Content of: <div><ul><li>
+msgid "24 PC in the high school classrooms (13-17 years old students)"
+msgstr "Lise sınıflarında 24 adet PC (13-17 yaş arası öğrenciler)"
+
+#. type: Content of: <div><ul><li>
+msgid "7 PC in the administration offices"
+msgstr "İdari ofislerde 7 adet PC"
+
+#. type: Content of: <div><ul><li>
+msgid "3 PC in the library"
+msgstr "Kütüphanede 3 adet PC"
+
+#. type: Content of: <div><ul><li>
+msgid "1 notebook in the video classroom"
+msgstr "Video sınıfında 1 dizüstü bilgisayar"
+
+#. type: Content of: <div><p>
+msgid "Some of the Free Libre programs we use are:"
+msgstr "Kullandığımız Özgür programlardan bazıları:"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Office automation: <a href=\"http://directory.fsf.org/wiki/LibreOffice"
+"\">LibreOffice</a>"
+msgstr ""
+"Ofis otomasyonu: <a href=\"http://directory.fsf.org/wiki/LibreOffice"
+"\">LibreOffice</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "Typing: <a href=\"http://directory.fsf.org/wiki/KTouch\">KTouch</a>"
+msgstr "Yazma: <a href=\"http://directory.fsf.org/wiki/KTouch\">KTouch</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "Graphic design: <a href=\"http://directory.fsf.org/wiki/GIMP\">GIMP</a>"
+msgstr ""
+"Grafik tasarımı: <a href=\"http://directory.fsf.org/wiki/GIMP\">GIMP</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Architectural design: <a href=\"http://directory.fsf.org/wiki/QCad_-"
+"_Community_Edition\">QCad</a>"
+msgstr ""
+"Mimari tasarım: <a href=\"http://directory.fsf.org/wiki/QCad_-"
+"_Community_Edition\">QCad</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Graphical design: <a href=\"http://directory.fsf.org/wiki/Scribus\">Scribus</"
+"a>"
+msgstr ""
+"Grafiksel tasarım: <a href=\"http://directory.fsf.org/wiki/Scribus"
+"\">Scribus</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Video: <a href=\"http://www.openshotvideo.com/\">OpenShot Video Editor</a>"
+msgstr ""
+"Video: <a href=\"http://www.openshotvideo.com/\">OpenShot Video Editor</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"3D animation: <a href=\"http://directory.fsf.org/wiki/Blender\">Blender</a>"
+msgstr ""
+"3B animasyon: <a href=\"http://directory.fsf.org/wiki/Blender\">Blender</a>"
+
+#. type: Content of: <div><h3>
+msgid "Results"
+msgstr "Sonuçlar"
+
+#. type: Content of: <div><p>
+msgid ""
+"We found the migration experience quite positive and we decided to adopt a "
+"Free Software environment for all work stations. In October 2009 the school "
+"sponsored the Software Freedom Day in the city of San Martín de los Andes."
+msgstr ""
+"Geçiş deneyimini oldukça olumlu bulduk ve tüm iş istasyonları için Özgür "
+"Yazılım ortamını benimsemeye karar verdik. Ekim 2009'da okul San Martín de "
+"los Andes şehrinde Yazılım Özgürlüğü Günü'ne sponsor oldu."
+
+#. type: Content of: <div><p>
+msgid ""
+"Although it required dedication and perseverance, the process was pleasant.  "
+"Now we disseminate what we've learned in order to help other educational "
+"communities."
+msgstr ""
+"Özveri ve azim gerektirse de süreç keyifliydi. Şimdi diğer eğitim "
+"topluluklarına yardımcı olmak için öğrendiklerimizi yayıyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"We would like to express our appreciation for the excellent work done to all "
+"the people involved in the migration effort."
+msgstr ""
+"Göç çabası içerisinde yer alan bütün insanlara, mükemmel çalışmalar için "
+"teşekkürlerimizi sunarız."
+
+#. type: Content of: <p>
+msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
+msgstr "<a href=\"/education/edu-cases.html\">Durum Çalışmalarına Geri Dön</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#. TRANSLATORS: Ignore the original text in this paragraph,
+#. replace it with the translation of these two:
+#. We work hard and do our best to provide accurate, good quality
+#. translations.  However, we are not exempt from imperfection.
+#. Please send your comments and general suggestions in this regard
+#. to <a href="mailto:web-translators@gnu.org">
+#. &lt;web-translators@gnu.org&gt;</a>.</p>
+#. <p>For information on coordinating and submitting translations of
+#. our web pages, see <a
+#. href="/server/standards/README.translations.html">Translations
+#. README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2016 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@yandex.com"
+"\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
+"</ul>"
+
+#. timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

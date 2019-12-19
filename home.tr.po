@@ -416,8 +416,8 @@ msgid ""
 "communication.html\"> GNU Kind Communications Guidelines</a></strong>."
 msgstr ""
 "<strong>GNU Projesi; topluluğu arkadaşça, samimi ve kibar bir şekilde "
-"iletişim kurma konusunda ısrarcıdır. <a href=\"/philosophy/kind-communication.html"
-"\">GNU Kibar İletişim Yönergeleri</a>'ne bakınız</strong>."
+"iletişim kurma konusunda ısrarcıdır. <a href=\"/philosophy/kind-"
+"communication.html\">GNU Kibar İletişim Yönergeleri</a>'ne bakınız</strong>."
 
 #. type: Content of: <div><div><div><h3><a>
 msgid "Planet GNU <a href=\"https://planet.gnu.org/rss20.xml\">"
@@ -669,7 +669,7 @@ msgstr ""
 "\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
 "</ul>"
 
-#.  timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
