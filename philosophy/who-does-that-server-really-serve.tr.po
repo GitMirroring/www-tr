@@ -98,19 +98,19 @@ msgstr ""
 "denetlediği için kullanıcıların denetleyemediği yazılımlar. Sahipler; casus "
 "yazılım, arka kapılar ve <a href=\"http://DefectiveByDesign.org\">Dijital "
 "Kısıtlamalar Yönetimi (Digital Restrictions Management [DRM])</a> "
-"(propagandalarında &ldquo;Dijital Haklar Yönetimi [Digital Rights "
-"Management]&rdquo; olarak söz edilir) gibi kötü niyetli özellikleri "
-"ekleyerek bu haksız güçten yararlanırlar."
+"(propagandalarında &ldquo;Dijital Haklar Yönetimi [Digital Rights Management]"
+"&rdquo; olarak söz edilir) gibi kötü niyetli özellikleri ekleyerek bu haksız "
+"güçten yararlanırlar."
 
 #. type: Content of: <p>
 msgid ""
 "Our solution to this problem is developing <em>free software</em> and "
 "rejecting proprietary software.  Free software means that you, as a user, "
-"have four essential freedoms: (0)&nbsp;to run the program as you wish, "
-"(1)&nbsp;to study and change the source code so it does what you wish, "
-"(2)&nbsp;to redistribute exact copies, and (3)&nbsp;to redistribute copies "
-"of your modified versions.  (See the <a href=\"/philosophy/free-sw.html"
-"\">free software definition</a>.)"
+"have four essential freedoms: (0)&nbsp;to run the program as you wish, (1)"
+"&nbsp;to study and change the source code so it does what you wish, (2)&nbsp;"
+"to redistribute exact copies, and (3)&nbsp;to redistribute copies of your "
+"modified versions.  (See the <a href=\"/philosophy/free-sw.html\">free "
+"software definition</a>.)"
 msgstr ""
 "Bu soruna sunduğumuz çözüm; özgür yazılım geliştirmek ve özel mülk yazılımı "
 "reddetmektir. Özgür yazılım, bir kullanıcı olarak, dört temel özgürlüğe "
@@ -156,7 +156,7 @@ msgstr ""
 "(örneğin; bir fotoğrafı değiştirmek, metni başka bir dile çevirmek vb.), "
 "sonra da kullanıcıları bu sunucu üzerinden bilişim yapmaya davet ettiği "
 "anlamına gelir. Sunucunun bir kullanıcısı verilerini sunucuya gönderir, bu "
-"sayede sağlanan veriler üzerinde <em>kendi bilişimini<em> yapar ve sonuçlar "
+"sayede sağlanan veriler üzerinde <em>kendi bilişimini</em> yapar ve sonuçlar "
 "kendisine geri gönderilir veya doğrudan onun adına hareket eder."
 
 #. type: Content of: <p>
@@ -886,17 +886,17 @@ msgstr ""
 "başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
 "\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
-#. TRANSLATORS: Ignore the original text in this paragraph,
-#. replace it with the translation of these two:
-#. We work hard and do our best to provide accurate, good quality
-#. translations.  However, we are not exempt from imperfection.
-#. Please send your comments and general suggestions in this regard
-#. to <a href="mailto:web-translators@gnu.org">
-#. &lt;web-translators@gnu.org&gt;</a>.</p>
-#. <p>For information on coordinating and submitting translations of
-#. our web pages, see <a
-#. href="/server/standards/README.translations.html">Translations
-#. README</a>.
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
@@ -937,7 +937,7 @@ msgstr ""
 "\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
 "</ul>"
 
-#. timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
