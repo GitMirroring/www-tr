@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-16 15:55+0000\n"
-"PO-Revision-Date: 2019-09-15 11:18+0200\n"
+"POT-Creation-Date: 2020-01-07 13:25+0000\n"
+"PO-Revision-Date: 2020-01-10 20:28+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Loco-Source-Locale: en_AT\n"
 "X-Loco-Parser: loco_parse_po\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -229,6 +229,11 @@ msgstr "&ldquo;<a href=\"#Linux\">Linux sistemi</a>&rdquo; |"
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Market\">Market</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Market\">Pazar</a>&rdquo; |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <p>
+msgid "&ldquo;<a href=\"#Modern\">Modern</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#Modern\">Modern</a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
@@ -1418,12 +1423,12 @@ msgid ""
 "really do that.  If neutrality is your goal, &ldquo;FLOSS&rdquo; is better.  "
 "But if you want to show you stand for freedom, don't use a neutral term."
 msgstr ""
-"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖAKY (FOSS)"
-"&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür yazılım ve "
-"açık kaynak arasında tarafsız olmanın</a> bir yolu olarak ortaya kondu, ama "
-"aslında bunu başaramıyor. Eğer tarafsızlık amacınızsa, &ldquo;ÖLAKK&rdquo; "
-"daha iyi bir seçenektir. Ancak eğer özgürlüğün tarafını tuttuğunuzu "
-"göstermek istiyorsanız, tarafsız bir terim kullanmayın."
+"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖAKY "
+"(FOSS)&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür "
+"yazılım ve açık kaynak arasında tarafsız olmanın</a> bir yolu olarak ortaya "
+"kondu, ama aslında bunu başaramıyor. Eğer tarafsızlık amacınızsa, &ldquo;"
+"ÖLAKK&rdquo; daha iyi bir seçenektir. Ancak eğer özgürlüğün tarafını "
+"tuttuğunuzu göstermek istiyorsanız, tarafsız bir terim kullanmayın."
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -1749,6 +1754,31 @@ msgstr ""
 "rekabet için değil. Bu özgürlük kampanyasını salt iş faaliyetleri başarısı "
 "ile eşitlemek, özgürlüğün önemini yadsımak ve özel mülk yazılımı "
 "meşrulaştırmak anlamına gelir."
+
+#. type: Content of: <h3>
+msgid "&ldquo;Modern&rdquo;"
+msgstr "&ldquo;Modern&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"The term &ldquo;modern&rdquo; makes sense from a descriptive perspective "
+"&mdash; for instance, solely to distinguish newer periods and ways from "
+"older ones."
+msgstr ""
+"&ldquo;Modern&rdquo; terimi, tanımlayıcı bir bakış açısına göre anlamlı "
+"olabilir, örneğin, sadece yeni dönemleri eski dönemlerden ayırt etmek için."
+
+#. type: Content of: <p>
+msgid ""
+"It becomes a problem when it carries the presumption that older ways are "
+"&ldquo;old-fashioned&rdquo;; that is, presumed to be worse.  In "
+"technological fields where businesses make the choices and impose them on "
+"users, the reverse is often true."
+msgstr ""
+"Eski yöntemlerin &ldquo;eski moda&rdquo; olduğu, yani daha kötü olarak "
+"farzedildiği, şeklinde bir varsayıma sahip olduğunda bu bir sorun haline "
+"gelecektir. İşletmelerin tercihlere karar verdiği ve kullanıcılara dayattığı "
+"teknolojik alanlarda, genellikle bunun tersi doğrudur."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Monetize&rdquo;"
@@ -2528,10 +2558,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
-"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
-"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
