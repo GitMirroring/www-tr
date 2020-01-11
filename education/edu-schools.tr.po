@@ -381,7 +381,7 @@ msgstr ""
 "\n"
 "</ul>"
 
-#.  timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
