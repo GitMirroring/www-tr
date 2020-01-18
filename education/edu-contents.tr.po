@@ -1,0 +1,245 @@
+# Turkish translation of https://www.gnu.org/education/edu-contents.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-contents.html\n"
+"POT-Creation-Date: 2019-05-01 10:56+0000\n"
+"PO-Revision-Date: 2020-01-18 20:37+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid ""
+"Free Software and Education - Table of Contents - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"Özgür Yazılım ve Eğitim - İçindekiler - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/education.html\">Education</a> &rarr; Education Contents"
+msgstr ""
+"<a href=\"/education/education.html\">Eğitim</a> &rarr; Eğitim İçerikleri"
+
+#. type: Content of: <h2>
+msgid "Free Software and Education - Table of Contents"
+msgstr "Özgür Yazılım ve Eğitim - İçindekiler Listesi"
+
+#. type: Content of: <p>
+msgid ""
+"The Education section of the GNU Project is about the importance of using "
+"and teaching exclusively free software in all educational institutions. It "
+"presents articles on the subject, cases of success in implementing free "
+"software in schools and universities around the world, examples of free "
+"programs used in the classroom to the benefit of teachers and students "
+"alike, and free software education projects carried out by organizations and "
+"governments worldwide."
+msgstr ""
+"GNU Projesi'nin Eğitim bölümü, tüm eğitim kurumlarında yalnızca özgür "
+"yazılım kullanmanın ve öğretmenin önemiyle ilgilidir. Konu hakkında "
+"makaleler, dünya çapında okul ve üniversitelerde özgür yazılım kullanmaya "
+"ilişkin örnek başarılar, sınıflarda öğretmen ve öğrencilerin yararına "
+"kullanılan özgür program örnekleri sunuyor ve dünya çapındaki örgütler ve "
+"hükümetler tarafından gerçekleştirilen özgür yazılım eğitim projeleri "
+"sunuyor."
+
+#. type: Content of: <h3>
+msgid "Table of Contents"
+msgstr "İçindekiler"
+
+#. type: Content of: <p>
+msgid "<a href=\"/education/education.html\">Education Main Page</a>"
+msgstr "<a href=\"/education/education.html\">Eğitim Ana Sayfası</a>"
+
+#. type: Content of: <p>
+msgid "<a href=\"/education/edu-cases.html\">Case Studies</a>"
+msgstr "<a href=\"/education/edu-cases.html\">Durum Çalışmaları</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/education/edu-cases-argentina.html\">Argentina</a>"
+msgstr "<a href=\"/education/edu-cases-argentina.html\">Arjantin</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href= \"/education/edu-cases-argentina-ecen.html\">Escuela Cristiana "
+"Evang&eacute;lica de Neuqu&eacute;n</a>"
+msgstr ""
+"<a href= \"/education/edu-cases-argentina-ecen.html\">Escuela Cristiana "
+"Evang&eacute;lica de Neuqu&eacute;n</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/education/edu-cases-india.html\">India</a>"
+msgstr "<a href=\"/education/edu-cases-india.html\">Hindistan</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"/education/edu-cases-india-ambedkar.html\">Ambedkar Community "
+"Computer Center</a>"
+msgstr ""
+"<a href=\"/education/edu-cases-india-ambedkar.html\">Ambedkar Topluluğu "
+"Bilişim Merkezi</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"<a href=\"/education/edu-cases-india-irimpanam.html\">VHSS Irimpanam</a>"
+msgstr ""
+"<a href=\"/education/edu-cases-india-irimpanam.html\">VHSS Irimpanam</a>"
+
+#. type: Content of: <p>
+msgid "<a href=\"/education/edu-resources.html\">Educational Resources</a>"
+msgstr "<a href=\"/education/edu-resources.html\">Eğitim Kaynakları</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/education/edu-software.html\">Educational Free Software</a>"
+msgstr "<a href=\"/education/edu-software.html\">Eğitsel Özgür Yazılım</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "<a href=\"/education/edu-software-gcompris.html\">GCompris</a>"
+msgstr "<a href=\"/education/edu-software-gcompris.html\">GCompris</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "<a href=\"/education/edu-software-gimp.html\">GIMP</a>"
+msgstr "<a href=\"/education/edu-software-gimp.html\">GIMP</a>"
+
+#. type: Content of: <ul><li><ul><li>
+msgid "<a href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a>"
+msgstr "<a href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/education/edu-projects.html\">Groups and Projects</a>"
+msgstr "<a href=\"/education/edu-projects.html\">Gruplar ve Projeler</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/education/edu-free-learning-resources.html\">Free Learning "
+"Resources</a>"
+msgstr ""
+"<a href=\"/education/edu-free-learning-resources.html\">Özgür Öğrenme "
+"Kaynakları</a>"
+
+#. type: Content of: <p>
+msgid "<a href=\"/education/edu-faq.html\">Frequently Asked Questions</a>"
+msgstr "<a href=\"/education/edu-faq.html\">Sıkça Sorulan Sorular</a>"
+
+#. type: Content of: <p>
+msgid "<a href=\"/education/edu-team.html\">The Education Team</a>"
+msgstr "<a href=\"/education/edu-team.html\">Eğitim Ekibi</a>"
+
+#. type: Content of: <p>
+msgid "<strong>In Depth</strong>"
+msgstr "<strong>Ayrıntılar</strong>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/education/edu-why.html\">Why Educational Institutions Should Use "
+"and Teach Exclusively Free Software</a>."
+msgstr ""
+"<a href=\"/education/edu-why.html\">Eğitim Kurumları Neden Sadece Özgür "
+"Yazılımları Kullanmalı ve Öğretmelidir</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/education/edu-schools.html\">Why Schools Should Exclusively Use "
+"Free Software</a>"
+msgstr ""
+"<a href=\"/education/edu-schools.html\">Okullar Neden Sadece Özgür Yazılım "
+"Kullanmalı</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/education/edu-system-india.html\">The Education System in India</"
+"a>."
+msgstr ""
+"<a href=\"/education/edu-system-india.html\">Hindistan'daki Eğitim Sistemi</"
+"a>."
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/misc/edu-misc.html\">Education Miscellaneous Materials</"
+"a>"
+msgstr ""
+"<a href=\"/education/misc/edu-misc.html\">Çeşitli Eğitim Materyalleri</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011, 2012, 2016, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2012, 2016, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

@@ -1,0 +1,182 @@
+# Turkish translation of https://www.gnu.org/education/edu-cases-india.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-cases-india.html\n"
+"POT-Creation-Date: 2016-09-13 15:55+0000\n"
+"PO-Revision-Date: 2020-01-18 20:42+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid "Case Studies in India - GNU Project - Free Software Foundation"
+msgstr "Hindistan'daki Durum Çalışmaları - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
+"education/edu-cases.html\">Case Studies</a> &rarr; India"
+msgstr ""
+"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
+"edu-cases.html\">Durum Çalışmaları</a> &rarr; Hindistan"
+
+#. type: Content of: <h2>
+msgid "Case Studies in India"
+msgstr "Hindistan'daki Durum Çalışmaları"
+
+#. type: Content of: <p>
+msgid ""
+"An <a href=\"/education/edu-system-india.html\">article</a> by Indian "
+"scientist Dr. V. Sasi Kumar which explains in detail how the education "
+"system is structured in India, with significant notes on its development "
+"throughout history. The article also covers the case of Kerala, the state in "
+"India which successfully implemented Free Software in thousands of schools "
+"thanks to the government's project <a href=\"https://www.itschool.gov.in/"
+"\">IT@School</a>."
+msgstr ""
+"Hint bilim insanı Dr. V. Sasi Kumar'ın Hindistan'da eğitim sisteminin nasıl "
+"yapılandırıldığını ayrıntılı olarak anlatan ve tarih boyunca gelişimi "
+"hakkında önemli notlar içeren bir makale. Makale ayrıca hükûmetin <a href="
+"\"https://www.itschool.gov.in/\">IT@School</a> projesi sayesinde binlerce "
+"okulda Özgür Yazılım'ı başarıyla uygulayan, Hindistan'da eyalet olan "
+"Kerala'yı da kapsıyor."
+
+#. type: Content of: <p>
+msgid ""
+"Some notions on the <a href= \"http://en.wikipedia.org/wiki/"
+"Education_in_India\">education system of India</a> can also be found in "
+"Wikipedia."
+msgstr ""
+"<a href= \"http://en.wikipedia.org/wiki/Education_in_India\">Hindistan'ın "
+"eğitim sistemi</a> ile ilgili bazı düşünceler Vikipedi'de da bulunabilir."
+
+#. type: Content of: <p>
+msgid ""
+"Below are listed some of the educational institutions in India who are using "
+"Free Software."
+msgstr ""
+"Aşağıda Hindistan'da Özgür Yazılım kullanan bazı eğitim kurumları "
+"listelenmiştir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href= \"/education/edu-cases-india-ambedkar.html\">Ambedkar Community "
+"Computing Center (AC3)</a>"
+msgstr ""
+"<a href= \"/education/edu-cases-india-ambedkar.html\">Ambedkar Topluluğu "
+"Bilişim Merkezi (AC3)</a>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"A group of Free Software advocates set up a computing center in a slum in "
+"Bangalore to teach computer skills to underprivileged children."
+msgstr ""
+"Bir grup Özgür Yazılım destekçisi, Bangalore'deki fakir bir semtte "
+"olanakları az olan çocuklara bilgisayar becerileri öğretmek için bir bilişim "
+"merkezi kurdu."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href= \"/education/edu-cases-india-irimpanam.html\">Vocational Higher "
+"Secondary School Irimpanam (VHSS Irimpanam)</a>"
+msgstr ""
+"<a href= \"/education/edu-cases-india-irimpanam.html\">Irimpanam Mesleki "
+"Okulu (VHSS Irimpanam)</a>"
+
+#. type: Content of: <ul><li><p>
+msgid ""
+"One of the several thousand schools that are using exclusively Free Software "
+"as the result of a <a href= \"https://www.itschool.gov.in/\">project</a> "
+"carried out by the government in the state of Kerala."
+msgstr ""
+"Hükûmet tarafından Kerala eyaletinde yürütülen bir <a href= \"https://www."
+"itschool.gov.in/\">proje</a> sonucunda sadece Özgür Yazılım kullanan birkaç "
+"bin okuldan biri."
+
+#. type: Content of: outside any tag (error?)
+msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
+msgstr "<a href=\"/education/edu-cases.html\">Durum Çalışmalarına Geri Dön</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011, 2015, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2015, 2016 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
