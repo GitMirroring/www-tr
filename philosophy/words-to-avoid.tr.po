@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-07 13:25+0000\n"
-"PO-Revision-Date: 2020-01-10 20:28+0100\n"
+"PO-Revision-Date: 2020-01-18 20:15+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -123,7 +123,7 @@ msgstr "&ldquo;<a href=\"#Content\">İçerik</a>&rdquo; |"
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#CopyrightOwner\">Copyright Owner</a>&rdquo; |"
-msgstr "&ldquo;<a href=\"#Consumer\">Telif hakkı sahibi</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#CopyrightOwner\">Telif hakkı sahibi</a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
@@ -273,7 +273,7 @@ msgstr "&ldquo;<a href=\"#PowerPoint\">PowerPoint</a>&rdquo; |"
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Product\">Product</a>&rdquo; |"
-msgstr "&ldquo;<a href=\"#Protection\">Ürün</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#Product\">Ürün</a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
@@ -1423,12 +1423,12 @@ msgid ""
 "really do that.  If neutrality is your goal, &ldquo;FLOSS&rdquo; is better.  "
 "But if you want to show you stand for freedom, don't use a neutral term."
 msgstr ""
-"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖAKY (FOSS)"
-"&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür yazılım ve "
-"açık kaynak arasında tarafsız olmanın</a> bir yolu olarak ortaya kondu, ama "
-"aslında bunu başaramıyor. Eğer tarafsızlık amacınızsa, &ldquo;ÖLAKK&rdquo; "
-"daha iyi bir seçenektir. Ancak eğer özgürlüğün tarafını tuttuğunuzu "
-"göstermek istiyorsanız, tarafsız bir terim kullanmayın."
+"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖAKY "
+"(FOSS)&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür "
+"yazılım ve açık kaynak arasında tarafsız olmanın</a> bir yolu olarak ortaya "
+"kondu, ama aslında bunu başaramıyor. Eğer tarafsızlık amacınızsa, &ldquo;"
+"ÖLAKK&rdquo; daha iyi bir seçenektir. Ancak eğer özgürlüğün tarafını "
+"tuttuğunuzu göstermek istiyorsanız, tarafsız bir terim kullanmayın."
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -1495,12 +1495,12 @@ msgid ""
 "once they see that it means exactly what it says, they will really "
 "understand what the issue is."
 msgstr ""
-"Kendi dilinizde bir sözcük oluşturarak, gerçekten de özgürlüğe atıf "
-"yaptığınızı ve yalnızca birtakım yabancı pazarlama kavramlarını papağan gibi "
-"tekrarlamadığınızı gösterirsiniz. Özgürlüğe ilişkin atıf, vatandaşlarınıza "
-"ilk başta garip ya da rahatsız edici gelebilir ancak bir kere tam da ifade "
-"ettiği şey anlamına geldiğini gördüklerinde, hususu gerçekten de tam olarak "
-"anlayacaklardır."
+"<a href=\"/philosophy/fs-translations.html\">Kendi dilinizde</a> bir sözcük "
+"oluşturarak, gerçekten de özgürlüğe atıf yaptığınızı ve yalnızca birtakım "
+"yabancı pazarlama kavramlarını papağan gibi tekrarlamadığınızı "
+"gösterirsiniz. Özgürlüğe ilişkin atıf, vatandaşlarınıza ilk başta garip ya "
+"da rahatsız edici gelebilir ancak bir kere tam da ifade ettiği şey anlamına "
+"geldiğini gördüklerinde, hususu gerçekten de tam olarak anlayacaklardır."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Give away software&rdquo;"
