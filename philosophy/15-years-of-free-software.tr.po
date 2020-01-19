@@ -2,7 +2,7 @@
 # 15-years-of-free-software.html paketi için Türkçe çeviriler
 # Copyright (C) 2008 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original page.
-#
+# 
 # Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
 # Beyhan Parlakyıldız <beyhanpar@gmail.com>, 2007.
 # Anıl Mevlüt Güven <anilmevlutguven@mynet.com>, 2007.
@@ -67,12 +67,12 @@ msgid ""
 "own needs. The owners of software had erected walls to divide us from each "
 "other."
 msgstr ""
-"1984’te, modern bir bilgisayarı, sınırlayıcı bir lisans altında edinmeniz"
-" gereken özel mülk bir işletim sistemini kurmadan kullanmak olanaksızdı."
-" Kimsenin, yazılımı, bilgisayar kullanıcısı arkadaşlarıyla özgürce"
-" paylaşmasına izin verilmezdi ve herhangi biri, yazılımı, kendi"
-" gereksinimlerine uyması için güçlükle değiştirebilirdi. Yazılım sahipleri,"
-" bizi, birbirimizden ayırmak için duvarlar örmüşlerdi."
+"1984’te, modern bir bilgisayarı, sınırlayıcı bir lisans altında edinmeniz "
+"gereken özel mülk bir işletim sistemini kurmadan kullanmak olanaksızdı. "
+"Kimsenin, yazılımı, bilgisayar kullanıcısı arkadaşlarıyla özgürce "
+"paylaşmasına izin verilmezdi ve herhangi biri, yazılımı, kendi "
+"gereksinimlerine uyması için güçlükle değiştirebilirdi. Yazılım sahipleri, "
+"bizi, birbirimizden ayırmak için duvarlar örmüşlerdi."
 
 #. type: Content of: <p>
 msgid ""
@@ -241,13 +241,13 @@ msgstr ""
 "\n"
 "<li>\n"
 "Anıl Mevlüt Güven\n"
-"<a href=\"mailto:anilmevlutguven@mynet.com\""
-">&lt;anilmevlutguven@mynet.com&gt;</a>,\n"
+"<a href=\"mailto:anilmevlutguven@mynet.com\">&lt;anilmevlutguven@mynet."
+"com&gt;</a>,\n"
 "2007.\n"
 "</li>\n"
 "<li>T. E. Kalayci, 2019.</li>\n"
-"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com\""
-">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
 "</ul>"
 
 #.  timestamp start 

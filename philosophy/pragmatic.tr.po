@@ -1,14 +1,11 @@
 # Turkish translation of https://www.gnu.org/philosophy/pragmatic.html
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# T. E. Kalayci, 2009.
+# T. E. Kalayci, 2009, 2020.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
-# May 2014: trivial update (T. Godefroy).
-# July 2014: switch to translated license notice (T. Godefroy).
-# May 2017: clean up.
 #
 msgid ""
 msgstr ""

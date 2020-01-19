@@ -323,10 +323,10 @@ msgstr ""
 "duyacak. Nasıl çalıştığını ve etkinliğin nasıl yapıldığını gösteren bir "
 "video kaydedildi."
 
-#. TRANSLATORS: Replace the link to the video with subtitles in English with
-#. a link to the video with subtitles in your language, if it exists. Likewise,
-#. modify the link to SubRip subtitles accordingly, and replace the word "English"
-#. with the name of your language.
+#.  TRANSLATORS: Replace the link to the video with subtitles in English with 
+#.  a link to the video with subtitles in your language, if it exists. Likewise, 
+#.  modify the link to SubRip subtitles accordingly, and replace the word "English" 
+#.  with the name of your language. 
 #. type: Content of: <div><p>
 msgid ""
 "<a href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.en.ogv\">Watch "

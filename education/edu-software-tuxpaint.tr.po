@@ -38,7 +38,7 @@ msgstr "Tux Paint"
 msgid "Description"
 msgstr "Açıklama"
 
-#. GNUN: localize URL /education/misc/tuxpaint-start-sm.png, /education/misc/tuxpaint-start.png
+#.  GNUN: localize URL /education/misc/tuxpaint-start-sm.png, /education/misc/tuxpaint-start.png 
 #. type: Content of: <div><a>
 msgid "<a href=\"/education/misc/tuxpaint-start.png\">"
 msgstr "<a href=\"/education/misc/tuxpaint-start.png\">"

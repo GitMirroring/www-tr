@@ -55,9 +55,9 @@ msgstr ""
 "href=\"mailto:education@gnu.org\">&lt;education@gnu.org&gt;</a> ile "
 "iletişime geçin."
 
-#. Begin country-wise Index. Add countries in alphabetical order
-#. End of Country-wise Index
-#. Begin country-wise Section. Add new countries in alphabetical order
+#.  Begin country-wise Index. Add countries in alphabetical order  
+#.  End of Country-wise Index 
+#.  Begin country-wise Section. Add new countries in alphabetical order 
 #. type: Content of: outside any tag (error?)
 msgid ""
 "<a href=\"/education/edu-cases-argentina.html\">Argentina</a> | <a href=\"/"
