@@ -1,0 +1,304 @@
+# Turkish translation of https://www.gnu.org/education/edu-projects.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-projects.html\n"
+"POT-Creation-Date: 2019-11-21 07:55+0000\n"
+"PO-Revision-Date: 2020-01-21 19:33+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid "Groups and Projects - GNU Project - Free Software Foundation"
+msgstr "Gruplar ve Projeler - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
+"education/edu-resources.html\">Educational Resources</a> &rarr; Groups and "
+"Projects"
+msgstr ""
+"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
+"edu-resources.html\">Eğitim Kaynakları</a> &rarr; Gruplar ve Projeler"
+
+#. type: Content of: <h2>
+msgid "Groups and Projects"
+msgstr "Gruplar ve Projeler"
+
+#. type: Content of: <p>
+msgid ""
+"There are several groups and organizations around the world who follow the "
+"GNU philosophy and are working on projects aimed at bringing free software "
+"to the education field. A few of them are listed below. If your project "
+"supports only free software and it is not listed here, please contact us at "
+"<a href=\"mailto:education@gnu.org\"> &lt;education@gnu.org&gt;</a> to let "
+"us know."
+msgstr ""
+"Dünyada GNU felsefesini takip eden ve eğitim alanına özgür yazılım getirmeyi "
+"amaçlayan projeler üzerinde çalışan birçok grup ve kuruluş var. Bunlardan "
+"birkaçı aşağıda listeleniyor. Projeniz yalnızca özgür yazılımı destekliyor "
+"ve burada listelenmiyorsa lütfen bize bildirmek için <a href=\"mailto:"
+"education@gnu.org\"> &lt;education@gnu.org&gt;</a> adresinden bizimle "
+"iletişime geçin."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<a href=\"http://fsfeurope.org/projects/education/education.en.html\"> FSFE "
+"Education Project</a>"
+msgstr ""
+"<a href=\"http://fsfeurope.org/projects/education/education.en.html\"> FSFE "
+"Eğitim Projesi</a>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"&ldquo;The FSFE's Education Team exists to raise awareness and bring the "
+"benefits of free software to all groups involved in education. It aims for a "
+"legal framework that prohibits discrimination against free software and its "
+"users.&rdquo;"
+msgstr ""
+"&ldquo;FSFE'nin Eğitim Ekibi; eğitimde yer alan tüm gruplara farkındalık "
+"yaratmak ve özgür yazılımın faydalarını sağlamak için var. Özgür yazılım ve "
+"kullanıcılarına karşı ayrımcılığı yasaklayan yasal bir çerçeve hedefliyorlar."
+"&rdquo;"
+
+#. type: Content of: <dl><dt>
+msgid "<a href=\"http://guri.hipatia.net/\">GURI</a>"
+msgstr "<a href=\"http://guri.hipatia.net/\">GURI</a>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Guri is a group which was born inside an Italian High School as the result "
+"of a program carried out by NGO Hipatia to raise awareness about the role of "
+"free software in the education field. Guri opposes the growing practice of "
+"treating knowledge as if it were a tangible object subject to ownership. It "
+"fights to change the mainstream cultural framework in Italy which prevents "
+"the exercise of some of the most important human rights by posing dangerous "
+"threats to our freedom such as software patents, unfair copyright laws, and "
+"the adoption of proprietary, subjugating software."
+msgstr ""
+"Guri, Hipatia STK'si tarafından eğitim alanında özgür yazılımın rolü "
+"hakkında farkındalığı artırmak amacıyla yürütülen bir program sonucunda bir "
+"İtalyan Lisesi içinde doğan bir gruptur. Guri, bilginin sahipliğe tabi elle "
+"tutulur bir nesne gibi muamele görmesine karşı giderek artan bir şekilde "
+"karşı çıkıyor. Yazılım patentleri, haksız telif hakkı yasaları ve özel mülk, "
+"boyun eğdiren yazılımların benimsenmesi gibi özgürlüğümüze tehlikeli "
+"tehditler oluşturarak en önemli insan haklarından bazılarının kullanılmasını "
+"önleyen İtalya'daki ana akım kültürel çerçeveyi değiştirmek için mücadele "
+"ediyor."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"The goals of the Guri project are to convert the educational system so that "
+"it is based exclusively on free software and to extend the freedoms it "
+"grants to every field of knowledge. Guri believes in the power of education "
+"to shape a better society by teaching students the values of sharing and "
+"cooperation. It advocates and works towards a non-pyramidal system to share "
+"knowledge as a fundamental good for humanity, a system in which everyone can "
+"participate actively and access knowledge without restrictions."
+msgstr ""
+"Guri projesinin hedefleri eğitim sistemini sadece özgür yazılıma dayanacak "
+"şekilde dönüştürmek ve sağladığı özgürlükleri her bilgi alanına yaymaktır. "
+"Guri; öğrencilere paylaşım ve iş birliği değerlerini öğreterek eğitimin daha "
+"iyi bir toplumu şekillendirme gücüne inanıyor. Bilgiyi insanlık için temel "
+"bir fayda olarak herkesin aktif olarak katılabileceği ve kısıtlama "
+"olmaksızın bilgiye erişebileceği bir sistem olarak paylaşmak için piramit "
+"şeklinde olmayan bir sistemi savunuyor ve çalışıyor."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"To achieve its goals, the group takes action mainly in High School and "
+"University environments, organizing workshops and courses to promote "
+"awareness about the ethical principles of free software."
+msgstr ""
+"Grup, hedeflerine ulaşmak için, ağırlıklı olarak Lise ve Üniversite "
+"ortamlarında harekete geçerek özgür yazılımın etik ilkeleri konusunda "
+"farkındalığı artırmak için seminerler ve kurslar düzenliyor."
+
+#. type: Content of: <dl><dt>
+msgid "<a href=\"http://hipatia.net/\">Hipatia</a>"
+msgstr "<a href=\"http://hipatia.net/\">Hipatia</a>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Hipatia is an international NGO (non-governmental organization)  that "
+"upholds the right of all human beings to access, use, create, modify and "
+"distribute knowledge. It is formed by people from all around the world who "
+"advocate the ideals of the free software movement and work towards putting "
+"those principles into practice.  Hipatia emphasizes the importance of using "
+"free software in education; to that end, its members often conduct workshops "
+"in educational institutions, specially in primary and secondary level "
+"schools."
+msgstr ""
+"Hipatia; tüm insanların bilgiye erişme, kullanma, oluşturma, değiştirme ve "
+"dağıtma hakkını destekleyen uluslararası bir STK (sivil toplum "
+"kuruluşu)'dır. Özgür yazılım hareketinin ideallerini savunan ve bu ilkeleri "
+"uygulamaya koymak için çalışan dünyanın dört bir yanından insanlar "
+"tarafından oluşturulmuştur. Hipatia eğitimde özgür yazılım kullanmanın "
+"önemini vurgular; bu amaçla üyeleri genellikle eğitim kurumlarında, "
+"özellikle ilköğretim ve ortaöğretim okullarında, seminerler düzenlerler."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"The name of the group refers to the Greek philosopher <a href=\"http://en."
+"wikipedia.org/wiki/Hypatia\">Hypatia.</a>"
+msgstr ""
+"Grubun adı Yunan filozofu <a href=\"http://en.wikipedia.org/wiki/Hypatia"
+"\">Hypatia</a>'yı atıfta bulunuyor."
+
+#. type: Content of: <dl><dt>
+msgid "<a href=\"https://itschool.gov.in/otherprograms.php\">IT@School</a>"
+msgstr "<a href=\"https://itschool.gov.in/otherprograms.php\">IT@School</a>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"IT@School is a project of the government of Kerala, India, started in 2001 "
+"to introduce Information Communication Technologies into the State's "
+"schools. As part of the project, a customized GNU/Linux operating system was "
+"developed, which is now being used in more than 2,600 schools in the State. "
+"Training in the use of Free Software was imparted to thousands of teachers, "
+"school coordinators and students."
+msgstr ""
+"IT@School, 2001 yılında devlet okullarına Bilgi ve İletişim Teknolojileri'ni "
+"tanıtmak için başlatılan Hindistan'ın Kerala hükûmetinin bir projesidir. "
+"Projenin bir parçası olarak şu anda Eyalet'teki 2.600'den fazla okulda "
+"kullanılan kişiselleştirilmiş bir GNU/Linux işletim sistemi geliştirildi. "
+"Binlerce öğretmen, okul koordinatörü ve öğrenciye Özgür Yazılım kullanımı "
+"eğitimi verildi."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<a href=\"https://web.archive.org/web/20150420025426/http://www.ofset.org/"
+"tiki-index.php\">OFSET</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20150420025426/http://www.ofset.org/"
+"tiki-index.php\">OFSET</a>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"OFSET promotes the development and enhancement of Free Software for the "
+"educational system and the classroom. It was born in France but its members "
+"collaborate and work together towards common goals from all over the world "
+"by using the internet as a means of communication. Open and frank "
+"collaboration between teachers, software developers, translators and authors "
+"has always been the key to the success of OFSET's activities."
+msgstr ""
+"OFSET; eğitim sistemi ve sınıflarda kullanım için Özgür Yazılım'ın "
+"geliştirilmesini ve iyileştirilmesini teşvik eder. Fransa'da doğdu ancak "
+"üyeleri İnterneti bir iletişim aracı olarak kullanarak dünyanın her yerinden "
+"ortak hedefler için iş birliği yapıyor ve birlikte çalışıyorlar. "
+"Öğretmenler, yazılım geliştiricileri, çevirmenler ve yazarlar arasındaki "
+"açık ve dürüst iş birliği; OFSET'in faaliyetlerinin başarısının her zaman "
+"anahtarı olmuştur."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"One important achievement of the OFSET group is <a href=\"/software/dr-geo/"
+"\">Dr. Geo</a>, a program widely used for teaching geometry. OFSET has also "
+"developed <a href=\"https://usb.freeduc.org/index-en.html\"> Freeduc-USB</"
+"a>, a bootable USB stick that contains useful applications for the classroom."
+msgstr ""
+"OFSET grubunun önemli bir başarısı, geometri öğretiminde yaygın olarak "
+"kullanılan bir program olan <a href=\"/software/dr-geo/\">Dr. Geo</a>'dur. "
+"OFSET, sınıf için faydalı uygulamalar içeren önyüklenebilir bir USB belleği "
+"olan <a href=\"https://usb.freeduc.org/index-en.html\">Freeduc-USB</a>'yi de "
+"geliştirdi."
+
+#. type: Content of: <dl><dt>
+msgid "<a href=\"http://www.sugarlabs.org/\">Sugar Labs</a>"
+msgstr "<a href=\"http://www.sugarlabs.org/\">Sugar Labs</a>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Sugar Labs is a project that provides the <a href=\"http://wiki.sugarlabs."
+"org/go/What_is_Sugar\">Sugar learning platform</a>, an interface specially "
+"designed to facilitate the use of computers by children, with a special "
+"focus on its use in educational environments."
+msgstr ""
+"Sugar Labs, bilgisayarların çocuklar tarafından kullanımını kolaylaştırmak "
+"için özellikle tasarlanmış bir arayüz olan <a href=\"http://wiki.sugarlabs."
+"org/go/What_is_Sugar\">Sugar öğrenme platformunun</a> eğitim ortamlarında "
+"kullanımına odaklanan bir projedir."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2011, 2016, 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2016, 2018, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

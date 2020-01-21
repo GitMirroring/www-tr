@@ -1,0 +1,147 @@
+# Turkish translation of https://www.gnu.org/education/edu-resources.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: edu-resources.html\n"
+"POT-Creation-Date: 2019-05-01 10:56+0000\n"
+"PO-Revision-Date: 2020-01-21 19:24+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid "Educational Resources - GNU Project - Free Software Foundation"
+msgstr "Eğitim Kaynakları - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/education/education.html\">Education</a> &rarr; Educational "
+"Resources"
+msgstr ""
+"<a href=\"/education/education.html\">Eğitim</a> &rarr; Eğitim Kaynakları"
+
+#. type: Content of: <h2>
+msgid "Educational Resources"
+msgstr "Eğitim Kaynakları"
+
+#. type: Content of: <p>
+msgid ""
+"This section will help you find a variety of resources related to education, "
+"such as: free study materials, free programs for educational institutions of "
+"all levels, educational institutions that offer courses on the philosophical "
+"and technical aspects of free software, projects that develop free programs "
+"and platforms for education, groups of people who follow the principles of "
+"the GNU Project to promote the use of free software in the educational "
+"field, and more."
+msgstr ""
+"Bu bölüm, eğitim ile ilgili çeşitli kaynakları bulmanıza yardımcı olacaktır: "
+"Özgür çalışma materyalleri, her seviyedeki eğitim kurumları için özgür "
+"programlar, özgür yazılımın felsefi ve teknik yönleri hakkında kurslar veren "
+"eğitim kurumları, eğitim için özgür yazılımlar ve programlar geliştiren "
+"projeler, eğitim alanında özgür yazılım kullanımını teşvik etmek için GNU "
+"Projesi ilkelerine uyan insan toplulukları ve daha fazlası."
+
+#. type: Content of: <h3>
+msgid "Table of Contents"
+msgstr "İçindekiler"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/education/edu-software.html\">Educational Free Software</a>"
+msgstr "<a href=\"/education/edu-software.html\">Eğitsel Özgür Yazılım</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/education/edu-projects.html\">Groups and Projects</a>"
+msgstr "<a href=\"/education/edu-projects.html\">Gruplar ve Projeler</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/education/edu-free-learning-resources.html\">Free Learning "
+"Resources</a>"
+msgstr ""
+"<a href=\"/education/edu-free-learning-resources.html\">Özgür Öğrenme "
+"Kaynakları</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2011, 2012, 2016, 2018, 2019 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2011, 2012, 2016, 2018, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
