@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-even-more-important.html\n"
-"POT-Creation-Date: 2019-05-24 10:26+0000\n"
-"PO-Revision-Date: 2019-12-14 08:19+0100\n"
+"POT-Creation-Date: 2020-01-20 18:26+0000\n"
+"PO-Revision-Date: 2020-01-21 20:33+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -84,15 +84,16 @@ msgid ""
 "<em>malware</em>.  That is, both have functionalities designed to mistreat "
 "the user.  Proprietary software nowadays is often malware because <a href=\"/"
 "proprietary/proprietary.html\">the developers' power corrupts them</a>.  "
-"That directory lists around 400 different malicious functionalities (as of "
-"April, 2019), but it is surely just the tip of the iceberg."
+"That directory lists around 450 different malicious functionalities (as of "
+"January, 2020), but it is surely just the tip of the iceberg."
 msgstr ""
 "Bu iki özgür olmayan programın ortak bir yanı var: İkisi de <em>kötü amaçlı "
 "yazılım</em>. Yani her ikisi de kullanıcıya kötü davranmak üzere tasarlanmış "
-"işlevlere sahiptir. Günümüzde özel mülk yazılımlar genellikle kötü amaçlıdır "
-"çünkü <a href=\"/proprietary/proprietary.html\">geliştiricilerin iktidarı "
-"onları bozar</a>. Bu rehber 400 farklı kötü niyetli işlevi (Nisan 2019 "
-"itibarıyla) listeler ancak bunlar kesinlikle buz dağının görünen kısmıdır."
+"işlevlere sahip. Özel mülk yazılımlar günümüzde genellikle kötü amaçlıdır "
+"çünkü <a href=\"/proprietary/proprietary.html\">sahip oldukları güç "
+"geliştiricileri yozlaştırır</a>. Bu rehber 450 farklı kötü niyetli işlevi "
+"(Ocak 2020 itibarıyla) listeler ancak bunlar kesinlikle buz dağının görünen "
+"kısmıdır."
 
 #. type: Content of: <p>
 msgid ""
@@ -715,8 +716,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2017, 2018, 2019 Richard Stallman"
-msgstr "Copyright &copy; 2015, 2017, 2018, 2019 Richard Stallman"
+msgid "Copyright &copy; 2015, 2017, 2018, 2019, 2020 Richard Stallman"
+msgstr "Copyright &copy; 2015, 2017, 2018, 2019, 2020 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -738,7 +739,7 @@ msgstr ""
 "\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
 "</ul>"
 
-#.  timestamp start 
+#. timestamp start
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
