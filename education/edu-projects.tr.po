@@ -152,7 +152,7 @@ msgid ""
 "wikipedia.org/wiki/Hypatia\">Hypatia.</a>"
 msgstr ""
 "Grubun adı Yunan filozofu <a href=\"http://en.wikipedia.org/wiki/Hypatia"
-"\">Hypatia</a>'yı atıfta bulunuyor."
+"\">Hypatia</a>'dan geliyor."
 
 #. type: Content of: <dl><dt>
 msgid "<a href=\"https://itschool.gov.in/otherprograms.php\">IT@School</a>"

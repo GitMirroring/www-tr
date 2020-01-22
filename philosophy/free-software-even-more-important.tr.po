@@ -7,13 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: free-software-even-more-important.html\n"
 "POT-Creation-Date: 2020-01-20 18:26+0000\n"
-"PO-Revision-Date: 2020-01-21 20:33+0100\n"
+"PO-Revision-Date: 2020-01-22 21:44+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Outdated-Since: 2020-01-20 18:26+0000\n"
 "X-Generator: Poedit 2.2.4\n"
 
 #. type: Content of: <title>
@@ -89,11 +90,10 @@ msgid ""
 msgstr ""
 "Bu iki özgür olmayan programın ortak bir yanı var: İkisi de <em>kötü amaçlı "
 "yazılım</em>. Yani her ikisi de kullanıcıya kötü davranmak üzere tasarlanmış "
-"işlevlere sahip. Özel mülk yazılımlar günümüzde genellikle kötü amaçlıdır "
-"çünkü <a href=\"/proprietary/proprietary.html\">sahip oldukları güç "
-"geliştiricileri yozlaştırır</a>. Bu rehber 450 farklı kötü niyetli işlevi "
-"(Ocak 2020 itibarıyla) listeler ancak bunlar kesinlikle buz dağının görünen "
-"kısmıdır."
+"işlevlere sahipler. Günümüzde özel mülk yazılımlar genellikle kötü amaçlıdır "
+"çünkü <a href=\"/proprietary/proprietary.html\">güç geliştiricileri "
+"yozlaştırır</a>. Bu rehber (Ocak 2020 itibarıyla) 450 farklı kötü niyetli "
+"işlevi listeliyor ancak bunlar kesinlikle buz dağının görünen kısmıdır."
 
 #. type: Content of: <p>
 msgid ""
@@ -667,7 +667,7 @@ msgstr ""
 "1984'ten bu yana biz ve binlerce kullanıcı bunu yaptık, böylece, şimdi "
 "herkesin (programcı olsun veya olmasın) kullanabileceği özgür bir GNU/Linux "
 "işletim sistemine sahibiz. Mücadelemize bir programcı veya aktivist olarak "
-"katılın. Tüm bilgisayar kullanıcılarını özgürleştirelim!"
+"katılın. Bütün bilgisayar kullanıcılarını özgürleştirelim."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -739,7 +739,7 @@ msgstr ""
 "\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
 "</ul>"
 
-#. timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
