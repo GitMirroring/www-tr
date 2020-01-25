@@ -709,7 +709,7 @@ msgstr ""
 msgid "Copyright &copy; 2011 Dr. V. Sasi Kumar."
 msgstr "Copyright &copy; 2011 Dr. V. Sasi Kumar."
 
-#. TRANSLATORS: Please note that the license here is CC-BY-SA
+#. TRANSLATORS: Please note that the license here is CC-BY-SA 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"

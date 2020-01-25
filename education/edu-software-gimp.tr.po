@@ -183,9 +183,9 @@ msgstr ""
 "<em>İşitme engelliler için not:</em> Bu videodaki tek ses, Özgür Yazılım "
 "Şarkısı (Free Software Song)'nın piyano versiyonu olan film müziğidir."
 
-#. TRANSLATORS: please translate the written description of the video
-#. and replace the link to the English version with the link to your
-#. translation
+#.  TRANSLATORS: please translate the written description of the video
+#.      and replace the link to the English version with the link to your 
+#.      translation 
 #. type: Content of: <div><div><p>
 msgid ""
 "<em>Note to the visually impaired:</em> A <a href=\"/education/misc/"
