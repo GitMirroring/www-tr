@@ -1,0 +1,256 @@
+# Turkish translation of https://www.gnu.org/philosophy/philosophy.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalayci <tekrei@member.fsfe.org>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: philosophy.html\n"
+"POT-Creation-Date: 2018-04-01 08:56+0000\n"
+"PO-Revision-Date: 2020-01-25 07:52+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid "Philosophy of the GNU Project - GNU Project - Free Software Foundation"
+msgstr "GNU Projesinin Felsefesi - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Philosophy of the GNU Project"
+msgstr "GNU Projesinin Felsefesi"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"See <a href=\"http://audio-video.gnu.org/\">audio-video.gnu.org</a> for "
+"recordings of Richard Stallman's speeches."
+msgstr ""
+"Richard Stallman'ın konuşma kayıtları için <a href=\"http://audio-video.gnu."
+"org/\">audio-video.gnu.org</a> adresine bakabilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"<em>Free software</em> means that the software's users have freedom.  (The "
+"issue is not about price.)  We developed the GNU operating system so that "
+"users can have freedom in their computing."
+msgstr ""
+"<em>Özgür Yazılım</em> kullanıcılarının özgürlüğe sahip olduğu yazılımdır. "
+"(söz konusu olan fiyat değildir.) GNU işletim sistemini kullanıcılar bilişim "
+"işlerinde özgürlüğe sahip olsun diye geliştirdik. "
+
+#. type: Content of: <p>
+msgid ""
+"Specifically, free software means users have the <a href=\"/philosophy/free-"
+"sw.html\">four essential freedoms</a>: (0) to run the program, (1) to study "
+"and change the program in source code form, (2) to redistribute exact "
+"copies, and (3) to distribute modified versions."
+msgstr ""
+"Tam olarak özgür yazılım kullanıcıların <a href=\"/philosophy/free-sw.html"
+"\">dört temel özgürlüğe</a> sahip olduğu anlamına gelir: (0) programı "
+"çalıştırma, (1) kaynak kodunu kullanarak onu öğrenme ve değiştirme, (2) "
+"tamamen aynı kopyaları yeniden dağıtır, (3) değiştirilmiş sürümleri dağıtma. "
+
+#. type: Content of: <p>
+msgid ""
+"Software differs from material objects&mdash;such as chairs, sandwiches, and "
+"gasoline&mdash;in that it can be copied and changed much more easily.  These "
+"facilities are why software is useful; we believe a program's users should "
+"be free to take advantage of them, not solely its developer."
+msgstr ""
+"Yazılım,  (sandalye, sandviç, ve benzin gibi) maddi nesnelerden farklıdır, "
+"çünkü çok daha kolay bir şekilde kopyalanabilir ve değiştirilebilir. Bu "
+"kolaylıkları yazılımı yararlı kılar. Sadece geliştiricilerinin değil, "
+"programın kullanıcılarının da bundan yararlanmakta özgür olması gerektiğini "
+"düşünüyoruz."
+
+#. type: Content of: <p>
+msgid "For further reading, please select a section from the menu above."
+msgstr ""
+"Daha ayrıntılı yazılar için, yukarıdaki menüden bir bölüm seçebilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"We also maintain a list of <a href=\"/philosophy/latest-articles.html\">most "
+"recently added articles</a>."
+msgstr ""
+"Ayrıca <a href=\"/philosophy/latest-articles.html\">yakın geçmişte eklenmiş "
+"olan yazıların</a> bir listesini de tutuyoruz."
+
+#. type: Content of: <h3>
+msgid "Introduction"
+msgstr "Giriş"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/philosophy/free-sw.html\">What is Free Software?</a>"
+msgstr "<a href=\"/philosophy/free-sw.html\">Özgür Yazılım Nedir?</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/free-software-even-more-important.html\"> Why we must "
+"insist on free software</a>"
+msgstr ""
+"<a href=\"/philosophy/free-software-even-more-important.html\">Neden özgür "
+"yazılımda ısrarcı olmalıyız</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary.html\"> Proprietary software is often "
+"malware</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">Özel mülk yazılım sıklıkla kötü "
+"amaçlı yazılımdır</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/gnu/gnu.html\">History of GNU/Linux</a>"
+msgstr "<a href=\"/gnu/gnu.html\">GNU/Linux tarihi</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/philosophy/pragmatic.html\">Copyleft: Pragmatic Idealism</a>"
+msgstr "<a href=\"/philosophy/pragmatic.html\">Copyleft: Faydacı İdealizm</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/free-doc.html\">Why Free Software Needs Free "
+"Documentation</a>"
+msgstr ""
+"<a href=\"/philosophy/free-doc.html\">Özgür Yazılım neden Özgür "
+"Belgelendirmeye ihtiyaç duyar</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/philosophy/selling.html\">Selling Free Software</a> is OK!"
+msgstr ""
+"<a href=\"/philosophy/selling.html\">Özgür Yazılımın Satılması</a> uygundur!"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/fs-motives.html\">Motives For Writing Free Software</a>"
+msgstr ""
+"<a href=\"/philosophy/fs-motives.html\">Özgür Yazılım Geliştirmenin "
+"Gerekçeleri</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/right-to-read.html\">The Right to Read: A Dystopian "
+"Short Story</a> by <a href=\"http://www.stallman.org/\"> Richard Stallman</a>"
+msgstr ""
+"<a href=\"/philosophy/right-to-read.html\">Okuma Hakkı: Distopik bir Kısa "
+"Öykü</a>, yazan <a href=\"http://www.stallman.org/\"> Richard Stallman</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">Why &ldquo;Open "
+"Source&rdquo; misses the point of Free Software</a>"
+msgstr ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">Neden &ldquo;Açık "
+"Kaynak&rdquo; Özgür Yazılımın Noktasını Kaçırıyor</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html"
+"\">When Free Software Isn't (Practically) Superior</a>"
+msgstr ""
+"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html\"> "
+"Özgür Yazılımın (Pratik Olarak) Üstün Olmadığı Zaman</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/government-free-software.html\">Measures governments "
+"can use to promote free software</a>"
+msgstr ""
+"<a href=\"/philosophy/government-free-software.html\">Hükümetlerin özgür "
+"yazılımı teşvik etmek için kullanabileceği önlemler</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/education/education.html\">Free software in education</a>"
+msgstr "<a href=\"/education/education.html\">Eğitimde özgür yazılım</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"We also keep a list of <a href=\"/links/links.html#FreedomOrganizations"
+"\">Organizations that Work for Freedom in Computer Development and "
+"Electronic Communications</a>."
+msgstr ""
+"Ayrıca <a href=\"/links/links.html#FreedomOrganizations\">Bilgisayar "
+"Geliştirme ve Elektronik İletişim alanlarında Özgürlük için Çalışan "
+"Örgütlerin</a> bir listesini tutuyoruz."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2013, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2013, 2015, 2016, 2017, 2018 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalayci, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
