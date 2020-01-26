@@ -1,0 +1,323 @@
+# Turkish translation of https://www.gnu.org/gnu/gnu-history.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnu-history.html\n"
+"POT-Creation-Date: 2017-09-04 10:56+0000\n"
+"PO-Revision-Date: 2020-01-26 10:25+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid "Overview of the GNU System - GNU Project - Free Software Foundation"
+msgstr "GNU Sistemi'ne Genel Bakış - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Attribute 'content' of: <meta>
+msgid "GNU, GNU Project, FSF, Free Software, Free Software Foundation, History"
+msgstr "GNU, GNU Projesi, FSF, Özgür Yazılım, Özgür Yazılım Vakfı, Tarihçe"
+
+#. type: Content of: <h2>
+msgid "Overview of the GNU System"
+msgstr "GNU Sistemi'ne Genel Bakış"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU operating system is a complete free software system, upward-"
+"compatible with Unix.  GNU stands for &ldquo;GNU's Not Unix&rdquo;.  It is "
+"pronounced as <a href=\"/gnu/pronunciation.html\">one syllable with a hard "
+"g</a>.  <a href=\"http://www.stallman.org/\">Richard Stallman</a> made the "
+"<a href=\"/gnu/initial-announcement.html\">Initial Announcement</a> of the "
+"GNU Project in September 1983.  A longer version called the <a href=\"/gnu/"
+"manifesto.html\">GNU Manifesto</a> was published in March 1985.  It has been "
+"translated into several <a href=\"/gnu/manifesto.html#translations\">other "
+"languages</a>."
+msgstr ""
+"GNU işletim sistemi, Unix ile ileriye doğru uyumlu tam bir özgür yazılım "
+"sistemidir. GNU, &ldquo;\"GNU's Not Unix\" (GNU, Unix Değildir)&rdquo; "
+"anlamına gelir. <a href=\"/gnu/pronunciation.html\">Sert bir g ile tek hece</"
+"a> olarak telaffuz edilir. <a href=\"http://www.stallman.org/\">Richard "
+"Stallman</a>, Eylül 1983'te GNU Projesi'nin <a href=\"/gnu/initial-"
+"announcement.html\">İlk Duyurusunu</a> yaptı. Mart 1985'te <a href=\"/gnu/"
+"manifesto.html\">GNU Bildirgesi</a> adlı daha uzun bir sürüm yayımlandı. "
+"Bazı <a href=\"/gnu/manifesto.html#translations\">diğer dillere</a> çevrildi."
+
+#. type: Content of: <p>
+msgid ""
+"The name &ldquo;GNU&rdquo; was chosen because it met a few requirements; "
+"first, it was a recursive acronym for &ldquo;GNU's Not Unix&rdquo;, second, "
+"because it was a real word, and third, it was fun to say (or <a href="
+"\"http://www.poppyfields.net/poppy/songs/gnu.html\">Sing</a>)."
+msgstr ""
+"Birkaç gereksinimi karşıladığı için &ldquo;GNU&rdquo; adı seçildi; "
+"Birincisi, &ldquo;\"GNU's Not Unix\" (GNU, Unix Değildir)&rdquo; ifadesinin "
+"özyinelemeli bir kısaltmasıydı, ikincisi gerçek bir kelimeydi ve üçüncüsü "
+"söylemek (veya <a href=\"http://www.poppyfields.net/poppy/songs/gnu.html"
+"\">Şarkı Söylemek</a>) eğlenceliydi."
+
+#. type: Content of: <p>
+msgid ""
+"The word &ldquo;free&rdquo; in &ldquo;free software&rdquo; pertains to <a "
+"href=\"/philosophy/free-sw.html\">freedom</a>, not price.  You may or may "
+"not pay a price to get GNU software.  Either way, once you have the software "
+"you have four specific freedoms in using it.  The freedom to run the program "
+"as you wish; the freedom to copy the program and give it away to your "
+"friends and co-workers; the freedom to change the program as you wish, by "
+"having full access to source code; the freedom to distribute an improved "
+"version and thus help build the community.  (If you redistribute GNU "
+"software, you may charge a fee for the physical act of transferring a copy, "
+"or you may give away copies.)"
+msgstr ""
+"&ldquo;Free software&rdquo;deki &ldquo;free&rdquo; kelimesi fiyatla değil, "
+"<a href=\"/philosophy/free-sw.html\">özgürlükle</a> ilgilidir <a href="
+"\"#translation-note\">[1]</a>. GNU yazılımı almak için ücret ödeyebilir veya "
+"ödemezsiniz. Her iki durumda da yazılıma sahip olduğunuzda bunu kullanmak "
+"için dört belirli özgürlüğünüz vardır. Programı dilediğiniz gibi çalıştırma "
+"özgürlüğü; programı kopyalama ve arkadaşlarınıza ve iş arkadaşlarınıza verme "
+"özgürlüğü; kaynak koduna tam erişim sağlayarak programı istediğiniz gibi "
+"değiştirme özgürlüğü; geliştirilmiş bir sürümü dağıtma ve böylece topluluğun "
+"oluşturulmasına yardım etme özgürlüğü. (GNU yazılımını yeniden dağıtırsanız "
+"bir kopyayı aktarmanın fiziksel eylemi için bir ücret talep edebilir veya "
+"kopyaları ücretsiz verebilirsiniz.)"
+
+#. type: Content of: <p>
+msgid ""
+"The project to develop the GNU system is called the &ldquo;GNU "
+"Project&rdquo;.  The GNU Project was conceived in 1983 as a way of bringing "
+"back the cooperative spirit that prevailed in the computing community in "
+"earlier days&mdash;to make cooperation possible once again by removing the "
+"obstacles to cooperation imposed by the owners of proprietary software."
+msgstr ""
+"GNU sistemini geliştirme projesine &ldquo;GNU Projesi&rdquo; denir. GNU "
+"Projesi, 1983 yılında bilişim topluluğunda daha önceki günlerde egemen olan "
+"iş birlikçi ruhu geri getirmenin (özel mülk yazılım sahipleri tarafından iş "
+"birliğinin önüne konulan engelleri kaldırarak bir kez daha iş birliğini "
+"mümkün kılmanın) bir yolu olarak tasarlandı."
+
+#. type: Content of: <p>
+msgid ""
+"In 1971, when Richard Stallman started his career at MIT, he worked in a "
+"group which used <a href=\"/philosophy/free-sw.html\">free software</a> "
+"exclusively.  Even computer companies often distributed free software.  "
+"Programmers were free to cooperate with each other, and often did."
+msgstr ""
+"1971'de Richard Stallman MIT'te kariyerine başladığında sadece <a href=\"/"
+"philosophy/free-sw.html\">özgür yazılım</a> kullanan bir grupta çalışıyordu. "
+"Bilgisayar şirketleri bile çoğu kez özgür yazılım dağıtıyordu. Programcılar "
+"birbirleriyle iş birliği yapmakta özgürdü ve çoğu zaman da yapıyorlardı."
+
+#. type: Content of: <p>
+msgid ""
+"By the 1980s, almost all software was <a href=\"/philosophy/categories."
+"html#ProprietarySoftware\">proprietary</a>, which means that it had owners "
+"who forbid and prevent cooperation by users.  This made the GNU Project "
+"necessary."
+msgstr ""
+"1980'lere gelindiğinde neredeyse tüm yazılımlar <a href=\"/philosophy/"
+"categories.html#ProprietarySoftware\">özel mülktü</a>, yani kullanıcıların "
+"iş birliğini yasaklayan ve engelleyen sahipleri vardı. Bu, GNU Projesi'ni "
+"gerekli kıldı."
+
+#. type: Content of: <p>
+msgid ""
+"Every computer user needs an operating system; if there is no free operating "
+"system, then you can't even get started using a computer without resorting "
+"to proprietary software.  So the first item on the free software agenda "
+"obviously had to be a free operating system."
+msgstr ""
+"Her bilgisayar kullanıcısının bir işletim sistemine ihtiyacı vardır; özgür "
+"bir işletim sistemi yoksa özel mülk yazılıma başvurmadan bilgisayar "
+"kullanmaya bile başlayamazsınız. Dolayısıyla özgür yazılım gündemindeki ilk "
+"ögenin açıkça bir işletim sistemi olması gerekiyordu."
+
+#. type: Content of: <p>
+msgid ""
+"We decided to make the operating system compatible with Unix because the "
+"overall design was already proven and portable, and because compatibility "
+"makes it easy for Unix users to switch from Unix to GNU."
+msgstr ""
+"Genel tasarımı zaten kanıtlanmış ve taşınabilir olduğundan ve uyumluluk Unix "
+"kullanıcılarının Unix'ten GNU'ya geçişini kolaylaştırdığı için işletim "
+"sistemini Unix ile uyumlu hâle getirmeye karar verdik."
+
+#. type: Content of: <p>
+msgid ""
+"A Unix-like operating system includes a kernel, compilers, editors, text "
+"formatters, mail software, graphical interfaces, libraries, games and many "
+"other things.  Thus, writing a whole operating system is a very large job.  "
+"We started in January 1984.  The <a href=\"http://fsf.org/\"> Free Software "
+"Foundation</a> was founded in October 1985, initially to raise funds to help "
+"develop GNU."
+msgstr ""
+"Unix benzeri bir işletim sistemi bir çekirdek, derleyiciler, düzenleyiciler, "
+"metin biçimlendiricileri, e-posta yazılımı, grafiksel arayüzler, "
+"kütüphaneler, oyunlar ve daha birçok şey içerir. Bu nedenle bütün işletim "
+"sistemini yazmak oldukça kapsamlı bir iştir. Ocak 1984'te başladık. <a href="
+"\"http://fsf.org/\"> Özgür Yazılım Vakfı</a>, başlangıçta GNU'nun "
+"geliştirilmesine yardımcı olmak için fon toplamak amacıyla Ekim 1985'te "
+"kuruldu."
+
+#. type: Content of: <p>
+msgid ""
+"By 1990 we had either found or written all the major components except "
+"one&mdash;the kernel.  Then Linux, a Unix-like kernel, was developed by "
+"Linus Torvalds in 1991 and made free software in 1992.  Combining Linux with "
+"the almost-complete GNU system resulted in a complete operating system: the "
+"GNU/Linux system.  Estimates are that tens of millions of people now use GNU/"
+"Linux systems, typically via <a href=\"/distros/distros.html\">GNU/Linux "
+"distributions</a>.  The principal version of Linux now contains non-free "
+"firmware &ldquo;blobs&rdquo;; free software activists now maintain a "
+"modified free version of Linux, called <a href=\"http://directory.fsf.org/"
+"project/linux\"> Linux-libre</a>."
+msgstr ""
+"1990'a gelindiğinde biri hariç (çekirdek) bütün önemli bileşenleri bulduk "
+"veya yazdık. Daha sonra 1991 yılında Unix benzeri bir çekirdek olan Linux; "
+"Linus Torvalds tarafından 1991 yılında geliştirilmiş ve 1992'de özgür "
+"yazılım yapılmıştır. Linux'u neredeyse eksiksiz GNU sistemiyle birleştirmek, "
+"tam bir işletim sistemi olan GNU/Linux sistemi ile sonuçlandı. Tahminlere "
+"göre on milyonlarca insan sıklıkla <a href=\"/distros/distros.html\">GNU/"
+"Linux dağıtımları</a> yoluyla GNU/Linux sistemleri kullanıyor. Linux'un ana "
+"sürümü artık özgür olmayan aygıt yazılımı &ldquo;blob'lar&rdquo;ı içeriyor; "
+"özgür yazılım aktivistleri, artık <a href=\"http://directory.fsf.org/project/"
+"linux\">Linux-libre</a> adı verilen değiştirilmiş bir Linux sürümünü "
+"sürdürmektedir."
+
+#. type: Content of: <p>
+msgid ""
+"However, the GNU Project is not limited to the core operating system.  We "
+"aim to provide a whole spectrum of software, whatever many users want to "
+"have.  This includes application software.  See the <a href=\"/directory"
+"\">Free Software Directory</a> for a catalogue of free software application "
+"programs."
+msgstr ""
+"Ancak GNU Projesi çekirdek işletim sistemiyle sınırlı değildir. Birçok "
+"kullanıcının sahip olmak istediği her türlü yazılımı sağlamayı amaçlıyoruz. "
+"Buna uygulama yazılımları da dâhildir. Özgür yazılım uygulama programlarının "
+"bir kataloğu için <a href=\"/directory\">Özgür Yazılım Dizini</a>'ne "
+"bakabilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"We also want to provide software for users who are not computer experts.  "
+"Therefore we developed a <a href=\"http://www.gnome.org/\">graphical desktop "
+"(called GNOME)</a> to help beginners use the GNU system."
+msgstr ""
+"Ayrıca bilgisayar uzmanı olmayan kullanıcılara da yazılım sağlamak "
+"istiyoruz. Bu nedenle yeni başlayanların GNU sistemini kullanmasına yardımcı "
+"olmak için <a href=\"http://www.gnome.org/\">grafiksel bir masaüstü (GNOME "
+"adlı)</a> de geliştirdik."
+
+#. type: Content of: <p>
+msgid ""
+"We also want to provide games and other recreations.  Plenty of <a href="
+"\"http://directory.fsf.org/wiki/Category/Game\">free games</a> are already "
+"available."
+msgstr ""
+"Ayrıca oyunlar ve başka boş zaman araçları sunmak istiyoruz. Pek çok <a href="
+"\"http://directory.fsf.org/wiki/Category/Game\">özgür oyun</a> halihazırda "
+"mevcut."
+
+#. type: Content of: <p>
+msgid ""
+"How far can free software go? There are no limits, except when <a href=\"/"
+"philosophy/fighting-software-patents.html\">laws such as the patent system "
+"prohibit free software</a>.  The ultimate goal is to provide free software "
+"to do all of the jobs computer users want to do&mdash;and thus make "
+"proprietary software a thing of the past."
+msgstr ""
+"Özgür yazılım ne kadar ileri gidebilir? <a href=\"/philosophy/fighting-"
+"software-patents.html\">Patent sistemi gibi yasaların özgür yazılımı "
+"yasaklaması</a> dışında herhangi bir sınır yoktur. Nihai hedef; bilgisayar "
+"kullanıcılarının yapmak istediği tüm işleri yapması için özgür yazılım "
+"sağlamak ve böylece özel mülk yazılımı geçmişte bırakmaktır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"<p id=\"translation-note-1\">[1] Türkçe'de Özgür Yazılım çevirisiyle, fiyat "
+"ve özgürlük karmaşasını yaşamamış oluyoruz. Terimin Türkçesi doğrudan "
+"özgürlüğe atıfta bulunuyor, dolayısıyla İngilizce'de açıklama gerektiren "
+"ücret-özgürlük ikiliğini Türkçede açıklamaya gerek kalmıyor.</p>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2005, 2007, 2009, "
+"2012, 2014, 2017 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2005, 2007, 2009, "
+"2012, 2014, 2017 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@yandex.com"
+"\">&lt;theflossinformation@yandex.com&gt;</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
