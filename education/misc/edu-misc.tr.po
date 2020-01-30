@@ -424,7 +424,7 @@ msgstr ""
 "education/misc/rms-education-es-sub.de.srt\">Almanca</a> | <a href=\"/"
 "education/misc/rms-education-es-sub.it.srt\">İtalyanca</a> | <a href=\"/"
 "education/misc/rms-education-es-sub.pt-br.srt\">Brezilya Portekizcesi</a> | "
-"<a href=\"/education/misc/rms-education-es-sub.es.srt\">İngilizce</a> |"
+"<a href=\"/education/misc/rms-education-es-sub.es.srt\">İspanyolca</a> |"
 
 #. type: Content of: <ul><li>
 msgid ""
