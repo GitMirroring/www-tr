@@ -1,13 +1,14 @@
 # Turkish translation of https://www.gnu.org/distros/free-distros.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Cenk <cyildizli@autistici.org>, 2019.
 #
+# Cenk <cyildizli@autistici.org>, 2019.
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2019-11-05 23:55+0000\n"
-"PO-Revision-Date: 2019-11-15 20:33+0100\n"
+"POT-Creation-Date: 2020-02-06 15:55+0000\n"
+"PO-Revision-Date: 2020-02-07 19:46+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -589,11 +590,14 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
+#| msgid ""
+#| "Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+#| "Foundation, Inc."
 msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -615,6 +619,8 @@ msgstr ""
 "C.Y. <a href=\"mailto:cyildizli@autistici.org\">&lt;cyildizli@autistici."
 "org&gt;</a>, 2019.\n"
 "</li>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
 "</ul>"
 
 #.  timestamp start 

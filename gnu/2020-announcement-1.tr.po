@@ -1,100 +1,73 @@
-# Turkish translation of http://www.gnu.org/distros/free-non-gnu-distros.html
-# Copyright (C) 2019 Free Software Foundation, Inc.
+# Turkish translation of https://www.gnu.org/gnu/2020-announcement-1.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 #
-# Cenk <cyildizli@autistici.org>, 2019.
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: free-non-gnu-distros.html\n"
-"POT-Creation-Date: 2020-02-06 15:26+0000\n"
-"PO-Revision-Date: 2020-02-07 19:50+0100\n"
+"Project-Id-Version: 2020-announcement-1.html\n"
+"POT-Creation-Date: 2020-02-06 22:25+0000\n"
+"PO-Revision-Date: 2020-02-07 19:54+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 2.2.4\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. type: Content of: <title>
-msgid "Free Non-GNU Distributions - GNU Project - Free Software Foundation"
-msgstr "GNU Olmayan Özgür Dağıtımlar - GNU Projesi - Özgür Yazılım Vakfı"
+msgid "GNU-FSF cooperation update - GNU Project - Free Software Foundation"
+msgstr "GNU-FSF iş birliği güncellemesi - GNU Projesi - Özgür Yazılım Vakfı"
 
 #. type: Content of: <h2>
-msgid "Free Non-GNU Distributions"
-msgstr "GNU Olmayan Özgür Dağıtımlar"
+msgid "GNU-FSF cooperation update"
+msgstr "GNU-FSF iş birliği güncellemesi"
 
 #. type: Content of: <p>
 msgid ""
-"This page lists free system distros that are not versions of the GNU "
-"system.  These systems must meet the <a href=\"/distros/free-system-"
-"distribution-guidelines.html\">free system distribution guidelines</a> just "
-"as GNU/Linux systems must."
+"The Free Software Foundation and the GNU Project leadership are defining how "
+"these two separate groups cooperate.  Our mutual aim is to work together as "
+"peers, while minimizing change in the practical aspects of this cooperation, "
+"so we can advance in our common free software mission."
 msgstr ""
-"Bu sayfa GNU sisteminin parçası olmayan özgür sistem dağıtımları gösteriyor. "
-"Bu sistemler bir GNU/Linux sisteminin yapması gerektiği gibi <a href=\"/"
-"distros/free-system-distribution-guidelines.html\">özgür sistem dağıtım "
-"yönergesini</a> karşılamalıdır."
-
-#. type: Content of: <table><thead><tr><th>
-#| msgid "Free Non-GNU Distributions"
-msgid "Distribution"
-msgstr "Dağıtım"
-
-#. type: Content of: <table><thead><tr><th>
-msgid "Brief Description"
-msgstr "Kısa Açıklama"
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://replicant.us\">"
-msgstr "<a href=\"http://replicant.us\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "Replicant"
-msgstr "Replicant"
-
-# type: Content of: <p>
-#. type: Content of: <table><tr><td>
-#| msgid "</a>"
-msgid "</a>"
-msgstr "</a>"
-
-#. type: Content of: <table><tr><td>
-#| msgid ""
-#| "<a href=\"http://replicant.us\">Replicant</a> is the free version of "
-#| "Android.  The Replicant developers have replaced many nonfree libraries, "
-#| "for certain phone models.  The nonfree apps are excluded, but you "
-#| "certainly don't want to use those."
-msgid ""
-"Replicant is the free version of Android.  The Replicant developers have "
-"replaced many nonfree libraries, for certain phone models.  The nonfree apps "
-"are excluded, but you certainly don't want to use those."
-msgstr ""
-"Replicant, Android'in özgür sürümüdür. Replicant geliştiricileri, bazı "
-"telefon modelleri için birçok özgür olmayan kütüphaneyi başkalarıyla "
-"değiştirmiştir. Özgür olmayan uygulamalar hariç tutulur ancak kesinlikle "
-"bunları kullanmak istemezsiniz."
+"Özgür Yazılım Vakfı ve GNU Projesi liderliği bu iki ayrı grubun nasıl iş "
+"birliği yapacaklarını belirlemektedir. Karşılıklı amacımız; bu iş birliğinin "
+"pratik yönlerindeki değişimi en aza indirirken eşdüzeyde birlikte "
+"çalışmaktır, böylece ortak özgür yazılım misyonumuzda ilerleyebiliriz."
 
 #. type: Content of: <p>
 msgid ""
-"If you maintain a non-GNU distribution that follows the <a href=\"/distros/"
-"free-system-distribution-guidelines.html\">Free System Distribution "
-"Guidelines</a> and would like to be listed here, please write to us at <a "
-"href=\"mailto:licensing@fsf.org\">&lt;licensing@fsf.org&gt;</a> with an "
-"introduction and a link to the project Web site.  When you do, we'll explain "
-"more about our evaluation process to you, and get started on it quickly.  We "
-"look forward to hearing from you!"
+"Alex Oliva, Henry Poole and John Sullivan (<a href=\"https://www.fsf.org/"
+"about/staff-and-board\">board members or officers of the FSF</a>), and "
+"Richard Stallman (head of the GNU Project), have been meeting to develop a "
+"general framework which will serve as the foundation for further discussion "
+"about specific areas of cooperation.  Together we have been considering the "
+"input received from the public on <a href=\"fsf-and-gnu@fsf.org\">&lt;fsf-"
+"and-gnu@fsf.org&gt;</a> and <a href=\"gnu-and-fsf@gnu.org\">&lt;gnu-and-"
+"fsf@gnu.org&gt;</a>.  We urge people to send any further input by February "
+"13, because we expect to finish this framework soon."
 msgstr ""
-"Eğer <a href=\"/distros/free-system-distribution-guidelines.html\">Özgür "
-"Sistem Dağıtımları Yönergesini</a> karşıladığını ve burada olması "
-"gerektiğini düşündüğünüz, takip ettiğiniz bir GNU olmayan dağıtım varsa "
-"lütfen bize bir tanıtımla birlikte projenin Web sayfasını <a href=\"mailto:"
-"licensing@fsf.org\">&lt;licensing@fsf.org&gt;</a> adresimize gönderin. Bunu "
-"yaptığınızda, değerlendirme sürecimiz hakkında sizi bilgilendirip mümkün "
-"olduğunca çabuk bir şekilde inceleyeceğiz. Sizden haber almak için "
-"sabırsızlanıyoruz!"
+"Alex Oliva, Henry Poole ve John Sullivan (<a href=\"https://www.fsf.org/"
+"about/staff-and-board\">FSF kurulu üyeleri veya görevlileri</a>) ve Richard "
+"Stallman (GNU Projesi şefi), belirli iş birliği alanları hakkında daha fazla "
+"tartışma için temel oluşturacak genel bir çerçeve geliştirmek üzere toplantı "
+"yapıyorlar. Birlikte, <a href=\"fsf-and-gnu@fsf.org\">&lt;fsf-and-gnu@fsf."
+"org&gt;</a> ve <a href=\"gnu-and-fsf@gnu.org\">&lt;gnu-and-fsf@gnu.org&gt;</"
+"a> adresleri aracılığıyla kamudan gelen katkıları göz önünde bulunduruyoruz. "
+"İnsanları 13 Şubat'a kadar katkılarını göndermeye çağırıyoruz, çünkü bu "
+"çerçeveyi yakında bitirmeyi umuyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"This joint announcement can also be read on <a href=\"https://www.fsf.org/"
+"news/gnu-fsf-cooperation-update\"> https://www.fsf.org/news/gnu-fsf-"
+"cooperation-update</a>."
+msgstr ""
+"Bu ortak duyuru <a href=\"https://www.fsf.org/news/gnu-fsf-cooperation-update"
+"\"> https://www.fsf.org/news/gnu-fsf-cooperation-update</a> adresinden de "
+"okunabilir."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -143,8 +116,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -161,15 +134,12 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
-"<ul><li>\n"
-"C.Y. <a href=\"mailto:cyildizli@autistici.org\">&lt;cyildizli@autistici."
-"org&gt;</a>, 2019.\n"
-"</li>\n"
+"<ul>\n"
 "<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
 "\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
 "</ul>"
 
-#.  timestamp start 
+#. timestamp start
 #. type: Content of: <div><p>
 msgid "Updated:"
-msgstr "Son Güncelleme:"
+msgstr "Son güncelleme:"
