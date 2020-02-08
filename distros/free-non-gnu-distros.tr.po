@@ -39,7 +39,6 @@ msgstr ""
 "yönergesini</a> karşılamalıdır."
 
 #. type: Content of: <table><thead><tr><th>
-#| msgid "Free Non-GNU Distributions"
 msgid "Distribution"
 msgstr "Dağıtım"
 
@@ -57,16 +56,10 @@ msgstr "Replicant"
 
 # type: Content of: <p>
 #. type: Content of: <table><tr><td>
-#| msgid "</a>"
 msgid "</a>"
 msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
-#| msgid ""
-#| "<a href=\"http://replicant.us\">Replicant</a> is the free version of "
-#| "Android.  The Replicant developers have replaced many nonfree libraries, "
-#| "for certain phone models.  The nonfree apps are excluded, but you "
-#| "certainly don't want to use those."
 msgid ""
 "Replicant is the free version of Android.  The Replicant developers have "
 "replaced many nonfree libraries, for certain phone models.  The nonfree apps "
