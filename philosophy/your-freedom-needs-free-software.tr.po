@@ -255,8 +255,8 @@ msgid ""
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
-"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
-"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
 "Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.

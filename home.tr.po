@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2020-02-06 22:25+0000\n"
+"POT-Creation-Date: 2020-02-17 09:26+0000\n"
 "PO-Revision-Date: 2020-02-07 19:44+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -42,16 +42,6 @@ msgstr ""
 #. type: Attribute 'title' of: <link>
 msgid "Planet GNU"
 msgstr "GNU Gezegeni"
-
-#. type: Content of: <blockquote><p>
-msgid ""
-"The GNU Project and the Free Software Foundation are <a href=\"/gnu/2020-"
-"announcement-1.html\">defining how these two groups cooperate</a>.  Please "
-"send any further input by February 13."
-msgstr ""
-"GNU Projesi ve Özgür Yazılım Vakfı <a href=\"/gnu/2020-announcement-1.html"
-"\">bu iki grubun nasıl iş birliği yapacağını belirliyor</a>. Lütfen herhangi "
-"bir katkıyı 13 Şubat'a kadar gönderin."
 
 #. type: Content of: <p>
 msgid ""
@@ -702,8 +692,8 @@ msgid ""
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
-"Bu sayfa <a rel=\"lisans\" href=\"http://creativecommons.org/licenses/by-"
-"nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
 "Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
@@ -720,3 +710,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "The GNU Project and the Free Software Foundation are <a href=\"/gnu/2020-"
+#~ "announcement-1.html\">defining how these two groups cooperate</a>.  "
+#~ "Please send any further input by February 13."
+#~ msgstr ""
+#~ "GNU Projesi ve Özgür Yazılım Vakfı <a href=\"/gnu/2020-announcement-1.html"
+#~ "\">bu iki grubun nasıl iş birliği yapacağını belirliyor</a>. Lütfen "
+#~ "herhangi bir katkıyı 13 Şubat'a kadar gönderin."
