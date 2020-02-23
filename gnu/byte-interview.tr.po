@@ -1037,8 +1037,8 @@ msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<a id=\"tn1\">[1]</a> Burada kullanılan hacker, üstat anlamındadır: teknik "
 "beceri sahibi, problem çözmeden zevk alan ve sınırları aşan kişiler, belirli "
-"bir konuda sahip olduğu bilgiyi kullanıp daha fazlasını öğrenmeye öğrenmeye "
-"meraklı kişiler."
+"bir konuda sahip olduğu bilgiyi kullanıp daha fazlasını öğrenmeye meraklı "
+"kişiler."
 
 #. type: Content of: <div><div><p>
 msgid ""
