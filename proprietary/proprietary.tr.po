@@ -1,0 +1,487 @@
+# Turkish translation of https://www.gnu.org/proprietary/proprietary.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary.html\n"
+"POT-Creation-Date: 2020-02-24 16:55+0000\n"
+"PO-Revision-Date: 2020-03-01 15:08+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "Proprietary Software - GNU Project - Free Software Foundation"
+msgstr "Özel Mülk Yazılım - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <style>
+#, no-wrap
+msgid "  .reduced-width { width: 55em; }\n"
+msgstr "  .reduced-width { width: 55em; }\n"
+
+#. type: Content of: <div><h2>
+msgid "Proprietary Software Is Often Malware"
+msgstr "Özel Mülk Yazılım Genellikle Kötü Amaçlı Yazılımdır"
+
+#. type: Content of: <div><div><p>
+msgid "<a href=\"#TOC\">Table of contents</a>"
+msgstr "<a href=\"#TOC\">İçindekiler listesi</a>"
+
+#. type: Content of: <div><div><p>
+msgid "<a href=\"#latest\">Latest additions</a>"
+msgstr "<a href=\"#latest\">Son eklenenler</a>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Proprietary software, also called nonfree software, means software that "
+"doesn't <a href=\"/philosophy/free-sw.html\">respect users' freedom and "
+"community</a>.  A proprietary program puts its developer or owner <a href=\"/"
+"philosophy/free-software-even-more-important.html\"> in a position of power "
+"over its users.</a> This power is in itself an injustice."
+msgstr ""
+"Özgür olmayan yazılım olarak da adlandırılan özel mülk yazılım; <a href=\"/"
+"philosophy/free-sw.html\">kullanıcıların özgürlüğüne ve topluluğa saygı</a> "
+"duymayan yazılımlar anlamına gelir. Özel mülk bir program, geliştiricisinin "
+"veya sahibinin <a href=\"/philosophy/free-software-even-more-important.html"
+"\"> kullanıcıları üzerinde bir iktidar kurmasına</a> yol açar. Bu iktidar "
+"özünde bir adaletsizliktir."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The point of this page is that the initial injustice of proprietary software "
+"often leads to further injustices: malicious functionalities."
+msgstr ""
+"Bu sayfanın bakış açısı, özel mülk yazılımın ilk adaletsizliğinin genellikle "
+"daha fazla adaletsizliğe yol açtığı şeklindedir: kötü amaçlı işlevler."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Power corrupts; the proprietary program's developer is tempted to design the "
+"program to mistreat its users.  (Software whose functioning mistreats the "
+"user is called <em>malware</em>.)  Of course, the developer usually does not "
+"do this out of malice, but rather to profit more at the users' expense.  "
+"That does not make it any less nasty or more legitimate."
+msgstr ""
+"Güç yozlaştırır; özel mülk programın geliştiricisi, programı kullanıcılarına "
+"kötü muamele yapacak şekilde tasarlama eğilimindedir. (İşleyişi kullanıcıya "
+"kötü davranan yazılımlara <em>kötü amaçlı yazılım</em> denir.) Tabii ki "
+"geliştirici bunu genellikle kötülüğünden dolayı yapmaz, bunun yerine "
+"kullanıcıların pahasına daha fazla kâr elde etmek için yapar. Bu onu daha az "
+"kötü ya da daha meşru yapmaz."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Yielding to that temptation has become ever more frequent; nowadays it is "
+"standard practice.  Modern proprietary software is typically a way to be had."
+msgstr ""
+"Şeytana uymak artık daha da sıklaştı; günümüzde standart bir uygulama. "
+"Modern özel mülk yazılımın genellikle sahip olduğu bir yoldur."
+
+#. type: Content of: <div><p>
+msgid ""
+"As of January, 2020, the pages in this directory list around 450 instances "
+"of malicious functionalities (with more than 500 references to back them "
+"up), but there are surely thousands more we don't know about."
+msgstr ""
+"Ocak 2020 itibarıyla bu dizindeki sayfalar yaklaşık 450 kötü amaçlı "
+"işlevsellik örneğini listeler (onları destekleyen 500'den fazla referansla) "
+"ancak muhakkak bilmediğimiz binlerce daha vardır."
+
+#. type: Content of: <div><table><tr><th>
+msgid "Injustices or techniques"
+msgstr "Adaletsizlikler veya teknikler"
+
+#. type: Content of: <div><table><tr><th>
+msgid "Products or companies"
+msgstr "Ürünler veya şirketler"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-addictions.html\">Addictions</a>"
+msgstr "<a href=\"/proprietary/proprietary-addictions.html\">Bağımlılıklar</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-back-doors.html\">Back doors</a>&nbsp;(<a "
+"href=\"#f1\">1</a>)"
+msgstr ""
+"<a href=\"/proprietary/proprietary-back-doors.html\">Arka kapılar</a>&nbsp;"
+"(<a href=\"#f1\">1</a>)"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-censorship.html\">Censorship</a>"
+msgstr "<a href=\"/proprietary/proprietary-censorship.html\">Sansür</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-coverups.html\">Coverups</a>"
+msgstr "<a href=\"/proprietary/proprietary-coverups.html\">Örtbas</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
+msgstr "<a href=\"/proprietary/proprietary-deception.html\">Aldatma</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-drm.html\">DRM</a>&nbsp;(<a href="
+"\"#f2\">2</a>)"
+msgstr ""
+"<a href=\"/proprietary/proprietary-drm.html\">DRM</a>&nbsp;(<a href="
+"\"#f2\">2</a>)"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-fraud.html\">Fraud</a>"
+msgstr "<a href=\"/proprietary/proprietary-fraud.html\">Dolandırıcılık</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-incompatibility.html\">Incompatibility</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-incompatibility.html\">Uyumsuzluk</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-insecurity.html\">Insecurity</a>"
+msgstr "<a href=\"/proprietary/proprietary-insecurity.html\">Güvensizlik</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-interference.html\">Interference</a>"
+msgstr "<a href=\"/proprietary/proprietary-interference.html\">Müdahale</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-jails.html\">Jails</a>&nbsp;(<a href="
+"\"#f3\">3</a>)"
+msgstr ""
+"<a href=\"/proprietary/proprietary-jails.html\">Kafesler</a>&nbsp;(<a href="
+"\"#f3\">3</a>)"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-manipulation.html\">Manipulation</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-manipulation.html\">Manipülasyon</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-obsolescence.html\">Obsolescence</a>"
+msgstr "<a href=\"/proprietary/proprietary-obsolescence.html\">Eskitme</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotage</a>"
+msgstr "<a href=\"/proprietary/proprietary-sabotage.html\">Sabotaj</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-subscriptions.html\">Subscriptions</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-subscriptions.html\">Abonelikler</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/proprietary-surveillance.html\">Surveillance</a>"
+msgstr "<a href=\"/proprietary/proprietary-surveillance.html\">Gözetim</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-tethers.html\">Tethers</a>&nbsp;(<a href="
+"\"#f4\">4</a>)"
+msgstr ""
+"<a href=\"/proprietary/proprietary-tethers.html\">Tasmalar</a>&nbsp;(<a href="
+"\"#f4\">4</a>)"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-tyrants.html\">Tyrants</a>&nbsp;(<a href="
+"\"#f5\">5</a>)"
+msgstr ""
+"<a href=\"/proprietary/proprietary-tyrants.html\">Zalimler</a>&nbsp;(<a href="
+"\"#f5\">5</a>)"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/potential-malware.html\">In the pipe</a>"
+msgstr "<a href=\"/proprietary/potential-malware.html\">Olabilecek(ler)</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-appliances.html\">Appliances</a>"
+msgstr "<a href=\"/proprietary/malware-appliances.html\">Aletler</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-cars.html\">Cars</a>"
+msgstr "<a href=\"/proprietary/malware-cars.html\">Arabalar</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-games.html\">Games</a>"
+msgstr "<a href=\"/proprietary/malware-games.html\">Oyunlar</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-mobiles.html\">Mobiles</a>"
+msgstr "<a href=\"/proprietary/malware-mobiles.html\">Mobil aygıtlar</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-webpages.html\">Webpages</a>"
+msgstr "<a href=\"/proprietary/malware-webpages.html\">Web sayfaları</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
+msgstr "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-amazon.html\">Amazon</a>"
+msgstr "<a href=\"/proprietary/malware-amazon.html\">Amazon</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-apple.html\">Apple</a>"
+msgstr "<a href=\"/proprietary/malware-apple.html\">Apple</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-google.html\">Google</a>"
+msgstr "<a href=\"/proprietary/malware-google.html\">Google</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-microsoft.html\">Microsoft</a>"
+msgstr "<a href=\"/proprietary/malware-microsoft.html\">Microsoft</a>"
+
+#. type: Content of: <div><table><tr><td><ol><li>
+msgid ""
+"<em>Back door:</em>&nbsp; any feature of a program that enables someone who "
+"is not supposed to be in control of the computer where it is installed to "
+"send it commands."
+msgstr ""
+"<em>Arka kapı:</em>&nbsp; Bir programın, komut göndermek için kurulu olduğu "
+"bilgisayarı denetlememesi gereken birine erişim sağlayan herhangi bir "
+"özelliği."
+
+#. type: Content of: <div><table><tr><td><ol><li>
+msgid ""
+"<em>Digital restrictions management, or &ldquo;DRM&rdquo;:</em>&nbsp; "
+"functionalities designed to restrict what users can do with the data in "
+"their computers."
+msgstr ""
+"<em>Dijital kısıtlamalar yönetimi veya &ldquo;<abbr title=\"Digital "
+"Restrictions Management\">DRM</abbr>&rdquo;:</em>&nbsp; Kullanıcıların "
+"bilgisayarlarındaki verilerle yapabileceklerini kısıtlamak için tasarlanmış "
+"işlevler."
+
+#. type: Content of: <div><table><tr><td><ol><li>
+msgid ""
+"<em>Jail:</em>&nbsp; system that imposes censorship on application programs."
+msgstr "<em>Kafes:</em>&nbsp; Uygulama programlarına sansür uygulayan sistem."
+
+#. type: Content of: <div><table><tr><td><ol><li>
+msgid ""
+"<em>Tether:</em>&nbsp; functionality that requires permanent (or very "
+"frequent) connection to a server."
+msgstr ""
+"<em>Tasma:</em>&nbsp; Bir sunucuya kalıcı (veya çok sık) bağlantı gerektiren "
+"işlevsellik."
+
+#. type: Content of: <div><table><tr><td><ol><li>
+msgid ""
+"<em>Tyrant:</em>&nbsp; system that rejects any operating system not &ldquo;"
+"authorized&rdquo; by the manufacturer."
+msgstr ""
+"<em>Zalim:</em>&nbsp; Üretici tarafından &ldquo;izin&rdquo; verilmeyen "
+"herhangi bir işletim sistemini reddeden sistem."
+
+#. type: Content of: <div><p>
+msgid ""
+"Users of proprietary software are defenseless against these forms of "
+"mistreatment.  The way to avoid them is by insisting on <a href=\"/"
+"philosophy/free-software-even-more-important.html\">free (freedom-"
+"respecting) software</a>.  Since free software is controlled by its users, "
+"they have a pretty good defense against malicious software functionality."
+msgstr ""
+"Özel mülk yazılım kullanıcıları, bu tür kötü muamelelere karşı "
+"savunmasızdır. Onlardan kaçınmanın yolu, <a href=\"/philosophy/free-software-"
+"even-more-important.html\">özgür (özgürlüğe saygı duyan) yazılımda</a> ısrar "
+"etmektir. Özgür yazılım kullanıcıları tarafından kontrol edildiğinden kötü "
+"amaçlı yazılım işlevselliklerine karşı oldukça iyi bir savunmaya sahiptirler."
+
+#. type: Content of: <div><h3>
+msgid "Latest additions"
+msgstr "Son eklenenler"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Internet-tethered Amazon Ring had a security vulnerability that enabled "
+"attackers to <a href=\"https://www.commondreams.org/newswire/2019/11/07/"
+"amazons-ring-doorbells-leaks-customers-wi-fi-username-and-password\"> access "
+"the user's wifi password</a>, and snoop on the household through connected "
+"surveillance devices."
+msgstr ""
+"İnternet tasmalı Amazon Ring; saldırganların, <a href=\"https://www."
+"commondreams.org/newswire/2019/11/07/amazons-ring-doorbells-leaks-customers-"
+"wi-fi-username-and-password\">kullanıcının wifi parolasına erişmesini</a> ve "
+"bağlı gözetim aygıtları aracılığıyla hane halkını gözetlemesini sağlayan bir "
+"güvenlik açığına sahipti."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Knowledge of the wifi password would not be sufficient to carry out any "
+"significant surveillance if the devices implemented proper security, "
+"including encryption. But many devices with proprietary software lack this. "
+"Of course, they are also used by their manufacturers for snooping."
+msgstr ""
+"Wifi parolası bilgisi; aygıtlar, şifreleme de dâhil olmak üzere uygun "
+"güvenlik uygularsa önemli bir gözetim gerçekleştirmek için yeterli olmaz. "
+"Ancak özel mülk yazılıma sahip birçok aygıtta bu yoktur. Tabii ki aynı "
+"zamanda üreticileri tarafından gözetleme için de kullanılıyorlar."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"The ToToc messaging app seems to be a <a href=\"https://www.nytimes."
+"com/2019/12/22/us/politics/totok-app-uae.html\"> spying tool for the "
+"government of the United Arab Emirates</a>.  Any nonfree program could be "
+"doing this, and that is a good reason to use free software instead."
+msgstr ""
+"ToToc mesajlaşma uygulaması, <a href=\"https://www.nytimes.com/2019/12/22/us/"
+"politics/totok-app-uae.html\"> Birleşik Arap Emirlikleri hükûmeti için bir "
+"casusluk aracı</a> gibi görünüyor. Herhangi bir özgür olmayan program bunu "
+"yapıyor olabilir ve bu durum bunun gibi yazılımlar yerine özgür yazılım "
+"kullanmak için iyi bir neden."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"<small>Note: this article uses the word &ldquo;free&rdquo; in the sense of "
+"&ldquo;gratis.&rdquo;</small>"
+msgstr ""
+"<small>Not: Bu yazı &ldquo;free&rdquo; sözcüğünü &ldquo;bedava&rdquo; "
+"anlamında kullanmaktadır.</small>"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Some Avast and AVG extensions for Firefox and Chrome were found to <a href="
+"\"https://www.itpro.co.uk/security/internet-security/354417/avast-and-avg-"
+"extensions-pulled-from-chrome\"> snoop on users' detailed browsing habits</"
+"a>. Mozilla and Google removed the problematic extensions from their stores, "
+"but this shows once more how unsafe nonfree software can be. Tools that are "
+"supposed to protect a proprietary system are, instead, infecting it with "
+"additional malware (the system itself being the original malware)."
+msgstr ""
+"Firefox ve Chrome için bazı Avast ve AVG uzantılarının, <a href=\"https://"
+"www.itpro.co.uk/security/internet-security/354417/avast-and-avg-extensions-"
+"pulled-from-chrome\"> kullanıcıların ayrıntılı tarama alışkanlıklarını "
+"gizlice araştırdığı</a> bulundu. Mozilla ve Google sorunlu uzantıları "
+"mağazalarından kaldırdı ancak bu durum, bir kez daha, güvenli olmayan özgür "
+"yazılımın nasıl olabileceğini gösteriyor. Özel mülk bir sistemi koruması "
+"beklenilen araçlar, bunun yerine, ek kötü amaçlı yazılımlar (sistemin "
+"kendisi özgün kötü amaçlı yazılımdır) bulaştırır."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Many Android apps fool their users by asking them to decide what permissions "
+"to give the program, and then <a href=\"https://nakedsecurity.sophos."
+"com/2019/07/10/android-apps-sidestepping-permissions-to-access-sensitive-"
+"data/\"> bypassing these permissions</a>."
+msgstr ""
+"Birçok Android uygulaması; programa hangi izinleri vermek istediklerini "
+"kullanıcılara sorar ve ardından <a href=\"https://nakedsecurity.sophos."
+"com/2019/07/10/android-apps-sidestepping-permissions-to-access-sensitive-"
+"data/\">bu izinleri atlayarak</a> kullanıcılarını kandırır."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"The Android system is supposed to prevent data leaks by running apps in "
+"isolated sandboxes, but developers have found ways to access the data by "
+"other means, and there is nothing the user can do to stop them from doing "
+"so, since both the system and the apps are nonfree."
+msgstr ""
+"Android sisteminin, uygulamaları yalıtılmış sanal alanlarda çalıştırarak "
+"veri sızıntılarını önlemesi gerekiyor ama geliştiriciler verilere başka "
+"yollarla erişmenin yollarını buldular ve hem sistem hem de uygulamalar özgür "
+"olmadığı için kullanıcının bunları yapmasını durdurmak için yapabileceği "
+"hiçbir şey yok."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Most modern cars now <a href=\"https://boingboing.net/2019/12/17/cars-now-"
+"run-on-the-new-oil.html\"> record and send various kinds of data to the "
+"manufacturer</a>. For the user, access to the data is nearly impossible, as "
+"it involves cracking the car's computer, which is always hidden and running "
+"with proprietary software."
+msgstr ""
+"Modern arabaların çoğu şimdi <a href=\"https://boingboing.net/2019/12/17/"
+"cars-now-run-on-the-new-oil.html\">üreticiye çeşitli veri türlerini kaydedip "
+"gönderiyor</a>. Kullanıcı için verilere erişim neredeyse olanaksızdır, çünkü "
+"her zaman gizli ve özel mülk yazılımla çalışan arabanın bilgisayarını "
+"kırmayı gerektiriyor."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free "
+"Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free "
+"Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information &lt;theflossinformation@gmail.com&gt;, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
