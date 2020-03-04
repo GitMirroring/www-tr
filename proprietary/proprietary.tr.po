@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2020-02-24 16:55+0000\n"
-"PO-Revision-Date: 2020-03-03 20:26+0100\n"
+"POT-Creation-Date: 2020-03-04 09:25+0000\n"
+"PO-Revision-Date: 2020-03-04 22:04+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -305,6 +305,16 @@ msgstr "Son eklenenler"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
+"The Alipay Health Code app estimates whether the user has Covid-19 and <a "
+"href=\"https://www.nytimes.com/2020/03/01/business/china-coronavirus-"
+"surveillance.html\"> tells the cops directly</a>."
+msgstr ""
+"Alipay Health Code uygulaması kullanıcının Covid-19 olup olmadığını "
+"tahminliyor ve <a href=\"https://www.nytimes.com/2020/03/01/business/china-"
+"coronavirus-surveillance.html\"> sonucu doğrudan polislere bildiriyor</a>."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
 "Internet-tethered Amazon Ring had a security vulnerability that enabled "
 "attackers to <a href=\"https://www.commondreams.org/newswire/2019/11/07/"
 "amazons-ring-doorbells-leaks-customers-wi-fi-username-and-password\"> access "
@@ -394,20 +404,6 @@ msgstr ""
 "olmadığı için kullanıcının bunları yapmasını durdurmak için yapabileceği "
 "hiçbir şey yok."
 
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"Most modern cars now <a href=\"https://boingboing.net/2019/12/17/cars-now-"
-"run-on-the-new-oil.html\"> record and send various kinds of data to the "
-"manufacturer</a>. For the user, access to the data is nearly impossible, as "
-"it involves cracking the car's computer, which is always hidden and running "
-"with proprietary software."
-msgstr ""
-"Modern arabaların çoğu şimdi <a href=\"https://boingboing.net/2019/12/17/"
-"cars-now-run-on-the-new-oil.html\">üreticiye çeşitli veri türlerini kaydedip "
-"gönderiyor</a>. Kullanıcı için verilere erişim neredeyse olanaksızdır, çünkü "
-"her zaman gizli ve özel mülk yazılımla çalışan arabanın bilgisayarını "
-"kırmayı gerektiriyor."
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -468,9 +464,9 @@ msgid ""
 "creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
 "International License</a>."
 msgstr ""
-"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"nd/4.0/deed.tr\">Creative Commons Attribution-NoDerivatives 4.0 Uluslararası "
-"Lisansı</a> altında lisanslanmıştır."
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/"
+"by/4.0/deed.tr\">Creative Commons Atıf 4.0 Uluslararası Lisansı</a> altında "
+"lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -486,3 +482,16 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Most modern cars now <a href=\"https://boingboing.net/2019/12/17/cars-now-"
+#~ "run-on-the-new-oil.html\"> record and send various kinds of data to the "
+#~ "manufacturer</a>. For the user, access to the data is nearly impossible, "
+#~ "as it involves cracking the car's computer, which is always hidden and "
+#~ "running with proprietary software."
+#~ msgstr ""
+#~ "Modern arabaların çoğu şimdi <a href=\"https://boingboing.net/2019/12/17/"
+#~ "cars-now-run-on-the-new-oil.html\">üreticiye çeşitli veri türlerini "
+#~ "kaydedip gönderiyor</a>. Kullanıcı için verilere erişim neredeyse "
+#~ "olanaksızdır, çünkü her zaman gizli ve özel mülk yazılımla çalışan "
+#~ "arabanın bilgisayarını kırmayı gerektiriyor."
