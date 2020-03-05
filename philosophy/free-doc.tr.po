@@ -2,7 +2,7 @@
 # free-doc.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original page.
-# 
+#
 # T. E. Kalayci, 2009, 2019.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.

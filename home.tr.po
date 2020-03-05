@@ -1,7 +1,7 @@
 # Turkish translation of https://www.gnu.org/home.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# 
+#
 # The FLOSS Information <theflossinformation@yandex.com>, 2019, 2020.
 msgid ""
 msgstr ""

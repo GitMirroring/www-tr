@@ -103,8 +103,8 @@ msgid ""
 "Universal License</a>."
 msgstr ""
 "Bu ekran görüntüsü <a rel=\"license\" href=\"https://creativecommons.org/"
-"publicdomain/zero/1.0/deed.tr\">CC0 1.0 Evrensel (CC0 1.0) Kamu Malı Atfetme </a> "
-"altında lisanslanmıştır."
+"publicdomain/zero/1.0/deed.tr\">CC0 1.0 Evrensel (CC0 1.0) Kamu Malı Atfetme "
+"</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

@@ -337,8 +337,8 @@ msgid ""
 "Share Alike 3.0 United States License</a>."
 msgstr ""
 "Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"sa/3.0/us/deed.tr\">Creative Commons Atıf-AynıLisanslaPaylaş 3.0 Birleşik Devletler "
-"Lisansı</a> ile lisanslanmıştır."
+"sa/3.0/us/deed.tr\">Creative Commons Atıf-AynıLisanslaPaylaş 3.0 Birleşik "
+"Devletler Lisansı</a> ile lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
