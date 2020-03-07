@@ -1,0 +1,758 @@
+# Turkish translation of https://www.gnu.org/gnu/gnu-structure.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnu-structure.html\n"
+"POT-Creation-Date: 2020-03-03 20:25+0000\n"
+"PO-Revision-Date: 2020-03-07 10:48+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid ""
+"The Structure and Administration of the GNU Project - GNU Project - Free "
+"Software Foundation"
+msgstr "GNU Projesi'nin Yapısı ve Yönetimi - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "The Structure and Administration of the GNU Project"
+msgstr "GNU Projesi'nin Yapısı ve Yönetimi"
+
+#. type: Content of: <p>
+msgid "by Brandon Invergo and Richard Stallman"
+msgstr "yazanlar Brandon Invergo ve Richard Stallman"
+
+#. type: Content of: <p>
+msgid "<strong>Version 1.0.1</strong>"
+msgstr "<strong>Sürüm 1.0.1</strong>"
+
+#. type: Content of: <div><p>
+msgid ""
+"An <a href=\"/gnu/gnu-structure.org\">Org version</a> of this document is "
+"also available."
+msgstr ""
+"Bu belgenin bir <a href=\"/gnu/gnu-structure.org\">Org sürümü</a> de "
+"mevcuttur."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project develops and maintains the <a href=\"/gnu/about-gnu.html"
+"\">GNU operating system</a>.  Through this work, and other related "
+"activities, the GNU Project advocates and promotes <a href=\"/philosophy/"
+"philosophy.html\">software freedom</a>, the core philosophy of the free "
+"software movement."
+msgstr ""
+"GNU Projesi; <a href=\"/gnu/about-gnu.html\">GNU işletim sistemini</a> "
+"geliştirir ve sürdürür. GNU Projesi, bu çalışma ve ilgili diğer etkinlikler "
+"yoluyla özgür yazılım hareketinin temel felsefesi olan <a href=\"/philosophy/"
+"philosophy.html\">yazılım özgürlüğünü</a> destekler ve teşvik eder."
+
+#. type: Content of: <p>
+msgid ""
+"An operating system consists of many software components that together make "
+"a computer do useful jobs.  It includes code for low-level functionality, "
+"such as the kernel and drivers, plus system libraries, as well as the "
+"programs (utilities, tools, applications, and games) that users explicitly "
+"run.  The GNU operating system comprises software across this entire "
+"spectrum.  Many of the programs are specifically developed and released by "
+"the GNU Project; these are termed &ldquo;GNU packages&rdquo;.  The GNU "
+"system also includes components that are <a href=\"/philosophy/categories."
+"html\">free programs</a> released by other developers, outside of the GNU "
+"Project."
+msgstr ""
+"Bir işletim sistemi, bir bilgisayarın yararlı işler yapmasını sağlayan "
+"birçok yazılım bileşeninden oluşur. Çekirdek ve sürücüler gibi düşük düzeyli "
+"işlevler için kod ve ayrıca sistem kütüphanelerinin yanı sıra kullanıcıların "
+"doğrudan çalıştırdığı programları (yardımcı programlar, araçlar, uygulamalar "
+"ve oyunlar) içerir. GNU işletim sistemi tüm bu yelpazedeki yazılımlardan "
+"oluşur. Programların çoğu GNU Projesi tarafından özel olarak geliştirilmiş "
+"ve yayımlanmıştır; bunlar &ldquo;GNU paketleri&rdquo; olarak adlandırılır. "
+"GNU sistemi, GNU Projesi dışında diğer geliştiriciler tarafından yayımlanan "
+"<a href=\"/philosophy/categories.html\">özgür program</a> olan bileşenler de "
+"içerir."
+
+#. type: Content of: <p>
+msgid ""
+"Just as the programs composing an operating system must work together "
+"coherently, the GNU Project must operate coherently.  Most of the work "
+"consists of developing specific programs, but these programs are not "
+"independent projects; they must fit well together to constitute the GNU "
+"system we wish for.  Therefore, over the course of decades, we have "
+"developed structure for the project.  None of it is new, but this is the "
+"first time we have documented all of it in one place."
+msgstr ""
+"Bir işletim sistemini oluşturan programların tutarlı bir şekilde çalışması "
+"gerektiği gibi, GNU Projesi de tutarlı bir şekilde çalışmalıdır. Çalışmanın "
+"çoğu belirli programlar geliştirmekten oluşur ancak bu programlar bağımsız "
+"projeler değildir; dilediğimiz GNU sistemini oluşturmak için birbirleriyle "
+"oldukça uyumlu olmaları gerekir. Bu nedenle, onlarca yıl boyunca, proje için "
+"bir yapı geliştirdik. Hiçbiri yeni değil ama ilk kez hepsini tek bir yerde "
+"belgeliyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation provides many kinds of support (facilities, "
+"services) to the GNU Project.  How that works is outside the scope of this "
+"document."
+msgstr ""
+"Özgür Yazılım Vakfı, GNU Projesi'ne birçok türde destek (kolaylıklar, "
+"hizmetler) sağlar. Bu desteklerin nasıl işlediği bu belgenin kapsamı "
+"dışındadır."
+
+#. type: Content of: <h3>
+msgid "Software Development Structure"
+msgstr "Yazılım Geliştirme Yapısı"
+
+#. type: Content of: <p>
+msgid ""
+"Most of the GNU Project's activity consists of development of software "
+"packages.  Here is how GNU software development is structured."
+msgstr ""
+"GNU Projesi'nin etkinliklerinin çoğu yazılım paketlerinin geliştirilmesinden "
+"oluşmaktadır. GNU'nun yazılım geliştirmesi şu şekilde yapılandırılmıştır."
+
+#. type: Content of: <h4>
+msgid "The Chief GNUisance"
+msgstr "Baş GNUisance"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project is led by the Chief GNUisance, Richard Stallman, the founder "
+"of the project.  The Chief GNUisance is responsible in principle for all "
+"significant decisions, including the overall philosophy and standards, and "
+"directs the project in carrying them out.  The Chief GNUisance dubs software "
+"packages as GNU packages, or decommission one when necessary, and appoints "
+"their maintainers."
+msgstr ""
+"GNU Projesi, Baş GNUisance, projenin kurucusu Richard Stallman, tarafından "
+"yönetilmektedir. Baş GNUisance ilke olarak genel felsefe ve standartlar da "
+"dâhil olmak üzere tüm önemli kararlardan sorumludur ve bu kararların "
+"yürütülmesi açısından projeyi yönlendirir. Baş GNUisance; yazılım "
+"paketlerini GNU paketi olarak adlandırır veya gerektiğinde hizmetten çıkarır "
+"ve bakımcıları görevlendirir."
+
+#. type: Content of: <p>
+msgid ""
+"In practice, the Chief GNUisance delegates many of these decisions and most "
+"of the tasks to others, and only rarely intervenes in the specifics of "
+"development of a GNU package&mdash;and usually that is with a suggestion."
+msgstr ""
+"Uygulamada Baş GNUisance bu kararların çoğunu ve görevlerin çoğunu "
+"başkalarına devreder ve bir GNU paketinin geliştirme özelliklerine nadiren "
+"müdahale eder, ve bu genellikle sadece öneri şeklindedir."
+
+#. type: Content of: <h4>
+msgid "Assistant GNUisances"
+msgstr "Yardımcı GNUisance'ler"
+
+#. type: Content of: <p>
+msgid ""
+"This team, residing at <a href=\"mailto:maintainers@gnu.org"
+"\">maintainers@gnu.org</a>, is available as a first point-of-contact for "
+"maintainers of GNU Software.  They keep track of development activity across "
+"the entire project, ensuring timely releases, checking that the maintainers "
+"follow GNU's <a href=\"/philosophy/\">philosophy</a> and guidelines, and "
+"resolving any conflicts that might arise.  They also handle cases when a "
+"maintainer steps down or when a new volunteer steps up to maintain an "
+"existing package (in which case they can appoint a new maintainer on behalf "
+"of the Chief GNUisance)."
+msgstr ""
+"<a href=\"mailto:maintainers@gnu.org\">maintainers@gnu.org</a> adresiyle "
+"erişilebilir olan bu ekip, GNU Yazılımı sahipleri için ilk irtibat "
+"noktasıdır. Tüm proje boyunca geliştirme etkinliklerini takip ederler, "
+"zamanında yayımlar sağlarlar, bakımcıların GNU'nun <a href=\"/philosophy/"
+"\">felsefesini</a> ve yönergelerini izleyip izlemediklerini denetlerler ve "
+"ortaya çıkabilecek çatışmaları çözerler. Ayrıca bir bakımcının görevi "
+"bıraktığı veya yeni bir gönüllünün mevcut bir paketi sürdürmek için harekete "
+"geçtiği durumları (bu durumda Baş GNUisance adına yeni bir bakımcı "
+"görevlendirebilirler) da ele alırlar."
+
+#. type: Content of: <p>
+msgid ""
+"New members are recruited from existing GNU volunteers when needed.  "
+"However, help is often welcome for specific tasks and interested GNU "
+"volunteers are welcome to get in touch."
+msgstr ""
+"Gerektiğinde, mevcut GNU gönüllülerinden yeni üyeler alınır. Bununla "
+"birlikte belirli görevler için yardım genellikle kabul edilir ve ilgili GNU "
+"gönüllüleri temasa geçebilirler."
+
+#. type: Content of: <h4>
+msgid "Package maintainers"
+msgstr "Paket bakımcıları"
+
+#. type: Content of: <p>
+msgid ""
+"Each GNU software package has specific maintainers, appointed by the Chief "
+"GNUisance or the assistant GNUisances.  The package maintainers are "
+"responsible to the Chief GNUisance, under whose authority they are appointed "
+"and on rare occasions dismissed, and they are in charge of developing their "
+"packages on behalf of the GNU Project."
+msgstr ""
+"Her GNU yazılım paketinin Baş GNUisance veya yardımcı GNUisance'ler "
+"tarafından görevlendirilen belirli bakımcıları vardır. Paket bakımcıları "
+"yetkisi altında görevlendirildikleri ve nadiren görevden alan Baş "
+"GNUisance'ye karşı sorumludur ve GNU Projesi adına üstlendikleri paketleri "
+"geliştirmekle yükümlüdürler."
+
+#. type: Content of: <p>
+msgid ""
+"The initial appointment of maintainers is done when a program is <a href=\"/"
+"help/evaluation.html\">accepted as a GNU package</a>.  These are normally "
+"some of the main developers who agreed to make the program a GNU package."
+msgstr ""
+"Bakımcıların ilk görevlendirilmesi, bir program <a href=\"/help/evaluation."
+"html\">GNU paketi olarak kabul edildiğinde</a> yapılır. Bunlar normalde "
+"programı bir GNU paketi yapmayı kabul eden ana geliştiricilerden bazılarıdır."
+
+#. type: Content of: <p>
+msgid ""
+"Over time, maintainers occasionally step down.  In some cases, the sole "
+"maintainer steps down from the role, leaving the package unmaintained.  The "
+"Chief GNUisance usually delegates finding and appointing new maintainers to "
+"the assistant GNUisances.  <a href=\"/server/takeaction.html#unmaint\">See "
+"the list of currently unmaintained packages</a>.  We ask the old maintainers "
+"to recommend new maintainers, and we consider those suggestions "
+"appreciatively."
+msgstr ""
+"Zamanla bakımcılar nadiren görevi bırakırlar. Bazı durumlarda biricik "
+"bakımcı rolden ayrılır ve paketi bakımsız bırakır. Baş GNUisance genellikle "
+"yardımcı GNUisance'lere yeni bakımcılar bulma ve görevlendirme yetkisi "
+"verir. <a href=\"/server/takeaction.html#unmaint\">Şu anda bakımı yapılmayan "
+"paketlerin listesine bakabilirsiniz</a>. Eski bakımcılardan yeni bakımcılar "
+"önermelerini istiyoruz ve bu önerileri dikkatle değerlendiriyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"The maintainers of a package often recruit others to contribute to its "
+"development, and delegate some technical decisions to them.  However, the "
+"maintainers retain authority over the whole of the package so they can carry "
+"out their responsibility to the GNU Project."
+msgstr ""
+"Bir paketin bakımcıları, geliştirilmesine katkıda bulunmak için genellikle "
+"başkalarını işe alır ve bazı teknik kararları onlara devreder. Ancak "
+"bakımcılar, GNU Projesi'ne karşı sorumluluklarını yerine getirebilmeleri "
+"için paketin tamamı üzerinde yetki sahibi olurlar."
+
+#. type: Content of: <p>
+msgid ""
+"A maintainer's primary responsibility is to do a good, practical job of "
+"developing and maintaining the program in accord with the GNU Project's "
+"philosophy, mission, policies, and general decisions.  Maintainers must also "
+"ensure that their packages work well with the rest of the GNU System.  For "
+"more information, <a href=\"/help/evaluation.html#whatmeans\">read about "
+"maintainers' basic duties and what it means for a program to be a GNU "
+"package</a>."
+msgstr ""
+"Bir bakımcının birincil sorumluluğu; GNU Projesi'nin felsefesi, misyonu, "
+"politikaları ve genel kararları doğrultusunda iyi ve kullanışlı bir şekilde "
+"programı geliştirmek ve sürdürmektir. Bakımcılar ayrıca paketlerinin GNU "
+"Sistemi'nin geri kalanıyla uyumlu çalışmasını sağlamalıdır. Daha fazla bilgi "
+"için <a href=\"/help/evaluation.html#whatmeans\">bakımcıların temel "
+"görevleri ve bir programın GNU paketi olmasının ne anlama geldiğini "
+"okuyabilirsiniz</a>."
+
+#. type: Content of: <p>
+msgid ""
+"In general, maintainers determine the technical directions that the software "
+"packages take and thus they make the day-to-day decisions for the packages.  "
+"Likewise, in making their packages work well together, maintainers can work "
+"directly with each other, and we encourage them to do so.  Rarely, the Chief "
+"GNUisance will make a decision that directly affects one or more GNU "
+"packages.  The maintainers of the affected packages have the responsibility "
+"to execute the decision on behalf of the GNU Project."
+msgstr ""
+"Genel olarak bakımcılar yazılım paketlerinin üstlendiği teknik yönergeleri "
+"belirler ve böylece paketler için günlük kararlar alırlar. Aynı şekilde "
+"paketlerin birlikte uyumlu çalışmasını sağlarken bakımcılar doğrudan "
+"birbirleriyle çalışabilirler ve biz de bunu teşvik ediyoruz. Baş GNUisance "
+"bir veya daha fazla GNU paketini doğrudan etkileyen bir kararı nadiren "
+"verir. Etkilenen paketlerin sahipleri GNU Projesi adına kararı yürütmekle "
+"sorumludur."
+
+#. type: Content of: <p>
+msgid ""
+"More complete information about the specific responsibilities of maintainers "
+"and technical guidance for maintaining GNU software can be found in the <a "
+"href=\"/prep/maintain\">Information for Maintainers of GNU Software</a> and "
+"<a href=\"/prep/standards\">GNU Coding Standards</a> documents."
+msgstr ""
+"Bakımcıların belirli sorumlulukları ve GNU yazılımının bakımıyla ilgili "
+"teknik yönlendirme hakkında daha eksiksiz bilgi <a href=\"/prep/maintain"
+"\">GNU Yazılımı Bakımcıları İçin Bilgiler</a> ve <a href=\"/prep/standards"
+"\">GNU Kodlama Standartları</a> belgelerinde bulunabilir."
+
+#. type: Content of: <p>
+msgid ""
+"We do not require that GNU package maintainers agree with our philosophy, or "
+"approve of our policies&mdash;only to follow them.  Maintainers and "
+"contributors must carry out our philosophy, policies and occasional specific "
+"decisions in their work on GNU software."
+msgstr ""
+"GNU paketi bakımcılarının felsefemize uymasını veya politikalarımızı "
+"onaylamasını değil, yalnızca izlemelerini istiyoruz. Bakımcılar ve katkıda "
+"bulunanlar; GNU yazılımı üzerinde yaptıkları çalışmalarda felsefemizi, "
+"politikalarımızı ve ara sıra belirli kararlarımızı uygulamalıdır."
+
+#. type: Content of: <h3>
+msgid "Support for GNU Package Development"
+msgstr "GNU Paket Geliştirme için Destek"
+
+#. type: Content of: <p>
+msgid ""
+"Several teams provide various kinds of support to the development and "
+"management of GNU packages.  Most of these teams have a coordinator to "
+"direct them; in most cases, the coordinator reports directly to the Chief "
+"GNUisance unless otherwise stated.  When in doubt, you can contact the <a "
+"href=\"mailto:gvc@gnu.org\">GNU Volunteer Coordinators</a> for advice."
+msgstr ""
+"Birçok ekip GNU paketlerinin geliştirilmesi ve yönetilmesi için çeşitli "
+"şekillerde destek sağlarlar. Bu ekiplerin çoğunun onları yönlendirecek bir "
+"koordinatörü vardır; çoğu durumda koordinatör aksi belirtilmedikçe doğrudan "
+"Baş GNUisance'ye rapor verir. Kuşkuya düşerseniz öneri için <a href=\"mailto:"
+"gvc@gnu.org\">Gönüllü GNU Koordinatörleri</a> ile iletişime geçebilirsiniz."
+
+#. type: Content of: <h4>
+msgid "Software Evaluation"
+msgstr "Yazılım Değerlendirme"
+
+#. type: Content of: <p>
+msgid ""
+"The software evaluation team at <a href=\"mailto:gnueval@gnu.org"
+"\">gnueval@gnu.org</a> evaluates software packages proposed as GNU "
+"packages.  This involves a careful assessment of the software's "
+"functionality as well as pertinent issues related to software freedom and "
+"how the program fits with the GNU system."
+msgstr ""
+"<a href=\"mailto:gnueval@gnu.org\">gnueval@gnu.org</a> adresindeki yazılım "
+"değerlendirme ekibi, GNU paketleri olarak önerilen yazılım paketlerini "
+"değerlendirir. Bu, yazılımın işlevselliğinin yanı sıra yazılım özgürlüğü ve "
+"programın GNU sistemine nasıl uyduğu ile ilgili konuların dikkatle "
+"değerlendirilmesini içerir."
+
+#. type: Content of: <p>
+msgid ""
+"New members are recruited from existing GNU volunteers when needed.  Prior "
+"experience with non-GNU software evaluation on Savannah is preferable."
+msgstr ""
+"Gerektiğinde, mevcut GNU gönüllülerinden yeni üyeler alınır. Savannah "
+"üzerinde GNU olmayan yazılım değerlendirmesi ile ilgili önceden deneyim "
+"tercih sebebidir."
+
+#. type: Content of: <h4>
+msgid "Software Security Evaluation"
+msgstr "Yazılım Güvenliği Değerlendirmesi"
+
+#. type: Content of: <p>
+msgid ""
+"The software security evaluation team at <a href=\"mailto:gnueval-"
+"security@gnu.org\">gnueval-security@gnu.org</a> works with the software "
+"evaluation team.  They determine whether there are any security concerns in "
+"software that has been offered to GNU."
+msgstr ""
+"<a href=\"mailto:gnueval-security@gnu.org\">gnueval-security@gnu.org</a> "
+"adresindeki yazılım güvenliği değerlendirme ekibi, yazılım değerlendirme "
+"ekibiyle birlikte çalışır. GNU'ya sunulan yazılımda herhangi bir güvenlik "
+"sorunu olup olmadığını belirler."
+
+#. type: Content of: <p>
+msgid "New members are recruited from existing GNU volunteers when needed."
+msgstr "Gerektiğinde, mevcut GNU gönüllülerinden yeni üyeler alınır."
+
+#. type: Content of: <h4>
+msgid "Security Team"
+msgstr "Güvenlik Ekibi"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"mailto:security@gnu.org\">Security Team</a> helps to resolve "
+"security bugs in a timely fashion.  If the maintainer of a GNU package fails "
+"to respond to a report of a security flaw, the reporter can escalate the "
+"issue to the security team.  If it decides the issue is urgent, it can "
+"develop a patch and publish a fixed release of the package.  Maintainers can "
+"also ask the security team for advice in securing their packages."
+msgstr ""
+"<a href=\"mailto:security@gnu.org\">Güvenlik Ekibi</a>, güvenlik hatalarının "
+"zamanında çözülmesine yardımcı olur. GNU paketinin bakımcısı bir güvenlik "
+"açığının raporuna yanıt vermezse raportör sorunu güvenlik ekibine "
+"iletebilir. Sorunun acil olduğuna karar verilirse bir yama geliştirilebilir "
+"ve paketin onarılmış bir sürümü yayımlanabilir. Bakımcılar ayrıca güvenlik "
+"ekibinden paketlerinin güvenliğini sağlama konusunda öneri isteyebilirler."
+
+#. type: Content of: <h4>
+msgid "Platform Testers"
+msgstr "Platform Sınayıcıları"
+
+#. type: Content of: <p>
+msgid ""
+"Volunteers behind the <a href=\"//lists.gnu.org/mailman/listinfo/platform-"
+"testers\">platform-testers@gnu.org</a> mailing list test GNU software pre-"
+"releases on different hardware platforms to ensure that it functions "
+"correctly."
+msgstr ""
+"<a href=\"//lists.gnu.org/mailman/listinfo/platform-testers\">platform-"
+"testers@gnu.org</a> e-posta listesinin arkasındaki gönüllüler, doğru "
+"çalıştığından emin olmak için GNU yazılımının farklı donanım "
+"platformlarındaki ön sürümlerini sınarlar."
+
+#. type: Content of: <p>
+msgid "New volunteers are welcome."
+msgstr "Yeni gönüllüler bekliyoruz."
+
+#. type: Content of: <h4>
+msgid "Mentors"
+msgstr "Danışmanlar"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Mentors (<a href=\"mailto:mentors@gnu.org\">mentors@gnu.org</a>) "
+"volunteer to provide guidance for new software maintainers."
+msgstr ""
+"GNU Danışmanları (<a href=\"mailto:mentors@gnu.org\">mentors@gnu.org</a>) "
+"yeni yazılım bakımcılarına kılavuzluk etmeye gönüllüdür."
+
+#. type: Content of: <p>
+msgid "We ask long-time GNU maintainers to volunteer."
+msgstr "Uzun süredir GNU bakımcılarından gönüllü olmalarını istiyoruz."
+
+#. type: Content of: <h4>
+msgid "Proofreaders"
+msgstr "Düzeltmenler"
+
+#. type: Content of: <p>
+msgid ""
+"The proofreaders list is available to help GNU package maintainers by "
+"proofreading English text.  To request proofreading, write to <a href="
+"\"mailto:proofreaders@gnu.org\">proofreaders@gnu.org</a>."
+msgstr ""
+"Düzeltmenler listesi, İngilizce metinleri düzelterek GNU paketi "
+"bakımcılarına yardımcı olmak için kullanılabilir. Düzeltme istemek için <a "
+"href=\"mailto:proofreaders@gnu.org\">proofreaders@gnu.org</a> adresine yazın."
+
+#. type: Content of: <h3>
+msgid "Other Teams and Services"
+msgstr "Diğer Ekipler ve Hizmetler"
+
+#. type: Content of: <p>
+msgid ""
+"Several other teams facilitate or manage the day-to-day operations within "
+"the GNU Project, or advance specific goals of the project."
+msgstr ""
+"Diğer birkaç ekip GNU Projesi içindeki günlük işleyişi kolaylaştırır, "
+"yönetir veya projenin belirli hedeflerini geliştirir."
+
+#. type: Content of: <h4>
+msgid "GNU Advisory Committee"
+msgstr "GNU Danışma Kurulu"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"/contact/gnu-advisory.html\">GNU Advisory Committee</a> (GAC) "
+"exists to provide advice to the Chief GNUisance.  Members of the Advisory "
+"Committee are appointed by the Chief GNUisance.  The Advisory Committee "
+"generally monitors the health of the GNU Project on behalf of the Chief "
+"GNUisance and they raise potential issues for discussion."
+msgstr ""
+"<a href=\"/contact/gnu-advisory.html\">GNU Danışma Kurulu</a> (<abbr title="
+"\"GNU Advisory Committee\">GAC</abbr>), Baş GNUisance'ye önerilerde bulunmak "
+"için mevcuttur. Danışma Kurulu üyeleri Baş GNUisance tarafından atanır. "
+"Danışma Kurulu genel olarak GNU Projesi adına GNU Projesi'nin sağlığını "
+"izler ve olası tartışma konularını gündeme taşır."
+
+#. type: Content of: <h4>
+msgid "Savannah Hackers"
+msgstr "Savannah Hacker'leri"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"//savannah.gnu.org\">Savannah</a> is the GNU Project's software "
+"forge.  It hosts code repositories, bug reporting tools, mailing list "
+"interfaces and more.  Savannah is administered by the <a href=\"mailto:"
+"savannah-hackers-public@gnu.org\">Savannah Hackers</a>.  They keep the forge "
+"software up and running.  In addition to ensuring that GNU software is "
+"properly hosted in the service, the Savannah Hackers also evaluate non-GNU "
+"software that applies to be hosted on the forge."
+msgstr ""
+"<a href=\"//savannah.gnu.org\">Savannah</a>, GNU Projesi'nin yazılım "
+"işbirliği platformudur. Kod depolarını, hata raporlama araçlarını, e-posta "
+"listesi arayüzlerini ve daha fazlasını barındırır. Savannah, <a href="
+"\"mailto:savannah-hackers-public@gnu.org\">Savannah Hacker'leri</a> <a href="
+"\"#tn1\">[1]</a> tarafından yönetilmektedir. Savannah Hacker'leri, GNU "
+"yazılımının hizmet üzerinde düzgün bir şekilde barındırılmasını sağlamanın "
+"yanı sıra, yazılım işbirliği platformunda barındırılmak üzere GNU olmayan "
+"yazılım başvurularını da değerlendirir."
+
+#. type: Content of: <h4>
+msgid "Webmasters"
+msgstr "Web Yöneticileri"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"/people/webmeisters.html\">GNU Webmasters</a> maintain and "
+"update the web pages at <a href=\"/\">https://www.gnu.org</a>."
+msgstr ""
+"<a href=\"/people/webmeisters.html\">GNU Web Yöneticileri</a>; <a href=\"/"
+"\">https://www.gnu.org</a> adresindeki web sayfalarının bakımından ve "
+"güncellenmesinden sorumludur."
+
+#. type: Content of: <p>
+msgid ""
+"Webmasters also answer various kinds of questions sent by the public, "
+"regarding topics such as free software and licenses (when the answer is "
+"clear).  They do initial filtering of requests to evaluate a distro, "
+"evaluate people who would like to become webmasters, and update the list of "
+"mirrors."
+msgstr ""
+"Web yöneticileri ayrıca özgür yazılım ve lisanslar gibi konularda kamu "
+"tarafından gönderilen çeşitli soruları da (yanıt net olduğunda) yanıtlar. "
+"Bir dağıtımı değerlendirmek, web yöneticisi olmak isteyen kişileri "
+"değerlendirmek ve yansı listesini güncellemek için isteklerin ilk "
+"filtrelemesini yaparlar."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Webmaster Group is led by the&nbsp;<a href=\"mailto:chief-"
+"webmaster@gnu.org\">Chief Webmaster</a> who reports to&nbsp; the Chief "
+"GNUisance.  New volunteers are welcome.  See <a href=\"/server/standards/"
+"webmaster-quiz.html\">the Volunteer Webmaster Quiz</a>."
+msgstr ""
+"GNU Web Yöneticisi Grubu,&nbsp;<a href=\"mailto:chief-webmaster@gnu.org"
+"\">Baş GNUisance</a>'ye rapor veren Baş Web Yöneticisi tarafından yönetilir. "
+"Yeni gönüllüler bekliyoruz. <a href=\"/server/standards/webmaster-quiz.html"
+"\">Gönüllü Web Yöneticisi Sınavı</a>'na bakın."
+
+#. type: Content of: <h4>
+msgid "Web Translators"
+msgstr "Web Çevirmenleri"
+
+#. type: Content of: <p>
+msgid ""
+"Each language has a translation team, directed by a team coordinator.  See "
+"<a href=\"/server/standards/README.translations.html\">the Guide to "
+"Translating Web Pages on www.gnu.org</a> for more information.  The team "
+"coordinators report to the&nbsp;<a href=\"mailto:web-translators@gnu.org"
+"\">GNU Translations Manager</a>, who&nbsp;reports to the Chief GNUisance."
+msgstr ""
+"Her dilin bir ekip koordinatörü tarafından yönetilen bir çeviri ekibi "
+"vardır. Daha fazla bilgi için <a href=\"/server/standards/README."
+"translations.html\">www.gnu.org adresindeki Web Sayfalarını Çevirme "
+"Kılavuzu</a>'na bakabilirsiniz. Ekip koordinatörleri, Baş GNUisance'ye rapor "
+"veren&nbsp;<a href=\"mailto:web-translators@gnu.org\">GNU Çevirileri "
+"Yöneticisi</a>'ne&nbsp;rapor verir."
+
+#. type: Content of: <h4>
+msgid "List Helpers"
+msgstr "Liste Yardımcıları"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"//savannah.gnu.org/maintenance/ListHelperAntiSpam/\">Listhelper</"
+"a> is a system for semi-automatically managing spam sent to GNU mailing "
+"lists.  Most spam is caught by spam filters, but human moderators are also "
+"available to manage the queue of messages predicted not to be spam."
+msgstr ""
+"<a href=\"//savannah.gnu.org/maintenance/ListHelperAntiSpam/\">Listhelper</"
+"a>, GNU e-posta listelerine gönderilen spam'ları yarı otomatik olarak "
+"yöneten bir sistemdir. Çoğu spam, spam filtreleri tarafından yakalanır ancak "
+"spam olmadığı tahmin edilen iletilerin kuyruğunu yönetmek için insan "
+"denetleticiler de mevcuttur."
+
+#. type: Content of: <h4>
+msgid "GNU Volunteer Coordinators"
+msgstr "Gönüllü GNU Koordinatörleri"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Volunteer Coordinators (<a href=\"mailto:gvc@gnu.org\">gvc@gnu.org</"
+"a>) help to guide new volunteers towards suitable jobs within the GNU Project"
+msgstr ""
+"Gönüllü GNU Koordinatörleri (<a href=\"mailto:gvc@gnu.org\">gvc@gnu.org</"
+"a>), yeni gönüllüleri GNU Projesi içinde uygun işlere yönlendirmeye yardımcı "
+"olmaktadır"
+
+#. type: Content of: <p>
+msgid ""
+"New GVC volunteers are welcome, but prior experience volunteering within GNU "
+"(and thus broad knowledge of the GNU Project) is highly recommended."
+msgstr ""
+"Yeni GVC gönüllüleri bekliyoruz ancak önceden GNU içinde gönüllülük deneyimi "
+"olması (ve böylece GNU Projesi hakkında çok geniş bilgi) oldukça önerilir."
+
+#. type: Content of: <h4>
+msgid "GNU Education Team"
+msgstr "GNU Eğitim Ekibi"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"/education/\">GNU Education Team</a> promotes the adoption of "
+"the GNU Operating System in educational environments.  It also evaluates "
+"schools and speaks to school administrators."
+msgstr ""
+"<a href=\"/education/\">GNU Eğitim Ekibi</a>, eğitim ortamlarında GNU "
+"İşletim Sistemi'nin benimsenmesini teşvik eder. Ayrıca okulları "
+"değerlendirir ve okul yöneticileriyle konuşur."
+
+#. type: Content of: <h4>
+msgid "GNU Standards Group"
+msgstr "GNU Standartları Grubu"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Standards Group evaluates proposals to update the GNU coding "
+"standards.  Anyone can submit a proposal via the <a href=\"//lists.gnu.org/"
+"mailman/listinfo/bug-standards\">bug-standards</a> mailing list.  The group "
+"then discusses and evaluates the proposal to work out all the details and "
+"implications.  They then present the proposal and a recommendation to the "
+"Chief GNUisance, who makes the decision.  The group is also responsible for "
+"installing changes to the document as well as updating the document on the "
+"web."
+msgstr ""
+"GNU Standartları Grubu, GNU kodlama standartlarını güncelleme önerilerini "
+"değerlendirir. Herkes <a href=\"//lists.gnu.org/mailman/listinfo/bug-"
+"standards\">bug-standards</a> e-posta listesinden bir öneri gönderebilir. "
+"Grup daha sonra tüm ayrıntıları ve çıkarımları sonuçlandırmak için öneriyi "
+"tartışır ve değerlendirir. Daha sonra teklifi, kararı veren Baş GNUisance'ye "
+"bir öneri şeklinde sunarlar. Grup ayrıca belgede değişiklik yapmanın yanı "
+"sıra belgeyi web'de güncellemekten de sorumludur."
+
+#. type: Content of: <p>
+msgid "New volunteers are recruited from existing GNU volunteers when needed."
+msgstr "Gerektiğinde, mevcut GNU gönüllülerinden yeni üyeler alınır."
+
+#. type: Content of: <h3>
+msgid "Correcting Errors"
+msgstr "Hataları Düzeltme"
+
+#. type: Content of: <p>
+msgid ""
+"If we find errors or omissions in this description of the existing "
+"structure, which are possible since it previously had no centralized "
+"documentation, we will update this document, both <a href=\"/gnu/gnu-"
+"structure.org\">the Org version</a> and <a href=\"/gnu/gnu-structure.html"
+"\">the HTML version</a>, advancing the third version number.  We will keep "
+"older versions available in <a href=\"/gnu/old-gnu-structure/\">a "
+"subdirectory</a>."
+msgstr ""
+"Mevcut yapının bu tanımlamasında, daha önce merkezi bir belge olmadığından "
+"dolayı hatalar veya eksiklikler bulursak, bu belgenin hem <a href=\"/gnu/gnu-"
+"structure.org\">Org sürümünü</a> hem de <a href=\"/gnu/gnu-structure.html"
+"\">HTML sürümünü</a> üçüncü sürüm numarasını ilerleterek güncelleyeceğiz. "
+"Eski sürümleri <a href=\"/gnu/old-gnu-structure/\">bir alt dizinde</a> "
+"saklayacağız."
+
+#. type: Content of: <h3>
+msgid "Future Changes in Administrative Structure"
+msgstr "Yönetsel Yapıda Gelecekteki Değişiklikler"
+
+#. type: Content of: <p>
+msgid ""
+"Changes in the GNU Project administrative structure are decided on by the "
+"Chief GNUisance after starting consultations with GNU contributors, usually "
+"on appropriate GNU Project discussion lists.  The aim of these consultations "
+"is to consider possible alternatives and anticipate what good and bad "
+"effects they would have, so as to make a wise decision."
+msgstr ""
+"GNU Projesi'nin yönetsel yapısındaki değişikliklere, genellikle uygun GNU "
+"Projesi tartışma listelerinde olmak üzere, GNU katkıcılarıyla danışmalara "
+"başlandıktan sonra Baş GNUisance tarafından karar verilir. Bu danışmaların "
+"amacı; akıllıca bir karar vermek için olası alternatifleri düşünmek ve ne "
+"gibi iyi ve kötü etkileri olacağını öngörmektir."
+
+#. type: Content of: <p>
+msgid ""
+"To report changes that are adopted, we will update this document, both the "
+"Org version and the HTML version (see previous section), advancing the first "
+"and/or second version number."
+msgstr ""
+"Kabul edilen değişiklikleri bildirmek için hem Org sürümü hem de HTML sürümü "
+"(önceki bölüme bakınız) olan bu belgeyi güncelleyeceğiz ve birinci ve/veya "
+"ikinci sürüm numarasını ilerleteceğiz. Eski sürümleri bir alt dizinde "
+"saklayacağız."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"<a id=\"tn1\">[1]</a> Burada kullanılan hacker, üstat anlamındadır: teknik "
+"beceri sahibi, problem çözmeden zevk alan ve sınırları aşan kişiler, belirli "
+"bir konuda sahip olduğu bilgiyi kullanıp daha fazlasını öğrenmeye meraklı "
+"kişiler."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Brandon Invergo and Richard Stallman"
+msgstr "Copyright &copy; 2020 Brandon Invergo and Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
