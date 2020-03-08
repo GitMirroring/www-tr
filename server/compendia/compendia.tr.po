@@ -1,0 +1,397 @@
+# Turkish translation of https://www.gnu.org/server/body-include-1.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalayci <tekrei@member.fsf.org>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: body-include-1.html\n"
+"POT-Creation-Date: 2016-09-13 09:25+0000\n"
+"PO-Revision-Date: 2020-03-08 09:14+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. type: Content of: <ul><li>
+msgid "John Gilmore"
+msgstr "John Gilmore"
+
+#. type: Content of: <ul><li>
+msgid "Paul Eggert"
+msgstr "Paul Eggert"
+
+#. type: Content of: <div><h3>
+msgid "Table of Contents"
+msgstr "İçindekiler"
+
+#. type: Content of: <h3>
+msgid "Introduction"
+msgstr "Giriş"
+
+#. type: Content of: <table><tr><td>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <p>
+msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <p>
+msgid "by <strong>Richard Stallman</strong>"
+msgstr "yazan <strong>Richard Stallman</strong>"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Free Software, "
+"Operating System, GNU Kernel, HURD, GNU HURD, Hurd"
+msgstr ""
+"GNU, FSF, Özgür Yazılım Vakfı, Linux, Emacs, GCC, Unix, Özgür Yazılım, "
+"İşletim Sistemi, GNU Kernel, HURD, GNU HURD, Hurd"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"Since 1983, developing the free Unix style operating system GNU, so that "
+"computer users can have the freedom to share and improve the software they "
+"use."
+msgstr ""
+"1983 yılından beri bilgisayar kullanıcılarının kullandıkları yazılımı "
+"paylaşma ve geliştirme özgürlüğüne sahip olmaları için özgür Unix "
+"biçimindeki işletim sistemi GNU geliştiriliyor."
+
+#. type: Content of: <h4>
+msgid "Disclaimer"
+msgstr "Sorumluluk Reddi"
+
+#. type: Content of: <p>
+msgid ""
+"<a href=\"/fun/humor.html\">Other humor</a> in the GNU Humor Collection."
+msgstr ""
+"GNU Mizah Koleksiyonu'ndaki <a href=\"/fun/humor.html\">diğer mizah</a> "
+"ögeleri."
+
+#. type: Content of: <p>
+msgid "The Free Software Foundation claims no copyright on this joke."
+msgstr "Özgür Yazılım Vakfı bu şaka için telif hakkı talep etmiyor."
+
+#. type: Content of: <p>
+msgid ""
+"The joke on this page was obtained from the FSF's <a href=\"http://lists.gnu."
+"org/\">email archives</a> of the GNU Project."
+msgstr ""
+"Bu sayfadaki şaka FSF'nin GNU Projesi <a href=\"http://lists.gnu.org/\">e-"
+"posta arşivlerinden</a> alınmıştır."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+"contact</a> the FSF."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please send broken links and other corrections or suggestions to <a href="
+"\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr ""
+"Lütfen çalışmayan bağlantıları ve başka düzeltmeleri veya önerilerinizi <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine "
+"gönderin."
+
+#. type: Content of: <h3>
+msgid "Footnotes"
+msgstr "Dipnotlar"
+
+#. type: Content of: <p>
+msgid ""
+"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
+msgstr ""
+"yazan <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</"
+"strong></a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Sayfa metni:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
+msgstr ""
+"<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed."
+"tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası Lisansı</a> ile "
+"yayınlanmıştır."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The GNU head is, however, also a trademark for the GNU Project.  <strong>If "
+"you want to use the GNU head to link to a website run by the Free Software "
+"Foundation or the GNU project, feel free, or if you're using it in contexts "
+"talking about GNU in a supportive and accurate way, you can also do this "
+"without permission.  For any other requests, please ask &lt;<a href=\"mailto:"
+"licensing@fsf.org\">licensing@fsf.org</a>&gt; for permission first.</strong>"
+msgstr ""
+"Bununla birlikte GNU kafası, GNU Projesinin ayrıca bir markasıdır. "
+"<strong>Eğer GNU kafasını Özgür Yazılım Vakfı veya GNU projesi tarafından "
+"yönetilen bir siteye bağlantı vermek için kullanmak istiyorsanız, bunu "
+"rahatça yapabilirsiniz veya GNU hakkında destekleyici ve doğru bir şekilde "
+"konuşulan bağlamlarda kullanmak için de izin almanıza gerek yoktur. Diğer "
+"bütün istekleriniz için lütfen &lt;<a href=\"mailto:licensing@fsf.org"
+"\">licensing@fsf.org</a>&gt; e-posta adresi üzerinden izin sorun.</strong>"
+
+#. type: Content of: <div><p>
+msgid "Copyright notice above."
+msgstr "Telif hakkı bildirimi yukarıdadır."
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "yazan Richard Stallman"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"software-free-society/\"><cite>Free Software, Free Society: The Selected "
+"Essays of Richard M. Stallman</cite></a>."
+msgstr ""
+"Bu yazı <a href=\"http://shop.fsf.org/product/free-software-free-society/"
+"\"><cite>Özgür Yazılım, Özgür Toplum: Richard M. Stallman'ın Seçilmiş "
+"Yazıları</cite></a> kitabında yayınlanmıştır."
+
+#. type: Content of: <blockquote><p>
+msgid "Media Contact: Free Software Foundation"
+msgstr "Basın İletişimi: Özgür Yazılım Vakfı"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Nonfree (proprietary) software is very often malware (designed to mistreat "
+"the user). Nonfree software is controlled by its developers, which puts them "
+"in a position of power over the users; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">that is the basic injustice</a>. The developers "
+"and manufacturers often exercise that power to the detriment of the users "
+"they ought to serve."
+msgstr ""
+"Özgür olmayan (özel mülk) yazılım genellikle kötü amaçlı yazılımdır "
+"(kullanıcıya kötü davranmak için tasarlanmıştır). Özgür olmayan yazılım, "
+"geliştiricileri tarafından kontrol edilir ve bu da onları kullanıcılar "
+"üzerinde bir iktidar kurmasına yol açar; <a href=\"/philosophy/free-software-"
+"even-more-important.html\">temel adaletsizlik budur</a>. Geliştiriciler ve "
+"üreticiler genellikle bu iktidarı, hizmet vermeleri gereken kullanıcıların "
+"zararına uygularlar."
+
+#. type: Content of: <div><div><p>
+msgid "This typically takes the form of malicious functionalities."
+msgstr "Bu genellikle kötü amaçlı işlevsellikler biçimini alır."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If you know of an example that ought to be in this page but isn't here, "
+"please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a> to inform us. Please include the URL of a trustworthy reference "
+"or two to serve as specific substantiation."
+msgstr ""
+"Bu sayfada olması gereken ancak burada olmayan bir örnek biliyorsanız lütfen "
+"bizi bilgilendirmek için <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> adresine yazın."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"https://creativecommons.org/licenses/"
+"by/4.0/deed.tr\">Creative Commons Atıf 4.0 Uluslararası Lisansı</a> altında "
+"lisanslanmıştır."
+
+#. type: Content of: <p>
+msgid "Donald and Jill Knuth"
+msgstr "Donald and Jill Knuth"
+
+#. type: Content of: <p>
+msgid "Krishna Kunchithapadam"
+msgstr "Krishna Kunchithapadam"
+
+#. type: Content of: <p>
+msgid "Terence O'Gorman"
+msgstr "Terence O'Gorman"
+
+#. type: Content of: <p>
+msgid "David Moews"
+msgstr "David Moews"
+
+#. type: Content of: <p>
+msgid "Alessandro Vesely"
+msgstr "Alessandro Vesely"
+
+#. type: Content of: <p>
+msgid "Antonio Carzaniga"
+msgstr "Antonio Carzaniga"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"#equipmentservices\" id=\"TOCequipment\">Equipment and Services</a>"
+msgstr ""
+"<a href=\"#equipmentservices\" id=\"TOCequipment\">Teçhizat ve Hizmetler</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"#patrons\" id=\"TOCpatrons\">Patrons</a>"
+msgstr "<a href=\"#patrons\" id=\"TOCpatrons\">Patronlar</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"#sustaining\" id=\"TOCsustaining\">Sustaining Contributors</a>"
+msgstr ""
+"<a href=\"#sustaining\" id=\"TOCsustaining\">Sürekli Katkıda Bulunanlar</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"#contributor\" id=\"TOCcontributor\">Contributors</a>"
+msgstr "<a href=\"#contributor\" id=\"TOCcontributor\">Katkıda Bulunanlar</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a id=\"TOCother\">Other</a>"
+msgstr "<a id=\"TOCother\">Diğer</a>"
+
+#. type: Content of: <h4>
+msgid "<a href= \"#TOCpatrons\" id=\"patrons\">Patrons</a> ($5000 or more)"
+msgstr ""
+"<a href= \"#TOCpatrons\" id=\"patrons\">Patronlar</a> ($5000 ve daha fazla)"
+
+#. type: Content of: <h4>
+msgid ""
+"<a href=\"#TOCsustaining\" id=\"sustaining\">Sustaining Contributors</a> "
+"($1000 to $4999)"
+msgstr ""
+"<a href=\"#TOCsustaining\" id=\"sustaining\">Düzenli Katkıda Bulunanlar</a> "
+"(1000$-4999$ arası)"
+
+#. type: Content of: <h4>
+msgid ""
+"<a href=\"#TOCcontributor\" id=\"contributor\">Contributors</a> ($500 to "
+"$999)"
+msgstr ""
+"<a href=\"#TOCcontributor\" id=\"contributor\">Katkıda Bulunanlar</a> ($500 "
+"to $999)"
+
+#. type: Content of: <ul><li>
+msgid "Julian Graham"
+msgstr "Julian Graham"
+
+#. type: Content of: <h4>
+msgid ""
+"<a href=\"#TOCequipment\" id=\"equipmentservices\">Equipment and Services</a>"
+msgstr ""
+"<a href=\"#TOCequipment\" id=\"equipmentservices\">Teçhizat ve Hizmetler</a>"
+
+#. type: Content of: <ul><li>
+msgid "Russell McManus"
+msgstr "Russell McManus"
+
+#. type: Content of: <p>
+msgid ""
+"If your donation isn't listed properly, isn't listed at all, or is listed "
+"when you wanted to be anonymous, please write to us and we'll correct the "
+"problem. Write to <a href=\"mailto:development@fsf.org\"> &lt;"
+"development@fsf.org&gt;</a>."
+msgstr ""
+"Eğer bağışınız doğru bir şekilde listelenmiyorsa, listelemeyi unutmuşsak "
+"veya anonim kalmak istediğiniz halde listeleniyorsa, lütfen bizimle "
+"bağlantıya geçin ve sorunu çözelim. Bize <a href=\"mailto:development@fsf.org"
+"\"> &lt;development@fsf.org&gt;</a> adresinden ulaşabilirsiniz."
+
+#. type: Content of: <ul><li>
+msgid "Inouye Satoru"
+msgstr "Inouye Satoru"
+
+#. type: Content of: <ul><li>
+msgid "Jean-Francois Blavier"
+msgstr "Jean-Francois Blavier"
