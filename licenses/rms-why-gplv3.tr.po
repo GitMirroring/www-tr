@@ -7,11 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rms-why-gplv3.html\n"
 "POT-Creation-Date: 2014-04-05 00:01+0000\n"
-<<<<<<< Updated upstream
-"PO-Revision-Date: 2020-03-10 20:44+0100\n"
-=======
 "PO-Revision-Date: 2020-03-11 18:12+0100\n"
->>>>>>> Stashed changes
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,19 +19,11 @@ msgstr ""
 
 #. type: Content of: <title>
 msgid "Why Upgrade to GPLv3 - GNU Project - Free Software Foundation"
-<<<<<<< Updated upstream
-msgstr "Neden GPLv3'e Yükseltmelisiniz - GNU Projesi - Özgür Yazılım Vakfı"
-
-#. type: Content of: <h2>
-msgid "Why Upgrade to GPLv3"
-msgstr "Neden GPLv3'e Yükseltmelisiniz"
-=======
 msgstr "Neden GPLv3'e Yükseltilmeli - GNU Projesi - Özgür Yazılım Vakfı"
 
 #. type: Content of: <h2>
 msgid "Why Upgrade to GPLv3"
 msgstr "Neden GPLv3'e Yükseltilmeli"
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid "by <strong>Richard Stallman</strong>"
@@ -51,11 +39,7 @@ msgstr ""
 "<a href=\"/licenses/gpl.html\">GNU Genel Kamu Lisansı (<abbr title=\"GNU "
 "General Public License\">GNU GPL</abbr>)'nın 3. sürümü</abbr> yayımlandı ve "
 "özgür yazılım paketlerinin GPL'nin 2. sürümünden yükseltilmesine olanak "
-<<<<<<< Updated upstream
-"sağladı. Bu yazıda lisansı yükseltmenin neden önemli olduğu açıklanmaktadır."
-=======
 "sağladı. Bu yazıda lisansı yükseltmenin neden önemli olduğu açıklanıyor."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -66,13 +50,8 @@ msgid ""
 msgstr ""
 "Her şeyden önce yükseltmenin bir tercih olduğunu belirtmemiz gerekiyor. "
 "GPL'nin 2. sürümü geçerli bir lisans olarak kalacaktır ve bazı programlar "
-<<<<<<< Updated upstream
-"GPLv2 kapsamında kalırken diğerlerinin GPLv3'e geçmesi felaket olmaz. Bu iki "
-"lisans uyumsuz olsa da, bu temel bir sorun değildir."
-=======
 "GPLv2 kapsamında kalırken diğerlerinin GPLv3'e geçmesi felaket "
 "getirmeyecektir. Bu iki lisans uyumsuz olsa da, bu esas bir sorun değildir."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -87,19 +66,11 @@ msgid ""
 msgstr ""
 "GPLv2 ve GPLv3'ün uyumsuz olduğunu söylediğimizde bunun anlamı, GPLv2 "
 "kapsamındaki bir kodu, GPLv3 kapsamındaki bir kodla birlikte tek bir "
-<<<<<<< Updated upstream
-"programda birleştirmenin yasal bir yolu olmadığıdır. Bunun nedeni, hem GPLv2 "
-"hem de GPLv3'ün copyleft lisansları olmasıdır: Her biri, &ldquo;Bu lisans "
-"kapsamındaki kodu daha büyük bir programa dâhil ederseniz daha büyük "
-"programın da bu lisans kapsamında olması gerekir.&rdquo; diyor. Bunları "
-"uyumlu hâle getirmenin bir yolu yoktur. GPLv3'e bir GPLv2 uyumluluk maddesi "
-=======
 "programda birleştirmenin yasal bir yolunun olmadığıdır. Bunun nedeni, hem "
 "GPLv2 hem de GPLv3'ün copyleft lisansları olmasıdır: Her biri, &ldquo;Bu "
 "lisans kapsamındaki kodu daha büyük bir programa dâhil ederseniz daha büyük "
 "programın da bu lisans kapsamında olması gerekir.&rdquo; der. Bunları uyumlu "
 "hâle getirmenin bir yolu yoktur. GPLv3'e bir GPLv2 uyumluluk maddesi "
->>>>>>> Stashed changes
 "ekleyebiliriz ancak bu yeterli olmayacaktır, çünkü GPLv2'nin de benzer bir "
 "maddeye ihtiyacı olacaktır."
 
@@ -128,13 +99,8 @@ msgid ""
 "Keeping a program under GPLv2 won't create problems.  The reason to migrate "
 "is because of the existing problems that GPLv3 will address."
 msgstr ""
-<<<<<<< Updated upstream
-"Bir programı GPLv2 altında tutmak sorun değildir. Taşınmanın nedeni, "
-"GPLv3'ün çözdüğü mevcut sorunlar olacaktır."
-=======
 "Bir programı GPLv2 altında tutmak sorun değildir. Geçişin nedeni, GPLv3'ün "
 "mevcut sorunlara çözüm getirmesi olacaktır."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -166,16 +132,6 @@ msgid ""
 "isn't freedom.  Freedom means <em>you</em> control what your software does, "
 "not merely that you can beg or threaten someone else who decides for you."
 msgstr ""
-<<<<<<< Updated upstream
-"Bazıları, serbest bir pazardaki aletler arasındaki rekabetin kötü "
-"özellikleri düşük düzeyde tutmak için yeterli olması gerektiğini savunuyor. "
-"Belki de tek başına rekabet; &ldquo;Her salı 13.00 ile 17.00 arasında "
-"kapanmalıdır.&rdquo; gibi keyfî, amaçsız, hatalı özelliklerden kaçınacaktır "
-"ancak yine de efendilerin seçimi özgürlük değildir. Özgürlük yazılımınızın "
-"ne yaptığını <em>sizin</em> denetlediğiniz anlamına gelir, sırf sizin için "
-"karar vermesi için başka birine yalvarabilmeniz veya gözdağı verebilmeniz "
-"anlamına gelmez."
-=======
 "Bazıları, serbest bir piyasadaki aletler arasındaki rekabetin kötü "
 "özellikleri düşük düzeyde tutmak için yeterli olması gerektiğini savunuyor. "
 "Belki de tek başına rekabet; &ldquo;Her salı 13.00 ile 17.00 arasında "
@@ -184,7 +140,6 @@ msgstr ""
 "yazılımınızın ne yaptığını <em>sizin</em> denetlemenizdir, sırf sizin için "
 "karar vermek üzere başka birine yalvarmanız veya gözdağı vermeniz anlamına "
 "gelmez."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -200,23 +155,14 @@ msgid ""
 "products you can choose from, they all have equivalent digital handcuffs."
 msgstr ""
 "Çok önemli Dijital Kısıtlamalar Yönetimi (DRM) (bilgisayarınızdaki verileri "
-<<<<<<< Updated upstream
-"kullanımınızı kısıtlamak için tasarlanmış çok kötü özellikler) alanında "
-"rekabetin bir yardımı yoktur çünkü amacına uygun rekabet yasaktır. Dijital "
-=======
 "kullanımınızı kısıtlamak için tasarlanmış nahoş özellikler) alanında "
 "rekabetin bir yararı yoktur çünkü amacına uygun rekabet yasaktır. Dijital "
->>>>>>> Stashed changes
 "Binyıl Telif Hakkı Yasası ve benzeri yasalar uyarınca, ABD ve diğer birçok "
 "ülkede, DVD oynatıcısının resmî kurallarına göre kullanıcıyı kısıtlamadığı "
 "sürece DVD oynatıcıları dağıtmak yasalara aykırıdır (Web sitesi <a href="
 "\"http://www.dvdcca.org/\">http://www.dvdcca.org/</a> ancak kurallar burada "
 "yayımlanmış gibi görünmüyor.). Halk, DRM olmayan oynatıcıları satın alarak "
-<<<<<<< Updated upstream
-"DRM'yi reddedemez çünkü böyle oynatıcılar mevcut değildir. Hangi ürünü "
-=======
 "DRM'yi reddedemez çünkü böyle oynatıcılar mevcut değiller. Hangi ürünü "
->>>>>>> Stashed changes
 "seçerseniz seçin, hepsinde eş değer bir dijital kelepçe bulunur."
 
 #. type: Content of: <p>
@@ -231,11 +177,7 @@ msgstr ""
 "GPLv3, kelepçeleri çıkararak özgür olmanıza olanak sağlar. DRM'yi veya "
 "herhangi bir özelliği yasaklamaz. Bir programa ekleyebileceğiniz veya "
 "programdan kaldırabileceğiniz önemli işlevsellikler için sınırlama getirmez. "
-<<<<<<< Updated upstream
-"Aksine kopyanızın dağıtıcısının onları eklemesi gibi kötü özellikleri "
-=======
 "Aksine kopyanızın dağıtıcısının onları eklemesi gibi nahoş özellikleri "
->>>>>>> Stashed changes
 "kaldırmak için özgür olmanızı sağlar. Tivoizasyon onların sizi bu "
 "özgürlükten mahrum etmesinin yoludur; GPLv3, özgürlüğünüzü korumak için "
 "tivoizasyonu yasaklıyor."
@@ -259,11 +201,7 @@ msgid ""
 "pact to try to achieve that.  The deal offers rather limited protection from "
 "Microsoft patents to Novell's customers."
 msgstr ""
-<<<<<<< Updated upstream
-"GPLv3'ün direndiği bir başka tehdit de Novell-Microsoft antlaşması gibi "
-=======
 "GPLv3'ün karşı koyduğu bir başka tehdit de Novell-Microsoft antlaşması gibi "
->>>>>>> Stashed changes
 "patent anlaşmalarıdır. Microsoft, kullanıcıların GNU/Linux'u çalıştırma "
 "ayrıcalığı için Microsoft'a ödeme yapmasını sağlamak amacıyla binlerce "
 "patentini kullanmak istiyor ve bu antlaşmayı buna erişebilmek için yaptı. "
@@ -278,11 +216,7 @@ msgid ""
 "protection, programs need to use GPLv3."
 msgstr ""
 "Microsoft; Novell-Microsoft anlaşmasında birkaç hata yaptı ve GPLv3 bunları "
-<<<<<<< Updated upstream
-"Microsoft'a karşı kullanmak için tasarlandı ve bu kıstlı patent korumasını "
-=======
 "Microsoft'a karşı kullanmak için tasarlandı ve bu kısıtlı patent korumasını "
->>>>>>> Stashed changes
 "tüm topluma genişletti. Bu korumadan yararlanmak için programların GPLv3 "
 "kullanması gerekiyor."
 
@@ -294,21 +228,12 @@ msgid ""
 "Microsoft's future attempts to make redistributors collect Microsoft "
 "royalties from the program's users."
 msgstr ""
-<<<<<<< Updated upstream
-"Microsoft'un avukatları alık değil ve bir dahaki sefere bu hatalardan "
-"kaçınmayı başarabilirler. GPLv3 bu nedenle &ldquo;bir dahaki "
-"seferlerinin&rdquo; olmayacağını söylüyor. GPL'nin 3. sürümü altında bir "
-"program yayımlamak, programı Microsoft'un gelecekteki yeniden dağıtıcıların "
-"program kullanıcılarından Microsoft telif hakkı ücretleri toplamalarını "
-"sağlama girişimlerine karşı korur."
-=======
 "Microsoft'un avukatları aptal değiller ve bir dahaki sefere bu hatalardan "
 "kaçınmayı başarabilirler. GPLv3 bu nedenle &ldquo;bir dahaki "
 "seferlerinin&rdquo; olmayacağını söylüyor. Bir programı GPL'nin 3. sürümü "
 "altında yayımlamak, Microsoft'un gelecekteki yeniden dağıtıcıların programın "
 "kullanıcılarından Microsoft telif hakkı ücretleri toplamalarını sağlama "
 "girişimlerine karşı programı korur."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -321,13 +246,8 @@ msgstr ""
 "GPLv3 ayrıca kullanıcılara programın katkıcıları ve yeniden dağıtıcılarına "
 "karşı belirgin bir patent koruması sağlar. GPLv2 ile kullanıcılar, "
 "kendilerine bir kopya sağlayan şirketin patent ihlali için kopyaları yeniden "
-<<<<<<< Updated upstream
-"dağıttıkları kişilere dava açmayacağından emin olmak için dolaylı olarak "
-"anlaşılan bir patent lisansına güvenirler."
-=======
 "dağıttıkları kişilere dava açmayacağından emin olmak için örtük bir patent "
 "lisansına güvenirler."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -349,19 +269,11 @@ msgstr ""
 "vazgeçirmeliyiz, çünkü yazılım patentleri olmamalıdır. Yazılım patentleri; "
 "tüm yazılım geliştiricilerini, daha önce hiç duymadıkları şirketler ve "
 "alandaki tüm büyük şirketler tarafından dava edilme tehlikesine sokan "
-<<<<<<< Updated upstream
-"tehlikeli ve saçma bir sistemdir. Büyük programlar tipik olarak binlerce "
-"fikri birleştirir, bu yüzden yüzlerce patentin fikirlerini uygulamaya "
-"koymaları şaşırtıcı değildir. Büyük şirketler; binlerce patent toplar ve bu "
-"patentleri daha küçük geliştiricilere zorbalık yapmak için kullanır. "
-"Patentler özgür yazılım geliştirmeyi zaten engelliyor."
-=======
 "tehlikeli ve saçma bir sistemdir. Büyük programlar genellikle binlerce fikri "
 "birleştirir, bu yüzden yüzlerce patentin fikirlerini uygulamaya koymaları "
 "şaşırtıcı değildir. Büyük şirketler; binlerce patent toplar ve bu patentleri "
 "daha küçük geliştiricilere zorbalık yapmak için kullanır. Zaten patentler "
 "özgür yazılım geliştirmeyi engelliyorlar."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -376,13 +288,8 @@ msgstr ""
 "Yazılım geliştirmeyi güvenli hâle getirmenin tek yolu yazılım patentlerini "
 "kaldırmaktır ve bir gün bunu başarmayı amaçlıyoruz. Ancak bunu bir yazılım "
 "lisansı ile yapamayız. Özgür olsun veya olmasın, herhangi bir program "
-<<<<<<< Updated upstream
-"ilgisiz bir tarafın elinde bulunan bir yazılım patenti tarafından "
-"katledilebilir ve programın lisansı bunu engelleyemez. Yalnızca mahkeme "
-=======
 "ilgisiz bir tarafın elinde bulunan bir yazılım patenti tarafından yok "
 "edilebilir ve programın lisansı bunu engelleyemez. Yalnızca mahkeme "
->>>>>>> Stashed changes
 "kararları veya patent yasasındaki değişiklikler yazılım geliştirmeyi "
 "patentlerden koruyabilir. Bunu GPLv3 ile yapmaya çalışırsak, başarısız "
 "oluruz."
@@ -398,14 +305,6 @@ msgid ""
 "patent holders to do this."
 msgstr ""
 "Bu nedenle GPLv3 tehlikeyi sınırlandırmayı ve yönlendirmeyi amaçlar. "
-<<<<<<< Updated upstream
-"Özellikle özgür yazılımı ölümden daha kötü bir kaderden, patentler yoluyla "
-"etkin bir şekilde özel mülk hâle getirilmekten kurtarmaya çalıştık. GPLv3'ün "
-"belirgin patent lisansı, kullanıcılara dört özgürlüğü vermek amacıyla GPL'yi "
-"kullanan şirketlerin geri dönüp bazı kullanıcılara &ldquo;Bu, sizi kapsamaz."
-"&rdquo; demek üzere patentlerini kullanamayacağından emin olur. Ayrıca bunu "
-"yapmak için diğer patent sahipleriyle dolap çevirmelerini de engeller."
-=======
 "Özellikle özgür yazılımı yokoluştan daha kötü bir kaderden, patentler "
 "yoluyla etkin bir şekilde özel mülk hâle getirilmekten kurtarmaya çalıştık. "
 "GPLv3'ün belirgin patent lisansı, kullanıcılara dört özgürlüğü vermek "
@@ -413,7 +312,6 @@ msgstr ""
 "Bu, sizi kapsamaz.&rdquo; demek için patentlerini kullanamayacaklarından "
 "emin olur. Ayrıca diğer patent sahipleriyle bu yapmak için dolap "
 "çevirmelerini de engeller."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -423,11 +321,7 @@ msgid ""
 msgstr ""
 "GPLv3'ün diğer avantajları arasında daha iyi uluslararasılaştırma, daha "
 "nazik sonlandırma, BitTorrent için destek ve Apache lisansı ile uyumluluk "
-<<<<<<< Updated upstream
-"bulunmaktadır. Bütün bunlar yükseltmek için bir yığın nedendir."
-=======
 "bulunmaktadır. Sonuç olarak yükseltmek için bir yığın neden var."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -436,17 +330,10 @@ msgid ""
 "important to make sure that programs will have no trouble upgrading to GPLv4 "
 "if and when we write one."
 msgstr ""
-<<<<<<< Updated upstream
-"GPLv3 yayımlandıktan sonra değişimin durdurulması olası değildir. "
-"Kullanıcıların özgürlüğüne yönelik yeni tehditler ortaya çıkarsa GPL'nin 4. "
-"sürümünü geliştirmemiz gerekecek. Eğer bir tane yazarsak, programların "
-"GPLv4'e yükseltmede sorun yaşamayacağından emin olmak önemlidir."
-=======
 "GPLv3 yayımlandıktan sonra son verilmesi mümkün değildir. Kullanıcıların "
 "özgürlüğüne yönelik yeni tehditler ortaya çıkarsa GPL'nin 4. sürümünü "
 "geliştirmemiz gerekecek. Eğer bir tane yazarsak, programların GPLv4'e "
 "yükseltmede sorun yaşamayacağından emin olmak önemlidir."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -458,21 +345,12 @@ msgid ""
 "One way or another, programs should provide this flexibility for future GPL "
 "versions."
 msgstr ""
-<<<<<<< Updated upstream
-"Bunu yapmanın bir yolu, &ldquo;GPL'nin 3. sürümü veya daha sonraki herhangi "
-"bir sürümü (GPL version 3 or any later version)&rdquo; altında bir program "
-"yayımlamaktır. Başka bir yol, bir programa katkıda bulunanların gelecekteki "
-"GPL sürümlerine yükseltmeye karar verebilecek bir vekil beyan etmesidir. "
-"Üçüncü yol, tüm katkıcıların lisans sürümünü yükseltebilecek bir belirlenmiş "
-"telif hakkı sahibine telif hakkı atamalarıdır. Öyle ya da böyle programlar "
-=======
 "Bunu yapmanın bir yolu, programı &ldquo;GPL'nin 3. sürümü veya daha sonraki "
 "herhangi bir sürümü (GPL version 3 or any later version)&rdquo; altında "
 "yayımlamaktır. Başka bir yol, programa katkıda bulunanların gelecekteki GPL "
 "sürümlerine yükseltmeye karar verebilecek bir vekil beyan etmesidir. Üçüncü "
 "yol, tüm katkıcıların lisans sürümünü yükseltebilecek bir belirlenmiş telif "
 "hakkı sahibine telif hakkı atamalarıdır. Öyle ya da böyle programlar "
->>>>>>> Stashed changes
 "gelecekteki GPL sürümleri için bu esnekliği sağlamalıdır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -496,29 +374,15 @@ msgstr ""
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
-<<<<<<< Updated upstream
-#
-=======
->>>>>>> Stashed changes
 #.         We work hard and do our best to provide accurate, good quality
 #.         translations.  However, we are not exempt from imperfection.
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
-<<<<<<< Updated upstream
-#
-#.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#
-#.         <p>For information on coordinating and submitting translations of
-#.         our web pages, see <a
-#.         href="/server/standards/README.translations.html">Translations
-#.         README</a>.
-=======
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
 #.         <p>For information on coordinating and submitting translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
->>>>>>> Stashed changes
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"

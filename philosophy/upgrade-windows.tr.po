@@ -7,11 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: upgrade-windows.html\n"
 "POT-Creation-Date: 2019-01-29 00:26+0000\n"
-<<<<<<< Updated upstream
-"PO-Revision-Date: 2020-03-10 18:48+0100\n"
-=======
 "PO-Revision-Date: 2020-03-11 17:57+0100\n"
->>>>>>> Stashed changes
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -48,19 +44,11 @@ msgid ""
 msgstr ""
 "Bilişim alanında, kullanıcıları &ldquo;güvenlik&rdquo; düzeltmelerini almak "
 "için Windows'un daha yeni sürümlerine (ve diğer özgür olmayan programlara) "
-<<<<<<< Updated upstream
-"&ldquo;yükseltmeye&rdquo; zorlamak yaygın bir uygulamadır. Bu kullanım, bu "
-"programların kullanıcıya iyi davranmak üzere tasarlanmış dürüst bir yazılım "
-"olduğu varsayımına dayanmaktadır. Bunun böyle olmasını beklemediğimiz gibi, "
-"Windows için durumun böyle olmadığını da biliyoruz. Bu nedenle farklı bir "
-"öneri sunuyoruz."
-=======
 "&ldquo;yükseltmeye&rdquo; zorlamak yaygın bir uygulamadır. Bu uygulama, bu "
 "programların kullanıcıya iyi davranmak üzere tasarlanmış dürüst bir yazılım "
 "olduğu varsayımına dayanmaktadır. Bunun böyle olmasını beklemediğimiz gibi, "
 "Windows için durumun hiç de böyle olmadığını biliyoruz. Bu nedenle farklı "
 "bir öneri sunuyoruz."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -69,17 +57,10 @@ msgid ""
 "&ldquo;<a href=\"/proprietary/malware-microsoft.html\">Microsoft's Software "
 "is Malware</a>.&rdquo;"
 msgstr ""
-<<<<<<< Updated upstream
-"Aslında Windows'un daha yeni sürümleri, yayımlanmadan önce açıklar içeriyor. "
-"Çeşitli kötü amaçlı işlevselliklerle tasarlanmıştır (Bkz. &ldquo;<a href=\"/"
-"proprietary/malware-microsoft.html\">Microsoft'un Yazılımı Kötü Amaçlı "
-"Yazılımdır</a>&rdquo;)."
-=======
 "Aslında Windows'un yeni sürümleri yayımlanmadan önce açıklar içeriyor. "
 "Çeşitli kötü amaçlı işlevselliklerle tasarlanmışlardır (Bkz. &ldquo;<a href="
 "\"/proprietary/malware-microsoft.html\">Microsoft'un Yazılımı Kötü Amaçlı "
 "Yazılımdır</a>).&rdquo;"
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -90,17 +71,10 @@ msgid ""
 "want to encourage that!"
 msgstr ""
 "Daha yeni Windows sürümleri ek zararlı işlevsellikler içerir; Microsoft'a "
-<<<<<<< Updated upstream
-"kullanıcılar üzerinde çok fazla iktidar sağlar. Bu, daha yeni bir sürüme "
-"geçmemenin bir nedenidir. Bazı kullanıcılar için daha yeni bir sürüme geçmek "
-"Microsoft'u para ile ödüllendirmeyi ve hatta yeni bir bilgisayar satın "
-"almayı gerektirebilir. Bunu pek teşvik etmek istemiyoruz!"
-=======
 "kullanıcılar üzerinde kullanabileceği çok fazla iktidar sağlar. Bu, daha "
 "yeni bir sürüme geçmemenin bir nedenidir. Bazı kullanıcılar için daha yeni "
 "bir sürüme geçmek Microsoft'u para ile ödüllendirmeyi ve hatta yeni bir "
 "bilgisayar satın almayı gerektirebilir. Bunu teşvik etmeyi pek istemiyoruz!"
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -110,11 +84,7 @@ msgid ""
 msgstr ""
 "Bu nedenle kullanıcıları daha yeni sürümlere geçmeye teşvik ederek "
 "Microsoft'u desteklemeyi reddediyoruz; Windows'un istemeden yapılan "
-<<<<<<< Updated upstream
-"kusurlarının, kasıtlı yapılanlardan daha önemli saymıyoruz."
-=======
 "kusurlarının, kasıtlı yapılanlardan daha önemli olduğunu düşünmüyoruz."
->>>>>>> Stashed changes
 
 #. type: Content of: <p>
 msgid ""
@@ -135,19 +105,11 @@ msgid ""
 msgstr ""
 "Windows'un herhangi bir sürümünde (veya GNU benzeri olmayan herhangi bir "
 "sistemde) GNU paketlerini desteklemek, GNU Projesi'nin temel misyonunun bir "
-<<<<<<< Updated upstream
-"parçası değildir. Sloganımız, &ldquo;En iyi GNU/Linux'ta çalışır&rdquo;. Bu "
-"desteği sürdürmek isteyen kullanıcılarla iş birliği yapıyoruz, çünkü zor "
-"olmadığında iş birliği de yapabiliriz. Bunu yapmayı sürdürme sorumluluğumuz "
-"yok ancak uygulanabilir ve bizi geride tutmadığı sürece durmak için hiçbir "
-"nedenimiz yok."
-=======
 "parçası değildir. Sloganımız, &ldquo;En iyi GNU/Linux'ta çalışır&rdquo; "
 "şeklindedir. Bu desteği sürdürmek isteyen kullanıcılarla iş birliği "
 "yapıyoruz, çünkü zor olmadığında iş birliği de yapabiliriz. Bunu yapmayı "
 "sürdürme sorumluluğumuz yok ancak olanaklı olduğu ve bizi durdurmadığı "
 "sürece durmak için hiçbir nedenimiz yok."
->>>>>>> Stashed changes
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -170,29 +132,15 @@ msgstr ""
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
-<<<<<<< Updated upstream
-#
-=======
->>>>>>> Stashed changes
 #.         We work hard and do our best to provide accurate, good quality
 #.         translations.  However, we are not exempt from imperfection.
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
-<<<<<<< Updated upstream
-#
-#.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#
-#.         <p>For information on coordinating and submitting translations of
-#.         our web pages, see <a
-#.         href="/server/standards/README.translations.html">Translations
-#.         README</a>.
-=======
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
 #.         <p>For information on coordinating and submitting translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
->>>>>>> Stashed changes
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
