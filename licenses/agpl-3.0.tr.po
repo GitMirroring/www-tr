@@ -1,0 +1,157 @@
+# Turkish translation of https://www.gnu.org/licenses/agpl-3.0.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: agpl-3.0.html\n"
+"POT-Creation-Date: 2016-08-06 22:55+0000\n"
+"PO-Revision-Date: 2020-03-29 21:03+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid ""
+"GNU Affero General Public License - GNU Project - Free Software Foundation"
+msgstr "GNU Affero Genel Kamu Lisansı - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "GNU Affero General Public License"
+msgstr "GNU Affero Genel Kamu Lisansı"
+
+#. type: Attribute 'alt' of: <img>
+msgid "[AGPLv3 Logo]"
+msgstr "[AGPLv3 Logosu]"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/licenses/why-affero-gpl.html\">Why the Affero GPL</a>"
+msgstr "<a href=\"/licenses/why-affero-gpl.html\">Neden Affero GPL</a>"
+
+#. type: Content of: <ul><li>
+msgid "<a href=\"/licenses/gpl-faq.html\">Frequently Asked Questions</a>"
+msgstr "<a href=\"/licenses/gpl-faq.html\">Sıkça Sorulan Sorular</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/gpl-howto.html\">How to use GNU licenses for your own "
+"software</a>"
+msgstr ""
+"<a href=\"/licenses/gpl-howto.html\">GNU lisanslarını kendi yazılımınız için "
+"nasıl kullanabilirsiniz</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/translations.html\">Translations of the GNU AGPL</a>"
+msgstr "<a href=\"/licenses/translations.html\">GNU AGPL'nin Çevirileri</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"The GNU AGPL in other formats: <a href=\"/licenses/agpl-3.0.txt\">plain "
+"text</a>, <a href=\"/licenses/agpl-3.0.dbk\">Docbook</a>, <a href=\"/"
+"licenses/agpl-3.0.tex\">LaTeX</a>, <a href=\"/licenses/agpl-3.0-standalone."
+"html\">standalone HTML</a>, <a href=\"/licenses/agpl-3.0.texi\">Texinfo</a>, "
+"<a href=\"/licenses/agpl-3.0.md\">Markdown</a>, <a href=\"/licenses/agpl-3.0."
+"odt\">ODF</a>, <a href=\"/licenses/agpl-3.0.rtf\">RTF</a>"
+msgstr ""
+"Diğer biçimlerde GNU AGPL: <a href=\"/licenses/agpl-3.0.txt\">düz metin</a>, "
+"<a href=\"/licenses/agpl-3.0.dbk\">Docbook</a>, <a href=\"/licenses/agpl-3.0."
+"tex\">LaTeX</a>, <a href=\"/licenses/agpl-3.0-standalone.html\">müstakil "
+"HTML</a>, <a href=\"/licenses/agpl-3.0.texi\">Texinfo</a>, <a href=\"/"
+"licenses/agpl-3.0.md\">Markdown</a>, <a href=\"/licenses/agpl-3.0.odt\">ODF</"
+"a>, <a href=\"/licenses/agpl-3.0.rtf\">RTF</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/graphics/license-logos.html\">GNU AGPL logos</a> to use with your "
+"project"
+msgstr ""
+"Projenizde kullanmanız için <a href=\"/graphics/license-logos.html\">GNU "
+"AGPL logoları</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/gpl-violation.html\">What to do if you see a possible "
+"GNU AGPL violation</a>"
+msgstr ""
+"<a href=\"/licenses/gpl-violation.html\">Olası bir GNU AGPL ihlali "
+"görürseniz ne yapmalısınız</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright notice above."
+msgstr "Telif hakkı bildirimi yukarıdadır."
+
+#. type: Content of: <div><p>
+msgid ""
+"Everyone is permitted to copy and distribute verbatim copies of this license "
+"document, but changing it is not allowed."
+msgstr ""
+"Herkes bu lisans belgesinin tıpkı kopyalarını kopyalama ve dağıtma hakkında "
+"sahiptir ancak değiştirilemez."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

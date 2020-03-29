@@ -1,0 +1,248 @@
+# Turkish translation of http://www.gnu.org/licenses/why-affero-gpl.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: why-affero-gpl.html\n"
+"POT-Creation-Date: 2015-05-10 22:25+0000\n"
+"PO-Revision-Date: 2020-03-29 20:26+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: tr\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "Why the GNU Affero GPL - GNU Project - Free Software Foundation"
+msgstr "Neden GNU Affero GPL - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Why the Affero GPL"
+msgstr "Neden Affero GPL"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Affero General Public License is a modified version of the ordinary "
+"GNU GPL version 3.  It has one added requirement: if you run a modified "
+"program on a server and let other users communicate with it there, your "
+"server must also allow them to download the source code corresponding to the "
+"modified version running there."
+msgstr ""
+"GNU Affero Genel Kamu Lisansı, normal GNU GPL'nin 3. sürümünün değiştirilmiş "
+"bir sürümüdür. Ek bir zorunluluğu vardır: Bir sunucuda değiştirilmiş bir "
+"program çalıştırırsanız ve diğer kullanıcıların onunla orada iletişim "
+"kurmasına izin verirseniz sunucunuzun da üstünde çalışan değiştirilmiş "
+"sürüme karşılık gelen kaynak kodu indirmelerine izin vermesi gerekir."
+
+#. type: Content of: <p>
+msgid ""
+"The purpose of the GNU Affero GPL is to prevent a problem that affects "
+"developers of free programs that are often used on servers."
+msgstr ""
+"GNU Affero GPL'nin amacı, sunucularda sıklıkla kullanılan özgür program "
+"geliştiricilerini etkileyen bir sorunu önlemektir."
+
+#. type: Content of: <p>
+msgid ""
+"Suppose you develop and release a free program under the ordinary GNU GPL.  "
+"If developer D modifies the program and releases it, the GPL requires him to "
+"distribute his version under the GPL too.  Thus, if you get a copy of his "
+"version, you are free to incorporate some or all of his changes into your "
+"own version."
+msgstr ""
+"Normal GNU GPL altında özgür bir program geliştirdiğinizi ve yayımladığınızı "
+"varsayalım. D geliştiricisi programı değiştirir ve yayımlarsa, GPL kendi "
+"sürümünü de GPL altında dağıtmasını ister. Böylece onun sürümünün bir "
+"kopyasını alırsanız değişikliklerinin bir kısmını veya tamamını kendi "
+"sürümünüze dâhil etmekte özgürsünüz."
+
+#. type: Content of: <p>
+msgid ""
+"But suppose the program is mainly useful on servers.  When D modifies the "
+"program, he might very likely run it on his own server and never release "
+"copies.  Then you would never get a copy of the source code of his version, "
+"so you would never have the chance to include his changes in your version.  "
+"You may not like that outcome."
+msgstr ""
+"Ancak programın çoğunlukla sunucularda yararlı olduğunu varsayalım. D; "
+"programı değiştirdiğinde büyük olasılıkla kendi sunucusunda çalıştırabilir "
+"ve hiçbir zaman kopyaları yayımlamayabilir. O zaman asla onun sürümünün "
+"kaynak kodunun bir kopyasını alamazsınız, bu yüzden onun değişikliklerini "
+"sürümünüze dâhil etme şansınız olmaz. Bu sonucu beğenmeyebilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"Using the GNU Affero GPL avoids that outcome.  If D runs his version on a "
+"server that everyone can use, you too can use it.  Assuming he has followed "
+"the license requirement to let the server's users download the source code "
+"of his version, you can do so, and then you can incorporate his changes into "
+"your version.  (If he hasn't followed it, you have your lawyer complain to "
+"him.)"
+msgstr ""
+"GNU Affero GPL kullanmak bu sonucu önler. D, sürümünü herkesin "
+"kullanabileceği bir sunucuda çalıştırıyorsa siz de kullanabilirsiniz. Onun "
+"sürümünün kaynak kodunu sunucunun kullanıcıları tarafından indirilmesine "
+"izin vermek için lisans zorunluluğuna onun uyduğunu varsayarsak bunu "
+"yapabilir ve daha sonra onun değişikliklerini sürümünüze dâhil "
+"edebilirsiniz. (Eğer buna uymuyorsa avukatınız şikayet etsin.)"
+
+#. type: Content of: <p>
+msgid ""
+"Both the ordinary GNU GPL, version 3, and the GNU Affero GPL have text "
+"allowing you to link together modules under these two licenses in one "
+"program."
+msgstr ""
+"Hem normal GNU GPL, sürüm 3, hem de GNU Affero GPL; bu iki lisans altındaki "
+"modülleri tek bir programda birbirine bağlamanızı sağlayan bir metne "
+"sahiptir."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Affero GPL does not address the problem of <a href=\"/philosophy/who-"
+"does-that-server-really-serve.html\"> Service as a Software Substitute "
+"(SaaSS)</a>."
+msgstr ""
+"GNU Affero GPL, <a href=\"/philosophy/who-does-that-server-really-serve.html"
+"\">Yazılım Yerine Hizmet (<abbr title=\" Service as a Software Substitute"
+"\">SaaSS</abbr>)</a> sorununu ele almaz."
+
+#. type: Content of: <p>
+msgid ""
+"SaaSS means that users use someone else's web server to do their own "
+"computing.  This requires them to send their data to the server, which does "
+"their computing for them and sends the results back to them.  SaaSS is an "
+"injustice because the users cannot control their computing when it's done "
+"that way."
+msgstr ""
+"SaaSS, kullanıcıların kendi bilişimlerini gerçekleştirmek için başka birinin "
+"web sunucusunu kullandıkları anlamına gelir. Bu; verilerini sunucuya "
+"göndermelerini gerektirir, bu sunucu da bilişim işlemlerini onlar için "
+"gerçekleştirir ve sonuçları onlara geri gönderir. SaaSS bir haksızlıktır "
+"çünkü kullanıcılar bu şekilde yapıldığında bilişimlerini denetleyemezler."
+
+#. type: Content of: <p>
+msgid ""
+"If some program on this server is released under the GNU Affero GPL, the "
+"server is required to offer the users the corresponding source of that "
+"program.  That is good, but having this source code does not give them "
+"control over the computing done on that server.  It also does not tell them "
+"what other software may be running on that server, examining or changing "
+"their data in other ways."
+msgstr ""
+"Bu sunucudaki bazı programlar GNU Affero GPL altında yayımlanırsa sunucu "
+"kullanıcılara bu programın ilgili kaynağını sunmalıdır. Bu iyi ama bu kaynak "
+"koduna sahip olmak onlara bu sunucuda yapılan bilişim üzerinde denetim "
+"vermez. Ayrıca bu sunucuda çalışıyorsa başka hangi yazılımların çalıştığını, "
+"verilerini başka şekillerde inceleyebileceğini veya değiştirebileceğini de "
+"söylemez."
+
+#. type: Content of: <p>
+msgid ""
+"We don't see any sensible way to address the SaaSS problem with license "
+"conditions on particular programs.  Even to write a legal condition to "
+"distinguish between SaaSS use and non-SaaSS use would be a challenge, and if "
+"we had that, we don't see anything that the program's license might require "
+"in the SaaSS case that would correct the inherent wrong of SaaSS.  Thus, our "
+"solution to the problem of SaaSS is simple: refuse to use services that are "
+"SaaSS."
+msgstr ""
+"Belirli programlardaki lisans koşullarıyla SaaSS sorununu ele almanın "
+"mantıklı bir yolunu görmüyoruz. SaaSS kullanımıyla SaaSS olmayan kullanım "
+"arasında ayrım yapmak için yasal bir koşul yazmak bile zor olabilir ve eğer "
+"buna sahip olsaydık SaaSS durumunda program lisansının gerektirebileceği, "
+"SaaSS'ın doğasında yanlış olanı düzelten hiçbir şey görmüyoruz. Bu nedenle "
+"SaaSS sorununa çözümümüz basit: SaaSS hizmetlerini kullanmayı reddedin."
+
+#. type: Content of: <p>
+msgid ""
+"If a program is meant specifically and only for SaaSS, you shouldn't write "
+"it.  But many programs are useful for a variety of kinds of services, "
+"including some that are SaaSS and some that are not.  It's useful to write "
+"and release these programs so people can set up non-SaaSS services with "
+"them, and good to release them under the AGPL."
+msgstr ""
+"Bir program tam olarak ve yalnızca SaaSS için tasarlanmışsa yazmamalısınız. "
+"Ancak SaaSS ve SaaSS olmayan bazıları dâhil olmak üzere birçok program "
+"çeşitli hizmetler için yararlıdır. Bu programları yazmak ve yayımlamak "
+"yararlıdır, böylece insanlar onlarla SaaSS olmayan hizmetler kurabilir ve "
+"onları AGPL altında yayımlamak iyidir."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2010, 2013, 2014, 2015 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2010, 2013, 2014, 2015 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
