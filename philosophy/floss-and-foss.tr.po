@@ -1,0 +1,209 @@
+# Turkish translation of https://www.gnu.org/philosophy/floss-and-foss.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalayci, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: floss-and-foss.html\n"
+"POT-Creation-Date: 2020-04-01 19:00+0200\n"
+"PO-Revision-Date: 2020-04-01 19:49+0200\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
+
+#. type: Content of: <title>
+msgid "FLOSS and FOSS - GNU Project - Free Software Foundation"
+msgstr "ÖLAKY ve ÖAKY - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "FLOSS and FOSS"
+msgstr "ÖLAKY ve ÖAKY"
+
+#. type: Content of: <p>
+msgid "by <strong>Richard Stallman</strong>"
+msgstr "yazan <strong>Richard Stallman</strong>"
+
+#. type: Content of: <p>
+msgid ""
+"The two political camps in the free software community are the free software "
+"movement and open source.  The free software movement is a campaign for <a "
+"href=\"/philosophy/free-software-even-more-important.html\"> computer users' "
+"freedom</a>; we say that a nonfree program is an injustice to its users.  "
+"The open source camp declines to see the issue as a matter of justice to the "
+"users, and bases its arguments on <a href=\"/philosophy/open-source-misses-"
+"the-point.html\"> practical benefits only</a>."
+msgstr ""
+"Özgür yazılım topluluğundaki iki politik taraf özgür yazılım hareketi ve "
+"açık kaynaktır. Özgür yazılım hareketi <a href=\"/philosophy/free-software-"
+"even-more-important.html\">bilgisayar kullanıcılarının özgürlüğü</a> için "
+"bir kampanyadır; özgür olmayan bir programın kullanıcıları için adaletsizlik "
+"olduğunu söylüyoruz. Açık kaynak tarafı, bu sorunu kullanıcılar açısından "
+"bir adalet hususu olarak görmekten kaçınıyor ve savlarını <a href=\"/"
+"philosophy/open-source-misses-the-point.html\">salt pratik yararlara</a> "
+"dayandırıyor."
+
+#. type: Content of: <p>
+msgid ""
+"To emphasize that &ldquo;free software&rdquo; refers to freedom and not to "
+"price, we sometimes write or say &ldquo;free (libre)  software,&rdquo; "
+"adding the French or Spanish word that means free in the sense of freedom.  "
+"In some contexts, it works to use just &ldquo;libre software.&rdquo;"
+msgstr ""
+"İngilizcede &ldquo;özgür yazılımın&rdquo; fiyatı değil özgürlüğü "
+"kastettiğini vurgulamak için bazen &ldquo;free (libre) software&rdquo; "
+"şeklinde yazıyoruz, Fransızca veya İspanyolca özgürlük açısından özgür "
+"anlamına gelen kelimeyi ekliyoruz. Bazı bağlamlarda sadece &ldquo;libre "
+"software&rdquo; kullanmak da işe yarar."
+
+#. type: Content of: <p>
+msgid ""
+"A researcher studying practices and methods used by developers in the free "
+"software community decided that these questions were independent of the "
+"developers' political views, so he used the term &ldquo;FLOSS,&rdquo; "
+"meaning &ldquo;Free/Libre and Open Source Software,&rdquo; to explicitly "
+"avoid a preference between the two political camps.  If you wish to be "
+"neutral, this is a good way to do it, since this makes the names of the two "
+"camps equally prominent."
+msgstr ""
+"Özgür yazılım topluluğundaki geliştiricilerin kullandığı uygulama ve "
+"yöntemleri inceleyen bir araştırmacı bu soruların geliştiricilerin politik "
+"görüşlerinden bağımsız olduğuna karar verdi, böylece iki politik taraf "
+"arasında bir tercihten açıkça kaçınmak için &ldquo;Özgür/Libre ve Açık "
+"Kaynak Yazılım&rdquo; anlamında &ldquo;ÖLAKY&rdquo; terimini kullandı. Eğer "
+"tarafsız olmak istiyorsanız, bu iyi bir yöntem, çünkü iki tarafın "
+"isimlendirmelerini eşit derecede öne çıkarır."
+
+#. type: Content of: <p>
+msgid ""
+"Others use the term &ldquo;FOSS,&rdquo; which stands for &ldquo;Free and "
+"Open Source Software.&rdquo; This is meant to mean the same thing as &ldquo;"
+"FLOSS,&rdquo; but it is less clear, since it fails to explain that &ldquo;"
+"free&rdquo; refers to <em>freedom</em>.  It also makes &ldquo;free "
+"software&rdquo; less visible than &ldquo;open source,&rdquo; since it "
+"presents &ldquo;open source&rdquo; prominently but splits &ldquo;free "
+"software&rdquo; apart."
+msgstr ""
+"Başkaları, &ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamındaki &ldquo;"
+"ÖAKY&rdquo; terimini kullanırlar. Bu &ldquo;ÖLAKY&rdquo; ile aynı anlamdadır "
+"ama daha az açıktır, çünkü İngilizcede &ldquo;free&rdquo; kelimesinin "
+"<em>özgürlük</em> atıfta bulunduğunu ifade etmez. Ayrıca &ldquo;özgür "
+"yazılımı&rdquo;, &ldquo;açık kaynağa&rdquo; göre daha az görünür kılar, "
+"çünkü &ldquo;açık kaynak&rdquo; belirgin bir biçimde sunarken, &ldquo;özgür "
+"yazılım&rdquo; bölünmüştür."
+
+#. type: Content of: <p>
+msgid ""
+"&ldquo;Free and Open Source Software&rdquo; is misleading in another way: it "
+"suggests that &ldquo;free and open source&rdquo; names a single point of "
+"view, rather than mentioning two different ones.  This conceptualization of "
+"the field is an obstacle to understanding the fact that free software and "
+"open source are different political positions that disagree fundamentally."
+msgstr ""
+"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; bir başka şekilde de "
+"yanıltıcıdır: &ldquo;özgür ve açık kaynak&rdquo; ifadesinin, iki farklı "
+"bakış yerine tek bir bakış açısının ismi olduğunu öne sürer. Alanın bu "
+"şekilde kavramsallaştırılması, özgür yazılım ve açık kaynağın temelde "
+"anlaşamayan iki farklı politik konumlanış olduğu gerçeğini anlama önünde bir "
+"engeldir."
+
+#. type: Content of: <p>
+msgid ""
+"Thus, if you want to be neutral between free software and open source, and "
+"clear about them, the way to achieve that is to say &ldquo;FLOSS,&rdquo; not "
+"&ldquo;FOSS.&rdquo;"
+msgstr ""
+"Bu yüzden, özgür yazılım ve açık kaynak arasında tarafsız kalmak "
+"istiyorsanız, bunu başarmanın yolu &ldquo;ÖAKK&rdquo; değil, &ldquo;"
+"ÖLAKY&rdquo; kullanmaktır."
+
+#. type: Content of: <p>
+msgid ""
+"We in the free software movement don't use either of these terms, because we "
+"don't want to be neutral on the political question.  We stand for freedom, "
+"and we show it every time&mdash;by saying &ldquo;free&rdquo; and &ldquo;"
+"libre&rdquo;&mdash; or &ldquo;free (libre)&rdquo;."
+msgstr ""
+"Biz, özgür yazılım hareketi olarak, bu politik sorun açısından tarafsız "
+"kalmak istemediğimiz için bu terimlerin hiçbirini kullanmıyoruz. Özgürlükten "
+"yanayız ve bunu her zaman, &ldquo;özgür&rdquo; ve &ldquo;libre&rdquo; veya "
+"&ldquo;özgür (libre)&rdquo; kullanarak, gösteriyoruz."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2013, 2015, 2016 Richard Stallman"
+msgstr "Copyright &copy; 2013, 2015, 2016 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalayci, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
