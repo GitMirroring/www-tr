@@ -1,21 +1,21 @@
 # Turkish translation of https://www.gnu.org/philosophy/android-and-users-freedom.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-#
+# 
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: android-and-users-freedom.html\n"
 "POT-Creation-Date: 2020-02-09 07:55+0000\n"
-"PO-Revision-Date: 2020-02-23 16:24+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"PO-Revision-Date: 2020-04-01 21:51+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Lokalize 19.12.3\n"
 
 #. type: Content of: <title>
 msgid "Android and Users' Freedom - GNU Project - Free Software Foundation"
@@ -187,7 +187,7 @@ msgstr ""
 "bir sonraki sürümü beklemesi gerektiğini söyledi. Bu, Android sistemini "
 "çalıştırmak isteyen insanlar için iyi bir öneri olabilir ancak kullanıcılar "
 "buna karar verecek olanlar olmalıdır. Aslında, kendi sürümlerindeki "
-"değişikliklerin bazılarını dahil etmek isteyen geliştiriciler ve onarıcılar "
+"değişikliklerin bazılarını dâhil etmek isteyen geliştiriciler ve onarıcılar "
 "bu kodu iyi kullanabilirlerdi."
 
 #. type: Content of: <p>
@@ -398,8 +398,8 @@ msgid ""
 "Unfortunately, in this case it would be a malicious circuit.  Malicious "
 "features are unacceptable no matter how they are implemented."
 msgstr ""
-"Ne yazık ki bu durumda kötü niyetli bir devre olacaktır. Kötü amaçlı "
-"özellikler nasıl uygulanırsa uygulansınlar kabul edilemez."
+"Ne yazık ki bu durumda kötü niyetli bir devre olacaktır. Kötücül özellikler "
+"nasıl uygulanırsa uygulansınlar kabul edilemez."
 
 #. type: Content of: <p>
 msgid ""
@@ -457,9 +457,9 @@ msgstr ""
 "özgür olmayan hücresel ağ aygıt yazılımına katlanabiliriz, ana bilgisayarın "
 "denetimini alamaz ve yalnızca özgür işletim sistemi iletişim kurmayı "
 "seçtiğinde iletişim kurabilir. Başka bir deyişle devre ile eş değer "
-"olmalıdır ve bu devre kötü amaçlı olmamalıdır. Bu özelliklere sahip bir "
-"Android telefon oluşturmak için teknik bir engel yoktur ancak hiçbirinden "
-"haberdar değiliz."
+"olmalıdır ve bu devre kötücül olmamalıdır. Bu özelliklere sahip bir Android "
+"telefon oluşturmak için teknik bir engel yoktur ancak hiçbirinden haberdar "
+"değiliz."
 
 #. type: Content of: <p>
 msgid ""

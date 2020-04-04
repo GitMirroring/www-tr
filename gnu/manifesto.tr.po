@@ -1,33 +1,34 @@
 # Turkish translation of https://www.gnu.org/gnu/manifesto.html
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original page.
+# 
 # T. E. Kalayci, 2019, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
-#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: manifesto.html\n"
 "POT-Creation-Date: 2015-06-02 12:55+0000\n"
-"PO-Revision-Date: 2019-09-08 17:16+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"PO-Revision-Date: 2020-04-01 22:17+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Lokalize 19.12.3\n"
 
 #. type: Content of: <title>
 msgid "The GNU Manifesto - GNU Project - Free Software Foundation"
-msgstr "GNU Bildirgesi - GNU Projesi - Özgür Yazılım Vakfı"
+msgstr "GNU Bildirisi - GNU Projesi - Özgür Yazılım Vakfı"
 
 #. type: Content of: <h2>
 msgid "The GNU Manifesto"
-msgstr "GNU Bildirgesi"
+msgstr "GNU Bildirisi"
 
 #. type: Content of: <p>
 msgid ""
@@ -37,7 +38,7 @@ msgid ""
 "original announcement of 1983.  Through 1987, it was updated in minor ways "
 "to account for developments; since then, it seems best to leave it unchanged."
 msgstr ""
-"GNU Bildirgesi (aşağıda yer almaktadır) <a href=\"http://www.stallman.org/"
+"GNU Bildirisi (aşağıda yer almaktadır) <a href=\"http://www.stallman.org/"
 "\">Richard Stallman</a> tarafından 1985 yılında GNU işletim sistemini "
 "geliştirmek için destek isteme amacıyla yazılmıştır. Metnin bir kısmı "
 "1983'teki özgün duyurudan alınmıştır. 1987 yılı boyunca, gelişmeleri "
@@ -1067,9 +1068,10 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"People with new ideas could distribute programs as freeware<a href=\"#f7\">"
-"(9)</a>, asking for donations from satisfied users, or selling handholding "
-"services.  I have met people who are already working this way successfully."
+"People with new ideas could distribute programs as freeware<a href="
+"\"#f7\">(9)</a>, asking for donations from satisfied users, or selling "
+"handholding services.  I have met people who are already working this way "
+"successfully."
 msgstr ""
 "Yeni fikirlere sahip insanlar, freeware (ücretsiz)<a href=\"#f7\">(9)</a> "
 "olarak programları dağıtabilir, memnun kullanıcılardan bağış isteyebilir ya "
@@ -1207,10 +1209,10 @@ msgstr ""
 "durumu çok net anlatamamaktadır ve insanlar bunu genellikle GNU’nun "
 "kopyalarının her zaman düşük bir ücretle ya da ücretsiz olarak dağıtılması "
 "gerektiği olarak yorumlamaktadır. Amaç, hiçbir zaman bu değildir; daha "
-"sonra, bildirgede firmaların kâr için dağıtım hizmetini sağlama olanağı "
-"ifade edilmektedir. Sonuç olarak, özgürlük anlamındaki “free” (ç.n. "
-"özellikle İngilizce bırakılmıştır) ile ücret anlamındaki “free” arasındaki "
-"ayrımı dikkatli bir şekilde yapmayı öğrendim. Özgür yazılım, kullanıcıların, "
+"sonra, bildiride firmaların kâr için dağıtım hizmetini sağlama olanağı ifade "
+"edilmektedir. Sonuç olarak, özgürlük anlamındaki “free” (ç.n. özellikle "
+"İngilizce bırakılmıştır) ile ücret anlamındaki “free” arasındaki ayrımı "
+"dikkatli bir şekilde yapmayı öğrendim. Özgür yazılım, kullanıcıların, "
 "dağıtma ve değiştirme özgürlüğüne sahip oldukları yazılımdır. Bazı "
 "kullanıcılar kopyaları ücretsiz olarak temin edebilirken bazıları kopyaları "
 "edinmek için ödeme yapar – ve yazılımın daha da geliştirilmesi için "
@@ -1405,6 +1407,8 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
 "<li>T. E. Kalayci, 2019, 2009.</li>\n"
 "<li>Çiğdem Özşar, 2009.</li>\n"
 "<li>Birkan Sarıfakıoğlu, 2009.</li>\n"

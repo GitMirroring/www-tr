@@ -1,20 +1,21 @@
 # Turkish translation of https://www.gnu.org/philosophy/free-software-even-more-important.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# The FLOSS Information <theflossinformation@yandex.com>, 2019.
-#
+# 
+# The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-even-more-important.html\n"
 "POT-Creation-Date: 2020-01-20 18:26+0000\n"
-"PO-Revision-Date: 2020-01-22 21:44+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"PO-Revision-Date: 2020-04-01 22:06+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Lokalize 19.12.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -87,12 +88,13 @@ msgid ""
 "That directory lists around 450 different malicious functionalities (as of "
 "January, 2020), but it is surely just the tip of the iceberg."
 msgstr ""
-"Bu iki özgür olmayan programın ortak bir yanı var: İkisi de <em>kötü amaçlı "
+"Bu iki özgür olmayan programın ortak bir yanı var: İkisi de <em>kötücül "
 "yazılım</em>. Yani her ikisi de kullanıcıya kötü davranmak üzere tasarlanmış "
-"işlevlere sahipler. Günümüzde özel mülk yazılımlar genellikle kötü amaçlıdır "
-"çünkü <a href=\"/proprietary/proprietary.html\">güç geliştiricileri "
-"yozlaştırır</a>. Bu rehber (Ocak 2020 itibarıyla) 450 farklı kötü niyetli "
-"işlevi listeliyor ancak bunlar kesinlikle buz dağının görünen kısmıdır."
+"işlevlere sahipler. Günümüzde özel mülk yazılımlar genellikle kötücül "
+"yazılımdır çünkü <a href=\"/proprietary/proprietary.html\">güç "
+"geliştiricileri yozlaştırır</a>. Bu rehber (Ocak 2020 itibarıyla) 450 farklı "
+"kötü niyetli işlevi listeliyor ancak bunlar kesinlikle buz dağının görünen "
+"kısmıdır."
 
 #. type: Content of: <p>
 msgid ""
@@ -734,8 +736,8 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>The FLOSS Information <a href=\"mailto:theflossinformation@yandex.com"
-"\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2019, 2020.</li>\n"
 "</ul>"
 
 #.  timestamp start 

@@ -1,19 +1,21 @@
 # Turkish translation of https://www.gnu.org/distros/free-system-distribution-guidelines.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Umutcan OLĞUN <birsenesen4@gmail.com>, 2019.
-#
+# 
+# The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: free-system-distribution-guidelines.html\n"
 "POT-Creation-Date: 2018-09-12 16:56+0000\n"
-"PO-Revision-Date: 2019-04-05 06:46+0300\n"
-"Last-Translator: Umutcan OLĞUN <birsenesen4@gmail.com>\n"
+"PO-Revision-Date: 2020-04-01 22:15+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 19.12.3\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -408,9 +410,9 @@ msgid ""
 "which already has proprietary software, which is good."
 msgstr ""
 "Örneğin; özgür bir sistem dağıtımı, kullanıcılar için çift önyükleme sistemi "
-"oluşturan belgelere sahip olabilir. Sahipli işletim sisteminin dosya "
+"oluşturan belgelere sahip olabilir. Özel mülk işletim sisteminin dosya "
 "sistemlerine nasıl erişileceğini, bunlardan ayarları içe aktarmayı vb. "
-"açıklayabilir. Bu, insanların sahipli yazılımlara sahip bir makineye özgür "
+"açıklayabilir. Bu, insanların özel mülk yazılımlara sahip bir makineye özgür "
 "bir sistem dağıtımı kurmalarına yardımcı olacaktır ki bu iyi bir şeydir."
 
 #. type: Content of: <p>
@@ -458,7 +460,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "No Malware"
-msgstr "Kötü Amaçlı Yazılım Yok"
+msgstr "Kötücül Yazılım Yok"
 
 #. type: Content of: <p>
 msgid "The distro must contain no DRM, no back doors, and no spyware."
@@ -714,7 +716,12 @@ msgstr ""
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
-msgstr " "
+msgstr ""
+" <p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2019, 2020.</li>\n"
+"</ul>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>

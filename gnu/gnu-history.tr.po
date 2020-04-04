@@ -1,21 +1,21 @@
 # Turkish translation of https://www.gnu.org/gnu/gnu-history.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-#
+# 
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-history.html\n"
 "POT-Creation-Date: 2017-09-04 10:56+0000\n"
-"PO-Revision-Date: 2020-01-30 17:37+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"PO-Revision-Date: 2020-04-01 22:16+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Lokalize 19.12.3\n"
 
 #. type: Content of: <title>
 msgid "Overview of the GNU System - GNU Project - Free Software Foundation"
@@ -47,8 +47,8 @@ msgstr ""
 "a> olarak telaffuz edilir. <a href=\"http://www.stallman.org/\">Richard "
 "Stallman</a>, Eylül 1983'te GNU Projesi'nin <a href=\"/gnu/initial-"
 "announcement.html\">İlk Duyurusunu</a> yaptı. Mart 1985'te <a href=\"/gnu/"
-"manifesto.html\">GNU Bildirgesi</a> adlı daha uzun bir sürüm yayımlandı. "
-"Bazı <a href=\"/gnu/manifesto.html#translations\">diğer dillere</a> çevrildi."
+"manifesto.html\">GNU Bildirisi</a> adlı daha uzun bir sürüm yayımlandı. Bazı "
+"<a href=\"/gnu/manifesto.html#translations\">diğer dillere</a> çevrildi."
 
 #. type: Content of: <p>
 msgid ""
@@ -313,8 +313,8 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>The FLOSS Information <a href=\"mailto:theflossinformation@yandex.com"
-"\">&lt;theflossinformation@yandex.com&gt;</a>, 2020</li>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020</li>\n"
 "</ul>"
 
 #.  timestamp start 
