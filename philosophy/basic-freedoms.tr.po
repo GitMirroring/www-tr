@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: basic-freedoms.html\n"
 "POT-Creation-Date: 2018-06-05 15:56+0000\n"
 "PO-Revision-Date: 2020-04-01 19:50+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.3\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: tr\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -54,7 +54,7 @@ msgstr ""
 "Nezaket Yasasına karşı birlikte hareket ettik. Siteleri İNY davasının bir "
 "simgesinin kaynağı olarak saklanmıştır."
 
-#. activating this link… site is archived as of July 09, 1998
+#.  activating this link… site is archived as of July 09, 1998 
 #. type: Content of: <ul><li>
 msgid ""
 "The <a href=\"https://web.archive.org/web/19980709161803/http://vtw.org/"
@@ -97,7 +97,7 @@ msgstr ""
 "Çevrimiçi İfade, Basın ve Örgütlenme Özgürlüğü için <a href=\"http://www.eff."
 "org/blueribbon.html\">Mavi Kurdele Kampanyası</a>."
 
-#. activating this link… site is archived as of December 01, 2001
+#.  activating this link… site is archived as of December 01, 2001 
 #. type: Content of: <ul><li>
 msgid ""
 "You can read <a href=\"https://web.archive.org/web/20011201050533/http://www."
