@@ -1,0 +1,253 @@
+# Turkish translation of http://www.gnu.org/licenses/fdl-howto.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# Mert Gör <mertgor@dismail.de>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: fdl-howto.html\n"
+"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"PO-Revision-Date: 2020-04-09 17:36+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "Tips on Using the GNU FDL - GNU Project - Free Software Foundation"
+msgstr ""
+"GNU FDL Kullanımı Hakkında İpuçları - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Tips on Using the GNU Free Documentation License"
+msgstr "GNU Özgür Belgeleme Lisansının Kullanımı Hakkında İpuçları"
+
+#. type: Content of: <p>
+msgid ""
+"This is a brief explanation of how to place a document under the <a href=\"/"
+"licenses/fdl.html\">GNU Free Documentation License</a>.  For the GNU "
+"software licenses, such as the GNU GPL, we have a <a href=\"/licenses/gpl-"
+"howto.html\">separate page</a>."
+msgstr ""
+"Bu yazı belgelerin <a href=\"/licenses/fdl.html\">GNU Özgür Belgeleme "
+"Lisansı</a> kapsamında nasıl yayınlanabileceğine ilişkin kısa bir "
+"açıklamadır. GNU GPL gibi GNU yazılım lisansları için <a href=\"/licenses/"
+"gpl-howto.html\">ayrı bir sayfamız</a> var."
+
+#. type: Content of: <dl><dt>
+msgid ""
+"<a href=\"/licenses/fdl-howto-opt.html\">How does one use the optional "
+"features of the FDL?</a>"
+msgstr ""
+"<a href=\"/licenses/fdl-howto-opt.html\">FDL'nin isteğe bağlı özellikleri "
+"nasıl kullanılır?</a>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"We have a <a href=\"/licenses/fdl-howto-opt.html\">separate page</a> that "
+"discusses how to use the optional features of the FDL."
+msgstr ""
+"FDL'nin isteğe bağlı özelliklerinin nasıl kullanılacağını ele alan <a href="
+"\"/licenses/fdl-howto-opt.html\">ayrı bir sayfamız</a> var."
+
+#. type: Content of: <dl><dt>
+msgid "Where must one put the license notification?"
+msgstr "Lisans bildirimi nereye koyulmalıdır?"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"It is sufficient to put the full license notice in the &ldquo;main&rdquo; "
+"file of your document.  For example, with the <cite>Emacs Lisp Reference "
+"Manual</cite>, we have many files included by <code>elisp.texi</code>.  We "
+"keep the full notification in <code>elisp.texi</code>, and in the other "
+"files we simply write:"
+msgstr ""
+"Lisans bildiriminin tamamını belgenizin dosyasındaki &ldquo;ana&rdquo; metne "
+"yerleştirmek yeterlidir. Örneğin, <cite>Emacs Lisp Başvuru Kılavuzu</cite> "
+"ile <code>elisp.texi</code>'nin içerdiği birçok dosya var. Tam bildirimi "
+"<code>elisp.texi</code> dosyasında tutuyoruz ve diğer dosyalara da basitçe "
+"şunu yazıyoruz:"
+
+#. type: Content of: <dl><dd><pre>
+#, no-wrap
+msgid ""
+"@c -*-texinfo-*-\n"
+"@c This is part of the GNU Emacs Lisp Reference Manual.\n"
+"@c Copyright (C) 1990, 1991, 1992, 1993, 1994, 1999\n"
+"@c   Free Software Foundation, Inc.\n"
+"@c See the file elisp.texi for copying conditions.\n"
+msgstr ""
+"@c - * - texinfo - * -\n"
+"@c Bu, GNU Emacs Lisp Başvuru Kılavuzunun bir parçasıdır.\n"
+"@c Copyright (C) 1990, 1991, 1992, 1993, 1994, 1999\n"
+"@c Özgür Yazılım Vakfı, Inc.\n"
+"@c Kopyalama koşulları için elisp.texi dosyasına bakın.\n"
+
+#. type: Content of: <dl><dt>
+msgid ""
+"What do I do with scripts that are needed to render my document properly?"
+msgstr ""
+"Belgemi düzgün bir şekilde oluşturmak için gereken betiklerle ne yapmalıyım?"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"We recommend you release these scripts under the GNU FDL as well.  Of "
+"course, if these scripts are generally useful for other tasks, it is a good "
+"idea to release them separately under the GNU GPL."
+msgstr ""
+"Bu ilgili betikleri GNU FDL koşullarıyla yayınlamanızı öneririz. Elbette, bu "
+"betikler genellikle diğer görevler için de yararlıysa GNU GPL koşullarıyla "
+"ayrı olarak yayınlamak da iyi bir fikirdir."
+
+#. type: Content of: <dl><dt>
+msgid "Is it required for the document to have invariant sections?"
+msgstr "Belgenin değişmez bölümlerinin olması gerekli midir?"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"No.  It is perfectly acceptable for a document to have no invariant sections."
+msgstr ""
+"Hayır. Bir belgenin değişmez bölümlerinin olmaması tamamen kabul edilebilir."
+
+#. type: Content of: <dl><dt>
+msgid "Should I try to make sure the document has some invariant sections?"
+msgstr "Belgede bazı değişmez bölümler olduğundan emin olmam gerekir mi?"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"Not particularly.  If a section's contents ought to be invariant, make it "
+"invariant."
+msgstr ""
+"Özellikle gerekmiyor. Bir bölümün içeriğinin değişmemesi gerekiyorsa o kısmı "
+"değişmez yapın."
+
+#. type: Content of: <dl><dt>
+msgid "Should I try to avoid invariant sections?"
+msgstr "Değişmez bölümlerden kaçınmaya çalışmalı mıyım?"
+
+#. type: Content of: <dl><dt>
+msgid "When should a section be invariant?"
+msgstr "Bir bölüm ne zaman değişmez olmalıdır?"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"First of all, keep in mind that a section that treats technical material "
+"<em>cannot</em> be invariant.  Only a secondary section can be invariant, "
+"and a technical section is not a secondary section."
+msgstr ""
+"Her şeyden önce, teknik belgeyle etkileşimde olan bir bölümün değişmez "
+"<em>olamayacağını</em> aklınızda bulundurun. Yalnızca ikincil bir bölüm "
+"değişmez olabilir ve teknik bir bölüm ikincil bir bölüm değildir."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"If the section is text that you're not allowed to modify, such as a copy of "
+"the GNU GPL, then it <em>must</em> be invariant.  You can't give permission "
+"to modify it if you don't have permission to modify it."
+msgstr ""
+"Eğer ilgili bölüm GNU GPL'nin bir kopyası gibi değiştirmenize izin "
+"verilmeyen bir metinse, <em>değişmez</em> olmalıdır. Onu değiştirme izniniz "
+"yoksa, düzenleme izni veremezsiniz."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"(One consequence is that you <em>cannot use</em> preexisting text which "
+"covers technical material if you don't have permission to allow modification "
+"of that text.)"
+msgstr ""
+"(Bunun bir sonucu olarak sizin o metnin değiştirilmesine müsaade etme "
+"izniniz yoksa, teknik malzemeye ilişkin önceden mevcut olan metni "
+"<em>kullanamazsınız</em>.)"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"When a section discusses the philosophy of free software, it is a good idea "
+"to make that section invariant.  For instance, when we put the GNU Manifesto "
+"in a manual, or when we include a section explaining why free documentation "
+"is important, we make that section invariant."
+msgstr ""
+"Bir bölüm özgür yazılım felsefesini tartıştığında, o bölümü değişmez yapmak "
+"iyi bir fikirdir. Örneğin, GNU Bildirisi'ni bir kılavuza yerleştirdiğimizde "
+"veya özgür belgelemenin neden önemli olduğunu açıklayan bir bölüm "
+"eklediğimizde, bu bölümü değişmez yaparız."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2000, 2001, 2008, 2009, 2014 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2000, 2001, 2008, 2009, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>Mert Gör <a href=\"mailto:mertgor@dismail.de\">&lt;mertgor@dismail.de&gt;"
+"</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

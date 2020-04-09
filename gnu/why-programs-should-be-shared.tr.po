@@ -1,0 +1,219 @@
+# Turkish translation of https://www.gnu.org/gnu/why-programs-should-be-shared.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# Mert Gör <mertgor@dismail.de>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: why-programs-should-be-shared.html\n"
+"POT-Creation-Date: 2016-11-18 06:57+0000\n"
+"PO-Revision-Date: 2020-04-05 17:28+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "Why Programs Should be Shared - GNU Project - Free Software Foundation"
+msgstr "Programlar neden paylaşılmalıdır - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Why Programs Should be Shared"
+msgstr "Programlar neden paylaşılmalıdır"
+
+#. type: Content of: <p>
+msgid ""
+"<strong>by <a href=\"http://www.stallman.org/\">Richard Stallman</a></strong>"
+msgstr ""
+"<strong>yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a></"
+"strong>"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Richard Stallman wrote this text, which was found in a file dated May 1983, "
+"though it is not clear whether it was written then or earlier.  In May 1983 "
+"he was privately considering plans to develop a free operating system, but "
+"he may not yet have decided to make it a Unix-like system rather than "
+"something like the MIT Lisp Machine."
+msgstr ""
+"Mayıs 1983 tarihli bir dosyada bulunan bu metni Richard Stallman yazdı, "
+"ancak daha önce mi yoksa daha sonra mı yazıldığı belli değil. Mayıs 1983'te "
+"özgür bir işletim sistemi geliştirme planlarını kendi kendine düşünüyordu, "
+"ancak MIT Lisp Makinesi gibi bir şeyden ziyade Unix benzeri bir sistem "
+"yapmaya henüz karar vermemişti."
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"He had not yet conceptually distinguished the two meanings of &ldquo;free;"
+"&rdquo; this message is formulated in terms of gratis copies, but take for "
+"granted that this means users also have freedom."
+msgstr ""
+"\"Free\" kelimesinin iki anlamı olan ücretsiz ve özgürü henüz kavramsal "
+"olarak ayırt etmemişti; mesaj bedelsiz kopyalar bakımından ifade edilmişti, "
+"ancak siz yine de bunun ayrıca kullanıcıların özgürlüğe sahip olduğu "
+"anlamına geldiğini kabul edin."
+
+#. type: Content of: <p>
+msgid ""
+"Five years ago one could take for granted that any useful program written at "
+"SAIL, MIT, CMU, etc. would be shared.  Since then, these universities have "
+"started acting just like software houses&mdash;everything useful will be "
+"sold for an arm and a leg (usually after being written at gov't expense)."
+msgstr ""
+"Beş yıl önce SAIL, MIT, CMU, vb. yerlerde yazılan yararlı herhangi bir "
+"programın paylaşılabileceğine kesin gözüyle bakılırdı. O zamandan beri, bu "
+"üniversiteler tıpkı yazılım evleri gibi davranmaya başladı; yararlı olan her "
+"şey aşırı pahalı satılacaktı (genellikle hükümet harcamalarıyla yazıldıktan "
+"sonra)."
+
+#. type: Content of: <p>
+msgid ""
+"People find all sorts of excuses why it's harmful to give away software.  "
+"These supposed problems never bothered us back when we <em>wanted</em> to "
+"share, and haven't affected EMACS, so I suspect they are bogus."
+msgstr ""
+"İnsanlar, yazılım hediye etmenin neden zararlı olduğuna ilişkin her türlü "
+"mazereti bulurlar. Bu sözde sorunlar, biz paylaşmak <em>istediğimizde</em> "
+"bizi asla rahatsız etmedi ve EMACS'i etkilemedi, bu yüzden bu sorunların "
+"düzmece olduğundan kuşkulanıyorum."
+
+#. type: Content of: <p>
+msgid ""
+"For example, people say that companies will &ldquo;steal&rdquo; it and sell "
+"it.  If so, that would be no worse than Stanford selling it! At least people "
+"would have the choice of getting a free copy.  Users want to buy maintained "
+"software? Then let people sell service contracts&mdash;but give the software "
+"itself free."
+msgstr ""
+"Örneğin, insanlar şirketlerin onu &ldquo;çalacağını&rdquo; ve satacağını "
+"söylüyorlar. Eğer öyleyse, Stanford'un onu satmasından daha kötü olamaz! En "
+"azından insanlar ücretsiz bir kopya alma seçeneğine sahip olurlardı. "
+"Kullanıcılar bakımı yapılan bir yazılım mı satın almak istiyor? O zaman "
+"insanların hizmet sözleşmeleri satmasına izin verin, ancak yazılımın "
+"kendisini özgür bırakın."
+
+#. type: Content of: <p>
+msgid ""
+"I think I can dispose of any reasons you may think exist for not sharing "
+"software.  But more important is the reason why we <em>should</em> share:"
+msgstr ""
+"Sanırım yazılımı paylaşmamak için var olabileceğini düşündüğünüz herhangi "
+"bir gerekçeyi bertaraf edebilirim. Ancak daha önemli olan, neden paylaşmamız "
+"<em>gerektiğidir</em>:"
+
+#. type: Content of: <p>
+msgid ""
+"We would get more done with the same amount of work, if artificial obstacles "
+"were removed.  And we would feel more in harmony with everyone else."
+msgstr ""
+"Yapay engeller aşılırsa, aynı miktarda çabayla daha fazla iş yaparız. Ve "
+"kendimizi diğer herkesle daha uyumlu hissederiz."
+
+#. type: Content of: <p>
+msgid ""
+"Sharing software is the form that scientific cooperation takes in the field "
+"of computer science.  Universities used to defend the principle of "
+"scientific cooperation.  Is it right for them to throw it over for profit?"
+msgstr ""
+"Yazılım paylaşımı, bilgisayar bilimi alanında bilimsel işbirliğinin aldığı "
+"biçimdir. Üniversiteler bilimsel işbirliği ilkesini savunurlardı. Bu ilkeden "
+"kâr için vazgeçmeleri doğru mudur?"
+
+#. type: Content of: <p>
+msgid "Should we let them?"
+msgstr "Onlara izin vermeli miyiz?"
+
+#. type: Content of: <p>
+msgid ""
+"Right now graduate students here are working on programming projects that "
+"are specifically intended for sale.  But if we create a climate of opinion "
+"like that of five years ago, the university wouldn't dare to do this.  And "
+"if you start sharing, other people might start sharing with you."
+msgstr ""
+"Şu anda buradaki üniversite mezunu öğrenciler, özellikle satışa yönelik "
+"programlama projeleri üzerinde çalışıyorlar. Fakat beş yıl önce olduğu gibi "
+"bir düşünce ortamı oluşturursak, üniversite bunu yapmaya cesaret edemez. Ve "
+"paylaşmaya başladığınızda, başkaları da sizinle paylaşmaya başlayabilir."
+
+#. type: Content of: <p>
+msgid "So let's start sharing again."
+msgstr "İşte bu nedenle hemen şimdi paylaşmaya tekrar başlayalım."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2016 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>Mert Gör <a href=\"mailto:mertgor@dismail.de\">&lt;mertgor@dismail.de&gt;"
+"</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
