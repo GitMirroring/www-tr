@@ -311,7 +311,7 @@ msgid ""
 msgstr ""
 "<a href=\"https://www.google.com/mobile/android/market-tos.html\"> Google "
 "Play Hizmet Şartları</a>, Android kullanıcısının Google tarafından "
-"yayınlanan uygulamalardadaki evrensel arka kapıları kabul etmesini dayatır."
+"yayınlanan uygulamalardaki evrensel arka kapıları kabul etmesini dayatır."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
