@@ -1,0 +1,369 @@
+# Turkish translation of http://www.gnu.org/licenses/bsd.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Mert Gör <mertgor@dismail.de>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bsd.html\n"
+"POT-Creation-Date: 2015-12-19 22:55+0000\n"
+"PO-Revision-Date: 2020-04-24 09:20+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "BSD License Problem - GNU Project - Free Software Foundation"
+msgstr "BSD Lisans Sorunu - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "The BSD License Problem"
+msgstr "BSD Lisans Sorunu"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"See <a href=\"/licenses/license-recommendations.html\">&ldquo;How to choose "
+"a license for your own work&rdquo;</a> for general recommendations about "
+"choosing a license for your work."
+msgstr ""
+"Çalışmanız için lisans seçme hakkında genel öneriler için <a href=\"/"
+"licenses/license-recommendations.html\">&ldquo;Kendi çalışmalarınız için "
+"lisans nasıl seçilir&rdquo;</a> yazısına bakın."
+
+#. type: Content of: <p>
+msgid ""
+"The two major categories of free software license are <a href=\"/copyleft/"
+"copyleft.html\">copyleft</a> and <a href=\"/philosophy/categories.html#Non-"
+"CopyleftedFreeSoftware\"> non-copyleft</a>.  <a href=\"/licenses/license-"
+"list.html#GPLCompatibleLicenses\">Copyleft licenses</a> such as the <a href="
+"\"/licenses/gpl.html\">GNU GPL</a> insist that modified versions of the "
+"program must be free software as well.  Non-copyleft licenses do not insist "
+"on this.  <a href=\"/philosophy/why-copyleft.html\">We recommend copyleft</"
+"a>, because it protects freedom for all users, but non-copylefted software "
+"can still be free software, and useful to the free software community."
+msgstr ""
+"Özgür yazılım lisansının iki ana kategorisi <a href=\"/copyleft/copyleft.html"
+"\">copyleft</a> ve <a href=\"/philosophy/categories.html#Non-"
+"CopyleftedFreeSoftware\">copyleft olmayan</a> şeklindedir. <a href=\"/"
+"licenses/gpl.html\">GNU GPL</a> gibi <a href=\"/licenses/license-list."
+"html#GPLCompatibleLicenses\">copyleft lisanslar</a>, programların "
+"değiştirilmiş sürümlerinin de özgür yazılım olması konusunda ısrarcıdır. "
+"Copyleft olmayan lisanslar bu konuda ısrar etmez. Tüm kullanıcıların "
+"özgürlüğünü koruduğu için <a href=\"/philosophy/why-copyleft.html"
+"\">copylefti öneriyoruz</a>, ancak copyleft olmayan yazılımlar da özgür "
+"yazılım olabilir ve özgür yazılım topluluğu için yarar sağlayabilir."
+
+#. type: Content of: <p>
+msgid ""
+"There are many variants of simple <a href=\"/licenses/license-list."
+"html#GPLCompatibleLicenses\">non-copyleft free software licenses</a>, such "
+"as the Expat license, FreeBSD license, X10 license, the X11 license, and the "
+"two BSD (Berkeley Software Distribution) licenses.  Most of them are "
+"equivalent except for details of wording, but the license used for BSD until "
+"1999 had a special problem: the &ldquo;obnoxious BSD advertising "
+"clause&rdquo;. It said that every advertisement mentioning the software must "
+"include a particular sentence:"
+msgstr ""
+"Expat lisansı, FreeBSD lisansı, X10 lisansı, X11 lisansı, ve iki BSD "
+"(Berkeley Yazılım Dağıtımı) lisansları gibi bir çok basitçe <a href=\"/"
+"licenses/license-list.html#GPLCompatibleLicenses\">copyleft olmayan özgür "
+"yazılım lisansı</a> türü var. Anlatım ayrıntıları dışında çoğu eşdeğerdir, "
+"ancak 1999'a kadar BSD için kullanılan lisansın özel bir sorunu vardı: "
+"&ldquo;rahatsız edici BSD tanıtım şartı&rdquo;.Yazılımdan söz eden her "
+"tanıtımın belirli bir cümle içermesi gerektiğini söylüyordu:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"3. All advertising materials mentioning features or use of this software\n"
+"   must display the following acknowledgement:\n"
+"     This product includes software developed by the University of\n"
+"     California, Berkeley and its contributors.\n"
+msgstr ""
+"3. Bu yazılımın özelliklerinden veya kullanımından söz eden tüm tanıtım malzemeleri\n"
+"    aşağıdaki bildirimi göstermelidir:\n"
+"      Bu ürün Kaliforniya Üniversitesi (Berkeley) ve katkıda bulunanlar\n"
+"      tarafından geliştirilmiş yazılım içeriyor.\n"
+
+#. type: Content of: <p>
+msgid ""
+"Initially the obnoxious BSD advertising clause was used only in the Berkeley "
+"Software Distribution.  That did not cause any particular problem, because "
+"including one sentence in an ad is not a great practical difficulty."
+msgstr ""
+"Başlangıçta rahatsız edici BSD tanıtım şartı sadece Berkeley Yazılım "
+"Dağıtımında kullanıldı. Bu herhangi bir soruna neden olmamıştı, çünkü bir "
+"tanıtıma bir cümle eklemek pratik açıdan büyük bir zorluk değildi."
+
+#. type: Content of: <p>
+msgid ""
+"If other developers who used BSD-like licenses had copied the BSD "
+"advertising clause verbatim&mdash;including the sentence that refers to the "
+"University of California&mdash;then they would not have made the problem any "
+"bigger."
+msgstr ""
+"BSD benzeri lisansları kullanan diğer geliştiriciler (Kaliforniya "
+"Üniversitesi'ne atıfta bulunan cümle de dahil olmak üzere) BSD tanıtım "
+"şartını aynen kopyalamış olsalardı, sorunu daha da büyütmezlerdi."
+
+#. type: Content of: <p>
+msgid ""
+"But, as you might expect, other developers did not copy the clause "
+"verbatim.  They changed it, replacing &ldquo;University of California&rdquo; "
+"with their own institution or their own names.  The result is a plethora of "
+"licenses, requiring a plethora of different sentences."
+msgstr ""
+"Ancak, doğal olarak, diğer geliştiriciler şartı kelimesi kelimesine "
+"kopyalamadı. İfadeyi &ldquo;Kaliforniya Üniversitesi&rdquo; yerine kendi "
+"kurumları veya kendi isimleri ile değiştirdiler. Sonuç çok sayıda farklı "
+"cümle gerektiren çok sayıda lisans oldu."
+
+#. type: Content of: <p>
+msgid ""
+"When people put many such programs together in an operating system, the "
+"result is a serious problem.  Imagine if a software system required 75 "
+"different sentences, each one naming a different author or group of "
+"authors.  To advertise that, you would need a full-page ad."
+msgstr ""
+"İnsanlar bu tür programları bir işletim sisteminde bir araya getirdiğinde, "
+"sonuç çok ciddi bir sorundur. Bir yazılım sisteminin her biri farklı bir "
+"yazar veya yazar grubunu adlandıran 75 farklı cümle gerektirdiğini düşünün. "
+"Bunu tanıtmak için tam sayfa bir ilana ihtiyacınız olacaktır."
+
+#. type: Content of: <p>
+msgid ""
+"This might seem like extrapolation ad absurdum, but it is actual fact.  In a "
+"1997 version of NetBSD, I counted 75 of these sentences.  (Fortunately "
+"NetBSD has decided to stop adding them, and to remove those it could.)"
+msgstr ""
+"Bu olmayana kestirim gibi görünebilir, ama hakikattir. NetBSD'nin 1997 "
+"sürümünde bu cümlelerden 75 tanesini saydım. (Neyse ki NetBSD bunları "
+"eklemeyi bırakmaya ve kaldırabileceklerini kaldırmaya karar verdi.)"
+
+#. type: Content of: <p>
+msgid ""
+"To address this problem, in my &ldquo;spare time&rdquo; I talk with "
+"developers who have used BSD-style licenses, asking them if they would "
+"please remove the advertising clause.  Around 1996 I spoke with the "
+"developers of FreeBSD about this, and they decided to remove the advertising "
+"clause from all of their own code.  In May 1998 the developers of Flick, at "
+"the University of Utah, removed this clause."
+msgstr ""
+"Bu sorunu çözmek için &ldquo;boş zamanlarımda&rdquo; BSD tarzı lisans "
+"kullanan geliştiricilerle konuşuyorum ve onlara tanıtım şartını kaldırıp "
+"kaldırmayacaklarını soruyorum. Aşağı yukarı 1996 yılında FreeBSD "
+"geliştiricileriyle bu konuda konuştum ve tanıtım şartlarını kendi "
+"kodlarından kaldırmaya karar verdiler. Mayıs 1998'de Utah Üniversitesi'ndeki "
+"Flick geliştiricileri bu şartı kaldırdı."
+
+#. type: Content of: <p>
+msgid ""
+"Dean Hal Varian at the University of California took up the cause, and "
+"championed it with the administration.  In June 1999, after two years of "
+"discussions, the University of California removed this clause from the "
+"license of BSD."
+msgstr ""
+"Kaliforniya Üniversitesi'nden Dean Hal Varian şartı sahiplendi ve yönetim "
+"ile birlikte savundu. Haziran 1999'da, iki yıllık tartışmaların ardından, "
+"Kaliforniya Üniversitesi bu şartı BSD lisansından çıkardı."
+
+#. type: Content of: <p>
+msgid ""
+"Thus, there is now a new BSD license which does not contain the advertising "
+"clause.  Unfortunately, this does not eliminate the legacy of the "
+"advertising clause: similar clauses are still present in the licenses of "
+"many packages which are not part of BSD.  The change in license for BSD has "
+"no effect on the other packages which imitated the old BSD license; only the "
+"developers who made them can change them."
+msgstr ""
+"Bu nedenle, artık tanıtım şartını içermeyen yeni bir BSD lisansı var. Ne "
+"yazık ki bu, tanıtım şartının mirasını ortadan kaldırmıyor: BSD'nin bir "
+"parçası olmayan birçok paketin lisanslarında hala benzer şartlar var. BSD "
+"lisansındaki değişikliğin eski BSD lisansını taklit eden diğer paketler "
+"üzerinde hiçbir etkisi yok; onları sadece yazan geliştiricileri "
+"değiştirebilir."
+
+#. type: Content of: <p>
+msgid ""
+"But if they followed Berkeley's lead before, maybe Berkeley's change in "
+"policy will convince some of them to change.  It's worth asking."
+msgstr ""
+"Fakat Berkeley'in öncülüğünü daha önce takip ettiklerine göre, belki de "
+"Berkeley'in politika değişimi bazılarını lisanslarını değiştirmeye ikna "
+"edecektir. Sormaya değer."
+
+#. type: Content of: <p>
+msgid ""
+"So if you have a favorite package which still uses the BSD license with the "
+"advertising clause, please ask the maintainer to look at this web page, and "
+"consider making the change."
+msgstr ""
+"Dolayısıyla, hala tanıtım şartıyla birlikte BSD lisansını kullanan gözde bir "
+"paketiniz varsa, lütfen bakım sorumlusundan bu web sayfasına bakmasını ve "
+"değişikliği yapmayı düşünmesini sağlayın."
+
+#. type: Content of: <p>
+msgid ""
+"And if you want to release a program as non-copylefted free software, please "
+"don't use the advertising clause.  Thus, instead of copying the BSD license "
+"from some released package&mdash;which might still have the old version of "
+"the license in it&mdash;please use one of the other permissive licenses, "
+"such as Expat or FreeBSD."
+msgstr ""
+"Ve eğer bir programı copyleft olmayan özgür bir yazılım olarak yayınlamak "
+"istiyorsanız, lütfen tanıtım şartını kullanmayın. Bu nedenle, BSD lisansını "
+"(hala eski sürümüne sahip olabilecek) birtakım yayınlanmış paketlerden "
+"kopyalamak yerine, lütfen Expat veya FreeBSD gibi diğer her şeye izin veren "
+"lisanslardan birini kullanın."
+
+#. type: Content of: <p>
+msgid ""
+"You can also help spread awareness of the issue by not using the term &ldquo;"
+"BSD-style&rdquo;, and not saying &ldquo;the BSD license&rdquo; which implies "
+"there is only one.  You see, when people refer to all non-copyleft free "
+"software licenses as &ldquo;BSD-style licenses&rdquo;, some new free "
+"software developer who wants to use a non-copyleft free software license "
+"might take for granted that the place to get it is from BSD.  He or she "
+"might copy the license with the advertising clause, not by specific "
+"intention, just by chance."
+msgstr ""
+"Ayrıca &ldquo;BSD stili&rdquo; terimini kullanmayarak ve sanki sadece bir "
+"tane varmış gibi gösteren &ldquo;BSD lisansı&rdquo; demeden farkındalığın "
+"yayılmasına da yardımcı olabilirsiniz. Görüyorsunuz, insanlar copyleft "
+"olmayan tüm özgür yazılım lisanslarına &ldquo;BSD tarzı lisanslar&rdquo; "
+"diye işaret ettiğinde, copyleft olmayan bir özgür yazılım lisansı kullanmak "
+"isteyen bazı yeni özgür yazılım geliştiricileri, kendi yazılımları için "
+"alınabilecek lisansın BSD Lisansı olduğunu düşünebilirler. Üstelik kasten "
+"olmasa da, sadece tesadüfen, lisansı tanıtım şartıyla kopyalayabilirler."
+
+#. type: Content of: <p>
+msgid ""
+"If you would like to cite one specific example of a non-copyleft license, "
+"and you have no particular preference, please pick an example which has no "
+"particular problem.  For instance, if you talk about &ldquo;X11-style "
+"licenses&rdquo;, you will encourage people to copy the license from X11, "
+"which avoids the advertising clause for certain, rather than take a risk by "
+"randomly choosing one of the BSD licenses."
+msgstr ""
+"Copyleft olmayan lisansın belirli bir örneğini belirtmek istiyorsanız ve "
+"özel bir tercihiniz yoksa, lütfen özel bir sorunu olmayan bir örnek seçin. "
+"Örneğin, &ldquo;X11 tarzı lisansları&rdquo; hakkında konuşursanız, insanları "
+"BSD lisanslarından birini rastgele seçerek risk almak yerine, tanıtım "
+"şartından kaçınmaya olanak veren X11'den kopyalamaya teşvik edeceksiniz."
+
+#. type: Content of: <p>
+msgid ""
+"Or you could mention the non-copyleft license which <a href=\"/licenses/"
+"license-recommendations.html\"> we recommend over the other non-copyleft "
+"licenses</a>: the Apache 2.0 license, which has a clause to prevent "
+"treachery with patents."
+msgstr ""
+"Veya <a href=\"/licenses/license-recommendations.html\">diğer copyleft "
+"olmayan lisanslar yerine önerdiklerimizden</a> söz edebilirsiniz: "
+"patentlerle ihaneti önlemek için bir şart içeren Apache 2.0 lisansı gibi."
+
+#. type: Content of: <p>
+msgid ""
+"When you want to refer specifically to one of the BSD licenses, please "
+"always state which one: the &ldquo;original BSD license&rdquo; or the &ldquo;"
+"Modified BSD license&rdquo;."
+msgstr ""
+"Özellikle BSD lisanslarından birinden söz etmek istediğinizde lütfen hangisi "
+"olduğunu, &ldquo;özgün BSD lisansı&rdquo; mı yoksa &ldquo;Değiştirilmiş BSD "
+"lisansı&rdquo; mı olduğunu belirtin."
+
+#. type: Content of: <p>
+msgid ""
+"Later a third BSD license variant was introduced, with only the first two of "
+"the original BSD license's four clauses.  We call it the &ldquo;FreeBSD "
+"license.&rdquo; It is a lax, noncopyleft free license, compatible with the "
+"GNU GPL, much like the modified BSD license."
+msgstr ""
+"Daha sonra, özgün BSD lisansının dört maddesinden sadece ilk ikisiyle üçüncü "
+"bir BSD lisans türevi tanıtıldı. Biz bu lisansa &ldquo;FreeBSD "
+"lisansı&rdquo; diyoruz. Değiştirilmiş BSD lisansıyla oldukça benzer, GNU GPL "
+"ile uyumlu, gevşek, copyleft olmayan özgür bir lisanstır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1998, 1999, 2001, 2003, 2007, 2013, 2014, 2015 Free "
+"Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1998, 1999, 2001, 2003, 2007, 2013, 2014, 2015 Free "
+"Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>Mert Gör <a href=\"mailto:mertgor@dismail.de\">&lt;mertgor@dismail.de&gt;"
+"</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
