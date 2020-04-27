@@ -1,20 +1,21 @@
 # Turkish translation of https://www.gnu.org/philosophy/who-does-that-server-really-serve.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# The FLOSS Information <theflossinformation@yandex.com>, 2019.
-#
+# The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: who-does-that-server-really-serve.html\n"
 "POT-Creation-Date: 2018-06-05 15:56+0000\n"
-"PO-Revision-Date: 2020-01-18 20:13+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"PO-Revision-Date: 2020-04-27 20:26+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Lokalize 19.12.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -99,7 +100,7 @@ msgstr ""
 "yazılım, arka kapılar ve <a href=\"http://DefectiveByDesign.org\">Dijital "
 "Kısıtlamalar Yönetimi (Digital Restrictions Management [DRM])</a> "
 "(propagandalarında &ldquo;Dijital Haklar Yönetimi [Digital Rights Management]"
-"&rdquo; olarak söz edilir) gibi kötü niyetli özellikleri ekleyerek bu haksız "
+"&rdquo; olarak söz edilir) gibi kötücül özellikleri ekleyerek bu haksız "
 "güçten yararlanırlar."
 
 #. type: Content of: <p>
@@ -202,7 +203,7 @@ msgid ""
 "Furthermore, SaaSS automatically leads to consequences equivalent to the "
 "malicious features of certain proprietary software."
 msgstr ""
-"Ayrıca SaaSS otomatik olarak belirli özel mülk yazılımların kötü niyetli "
+"Ayrıca SaaSS otomatik olarak belirli özel mülk yazılımların kötücül "
 "özelliklerine eş değer sonuçlara yol açar."
 
 #. type: Content of: <p>
@@ -934,8 +935,8 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>The FLOSS Information <a href=\"mailto:theflossinformation@yandex.com"
-"\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2019, 2020.</li>\n"
 "</ul>"
 
 #.  timestamp start 

@@ -2,23 +2,23 @@
 # banner.html paketi için Türkçe çeviriler
 # Copyright (C) 2008 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original text.
+# The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
 # Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
-# The FLOSS Information <theflossinformation@yandex.com>, 2019.
 # April 2020: reorganize includes to fit new layout.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2020-04-09 10:29+0200\n"
-"PO-Revision-Date: 2019-08-25 20:51+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"POT-Creation-Date: 2020-04-26 06:25+0000\n"
+"PO-Revision-Date: 2020-04-27 20:36+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Lokalize 19.12.3\n"
 
 #. type: Content of: <div>
 msgid ""
@@ -54,8 +54,7 @@ msgstr "<a href=\"/doc/doc.html\">BELGELEME</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/proprietary/proprietary.html\">MALWARE</a>"
-msgstr ""
-"<a href=\"/proprietary/proprietary.html\">KÖTÜ&nbsp;AMAÇLI&nbsp;YAZILIM</a>"
+msgstr "<a href=\"/proprietary/proprietary.html\">KÖTÜCÜL&nbsp;YAZILIM</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/help/help.html\">HELP&nbsp;GNU</a>"

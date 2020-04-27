@@ -1,20 +1,20 @@
 # Turkish translation of https://www.gnu.org/home.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-#
+# 
 # The FLOSS Information <theflossinformation@yandex.com>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
 "POT-Creation-Date: 2020-04-26 06:25+0000\n"
-"PO-Revision-Date: 2020-02-25 06:26+0300\n"
+"PO-Revision-Date: 2020-04-27 20:31+0300\n"
 "Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 19.12.2\n"
+"X-Generator: Lokalize 19.12.3\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
@@ -307,7 +307,7 @@ msgid ""
 "you should think of &ldquo;free&rdquo; as in &ldquo;free speech&rdquo;, not "
 "as in &ldquo;free beer&rdquo;."
 msgstr ""
-"Özgür yazılım; ücretle ilgili değil, özgürlükle ilgilidir. Kavramı anlamak "
+"Özgür yazılım; fiyatla ilgili değil, özgürlükle ilgilidir. Kavramı anlamak "
 "için &ldquo;bedava bira&rdquo;daki gibi değil, &ldquo;özgür konuşma&rdquo;"
 "daki gibi &ldquo;free&rdquo;yi düşünmelisiniz."
 
@@ -371,9 +371,9 @@ msgid ""
 "can help</a>."
 msgstr ""
 "Günümüzde özgür yazılım hareketi, GNU sistemini geliştirmenin çok ötesine "
-"geçer. Yaptıklarımız hakkında daha fazla bilgi edinmek <a href=\"https://fsf."
-"org\">Özgür Yazılım Vakfının web sitesine</a> bakabilirsiniz ve <a href=\"/"
-"help\">nasıl yardım edebileceğinizi</a> öğrenebilirsiniz."
+"geçer. Yaptıklarımız hakkında daha fazla bilgi edinmek için <a href="
+"\"https://fsf.org\">Özgür Yazılım Vakfının web sitesine</a> bakabilirsiniz "
+"ve <a href=\"/help\">nasıl yardım edebileceğinizi</a> öğrenebilirsiniz."
 
 #. type: Content of: <div><div><h2>
 msgid "More about GNU"

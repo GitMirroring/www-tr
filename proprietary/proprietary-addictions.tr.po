@@ -1,21 +1,21 @@
 # Turkish translation of https://www.gnu.org/proprietary/proprietary-addictions.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-#
+# 
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-addictions.html\n"
 "POT-Creation-Date: 2020-02-25 13:55+0000\n"
-"PO-Revision-Date: 2020-03-04 22:06+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"PO-Revision-Date: 2020-04-27 20:09+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Lokalize 19.12.3\n"
 
 #. type: Content of: <title>
 msgid "Proprietary Addictions - GNU Project - Free Software Foundation"
@@ -26,7 +26,7 @@ msgid ""
 "<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
 "Addictions"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Özel mülk kötü amaçlı yazılım</a> "
+"<a href=\"/proprietary/proprietary.html\">Özel mülk kötücül yazılım</a> "
 "&rarr; Bağımlılıklar"
 
 #. type: Content of: <div><h2>
@@ -42,17 +42,16 @@ msgid ""
 "and manufacturers often exercise that power to the detriment of the users "
 "they ought to serve."
 msgstr ""
-"Özgür olmayan (özel mülk) yazılım genellikle kötü amaçlı yazılımdır "
-"(kullanıcıya kötü davranmak için tasarlanmıştır). Özgür olmayan yazılım, "
-"geliştiricileri tarafından kontrol edilir ve bu da onları kullanıcılar "
-"üzerinde bir iktidar kurmasına yol açar; <a href=\"/philosophy/free-software-"
-"even-more-important.html\">temel adaletsizlik budur</a>. Geliştiriciler ve "
-"üreticiler genellikle bu iktidarı, hizmet vermeleri gereken kullanıcıların "
-"zararına uygularlar."
+"Özgür olmayan (özel mülk) yazılım genellikle kötücül yazılımdır (kullanıcıya "
+"kötü davranmak için tasarlanmıştır). Özgür olmayan yazılım, geliştiricileri "
+"tarafından kontrol edilir ve bu da onları kullanıcılar üzerinde bir iktidar "
+"kurmasına yol açar; <a href=\"/philosophy/free-software-even-more-important."
+"html\">temel adaletsizlik budur</a>. Geliştiriciler ve üreticiler genellikle "
+"bu iktidarı, hizmet vermeleri gereken kullanıcıların zararına uygularlar."
 
 #. type: Content of: <div><div><p>
 msgid "This typically takes the form of malicious functionalities."
-msgstr "Bu genellikle kötü amaçlı işlevsellikler biçimini alır."
+msgstr "Bu genellikle kötücül işlevsellikler biçimini alır."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -62,8 +61,7 @@ msgid ""
 msgstr ""
 "Bu sayfa; yalnızca kullanıcılarda bağımlılık yapma riskiyle birlikte "
 "kullanıcıları, programı daha sık ve yoğun bir şekilde kullanmaya "
-"yönlendirmek amacıyla bazı programlara eklenen kötü amaçlı işlevlerle "
-"ilgilidir."
+"yönlendirmek amacıyla bazı programlara eklenen kötücül işlevlerle ilgilidir."
 
 #. type: Content of: <div><div><p>
 msgid ""

@@ -1,20 +1,20 @@
 # Turkish translation of https://www.gnu.org/philosophy/javascript-trap.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# The FLOSS Information <theflossinformation@yandex.com>, 2019.
+# The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-trap.html\n"
 "POT-Creation-Date: 2019-03-14 01:26+0000\n"
-"PO-Revision-Date: 2019-12-18 20:10+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"PO-Revision-Date: 2020-04-27 20:03+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Lokalize 19.12.3\n"
 
 #. type: Content of: <h2>
 msgid "The JavaScript Trap"
@@ -138,8 +138,8 @@ msgid ""
 "of these services is to give the web site other personal data that it "
 "shouldn't get."
 msgstr ""
-"Özgür olmamaya ek olarak bu programların birçoğu <em>kötü amaçlı yazılımdır</"
-"em> çünkü <a href=\"http://github.com/w3c/fingerprinting-guidance/"
+"Özgür olmamaya ek olarak bu programların birçoğu <em>kötücül yazılımdır</em> "
+"çünkü <a href=\"http://github.com/w3c/fingerprinting-guidance/"
 "issues/8\">kullanıcıyı gizlice gözetlerler</a>. Daha da kötüsü, bazı "
 "siteler, <a href=\"https://freedom-to-tinker.com/2017/11/15/no-boundaries-"
 "exfiltration-of-personal-data-by-session-replay-scripts/\">sayfaya bakan "
@@ -561,8 +561,9 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>The FLOSS Information <a href=\"mailto:theflossinformation@yandex.com"
-"\">&lt;theflossinformation@yandex.com&gt;</a>, 2019</li>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2019, 2020.</li>\n"
+"\n"
 "</ul>"
 
 #.  timestamp start 

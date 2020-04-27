@@ -2,25 +2,26 @@
 # can-you-trust.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original page.
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
 # T. E. Kalayci, 2019, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: can-you-trust.html\n"
 "POT-Creation-Date: 2016-10-27 23:55+0000\n"
-"PO-Revision-Date: 2019-09-08 15:14+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"PO-Revision-Date: 2020-04-27 20:12+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Lokalize 19.12.3\n"
 
 #. type: Content of: <title>
 msgid "Can You Trust Your Computer? - GNU Project - Free Software Foundation"
@@ -475,14 +476,14 @@ msgid ""
 "Palladium.  And so on."
 msgstr ""
 "Sunumda güvenlik kapsamıyla çoğu kez ilişkilendirdiğimiz başka terimleri "
-"sıkça kullanmaktadır, örneğin &ldquo;saldırı&rdquo;,&ldquo;zararlı "
+"sıkça kullanmaktadır, örneğin &ldquo;saldırı&rdquo;,&ldquo;kötücül "
 "kod&rdquo;, &ldquo;aldatma&rdquo; (spoofing), &ldquo;güvenli&rdquo; gibi. "
 "Hiçbiri asıl anlamlarında kullanılmamaktadır. &ldquo;&rdquo; birinin size "
 "zarar vermeye çalışması anlamına gelmiyor, müziklerinizi kopyalamaya "
-"çalıştığı anlamına geliyor. &ldquo;Zararlı &rdquo;, başkasının makinenizin "
-"yapmasını istemediği bir şeyi yapması üzerine sizin tarafından kurulan kod "
-"anlamına geliyor. &ldquo;Aldatma&rdquo; birinin sizi aldattığı anlamına "
-"gelmiyor, sizin Palladium'u aldattığınız anlamına geliyor. Örnekler "
+"çalıştığı anlamına geliyor. &ldquo;Kötücül kod &rdquo;, başkasının "
+"makinenizin yapmasını istemediği bir şeyi yapması üzerine sizin tarafından "
+"kurulan kod anlamına geliyor. &ldquo;Aldatma&rdquo; birinin sizi aldattığı "
+"anlamına gelmiyor, sizin Palladium'u aldattığınız anlamına geliyor. Örnekler "
 "arttırılabilir."
 
 #. type: Content of: <ol><li><p>
@@ -640,6 +641,8 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
 "<li>T. E. Kalayci, 2019, 2009.</li>\n"
 "<li>Çiğdem Özşar, 2009.</li>\n"
 "<li>Birkan Sarıfakıoğlu, 2009.</li>\n"

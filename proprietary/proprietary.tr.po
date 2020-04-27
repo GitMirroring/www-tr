@@ -1,21 +1,21 @@
 # Turkish translation of https://www.gnu.org/proprietary/proprietary.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-#
+# 
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
 "POT-Creation-Date: 2020-04-14 07:55+0000\n"
-"PO-Revision-Date: 2020-04-15 18:41+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"PO-Revision-Date: 2020-04-27 20:08+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Lokalize 19.12.3\n"
 
 #. type: Content of: <title>
 msgid "Proprietary Software - GNU Project - Free Software Foundation"
@@ -28,7 +28,7 @@ msgstr "  .reduced-width { width: 55em; }\n"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Software Is Often Malware"
-msgstr "Özel Mülk Yazılım Genellikle Kötü Amaçlı Yazılımdır"
+msgstr "Özel Mülk Yazılım Genellikle Kötücül Yazılımdır"
 
 #. type: Content of: <div><div><p>
 msgid "<a href=\"#TOC\">Table of contents</a>"
@@ -59,7 +59,7 @@ msgid ""
 "often leads to further injustices: malicious functionalities."
 msgstr ""
 "Bu sayfanın bakış açısı, özel mülk yazılımın ilk adaletsizliğinin genellikle "
-"daha fazla adaletsizliğe yol açtığı şeklindedir: kötü amaçlı işlevler."
+"daha fazla adaletsizliğe yol açtığı şeklindedir: kötücül işlevler."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -71,7 +71,7 @@ msgid ""
 msgstr ""
 "Güç yozlaştırır; özel mülk programın geliştiricisi, programı kullanıcılarına "
 "kötü muamele yapacak şekilde tasarlama eğilimindedir. (İşleyişi kullanıcıya "
-"kötü davranan yazılımlara <em>kötü amaçlı yazılım</em> denir.) Tabii ki "
+"kötü davranan yazılımlara <em>kötücül yazılım</em> denir.) Tabii ki "
 "geliştirici bunu genellikle kötülüğünden dolayı yapmaz, bunun yerine "
 "kullanıcıların pahasına daha fazla kâr elde etmek için yapar. Bu onu daha az "
 "kötü ya da daha meşru yapmaz."
@@ -90,9 +90,9 @@ msgid ""
 "of malicious functionalities (with more than 500 references to back them "
 "up), but there are surely thousands more we don't know about."
 msgstr ""
-"Ocak 2020 itibarıyla bu dizindeki sayfalar yaklaşık 450 kötü amaçlı "
-"işlevsellik örneğini listeler (onları destekleyen 500'den fazla referansla) "
-"ancak muhakkak bilmediğimiz binlerce daha vardır."
+"Ocak 2020 itibarıyla bu dizindeki sayfalar yaklaşık 450 kötücül işlevsellik "
+"örneğini listeler (onları destekleyen 500'den fazla referansla) ancak "
+"muhakkak bilmediğimiz binlerce daha vardır."
 
 #. type: Content of: <div><table><tr><th>
 msgid "Injustices or techniques"
@@ -339,7 +339,7 @@ msgstr ""
 "CIA, <a href=\"https://www.independent.co.uk/life-style/gadgets-and-tech/"
 "news/wikileaks-vault-7-android-iphone-cia-phones-handsets-tv-smart-julian-"
 "assange-a7616651.html\">kapalı gözükmesini sağladığı halde mikrofon ve "
-"kameralar aracılığıyla casusluk</a> yapan kötü amaçlı bir yazılım tasarlamak "
+"kameralar aracılığıyla casusluk</a> yapan kötücül bir yazılım tasarlamak "
 "için &ldquo;akıllı&rdquo; TV ve telefonlardaki mevcut açıkları istismar "
 "etti. Casus yazılım sinyalleri yakaladığı için şifrelemeyi es geçiyor."
 

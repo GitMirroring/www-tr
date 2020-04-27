@@ -2,26 +2,26 @@
 # right-to-read.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
 # T. E. Kalayci, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
-# The FLOSS Information <theflossinformation@yandex.com>, 2019.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: right-to-read.html\n"
 "POT-Creation-Date: 2019-07-23 15:25+0000\n"
-"PO-Revision-Date: 2020-01-18 20:08+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"PO-Revision-Date: 2020-04-27 20:18+0300\n"
+"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Lokalize 19.12.3\n"
 
 #. type: Content of: <title>
 msgid "The Right to Read - GNU Project - Free Software Foundation"
@@ -151,7 +151,7 @@ msgid ""
 msgstr ""
 "SPA ve Merkezi Lisanslama'dan kaçmanın elbette yolları vardı.  Ancak bunlar "
 "yasal değildi.  Dan’ın yazılım sınıfında, Frank Martucci adında bir sınıf "
-"arkadaşı vardı, Frank, yasadışı bir hata ayıklama (debugging) aracı temin "
+"arkadaşı vardı, Frank, yasa dışı bir hata ayıklama (debugging) aracı temin "
 "etti ve bu aracı, kitap okurken, telif hakkı izleme kodunu atlatmak için "
 "kullandı. Ancak çok sayıda arkadaşına bu hata ayıklayıcıdan bahsetti ve bu "
 "arkadaşlarından biri, bir ödül karşılığında onu şikayet etti (borçta olan "
@@ -173,7 +173,7 @@ msgstr ""
 "kullanıcılar, bunu, telif hakkı izleyicilerini atlatmak etmek için "
 "kullanmaya başladığı için bir hakem, gerçek uygulamada, bunun, hata "
 "ayıklayıcıların temel kullanımı haline geldiğine karar verdi. Bu, onların "
-"yasadışı olduğu anlamına gelmekteydi; hata ayıklayıcıların geliştiricileri "
+"yasa dışı olduğu anlamına gelmekteydi; hata ayıklayıcıların geliştiricileri "
 "hapse gönderildi."
 
 #. type: Content of: <div><div><p>
@@ -407,7 +407,7 @@ msgstr ""
 "ABD; ikili anlaşmalar yoluyla Avustralya'ya, Panama'ya, Kolombiya'ya ve "
 "Güney Kore'ye ve başka bir anlaşma ile CAFTA'dan Kosta Rika gibi ülkelere "
 "DMCA gereklilikleri getirmiştir. Obama; kampanyayı iki yeni önerilen anlaşma "
-"ile, TPP ve TTIP, ile artırdı. TPP; DMCA'yı ve diğer birçok yanlışlıkla "
+"ile, TPP ve TTIP ile, artırdı. TPP; DMCA'yı ve diğer birçok yanlışlıkla "
 "birlikte Pasifik Okyanusu'ndaki 12 ülkeye dayatacaktır. TTIP, Avrupa'da da "
 "benzer kısıtlamalar uygular. Bütün bu anlaşmalar yenilmeli veya "
 "kaldırılmalıdır."
@@ -823,7 +823,8 @@ msgstr ""
 "<ul>\n"
 "\n"
 "<li>\n"
-"The FLOSS Information &lt;theflossinformation@yandex.com&gt;, 2019.\n"
+"The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com\">&lt;"
+"theflossinformation@gmail.com&gt;</a>, 2019, 2020.\n"
 "</li>\n"
 "<li>\n"
 "T. E. Kalaycı, 2009.\n"
