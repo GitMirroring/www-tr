@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: footer-text.html\n"
-"POT-Creation-Date: 2019-02-16 18:26+0000\n"
-"PO-Revision-Date: 2019-08-25 19:57+0300\n"
+"POT-Creation-Date: 2020-04-26 06:25+0000\n"
+"PO-Revision-Date: 2020-04-27 17:35+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -17,43 +17,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
-#. type: Content of: <div>
-msgid "<a href=\"#navigation\"><span>TOP</span> &#9650;</a>"
-msgstr "<a href=\"#navigation\"><span>YUKARIYA GİT</span> &#9650;</a>"
+#. type: Content of: <div><div>
+msgid "<a href=\"#\" class=\"close\"></a>"
+msgstr "<a href=\"#\" class=\"close\"></a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/proprietary/proprietary.html\">MALWARE</a>"
-msgstr "<a href=\"/proprietary/proprietary.html\">KÖTÜ AMAÇLI YAZILIM</a>"
+#. type: Content of: <div><div>
+msgid "<a href=\"#header\"><span>BACK TO TOP </span>&#11165;</a>"
+msgstr "<a href=\"#header\"><span>BAŞA DÖN </span>&#11165;</a>"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/graphics/graphics.html\">GNU&nbsp;ART</a>"
-msgstr "<a href=\"/graphics/graphics.html\">GNU&nbsp;SANATI</a>"
+#. #echo encoding="none" var="language_selector" 
+#. type: Content of: <div><div><div>
+msgid "Set language"
+msgstr "Dili ayarla"
 
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/people/people.html\">GNU'S&nbsp;WHO?</a>"
-msgstr "<a href=\"/people/people.html\">GNU&nbsp;KİM?</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/server/sitemap.html\">SITEMAP</a>"
-msgstr "<a href=\"/server/sitemap.html\">SİTE HARİTASI</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"//directory.fsf.org\">SOFTWARE&nbsp;DIRECTORY</a>"
-msgstr "<a href=\"//directory.fsf.org\">YAZILIM&nbsp;DİZİNİ</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"https://h-node.org/\">HARDWARE</a>"
-msgstr "<a href=\"https://h-node.org/\">DONANIM</a>"
+#. type: Content of: <div><div><p>
+msgid "Available for this page:"
+msgstr "Bu sayfa şu dillerde mevcut:"
 
 #. type: Content of: <div><blockquote><p><a>
 msgid "<a href=\"//www.fsf.org\">"
 msgstr "<a href=\"//www.fsf.org\">"
 
 #. type: Attribute 'alt' of: <div><blockquote><p><a><img>
-msgid "[FSF logo]"
-msgstr "[FSF logosu]"
+msgid "&nbsp;[FSF logo]&nbsp;"
+msgstr "&nbsp;[FSF logosu]&nbsp;"
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
@@ -66,7 +55,7 @@ msgstr ""
 "ile kâr amacı gütmeyen bir kuruluştur. Tüm yazılım kullanıcılarının "
 "haklarını savunuyoruz.&rdquo;</strong>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div>
 msgid ""
 "<a class=\"join\" href=\"//www.fsf.org/associate/support_freedom?"
 "referrer=4052\">JOIN</a> <a class=\"donate\" href=\"//donate.fsf.org/"
@@ -76,8 +65,26 @@ msgstr ""
 "referrer=4052\">KATIL</a> <a class=\"donate\" href=\"//donate.fsf.org/"
 "\">BAĞIŞ YAP</a> <a class=\"shop\" href=\"//shop.fsf.org/\">MAĞAZA</a>"
 
-#~ msgid "<a href=\"#header\">BACK TO TOP</a>"
-#~ msgstr "<a href=\"#header\">BAŞA DÖN</a>"
+#~ msgid "<a href=\"#navigation\"><span>TOP</span> &#9650;</a>"
+#~ msgstr "<a href=\"#navigation\"><span>YUKARIYA GİT</span> &#9650;</a>"
+
+#~ msgid "<a href=\"/proprietary/proprietary.html\">MALWARE</a>"
+#~ msgstr "<a href=\"/proprietary/proprietary.html\">KÖTÜ AMAÇLI YAZILIM</a>"
+
+#~ msgid "<a href=\"/graphics/graphics.html\">GNU&nbsp;ART</a>"
+#~ msgstr "<a href=\"/graphics/graphics.html\">GNU&nbsp;SANATI</a>"
+
+#~ msgid "<a href=\"/people/people.html\">GNU'S&nbsp;WHO?</a>"
+#~ msgstr "<a href=\"/people/people.html\">GNU&nbsp;KİM?</a>"
+
+#~ msgid "<a href=\"/server/sitemap.html\">SITEMAP</a>"
+#~ msgstr "<a href=\"/server/sitemap.html\">SİTE HARİTASI</a>"
+
+#~ msgid "<a href=\"//directory.fsf.org\">SOFTWARE&nbsp;DIRECTORY</a>"
+#~ msgstr "<a href=\"//directory.fsf.org\">YAZILIM&nbsp;DİZİNİ</a>"
+
+#~ msgid "<a href=\"https://h-node.org/\">HARDWARE</a>"
+#~ msgstr "<a href=\"https://h-node.org/\">DONANIM</a>"
 
 #~ msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 #~ msgstr "Yazan: <a href=\"http://www.stallman.org/\">Richard Stallman</a>"

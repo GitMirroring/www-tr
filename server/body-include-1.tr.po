@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2015-04-07 05:25+0000\n"
-"PO-Revision-Date: 2019-08-25 19:28+0300\n"
+"POT-Creation-Date: 2020-04-26 06:25+0000\n"
+"PO-Revision-Date: 2020-04-27 17:32+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -17,26 +17,96 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <div>
-msgid "<a href=\"#content\">Skip to main text</a>"
-msgstr "<a href=\"#content\">Ana metne geç</a>"
+msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
+msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
 
-#. #echo encoding="none" var="language_selector" 
-#. type: Content of: <div>
-msgid "Set language"
-msgstr "Dili ayarla"
-
-#. type: Content of: <div><form><div>
+#. type: Content of: <div><div>
 msgid ""
-"<input name=\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s"
-"\" value=\"Why GNU/Linux?\" onfocus=\"this.value=''\" /> <input type=\"submit"
-"\" value=\"Search\" />"
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
 msgstr ""
-"<input name=\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s"
-"\" value=\"Neden GNU/Linux?\" onfocus=\"this.value=''\" /> <input type="
-"\"submit\" value=\"Ara\" />"
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
+
+#. type: Content of: <div><form><fieldset>
+msgid ""
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
+msgstr ""
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
+
+#. type: Content of: <div><form><fieldset><label>
+msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
+msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
+
+#. type: Content of: <div><form><fieldset><div>
+msgid ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+msgstr ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'alt' of: <div><p><a><img>
+msgid "&nbsp;[A GNU head]&nbsp;"
+msgstr "&nbsp;[Bir GNU kafası]&nbsp;"
+
+#. type: Content of: <div><p>
+msgid "<strong>GNU</strong> <span class=\"hide\">Operating System</span></a>"
+msgstr "<strong>GNU</strong> <span class=\"hide\">İşletim Sistemi</span></a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"<small id=\"fsf-support\">Supported by the <a href=\"#mission-statement"
+"\">Free Software Foundation</a></small>"
+msgstr ""
+"<small id=\"fsf-support\"><a href=\"#mission-statement\">Özgür Yazılım "
+"Vakfı</a> sponsorluğunda</small>"
+
+#. type: Content of: <div><div><a>
+msgid ""
+"<a id=\"search-button\" class=\"switch\" href=\"//www.gnu.org/cgi-bin/"
+"estseek.cgi\">"
+msgstr ""
+"<a id=\"search-button\" class=\"switch\" href=\"//www.gnu.org/cgi-bin/"
+"estseek.cgi\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Search www.gnu.org]&nbsp;"
+msgstr "&nbsp;[www.gnu.org'da Ara]&nbsp;"
+
+#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/" 
+#. type: Content of: <div><div><a>
+msgid ""
+"</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container\">"
+msgstr ""
+"</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Languages]&nbsp;"
+msgstr "&nbsp;[Languages - Diller]&nbsp;"
+
+#. #endif 
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#~ msgid "Set language"
+#~ msgstr "Dili ayarla"
 
 # type: Content of: <body><div>
 #~ msgid ""

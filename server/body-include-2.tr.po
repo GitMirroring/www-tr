@@ -4,11 +4,12 @@
 # This file is distributed under the same license as the original text.
 # Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
 # The FLOSS Information <theflossinformation@yandex.com>, 2019.
+# April 2020: reorganize includes to fit new layout.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2020-01-17 20:56+0000\n"
+"POT-Creation-Date: 2020-04-09 10:29+0200\n"
 "PO-Revision-Date: 2019-08-25 20:51+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -19,56 +20,13 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.2.3\n"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div>
 msgid ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+"<a id=\"more-links\" href=\"#navigation\"></a> <a id=\"less-links\" href="
+"\"#tabAboutGNU\"></a>"
 msgstr ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">FSF'ye katılın!</a>"
-
-#. type: Content of: <div><div><div><p>
-msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>"
-msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>"
-
-#. type: Content of: <div><div><div><form><div>
-msgid ""
-"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
-"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
-"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
-"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
-msgstr ""
-"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
-"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
-"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
-"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
-
-#. type: Content of: <div><div><div><form><p>
-msgid ""
-"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
-"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
-msgstr ""
-"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-"maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> <input "
-"type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
-
-#. type: Content of: <div><div><a>
-msgid "<a href=\"/\">"
-msgstr "<a href=\"/\">"
-
-#. type: Attribute 'alt' of: <div><div><a><img>
-msgid "[A GNU head]"
-msgstr "[Bir GNU kafası]"
-
-#. type: Content of: <div><div>
-msgid "<strong>GNU</strong> Operating System</a>"
-msgstr "<strong>GNU</strong> İşletim Sistemi</a>"
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Sponsored by the <a href=\"#mission-statement\">Free Software Foundation</a>"
-msgstr "<a href=\"#mission-statement\">Özgür Yazılım Vakfı</a> sponsorluğunda"
+"<a id=\"more-links\" href=\"#navigation\"></a> <a id=\"less-links\" href="
+"\"#tabAboutGNU\"></a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/gnu/gnu.html\">ABOUT&nbsp;GNU</a>"
@@ -95,25 +53,30 @@ msgid "<a href=\"/doc/doc.html\">DOCS</a>"
 msgstr "<a href=\"/doc/doc.html\">BELGELEME</a>"
 
 #. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/proprietary.html\">MALWARE</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary.html\">KÖTÜ&nbsp;AMAÇLI&nbsp;YAZILIM</a>"
+
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/help/help.html\">HELP&nbsp;GNU</a>"
 msgstr "<a href=\"/help/help.html\">GNU'YA&nbsp;YARDIM&nbsp;ET</a>"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"#fsf-links\">More &#9660;</a>"
-msgstr "<a href=\"#fsf-links\">Daha Fazla &#9660;</a>"
+msgid "<a href=\"/graphics/graphics.html\">GNU&nbsp;ART</a>"
+msgstr "<a href=\"/graphics/graphics.html\">GNU&nbsp;SANATI</a>"
 
-#~ msgid ""
-#~ "<label class=\"netscape4\" for=\"phrase\">Search:</label> <input name="
-#~ "\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value="
-#~ "\"Why GNU/Linux?\" /> <input type=\"submit\" value=\"Search\" />"
-#~ msgstr ""
-#~ "<label class=\"netscape4\" for=\"phrase\">Arama:</label> <input name="
-#~ "\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"a\" value="
-#~ "\"Neden GNU/Linux?\" /> <input type=\"submit\" value=\"Ara\" />"
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/people/people.html\">GNU'S&nbsp;WHO?</a>"
+msgstr "<a href=\"/people/people.html\">GNU&nbsp;KİM?</a>"
 
-#~ msgid ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">Join the FSF!</a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">FSF'ye katılın!</a>"
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/server/sitemap.html\">SITEMAP</a>"
+msgstr "<a href=\"/server/sitemap.html\">SİTE HARİTASI</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"//directory.fsf.org\">SOFTWARE&nbsp;DIRECTORY</a>"
+msgstr "<a href=\"//directory.fsf.org\">YAZILIM&nbsp;DİZİNİ</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"https://h-node.org/\">HARDWARE</a>"
+msgstr "<a href=\"https://h-node.org/\">DONANIM</a>"

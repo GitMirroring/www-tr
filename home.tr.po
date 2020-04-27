@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2020-02-25 10:25+0000\n"
+"POT-Creation-Date: 2020-04-26 06:25+0000\n"
 "PO-Revision-Date: 2020-02-25 06:26+0300\n"
 "Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -82,7 +82,7 @@ msgstr ""
 "öneririz. <a href=\"#More-GNU\">Aşağıda GNU hakkında daha fazla bilgiye "
 "ulaşabilirsiniz</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div>
 msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux</a>"
 msgstr "<a href=\"/distros/free-distros.html\">GNU/Linux'u Deneyin</a>"
 
@@ -260,7 +260,7 @@ msgstr "<small>PureOS / GNOME3</small>"
 msgid "<small>Trisquel / MATE</small>"
 msgstr "<small>Trisquel / MATE</small>"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div>
 msgid ""
 "... or <a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
 "Free_software_replacements\"> Try parts of GNU</a>"
