@@ -1,0 +1,214 @@
+# Turkish translation of http://www.gnu.org/doc/doc.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: doc.html\n"
+"POT-Creation-Date: 2015-02-18 19:25+0000\n"
+"PO-Revision-Date: 2020-05-02 08:16+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid ""
+"Documentation of the GNU Project - GNU Project - Free Software Foundation"
+msgstr "GNU Projesi'nin Belgeleri - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Documentation of the GNU Project"
+msgstr "GNU Projesi'nin Belgeleri"
+
+#. type: Content of: <p>
+msgid ""
+"GNU and other free documentation can be obtained by the following methods:"
+msgstr "GNU ve diğer özgür belgeler aşağıdaki yöntemlerle edinilebilir:"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Most <a href=\"/manual/manual.html\">GNU manuals</a> are online in various "
+"formats."
+msgstr ""
+"Çoğu <a href=\"/manual/manual.html\">GNU kılavuzu</a> çeşitli biçimlerde "
+"çevrim içi durumdadır."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The <a href=\"http://directory.fsf.org/\">Free Software Directory</a> "
+"includes links to documentation."
+msgstr ""
+"<a href=\"http://directory.fsf.org/\">Özgür Yazılım Dizini</a> belgelere "
+"bağlantılar içerir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://planet.gnu.org\">planet.gnu.org</a> is an aggregation of "
+"blogs and news announcements from GNU packages."
+msgstr ""
+"<a href=\"http://planet.gnu.org\">planet.gnu.org</a>; GNU paketlerinden ağ "
+"güncelerinin ve haber duyurularının bir kümesidir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://shop.fsf.org\">FSF online store: Printed books, T-shirts, "
+"posters, and more.</a>"
+msgstr ""
+"<a href=\"http://shop.fsf.org\">FSF çevrim içi mağaza: Basılı kitaplar, "
+"tişörtler, posterler ve daha fazlası.</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/doc/other-free-books.html\">Free books from other publishers</a>: "
+"Printed books from other publishers using free documentation licenses."
+msgstr ""
+"<a href=\"/doc/other-free-books.html\">Diğer yayıncılardan özgür kitaplar</"
+"a>: Özgür belgeleme lisanslarını kullanan diğer yayıncılardan basılı "
+"kitaplar."
+
+#. type: Content of: <h3>
+msgid "GNU documentation principles"
+msgstr "GNU belgeleme ilkeleri"
+
+#. type: Content of: <p>
+msgid ""
+"We believe the reader should be free to copy, update, and redistribute GNU "
+"documentation, just like GNU software."
+msgstr ""
+"Okurun tıpkı GNU yazılımı gibi GNU belgelerini kopyalamak, güncellemek ve "
+"yeniden dağıtmak için özgür olması gerektiğine inanıyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"Originally, all our documentation was released under a short <a href=\"/"
+"licenses/licenses.html#WhatIsCopyleft\">copyleft</a> license, or under the "
+"<a href=\"/licenses/licenses.html#GPL\">GNU General Public License (GPL)</"
+"a>.  In 2001, the <a href=\"/licenses/licenses.html#FDL\">GNU Free "
+"Documentation License (FDL)</a> was created to address needs that were not "
+"met by licenses originally designed for software.  For more information on "
+"free documentation, please see <a href=\"http://www.stallman.org/\">Richard "
+"Stallman's</a> essay, &ldquo;<a href=\"/philosophy/free-doc.html\">Free "
+"Software and Free Manuals</a>&rdquo;.  A <a href=\"freemanuals.texi"
+"\">Texinfo version of that essay</a> is available for inclusion in manuals."
+msgstr ""
+"Başlangıçta tüm belgelerimiz kısa bir <a href=\"/licenses/licenses."
+"html#WhatIsCopyleft\">copyleft</a> lisans altında veya <a href=\"/licenses/"
+"licenses.html#GPL\">GNU Genel Kamu Lisansı (<abbr title=\"General Public "
+"License\">GPL</abbr>)</a> altında yayımlandı. 2001'de asıl olarak yazılım "
+"için tasarlanmış lisanslar tarafından karşılanmayan gereksinimleri "
+"karşılamak için <a href=\"/licenses/licenses.html#FDL\">GNU Özgür "
+"Belgelendirme Lisansı (<abbr title=\"Free Documentation License\">FDL</"
+"abbr>)</a> oluşturuldu. Özgür belgeler ile ilgili daha fazla bilgi için "
+"lütfen <a href=\"http://www.stallman.org/\">Richard Stallman'ın</a> &ldquo;"
+"<a href=\"/philosophy/free-doc.html\">Özgür Yazılım ve Özgür Kılavuzlar</"
+"a>&rdquo; denemesine bakın. <a href=\"freemanuals.texi\">Bu denemenin bir "
+"Texinfo sürümü</a>, kılavuzlara dâhil edilmek üzere mevcuttur."
+
+#. type: Content of: <h3>
+msgid "Contribute"
+msgstr "Katkıda bulun"
+
+#. type: Content of: <p>
+msgid ""
+"Please help us write more documentation! This is one of the most important "
+"ways to contribute to the free software movement.  For more details on this "
+"and other ways to help, <a href=\"/help/help.html#helpgnu\">click here</a>."
+msgstr ""
+"Lütfen daha fazla belge yazmamıza yardım edin! Bu, özgür yazılım hareketine "
+"katkıda bulunmanın en önemli yollarından biridir. Bu ve yardım etmenin diğer "
+"yolları ile ilgili daha fazla ayrıntı için <a href=\"/help/help.html#helpgnu"
+"\">buraya tıklayın</a>."
+
+#. type: Content of: <p>
+msgid ""
+"<b>GNU Press:</b> another way to contribute is to help us <a href=\"/doc/"
+"expanding.html\">expand bookstore availability</a> of <a href=\"/doc/"
+"gnupresspub.html\">GNU Press</a> books.  For this or any reason, you can <a "
+"href=\"mailto:sales@fsf.org\">contact GNU Press</a>."
+msgstr ""
+"<b>GNU Press:</b> Katkıda bulunmanın başka bir yolu da <a href=\"/doc/"
+"gnupresspub.html\">GNU Press</a> kitaplarının <a href=\"/doc/expanding.html"
+"\">kitapçı bulunabilirliğini genişletmemize</a> yardımcı olmaktır. Bu veya "
+"herhangi bir nedenle <a href=\"mailto:sales@fsf.org\">GNU Press</a> ile "
+"iletişime geçebilirsiniz."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014, 2015 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

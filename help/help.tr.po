@@ -1,0 +1,619 @@
+# Turkish translation of https://www.gnu.org/help/help.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: help.html\n"
+"POT-Creation-Date: 2019-07-21 05:55+0000\n"
+"PO-Revision-Date: 2020-05-02 08:28+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid ""
+"Helping the GNU Project and the Free Software Movement - GNU Project - Free "
+"Software Foundation"
+msgstr ""
+"GNU Projesi'ne ve Özgür Yazılım Hareketine Yardım Etmek - GNU Projesi - "
+"Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Helping the GNU Project and the Free Software Movement"
+msgstr "GNU Projesi'ne ve Özgür Yazılım Hareketine Yardım Etmek"
+
+#. type: Content of: <div><h3>
+msgid "Table of Contents"
+msgstr "İçindekiler"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#develop\">Help develop the GNU operating system</a>"
+msgstr ""
+"<a href=\"#develop\">GNU işletim sisteminin geliştirilmesi yardım edin</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#fsf\">Volunteer with and donate to the Free Software Foundation</"
+"a>"
+msgstr ""
+"<a href=\"#fsf\">Özgür Yazılım Vakfı için gönüllü olun ve bağış yapın</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#awareness\">Spread awareness about GNU and the Free Software "
+"Movement</a>"
+msgstr ""
+"<a href=\"#awareness\">GNU ve Özgür Yazılım Hareketi hakkında farkındalık "
+"yaratın</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#helpgnu\">Help support GNU development and use</a>"
+msgstr ""
+"<a href=\"#helpgnu\">GNU geliştirimini ve kullanımını desteklemeye yardım "
+"edin</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"#hnode\">Help improve h-node.org</a>"
+msgstr "<a href=\"#hnode\">h-node.org'un iyileştirilmesine yardım edin</a>"
+
+#. type: Content of: <p>
+msgid ""
+"For general questions about the GNU project, mail <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a> and for questions and suggestions about this "
+"web site, mail <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"GNU Projesi hakkında genel sorular için <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a>'a e-posta gönderin ve bu web sitesi hakkında soru ve "
+"önerileriniz için <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>'a e-posta gönderin."
+
+#. type: Content of: <h3>
+msgid "Help develop the GNU operating system"
+msgstr "GNU işletim sisteminin geliştirilmesine yardım edin"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Write free <a href=\"/philosophy/free-doc.html\"> manuals and other "
+"documentation</a> for GNU software."
+msgstr ""
+"GNU yazılımı için özgür <a href=\"/philosophy/free-doc.html\">kılavuzlar ve "
+"başka belgeler</a> yazın."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Contribute to the <a href=\"http://www.fsf.org/campaigns/priority.html"
+"\">high priority free software projects</a>."
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html\">Yüksek öncelikli "
+"özgür yazılım projelerine</a> katkıda bulunun."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The <a href=\"http://savannah.gnu.org/people/?type_id=1\">GNU Help Wanted</"
+"a> list is the general task list for GNU software packages.  You might also "
+"consider taking over one of the <a href=\"/server/takeaction.html#unmaint"
+"\">unmaintained GNU packages</a>."
+msgstr ""
+"<a href=\"http://savannah.gnu.org/people/?type_id=1\">GNU Yardım Aranıyor</"
+"a> listesi, GNU yazılım paketleri için genel görev listesidir. <a href=\"/"
+"server/takeaction.html#unmaint\">Bakımsız GNU paketlerinden</a> birini "
+"devralmayı da düşünebilirsiniz."
+
+#. type: Content of: <ul><li>
+msgid ""
+"There are other <a href=\"http://savannah.gnu.org/people/?group=tasklist"
+"\">projects that would be good to do</a>."
+msgstr ""
+"<a href=\"http://savannah.gnu.org/people/?group=tasklist\">Yapılması iyi "
+"olacak başka projeler</a> de var."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Improve <a href=\"/accessibility/accessibility.html\">accessibility of free "
+"software</a>."
+msgstr ""
+"<a href=\"/accessibility/accessibility.html\">Özgür yazılımın "
+"erişilebilirliğini</a> iyileştirin."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Propose your useful software packages as GNU packages.  See the <a href=\"/"
+"help/evaluation.html\">GNU software evaluation</a> information."
+msgstr ""
+"Yararlı yazılım paketlerinizi GNU paketleri olarak önerin. <a href=\"/help/"
+"evaluation.html\">GNU yazılım değerlendirme</a> bilgilerine bakın."
+
+#. type: Content of: <ul><li>
+msgid ""
+"If you are a student, and you must do a software development project, "
+"contribute it to GNU.  See <a href=\"/philosophy/university.html\"> for how "
+"to make the university let you release it as free software</a>."
+msgstr ""
+"Bir öğrenciyseniz ve bir yazılım geliştirme projesi yapmanız gerekiyorsa onu "
+"GNU'ya bağışlayın. <a href=\"/philosophy/university.html\">Üniversiteyi onu "
+"nasıl özgür yazılım olarak yayımlamanıza izin verecek hâle "
+"getirebileceğinizi</a> görün."
+
+#. type: Content of: <p>
+msgid ""
+"If you want to volunteer to work on GNU software, see <a href=\"/software/"
+"tasklist/howto-volunteer.html\"> how to volunteer</a>."
+msgstr ""
+"GNU yazılımı üzerinde çalışmak için gönüllü olmak istiyorsanız <a href=\"/"
+"software/tasklist/howto-volunteer.html\">nasıl gönüllü olabileceğinize</a> "
+"bakın."
+
+#. type: Content of: <p>
+msgid ""
+"Please let the GNU Volunteer Coordinators <a href=\"mailto:gvc@gnu.org\">&lt;"
+"gvc@gnu.org&gt;</a> know if you start a new package that you found in those "
+"lists.  We want to keep track of what tasks are being worked on."
+msgstr ""
+"Lütfen bu listelerde bulduğunuz yeni bir pakete başladıysanız Gönüllü GNU "
+"Koordinatörlerine <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a> "
+"bildirin. Hangi görevlerin üzerinde çalışıldığını takip etmek istiyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"When writing software for GNU, please follow the <a href=\"/prep/standards/"
+"\">GNU Coding Standards</a> and <a href=\"/prep/maintain/\">Information for "
+"Maintainers of GNU Software</a> documents."
+msgstr ""
+"GNU için yazılım yazarken lütfen <a href=\"/prep/standards/\">GNU Kodlama "
+"Standartları</a>'na ve <a href=\"/prep/maintain/\">GNU Yazılımının "
+"Bakımcıları İçin Bilgiler</a>'e uyun."
+
+#. type: Content of: <p>
+msgid ""
+"We are sometimes offered software which already does substantially the same "
+"task as an existing GNU package.  Although of course we appreciate all "
+"offers, we'd naturally like to encourage programmers to spend their time "
+"writing free software to do new jobs, not already-solved ones.  So, before "
+"starting a new program, please check the <a href=\"http://directory.fsf.org/"
+"\">Free Software Directory</a> for free software that does the job already."
+msgstr ""
+"Bazen mevcut bir GNU paketiyle büyük ölçüde aynı görevi yapan yazılımlar "
+"sunulmaktadır. Tabii ki tüm teklifleri takdir etsek de doğal olarak "
+"programcıları zaten çözülmüş olanları değil, yeni işler yapmak için özgür "
+"yazılımlar yazmaya zaman harcamaya teşvik etmek istiyoruz. Bu yüzden yeni "
+"bir programa başlamadan önce işi zaten yapan özgür bir yazılım için <a href="
+"\"http://directory.fsf.org/\">Özgür Yazılım Dizini</a>'ni kontrol edin."
+
+#. type: Content of: <p>
+msgid ""
+"We can offer <a href=\"/software/devel.html\">some resources</a> to help GNU "
+"software developers."
+msgstr ""
+"GNU yazılım geliştiricilerine yardımcı olmak için <a href=\"/software/devel."
+"html\">bazı kaynaklar</a> sunabiliriz."
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Volunteer Coordinators <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu."
+"org&gt;</a> can assist you if you would like to help development GNU "
+"software. They will be able to put you in touch with other people interested "
+"in or working on similar projects. When you have selected a task from our "
+"task lists, please let them know you're interested in working on it."
+msgstr ""
+"GNU yazılımının geliştirilmesine yardım etmek istiyorsanız Gönüllü GNU "
+"Koordinatörleri <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a> size "
+"yardımcı olabilir. Size benzer projelerle ilgilenen veya üzerinde çalışan "
+"diğer insanlarla iletişim kurmanızı sağlayacaklardır. Görev listelerimizden "
+"bir görev seçtiğinizde lütfen onun üzerinde çalışmak istediğinizi onlara "
+"bildirin."
+
+#. type: Content of: <h3>
+msgid "Volunteer with and donate to the Free Software Foundation"
+msgstr "Özgür Yazılım Vakfı için gönüllü olun ve bağış yapın"
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation is the principal organizational sponsor of the "
+"GNU Operating System.  The FSF also helps to spread awareness of the ethical "
+"and political issues of software freedom."
+msgstr ""
+"Özgür Yazılım Vakfı; GNU İşletim Sistemi'nin ana, örgütsel "
+"destekleyicisidir. FSF ayrıca yazılım özgürlüğünün etik ve politik "
+"konularının farkındalığının yayılmasına da yardımcı olur."
+
+#. type: Content of: <p>
+msgid ""
+"Like GNU, the FSF also gets a lot of its strength from volunteers.  It's a "
+"great place to volunteer and a great community to join, especially if you "
+"don't have the technical background to contribute directly to free software "
+"development.  Check out the FSF's <a href=\"http://fsf.org/volunteer"
+"\">volunteering page</a> to get started or the <a href=\"http://www.fsf.org"
+"\">homepage</a> to learn more about the organization."
+msgstr ""
+"GNU gibi FSF de gücünün çoğunu gönüllülerden alır. Özellikle özgür yazılım "
+"geliştirmeye doğrudan katkıda bulunacak teknik geçmişiniz yoksa gönüllü "
+"olmak ve katılmak için harika bir yerdir. Örgüt hakkında daha fazla bilgi "
+"edinmek için FSF'nin <a href=\"http://fsf.org/volunteer\">gönüllü olma "
+"sayfasını</a> veya <a href=\"http://www.fsf.org\">ana sayfasını</a> "
+"inceleyin."
+
+#. type: Content of: <p>
+msgid ""
+"Support the FSF and the GNU Project financially by becoming an FSF <a href="
+"\"https://my.fsf.org/join\">associate member</a>, <a href=\"https://www.fsf."
+"org/about/ways-to-donate/\">donating</a> to the FSF, <a href=\"https://shop."
+"fsf.org\">purchasing</a> manuals, t-shirts, stickers, and gear from the FSF, "
+"or by <a href=\"/philosophy/selling.html\">selling free software</a> and "
+"donating some of the proceeds to the FSF or another free software "
+"organization.  By funding development, you can advance the world of free "
+"software."
+msgstr ""
+"<a href=\"https://my.fsf.org/join\">Kısmi bir FSF üyesi</a> olarak, FSF'ye "
+"<a href=\"https://www.fsf.org/about/ways-to-donate/\">bağış yaparak</a>, "
+"FSF'den kılavuz, tişört, çıkartma ve gereç <a href=\"https://shop.fsf.org"
+"\">satın alarak</a> veya <a href=\"/philosophy/selling.html\">özgür yazılım "
+"satarak</a> ve gelirin bir kısmını FSF'ye veya başka bir özgür yazılım "
+"örgütüne bağışlayarak FSF'yi ve GNU Projesi'ni finansal olarak destekleyin. "
+"Geliştirmeyi finanse ederek özgür yazılım dünyasını ilerletebilirsiniz."
+
+#. type: Content of: <h3>
+msgid "Spread awareness about GNU and the Free Software Movement"
+msgstr "GNU ve Özgür Yazılım Hareketi hakkında farkındalık yaratın"
+
+#. type: Content of: <ul><li>
+msgid ""
+"Inform your acquaintances about the GNU <a href=\"/philosophy/philosophy.html"
+"\">philosophy</a> and <a href=\"/software/software.html\">software</a>."
+msgstr ""
+"Tanıdıklarınızı GNU <a href=\"/philosophy/philosophy.html\">felsefesi</a> ve "
+"<a href=\"/software/software.html\">yazılımı</a> hakkında bilgilendirin."
+
+#. type: Content of: <ul><li>
+msgid ""
+"When you refer to the operating system that started as GNU with Linux added, "
+"call it <a href=\"/gnu/linux-and-gnu.html\"> GNU/Linux</a>, and don't follow "
+"those who call it &ldquo;Linux&rdquo;.  Once people are aware of what we "
+"have already done, rather than attributing it to others, they will <a href="
+"\"/gnu/why-gnu-linux.html\">support our present and future efforts more</"
+"a>.  This help takes very little of your time once you have unlearned the "
+"old habit."
+msgstr ""
+"Linux ile GNU eklendiğinde GNU olarak başlayan işletim sisteminden söz etmek "
+"istediğinizde ona <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> deyin ve "
+"onu &ldquo;Linux&rdquo; olarak adlandıranları takip etmeyin. İnsanlar zaten "
+"yaptıklarımızın farkında olur olmaz onu başkalarına atfetmek yerine şimdiki "
+"ve gelecekteki çabalarımızı daha fazla destekleyeceklerdir. Bu yardımı "
+"sağlamanız, eski alışkanlığı bırakır bırakmaz çok az zamanınızı alacaktır."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Show your support for the free software movement and our <a href=\"/"
+"philosophy/free-sw.html\">ideas of freedom for users of computing</a>, by "
+"saying &ldquo;free software&rdquo;, &ldquo;libre software&rdquo; or &ldquo;"
+"free/libre software&rdquo;."
+msgstr ""
+"&ldquo;Özgür yazılım&rdquo;, &ldquo;libre yazılım&rdquo; veya &ldquo;özgür/"
+"libre yazılım&rdquo; diyerek <a href=\"/philosophy/free-sw.html\">bilişim "
+"kullanıcıları için özgürlük fikirlerimizi</a> ve özgür yazılım hareketi için "
+"desteğinizi gösterin."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\"> Avoid the term "
+"&ldquo;open source&rdquo;</a> which stands for rejection of our ideals."
+msgstr ""
+"<a href=\"/philosophy/open-source-misses-the-point.html\">İdeallerimizin "
+"reddi anlamına gelen &ldquo;açık kaynak&rdquo; teriminden kaçının</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/help/linking-gnu.html\">Add a link to this web site</a> to your "
+"home pages."
+msgstr ""
+"<a href=\"/help/linking-gnu.html\">Bu web sitesi için ana sayfanıza bir "
+"bağlantı ekleyin</a>."
+
+#. type: Content of: <ul><li>
+msgid "Suggest that others do these things."
+msgstr "Başkalarının bu şeyleri yapmasını önerin."
+
+#. type: Content of: <ul><li>
+msgid "Offer GNU/Linux Installation or support in your local time banks."
+msgstr ""
+"Yerel zaman paylaşım sistemlerinizde GNU/Linux Kurulumu veya desteği sunun."
+
+#. type: Content of: <h3>
+msgid "Help support GNU development and use"
+msgstr "GNU geliştirimini ve kullanımını desteklemeye yardım edin"
+
+#. type: Content of: <p>
+msgid ""
+"This list is ordered roughly with the more urgent items near the top.  "
+"Please note that many things on this list link to larger, expanded lists."
+msgstr ""
+"Bu liste, üstte daha acil maddeler olacak şekilde kabaca sıralıdır. Bu "
+"listedeki birçok şeyin daha büyük, genişletilmiş listelere bağlandığını "
+"lütfen dikkate alın."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Help with <a href=\"http://savannah.gnu.org\">Savannah</a>. We are "
+"especially looking for technical sysadmin volunteers to help with underlying "
+"infrastructure support.  Volunteers to help with pending project submissions "
+"are also very welcome.  Please see this <a href=\"http://savannah.gnu.org/"
+"maintenance/HowToBecomeASavannahHacker\">general information on how to "
+"become a savannah hacker</a>.  Please communicate with us on the <a href="
+"\"http://lists.gnu.org/mailman/listinfo/savannah-hackers-public\">savannah-"
+"hackers-public</a> mailing list."
+msgstr ""
+"Savannah'da yardımcı olun. Özellikle altta yatan altyapı desteğine yardımcı "
+"olacak teknik sistem yöneticisi gönüllüler arıyoruz. Bekleyen proje "
+"gönderimlerine yardım edecek gönüllülere de çok açığız. <a href=\"http://"
+"savannah.gnu.org/maintenance/HowToBecomeASavannahHacker\">Bir savannah "
+"hacker'i olmak için lütfen bu genel bilgilere</a> bakın. Lütfen <a href="
+"\"http://lists.gnu.org/mailman/listinfo/savannah-hackers-public\">savannah-"
+"hackers-public</a> e-posta listesinden bizimle iletişime geçin."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Organize a new <a href=\"http://libreplanet.org/wiki/Group_list\">GNU/Linux "
+"User Group</a>."
+msgstr ""
+"Yeni bir <a href=\"http://libreplanet.org/wiki/Group_list\">GNU/Linux "
+"Kullanıcı Grubu</a> örgütleyin."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Volunteer as a GNU Webmaster.  Start by completing the <a href=\"http://www."
+"gnu.org/server/standards/webmaster-quiz.html\"> webmaster quiz</a>."
+msgstr ""
+"GNU Web Yöneticisi olarak gönüllü olun. <a href=\"http://www.gnu.org/server/"
+"standards/webmaster-quiz.html\">Web yöneticisi küçük sınavını</a> "
+"tamamlayarak başlayın."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Translate the GNU Web site into other languages.  More information about the "
+"issue can be found at the <a href=\"/server/standards/README.translations."
+"html\">Guide to Translating the www.gnu.org Web Pages</a>.  Write to <a href="
+"\"mailto:web-translators@gnu.org\">&lt;web-translators@gnu.org&gt;</a> if "
+"you want to help."
+msgstr ""
+"GNU Web sitesini diğer dillere çevirin. Konu hakkında daha fazla bilgiyi <a "
+"href=\"/server/standards/README.translations.html\">www.gnu.org Web "
+"Sayfalarını Çevirme Kılavuzu</a>'nda bulabilirsiniz. Yardım etmek "
+"istiyorsanız <a href=\"mailto:web-translators@gnu.org\">&lt;web-"
+"translators@gnu.org&gt;</a>'a yazın."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Each translation team needs several members that are native speakers of the "
+"target language (and fluent in English), but it also needs at least one "
+"member that is a native speaker of English (and fluent in the target "
+"language)."
+msgstr ""
+"Her çeviri ekibinin hedef dilin ana dili (ve İngilizcede akıcı) olan birçok "
+"üyeye gereksinimi vardır ancak aynı zamanda ana dili İngilizce olan (ve "
+"hedef dili akıcı) olan en az bir üyeye gereksinimi vardır."
+
+#. type: Content of: <ul><li>
+msgid ""
+"When you are talking with people that don't value freedom and community, you "
+"can show them the many practical advantages of free software (see <a href="
+"\"http://www.dwheeler.com/oss_fs_why.html\">Why Open Source / Free Software? "
+"Look at the Numbers!</a> for some useful evidence).  But keep mentioning the "
+"ethical issues too! Don't let their pressure change your voice into an open-"
+"source voice."
+msgstr ""
+"Özgürlüğe ve topluluğa değer vermeyen insanlarla konuşurken onlara özgür "
+"yazılımın birçok kullanışlı avantajını gösterebilirsiniz (bazı yararlı "
+"kanıtlar için <a href=\"http://www.dwheeler.com/oss_fs_why.html\">Neden Açık "
+"Kaynak / Özgür Yazılım? Sayılara Bakın!</a>'a bakın.) Ancak etik konulara "
+"değinmeyi de sürdürün. Onların baskılarının sesinizi açık kaynak sesine "
+"dönüştürmesine izin vermeyin."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Make sure that essays from our <a href=\"/philosophy/philosophy.html"
+"\">philosophy section</a> and other GNU URLs are linked to often in the "
+"appropriate categories.  If you'd like to help us with this task, please "
+"contact the GNU Volunteer Coordinators <a href=\"mailto:gvc@gnu.org\">&lt;"
+"gvc@gnu.org&gt;</a>."
+msgstr ""
+"<a href=\"/philosophy/philosophy.html\">Felsefe bölümümüzden</a> ve diğer "
+"GNU URL'lerinden denemelerin genellikle uygun kategorilerle bağlı olduğundan "
+"emin olun. Bu görevde bize yardımcı olmak isterseniz lütfen Gönüllü GNU "
+"Koordinatörleri <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a> ile "
+"iletişime geçin."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Volunteer for proofreading of new and revised GNU manuals.  Write to <a href="
+"\"mailto:campaigns@fsf.org\">&lt;campaigns@fsf.org&gt;</a> to be added to "
+"the proofreaders list."
+msgstr ""
+"Yeni ve değiştirilmiş GNU kılavuzlarının redaksiyonu için gönüllü olun. "
+"Düzeltmenler listesine eklenmek için <a href=\"mailto:campaigns@fsf.org"
+"\">&lt;campaigns@fsf.org&gt;</a>'a yazın."
+
+#. type: Content of: <ul><li>
+msgid "Donate <a href=\"/help/help-hardware.html\">hardware</a> to the FSF."
+msgstr "FSF'ye <a href=\"/help/help-hardware.html\">donanım</a> bağışlayın."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Take on one of the <a href=\"/server/tasks.html\">jobs</a> we need done for "
+"this <a href=\"/server/server.html\">web server</a>."
+msgstr ""
+"Bu <a href=\"/server/server.html\">web sunucusu</a> için yapmamız gereken <a "
+"href=\"/server/tasks.html\">işlerden</a> birini yapın."
+
+#. type: Content of: <ul><li>
+msgid ""
+"If you or your company work supporting or developing free software in some "
+"way, you can list yourself (or your company) in the <a href=\"/prep/service."
+"html\">GNU Service Directory</a>."
+msgstr ""
+"Siz veya şirketiniz bir şekilde özgür yazılımı desteklemek veya geliştirmek "
+"için çalışıyorsa(nız) kendinizi (veya şirketinizi) <a href=\"/prep/service."
+"html\">GNU Hizmet Dizini</a>'nde listeleyebilirsiniz."
+
+#. type: Content of: <ul><li>
+msgid ""
+"If you run a company that needs to hire people to work with free software, "
+"you can advertise on our <a href=\"http://www.fsf.org/resources/jobs/\">Free "
+"Software Job Page</a>."
+msgstr ""
+"Özgür yazılımla çalışmak için insanları işe alması gereken bir şirket "
+"işletiyorsanız <a href=\"http://www.fsf.org/resources/jobs/\">Özgür Yazılım "
+"İş Sayfamızda</a> duyurabilirsiniz."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Volunteer to contact companies and suggest that they use our <a href="
+"\"http://www.fsf.org/resources/jobs/\">Free Software Job Page</a> to publish "
+"their job postings.  If you would be interested in this, please contact <a "
+"href=\"mailto:job-page@fsf.org\">&lt;job-page@fsf.org&gt;</a>."
+msgstr ""
+"Şirketlerle iletişim kurmak için gönüllü olun ve onların elektronik iş ilan "
+"iletilerini yayımlamak için <a href=\"http://www.fsf.org/resources/jobs/"
+"\">Özgür Yazılım İş Sayfamızı</a> kullanmalarını önerin. Bununla "
+"ilgileniyorsanız lütfen <a href=\"mailto:job-page@fsf.org\">&lt;job-page@fsf."
+"org&gt;</a> ile iletişime geçin."
+
+#. type: Content of: <h3>
+msgid "Help improve h-node.org"
+msgstr "h-node.org'un iyileştirilmesine yardım edin"
+
+#. type: Content of: <p>
+msgid ""
+"h-node.org is a repository that contains information about how well "
+"particular hardware works with free software."
+msgstr ""
+"h-node.org, belirli bir donanımın özgür yazılımla ne kadar iyi çalıştığı "
+"hakkında bilgi içeren bir depodur."
+
+#. type: Content of: <p>
+msgid "Help is needed in:"
+msgstr "Aşağıdaki konularda yardıma gereksinim vardır:"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"https://h-node.org/wiki/page/en/Help\">Maintaining and improving "
+"the h-node.org wiki</a>."
+msgstr ""
+"<a href=\"https://h-node.org/wiki/page/en/Help\">h-node.org vikisi'nin "
+"sürdürülmesi ve iyileştirilmesi</a>."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Improving <a href=\"https://h-node.org/wiki/page/en/h-source-code\">h-"
+"source</a> that powers h-node.org and <a href=\"https://h-node.org/wiki/page/"
+"en/client-for-h-node-org\">h-client</a> a desktop program for submitting "
+"device information to h-node.org."
+msgstr ""
+"h-node.org'a güç sağlayan <a href=\"https://h-node.org/wiki/page/en/h-source-"
+"code\">h-source</a>'un ve aygıt bilgilerinin h-node.org'a gönderilmesi için "
+"bir masaüstü programı olan <a href=\"https://h-node.org/wiki/page/en/client-"
+"for-h-node-org\">h-client</a>'in iyileştirilmesi."
+
+#. type: Content of: <ul><li>
+msgid "Suggesting new hardware that should be added to the database."
+msgstr "Veri tabanına eklenmesi gereken yeni donanım önerilmesi."
+
+#. type: Content of: outside any tag (error?)
+msgid ""
+"For other ways to help, see <a href=\"https://h-node.org/wiki/page/en/Main-"
+"Page\"> https://h-node.org/wiki/page/en/Main-Page</a>.  For communicating "
+"with h-node.org users/developers, use their <a href=\"https://h-node.org/"
+"wiki/page/en/mailing-lists\">mailing lists</a>."
+msgstr ""
+"Yardım etmenin diğer yolları için bkz. <a href=\"https://h-node.org/wiki/"
+"page/en/Main-Page\">https://h-node.org/wiki/page/en/Main-Page</a>. h-node."
+"org kullanıcıları/geliştiricileri ile iletişim kurmak için onların <a href="
+"\"https://h-node.org/wiki/page/en/mailing-lists\">e-posta listelerini</a> "
+"kullanın."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
