@@ -1,0 +1,44 @@
+# Turkish translation of https://gnu.org/education/education-menu.html.
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalayci, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: education-menu.html\n"
+"Report-Msgid-Bugs-To: Webmasters <webmasters@gnu.org>\n"
+"POT-Creation-Date: 2019-04-30 22:58+0000\n"
+"PO-Revision-Date: 2020-05-03 15:57+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-contents.html\">CONTENTS</a>"
+msgstr "<a href=\"/education/edu-contents\">İÇİNDEKİLER</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-cases.html\">CASE&nbsp;STUDIES</a>"
+msgstr "<a href=\"/education/edu-cases\">DURUM&nbsp;ÇALIŞMALARI</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-resources.html\">RESOURCES</a>"
+msgstr "<a href=\"/education/edu-resources\">KAYNAKLAR</a>"
+
+# | <a [-href=\"/education/edu-cases.html\">CASE&nbsp;STUDIES</a>-]
+# | {+href=\"/education/edu-software.html\">EDUCATIONAL&nbsp;SOFTWARE</a>+}
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-software.html\">EDUCATIONAL&nbsp;SOFTWARE</a>"
+msgstr "<a href=\"/education/edu-cases\">EĞİTSEL&nbsp;YAZILIM</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-faq.html\">FAQ</a>"
+msgstr "<a href=\"/education/edu-faq\">SSS</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/education/edu-team.html\">OUR&nbsp;TEAM</a>"
+msgstr "<a href=\"/education/edu-team\">EKİBİMİZ</a>"
