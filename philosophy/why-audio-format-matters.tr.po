@@ -1,0 +1,360 @@
+# Turkish translation of https://www.gnu.org/philosophy/why-audio-format-matters.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: why-audio-format-matters.html\n"
+"POT-Creation-Date: 2017-06-25 12:25+0000\n"
+"PO-Revision-Date: 2020-05-03 09:57+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "Why Audio Format Matters - GNU Project - Free Software Foundation"
+msgstr "Ses Biçimi Neden Önemli - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Why Audio Format Matters"
+msgstr "Ses Biçimi Neden Önemli"
+
+#. type: Content of: <h3>
+msgid "An invitation to audio producers to use Ogg Vorbis alongside MP3"
+msgstr "Ses yapımcılarına MP3 ile birlikte Ogg Vorbis kullanma çağrısı"
+
+#. type: Content of: <p>
+msgid "by Karl Fogel"
+msgstr "yazan Karl Fogel"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"<a href=\"http://xiph.org/about/\">More information</a> about Xiph.org (the "
+"organization that created Ogg Vorbis) and the importance of free "
+"distribution formats <a href=\"http://xiph.org/about/\">is available</a>."
+msgstr ""
+"Xiph.org (Ogg Vorbis'i oluşturan kuruluş) ve özgür dağıtım biçimlerinin "
+"önemi hakkında <a href=\"http://xiph.org/about/\">daha fazla</a> bilgi <a "
+"href=\"http://xiph.org/about/\">mevcuttur</a>."
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"The Free Software Foundation have also produced <a href=\"http://playogg.org"
+"\">a user-friendly guide to installing Ogg Vorbis support in Microsoft "
+"Windows and Apple Mac OS X</a>."
+msgstr ""
+"Özgür Yazılım Vakfı; <a href=\"http://playogg.org\">Microsoft Windows ve "
+"Apple Mac OS X'te Ogg Vorbis desteğini kurmak için kullanıcı dostu bir "
+"kılavuz</a> da hazırladı."
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"The patents covering MP3 will reportedly all have expired by 2018, but "
+"similar problems will continue to arise as long as patents are permitted to "
+"restrict software development."
+msgstr ""
+"MP3'ü kapsayan patentlerin 2018 yılına dek sona ereceği bildiriliyor ancak "
+"patentlerin yazılım geliştirmeyi kısıtlamasına izin verildiği sürece benzer "
+"sorunlar sürecek."
+
+#. type: Content of: <p>
+msgid ""
+"If you produce audio for general distribution, you probably spend 99.9% of "
+"your time thinking about form, content, and production quality, and 0.1% "
+"thinking about what audio format to distribute your recordings in."
+msgstr ""
+"Genel dağıtım için ses hazırlıyorsanız büyük olasılıkla zamanınızın "
+"%99,9'unu biçim, içerik ve üretim kalitesi hakkında düşünerek harcıyorsunuz "
+"ve %0,1'ini kayıtlarınızı hangi ses biçiminde dağıtacağınızı düşünerek "
+"harcıyorsunuz."
+
+#. type: Content of: <p>
+msgid ""
+"And in an ideal world, this would be fine.  Audio formats would be like the "
+"conventions of laying out a book, or like pitches and other building-blocks "
+"of music: containers of meaning, available for anyone to use, free of "
+"restrictions.  You wouldn't have to worry about the consequences of "
+"distributing your material in MP3 format, any more than you would worry "
+"about putting a page number at the top of a page, or starting a book with a "
+"table of contents."
+msgstr ""
+"İdeal bir dünyada bu sorun olmayacaktır. Ses biçimleri; bir kitap tasarlama "
+"geleneği gibi veya müzik notası ve diğer yapı taşları gibi olacaktı: "
+"Herhangi bir kısıtlama olmaksızın herhangi birisinin kullanabileceği anlam "
+"kalıpları. Sayfa numarasını sayfanın üstüne yerleştirmek veya kitabın başına "
+"içindekiler tablosu koymak için kaygılanmanızdan daha fazla materyalinizi "
+"MP3 biçiminde dağıtmanın sonuçları hakkında kaygılanmanıza gerek "
+"kalmayacaktı."
+
+#. type: Content of: <p>
+msgid ""
+"Unfortunately, that is not the world we live in.  MP3 is a patented format.  "
+"What this means is that various companies have government-granted monopolies "
+"over certain aspects of the MP3 standard, such that whenever someone creates "
+"or listens to an MP3 file, <em>even with software not written by one of "
+"those companies</em>, the companies have the right to decide whether or not "
+"to permit that use of MP3.  Typically what they do is demand money, of "
+"course.  But the terms are entirely up to them: they can forbid you from "
+"using MP3 at all, if they want.  If you've been using MP3 files and didn't "
+"know about this situation, then either a) someone else, usually a software "
+"maker, has been paying the royalties for you, or b)  you've been unknowingly "
+"infringing on patents, and in theory could be sued for it."
+msgstr ""
+"Ne yazık ki içinde yaşadığımız dünya, bu şekilde ideal değil. MP3, patentli "
+"bir biçim. Yani, çeşitli şirketlerin, MP3 standardının belli yönleri "
+"üzerinde hükûmet ayrıcalıklı tekelleri olması ki, birisi bir MP3 dosyası "
+"oluşturduğunda veya dinlediğinde, <em>bu şirketlerden biri tarafından "
+"yazılmamış yazılımla bile</em> olsa, şirketler MP3 kullanımına izin verip "
+"izin vermeyeceğine karar verme hakkına sahiptir. Tipik olarak yaptıkları "
+"kuşkusuz para talep etmektir. Ancak koşullar tamamen onlara bağlı: "
+"İstedikleri takdirde MP3 kullanmanızı yasaklayabilirler. MP3 dosyaları "
+"kullanıyorsanız ve bu durumu bilmiyorsanız o zaman ya a) başka birisi, "
+"genellikle bir yazılım üreticisi, sizin için telif hakkı ücreti ödüyor ya da "
+"b) farkında olmayarak patentleri ihlal ediyorsunuz ve teoride bunun için "
+"dava açılabilir."
+
+#. type: Content of: <p>
+msgid ""
+"The harm here goes deeper than just the danger to you.  A software patent "
+"grants one party the exclusive right to use a certain mathematical fact.  "
+"This right can then be bought and sold, even litigated over like a piece of "
+"property, and you can never predict what a new owner might do with it.  This "
+"is not just an abstract possibility: MP3 patents have been the subject of "
+"multiple lawsuits, with damages totalling more than a billion dollars."
+msgstr ""
+"Buradaki zarar yalnızca senin için olan tehlikeden daha derine iner. Yazılım "
+"patenti, bir tarafa belli bir matematiksel gerçeği kullanma özel hakkını "
+"verir. Bu hak daha sonra satın alınabilir ve satılabilir, hatta bir mülk "
+"parçası gibi dava açılabilir ve yeni bir sahibin ne yapabileceğini asla "
+"öngöremezsiniz. Bu yalnızca soyut bir olasılık değildir: MP3 patentleri "
+"çoklu davalara konu olmuştur ve toplam zarar bir milyar dolardan fazladır."
+
+#. type: Content of: <p>
+msgid ""
+"The most important issue here is not about the fees, it's about the freedom "
+"to communicate and to develop communications tools.  Distribution formats "
+"such as MP3 are the containers of information exchange on the Internet.  "
+"Imagine for a moment that someone had a patent on the modulated vibration of "
+"air molecules: you would need a license just to hold a conversation or play "
+"guitar for an audience.  Fortunately, our government has long held that old, "
+"familiar methods of communication, like vibrating air molecules or writing "
+"symbols on pieces of paper, are not patentable: no one can own them, they "
+"are free for everyone to use.  But until those same liberties are extended "
+"to newer, less familiar methods (like particular standards for representing "
+"sounds via digital encoding), we who generate audio works must take care "
+"what format we use&nbsp;&mdash;&nbsp;and require our listeners to use."
+msgstr ""
+"Buradaki en önemli sorun ücretler değildir, iletişim ve iletişim araçları "
+"geliştirme özgürlüğü hakkındadır. MP3 gibi dağıtım biçimleri, İnternet'teki "
+"bilgi alışverişinin kalıplarıdır. Bir an için birisinin hava moleküllerinin "
+"ayarlanmış titreşimi hakkında bir patenti olduğunu hayal edin: Yalnızca bir "
+"konuşma yapmak ve bir dinleyici için gitar çalmak amacıyla bir lisansa "
+"gereksiniminiz olacak. Neyse ki hükûmetimiz uzun zamandır bilindik iletişim "
+"yöntemlerinin, hava moleküllerini titreştirmek veya kâğıt parçalarına simge "
+"yazmak gibi, patentlenebilir olmadığına inanıyordu: Hiç kimse onlara sahip "
+"olamaz, onlar herkesin kullanması için özgürdür. Ancak bu aynı özgürlükler "
+"daha yeni, daha az bilindik yöntemlere (dijital kodlama yoluyla sesleri "
+"betimlemek için belirli standartlar gibi) genişletilene dek ses yapıtları "
+"üreten bizler hangi biçimi kullandığımıza dikkat etmeli&nbsp;,&nbsp;ve "
+"dinleyicilerimizin kullanmasını istemeliyiz."
+
+#. type: Content of: <h4>
+msgid "A way out: Ogg Vorbis format"
+msgstr "Bir çıkış yolu: Ogg Vorbis biçimi"
+
+#. type: Content of: <p>
+msgid ""
+"Ogg Vorbis is an alternative to MP3.  It gets high sound quality, can "
+"compress down to a smaller size than MP3 while still sounding good (thus "
+"saving you time and bandwidth costs), and best of all, is designed to be "
+"completely free of patents."
+msgstr ""
+"Ogg Vorbis, MP3'e bir alternatiftir. Yüksek ses kalitesine ulaşır, hâlâ iyi "
+"bir ses verirken MP3'ten daha küçük bir boyuta sıkıştırabilir (böylece size "
+"zamandan ve bant genişliği maliyetlerinden tasarruf sağlar) ve en önemlisi "
+"tamamen patentsiz olacak şekilde tasarlanmıştır."
+
+#. type: Content of: <p>
+msgid ""
+"You won't sacrifice any technical quality by encoding your audio in Ogg "
+"Vorbis.  The files sound fine, and most players know how to play them.  But "
+"you will increase the total number of people who can listen to your tracks, "
+"and at the same time help the push for patent-free standards in distribution "
+"formats."
+msgstr ""
+"Ogg Vorbis'te ses kodlayarak herhangi bir teknik kaliteden ödün vermezsiniz. "
+"Dosyalar iyi ses çıkarır ve çoğu oynatıcı onları nasıl oynatacağını bilir. "
+"Ancak parçalarınızı dinleyebilecek toplam kişi sayısını artıracak ve aynı "
+"zamanda dağıtım biçimlerinde patentsiz standartları kabul ettirmeye yardımcı "
+"olacaksınız."
+
+#. type: Content of: <p>
+msgid ""
+"The Ogg Vorbis home page, <a href=\"http://www.vorbis.com/\" >www.vorbis."
+"com</a>, has all the information you need to both listen to and produce "
+"Vorbis-encoded files.  The safest thing, for you and your listeners, would "
+"be to offer Ogg Vorbis files exclusively.  But since there are still some "
+"players that can only handle MP3, and you don't want to lose audience, a "
+"first step is to offer both Ogg Vorbis and MP3, while explaining to your "
+"downloaders (perhaps by linking to this article) exactly why you support Ogg "
+"Vorbis."
+msgstr ""
+"Ogg Vorbis ana sayfası, <a href=\"http://www.vorbis.com/\">www.vorbis.com</"
+"a>, Vorbis olarak kodlanmış dosyaları hem dinlemek hem de üretmek için "
+"gereksiniminiz olan tüm bilgilere sahiptir. Siz ve dinleyicileriniz için en "
+"güvenli şey, Ogg Vorbis dosyalarını yalnızca sunmaktır. Ancak hâlâ yalnızca "
+"MP3'ü çalıştırabilen bazı oynatıcılar olduğundan ve dinleyiciyi kaybetmek "
+"istemediğiniz için ilk adım hem Ogg Vorbis'i hem de MP3'ü sunmaktır ancak "
+"indirenlere (belki bu yazıya bağlantı vererek) tam olarak neden Ogg Vorbis'i "
+"desteklediğinizi açıklayabilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"And with Ogg Vorbis, you'll even <em>gain</em> some audience.  Here's how:"
+msgstr ""
+"Ve Ogg Vorbis ile bir miktar dinleyici bile <em>kazanacaksınız</em>. Bunu "
+"yapmanın yolu:"
+
+#. type: Content of: <p>
+msgid ""
+"Up till now, the MP3 patent owners have been clever enough not to harass "
+"individual users with demands for payment.  They know that would stimulate "
+"popular awareness of (and eventually opposition to)  the patents.  Instead, "
+"they go after the makers of products that implement the MP3 format.  The "
+"victims of these shakedowns shrug wearily and pay up, viewing it as just "
+"another cost of doing business, which is then passed on invisibly to users.  "
+"However, not everyone is in a position to pay: some of your listeners use "
+"free software programs to play audio files.  Because this software is freely "
+"copied and downloaded, there is no practical way for either the authors or "
+"the users to pay a patent fee&nbsp;&mdash;&nbsp;that is, to pay for the "
+"right to use the mathematical facts that underly the MP3 format.  As a "
+"result, these programs cannot legally implement MP3, even though the tracks "
+"the users want to listen to may themselves be perfectly free! Because of "
+"this situation, some distributors of the GNU/Linux computer operating "
+"system&nbsp;&mdash;&nbsp;which has millions of users worldwide&nbsp;&mdash;"
+"&nbsp;have been unable to include MP3 players in their software "
+"distributions."
+msgstr ""
+"MP3 patent sahipleri şimdiye kadar bireysel kullanıcılara ödeme talepleri "
+"ile rahatsız etmeyecek kadar akıllıydılar. Bunun patentler hakkında kamunun "
+"bilinçlendirilmesini (ve sonunda muhalefeti) teşvik edeceğini biliyorlar. "
+"Bunun yerine MP3 biçimini uygulayan ürünlerin yapımcılarının peşine "
+"düşerler. Bu şantajların kurbanları bitkin bir şekilde omuz silkiyor ve "
+"ödüyor, bu da daha sonra kullanıcılara gizli bir şekilde aktarılıyor. Ancak "
+"herkes ödeme yapacak bir konumda değildir: Dinleyicilerinizden bazıları ses "
+"dosyalarını oynatmak için özgür yazılım programlarını kullanır. Bu yazılım "
+"özgürce kopyalandığından ve indirildiğinden ya yazarların ya da "
+"kullanıcıların patent ücreti ödemeleri&nbsp;,&nbsp;yani MP3 biçiminin "
+"altında yatan matematiksel gerçekleri kullanma hakkını ödemeleri için "
+"kullanışlı hiçbir yol yoktur. Sonuç olarak kullanıcıların dinlemek "
+"istedikleri parçalar kendileri mükemmel bir şekilde özgür olsalar bile bu "
+"programlar bu programlar yasal olarak MP3'ü gerçekleştiremez! Bu durum "
+"nedeniyle dünya çapında milyonlarca kullanıcısı olan&nbsp;,&nbsp;GNU/Linux "
+"işletim sisteminin bazı dağıtıcıları&nbsp;,&nbsp;MP3 oynatıcıları yazılım "
+"dağıtımlarına dâhil edememiştir."
+
+#. type: Content of: <p>
+msgid ""
+"Luckily, you don't have to require such users to engage in civil "
+"disobedience every time they want to listen to your works.  By offering Ogg "
+"Vorbis, you ensure that no listeners have to get involved with a patented "
+"distribution format unless they choose to, and that your audio works will "
+"never be hampered by unforseen licensing requirements.  Eventually, the "
+"growing acceptance of Ogg Vorbis as a standard, coupled with increasingly "
+"unpredictable behavior by some of the MP3 patent holders, may make it "
+"impractical to offer MP3 files at all.  But even before that day comes, Ogg "
+"Vorbis remains the only portable, royalty-free audio format on the Internet, "
+"and it's worth a little extra effort to support."
+msgstr ""
+"Neyse ki bu gibi kullanıcıların yapıtlarınızı her dinlemek istediklerinde "
+"sivil itaatsizliğe girmelerini istemenize gerek yoktur. Ogg Vorbis'i sunarak "
+"hiçbir dinleyicinin seçmedikçe patentli bir dağıtım biçimine müdahil "
+"olmasına gerek kalmamasını ve ses yapıtlarınızın fark edilmeyen lisanslama "
+"zorunluluklarıyla hiçbir zaman engellenmemesini sağlarsınız. Sonunda Ogg "
+"Vorbis'in standart olarak kabulünün artması, MP3 patent sahiplerinin "
+"bazılarının gitgide daha öngörülemez davranışları ile birleştiğinde MP3 "
+"dosyaları sunmayı herhangi bir şekilde elverişsiz hâle getirebilir. Ancak o "
+"gün gelmeden önce bile Ogg Vorbis; İnternet'teki tek taşınabilir, telif "
+"ücreti olmayan ses biçimi olmayı sürdürüyor ve desteklemek için biraz ek "
+"çabaya değer."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2007 Karl Fogel"
+msgstr "Copyright &copy; 2007 Karl Fogel"
+
+#. type: Content of: <div><p>
+msgid ""
+"Verbatim copying and distribution of this entire article are permitted "
+"worldwide, without royalty, in any medium, provided this notice, and the "
+"copyright notice, are preserved."
+msgstr ""
+"Tüm bu yazının tıpkı kopyası ve dağıtımına  dünya çapında herhangi bir telif "
+"hakkı ücreti olmadan, herhangi bir ortamda, bu uyarının ve telif hakkı "
+"uyarısının korunması şartıyla izin verilmiştir."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

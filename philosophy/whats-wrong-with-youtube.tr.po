@@ -1,0 +1,323 @@
+# Turkish translation of https://www.gnu.org/philosophy/whats-wrong-with-youtube.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: whats-wrong-with-youtube.html\n"
+"POT-Creation-Date: 2020-01-07 13:55+0000\n"
+"PO-Revision-Date: 2020-05-03 09:38+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "What's Wrong with YouTube - GNU Project - Free Software Foundation"
+msgstr "YouTube'de Neler Yanlış - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "What's Wrong with YouTube"
+msgstr "YouTube'de Neler Yanlış"
+
+#. type: Content of: <p>
+msgid ""
+"Please don't use YouTube as the place to post videos of my talks, and please "
+"don't cite YouTube for that purpose.  If the talk is available in <a href="
+"\"http://audio-video.gnu.org/\">audio-video.gnu.org</a>, please cite that "
+"site."
+msgstr ""
+"Lütfen YouTube'yi konuşmalarımın videolarını yayımlamak için bir yer olarak "
+"kullanmayın ve lütfen bu amaçla YouTube'den alıntı yapmayın. Konuşma <a href="
+"\"http://audio-video.gnu.org/\">audio-video.gnu.org</a>'da mevcutsa lütfen "
+"bu siteden alıntı yapın."
+
+#. type: Content of: <p>
+msgid ""
+"As of 2019 there is free software that permits access to YouTube from some "
+"browsers.  It is an add-on which is preinstalled in the GNU browser, IceCat, "
+"and can be loaded into Firefox.  The free program youtube-dl is also "
+"available; it gets data out of the site's Javascript code but doesn't run "
+"that code."
+msgstr ""
+"2019 itibarıyla bazı tarayıcılardan YouTube'ye erişime izin veren özgür bir "
+"yazılım var. O; GNU tarayıcısı IceCat'ta kurulu gelen ve Firefox'a "
+"yüklenebilen bir eklentidir. Özgür program youtube-dl de mevcuttur; sitenin "
+"Javascript kodundan veri alır ancak bu kodu çalıştırmaz."
+
+#. type: Content of: <p>
+msgid ""
+"As a result, posting videos on YouTube does not currently put them entirely "
+"off limits to the free world."
+msgstr ""
+"Sonuç olarak YouTube'de video yayımlamak şu anda o videoları özgür dünya "
+"için tamamen yasaklanmış bir duruma sokmaz."
+
+#. type: Content of: <p>
+msgid ""
+"However, we cannot count on this to keep working.  The add-on already broke "
+"once in 2019.  This time, a corrected add-on was released after a few "
+"weeks.  Next time, who knows? Thus, posting on YouTube is a fragile solution."
+msgstr ""
+"Ancak bunun sürekli çalışıyor olacağına güvenemeyiz. Eklenti 2019'da zaten "
+"bir kez bozuldu. O zaman birkaç hafta sonra düzeltilmiş bir eklenti "
+"yayımlandı. Bir sonraki sefere ne olacağını kim bilebilir? Bu nedenle "
+"YouTube'de yayımlamak, kırılgan bir çözümdür."
+
+#. type: Content of: <p>
+msgid ""
+"In addition, most people will watch YouTube by running the nonfree software "
+"that Google sends to users.  Let's not encourage people to do that."
+msgstr ""
+"Ayrıca çoğu kişi Google'nin kullanıcılara gönderdiği özgür olmayan yazılımı "
+"çalıştırarak YouTube'yi izleyecektir. İnsanları bunu yapmaya teşvik "
+"etmeyelim."
+
+#. type: Content of: <p>
+msgid ""
+"As of mid-July, 2019, the add-on works for vimeo.com also, but not for most "
+"other sites."
+msgstr ""
+"2019'un temmuz ayı ortası itibarıyla eklenti vimeo.com için de çalışır ancak "
+"diğer çoğu site için çalışmaz."
+
+#. type: Content of: <h2>
+msgid "What else <em>Was</em> Wrong with YouTube"
+msgstr "YouTube'de Başka Neler <em>Yanlıştı</em>"
+
+#. type: Content of: <p>
+msgid ""
+"This is what we formerly said, until 2019, about YouTube as a place to post "
+"videos or refer to videos."
+msgstr ""
+"Video yayımlamak veya videolara atıfta bulunmak için bir yer olarak YouTube "
+"hakkında önceden, 2019'a kadar söylediklerimiz aşağıdadır."
+
+#. type: Content of: <ul><li>
+msgid "Normal use of YouTube involves use of nonfree software."
+msgstr ""
+"YouTube'nin normal kullanımı, özgür olmayan yazılımların kullanımını "
+"gerektirir."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"In the HTML5 mode, it involves running a <a href=\"/philosophy/javascript-"
+"trap.html\">nonfree JavaScript program</a>.  For some videos, it also "
+"requires the nonfree Adobe DRM software that has been incorporated into "
+"proprietary browsers and Firefox, but not into the GNU browsers including <a "
+"href=\"/software/icecat\">IceCat</a>."
+msgstr ""
+"HTML5 modunda <a href=\"/philosophy/javascript-trap.html\">özgür olmayan bir "
+"JavaScript programı</a> çalıştırmayı gerektirir. Bazı videolar için ayrıca "
+"özel mülk tarayıcılara ve Firefox'a dâhil edilen ancak <a href=\"/software/"
+"icecat\">IceCat</a> dâhil GNU tarayıcılarına dâhil olmayan özgür olmayan "
+"Adobe DRM yazılımını da gerektirir."
+
+#. type: Content of: <ul><li><ul><li>
+msgid ""
+"In the (deprecated) non-HTML5 mode, it involves use of Flash Player, which "
+"is nonfree.  It even tells users to install Flash Player."
+msgstr ""
+"(Modası geçmiş) HTML5 olmayan modda özgür olmayan Flash Player'in "
+"kullanımını gerektirir. Kullanıcılara Flash Player kurmalarını bile söyler."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Without the nonfree software, you can't even see the YouTube pages.  "
+"Nowadays, without running the nonfree JavaScript code, the browser window "
+"appears blank."
+msgstr ""
+"Özgür olmayan yazılım olmadan YouTube sayfalarını bile göremezsiniz. "
+"Günümüzde özgür olmayan JavaScript kodunu çalıştırmazsanız tarayıcı "
+"penceresi boş görünüyor."
+
+#. type: Content of: <ul><li>
+msgid ""
+"YouTube tries to stop people from downloading copies.  The nonfree "
+"JavaScript code for some videos does not allow the browser to save a copy.  "
+"This is a form of DRM."
+msgstr ""
+"YouTube, insanların kopya indirmesini engellemeye çalışır. Bazı videolar "
+"için özgür olmayan JavaScript kodu, tarayıcının bir kopyasını kaydetmesine "
+"izin vermez. Bu, DRM'nin bir biçimidir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"There is a free program, <a href=\"https://www.npmjs.com/package/ytdl"
+"\">ytdl</a>, which can download the video for some YouTube pages, but there "
+"is no complete free software solution for access in a browser."
+msgstr ""
+"Bazı YouTube sayfaları için videoyu indirebilen özgür bir program (<a href="
+"\"https://www.npmjs.com/package/ytdl\">ytdl</a>) var ancak tarayıcıda erişim "
+"için tam bir özgür yazılım çözümü yok."
+
+#. type: Content of: <ul><li>
+msgid ""
+"&ldquo;ContentID is exactly the thing YouTube claims it doesn't do: <a href="
+"\"https://boingboing.net/2018/12/26/youtube-let-a-contentid-scamme.html\"> "
+"privately mediating ownership of [publications] without involving the law</"
+"a>.&rdquo;"
+msgstr ""
+"&ldquo;ContentID tam olarak YouTube'nin yapmadığını iddia ettiği şeydir: <a "
+"href=\"https://boingboing.net/2018/12/26/youtube-let-a-contentid-scamme.html"
+"\">Hukuku işe karıştırmadan [yayınların] sahipliğine özel olarak aracılık "
+"etmek</a>.&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"One thing about YouTube that is <em>not</em> a moral strike against it is "
+"nonfree software on YouTube servers &mdash; if there is any.  We as possible "
+"users of YouTube can't tell whether the servers run any nonfree software, "
+"because that has no effect on us &mdash; therefore it doesn't do any wrong "
+"to us."
+msgstr ""
+"YouTube ile ilgili olarak, (eğer varsa) YouTube sunucularındaki özgür "
+"olmayan yazılım ahlaki bir boykot nedeni <em>değildir</em>. Olası YouTube "
+"kullanıcıları olarak sunucuların herhangi bir özgür yazılım çalıştırıp "
+"çalıştırmadıklarını söyleyemeyiz, çünkü bunun bizim üzerimizde hiçbir etkisi "
+"yoktur, bu nedenle bizim için herhangi bir yanlışa yol açmaz."
+
+#. type: Content of: <p>
+msgid ""
+"If there are any nonfree programs running on YouTube servers, they mistreat "
+"Google by denying Google control of that aspect of its computing.  We hope "
+"that Google will reclaim its freedom by ceasing to use those nonfree "
+"programs, if any.  But those programs do not mistreat the <em>users</em> of "
+"YouTube, so they are not a reason to refuse to <em>use</em> that service."
+msgstr ""
+"YouTube sunucularında çalışan herhangi bir özgür olmayan program varsa, "
+"Google'nin kendi gerçekleştirdiği bilişimin bu yönü üzerindeki Google "
+"denetimini reddederek Google'ye kötü davranırlar. Google'nin eğer varsa bu "
+"özgür olmayan programları kullanmayı bırakarak özgürlüğünü geri kazanmasını "
+"umuyoruz. Ancak bu programlar YouTube <em>kullanıcılarına</em> kötü "
+"davranmaz, bu yüzden onlar bu hizmeti <em>kullanmayı</em> reddetmek için bir "
+"neden değildir."
+
+#. type: Content of: <p>
+msgid ""
+"It is also possible that all the software running on YouTube servers is "
+"free&mdash;either published free software or private unreleased free "
+"software."
+msgstr ""
+"YouTube sunucularında çalışan tüm yazılımların özgür olması da mümkündür, ya "
+"yayımlanmış özgür yazılım ya da özel, yayımlanmamış özgür yazılım."
+
+#. type: Content of: <p>
+msgid ""
+"To post a video without requiring nonfree software to view it, you can place "
+"the video as an Ogg Theora or WebM file on an ordinary web site.  If you are "
+"concerned there will be a lot of download traffic, you can seed a torrent "
+"and suggest people download through that."
+msgstr ""
+"Videoyu görüntülemek amacıyla özgür olmayan bir yazılım gerektirmeden "
+"yayımlamak için videoyu sıradan bir web sitesine Ogg Theora veya WebM "
+"dosyası olarak yerleştirebilirsiniz. Çok fazla indirme trafiği olacağından "
+"kaygılanıyorsanız bir torrent paylaşabilirsiniz ve insanların bu şekilde "
+"indirmesini önerebilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"Another way to publish videos on the web using free software is <a href="
+"\"http://mediagoblin.org/\">GNU MediaGoblin</a>.  Ideally you will set up <a "
+"href=\"http://docs.mediagoblin.org/\">your own server</a>, or run one for "
+"your family and friends, but you can also post on <a href=\"https://wiki."
+"mediagoblin.org/Live_instances\">public servers</a>."
+msgstr ""
+"Özgür yazılım kullanarak web'de video yayımlamanın başka bir yolu da <a href="
+"\"http://mediagoblin.org/\">GNU MediaGoblin</a>'dir. İdeal olarak <a href="
+"\"http://docs.mediagoblin.org/\">kendi sunucunuzu</a> kurarsınız veya "
+"aileniz ve arkadaşlarınız için bir tane çalıştırırsınız ancak <a href="
+"\"https://wiki.mediagoblin.org/Live_instances\">genel sunucularda</a> da "
+"yayımlayabilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"Please <a href=\"https://wiki.mediagoblin.org/HackingHowto\">contribute to "
+"GNU MediaGoblin</a> if you can."
+msgstr ""
+"Lütfen, yapabiliyorsanız, <a href=\"https://wiki.mediagoblin.org/HackingHowto"
+"\">GNU MediaGoblin'e katkıda bulunun</a>."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
