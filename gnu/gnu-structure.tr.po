@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnu-structure.html\n"
 "POT-Creation-Date: 2020-03-03 20:25+0000\n"
-"PO-Revision-Date: 2020-03-07 10:48+0100\n"
+"PO-Revision-Date: 2020-05-03 08:55+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -319,7 +319,7 @@ msgstr ""
 "şekillerde destek sağlarlar. Bu ekiplerin çoğunun onları yönlendirecek bir "
 "koordinatörü vardır; çoğu durumda koordinatör aksi belirtilmedikçe doğrudan "
 "Baş GNUisance'ye rapor verir. Kuşkuya düşerseniz öneri için <a href=\"mailto:"
-"gvc@gnu.org\">Gönüllü GNU Koordinatörleri</a> ile iletişime geçebilirsiniz."
+"gvc@gnu.org\">GNU Gönüllü Koordinatörleri</a> ile iletişime geçebilirsiniz."
 
 #. type: Content of: <h4>
 msgid "Software Evaluation"
@@ -568,14 +568,14 @@ msgstr ""
 
 #. type: Content of: <h4>
 msgid "GNU Volunteer Coordinators"
-msgstr "Gönüllü GNU Koordinatörleri"
+msgstr "GNU Gönüllü Koordinatörleri"
 
 #. type: Content of: <p>
 msgid ""
 "The GNU Volunteer Coordinators (<a href=\"mailto:gvc@gnu.org\">gvc@gnu.org</"
 "a>) help to guide new volunteers towards suitable jobs within the GNU Project"
 msgstr ""
-"Gönüllü GNU Koordinatörleri (<a href=\"mailto:gvc@gnu.org\">gvc@gnu.org</"
+"GNU Gönüllü Koordinatörleri (<a href=\"mailto:gvc@gnu.org\">gvc@gnu.org</"
 "a>), yeni gönüllüleri GNU Projesi içinde uygun işlere yönlendirmeye yardımcı "
 "olmaktadır"
 
@@ -584,8 +584,9 @@ msgid ""
 "New GVC volunteers are welcome, but prior experience volunteering within GNU "
 "(and thus broad knowledge of the GNU Project) is highly recommended."
 msgstr ""
-"Yeni GVC gönüllüleri bekliyoruz ancak önceden GNU içinde gönüllülük deneyimi "
-"olması (ve böylece GNU Projesi hakkında çok geniş bilgi) oldukça önerilir."
+"Yeni <abbr title=\"GNU Volunteer Coordinators\">GVC</abbr> gönüllüleri "
+"bekliyoruz ancak önceden GNU içinde gönüllülük deneyimi olması (ve böylece "
+"GNU Projesi hakkında çok geniş bilgi) oldukça önerilir."
 
 #. type: Content of: <h4>
 msgid "GNU Education Team"
