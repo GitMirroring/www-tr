@@ -1,21 +1,21 @@
 # Turkish translation of https://www.gnu.org/proprietary/proprietary.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# 
+#
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2020-04-14 07:55+0000\n"
-"PO-Revision-Date: 2020-04-27 20:08+0300\n"
-"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
+"POT-Creation-Date: 2020-05-03 08:25+0000\n"
+"PO-Revision-Date: 2020-05-03 10:53+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 19.12.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <title>
 msgid "Proprietary Software - GNU Project - Free Software Foundation"
@@ -305,6 +305,42 @@ msgstr "Son eklenenler"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
+"Xiaomi phones <a href=\"https://www.forbes.com/sites/"
+"thomasbrewster/2020/04/30/exclusive-warning-over-chinese-mobile-giant-xiaomi-"
+"recording-millions-of-peoples-private-web-and-phone-use/\">report many "
+"actions the user takes</a>: starting an app, looking at a folder, visiting a "
+"website, listening to a song.  They send device identifying information too."
+msgstr ""
+"Xiaomi telefonlar <a href=\"https://www.forbes.com/sites/"
+"thomasbrewster/2020/04/30/exclusive-warning-over-chinese-mobile-giant-xiaomi-"
+"recording-millions-of-peoples-private-web-and-phone-use/\">kullanıcının "
+"gerçekleştirdiği bir çok eylemi raporluyor</a>: bir uygulama başlatma, bir "
+"dizine bakma, bir websitesini ziyaret etme, bir şarkı dinleme. Aygıt "
+"tanımlama bilgisini de gönderiyorlar."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Other nonfree programs snoop too. For instance, Spotify and other streaming "
+"dis-services make a dossier about each user, and <a href=\"/malware/"
+"proprietary-surveillance.html#M201508210\"> they make users identify "
+"themselves to pay</a>.  Out, out, damned Spotify!"
+msgstr ""
+"Diğer özgür olmayan programlar da gizlice gözetliyor. Örneğin Spotify ve "
+"diğer akış hizmet-sizlik-leri her kullanıcı hakkında bir sicil tutuyor ve <a "
+"href=\"/malware/proprietary-surveillance.html#M201508210\">kullanıcıları "
+"ödeme yapmak için kendilerini tanıtmak zorunda bırakıyor</a>. Yok ol, lanet "
+"Spotify!"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"Forbes exonerates the same wrongs when the culprits are not Chinese, but we "
+"condemn this no matter who does it."
+msgstr ""
+"Forbes, sorumluların Çinli olmadığı durumlarda aynı hataları aklıyor, ancak "
+"biz kimin yaptığından bağımsız hepsini kınıyoruz."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
 "The <a href=\"https://www.google.com/mobile/android/market-tos.html\"> "
 "Google Play Terms of Service</a> insist that the user of Android accept the "
 "presence of universal back doors in apps released by Google."
@@ -378,27 +414,6 @@ msgstr ""
 "güvenlik uygularsa önemli bir gözetim gerçekleştirmek için yeterli olmaz. "
 "Ancak özel mülk yazılıma sahip birçok aygıtta bu yoktur. Tabii ki aynı "
 "zamanda üreticileri tarafından gözetleme için de kullanılıyorlar."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"The ToToc messaging app seems to be a <a href=\"https://www.nytimes."
-"com/2019/12/22/us/politics/totok-app-uae.html\"> spying tool for the "
-"government of the United Arab Emirates</a>.  Any nonfree program could be "
-"doing this, and that is a good reason to use free software instead."
-msgstr ""
-"ToToc mesajlaşma uygulaması, <a href=\"https://www.nytimes.com/2019/12/22/us/"
-"politics/totok-app-uae.html\"> Birleşik Arap Emirlikleri hükûmeti için bir "
-"casusluk aracı</a> gibi görünüyor. Herhangi bir özgür olmayan program bunu "
-"yapıyor olabilir ve bu durum bunun gibi yazılımlar yerine özgür yazılım "
-"kullanmak için iyi bir neden."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"<small>Note: this article uses the word &ldquo;free&rdquo; in the sense of "
-"&ldquo;gratis.&rdquo;</small>"
-msgstr ""
-"<small>Not: Bu yazı &ldquo;free&rdquo; sözcüğünü &ldquo;bedava&rdquo; "
-"anlamında kullanmaktadır.</small>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
