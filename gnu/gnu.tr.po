@@ -1,7 +1,7 @@
 # Turkish translation of https://www.gnu.org/gnu/gnu.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# 
+#
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
 # T. E. Kalayci, 2020.
 msgid ""

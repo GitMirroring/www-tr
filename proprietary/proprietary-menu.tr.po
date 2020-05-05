@@ -1,0 +1,217 @@
+# Turkish translation of https://www.gnu.org/proprietary/proprietary-menu.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: proprietary-menu.html\n"
+"POT-Creation-Date: 2019-11-18 14:58+0000\n"
+"PO-Revision-Date: 2020-05-05 17:18+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <div><p>
+msgid "<a href=\"#main-heading\">Skip menu</a>"
+msgstr "<a href=\"#main-heading\">Menüyü atla</a>"
+
+#. type: Content of: <div><h3>
+msgid "Proprietary malware"
+msgstr "Özel mülk kötücül yazılım"
+
+#. type: Content of: <div><h4>
+msgid "By type:"
+msgstr "Türe göre:"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-addictions.html#main-heading"
+"\">Addictions</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-addictions.html#main-heading"
+"\">Bağımlılıklar</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-back-doors.html#main-heading\">Back "
+"doors</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-back-doors.html#main-heading\">Arka "
+"kapılar</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-censorship.html#main-heading"
+"\">Censorship</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-censorship.html#main-heading\">Sansür</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-coverups.html#main-heading\">Coverups</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-coverups.html#main-heading\">Örtbaslar</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-deception.html#main-heading\">Deception</"
+"a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-deception.html#main-heading\">Aldatma</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-drm.html#main-heading\">DRM</a>"
+msgstr "<a href=\"/proprietary/proprietary-drm.html#main-heading\">DRM</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-fraud.html#main-heading\">Fraud</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-fraud.html#main-heading\">Dolandırıcılık</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-incompatibility.html#main-heading"
+"\">Incompatibility</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-incompatibility.html#main-heading"
+"\">Uyumsuzluk</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-insecurity.html#main-heading"
+"\">Insecurity</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-insecurity.html#main-heading"
+"\">Güvensizlik</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-interference.html#main-heading"
+"\">Interference</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-interference.html#main-heading"
+"\">Müdahale</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/proprietary-jails.html#main-heading\">Jails</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-jails.html#main-heading\">Kafesler</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-manipulation.html#main-heading"
+"\">Manipulation</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-manipulation.html#main-heading"
+"\">Manipülasyon</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-obsolescence.html#main-heading"
+"\">Obsolescence</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-obsolescence.html#main-heading\">Eskitme</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-sabotage.html#main-heading\">Sabotage</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-sabotage.html#main-heading\">Sabotaj</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-subscriptions.html#main-heading"
+"\">Subscriptions</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-subscriptions.html#main-heading"
+"\">Abonelikler</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-surveillance.html#main-heading"
+"\">Surveillance</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-surveillance.html#main-heading\">Gözetim</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-tethers.html#main-heading\">Tethers</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-tethers.html#main-heading\">Tasmalar</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/proprietary-tyrants.html#main-heading\">Tyrants</a>"
+msgstr ""
+"<a href=\"/proprietary/proprietary-tyrants.html#main-heading\">Zalimler</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/potential-malware.html#main-heading\">In the pipe</a>"
+msgstr ""
+"<a href=\"/proprietary/potential-malware.html#main-heading\">Olabilecek(ler)"
+"</a>"
+
+#. type: Content of: <div><h4>
+msgid "By product:"
+msgstr "Ürüne göre:"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/malware-appliances.html#main-heading\">Appliances</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-appliances.html#main-heading\">Aletler</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/malware-cars.html#main-heading\">Cars</a>"
+msgstr "<a href=\"/proprietary/malware-cars.html#main-heading\">Arabalar</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/malware-games.html#main-heading\">Games</a>"
+msgstr "<a href=\"/proprietary/malware-games.html#main-heading\">Oyunlar</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/malware-mobiles.html#main-heading\">Mobiles</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-mobiles.html#main-heading\">Mobil aygıtlar</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/malware-webpages.html#main-heading\">Webpages</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-webpages.html#main-heading\">Web sayfaları</a>"
+
+#. type: Content of: <div><h4>
+msgid "By company:"
+msgstr "Şirkete göre:"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/malware-adobe.html#main-heading\">Adobe</a>"
+msgstr "<a href=\"/proprietary/malware-adobe.html#main-heading\">Adobe</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/malware-amazon.html#main-heading\">Amazon</a>"
+msgstr "<a href=\"/proprietary/malware-amazon.html#main-heading\">Amazon</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/malware-apple.html#main-heading\">Apple</a>"
+msgstr "<a href=\"/proprietary/malware-apple.html#main-heading\">Apple</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/proprietary/malware-google.html#main-heading\">Google</a>"
+msgstr "<a href=\"/proprietary/malware-google.html#main-heading\">Google</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/proprietary/malware-microsoft.html#main-heading\">Microsoft</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-microsoft.html#main-heading\">Microsoft</a>"
