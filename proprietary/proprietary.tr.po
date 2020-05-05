@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
 "POT-Creation-Date: 2020-05-03 08:25+0000\n"
-"PO-Revision-Date: 2020-05-03 10:53+0200\n"
+"PO-Revision-Date: 2020-05-05 16:56+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -32,7 +32,7 @@ msgstr "Özel Mülk Yazılım Genellikle Kötücül Yazılımdır"
 
 #. type: Content of: <div><div><p>
 msgid "<a href=\"#TOC\">Table of contents</a>"
-msgstr "<a href=\"#TOC\">İçindekiler listesi</a>"
+msgstr "<a href=\"#TOC\">İçindekiler</a>"
 
 #. type: Content of: <div><div><p>
 msgid "<a href=\"#latest\">Latest additions</a>"
@@ -120,7 +120,7 @@ msgstr "<a href=\"/proprietary/proprietary-censorship.html\">Sansür</a>"
 
 #. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-coverups.html\">Coverups</a>"
-msgstr "<a href=\"/proprietary/proprietary-coverups.html\">Örtbas</a>"
+msgstr "<a href=\"/proprietary/proprietary-coverups.html\">Örtbaslar</a>"
 
 #. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/proprietary-deception.html\">Deception</a>"
