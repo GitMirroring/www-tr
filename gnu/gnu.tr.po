@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
-"POT-Creation-Date: 2020-05-04 23:25+0000\n"
-"PO-Revision-Date: 2020-05-05 17:08+0200\n"
+"POT-Creation-Date: 2020-05-06 01:25+0000\n"
+"PO-Revision-Date: 2020-05-06 18:12+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -202,6 +202,10 @@ msgstr ""
 "özgür yazılım kullanıcı grupları</a>"
 
 #. type: Content of: <h3>
+msgid "<a id=\"elsewhere\"></a>GNU elsewhere"
+msgstr "<a id=\"elsewhere\"></a>GNU başka yerde"
+
+#. type: Content of: <h4>
 msgid "<a id=\"asteroid\"></a>(9965) GNU"
 msgstr "<a id=\"asteroid\"></a>(9965) GNU"
 

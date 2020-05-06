@@ -1,0 +1,206 @@
+# Turkish translation of http://www.gnu.org/help/linking-gnu.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: linking-gnu.html\n"
+"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"PO-Revision-Date: 2020-05-06 18:25+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "Linking to the GNU Project - GNU Project - Free Software Foundation"
+msgstr "GNU Projesi'ne Bağlantı Vermek - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Attribute 'content' of: <meta>
+msgid "no"
+msgstr "no"
+
+#. type: Attribute 'content' of: <meta>
+msgid "Free Software Foundation, Inc"
+msgstr "Free Software Foundation, Inc"
+
+#. type: Attribute 'content' of: <meta>
+msgid "WAI AA, XHTML, CSS, Semantic Markup, Tableless Design, Freedom"
+msgstr ""
+"WAI AA, XHTML, CSS, Anlam Bilimsel İşaretleme, Tablosuz Tasarım, Özgürlük"
+
+#. type: Attribute 'content' of: <meta>
+msgid "GNU Project"
+msgstr "GNU Projesi"
+
+#. type: Attribute 'content' of: <meta>
+msgid "Free Software Operating System GNU/Linux"
+msgstr "Özgür Yazılım İşletim Sistemi GNU/Linux"
+
+#. type: Attribute 'content' of: <meta>
+msgid "Free Software Foundation"
+msgstr "Free Software Foundation"
+
+#. type: Attribute 'content' of: <meta>
+msgid "Web Page"
+msgstr "Web Page"
+
+#. type: Attribute 'content' of: <meta>
+msgid "text/html"
+msgstr "text/html"
+
+#. type: Attribute 'content' of: <meta>
+msgid "en"
+msgstr "tr"
+
+#. type: Content of: <h2>
+msgid "Linking to the GNU Project"
+msgstr "GNU Projesi'ne Bağlantı Vermek"
+
+#. type: Content of: <p>
+msgid ""
+"The GNU Project is skeptical of the idea that permission is required for "
+"making links to a web page.  We try to oppose such a requirement and we "
+"suggest that you do too.  <span class=\"highlight\">Anyone is welcome to "
+"make links to our pages</span>."
+msgstr ""
+"GNU Projesi, bir web sayfasına bağlantı vermek için izin gerektiği konusunda "
+"kuşkucudur. Bu gibi bir zorunluluğa karşı çıkmaya çalışıyoruz ve bunu da "
+"yapmanızı öneriyoruz. <span class=\"highlight\">Herhangi birisinin "
+"sayfalarımıza bağlantı vermesine açığız</span>."
+
+#. type: Content of: <p>
+msgid ""
+"To create a link to our home page, you can use the following XHTML code, "
+"replacing the graphics <tt>src</tt> with whatever art you choose:"
+msgstr ""
+"Ana sayfamız için bir bağlantı oluşturmak amacıyla grafiği <tt>src</tt>'yi "
+"seçtiğiniz sanat yapıtıyla değiştirerek aşağıdaki XHTML kodunu "
+"kullanabilirsiniz:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"&lt;p&gt;&lt;a href=\"http://www.gnu.org/\" title=\n"
+"\"The GNU Project\"&gt;&lt;img alt=\"GNU\" src=\"gnu-head-sm.jpg\" width=\n"
+"\"129\" height=\"122\" /&gt;&lt;/a&gt;&lt;/p&gt;\n"
+msgstr ""
+"&lt;p&gt;&lt;a href=\"http://www.gnu.org/\" title=\n"
+"\"GNU Projesi\"&gt;&lt;img alt=\"GNU\" src=\"gnu-head-sm.jpg\" width=\n"
+"\"129\" height=\"122\" /&gt;&lt;/a&gt;&lt;/p&gt;\n"
+
+#. type: Content of: <p>
+msgid ""
+"We suggest that you use the <a href=\"/graphics/agnuhead.html\">GNU head</a> "
+"art for links to our <a href=\"/\">home page</a> and the <a href=\"/graphics/"
+"philosophicalgnu.html\">philosophical gnu</a> for links to our <a href=\"/"
+"philosophy/\">philosophy page</a>.  Other art can be found in the <a href=\"/"
+"graphics/graphics.html\">GNU Art Gallery</a> (for example, <a href=\"/"
+"graphics/heckert_gnu.html\">a bold GNU head</a>).  There are some <a href=\"/"
+"graphics/gnubanner.html\"> banners</a> you can use.  You are free to use "
+"whatever art you want! :-)"
+msgstr ""
+"<a href=\"/\">Ana sayfamıza</a> bağlantılar için <a href=\"/graphics/"
+"agnuhead.html\">GNU kafası (<em>GNU head</em>)</a> sanat yapıtını ve <a href="
+"\"/philosophy/\">felsefe sayfamıza</a> bağlantılar için <a href=\"/graphics/"
+"philosophicalgnu.html\">felsefi gnu (<em>philosophical gnu</em>)</a>'yu "
+"kullanmanızı öneririz. Diğer sanat yapıtları, <a href=\"/graphics/graphics."
+"html\">GNU Sanat Galerisi (<em>GNU Art Gallery</em>)</a>'nde bulunabilir "
+"(örneğin; <a href=\"/graphics/heckert_gnu.html\">cesur bir GNU kafası [<em>a "
+"bold GNU head</em>]</a>). Kullanabileceğiniz bazı <a href=\"/graphics/"
+"gnubanner.html\">afişler</a> var. İstediğiniz sanat yapıtını kullanmakta "
+"özgürsünüz! :-)"
+
+#. type: Content of: <p>
+msgid ""
+"If you can create better versions of these images, more suitable for links, "
+"write to <a href=\"mailto:webmasters@gnu.org\"> &lt;webmasters@gnu.org&gt;</"
+"a>."
+msgstr ""
+"Bu görüntülerin bağlantılar için daha uygun olan daha iyi sürümlerini "
+"oluşturabilirseniz <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>'a yazınız."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2009, 2013, 2014 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2009, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

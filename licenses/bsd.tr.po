@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: bsd.html\n"
-"POT-Creation-Date: 2015-12-19 22:55+0000\n"
-"PO-Revision-Date: 2020-04-24 09:20+0200\n"
+"POT-Creation-Date: 2020-05-06 07:25+0000\n"
+"PO-Revision-Date: 2020-05-06 18:11+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -24,6 +24,10 @@ msgstr "BSD Lisans Sorunu - GNU Projesi - Özgür Yazılım Vakfı"
 #. type: Content of: <h2>
 msgid "The BSD License Problem"
 msgstr "BSD Lisans Sorunu"
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "yazan Richard Stallman"
 
 #. type: Content of: <blockquote><p>
 msgid ""
@@ -337,10 +341,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1998, 1999, 2001, 2003, 2007, 2013, 2014, 2015 Free "
+"Copyright &copy; 1998, 1999, 2001, 2003, 2007, 2013, 2014, 2015, 2020 Free "
 "Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1998, 1999, 2001, 2003, 2007, 2013, 2014, 2015 Free "
+"Copyright &copy; 1998, 1999, 2001, 2003, 2007, 2013, 2014, 2015, 2020 Free "
 "Software Foundation, Inc."
 
 #. type: Content of: <div><p>
