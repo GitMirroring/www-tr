@@ -1,0 +1,204 @@
+# Turkish translation of http://www.gnu.org/music/writing-fs-song.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: writing-fs-song.html\n"
+"POT-Creation-Date: 2014-04-05 00:02+0000\n"
+"PO-Revision-Date: 2020-05-07 08:02+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "Writing the Free Software Song - GNU Project - Free Software Foundation"
+msgstr "Özgür Yazılım Şarkısı'nı Yazmak - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Writing the Free Software Song"
+msgstr "Özgür Yazılım Şarkısı'nı Yazmak"
+
+#. type: Content of: <p>
+msgid ""
+"This is the story of the writing of the <a href=\"/music/free-software-song."
+"html\">Free Software Song</a>."
+msgstr ""
+"Bu, <a href=\"/music/free-software-song.html\">Özgür Yazılım Şarkısı "
+"(<em>Free Software Song</em>)</a>'nın yazılma öyküsüdür."
+
+#. type: Content of: <p>
+msgid ""
+"I wrote the free software song at a <a href=\"#filksinging\"> filksinging</"
+"a> session at a science fiction convention, probably in early 1991.  It was "
+"a &ldquo;bardic circle&rdquo; session, which means each person in turn "
+"around the hall had the chance to either sing or ask someone else to sing.  "
+"I had just had my turn, and there were 20 or more people there, so I knew it "
+"would be a long time before I had another turn.  I decided to pass the time "
+"writing a filksong.  This meant I was not starting with any particular "
+"inspiration in mind.  I had to look for what to write about and how."
+msgstr ""
+"Özgür yazılım şarkısını büyük olasılıkla 1991 başlarında bir bilim kurgu "
+"toplantısındaki bir <a href=\"#filksinging\">bilim kurgu şarkısı söyleme "
+"(<em>filksinging</em>)</a> oturumunda yazdım. Bu bir &ldquo;ozan "
+"grubu&rdquo; oturumuydu, yani salonun çevresindeki herkesin ya şarkı söyleme "
+"ya da başka birisinden şarkı söylemesini isteme şansı bulması anlamına "
+"geliyordu. Daha yeni sıraya girmiştim ve orada 20 veya daha fazla kişi "
+"vardı, bu yüzden sıramın gelmesinin uzun bir zaman alacağını biliyordum. Bir "
+"bilim kurgu şarkısı (<em>filksong</em>) yazarak zaman geçirmeye karar "
+"verdim. Bu, aklıma gelen herhangi bir belirgin esinle başlamadığım anlamına "
+"geliyordu. Ne hakkında ve nasıl yazacağımı düşünmem gerekiyordu."
+
+#. type: Content of: <p>
+msgid ""
+"So first I asked myself, what topic should it be about? I realized I had "
+"never written a filksong relating to free software, so I figured it was time "
+"I did."
+msgstr ""
+"İlk önce kendime sordum, hangi konu hakkında olmalıydı? Özgür yazılımla "
+"ilgili hiçbir zaman bir bilim kurgu şarkısı (<em>filksong</em>) yazmadığımı "
+"fark ettim, bu yüzden böyle bir şarkı yazma zamanının geldiğini düşündüm."
+
+#. type: Content of: <p>
+msgid ""
+"Then I asked myself, what tune should I use? I realized I had never written "
+"a filksong using Bulgarian dance music, so I figured that would be a good "
+"thing to do for once.  I chose <cite>Sadi Moma</cite> because it is not too "
+"fast or complicated, and is easy to sing."
+msgstr ""
+"Daha sonra kendime hangi ezgiyi kullanmalıyım diye sordum? Bulgar dans "
+"müziği kullanarak hiçbir zaman bir bilim kurgu şarkısı (<em>filksong</em>) "
+"yazmadığımı fark ettim, bu yüzden en azından bir kez kullanmanın iyi "
+"olacağını düşündüm. <cite>Sadi Moma</cite>'yı seçtim, çünkü çok hızlı veya "
+"karmaşık değildi ve şarkı söylemesi kolaydı."
+
+#. type: Content of: <p>
+msgid ""
+"By the time it was my turn again, the song was ready.  After I sang it, "
+"someone else in the room said, &ldquo;That has an anthem-like quality.  You "
+"should show it to Richard Stallman.&rdquo; (That year was the time I was a "
+"little famous and I was a guest at the convention.)"
+msgstr ""
+"Sıra tekrar bana gelene kadar şarkı hazırdı. Ben şarkıyı söyledikten sonra "
+"odada olan başka birisi, &ldquo;Bu marşa benzer nitelikte. Richard "
+"Stallman'a göstermelisin.&rdquo; dedi. (O yıl biraz ünlü olduğum ve "
+"toplantıda bir konuk olduğum zamandı.)"
+
+#. type: Content of: <p>
+msgid "I said, &ldquo;I am Richard Stallman.&rdquo;"
+msgstr "Ben de &ldquo;Richard Stallman benim.&rdquo; dedim."
+
+#. type: Content of: <p>
+msgid "She said, &ldquo;Oh, I'm sorry!&rdquo;"
+msgstr "O hemen &ldquo;Ah, özür dilerim!&rdquo; dedi."
+
+#. type: Content of: <p>
+msgid "I responded, &ldquo;Don't be sorry, it's fun when that happens.&rdquo;"
+msgstr ""
+"&ldquo;Özür dilemene gerek yok, böyle bir şeyin olması hep eğlenceli.&rdquo; "
+"diye yanıtladım."
+
+#. type: Content of: <p>
+msgid ""
+"&ldquo;filksong&rdquo; started as a typo for &ldquo;folksong&rdquo;, and the "
+"term was adopted in science fiction fandom to refer to the practice of "
+"singing songs that relate to science fiction topics or other any other topic "
+"that was considered interesting or funny.  Some of the people who sing these "
+"songs also write some.  Many of these songs put new words to existing tunes, "
+"and such a song is called a &ldquo;filk&rdquo; of the original song.  Thus, "
+"the free software song is a filk of <cite>Sadi Moma</cite>."
+msgstr ""
+"&ldquo;filksong (<em>bilim kurgu müziği</em>)&rdquo;, &ldquo;folksong "
+"(<em>halk müziği</em>)&rdquo; için bir yazım hatası olarak başladı ve terim, "
+"bilim kurgu hayranlığında bilim kurgu konuları veya ilginç veya komik olarak "
+"kabul edilen diğer herhangi bir konu ile ilgili şarkı söyleme pratiğine "
+"atıfta bulunmak üzere benimsenildi. Bu şarkıları söyleyen insanların "
+"kimileri ayrıca bazılarını yazıyor. Bu şarkıların birçoğu mevcut ezgilere "
+"yeni sözcükler koyuyor ve bu gibi bir şarkıya özgün şarkının bir &ldquo;"
+"<em>filk</em>&rdquo;i deniyor. Bu nedenle özgür yazılım şarkısı, <cite>Sadi "
+"Moma</cite>'nın bir &ldquo;<em>filk</em>&rdquo;idir."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2009, 2014 "
+"Richard Stallman"
+msgstr ""
+"Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2009, 2014 "
+"Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
