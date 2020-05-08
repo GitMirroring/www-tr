@@ -1,0 +1,356 @@
+# Turkish translation of https://www.gnu.org/graphics/3dbabygnutux.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: 3dbabygnutux.html\n"
+"POT-Creation-Date: 2019-02-28 15:27+0000\n"
+"PO-Revision-Date: 2020-05-08 08:57+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid ""
+"3D Baby GNU and Tux by Nicolas Rougier - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Nicolas Rougier Tarafından 3B Bebek GNU ve Tux - GNU Projesi - Özgür Yazılım "
+"Vakfı"
+
+#. type: Content of: <h2>
+msgid "3D baby GNU and baby Tux"
+msgstr "3B bebek GNU ve bebek Tux"
+
+#. type: Content of: <p>
+msgid "by Nicolas Rougier"
+msgstr "yapan Nicolas Rougier"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/babies/BabyGnuTux-Big.png\">"
+msgstr "<a href=\"/graphics/babies/BabyGnuTux-Big.png\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[3D baby GNU and baby Tux]&nbsp;"
+msgstr "&nbsp;[3B bebek GNU ve bebek Tux]&nbsp;"
+
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"Two&nbsp;cartoon&nbsp;characters, about the same size, which look like "
+"perfect toys for a small child."
+msgstr ""
+"Küçük bir çocuk için mükemmel oyuncaklar gibi görünen yaklaşık aynı boyutta "
+"iki&nbsp;çizgi&nbsp;karakter."
+
+#. type: Content of: <div><p>
+msgid ""
+"An archive (<a href=\"/graphics/3dbabygnutux.tgz\">520kB</a>)&nbsp;"
+"containing all the following files and their sources is available for "
+"download."
+msgstr ""
+"İndirmek için aşağıda tüm dosyaları ve kaynaklarını içeren bir arşiv (<a "
+"href=\"/graphics/3dbabygnutux.tgz\">520kB</a>) mevcuttur."
+
+#. type: Content of: <div><table><tr><th>
+msgid "Image"
+msgstr "Görüntü"
+
+#. type: Content of: <div><table><tr><th>
+msgid "Background"
+msgstr "Arka&nbsp;Plan"
+
+#. type: Content of: <div><table><tr><th>
+msgid "Format &amp; size"
+msgstr "Biçim&nbsp;ve&nbsp;boyut"
+
+#. type: Content of: <div><table><tr><td>
+msgid "Baby GNU"
+msgstr "Bebek GNU"
+
+#. type: Content of: <div><table><tr><td>
+msgid "white"
+msgstr "beyaz"
+
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; <a href=\"/graphics/babies/BabyGnu.png\">238kB</a> (800x800)"
+msgstr "PNG&nbsp; <a href=\"/graphics/babies/BabyGnu.png\">238kB</a> (800x800)"
+
+#. type: Content of: <div><table><tr><td>
+msgid "black"
+msgstr "siyah"
+
+#. type: Content of: <div><table><tr><td>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyGnuBlack.png\">278kB</a> (800x800)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyGnuBlack.png\">278kB</a> (800x800)"
+
+#. type: Content of: <div><table><tr><td>
+msgid "alpha&nbsp;channel"
+msgstr "alfa&nbsp;kanalı"
+
+#. type: Content of: <div><table><tr><td>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyGnuAlpha.png\">251kB</a> (800x800)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyGnuAlpha.png\">251kB</a> (800x800)"
+
+#. type: Content of: <div><table><tr><td>
+msgid "Baby Tux"
+msgstr "Bebek Tux"
+
+#. type: Content of: <div><table><tr><td>
+msgid "PNG&nbsp; <a href=\"/graphics/babies/BabyTux.png\">147kB</a> (800x800)"
+msgstr "PNG&nbsp; <a href=\"/graphics/babies/BabyTux.png\">147kB</a> (800x800)"
+
+#. type: Content of: <div><table><tr><td>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyTuxBlack.png\">190kB</a> (800x800)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyTuxBlack.png\">190kB</a> (800x800)"
+
+#. type: Content of: <div><table><tr><td>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyTuxAlpha.png\">145kB</a> (800x800)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyTuxAlpha.png\">145kB</a> (800x800)"
+
+#. type: Content of: <div><table><tr><td>
+msgid "Baby Tux sitting"
+msgstr "Oturan bebek Tux"
+
+#. type: Content of: <div><table><tr><td>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyTuxSit.png\">135kB</a> (800x800)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyTuxSit.png\">135kB</a> (800x800)"
+
+#. type: Content of: <div><table><tr><td>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyTuxSitBlack.png\">183kB</a> "
+"(800x800)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyTuxSitBlack.png\">183kB</a> "
+"(800x800)"
+
+#. type: Content of: <div><table><tr><td>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyTuxSitAlpha.png\">128kB</a> "
+"(800x800)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyTuxSitAlpha.png\">128kB</a> "
+"(800x800)"
+
+#. type: Content of: <div><table><tr><td>
+msgid "Baby GNU &amp; Tux"
+msgstr "Bebek&nbsp;GNU&nbsp;ve&nbsp;Tux"
+
+#. type: Content of: <div><table><tr><td>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyGnuTux-Small.png\">11kB</a> "
+"(180x90),&nbsp; <a href=\"/graphics/babies/BabyGnuTux-Med.png\">114kB</a> "
+"(800x400),&nbsp; <a href=\"/graphics/babies/BabyGnuTux-Big.png\">354kB</a> "
+"(1600x800)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/babies/BabyGnuTux-Small.png\">11kB</a> "
+"(180x90),&nbsp; <a href=\"/graphics/babies/BabyGnuTux-Med.png\">114kB</a> "
+"(800x400),&nbsp; <a href=\"/graphics/babies/BabyGnuTux-Big.png\">354kB</a> "
+"(1600x800)"
+
+#. type: Content of: <div><table><tr><td>
+msgid "white wallpaper"
+msgstr "beyaz duvar kâğıdı"
+
+#. type: Content of: <div><table><tr><td>
+msgid "JPEG&nbsp; <a href=\"/graphics/babies/GnuTux.jpg\">93kB</a> (1280x1024)"
+msgstr ""
+"JPEG&nbsp; <a href=\"/graphics/babies/GnuTux.jpg\">93kB</a> (1280x1024)"
+
+#. type: Content of: <div><table><tr><td>
+msgid "black wallpaper"
+msgstr "siyah duvar kâğıdı"
+
+#. type: Content of: <div><table><tr><td>
+msgid ""
+"JPEG&nbsp; <a href=\"/graphics/babies/GnuTuxBlack.jpg\">94kB</a> (1280x1024)"
+msgstr ""
+"JPEG&nbsp; <a href=\"/graphics/babies/GnuTuxBlack.jpg\">94kB</a> (1280x1024)"
+
+#. type: Content of: <div><h3>
+msgid "Poster"
+msgstr "Poster"
+
+#. type: Content of: <div><div><a>
+msgid "<a href=\"/graphics/babies/gnu-and-tux-babies-poster.jpg\">"
+msgstr "<a href=\"/graphics/babies/gnu-and-tux-babies-poster.jpg\">"
+
+#. type: Attribute 'alt' of: <div><div><a><img>
+msgid "&nbsp;[Baby Gnu &amp; Tux poster]&nbsp;"
+msgstr "&nbsp;[Bebek Gnu ve Tux posteri]&nbsp;"
+
+#. type: Content of: <div><p>
+msgid ""
+"Nicolas also contributed this GNU/Linux poster in various versions and "
+"formats. The poster was modified to include only <a href=\"/distros/free-"
+"distros.html\">fully free GNU/Linux distros</a>."
+msgstr ""
+"Nicolas ayrıca bu GNU/Linux posterine çeşitli sürümlerde ve biçimlerde "
+"katkıda bulundu. Poster yalnızca <a href=\"/distros/free-distros.html"
+"\">tamamen özgür GNU/Linux dağıtımlarını</a> içerecek şekilde değiştirildi."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"PNG&nbsp; <a href=\"/graphics/babies/gnu-and-tux-babies-poster.png\">435kB</"
+"a> (983x1311)"
+msgstr ""
+"PNG&nbsp; <a href=\"/graphics/babies/gnu-and-tux-babies-poster.png\">435kB</"
+"a> (983x1311)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"JPEG&nbsp; <a href=\"/graphics/babies/gnu-and-tux-babies-poster.jpg\">225kB</"
+"a> (983x1311)"
+msgstr ""
+"JPEG&nbsp; <a href=\"/graphics/babies/gnu-and-tux-babies-poster.jpg\">225kB</"
+"a> (983x1311)"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"PDF&nbsp; <a href=\"/graphics/babies/gnu-and-tux-babies-poster.pdf\">7.2MB</"
+"a>"
+msgstr ""
+"PDF&nbsp; <a href=\"/graphics/babies/gnu-and-tux-babies-poster.pdf\">7.2MB</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"ODP source&nbsp; <a href=\"/graphics/babies/gnu-and-tux-babies-poster.odp"
+"\">4.7MB</a>"
+msgstr ""
+"ODP kaynak&nbsp; <a href=\"/graphics/babies/gnu-and-tux-babies-poster.odp"
+"\">4.7MB</a>"
+
+#. type: Content of: <div><div><p>
+msgid "Copyright &copy; 2011 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011 Free Software Foundation, Inc."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Copyright &copy; 2015 Free Software Foundation, Inc. (poster modification)"
+msgstr ""
+"Copyright &copy; 2015 Free Software Foundation, Inc. (poster değişikliği)"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"If you want to use these images to link to a website run by the Free "
+"Software Foundation or the GNU project, or if you're using it in contexts "
+"talking about GNU in a supportive and accurate way, you are free to do so "
+"without further conditions. For other requests, please ask &lt;<a href="
+"\"mailto:licensing@fsf.org\">licensing@fsf.org</a>&gt; for permission first."
+msgstr ""
+"Özgür Yazılım Vakfı veya GNU projesi tarafından çalıştırılan bir web "
+"sitesine bağlantı vermek için bu görüntüleri kullanmak istiyorsanız veya onu "
+"GNU hakkında destekleyici ve doğru bir şekilde söz eden bağlamlarda "
+"kullanıyorsanız bunu ek koşullar olmadan özgürce yapabilirsiniz. Diğer "
+"istekler için lütfen öncelikle izni &lt;<a href=\"mailto:licensing@fsf.org"
+"\">licensing@fsf.org</a>&gt;'a sorun."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Alternatively, permission is granted to copy, distribute and/or modify these "
+"images under the <a href=\"/licenses/old-licenses/gpl-2.0.html\">GNU General "
+"Public License</a>, version&nbsp;2 or any later version."
+msgstr ""
+"Alternatif olarak bu görüntüleri kopyalamak, dağıtmak ve/veya değiştirmek "
+"için <a href=\"/licenses/old-licenses/gpl-2.0.html\">GNU Genel Kamu Lisansı</"
+"a>, sürüm&nbsp;2 veya herhangi bir sonraki sürüm altında izin verilir."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+msgstr ""
+"<em>Sayfa metni:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
+"licenses/by-nd/4.0/\">Creative Commons Attribution-NoDerivatives 4.0 "
+"International License</a>."
+msgstr ""
+"<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/deed."
+"tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası Lisansı</a> "
+"altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
