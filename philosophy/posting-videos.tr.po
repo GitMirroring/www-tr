@@ -1,0 +1,187 @@
+# Turkish translation of https://www.gnu.org/philosophy/posting-videos.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: posting-videos.html\n"
+"POT-Creation-Date: 2020-04-30 11:26+0000\n"
+"PO-Revision-Date: 2020-05-13 07:34+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "Posting Videos - GNU Project - Free Software Foundation"
+msgstr "Videolar Yayımlamak - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Posting Videos"
+msgstr "Videolar Yayımlamak"
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "yazan Richard Stallman"
+
+#. type: Content of: <p>
+msgid ""
+"You don't need a &ldquo;free software based streaming platform&rdquo; to "
+"post a video for streaming."
+msgstr ""
+"Akış için bir video yayımlamak amacıyla &ldquo;özgür yazılım temelli bir "
+"akış platformu&rdquo;na ihtiyacınız yoktur."
+
+#. type: Content of: <p>
+msgid ""
+"Someone asked me where to upload a video recording on some &ldquo;free "
+"software based streaming platform.&rdquo; Here's how I responded."
+msgstr ""
+"Birisi bana &ldquo;özgür yazılım temelli bir akış platformu&rdquo;ndaki bir "
+"video kaydını nereye yükleyebileceğini sordu. Ona şu şekilde yanıt verdim."
+
+#. type: Content of: <ul><li>
+msgid ""
+"What software the <em>platform</em> is based on is not crucial, because that "
+"has no effect on the people who use that site.  They don't run that "
+"software. What they do is talk with the site."
+msgstr ""
+"<em>Platformun</em> hangi yazılıma dayandığı çok önemli değildir çünkü bu "
+"siteyi kullanan insanlar üzerinde hiçbir etkisi yoktur. O yazılımı "
+"çalıştırmıyorlar. Yaptıkları şey, siteyle konuşmak."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The crucial question for the users' freedom is whether the site requires "
+"them, or leads them, to run any nonfree software, including nonfree "
+"JavaScript code."
+msgstr ""
+"Kullanıcıların özgürlüğü için çok önemli soru, sitenin özgür olmayan "
+"JavaScript kodu da dâhil olmak üzere özgür olmayan herhangi bir yazılım "
+"çalıştırmayı gerektirip gerektirmediği veya buna yol açıp açmadığıdır."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Any web site can host a file of video in such a way that any browser can "
+"view it without <em>any</em> JavaScript. Just put the file of video onto the "
+"site, and tell people its URL. Any modern graphical browser, when it "
+"encounters a file of video, will stream it."
+msgstr ""
+"Herhangi bir web sitesi, bir video dosyasını herhangi bir tarayıcının "
+"<em>herhangi</em> bir JavaScript gerekmeden görüntüleyebileceği bir şekilde "
+"barındırabilir. Yalnızca video dosyasını siteye koyun ve kullanıcılara "
+"URL'sini söyleyin. Herhangi bir modern, grafiksel tarayıcı; bir video "
+"dosyasına rastladığında onu akış şeklinde indirecektir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The only special thing about &ldquo;video platform&rdquo; sites is that they "
+"have other auxiliary facilities, such as making accounts, uploading videos, "
+"tracking users who watch them, and restricting those users. You don't need "
+"those things."
+msgstr ""
+"&ldquo;Video platformu&rdquo; siteleri hakkında tek özel şey; hesap "
+"oluşturma, videolar yükleme, onları izleyen kullanıcıları izleme ve bu "
+"kullanıcıları kısıtlama gibi başka yardımcı yeteneklere sahip olmalarıdır. "
+"Bunlara ihtiyacınız yok."
+
+#. type: Content of: <ul><li>
+msgid ""
+"To distribute the URL of the video and enable users to watch it, all you do "
+"need is a site that you can post the file on.  It could be your own web "
+"site, either running on your own server or hosted elsewhere."
+msgstr ""
+"Videonun URL'sini dağıtmak ve kullanıcıların onu izlemesine olanak sağlamak "
+"için tek ihtiyacınız olan dosyayı yayımlayabileceğiniz bir sitedir. Bu ya "
+"kendi sunucunuzda çalışan ya da başka bir yerde barındırılan kendi web "
+"siteniz olabilir."
+
+#. type: Content of: <p>
+msgid ""
+"Depending on the rest of that site, it may have other flaws or moral "
+"problems, but it will at least avoid directly mistreating users who watch "
+"the video."
+msgstr ""
+"Bu sitenin geri kalanına bağlı olarak başka kusurları veya ahlaki sorunları "
+"olabilir ama en azından videoyu izleyen kullanıcılara doğrudan kötü "
+"davranmaktan kaçınacaktır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Richard Stallman"
+msgstr "Copyright &copy; 2020 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

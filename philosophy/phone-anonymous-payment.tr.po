@@ -1,0 +1,147 @@
+# Turkish translation of https://www.gnu.org/philosophy/phone-anonymous-payment.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: phone-anonymous-payment.html\n"
+"POT-Creation-Date: 2019-01-28 07:56+0000\n"
+"PO-Revision-Date: 2020-05-13 07:28+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "Anonymous Payment by Phone - GNU Project - Free Software Foundation"
+msgstr "Telefonla Anonim Ödeme - GNU Projesi- Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Anonymous Payment by Phone"
+msgstr "Telefonla Anonim Ödeme"
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "yazan Richard Stallman"
+
+#. type: Content of: <p>
+msgid ""
+"Here is an idea for an anonymous payment system that would be useful for "
+"some applications."
+msgstr ""
+"İşte, bazı uygulamalar için yararlı olacak anonim bir ödeme sistemi için bir "
+"fikir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The seller sets up a phone number that charges N dollars per minute to any "
+"caller."
+msgstr ""
+"Satıcı herhangi bir arayan için dakika başına N dolar ücret alan bir telefon "
+"numarası ayarlar."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The customer chooses a code, calls that number (which requires paying N "
+"dollars), and enters the code. A voice-generation system speaks the code "
+"back so the customer can confirm it."
+msgstr ""
+"Müşteri bir kod seçer, (N dolar ödemeyi gerektiren) bu numarayı arar ve kodu "
+"girer. Bir sesli yanıt sistemi kodu geri söyler, böylece müşteri kodu "
+"onaylayabilir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"That code represents a payment of N dollars. The customer enters it in a web "
+"site, or a kiosk, and it constitutes payment for whatever."
+msgstr ""
+"Bu kod, N dolarlık bir ödemeyi betimler. Müşteri; onu bir web sitesine veya "
+"bir kiosk'a girer ve her ne içinse onun ödemesi olur."
+
+#. type: Content of: <p>
+msgid ""
+"It should be possible to do this using a phone card on a payphone or anyone "
+"else's telephone."
+msgstr ""
+"Bunun bir ön ödemeli telefonda telefon kartıyla veya başka herhangi "
+"birisinin telefonuyla yapılması mümkün olmalıdır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
