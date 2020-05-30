@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: saying-no-even-once.html\n"
-"POT-Creation-Date: 2020-05-16 18:25+0000\n"
-"PO-Revision-Date: 2020-05-17 11:45+0200\n"
+"POT-Creation-Date: 2020-05-30 01:25+0000\n"
+"PO-Revision-Date: 2020-05-30 11:15+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -165,15 +165,16 @@ msgstr ""
 msgid ""
 "The FSF recommends <a href=\"https://www.fsf.org/blogs/community/better-than-"
 "zoom-try-these-free-software-tools-for-staying-in-touch\"> freedom-"
-"respecting methods</a> for jobs that unjust systems do. When one of them "
-"would be usable, you could add, &ldquo;If we have this conversation with "
-"XYZ, or some other libre software, I could join in.&rdquo;"
+"respecting methods</a> for the sorts of communication that unjust systems "
+"do.  If one of them would be usable, you could add, &ldquo;If we use XYZ for "
+"this conversation, or some other libre software, I could participate.&rdquo;"
 msgstr ""
-"FSF, adaletsiz sistemlerin yaptığı işler için <a href=\"https://www.fsf.org/"
-"blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-"
-"in-touch\">özgürlüğe saygılı yöntemler</a> önerir. Bunlardan biri "
-"kullanılabilir olduğunda &ldquo;eğer bu konuşmayı XYZ ile veya başka bir "
-"özgür yazılım ile yapacaksak katılabilirim.&rdquo; da diyebilirsiniz."
+"FSF, adaletsiz sistemlerin gerçekleştirdiği her türlü iletişim için <a href="
+"\"https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-"
+"software-tools-for-staying-in-touch\">özgürlüğe saygılı yöntemler</a> "
+"önerir. Bunlardan biri kullanılabilir olduğunda &ldquo;eğer bu konuşmayı XYZ "
+"ile veya başka bir özgür yazılım ile yapacaksak katılabilirim.&rdquo; de "
+"diyebilirsiniz."
 
 #. type: Content of: <p>
 msgid ""
@@ -217,7 +218,7 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
