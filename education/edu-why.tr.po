@@ -3,19 +3,20 @@
 # This file is distributed under the same license as the original article.
 # C.Y. <cyildizli@autistici.org>, 2019.
 # T. E. Kalayci, 2019.
+# May 2020: update to new layout (T. Godefroy).
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-why.html\n"
-"POT-Creation-Date: 2020-01-01 05:25+0000\n"
-"PO-Revision-Date: 2020-01-10 20:17+0100\n"
+"POT-Creation-Date: 2020-05-27 10:42+0200\n"
+"PO-Revision-Date: 2020-05-31 09:02+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -25,29 +26,51 @@ msgstr ""
 "Eğitim Kurumları Neden Özgür Yazılım Kullanmalı ve Öğretmeli? - GNU Projesi "
 "- Özgür Yazılım Vakfı"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/education.html#indepth\">In Depth</a> &rarr; Why Educational "
-"Institutions Should Use and Teach Free Software"
-msgstr ""
-"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
-"education.html#indepth\">Ayrıntılı</a> &rarr; Eğitim Kurumları Neden Özgür "
-"Yazılım Kullanmalı ve Öğretmeli"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
-msgid "Why Educational Institutions Should Use and Teach Free Software"
-msgstr "Eğitim Kurumları Neden Özgür Yazılım Kullanmalı ve Öğretmeli"
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Eğitim İçerikleri"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Eğitim İçerikleri]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
 
 #. type: Content of: <div><p>
 msgid ""
-"<strong>\"Schools should teach their students to be citizens of a strong, "
-"capable, independent and free society.\"</strong>"
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/education.html#indepth\">In&nbsp;Depth</a>&nbsp;/"
 msgstr ""
-"<strong>\"Okullar, öğrencilerine güçlü, yetenekli, bağımsız ve özgür bir "
-"toplumun yurttaşı olmayı öğretmelidir.\"</strong>"
+"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a href="
+"\"/education/education.html#indepth\">Ayrıntılı</a>&nbsp;/"
 
-#. type: Content of: <p>
+#. type: Content of: <div><h2>
+msgid "Why Educational Institutions Should Use and Teach Free Software"
+msgstr "Eğitim Kurumları Neden Özgür Yazılım Kullanmalı ve Öğretmeli"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<em>&ldquo;Schools should teach their students to be citizens of a strong, "
+"capable, independent and free society.&rdquo;</em>"
+msgstr ""
+"<em>\"Okullar, öğrencilerine güçlü, yetenekli, bağımsız ve özgür bir "
+"toplumun yurttaşı olmayı öğretmelidir.\"</em>"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "These are the main reasons why universities and schools of all levels should "
 "use exclusively Free Software."
@@ -55,11 +78,11 @@ msgstr ""
 "Bunlar üniversitelerin ve her düzeyden okulun neden sadece Özgür Yazılım "
 "kullanması gerektiğinin nedenleridir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Sharing"
 msgstr "Paylaşmak"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Schools should teach the value of sharing by setting an example. Free "
 "software supports education by allowing the sharing of knowledge and tools:"
@@ -67,7 +90,7 @@ msgstr ""
 "Okullar paylaşmanın değerini öğretmek için örnek olmalıdır. Özgür yazılım, "
 "eğitimi, bilginin ve araçların paylaşımına izin vererek destekler:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<strong>Knowledge</strong>. Many young students have a talent for "
 "programming; they are fascinated with computers and eager to learn how their "
@@ -84,7 +107,7 @@ msgstr ""
 "bir konuyu açıklayabilir ve daha sonra da öğrenciye okuyup öğrenmesi için "
 "kaynak kodunu dağıtabilir."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<strong>Tools</strong>. Teachers can hand out to students copies of the "
 "programs they use in the classroom so that they can use them at home. With "
@@ -94,11 +117,11 @@ msgstr ""
 "kopyalarını evde kullanabilmeleri için öğrencilere dağıtabilir. Özgür "
 "Yazılım, kopyalamaya izinli verildiği gibi, teşvik de edilmektedir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Social Responsibility"
 msgstr "Sosyal Sorumluluk"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Computing has become an essential part of everyday life. Digital technology "
 "is transforming society very quickly, and schools have an influence on the "
@@ -119,11 +142,11 @@ msgstr ""
 "şirketlerin iktidarlarını toplumun tümüne ve geleceğe dikte ettirmesine izin "
 "vermemelidir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Independence"
 msgstr "Bağımsızlık"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Schools have an ethical responsibility to teach strength, not dependency on "
 "a single product or a specific powerful company. Furthermore, by choosing to "
@@ -135,7 +158,7 @@ msgstr ""
 "Özgür Yazılım kullanmayı seçerek, ticari çıkarlardan ve bir satıcıya "
 "bağımlılıktan karşı bağımsızlığını kazanır."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Proprietary software companies use schools and universities as a springboard "
 "to reach users and thus impose their software on society as a whole. They "
@@ -156,7 +179,7 @@ msgstr ""
 "insanları kalıcı olarak yaşam boyu bağımlılığa yönlendirmek için okullara ve "
 "üniversitelere aracılık yaptırmaktır."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Free software licenses do not expire, which means that once Free Software is "
 "adopted, institutions remain independent from the vendor.  Moreover, Free "
@@ -176,11 +199,11 @@ msgstr ""
 "yerine getirmek için herhangi bir geliştiricinin hizmetlerini "
 "kullanabilirler."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Learning"
 msgstr "Öğrenme"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When deciding where they will study, more and more students are considering "
 "whether a university teaches computer science and software development using "
@@ -197,11 +220,11 @@ msgstr ""
 "demektir. Özgür Yazılım'ı öğrenmek ayrıca yazılım geliştirme etiği ve "
 "mesleki uygulamaları öğrenmeye de yardımcı olur."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Saving"
 msgstr "Tasarruf"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This is an obvious advantage that will appeal immediately to many school "
 "administrators, but it is a marginal benefit. The main point of this aspect "
@@ -216,11 +239,11 @@ msgstr ""
 "öğrenciler arasında adaletin ve eğitimde fırsat eşitliğinin teşvik "
 "edilmesidir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Quality"
 msgstr "Kalite"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Stable, secure and easily installed Free Software solutions are available "
 "for education already. In any case, excellence of performance is a secondary "
@@ -231,7 +254,7 @@ msgstr ""
 "nihai amaç bilgisayar kullanıcılarının özgürlüğüdür."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -256,14 +279,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -277,12 +300,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2011, 2015, 2016, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2015, 2016, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

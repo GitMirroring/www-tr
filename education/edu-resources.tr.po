@@ -3,11 +3,12 @@
 # This file is distributed under the same license as the original article.
 #
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-resources.html\n"
-"POT-Creation-Date: 2019-05-01 10:56+0000\n"
-"PO-Revision-Date: 2020-01-21 19:24+0100\n"
+"POT-Creation-Date: 2020-05-27 11:14+0200\n"
+"PO-Revision-Date: 2020-05-31 08:58+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,24 +16,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <title>
 msgid "Educational Resources - GNU Project - Free Software Foundation"
 msgstr "Eğitim Kaynakları - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; Educational "
-"Resources"
-msgstr ""
-"<a href=\"/education/education.html\">Eğitim</a> &rarr; Eğitim Kaynakları"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Eğitim İçerikleri"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Eğitim İçerikleri]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div><p>
+msgid "</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/"
+msgstr "</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Educational Resources"
 msgstr "Eğitim Kaynakları"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This section will help you find a variety of resources related to education, "
 "such as: free study materials, free programs for educational institutions of "
@@ -49,19 +71,19 @@ msgstr ""
 "projeler, eğitim alanında özgür yazılım kullanımını teşvik etmek için GNU "
 "Projesi ilkelerine uyan insan toplulukları ve daha fazlası."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Table of Contents"
 msgstr "İçindekiler"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/education/edu-software.html\">Educational Free Software</a>"
 msgstr "<a href=\"/education/edu-software.html\">Eğitsel Özgür Yazılım</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/education/edu-projects.html\">Groups and Projects</a>"
 msgstr "<a href=\"/education/edu-projects.html\">Gruplar ve Projeler</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/education/edu-free-learning-resources.html\">Free Learning "
 "Resources</a>"
@@ -70,7 +92,7 @@ msgstr ""
 "Kaynakları</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -95,14 +117,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -117,9 +139,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018-2020 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018-2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

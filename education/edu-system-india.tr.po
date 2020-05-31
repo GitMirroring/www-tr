@@ -3,11 +3,13 @@
 # This file is distributed under the same license as the original article.
 #
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
+# May 2020: update to new layout; mark some strings TODO instead of
+# fuzzy (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-system-india.html\n"
-"POT-Creation-Date: 2017-08-07 15:26+0000\n"
-"PO-Revision-Date: 2020-01-22 21:41+0100\n"
+"POT-Creation-Date: 2020-05-31 05:26+0000\n"
+"PO-Revision-Date: 2020-05-31 10:20+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,34 +17,57 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <title>
 msgid "The Education System in India - GNU Project - Free Software Foundation"
 msgstr "Hindistan'daki Eğitim Sistemi - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/education.html#indepth\">In Depth</a> &rarr; The Education System "
-"in India"
-msgstr ""
-"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
-"education.html#indepth\">Ayrıntılar</a> &rarr; Hindistan'daki Eğitim Sistemi"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Eğitim İçerikleri"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Eğitim İçerikleri]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/education.html#indepth\">In&nbsp;Depth</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a href="
+"\"/education/education.html#indepth\">Ayrıntılar</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "The Education System in India"
 msgstr "Hindistan'daki Eğitim Sistemi"
 
-#. type: Content of: <p>
-msgid "by <strong>Dr. V. Sasi Kumar</strong><a href=\"#sasi\"> (1)</a>"
-msgstr "yazan <strong>Dr. V. Sasi Kumar</strong><a href=\"#sasi\"> (1)</a>"
+#. type: Content of: <div><p>
+msgid "by Dr. V. Sasi Kumar <a href=\"#sasi\">(1)</a>"
+msgstr "yazan Dr. V. Sasi Kumar <a href=\"#sasi\">(1)</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "In the Beginning"
 msgstr "Başlangıçta"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In ancient times, India had the Gurukula system of education in which anyone "
 "who wished to study went to a teacher's (Guru) house and requested to be "
@@ -68,7 +93,7 @@ msgstr ""
 "doğa ve yaşamla yakından ilişkiliydi ve bazı bilgileri ezberlemekle sınırlı "
 "değildi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The modern school system was brought to India, including the English "
 "language, originally by Lord Thomas Babington Macaulay in the 1830s. The "
@@ -85,7 +110,7 @@ msgstr ""
 "doğa ile bağlantı koptu, aynı zamanda öğretmen ve öğrenci arasındaki yakın "
 "ilişki de koptu."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Uttar Pradesh (a state in India) Board of High School and Intermediate "
 "Education was the first Board set up in India in the year 1921 with "
@@ -112,7 +137,7 @@ msgstr ""
 "ve Afganistan'dan Zimbabve'ye kadar pek çok ülkede Kurul'a bağlı binlerce "
 "okul var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Universal and compulsory education for all children in the age group of 6-14 "
 "was a cherished dream of the new government of the Republic of India. This "
@@ -138,12 +163,12 @@ msgstr ""
 "yaptığı harcama, GSYİH'in yaklaşık %3'üne ulaşmaktadır ki bu çok düşük "
 "olarak kabul edilmektedir."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><blockquote><p>
 msgid ""
-"&ldquo;In recent times, several major announcements were made for developing "
-"the poor state of affairs in education sector in India, the most notable "
-"ones being the National Common Minimum Programme (NCMP) of the United "
-"Progressive Alliance (UPA) government. The announcements are; (a) To "
+"<em>&ldquo;In recent times, several major announcements were made for "
+"developing the poor state of affairs in education sector in India, the most "
+"notable ones being the National Common Minimum Programme (NCMP) of the "
+"United Progressive Alliance (UPA) government. The announcements are; (a) To "
 "progressively increase expenditure on education to around 6 percent of GDP. "
 "(b) To support this increase in expenditure on education, and to increase "
 "the quality of education, there would be an imposition of an education cess "
@@ -151,10 +176,10 @@ msgid ""
 "education due to economic backwardness and poverty. (d) To make right to "
 "education a fundamental right for all children in the age group 6&ndash;14 "
 "years. (e) To universalize education through its flagship programmes such as "
-"Sarva Siksha Abhiyan and Mid Day Meal.&rdquo; <a href=\"http://en.wikipedia."
-"org/wiki/Education_in_india\">Wikipedia: Education in India</a>."
+"Sarva Siksha Abhiyan and Mid Day Meal.&rdquo;</em> (<a href=\"http://en."
+"wikipedia.org/wiki/Education_in_india\">Wikipedia: Education in India</a>)"
 msgstr ""
-"&ldquo;Son zamanlarda Hindistan'da eğitim sektöründeki kötü durumun "
+"<em>&ldquo;Son zamanlarda Hindistan'da eğitim sektöründeki kötü durumun "
 "giderilmesi için bazı önemli ilanlar yapıldı; bunların en önemlileri "
 "Birleşik İlerici İttifak (<abbr title=\"United Progressive Alliance\">UPA</"
 "abbr>) hükûmetinin Minimum Ortak Ulusal Program'ı (<abbr title=\"National "
@@ -166,14 +191,14 @@ msgstr ""
 "edilmemesini sağlamak, (d) 6&ndash;14 yaş grubundaki tüm çocuklar için "
 "eğitim hakkını temel bir hak hâline getirmek, (e) Sarva Siksha Abhiyan ve "
 "Mid Day Meal gibi en iyi programları aracılığıyla eğitimi evrenselleştirmek."
-"&rdquo; <a href=\"http://en.wikipedia.org/wiki/Education_in_india"
-"\">Wikipedia: Education in India</a>."
+"&rdquo;</em> (<a href=\"http://en.wikipedia.org/wiki/Education_in_india"
+"\">Wikipedia: Education in India</a>)"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "The School System"
 msgstr "Okul Sistemi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "India is divided into 28 states and 7 so-called &ldquo;Union "
 "Territories&rdquo;. The states have their own elected governments while the "
@@ -209,7 +234,7 @@ msgstr ""
 "\"Central Advisory Board of Education\">CABE</abbr>); eğitim politikalarının "
 "ve programlarının evrimi ve izlenmesinde başrol oynamaya devam etmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There is a national organization that plays a key role in developing "
 "policies and programmes, called the National Council for Educational "
@@ -233,7 +258,7 @@ msgstr ""
 "uyar. Ancak eyaletlerin eğitim sisteminin uygulanmasında büyük bir özgürlüğü "
 "vardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The National Policy on Education, 1986 and the Programme of Action (POA) "
 "1992 envisaged free and compulsory education of satisfactory quality for all "
@@ -251,7 +276,7 @@ msgstr ""
 "Eğitim harcamaları da 1951-52'de yüzde 0,7'den 1997-98'de yaklaşık yüzde "
 "3,6'ya yükseldi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The school system in India has four levels: lower primary (age 6 to 10), "
 "upper primary (11 and 12), high (13 to 15) and higher secondary (17 and 18). "
@@ -273,7 +298,7 @@ msgstr ""
 "tartışıldığı gibi bazı müfredatlar hariç ülke çapındaki öğrenciler üç dil "
 "(İngilizce, Hintçe ve ana dillerini) öğrenmek zorundadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There are mainly three streams in school education in India. Two of these "
 "are coordinated at the national level, of which one is under the Central "
@@ -314,7 +339,7 @@ msgstr ""
 "diğer 21 ülkede 141 bağlı okulu vardır ve buradaki Hint nüfusunun "
 "ihtiyaçlarını karşılamaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The second central scheme is the Indian Certificate of Secondary Education "
 "(ICSE). It seems that this was started as a replacement for the Cambridge "
@@ -353,7 +378,7 @@ msgstr ""
 "bağlı. Bütün bunlar özel okullardır ve genellikle varlıklı ailelerden gelen "
 "çocuklara hitap eder."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Both the CBSE and the ICSE council conduct their own examinations in schools "
 "across the country that are affiliated to them at the end of 10 years of "
@@ -370,11 +395,11 @@ msgstr ""
 "çocuğun iyi bir performans göstermesi için çok fazla baskı oluşturduğundan "
 "10 yılın sonunda sınavın kaldırılması için öneriler olmuştur."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Exclusive Schools"
 msgstr "Özel Okullar"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In addition to the above, there are a relatively small number of schools "
 "that follow foreign curricula such as the so-called Senior Cambridge, though "
@@ -397,7 +422,7 @@ msgstr ""
 "Dehradun'daki Doon okulu gibi az sayıda öğrenci alan ve çok yüksek ücretler "
 "alan diğer özel okullar da var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Apart from all of these, there are a handful of schools around the country, "
 "such as the Rishi Valley school in Andhra Pradesh, that try to break away "
@@ -416,11 +441,11 @@ msgstr ""
 "ortamı sağlar. Okul türünün mezunlarının yaşamı üzerindeki etkisini "
 "incelemek ilginç ve öğretici olacaktır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "State Schools"
 msgstr "Eyalet Okulları"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Each state in the country has its own Department of Education that runs its "
 "own school system with its own textbooks and evaluation system.  As "
@@ -434,7 +459,7 @@ msgstr ""
 "ölçüde eyaletteki SCERT tarafından karar verilir ve NCERT tarafından "
 "öngörülen ulusal yönergeler takip edilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Each state has three kinds of schools that follow the state curriculum. The "
 "government runs its own schools in land and buildings owned by the "
@@ -466,11 +491,11 @@ msgstr ""
 "devlet okullarındakiyle aynı olduğundan bu okullar devlet okullarına çok "
 "benzer."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "The Case of Kerala"
 msgstr "Kerala'nın Durumu"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The state of Kerala, a small state in the South Western coast of India, has "
 "been different from the rest of the country in many ways for the last few "
@@ -501,7 +526,7 @@ msgstr ""
 "takip edilen kalkınma modeline, yüksek eğitim ve refah harcamalarıyla, yol "
 "açtı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Kerala has also always shown interest in trying out ways of improving its "
 "school education system. Every time the NCERT came up with new ideas, it was "
@@ -548,7 +573,7 @@ msgstr ""
 "\"Comprehensive and Continuous Evaluation\">CCE</abbr>) sistemi "
 "getirilmiştir. Şu anda CBSE de CCE uygulamıştır ama daha esnek bir şekilde."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Kerala was also the first state in the country to introduce Information "
 "Technology as a subject of study at the High School level.  It was started "
@@ -605,7 +630,7 @@ msgstr ""
 "fsf.org/project/ghemical/\"> Ghemical</a> gibi uygulamalar da öğretmenler ve "
 "öğrenciler arasında popülerdir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The initiative taken by Kerala is now influencing other states and even the "
 "policies of the Government of India. States like Karnataka and Gujarat are "
@@ -629,38 +654,52 @@ msgstr ""
 "Hindistan genel olarak en büyük GNU/Linux ve Özgür Yazılım kullanıcı "
 "tabanına sahip olabilir."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "References"
 msgstr "Kaynaklar"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
 msgid ""
-"http://www.columbia.edu/itc/mealac/pritchett/00generallinks/macaulay/"
-"txt_minute_education_1835.html"
+"<a href=\"http://www.columbia.edu/itc/mealac/pritchett/00generallinks/"
+"macaulay/txt_minute_education_1835.html\"> Minute by the Hon'ble T. B. "
+"Macaulay, dated the 2nd February 1835</a>"
 msgstr ""
-"http://www.columbia.edu/itc/mealac/pritchett/00generallinks/macaulay/"
-"txt_minute_education_1835.html"
+"<a href=\"http://www.columbia.edu/itc/mealac/pritchett/00generallinks/"
+"macaulay/txt_minute_education_1835.html\"> Tutanakları sağlayan Hon'ble T. "
+"B. Macaulay, tarihi 2 Şubat 1835</a>"
 
-#. type: Content of: <p>
-msgid "http://varnam.org/blog/2007/08/the_story_behind_macaulays_edu"
-msgstr "http://varnam.org/blog/2007/08/the_story_behind_macaulays_edu"
-
-#. type: Content of: <p>
-msgid "http://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education"
-msgstr "http://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education"
-
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <div><div><ul><li>
 msgid ""
-"<a id=\"sasi\"></a><a href=\"http://swatantryam.blogspot.com/\">V. Sasi "
-"Kumar</a> is a doctor in physics and a member of the FSF India Board of "
-"Directors. He advocates for Free Software and freedom of knowledge."
+"<a href=\"http://varnam.org/blog/2007/08/the_story_behind_macaulays_edu\"> "
+"The Story behind Macaulay's Education Policy: Part 1</a>"
 msgstr ""
-"<a id=\"sasi\"></a><a href=\"http://swatantryam.blogspot.com/\">V. Sasi "
-"Kumar</a> fizik bölümünden bir doktora sahibi ve FSF Hindistan Yönetim "
-"Kurulu üyesidir. Özgür Yazılım ve bilgi özgürlüğünü savunuyor."
+"<a href=\"http://varnam.org/blog/2007/08/the_story_behind_macaulays_edu\"> "
+"Macaulay'in Eğitim Politikasının arkasındaki Hikayet: 1. Kısım</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"http://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education"
+"\"> Wikipedia: Central Board of Secondary Education</a>"
+msgstr ""
+"<a href=\"http://en.wikipedia.org/wiki/Central_Board_of_Secondary_Education"
+"\"> Vikipedi: Ortaöğretim Merkez Kurulu</a>"
+
+#. type: Content of: <div><div><h3>
+msgid "Footnote"
+msgstr "Dipnotlar"
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"<a href=\"http://swatantryam.blogspot.com/\">V. Sasi Kumar</a> is a doctor "
+"in physics and a member of the FSF India Board of Directors.  He advocates "
+"for Free Software and freedom of knowledge."
+msgstr ""
+"<a href=\"http://swatantryam.blogspot.com/\">V. Sasi Kumar</a> fizik "
+"bölümünden bir doktora sahibi ve FSF Hindistan Yönetim Kurulu üyesidir. "
+"Özgür Yazılım ve bilgi özgürlüğünü savunuyor."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -685,14 +724,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "

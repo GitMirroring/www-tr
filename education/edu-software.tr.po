@@ -2,48 +2,72 @@
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # The FLOSS Information <theflossinformation@yandex.com>, 2019.
+# May 2020: update to new layout (T. Godefroy).
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-software.html\n"
-"POT-Creation-Date: 2019-05-01 00:27+0000\n"
-"PO-Revision-Date: 2019-12-19 20:08+0100\n"
+"POT-Creation-Date: 2020-05-27 10:42+0200\n"
+"PO-Revision-Date: 2020-05-31 09:00+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <title>
 msgid "Educational Free Software - GNU Project - Free Software Foundation"
 msgstr "Eğitsel Özgür Yazılım - GNU Projesi- Özgür Yazılım Vakfı"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Educational Resources</a> &rarr; Educational "
-"Free Software"
-msgstr ""
-"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
-"edu-resources.html\">Eğitim Kaynakları</a> &rarr; Eğitsel Özgür Yazılım"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Eğitim İçerikleri"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Eğitim İçerikleri]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Resources</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a href="
+"\"/education/edu-resources.html\">Kaynakları</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Educational Free Software"
 msgstr "Eğitsel Özgür Yazılım"
 
-#. type: Content of: <p>
-msgid ""
-"<strong>The GNU project maintains a <a href=\"/software/free-software-for-"
-"education.html\">list of high quality free programs for education at all "
-"levels</a> that we recommend.</strong>"
-msgstr ""
-"<strong>GNU projesi, <a href=\"/software/free-software-for-education.html"
-"\">her düzeyde eğitim için yüksek kalitede, önerdiğimiz özgür programların "
-"bir listesini</a> tutar.</strong>"
-
 #. type: Content of: <div><p>
+msgid ""
+"<em>The GNU project maintains a <a href=\"/software/free-software-for-"
+"education.html\">list of high quality free programs for education at all "
+"levels</a> that we recommend.</em>"
+msgstr ""
+"<em>GNU projesi, <a href=\"/software/free-software-for-education.html\">her "
+"düzeyde eğitim için yüksek kalitede, önerdiğimiz özgür programların bir "
+"listesini</a> tutar.</em>"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "Before addressing the subject in this section, we would like to remind our "
 "readers that the word &ldquo;free&rdquo; in &ldquo;free software&rdquo; "
@@ -61,11 +85,11 @@ msgstr ""
 "yazılımdır. Daha fazla bilgi için <a href=\"/philosophy/free-sw.html\">özgür "
 "yazılım tanımına</a> bakabilirsiniz."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "What you will find in this section"
 msgstr "Bu Bölümde Ne Bulacaksınız?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This page does not constitute an exhaustive listing of available educational "
 "free programs. Our aim is to present some examples so as to illustrate how "
@@ -79,21 +103,21 @@ msgstr ""
 "uygulayabileceklerini göstermek için bazı örnekler sunmaktır. Tanımlanan her "
 "program için bu özgürlüklerin fiilen nasıl uygulandığını göstereceğiz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "The following are the examples that we present:"
 msgstr "Sunduğumuz örnekler şunlardır:"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"/education/edu-software-gcompris.html\">GCompris</a> | <a href=\"/"
-"education/edu-software-gimp.html\">GIMP</a> | <a href=\"/education/edu-"
-"software-tuxpaint.html\">Tux Paint</a>"
+"&nbsp;<a href=\"/education/edu-software-gcompris.html\">GCompris</a>&nbsp; "
+"&nbsp;<a href=\"/education/edu-software-gimp.html\">GIMP</a>&nbsp; &nbsp;<a "
+"href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a>&nbsp;"
 msgstr ""
-"<a href=\"/education/edu-software-gcompris.html\">GCompris</a> | <a href=\"/"
-"education/edu-software-gimp.html\">GIMP</a> | <a href=\"/education/edu-"
-"software-tuxpaint.html\">Tux Paint</a>"
+"&nbsp;<a href=\"/education/edu-software-gcompris.html\">GCompris</a>&nbsp; "
+"&nbsp;<a href=\"/education/edu-software-gimp.html\">GIMP</a>&nbsp; &nbsp;<a "
+"href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a>&nbsp;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some of the programs presented here, like GCompris, are part of the GNU "
 "Project. This means that developers of these programs agree to pay attention "
@@ -115,7 +139,7 @@ msgstr ""
 "belgelendirme</a> kampanyamızda tanımlandığı gibi kullanıcıyı özgür yazılım "
 "için herhangi bir özgür olmayan belgelendirmeye yönlendirmez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "People who wish to migrate to free software or are looking for a free libre "
 "program to accomplish a particular task, should refer to the <a href="
@@ -136,7 +160,7 @@ msgstr ""
 "araştırma da dâhil olmak üzere yüksek derecede uzmanlık seviyelerine kadar "
 "farklı eğitim düzeylerine özgü programları listeler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you know of a free software program that is being used by an educational "
 "institution for specific purposes, or has been modified or otherwise adapted "
@@ -150,7 +174,7 @@ msgstr ""
 "biliyorsanız lütfen <a href=\"mailto:education@gnu.org\">&lt;education@gnu."
 "org&gt;</a> adresine bir e-posta göndererek bize bildirin."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We are looking for free educational games, or information about free games "
 "that can be used for educational purposes. Contact <a href=\"mailto:"
@@ -161,7 +185,7 @@ msgstr ""
 "education@gnu.org&gt;</a> adresinden iletişim kurabilirsiniz."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -186,14 +210,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -208,9 +232,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2012, 2016, 2017, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2017, 2019, 2020 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2012, 2016, 2017, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2017, 2019, 2020 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

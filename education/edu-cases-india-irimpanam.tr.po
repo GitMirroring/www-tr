@@ -2,19 +2,20 @@
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # The FLOSS Information <theflossinformation@yandex.com>, 2019.
+# May 2020: update to new layout (T. Godefroy).
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-india-irimpanam.html\n"
-"POT-Creation-Date: 2019-11-21 07:55+0000\n"
-"PO-Revision-Date: 2020-01-18 19:52+0100\n"
+"POT-Creation-Date: 2020-05-31 05:26+0000\n"
+"PO-Revision-Date: 2020-05-31 08:50+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -22,22 +23,45 @@ msgid ""
 "Foundation"
 msgstr "Irimpanam Meslek Okulu - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-cases.html\">Case Studies</a> &rarr; <a href=\"/education/edu-"
-"cases-india.html\">India</a> &rarr; Vocational Higher Secondary School "
-"Irimpanam"
-msgstr ""
-"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
-"edu-cases.html\">Durum Çalışmaları</a> &rarr; <a href=\"/education/edu-cases-"
-"india.html\">Hindistan</a> &rarr; Irimpanam Meslek Okulu"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Eğitim İçerikleri"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Eğitim İçerikleri]&nbsp;"
+
+#. type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-cases.html\">Case&nbsp;Studies</a>&nbsp;/ <a href=\"/"
+"education/edu-cases-india.html\">India</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a href="
+"\"/education/edu-cases.html\">Durum&nbsp;Çalışmaları</a>&nbsp;/ <a href=\"/"
+"education/edu-cases-india.html\">Hindistan</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Vocational Higher Secondary School Irimpanam"
 msgstr "Irimpanam Mesleki Okulu"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The following report is based on information provided to us by the school's "
 "staff."
@@ -45,11 +69,11 @@ msgstr ""
 "Aşağıdaki rapor, okul personeli tarafından bize verilen bilgilere "
 "dayanmaktadır."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Location"
 msgstr "Yer"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The school is located in Irimpanam, an area close to the city of "
 "Tripunithura, in the Ernakulam district of the <a href=\"http://en.wikipedia."
@@ -59,13 +83,13 @@ msgstr ""
 "en.wikipedia.org/wiki/Kerala#Education\"> Tripunithura</a> şehrine yakın bir "
 "alan olan Irimpanam'da bulunmaktadır."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "About"
 msgstr "Hakkında"
 
 #. a href="http://vhssirimpanam.org/"
 #. /a
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Founded in 1940, the Vocational Higher Secondary School Irimpanam is a "
 "privately owned school aided by the State. It offers instruction from Upper "
@@ -77,11 +101,11 @@ msgstr ""
 "sınıftan 7. sınıfa ve 8. sınıftan 10. sınıfa kadar). Okula 10-15 yaş arası "
 "yaklaşık 1.000 öğrenci devam ediyor."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Motivation"
 msgstr "Motivasyon"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Our institution took special interest in promoting the main aspects of the "
 "philosophy of the GNU Project, such as the freedom to share knowledge and "
@@ -103,11 +127,11 @@ msgstr ""
 "öğrendiklerimizin sonucudur. Bu toplantılara katılmak, Özgür Yazılım "
 "topluluğuyla yakın ilişki içinde çalışmamıza da yardımcı oldu."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "How We Did It"
 msgstr "Nasıl Yaptık?"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The migration to Free Software in our school was the result of a project "
 "designed and established by the Government of Kerala, called <a href="
@@ -121,25 +145,21 @@ msgstr ""
 "başlayan proje; Kerala'da birkaç bin okulu kapsıyordu ve 2006'da tamamen "
 "Özgür Yazılım'a geçildi."
 
-#. type: Content of: <div><div><a>
+#. type: Content of: <div><div><div><a>
 msgid "<a href=\"/education/misc/irimpanam-school.jpg\">"
 msgstr "<a href=\"/education/misc/irimpanam-school.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid "Image of students at a Free Software event."
 msgstr "Özgür Yazılım etkinliğindeki öğrencilerin görüntüsü."
 
-#. type: Content of: <div><div>
-msgid "</a>"
-msgstr "</a>"
-
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid "Students at a Free Software event organized by SSK VHSS Irimpanam."
 msgstr ""
 "SSK VHSS Irimpanam tarafından düzenlenen Özgür Yazılım etkinliğindeki "
 "öğrenciler."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Training courses for teachers were implemented by the government to teach us "
 "the basics of the new Free Operating System and how to install it. The new "
@@ -161,7 +181,7 @@ msgstr ""
 "düzenlenen atölye çalışmalarından biri, okulumuzun web sitesini Özgür "
 "Yazılım kullanarak inşa etmemize yardımcı oldu."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Training was not limited to software, it also included teaching the basics "
 "of hardware maintenance to teachers and students. In our school, 10 years "
@@ -171,7 +191,7 @@ msgstr ""
 "öğretmenlere ve öğrencilere öğretmeyi de içeriyordu. Okulumuzda 10 yaşında "
 "bir öğrenci bilgisayar montajını biliyor."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The use of Free programs in the classroom was facilitated by the "
 "implementation of training modules aimed at instructing teachers on the use "
@@ -190,7 +210,7 @@ msgstr ""
 "wiki/Chemtool\">Chemtool</a> kullanarak organik moleküllerin nasıl "
 "çizileceğine ilişkin bir eğitim modülü vardı."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Other training activities were conducted jointly by the school and ILUG-"
 "Cochin to teach us the use of different Free Software applications such as "
@@ -200,7 +220,7 @@ msgstr ""
 "uygulamalarının kullanımını bize öğretmek için okul ve ILUG-Cochin ortaklaşa "
 "eğitim faaliyetleri yürütmüştür."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The school has also opened an <a href=\"http://en.wikipedia.org/wiki/"
 "Internet_Relay_Chat\">IRC</a> channel where students can ask questions about "
@@ -210,11 +230,11 @@ msgstr ""
 "sorabilecekleri bir <a href=\"http://en.wikipedia.org/wiki/"
 "Internet_Relay_Chat\">IRC</a> kanalı açtı."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Commitment to Free Software"
 msgstr "Özgür Yazılıma Bağlılık"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "At the beginning the new system was used on a dual-boot basis, because we "
 "teachers were not familiar with Free Software, but we soon got acquainted "
@@ -229,7 +249,7 @@ msgstr ""
 "değil ve hiçbir özel mülk program kullanılmıyor. Sınıfta ve idari ofislerde "
 "sadece Özgür Yazılım kullanılmaktadır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We use a wide range of free programs in the classroom, such as <a href= "
 "\"http://directory.fsf.org/wiki/GIMP/\">GIMP</a>, <a href= \"http://"
@@ -245,7 +265,7 @@ msgstr ""
 "org/\">LibreOffice</a> gibi çok çeşitli özgür programlar kullanıyoruz ancak "
 "diğerleri de var."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Students are also introduced to the programming language Python as from "
 "grade 8 (13 years old)."
@@ -253,15 +273,15 @@ msgstr ""
 "Öğrencilere ayrıca 8. sınıftan itibaren (13 yaş) Python programlama dili "
 "tanıtılmaktadır."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Results"
 msgstr "Sonuçlar"
 
-#. type: Content of: <div><div><a>
+#. type: Content of: <div><div><div><a>
 msgid "<a href=\"/education/misc/tuxpaint.jpg\">"
 msgstr "<a href=\"/education/misc/tuxpaint.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid ""
 "Image of the TuxPaint interface in Malayalam showing the stamp for the "
 "Adeenia flower."
@@ -269,7 +289,7 @@ msgstr ""
 "Adeenia çiçeğinin damgasını gösteren Malayalamca TuxPaint arayüzünün "
 "görüntüsü."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "<a href=\"/education/misc/adeenia.ogg\">Listen</a> to a student pronounce "
 "the name of the Adeenia flower in Malayalam."
@@ -277,19 +297,20 @@ msgstr ""
 "Malayalamcadaki Adeenia çiçeğinin adını söyleyen bir öğrenciyi <a href=\"/"
 "education/misc/adeenia.ogg\">dinleyin</a>."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"Education in the State of Kerala has become \"IT-enabled\", meaning that "
-"students are getting first hand technology knowledge while learning regular "
-"curriculum subjects outside the IT Lab. This is possible due to the large "
-"number of high quality educational applications available in GNU/Linux."
+"Education in the State of Kerala has become &ldquo;IT-enabled,&rdquo; "
+"meaning that students are getting first hand technology knowledge while "
+"learning regular curriculum subjects outside the IT Lab. This is possible "
+"due to the large number of high quality educational applications available "
+"in GNU/Linux."
 msgstr ""
-"Kerala Eyaleti'nde eğitim; \"IT-enabled\" oldu, bu da öğrencilerin BT "
-"Laboratuvarı dışındaki düzenli müfredat konularını öğrenirken ilk elden "
+"Kerala Eyaleti'nde eğitim; &ldquo;IT-enabled&rdquo; oldu, bu da öğrencilerin "
+"BT Laboratuvarı dışındaki düzenli müfredat konularını öğrenirken ilk elden "
 "teknoloji bilgisi edindiklerini gösteriyor. Bu, GNU/Linux'ta bulunan çok "
 "sayıda yüksek kaliteli eğitim uygulaması nedeniyle mümkündür."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The transparency and the cooperative method of Free Software helped students "
 "and teachers to dive deep into technology and made them capable of "
@@ -303,7 +324,7 @@ msgstr ""
 "katkı, <a href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a>'in "
 "ana dilimiz olan Malayalamcaya yerelleştirilmesiydi."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Another contribution was the addition of new stamps in TuxPaint. Native "
 "flowers were photographed and the pictures edited by 6th and 7th grade "
@@ -327,7 +348,7 @@ msgstr ""
 #.  a link to the video with subtitles in your language, if it exists. Likewise, 
 #.  modify the link to SubRip subtitles accordingly, and replace the word "English" 
 #.  with the name of your language. 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<a href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.en.ogv\">Watch "
 "and download the video</a>. <a href=\"/education/misc/irimpanam.en.srt"
@@ -337,7 +358,7 @@ msgstr ""
 "\">Videoyu izleyin ve indirin</a>. <a href=\"/education/misc/irimpanam.en.srt"
 "\">İngilizce alt yazıları SubRip biçimindi okuyun ve indirin</a>."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Both activities were promoted by Swathanthra Software Koottayma of VHSS "
 "Irimpanam <a href=\"http://sskvhssirimpanam.wordpress.com/\"> (SSK VHSS "
@@ -357,7 +378,7 @@ msgstr ""
 "deneyimlemelerini ve keşfetmelerini teşvik etmek için verdikleri "
 "özgürlükleri uygulamaya koymak için çeşitli faaliyetler gerçekleştirir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "As a way of keeping in touch and sharing experiences with other schools and "
 "with the Free Software community, teachers and students each year "
@@ -369,7 +390,7 @@ msgstr ""
 "yıl National Free Software Conference ve Cyber Safe Day gibi etkinliklere "
 "katılırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The commitment and the collaboration of teachers, students and local groups "
 "was essential to the success of this large scale government project."
@@ -377,19 +398,16 @@ msgstr ""
 "Bu büyük ölçekli hükümet projesinin başarısı için öğretmenlerin, "
 "öğrencilerin ve yerel grupların bağlılığı ve iş birliği çok önemliydi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"(1) <a id=\"swathanthra\"></a>Swathanthra is the Sanskrit word for \"free\" "
-"as in freedom."
-msgstr ""
-"(1) <a id=\"swathanthra\"></a>Swathanthra, \"özgür\" için Sanskritçe bir "
-"kelimedir."
+"(1) Swathanthra is the Sanskrit word for &ldquo;free&rdquo; as in freedom."
+msgstr "(1) Swathanthra, &ldquo;özgür&rdquo; için Sanskritçe bir kelimedir."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><div><h3>
 msgid "Credits"
 msgstr "Atıflar"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Credits for both images shown on this page, as well as for the audio file, "
 "go to Swathanthra Software Koottayma of VHSS Irimpanam, who released them "
@@ -402,19 +420,8 @@ msgstr ""
 "Unported</a> lisansı altında yayımlayan Swathanthra Software Koottayma of "
 "VHSS Irimpanam'a aittir."
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/edu-cases-india.html\">More Case Studies in India</a>"
-msgstr ""
-"<a href=\"/education/edu-cases-india.html\">Hindistan'da Daha Fazla Durum "
-"Çalışması</a>"
-
-#. type: Content of: <p>
-msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
-msgstr "<a href=\"/education/edu-cases.html\">Durum Çalışmalarına Geri Dön</a>"
-
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -439,14 +446,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -461,9 +468,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018, 2020 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -489,3 +496,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-cases-india.html\">More Case Studies in India</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases-india.html\">Hindistan'da Daha Fazla Durum "
+#~ "Çalışması</a>"
+
+#~ msgid "<a href=\"/education/edu-cases.html\">Back to Case Studies</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases.html\">Durum Çalışmalarına Geri Dön</a>"

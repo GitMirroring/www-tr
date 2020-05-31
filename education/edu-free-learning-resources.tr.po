@@ -3,11 +3,12 @@
 # This file is distributed under the same license as the original article.
 #
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
+# May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-free-learning-resources.html\n"
-"POT-Creation-Date: 2020-03-01 12:25+0000\n"
-"PO-Revision-Date: 2020-03-01 15:31+0100\n"
+"POT-Creation-Date: 2020-05-27 11:14+0200\n"
+"PO-Revision-Date: 2020-05-31 08:54+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -21,20 +22,43 @@ msgstr ""
 msgid "Free Learning Resources - GNU Project - Free Software Foundation"
 msgstr "Özgür Öğrenme Kaynakları - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <p>
-msgid ""
-"<a href=\"/education/education.html\">Education</a> &rarr; <a href=\"/"
-"education/edu-resources.html\">Educational Resources</a> &rarr; Free "
-"Learning Resources"
-msgstr ""
-"<a href=\"/education/education.html\">Eğitim</a> &rarr; <a href=\"/education/"
-"edu-resources.html\">Eğitim Kaynakları</a> &rarr; Özgür Öğrenme Kaynakları"
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
 
-#. type: Content of: <h2>
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Eğitim İçerikleri"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Eğitim İçerikleri]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Resources</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a href="
+"\"/education/edu-resources.html\">Eğitim Kaynakları</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Free Learning Resources"
 msgstr "Özgür Öğrenme Kaynakları"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Free learning resources, like free software, is a matter of freedom, not "
 "price. It's about bringing the principles of free software to general "
@@ -61,7 +85,7 @@ msgstr ""
 "tasarlanmış önlemlerin getirilmesi, insanın ilerlemesini engelleyen bir "
 "komplodur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "These principles on the freedom of knowledge have always been in the spirit "
 "of the GNU Project. In 1999, it formally introduced the concept of a <a href="
@@ -73,11 +97,11 @@ msgstr ""
 "encyclopedia/free-encyclopedia.html\">Evrensel Özgür Ansiklopedi ve Öğrenme "
 "Kaynağı</a> kavramını resmen tanıttı."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"http://www.wikipedia.org\">Wikipedia</a>"
 msgstr "<a href=\"http://www.wikipedia.org\">Vikipedi</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Written in collaboration by thousands of volunteers from all over the world, "
 "Wikipedia is nowadays the best example of knowledge made available to and "
@@ -94,13 +118,13 @@ msgstr ""
 "uyarlamasına izin verilir (bkz. <a href=\"/licenses/copyleft.html"
 "\">Copyleft</a>)."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "<a href=\"http://www.gutenberg.org/wiki/Main_Page\">Project Gutenberg</a>"
 msgstr ""
 "<a href=\"http://www.gutenberg.org/wiki/Main_Page\">Gutenberg Projesi</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "This project offers general knowledge books that are free as in freedom.  It "
 "publishes plain text digital versions of public-domain works. If you are "
@@ -110,7 +134,7 @@ msgstr ""
 "malı çalışmaların düz metin dijital versiyonlarını yayınlar. Klasik bir "
 "kitabın bir kopyasını arıyorsanız aramanız burada başlamalıdır."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "They have a very clear explanation about the <a href=\"http://www.gutenberg."
 "org/wiki/Gutenberg:No_Cost_or_Freedom%3f\"> difference between free as in "
@@ -120,11 +144,11 @@ msgstr ""
 "No_Cost_or_Freedom%3f\">fiyat olarak bedava ve özgürlük için özgür "
 "arasındaki fark</a> hakkında çok net bir açıklamaları var."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "GNU Project"
 msgstr "GNU Projesi"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "We maintain a list of <a href=\"/doc/other-free-books.html\">free books</a> "
 "mainly related to free software documentation, and we make <a href=\"/manual/"
@@ -138,11 +162,11 @@ msgstr ""
 "href=\"http://shop.fsf.org/category/books/\">Özgür Yazılım Vakfı</a> "
 "tarafından yayımlanan tüm kitaplar özgürlük için özgürdür."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"http://ftacademy.org/\">Free Technology Academy</a>"
 msgstr "<a href=\"http://ftacademy.org/\">Özgür Teknoloji Akademisi</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "The Free Technology Academy (FTA) is a joint initiative from several "
 "educational institutions in various countries. It aims to contribute to a "
@@ -161,7 +185,7 @@ msgstr ""
 "Projesi birlikte çalışabilirlik çerçevesine dayalı sanal bir kampüste "
 "tamamen çevrim içi olarak verilmektedir."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><div><dl><dd><p>
 msgid ""
 "The FTA is a collaboration between the Free Knowledge Institute, the Open "
 "University of Catalonia (Spain) and the Open University of the Netherlands. "
@@ -179,7 +203,7 @@ msgstr ""
 "genişletmekte ve hem bireyleri hem de kuruluşları topluma katkıda bulunmaya "
 "teşvik etmektedir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "We are looking for free educational games, or information about free games "
 "that can be used for educational purposes. Contact <a href=\"mailto:"
@@ -190,7 +214,7 @@ msgstr ""
 "education@gnu.org&gt;</a> ile iletişime geçin."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -215,14 +239,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
