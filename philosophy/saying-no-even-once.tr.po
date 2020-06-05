@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: saying-no-even-once.html\n"
-"POT-Creation-Date: 2020-05-30 01:25+0000\n"
-"PO-Revision-Date: 2020-05-30 11:15+0200\n"
+"POT-Creation-Date: 2020-06-02 11:55+0000\n"
+"PO-Revision-Date: 2020-06-05 13:57+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -22,12 +22,12 @@ msgid ""
 "Saying No to unjust computing even once is help - GNU Project - Free "
 "Software Foundation"
 msgstr ""
-"Bir kez bile adaletsiz bilişime Hayır demek yararlıdır - GNU Projesi - Özgür "
+"Adaletsiz Bilişime Bir Kez Bile Hayır Demek Yararlıdır - GNU Projesi - Özgür "
 "Yazılım Vakfı"
 
 #. type: Content of: <h2>
 msgid "Saying No to unjust computing even once is&nbsp;help"
-msgstr "Bir kez bile adaletsiz bilişime Hayır demek yararlıdır"
+msgstr "Adaletsiz Bilişime Bir Kez Bile Hayır Demek Yararlıdır"
 
 #. type: Content of: <p>
 msgid "by Richard Stallman"
@@ -150,7 +150,7 @@ msgstr ""
 
 #. type: Content of: <p>
 msgid ""
-"So tell someone, &ldquo;Thanks for inviting me, but Zoom/Skype/Whatsapp/"
+"So tell someone, &ldquo;Thanks for inviting me, but Zoom/Skype/WhatsApp/"
 "whichever is a freedom-denying program, and almost surely snoops on its "
 "users; please count me out. I want a different kind of world, and by "
 "declining to use it today I am taking a step towards that world.&rdquo;"
@@ -158,8 +158,8 @@ msgstr ""
 "Bu yüzden birine şunu söyleyin: &ldquo;Beni davet ettiğiniz için teşekkür "
 "ederim ancak Zoom/Skype/WhatsApp/hangisi olursa olsun özgürlüğü reddeden bir "
 "programdır ve kullanıcılarını hemen hemen kesinlikle gözetler; lütfen beni "
-"katmayın. Bir tür farklı bir dünya istiyorum ve bugün bunu kullanmayı "
-"reddederek o dünyaya doğru bir adım atıyorum."
+"katmayın. Ben başka bir dünya istiyorum ve bugün bunu kullanmayı reddederek "
+"o dünyaya doğru bir adım atıyorum.&rdquo;"
 
 #. type: Content of: <p>
 msgid ""

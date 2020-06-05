@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: education-menu.html\n"
 "Report-Msgid-Bugs-To: Webmasters <webmasters@gnu.org>\n"
-"POT-Creation-Date: 2020-05-27 09:23+0200\n"
-"PO-Revision-Date: 2020-05-31 08:53+0200\n"
+"POT-Creation-Date: 2020-06-03 09:57+0000\n"
+"PO-Revision-Date: 2020-06-05 13:44+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -66,7 +66,7 @@ msgstr ""
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dt>
 msgid "<a href=\"/education/edu-resources.html#content\">Resources</a>"
-msgstr "<a href=\"/education/edu-resources.html#content\">Kaynakları</a>"
+msgstr "<a href=\"/education/edu-resources.html#content\">Kaynaklar</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li>
 msgid ""
@@ -99,6 +99,22 @@ msgid ""
 msgstr ""
 "<a href=\"/education/edu-free-learning-resources.html#content\">Özgür "
 "Öğrenme Kaynakları</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+msgid ""
+"<a href=\"/education/resisting-proprietary-software.html#content"
+"\">Resistance</a>"
+msgstr ""
+"<a href=\"/education/resisting-proprietary-software.html#content\">Direniş</"
+"a>"
+
+#. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
+msgid ""
+"<a href=\"/education/successful-resistance-against-nonfree-software."
+"html#content\">Successful resistance</a>"
+msgstr ""
+"<a href=\"/education/successful-resistance-against-nonfree-software."
+"html#content\">Başarılı Direniş</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
 msgid "<a href=\"/education/edu-faq.html#content\">FAQ</a>"
