@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: education-menu.html\n"
 "Report-Msgid-Bugs-To: Webmasters <webmasters@gnu.org>\n"
-"POT-Creation-Date: 2020-06-03 09:57+0000\n"
-"PO-Revision-Date: 2020-06-05 13:44+0200\n"
+"POT-Creation-Date: 2020-06-06 11:57+0000\n"
+"PO-Revision-Date: 2020-06-06 14:16+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #. type: Content of: <div><div>
 msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#11165;</a>"
-msgstr "<a href=\"#content\"><span>BAŞA DÖN </span>&#11165;</a>"
+msgstr "<a href=\"#content\"><span>SAYFA BAŞI </span>&#11165;</a>"
 
 #. type: Content of: <div><div><h3>
 msgid "Education"
@@ -28,11 +28,11 @@ msgstr "Eğitim"
 
 #. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"/education/education.html#content\">Main page</a>"
-msgstr "<a href=\"/education/education.html#content\">Eğitim Ana Sayfası</a>"
+msgstr "<a href=\"/education/education.html#content\">Ana sayfa</a>"
 
 #. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"/education/edu-cases.html#content\">Case studies</a>"
-msgstr "<a href=\"/education/edu-cases.html#content\">Durum Çalışmaları</a>"
+msgstr "<a href=\"/education/edu-cases.html#content\">Durum çalışmaları</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><li><li>
 msgid "<a href=\"/education/edu-cases-argentina.html#content\">Argentina</a>"
@@ -54,7 +54,7 @@ msgid ""
 "Center</a>"
 msgstr ""
 "<a href=\"/education/edu-cases-india-ambedkar.html#content\">Ambedkar "
-"Topluluğu Bilişim Merkezi</a>"
+"Merkezi</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><li><li><li><ul><li>
 msgid ""
@@ -90,7 +90,7 @@ msgstr ""
 msgid ""
 "<a href=\"/education/edu-projects.html#content\">Groups &amp; projects</a>"
 msgstr ""
-"<a href=\"/education/edu-projects.html#content\">Gruplar ve Projeler</a>"
+"<a href=\"/education/edu-projects.html#content\">Gruplar ve projeler</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li>
 msgid ""
@@ -98,7 +98,7 @@ msgid ""
 "learning resources</a>"
 msgstr ""
 "<a href=\"/education/edu-free-learning-resources.html#content\">Özgür "
-"Öğrenme Kaynakları</a>"
+"öğrenme kaynakları</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
 msgid ""
@@ -114,7 +114,7 @@ msgid ""
 "html#content\">Successful resistance</a>"
 msgstr ""
 "<a href=\"/education/successful-resistance-against-nonfree-software."
-"html#content\">Başarılı Direniş</a>"
+"html#content\">Başarılı direniş</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
 msgid "<a href=\"/education/edu-faq.html#content\">FAQ</a>"
@@ -122,42 +122,41 @@ msgstr "<a href=\"/education/edu-faq#content\">SSS</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
 msgid "<a href=\"/education/edu-team.html#content\">Our team</a>"
-msgstr "<a href=\"/education/edu-team.html#content\">Eğitim Ekibi</a>"
+msgstr "<a href=\"/education/edu-team.html#content\">Eğitim ekibi</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
 msgid "In depth"
-msgstr "Ayrıntılar"
+msgstr "Ayrıntılı"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
 msgid ""
 "<a href=\"/education/edu-why.html#content\">Why educational institutions "
 "should use and teach free software</a>"
 msgstr ""
-"<a href=\"/education/edu-why.html#content\">Eğitim Kurumları Neden Sadece "
-"Özgür Yazılımları Kullanmalı ve Öğretmelidir</a>"
+"<a href=\"/education/edu-why.html#content\">Eğitim kurumları neden özgür "
+"yazılım kullanmalı ve öğretmeli</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
 msgid ""
 "<a href=\"/education/edu-schools.html#content\">Why schools should "
 "exclusively use free software</a>"
 msgstr ""
-"<a href=\"/education/edu-schools.html#content\">Okullar Neden Sadece Özgür "
-"Yazılım Kullanmalı</a>"
+"<a href=\"/education/edu-schools.html#content\">Okullar neden sadece özgür "
+"yazılım kullanmalı</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
 msgid ""
 "<a href=\"/education/edu-system-india.html#content\">The education system in "
 "India</a>"
 msgstr ""
-"<a href=\"/education/edu-system-india.html#content\">Hindistan'daki Eğitim "
-"Sistemi</a>"
+"<a href=\"/education/edu-system-india.html#content\">Hindistan'daki eğitim "
+"sistemi</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
 msgid ""
-"<a href=\"/education/misc/misc.html#content\">Miscellaneous materials</a>"
+"<a href=\"/education/misc/edu-misc.html#content\">Miscellaneous materials</a>"
 msgstr ""
-"<a href=\"/education/misc/edu-misc.html#content\">Çeşitli Eğitim "
-"Materyalleri</a>"
+"<a href=\"/education/misc/edu-misc.html#content\">Çeşitli materyaller</a>"
 
 #~ msgid "<a href=\"/education/edu-team.html\">OUR&nbsp;TEAM</a>"
 #~ msgstr "<a href=\"/education/edu-team\">EKİBİMİZ</a>"
