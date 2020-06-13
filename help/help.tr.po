@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: help.html\n"
-"POT-Creation-Date: 2019-07-21 05:55+0000\n"
-"PO-Revision-Date: 2020-05-03 08:56+0200\n"
+"POT-Creation-Date: 2020-06-12 19:55+0000\n"
+"PO-Revision-Date: 2020-06-13 15:03+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -89,11 +89,30 @@ msgstr ""
 
 #. type: Content of: <ul><li>
 msgid ""
-"Contribute to the <a href=\"http://www.fsf.org/campaigns/priority.html"
-"\">high priority free software projects</a>."
+"Propose your useful software packages as GNU packages.  See the <a href=\"/"
+"help/evaluation.html\">GNU software evaluation</a> information."
 msgstr ""
-"<a href=\"http://www.fsf.org/campaigns/priority.html\">Yüksek öncelikli "
-"özgür yazılım projelerine</a> katkıda bulunun."
+"Yararlı yazılım paketlerinizi GNU paketleri olarak önerin. <a href=\"/help/"
+"evaluation.html\">GNU yazılım değerlendirme</a> bilgilerine bakın."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Write a Firefox extension that will replace the nonfree Javascript code of "
+"some useful web site (when that nonfree code is blocked by LibreJS).  Either "
+"pick a site yourself, or ask for suggestions."
+msgstr ""
+"Bazı yararlı web sitelerindeki özgür olmayan Javascript kodunu (bu özgür "
+"olmayan kod LibreJS tarafından engellendiğinde) değiştirecek bir Firefox "
+"eklentisi yazın. Siteyi kendiniz seçebilir veya önerilerimiz için bize "
+"sorabilirsiniz."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Do one of the <a href=\"/help/priority-projects.html\">GNU High Priority "
+"Enhancement Projects</a>."
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html\">GNU Yüksek Öncelikli "
+"İyileştirme Projelerinden</a> birini yapın."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -117,19 +136,19 @@ msgstr ""
 
 #. type: Content of: <ul><li>
 msgid ""
+"Work on a project on the <a href=\"http://www.fsf.org/campaigns/priority.html"
+"\">FSF's list of very important free software projects</a>."
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html\">FSF'nin çok önemli "
+"özgür yazılım projelerinden</a> birinde çalışın."
+
+#. type: Content of: <ul><li>
+msgid ""
 "Improve <a href=\"/accessibility/accessibility.html\">accessibility of free "
 "software</a>."
 msgstr ""
 "<a href=\"/accessibility/accessibility.html\">Özgür yazılımın "
 "erişilebilirliğini</a> iyileştirin."
-
-#. type: Content of: <ul><li>
-msgid ""
-"Propose your useful software packages as GNU packages.  See the <a href=\"/"
-"help/evaluation.html\">GNU software evaluation</a> information."
-msgstr ""
-"Yararlı yazılım paketlerinizi GNU paketleri olarak önerin. <a href=\"/help/"
-"evaluation.html\">GNU yazılım değerlendirme</a> bilgilerine bakın."
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -591,12 +610,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
-"Foundation, Inc."
+"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free "
+"Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
-"Foundation, Inc."
+"2006, 2007, 2008, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free "
+"Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
