@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2020-06-01 10:25+0000\n"
-"PO-Revision-Date: 2020-06-05 13:34+0200\n"
+"POT-Creation-Date: 2020-06-18 18:25+0000\n"
+"PO-Revision-Date: 2020-06-21 09:24+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -90,7 +90,7 @@ msgstr "<a href=\"/distros/free-distros.html\">GNU/Linux'u Deneyin</a>"
 msgid "<a href=\"/distros/screenshots/dragora-ice.png\">"
 msgstr "<a href=\"/distros/screenshots/dragora-ice.png\">"
 
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid ""
 "&nbsp;[Screenshot of Dragora&nbsp;3.0-beta1 with IceWM window manager]&nbsp;"
 msgstr ""
@@ -115,7 +115,7 @@ msgstr ""
 msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Guix&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
 "&nbsp;[GNOME&nbsp;3 masaüstü ile Guix&nbsp;0.15'in ekran görüntüsü]&nbsp;"
@@ -170,7 +170,7 @@ msgstr ""
 msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of PureOS&nbsp;8 with GNOME&nbsp;3 desktop]&nbsp;"
 msgstr ""
 "&nbsp;[GNOME&nbsp;3 masaüstü ile PureOS&nbsp;8'in ekran görüntüsü]&nbsp;"
@@ -189,7 +189,7 @@ msgstr ""
 msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
 msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
 msgstr "&nbsp;[MATE masaüstü ile Trisquel&nbsp;8'in ekran görüntüsü]&nbsp;"
 
@@ -203,60 +203,60 @@ msgstr ""
 "\"https://trisquel.info\">Trisquel&nbsp;8</a>, Abrowser (web tarayıcısı) ve "
 "Inkscape (vektörel grafik düzenleyicisi)</small>"
 
-#. type: Content of: <div><div><table><tr><td><a>
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=dragora#gnu-linux\">"
 
-#. type: Content of: <div><div><table><tr><td><a>
+#. type: Content of: <div><div><div><div>
+msgid "<small>Dragora / IceWM</small>"
+msgstr "<small>Dragora / IceWM</small>"
+
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
 
-#. type: Content of: <div><div><table><tr><td><a>
+#. type: Content of: <div><div><div><div>
+msgid "<small>Guix / GNOME3</small>"
+msgstr "<small>Guix / GNOME3</small>"
+
+#. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
 
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Hyperbola&nbsp;0.3 with i3 window manager]&nbsp;"
 msgstr ""
 "&nbsp;[i3 pencere yöneticisi ile Hyperbola&nbsp;0.3'ün ekran görüntüsü]&nbsp;"
 
-#. type: Content of: <div><div><table><tr><td><a>
-msgid "<a href=\"/home.html?distro=parabola#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=parabola#gnu-linux\">"
-
-#. type: Attribute 'alt' of: <div><div><table><tr><td><a><img>
-msgid "&nbsp;[Screenshot of Parabola&nbsp;2020 with LXDE desktop]&nbsp;"
-msgstr "&nbsp;[LXDE masaüstü ile Parabola&nbsp;2020'nin ekran görüntüsü]&nbsp;"
-
-#. type: Content of: <div><div><table><tr><td><a>
-msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
-
-#. type: Content of: <div><div><table><tr><td><a>
-msgid "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
-
-#. type: Content of: <div><div><table><tr><td>
-msgid "<small>Dragora / IceWM</small>"
-msgstr "<small>Dragora / IceWM</small>"
-
-#. type: Content of: <div><div><table><tr><td>
-msgid "<small>Guix / GNOME3</small>"
-msgstr "<small>Guix / GNOME3</small>"
-
-#. type: Content of: <div><div><table><tr><td>
+#. type: Content of: <div><div><div><div>
 msgid "<small>Hyperbola / i3</small>"
 msgstr "<small>Hyperbola / i3</small>"
 
-#. type: Content of: <div><div><table><tr><td>
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/home.html?distro=parabola#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=parabola#gnu-linux\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Parabola&nbsp;2020 with LXDE desktop]&nbsp;"
+msgstr "&nbsp;[LXDE masaüstü ile Parabola&nbsp;2020'nin ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><div>
 msgid "<small>Parabola / LXDE</small>"
 msgstr "<small>Parabola / LXDE</small>"
 
-#. type: Content of: <div><div><table><tr><td>
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
+
+#. type: Content of: <div><div><div><div>
 msgid "<small>PureOS / GNOME3</small>"
 msgstr "<small>PureOS / GNOME3</small>"
 
-#. type: Content of: <div><div><table><tr><td>
+#. type: Content of: <div><div><div><div><a>
+msgid "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
+msgstr "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
+
+#. type: Content of: <div><div><div><div>
 msgid "<small>Trisquel / MATE</small>"
 msgstr "<small>Trisquel / MATE</small>"
 

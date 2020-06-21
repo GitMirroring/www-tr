@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-projects.html\n"
-"POT-Creation-Date: 2020-05-27 11:14+0200\n"
-"PO-Revision-Date: 2020-05-31 08:57+0200\n"
+"POT-Creation-Date: 2020-06-20 19:25+0000\n"
+"PO-Revision-Date: 2020-06-21 09:39+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -180,8 +180,12 @@ msgstr ""
 "\">Hypatia</a>'dan geliyor."
 
 #. type: Content of: <div><div><dl><dt>
-msgid "<a href=\"https://itschool.gov.in/otherprograms.php\">IT@School</a>"
-msgstr "<a href=\"https://itschool.gov.in/otherprograms.php\">IT@School</a>"
+msgid ""
+"<a href=\"https://web.archive.org/web/20181214064758/https://www.itschool."
+"gov.in/otherprograms.php\">IT@School</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20181214064758/https://www.itschool."
+"gov.in/otherprograms.php\">IT@School</a>"
 
 #. type: Content of: <div><div><dl><dd>
 msgid ""
