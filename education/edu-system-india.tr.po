@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-system-india.html\n"
-"POT-Creation-Date: 2020-05-31 05:26+0000\n"
-"PO-Revision-Date: 2020-05-31 10:20+0200\n"
+"POT-Creation-Date: 2020-06-25 09:56+0000\n"
+"PO-Revision-Date: 2020-06-26 14:58+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -60,8 +60,10 @@ msgid "The Education System in India"
 msgstr "Hindistan'daki Eğitim Sistemi"
 
 #. type: Content of: <div><p>
-msgid "by Dr. V. Sasi Kumar <a href=\"#sasi\">(1)</a>"
-msgstr "yazan Dr. V. Sasi Kumar <a href=\"#sasi\">(1)</a>"
+msgid ""
+"by Dr. V. Sasi Kumar <a href=\"#sasi\" id=\"sasi-rev\"><sup>[1]</sup></a>"
+msgstr ""
+"yazan Dr. V. Sasi Kumar <a href=\"#sasi\" id=\"sasi-rev\"><sup>[1]</sup></a>"
 
 #. type: Content of: <div><div><h3>
 msgid "In the Beginning"
@@ -688,15 +690,17 @@ msgstr ""
 msgid "Footnote"
 msgstr "Dipnotlar"
 
-#. type: Content of: <div><div><ol><li>
+#. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"http://swatantryam.blogspot.com/\">V. Sasi Kumar</a> is a doctor "
-"in physics and a member of the FSF India Board of Directors.  He advocates "
-"for Free Software and freedom of knowledge."
+"<a href=\"#sasi-rev\" id=\"sasi\">[1]</a> <a href=\"http://swatantryam."
+"blogspot.com/\">V. Sasi Kumar</a> is a doctor in physics and a member of the "
+"FSF India Board of Directors.  He advocates for Free Software and freedom of "
+"knowledge."
 msgstr ""
-"<a href=\"http://swatantryam.blogspot.com/\">V. Sasi Kumar</a> fizik "
-"bölümünden bir doktora sahibi ve FSF Hindistan Yönetim Kurulu üyesidir. "
-"Özgür Yazılım ve bilgi özgürlüğünü savunuyor."
+"<a href=\"#sasi-rev\" id=\"sasi\">[1]</a> <a href=\"http://swatantryam."
+"blogspot.com/\">V. Sasi Kumar</a> fizik bölümünden bir doktora sahibi ve FSF "
+"Hindistan Yönetim Kurulu üyesidir. Özgür Yazılım ve bilgi özgürlüğünü "
+"savunuyor."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div><div>

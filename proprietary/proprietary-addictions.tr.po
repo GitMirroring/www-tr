@@ -1,33 +1,57 @@
 # Turkish translation of https://www.gnu.org/proprietary/proprietary-addictions.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# 
+#
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-addictions.html\n"
-"POT-Creation-Date: 2020-02-25 13:55+0000\n"
-"PO-Revision-Date: 2020-04-27 20:09+0300\n"
-"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
+"POT-Creation-Date: 2020-06-24 05:26+0000\n"
+"PO-Revision-Date: 2020-06-26 15:08+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 19.12.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <title>
 msgid "Proprietary Addictions - GNU Project - Free Software Foundation"
 msgstr "Özel Mülk Bağımlılıklar - GNU Projesi - Özgür Yazılım Vakfı"
 
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Section contents"
+msgstr "Bölüm içeriği"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Section contents]&nbsp;"
+msgstr "&nbsp;[Bölüm içeriği]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"/proprietary/proprietary.html\">Proprietary malware</a> &rarr; "
-"Addictions"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Malware</a>&nbsp;/ By "
+"type&nbsp;/"
 msgstr ""
-"<a href=\"/proprietary/proprietary.html\">Özel mülk kötücül yazılım</a> "
-"&rarr; Bağımlılıklar"
+"</a>&nbsp;/ <a href=\"/proprietary/proprietary.html\">Kötücül Yazılım</"
+"a>&nbsp;/ Türe Göre &nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Proprietary Addictions"
@@ -53,7 +77,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Bu genellikle kötücül işlevsellikler biçimini alır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "This page deals with malicious functionalities that are added to some "
 "programs for the sole purpose of luring users into more and more frequent "
@@ -63,7 +87,7 @@ msgstr ""
 "kullanıcıları, programı daha sık ve yoğun bir şekilde kullanmaya "
 "yönlendirmek amacıyla bazı programlara eklenen kötücül işlevlerle ilgilidir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "If you know of an example that ought to be in this page but isn't here, "
 "please write to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
@@ -74,15 +98,15 @@ msgstr ""
 "bizi bilgilendirmek için <a href=\"mailto:webmasters@gnu.org\">&lt;"
 "webmasters@gnu.org&gt;</a> adresine yazın."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "How software is made addictive"
 msgstr "Yazılım nasıl bağımlılık yapar"
 
-#. type: Content of: <div><h4>
+#. type: Content of: <div><div><h4>
 msgid "Games"
 msgstr "Oyunlar"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Many games are designed to keep gamers compulsively playing&mdash;and "
 "renewing their subscription. To achieve this result, developers use <a href="
@@ -96,11 +120,11 @@ msgstr ""
 "video-games-are-trying-to-get-you-addicted.html\">davranış ve beyin "
 "araştırmalarından elde edilen yöntemleri</a> kullanırlar:"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "The Skinner Box"
 msgstr "Skinner Kutusu"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "An environment in which the user is trained to &ldquo;push the lever&ldquo;, "
 "i.e. do a certain action over and over again in order to get a reward."
@@ -108,11 +132,11 @@ msgstr ""
 "Kullanıcının &ldquo;bir kolu çekmek&ldquo; için, yani bir ödül almak için "
 "tekrar tekrar belirli bir işlemi yapmak için eğitildiği bir ortam."
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Virtual food pellets"
 msgstr "Sanal yemek hapları"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Items that have nothing to do with the game itself, but are valuable to "
 "gamers because of the work required to obtain them (e.g., EverQuest); some "
@@ -122,11 +146,11 @@ msgstr ""
 "çalışmalar nedeniyle oyuncular için değerli olan ögeler (örn. EverQuest); "
 "bazı insanlar salt toplamak için onları toplarlar."
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Random rewards"
 msgstr "Rastgele ödüller"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "They turn the game into the equivalent of a slot machine (e.g., World of "
 "Warcraft, ZT Online)."
@@ -134,11 +158,11 @@ msgstr ""
 "Oyunu bir kumar makinesinin eş değerine dönüştürüyorlar (örn. World of "
 "Warcraft, ZT Online)."
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Elaborate cycles"
 msgstr "Ayrıntılı döngüler"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "Gamers' behavior can be &ldquo;shaped&rdquo; by making cycles (progress from "
 "one level to the next) slower and slower, designing complex tasks that are "
@@ -152,11 +176,11 @@ msgstr ""
 "bunları küçük parçalara bölerek (örn. New Super Mario Bros.Wii) &ldquo;"
 "şekillendirilebilir&rdquo;."
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "Decay of game assets"
 msgstr "Oyun varlıklarının eksilmesi"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <div><div><dl><dd>
 msgid ""
 "This makes it necessary for a gamer to keep playing, without vacations, "
 "simply to avoid losing what they have earned so far (e.g., Farmville, Ultima "
@@ -166,7 +190,7 @@ msgstr ""
 "ara vermeden oynamaya devam etmesini gerekli kılar (örn. Farmville, Ultima "
 "Online, Animal Crossing)."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Games such as World of Warcraft, which are considered very addictive, use "
 "several of these techniques."
@@ -174,13 +198,13 @@ msgstr ""
 "Çok bağımlılık yapıcı kabul edilen World of Warcraft gibi oyunlar bu "
 "tekniklerin birkaçını kullanır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid "There are even more elaborate ways to get users addicted to a game."
 msgstr ""
 "Kullanıcıları bir oyuna bağımlı hâle getirmenin daha özenle hazırlanmış "
 "yolları da vardır."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "&ldquo;Loot boxes&rdquo; are a direct application of the random reward "
 "mechanism, and their addictiveness is enhanced by seductive animation. They "
@@ -193,7 +217,7 @@ msgstr ""
 "psychology-and-seductive-art-of-loot-boxes/\"> Kumar oynamaya benziyorlar</"
 "a>."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "The developers of gratis mobile games apply the techniques described above "
 "to <a href=\"https://www.psychguides.com/interact/the-psychology-of-freemium/"
@@ -213,7 +237,7 @@ msgstr ""
 "geliştiriciler, oyunlarının bağımlılık yapıcılığını artırmak için "
 "milyonlarca kullanıcının davranışlarını dikkatle inceliyorlar."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<small>(Unfortunately, the last two articles use &ldquo;free&rdquo; to mean "
 "&ldquo;zero price.&rdquo; We recommend saying &ldquo;gratis&rdquo; instead.)"
@@ -223,7 +247,7 @@ msgstr ""
 "&ldquo;free&rdquo;yi kullanır. Bunun yerine &ldquo;gratis&rdquo; demenizi "
 "öneririz.)</small>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "However, the addictiveness of a game is only one of the determinants of "
 "addiction. Equally important are the psychological make-up and life "
@@ -237,7 +261,7 @@ msgstr ""
 "bağımlılıklar gibi, memnuniyetsiz bir yaşamdan zihinsel bir kaçış şeklidir. "
 "Üzücü gerçek şu ki, uzun vadede, daha da kötü bir yaşama yol açıyor."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<small><em>Note:</em>&nbsp; We are not gamers. If you think we have "
 "misunderstood some point, or have suggestions for making this text clearer "
@@ -249,11 +273,11 @@ msgstr ""
 "olduğunu düşünüyorsanız lütfen bunları &lt;<a href=\"mailto:webmasters@gnu."
 "org\">webmasters@gnu.org</a>&gt; adresine gönderin.</small>"
 
-#. type: Content of: <div><h4>
+#. type: Content of: <div><div><h4>
 msgid "Online gambling"
 msgstr "Çevrim içi kumar"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Online gambling services (and their nonfree client programs) are <a href="
 "\"https://www.theguardian.com/society/2019/feb/22/gambling-apps-more-"
@@ -267,7 +291,7 @@ msgstr ""
 "yapacak şekilde tasarlanmıştır</a>. Bunu genellikle çeşitli, farklı kötü "
 "işlevlerle, sıklıkla bunları birlikte kullanarak başarırlar."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Many of these malfunctionalities are implemented by the server and the "
 "client program together. In some cases, there is no honest way that the "
@@ -283,7 +307,7 @@ msgstr ""
 "engelleyebilmesinin tek yolu kazanmanın gerçekleşmediğini iddia etmektir. "
 "Ancak kullanıcılar bu değişikliği istemez."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "However, modification of the client program could cover up some addictive "
 "behaviors without losing the user anything."
@@ -291,11 +315,11 @@ msgstr ""
 "Bununla birlikte istemci programının değiştirilmesi, kullanıcı hiçbir şey "
 "kaybetmeden bazı bağımlılık yapan davranışlarını örtbas edebilir."
 
-#. type: Content of: <div><h4>
+#. type: Content of: <div><div><h4>
 msgid "Social networks"
 msgstr "Sosyal ağlar"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some social networking apps are <a href=\"https://www.jeffbullas.com/"
 "facebook-creates-addiction/\"> designed to get users addicted</a>. These try "
@@ -318,7 +342,7 @@ msgstr ""
 "Yazılım; kullanıcıların bu ödüller için arzusunu tetiklemek ve bu arzuyu "
 "mümkün olduğunca uzun süre canlı tutmak için tasarlanmıştır."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "By default, notifications are sent every time a new item comes in, instead "
 "of, say, once a day. They are associated with sounds or vibrations which "
@@ -339,7 +363,7 @@ msgstr ""
 "headlines/201307/smartphone-addiction\"> &ldquo;akıllı&rdquo; telefonların "
 "bağımlılık yapıcılığına</a> katkıda bulunabilirler."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Users are served selected material that is likely to interest them, based on "
 "<a href=\"https://theconversation.com/facebook-is-killing-democracy-with-its-"
@@ -353,7 +377,7 @@ msgstr ""
 "arada <a href=\"/proprietary/proprietary-manipulation.html\">manipülasyona</"
 "a> yol açar.)"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "The app interface is designed to make users stay on the site as long as "
 "possible, using <a href=\"https://uxplanet.org/ux-infinite-scrolling-vs-"
@@ -364,7 +388,7 @@ msgstr ""
 "kullanıcıların mümkün olduğunca uzun süre sitede kalmasını sağlamak için "
 "tasarlanmıştır."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "The company that owns the social network tries to cover users' needs as "
 "extensively as possible, by <a href=\"https://en.wikipedia.org/wiki/"
@@ -388,7 +412,7 @@ msgstr ""
 "ilgili seçenekleri arayarak bulmakta zorlanacaklar ve uygulama agresif bir "
 "şekilde kalmaları için onlara yakınacaktır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A good way to minimize the risk of addiction, short of avoiding social media "
 "altogether, is to turn off notifications and leave as little as possible of "
@@ -398,11 +422,11 @@ msgstr ""
 "bir yolu; bildirimleri kapatmak ve platformdaki verilerinizi mümkün "
 "olduğunca az miktarda tutmaktır."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Examples of addictive software"
 msgstr "Bağımlılık yapan yazılım örnekleri"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Resourceful children figured out how to <a href=\"https://www.bbc.co.uk/news/"
 "technology-48908766\"> empty their parents' bank account</a> buying packs of "
@@ -412,7 +436,7 @@ msgstr ""
 "paketleri satın alarak ebeveynlerinin<a href=\"https://www.bbc.co.uk/news/"
 "technology-48908766\"> banka hesabını nasıl boşalttıklarını</a> keşfetmişler."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The random element of these packs (also called &ldquo;loot boxes&rdquo;) "
 "makes the game <a href=\"/proprietary/proprietary-addictions#addictiveness"
@@ -431,7 +455,7 @@ msgstr ""
 "fifa-ultimate-team-packs-blocked-in-belgium/\"> bu yağma kutularını 2018'de "
 "yasa dışı yaptığını</a> dikkate alın."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The only good reason to have a copy of such a proprietary game is to study "
 "it for free software development."
@@ -439,7 +463,7 @@ msgstr ""
 "Böyle bir özel mülk oyunun bir kopyasına sahip olmanın tek iyi nedeni, özgür "
 "yazılım geliştirmek için üzerinde çalışmaktır."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Clash of Clans is a good example of a gratis mobile game that its developers "
 "<a href=\"https://gamerant.com/clash-of-clans-addiction/\"> made very "
@@ -454,7 +478,7 @@ msgstr ""
 "yönlendirme teknikleri</a> kullanarak kendileri için bir onları para "
 "makinesine dönüştüren, iyi bir bedava mobil oyunu örneğidir."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "<small>(The article uses &ldquo;free&rdquo; to mean &ldquo;zero price,"
 "&rdquo; which is a usage we should avoid. We recommend saying &ldquo;"
@@ -464,7 +488,7 @@ msgstr ""
 "kullanır, bu da kaçınmamız gereken bir kullanımdır. Bunun yerine &ldquo;"
 "gratis&rdquo; demenizi öneriyoruz.)</small>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In the game Fruit Pop, the player buys boosts with coins to get a high "
 "score. The player gets coins at the end of each game, and can buy more coins "
@@ -474,7 +498,7 @@ msgstr ""
 "satın alır. Oyuncu her oyunun sonunda sikke edinir ve gerçek para ile daha "
 "fazla sikke satın alabilir."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Getting a higher score once leads the player to desire higher score again "
 "later. But the higher score resulting from the boost <a href=\"https://qz."
@@ -497,7 +521,7 @@ msgstr ""
 "destekleri almak için gerçek parayla daha fazla sikke almaya itilir ve bu "
 "pahalı bir alışkanlığa dönüşebilir."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Game Of War: Fire Age is an iPhone game with <a href=\"http://www.cracked."
 "com/personal-experiences-1762-5-reasons-i-lost-249000-iphone-game.html\"> "
@@ -524,7 +548,7 @@ msgstr ""
 "gizlemek için kafa karıştırıcı menüler ve karmaşık istatistikler kullanır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div>
+#. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr " "
 
@@ -549,14 +573,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
