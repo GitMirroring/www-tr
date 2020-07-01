@@ -1,14 +1,14 @@
 # Turkish translation of https://www.gnu.org/education/education.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# T. E. Kalayci, 2019.
+# T. E. Kalayci, 2019, 2020.
 # May 2020: update to new layout (T. Godefroy).
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: education.html\n"
-"POT-Creation-Date: 2020-05-31 05:26+0000\n"
-"PO-Revision-Date: 2020-05-31 08:50+0200\n"
+"POT-Creation-Date: 2020-06-29 11:26+0000\n"
+"PO-Revision-Date: 2020-07-01 17:41+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -121,26 +121,24 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
-"In this six-minutes video <a href=\"http://www.fsf.org/about/leadership/#rms"
-"\">Richard Stallman</a> explains briefly and to the point the principles of "
-"Free Software and how they connect to education."
+"In this six-minutes video Richard Stallman explains briefly and to the point "
+"the principles of Free Software and how they connect to education."
 msgstr ""
-"Bu altı dakikalık videoda <a href=\"http://www.fsf.org/about/leadership/#rms"
-"\">Richard Stallman</a> Özgür Yazılımın ilkelerini ve eğitimle ilişkilerini "
-"kısaca ve öz olarak açıklıyor."
+"Bu altı dakikalık videoda Richard Stallman Özgür Yazılımın ilkelerini ve "
+"eğitimle ilişkisini kısa ve öz olarak anlatıyor."
 
 #.  TRANSLATORS: Please replace the link to the video with subtitles in
 #.      English with a link to the video with subtitles in your language, 
 #.      if it exists. 
 #. type: Content of: <div><div><div><div><p>
 msgid ""
-"<a href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub.en.ogv"
+"<a href=\"https://audio-video.gnu.org/video/rms-education-es-high-sub.en.ogv"
 "\"> Download and watch the video</a> at a higher definition in the Ogg "
 "Theora (ogv) free format."
 msgstr ""
-"Videoyu, özgür bir biçim olan Ogg Theora (ogv) şeklinde yüksek çözünürlüklü "
-"olarak <a href=\"http://audio-video.gnu.org/video/rms-education-es-high-sub."
-"en.ogv\">indirip izleyebilirsiniz</a>."
+"Videoyu, Ogg Theora (ogv) özgür biçimi şeklinde yüksek çözünürlüklü olarak "
+"<a href=\"https://audio-video.gnu.org/video/rms-education-es-high-sub.en.ogv"
+"\">indirip izleyebilirsiniz</a>."
 
 #.  TRANSLATORS: please add the link to your language here in the first 
 #.      place, followed by a comma. 
@@ -278,7 +276,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>T. E. Kalaycı, 2019.</li>\n"
+"<li>T. E. Kalaycı, 2019, 2020.</li>\n"
 "</ul>"
 
 #.  timestamp start 
