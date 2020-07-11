@@ -7,14 +7,14 @@
 # Birkan Sarıfakıoğlu, 2009.".
 # Serkan Çapkan, 2009.".
 # İzlem Gözükeleş, 2009.".
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-07 13:25+0000\n"
-"PO-Revision-Date: 2020-04-27 20:23+0300\n"
-"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
+"POT-Creation-Date: 2020-07-07 11:55+0000\n"
+"PO-Revision-Date: 2020-07-11 08:13+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Loco-Source-Locale: en_AT\n"
 "X-Loco-Parser: loco_parse_po\n"
-"X-Generator: Lokalize 19.12.3\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -1998,15 +1998,15 @@ msgid ""
 "slide presentation.  &ldquo;PowerPoint&rdquo; is just the name of one "
 "particular proprietary program to make presentations.  For your freedom's "
 "sake, you should use only free software to make your presentations&mdash;"
-"which means, <em>not PowerPoint</em>.  Recommended options include TeX's "
-"<tt>beamer</tt> class and LibreOffice.org's Impress."
+"which means, <em>not PowerPoint</em>.  Recommended options include LaTeX's "
+"<code>beamer</code> class and LibreOffice Impress."
 msgstr ""
 "Lütfen herhangi bir yansı sunumunu tanımlamak için &ldquo;PowerPoint&rdquo; "
 "terimini kullanmayınız. &ldquo;PowerPoint&rdquo; sunum yapmak üzere "
 "kullanılan belirli bir özel mülk yazılımın adıdır. Özgürlüğünüz için "
 "sunumlarınızı (<em>PowerPoint değil</em>) hazırlamak için özgür yazılım "
-"kullanmalısınız. Önerdiğimiz alternatifler TeX'in <tt>beamer</tt> sınıfı ve "
-"LibreOffice'un Impress'idir."
+"kullanmalısınız. Önerdiğimiz alternatifler LaTeX'in <code>beamer</code> "
+"sınıfı ve LibreOffice'un Impress'idir."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Product&rdquo;"
