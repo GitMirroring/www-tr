@@ -1,0 +1,613 @@
+# Turkish translation of https://www.gnu.org/education/remote-education-children-freedom-privacy-at-stake.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# Mert Gör <mertgor@dismail.de>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: remote-education-children-freedom-privacy-at-stake.html\n"
+"POT-Creation-Date: 2020-06-25 12:55+0000\n"
+"PO-Revision-Date: 2020-07-18 12:37+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid ""
+"Remote Education: My Children's Freedom and Privacy at Stake - GNU Project - "
+"Free Software Foundation"
+msgstr ""
+"Uzaktan Eğitim: Çocuğumun Özgürlük ve Gizliliği Tehlikede - GNU Projesi - "
+"Özgür Yazılım Vakfı"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Eğitim İçerikleri"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Eğitim İçerikleri]&nbsp;"
+
+#. type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/resisting-proprietary-software.html\"> Resistance</"
+"a>&nbsp;/ <a href=\"/education/successful-resistance-against-nonfree-"
+"software.html\"> Successful resistance</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a href="
+"\"/education/resisting-proprietary-software.html\"> Direniş</a>&nbsp;/ <a "
+"href=\"/education/successful-resistance-against-nonfree-software.html\"> "
+"Başarılı direniş</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Remote Education: My Children's Freedom and Privacy at Stake"
+msgstr "Uzaktan Eğitim: Çocuğumun Özgürlük ve Gizliliği Tehlikede"
+
+#. type: Content of: <div><p>
+msgid ""
+"by Javier Sepúlveda <a href=\"#sepulveda\" id=\"sepulveda-rev\"><sup>[*]</"
+"sup></a>"
+msgstr ""
+"yazan Javier Sepúlveda <a href=\"#sepulveda\" id=\"sepulveda-rev\"><sup>[*]</"
+"sup></a>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"At the beginning of March 2020, we started to hear worrisome news about the "
+"spread of COVID-19 in Spain. Within days, all public events, conferences<a "
+"href=\"#conferences\">[1]</a> and gatherings were disallowed. Even a "
+"traditional celebration historically held in this period, the <cite>Falles</"
+"cite><a href=\"#falles\">[2]</a>, was canceled."
+msgstr ""
+"Mart 2020'nin başında, COVID-19'un İspanya'da yayılmasıyla ilgili endişe "
+"verici haberler duymaya başladık. Birkaç gün içinde herkese açık "
+"etkinliklere, konferanslara <a href=\"#conferences\">[1]</a> ve toplantılara "
+"izin verilmedi. Bu dönemde tarihsel olarak yapılan geleneksel bir kutlama "
+"olan <cite>Falles</cite> <a href=\"#falles\">[2]</a> bile iptal edildi."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Next came the stay-at-home order from the government and the indefinite "
+"suspension of all in-person educational activities.  Teaching had to go "
+"online, but were schools, colleges and universities prepared for this? The "
+"answer is no. In order to switch to remote education, they needed "
+"videoconferencing platforms, communication systems and servers they did not "
+"always have. And this is where the problem starts."
+msgstr ""
+"Sonra hükümetten evde kalma emri ve tüm yüz yüze eğitim faaliyetlerinin "
+"süresiz olarak askıya alınması geldi. Öğretim çevrimiçi olmak zorundaydı, "
+"ancak okullar, kolejler ve üniversiteler bunun için hazır mıydı? Yanıt "
+"hayır. Uzaktan eğitime geçmek için hiç bir zaman sahip olmadıkları video "
+"konferans platformlarına, iletişim sistemlerine ve sunuculara ihtiyaçları "
+"vardı. İşte sorun burada başlıyor."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Educational institutions began to choose whatever they needed unilaterally "
+"and independently. Each teacher, school or university picked a different "
+"program or platform on the spur of the moment, basing their choices on the "
+"sole criteria of practicality and popularity of the software. Far more "
+"important factors, such as the freedom and privacy of their students&mdash;"
+"or their own&mdash;were left aside. Students and parents had no say, it was "
+"a take-it-or-leave-it approach."
+msgstr ""
+"Eğitim kurumları ihtiyaç duydukları her şeyi tek taraflı ve bağımsız olarak "
+"seçmeye başladılar. Her öğretmen, okul veya üniversite, seçimlerini "
+"yazılımın sadece kullanışlılık ve popülerlik ölçütlerine dayandırarak, "
+"farklı bir program veya platforma hazırlıksız olarak karar verdiler. "
+"Öğrencilerinin (veya kendilerinin) özgürlüğü ve mahremiyeti gibi çok daha "
+"önemli etkenler bir kenara bırakıldı. Öğrencilerin ve velilerin söz hakkı "
+"yoktu, ister beğen ister beğenme yaklaşımıydı."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Why were hundreds of students being condemned to use software that is unfair "
+"to them? Why should all data (voice, images, videos, handwritten documents) "
+"be owned by a company? <strong>The price of proprietary systems is the "
+"surrender of our freedom. It is the voice of our children and their image on "
+"video&mdash;everything is recorded on third-party servers for later analysis "
+"and exploitation</strong>.  Too high a price to pay."
+msgstr ""
+"Neden yüzlerce öğrenci kendileri için adaletsiz yazılımı kullanmaya mahkum "
+"edildi? Neden tüm veriler (ses, görüntü, video, el yazısı belgeler) bir "
+"şirkete ait olmalıydı? <strong>Özel mülkiyet sistemlerin maliyeti "
+"özgürlüğümüzden vazgeçiştir. Video görüntüleri ve sesler çocuklarımızındı, "
+"her şey daha sonra analiz etmek ve faydalanmak için üçüncü taraf sunuculara "
+"kaydediliyordu</strong>. Çok yüksek bir bedel."
+
+#. type: Content of: <div><div><p>
+msgid "The situation was unacceptable. It was time to say <em>NO</em>."
+msgstr "Durum kabul edilemezdi. <em>HAYIR</em> demenin zamanı gelmişti."
+
+#. type: Content of: <div><div><h3>
+msgid "My children's schools"
+msgstr "Çocuklarımın okulları"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Marta (10) and Javi (12) attend public schools in San Antonio de Benagéber, "
+"Valencia, for their compulsory education. Apart from that, they are involved "
+"in extracurricular activities at three different private institutions. Marta "
+"takes elementary clarinet classes at the local non-profit Music Association "
+"(to which I provide web and email hosting.) Javi takes trumpet lessons at "
+"the Professional Conservatory of Music to prepare for admission to higher "
+"music studies in that institution. They both also attend a local English "
+"Academy."
+msgstr ""
+"Marta (10) ve Javi (12), zorunlu eğitimleri için Valensiya'daki San Antonio "
+"de Benagéber'deki devlet okullarına gidiyorlar. Bunun dışında üç farklı özel "
+"kurumda ders dışı faaliyetlere katılıyorlar. Marta, (web ve e-posta "
+"barındırma hizmeti verdiğim) kâr amacı gütmeyen yerel Müzik Derneği'nde "
+"temel klarnet dersleri alıyor. Javi, bu kurumdaki yüksek müzik eğitimine "
+"girebilmek için Profesyonel Müzik Konservatuarı'nda trompet dersleri alıyor. "
+"İkisi de yerel bir İngiliz Akademisine gidiyorlar."
+
+#. type: Content of: <div><div><h3>
+msgid "My fight"
+msgstr "Mücadelem"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"For my moral grounds, I cannot let my children use nonfree software. I was "
+"determined to fight, but how? I was alone in this, and still under "
+"quarantine. I realized I could help people cope with the emergency by "
+"offering solutions I could easily find in my field of knowledge: free "
+"software they could use for their specific needs."
+msgstr ""
+"Ahlaki nedenlerle, çocuklarımın özgür olmayan yazılım kullanmasına izin "
+"veremem. Mücadele etmeye kararlıydım, ama nasıl? Bunda yalnızdım ve hala "
+"karantinadaydım. Bilgili olduğum alanda kolayca bulabileceğim çözümler "
+"sunarak insanların acil durumla başa çıkmalarına yardımcı olabileceğimi fark "
+"ettim: belirli ihtiyaçları için kullanabilecekleri özgür yazılım."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"But I also realized the task was not easy. It was necessary to start with "
+"small steps, realistic goals. With the private schools, I thought, they "
+"should be more inclined to listen, since there I am not only a parent, but "
+"also a paying costumer. And at Marta's Music Association I was also their "
+"server provider, so surely they would trust my opinion on issues related to "
+"information technology."
+msgstr ""
+"Ama aynı zamanda bu görevin kolay olmadığını da fark ettim. Küçük adımlarla, "
+"gerçekçi hedeflerle başlamak gerekiyordu. Özel okullarla başlanabilirdi, "
+"dinlemeye daha çok eğilimli olmaları gerektiğini düşündüm, çünkü orada "
+"sadece bir ebeveyn değil, aynı zamanda ücret veren bir müşteriydim. Üstelik "
+"Marta'nın Müzik Derneği'nde de sunucu sağlayıcılarıydım. Bu yüzden "
+"kesinlikle bilgi teknolojisi ile ilgili hususlardaki fikrime güveneceklerdi."
+
+#. type: Content of: <div><div><blockquote><p>
+msgid ""
+"<em>&ldquo;A walk of a thousand miles consists of lots of steps.  Each time "
+"you don't install some nonfree program, or decide not to run it that day, "
+"that is a step towards your own freedom.&rdquo;</em>&nbsp; (Richard "
+"Stallman, <a href=\"/philosophy/saying-no-even-once.html\"> Saying No to "
+"unjust computing even once is help</a>)."
+msgstr ""
+"<em>&ldquo;Damlaya damlaya göl olur. Özgür olmayan bir program kurmadığınız "
+"her seferinde veya o gün onu çalıştırmamaya karar verdiğinizde, bu "
+"özgürlüğünüze doğru atılmış bir adımdır. &rdquo;</em>&nbsp; (Richard "
+"Stallman, <a href=\"/philosophy/saying-no-even-once.html\">Adaletsiz "
+"Bilişime Bir Kez Bile Hayır Demek Yararlıdır</a>)."
+
+#. type: Content of: <div><div><h3>
+msgid "The first step"
+msgstr "İlk adım"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"When a professor from Marta's music school called me to invite me to create "
+"a Skype account for my daughter's lessons, I said, &ldquo;Have you read the "
+"terms and conditions of that service? Skype is widely known software, but "
+"that doesn't mean it's the best choice.  Have you heard about Jitsi? I can "
+"help you. I will send you all the information right now with an explanation "
+"on how to use it so that you can try it. It's also free/libre software, it "
+"does not intercept communications and it does not collect or store any data."
+"&rdquo; Very enthusiastically, he replied, &ldquo;Thank you, I really "
+"appreciate your advice.&rdquo;"
+msgstr ""
+"Marta'nın müzik okulundan bir profesör beni kızımın dersleri için bir Skype "
+"hesabı oluşturmaya davet etmek için aradığında, &ldquo;Bu hizmetin hüküm ve "
+"şartlarını okudunuz mu? Skype yaygın olarak bilinen bir yazılımdır, ancak bu "
+"en iyi seçim olduğu anlamına gelmez. Jitsi'yi duydunuz mu? Size yardım "
+"edebilirim. Şimdi size nasıl kullanabileceğinize ilişkin bir açıklama ile "
+"tüm bilgileri göndereceğim, böylece deneyebilirsiniz. Aynı zamanda özgür/"
+"libre yazılımdır, iletişimi engellemez ve herhangi bir veri toplamaz veya "
+"depolamaz&rdquo; dedim. Çok hevesli bir şekilde &ldquo;Teşekkürler, "
+"tavsiyelerinizi gerçekten takdir ediyorum&rdquo; diye yanıt verdi."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"I immediately emailed him all the necessary information, complete with "
+"detailed instructions he might need to get started. Two days later, I "
+"received an email from the school principal thanking me and saying that <a "
+"href=\"https://www.socmusab.es/noticias/escuela-de-musica-clases-on-line-mas-"
+"justas-y-seguras/\"> all teachers and students had agreed to use Jitsi</a>."
+msgstr ""
+"Başlamak için ihtiyaç duyabileceği ayrıntılı talimatlarla birlikte ona "
+"gerekli tüm bilgileri hemen e-postayla gönderdim. İki gün sonra okul "
+"müdüründen <a href = \"https://www.socmusab.es/noticias/escuela-de-musica-"
+"clases-on-line-mas-justas- y-seguras / \">tüm öğretmenlerin ve öğrencilerin "
+"Jitsi'yi kullanmayı kabul ettiklerini</a> söyleyen bir e-posta aldım."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"I was amazed. By being positive and showing my intention to help, I got the "
+"school teacher to understand and listen to my advice."
+msgstr ""
+"Hayrete düşmüştüm. Olumlu tavrımla ve yardım etme niyetimi de göstererek, "
+"okul öğretmeninin önerimi anlamasını ve dinlemesini sağlamıştım."
+
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"/education/misc/jitsi-marta-espejo.png\">"
+msgstr "<a href=\"/education/misc/jitsi-marta-espejo.png\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid ""
+"Screenshot showing Marta and her teacher during a clarinet lesson over Jitsi."
+msgstr ""
+"Jitsi üzerinde gerçekleşen klarnet dersinde Marta ve öğretmenini gösteren "
+"ekran görüntüsü."
+
+#. type: Content of: <div><div><div><p>
+msgid "Marta takes a clarinet lesson over Jitsi."
+msgstr "Marta Jitsi aracılığıyla klarnet dersi alırken."
+
+#. type: Content of: <div><div><h3>
+msgid "The second step"
+msgstr "İkinci adım"
+
+#. type: Content of: <div><div><p>
+msgid "Results were not as immediate at the English Academy."
+msgstr "İngiliz Akademisi'nde sonuçta bu şekilde anında olmadı."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"When they decided to go online, they surprised me with a call to say I "
+"needed to open a Skype account for my children's first remote class, which "
+"was due the following day. There was no time. There was no way out. Either "
+"that, or the kids would miss their lessons. I accepted&mdash;for the moment."
+msgstr ""
+"Çevrimiçi olmaya karar verdiklerinde, çocuklarımın ilk uzaktan sınıfı için "
+"bir Skype hesabı açmam gerektiğini söyleyen bir çağrı ile beni şaşırttılar, "
+"ders ertesi gündü. Zaman yoktu. Kaçış yoktu. Ya kabul edecektim ya da "
+"çocuklar derslerini kaçıracaktı. O an için kabul ettim."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Later that day, I engaged in what seemed a never ending battle with them. To "
+"make my case, I first sent them a well reasoned and informative letter. I "
+"reminded them that Skype is owned by Microsoft, a company that develops "
+"freedom-denying software, and explained what free/libre software is. I "
+"mentioned the abusive clauses in the company's terms of service, among "
+"which: <strong>Microsoft records and analyzes conversations, and it can hand "
+"that data over to other companies</strong>. I suggested to replace Skype "
+"with Jitsi and offered to help. I even said my children would quit the "
+"institution unless it changed to a free/libre platform."
+msgstr ""
+"O günün ilerleyen saatlerinde onlarla hiç bitmeyen bir savaşa girdim. "
+"İddiamı savunmak için, onlara önce iyi gerekçeli ve bilgilendirici bir "
+"mektup gönderdim. Onlara Skype'ın özgürlüğü reddeden yazılım geliştiren bir "
+"şirket olan Microsoft'a ait olduğunu hatırlattım ve özgür/libre yazılımın ne "
+"olduğunu açıkladım. Şirketin hizmet şartlarındaki kötüye kullanım "
+"maddelerinden söz ettim, bunların arasında <strong>Microsoft konuşmaları "
+"kaydeder ve analiz eder ve bu verileri diğer şirketlere verebilir</strong> "
+"vardı. Skype'ı Jitsi ile değiştirmelerini önerdim ve yardım etmeyi teklif "
+"ettim. Hatta özgür/libre bir platforma geçmezlerse çocuklarımın kurumdan "
+"ayrılacağını söyledim."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"They did not respond. They were forcing almost one hundred students, their "
+"teachers and their parents to open a Microsoft account in order to use a "
+"piece of software that takes advantage of them. They were failing to see the "
+"seriousness of the issue, dazzled as they were by an impressive display of "
+"misleading information about the software they considered to be &ldquo;well-"
+"known,&rdquo; thus good."
+msgstr ""
+"Yanıt vermediler. Neredeyse yüz öğrenciyi, öğretmenlerini ve ailelerini "
+"kendilerinden faydalanan bir yazılım parçası kullanmak için bir Microsoft "
+"hesabı açmaya zorluyorlardı. Konunun ciddiyetini göremiyorlardı, &ldquo;iyi "
+"bilinen,&rdquo; dolayısıyla iyi olduğu düşünülen yazılımlar hakkındaki "
+"yanıltıcı bilgilerin etkileyici bir şekilde sergilenmesi nedeniyle gözleri "
+"kamaşmıştı."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"I resent my email to the principal of the school, and this time I forwarded "
+"it to teachers as well. I waited. I called them and talked to them at "
+"length. Once again, I made it clear I would withdraw my children from their "
+"school unless they changed that software."
+msgstr ""
+"E-postamı okul müdürüne tekrar gönderdim ve bu sefer öğretmenlere de "
+"yönlendirdim. Bekledim. Onları aradım ve onlarla uzun uzun konuştum. Bir kez "
+"daha, bu yazılımı değiştirmedikçe çocuklarımı okullarından çekeceğimi "
+"netleştirdim."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Eventually they understood my position and became aware of the dangers of "
+"Skype. They finally agreed to use Jitsi!"
+msgstr ""
+"Sonunda benim konumumu anladılar ve Skype'ın tehlikelerinin farkına "
+"vardılar. Nihayetinde Jitsi kullanmayı kabul ettiler!"
+
+#. type: Content of: <div><div><h3>
+msgid "The third step"
+msgstr "Üçüncü adım"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"In the meantime, after two weeks of staying at home, Javi was taking his "
+"trumpet classes over Skype. At the next lesson, I sat next to my son and "
+"spoke to the teacher. I began by thanking him for his work, since Javi was "
+"making progress despite the difficult situation.  Then I mentioned my "
+"concern about privacy and other issues that these nonfree programs present. "
+"I told him pretty much the same things I had told the other teachers. He was "
+"surprised, &ldquo;I didn't know about this! Is there any other program we "
+"can use?&rdquo; So I invited him to use <a href=\"https://videoconferencia."
+"valenciatech.com/\"> my Jitsi server</a>, to avoid interruptions and "
+"guarantee the best sound quality."
+msgstr ""
+"Bu arada, iki hafta evde kaldıktan sonra Javi trompet derslerini Skype "
+"üzerinden alıyordu. Bir sonraki derste oğlumun yanına oturdum ve öğretmenle "
+"konuştum. Javi zor duruma rağmen ilerleme kaydettiği için ona çabası için "
+"teşekkür ederek başladım. Sonra gizlilik ve bu özgür olmayan programların "
+"sergilediği diğer hususlarla ilgili kaygılarımdan söz ettim. Ona diğer "
+"öğretmenlere söylediğim şeylerin aynısını söyledim. Şaşırmıştı, &ldquo;Bunu "
+"bilmiyordum! Kullanabileceğimiz başka bir program var mı?&rdquo; diye sordu. "
+"Böylece onu kesintileri önlemek ve en iyi ses kalitesini güvence altına "
+"almak için <a href=\"https://videoconferencia.valenciatech.com/\">kendi "
+"Jitsi sunucumu </a> kullanmaya davet ettim."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Since then, Javi takes his trumpet lessons on Jitsi. The teacher then asked "
+"me if he could use the same server with <em>all</em> his trumpet students "
+"and I agreed, of course. The purpose of that server is to help anyone who "
+"may need it."
+msgstr ""
+"O zamandan beri Javi trompet derslerini Jitsi üzerinden alıyor. Öğretmen "
+"daha sonra bana aynı sunucuyu <em>bütün</em> trompet öğrencileriyle kullanıp "
+"kullanamayacağını sordu ve ben de kabul ettim. Bu sunucunun amacı, ihtiyacı "
+"olan herkese yardımcı olmaktı."
+
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"/education/misc/jitsi-javi-garcia.png\">"
+msgstr "<a href=\"/education/misc/jitsi-javi-garcia.png\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid ""
+"Screenshot showing Javi and his teacher during a trumpet lesson over Jitsi."
+msgstr ""
+"Javi ve öğretmenini, Jitsi üzerinde gerçekleşen bir trompet dersi sırasında "
+"gösteren ekran görüntüsü."
+
+#. type: Content of: <div><div><div><p>
+msgid "Javi takes a trumpet lesson over Jitsi."
+msgstr "Javi, Jitsi üzerinde bir trompet dersi alırken."
+
+#. type: Content of: <div><div><h3>
+msgid "Going forward"
+msgstr "İlerisi İçin"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"I managed to raise awareness about freedom and privacy issues and expand the "
+"use of free software in my community. More than two hundred people in town "
+"are now using Jitsi. But I want to do more, I want to keep walking. For one "
+"thing, I want to reach the local public schools, knowing beforehand what a "
+"challenge that is."
+msgstr ""
+"Özgürlük ve gizlilik konularında farkındalık yaratmayı ve topluluğumda özgür "
+"yazılım kullanımını genişletmeyi başardım. Kasabada iki yüzden fazla insan "
+"şimdi Jitsi kullanıyor. Ama daha fazlasını yapmak istiyorum, yürümeye devam "
+"etmek istiyorum. Önce yerel devlet okullarına ulaşmak istiyorum, elbette "
+"bunun ne kadar zor olduğunu baştan biliyorum."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"I will keep fighting nonfree software, specially in schools, armed with the "
+"resources I have at hand: my servers, on which I have installed free/libre "
+"high quality platforms for everyone to use, such as <a href=\"https://docs."
+"valenciatech.com/\">Etherpad</a>, <a href=\"https://bbb.valenciatech.com"
+"\">BigBlueButton</a>, and the Jitsi server I mentioned before. Right now "
+"many people are using them, so I am soon going to upgrade the hardware to "
+"allow more simultaneous connections without loosing quality."
+msgstr ""
+"Elimdeki kaynaklarla kuşanmış bir şekilde özellikle okullardaki özgür "
+"olmayan yazılımlarla mücadele etmeye devam edeceğim: <a href=\"https://docs."
+"valenciatech.com/\">Etherpad</a>, <a href=\"https://bbb.valenciatech.com"
+"\">BigBlueButton</a> gibi herkesin kullanması için özgür/libre yüksek "
+"kaliteli platformları yüklediğim sunucularım ve daha önce söz ettiğim Jitsi "
+"sunucusu var. Şu anda birçok kişi onları kullanıyor, bu yüzden yakında "
+"kaliteyi kaybetmeden daha fazla eşzamanlı bağlantıya izin vermek için "
+"donanımı yükselteceğim."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"What is most important, I am armed with knowledge about the <a href=\"/"
+"philosophy/free-software-even-more-important.html\"> philosophical "
+"foundations</a> of the Free Software Movement and the increasingly "
+"significant role that software plays in our daily lives."
+msgstr ""
+"Daha da önemlisi, Özgür Yazılım Hareketi’nin <a href=\"/philosophy/free-"
+"software-even-more-important.html\"> felsefi temelleri</a> ve günlük "
+"yaşamlarımızda yazılımın önemi gittikçe artan rolü hakkında bilgiyle "
+"kuşanmışım."
+
+#. type: Content of: <div><div><h3>
+msgid "Thanks"
+msgstr "Teşekkürler"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Thanks to my mentor, Richard Stallman, whose support and encouragement "
+"helped me become aware of the value of my efforts.  Thanks to him for urging "
+"me to share my experience with the Free Software Foundation, and to the FSF "
+"for mentioning my work among others they included in an article about <a "
+"href=\"https://www.fsf.org/blogs/community/remote-education-does-not-require-"
+"giving-up-rights-to-freedom-and-privacy\"> freedom and privacy in remote "
+"education</a>. Thanks to Dora Scilipoti from the <a href=\"/education/edu-"
+"team.html\">GNU Education Team</a>, for her precious advice and help in "
+"writing this text."
+msgstr ""
+"Desteği ve cesaretlendirmesi, çabalarımın değerinin farkına varmamda bana "
+"yardımcı olan akıl hocam Richard Stallman'a teşekkürler. Deneyimimi Özgür "
+"Yazılım Vakfı ile paylaşmaya teşvik ettiği için ona ve çalışmamdan <a href="
+"\"https://www.fsf.org/blogs/community/remote-education-does-not-require-"
+"giving-up-rights-to-freedom-and-privacy\"> uzaktan eğitimde özgürlük ve "
+"gizlilik</a> hakkında bir yazıyla diğerleriyle birlikte söz ettikleri için "
+"FSF'ye teşekkür ediyorum. <a href=\"/education/edu-team.html\">GNU Eğitim "
+"Takımından</a> Dora Scilipoti'ye, bu metnin yazılmasında verdiği değerli "
+"öneri ve yardımlar için teşekkürler."
+
+#. type: Content of: <div><div><h4>
+msgid "Author's Notes"
+msgstr "Yazarın Notları"
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"With help from the GNU/Linux Users Group of Valencia, I had organized a "
+"series of Richard Stallman's speeches in several areas of Spain from March "
+"22 to 26. They all had to be canceled."
+msgstr ""
+"Valensiya GNU/Linux Kullanıcıları Grubu'nun yardımıyla 22-26 Mart tarihleri "
+"arasında İspanya'nın çeşitli bölgelerinde bir dizi Richard Stallman "
+"konuşması düzenledim. Hepsinin iptal edilmesi gerekti."
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"More information about the <a href=\"https://en.wikipedia.org/wiki/Falles"
+"\"><cite>Falles</cite></a> and the rare moments in history when this old "
+"event was suspended."
+msgstr ""
+"<a href=\"https://en.wikipedia.org/wiki/Falles\"><cite>Falles</cite></a> ve "
+"bu eski etkinliğin tarihte ertelendiği nadir anlar hakkında daha fazla bilgi."
+
+#. type: Content of: <div><div><h4>
+msgid "Footnote"
+msgstr "Dipnot"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"#sepulveda-rev\" id=\"sepulveda\">[*]</a> Javier Sepúlveda is an "
+"Industrial Design and Computer Science Engineer. He is the founder and "
+"executive director of VALENCIATECH, a server administration company that "
+"runs and offers exclusively free software. He is a <a href=\"/people/"
+"speakers.html#Sepulveda\">GNU speaker</a> and free software advocate."
+msgstr ""
+"<a href=\"#sepulveda-rev\" id=\"sepulveda\">[*]</a> Javier Sepúlveda, "
+"Endüstriyel Tasarım ve Bilgisayar Bilimleri Mühendisidir. Sadece özgür "
+"yazılım çalıştıran ve sunan bir sunucu yönetim şirketi olan VALENCIATECH'in "
+"kurucusu ve yöneticisi. O bir <a href=\"/people/speakers.html#Sepulveda"
+"\">GNU konuşmacısı</a> ve özgür yazılım savunucusudur."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Photos courtesy of Javier Sepúlveda. Licensed under <a rel=\"license\" href="
+"\"http://creativecommons.org/licenses/by-nd/4.0/\"> Creative Commons "
+"Attribution-NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Fotoğraflar Javier Sepúlveda'nın izniyle kullanılmıştır. <a rel=\"license\" "
+"href=\"http://creativecommons.org/licenses/by-nd/4.0/deed.tr\"> Creative "
+"Commons Alıntı-Türetilemez 4.0 Uluslararası Lisansı</a> altında "
+"lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Francisco Javier Sepúlveda Sanchis"
+msgstr "Copyright &copy; 2020 Francisco Javier Sepúlveda Sanchis"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>Mert Gör <a href=\"mailto:mertgor@dismail.de\">&lt;mertgor@dismail.de&gt;"
+"</a>, 2020</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
