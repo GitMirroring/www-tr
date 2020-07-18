@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2020-02-06 15:55+0000\n"
-"PO-Revision-Date: 2020-02-07 19:46+0100\n"
+"POT-Creation-Date: 2020-07-17 18:55+0000\n"
+"PO-Revision-Date: 2020-07-18 08:05+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -496,8 +496,12 @@ msgid "Retirement Info"
 msgstr "Çekilme Bilgisi"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.blagblagblag.org/\">"
-msgstr "<a href=\"http://www.blagblagblag.org/\">"
+msgid ""
+"<a href=\"https://web.archive.org/web/20200620205430/http://www.blagblagblag."
+"org/\">"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20200620205430/http://www.blagblagblag."
+"org/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "BLAG Linux and GNU"
