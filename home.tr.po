@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2020-06-18 18:25+0000\n"
-"PO-Revision-Date: 2020-06-21 09:24+0200\n"
+"POT-Creation-Date: 2020-07-31 08:25+0000\n"
+"PO-Revision-Date: 2020-07-31 20:17+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -437,6 +437,19 @@ msgstr ""
 #. type: Content of: <div><div><p>
 msgid "<a href=\"/gnu/gnu.html\">More information</a>"
 msgstr "<a href=\"/gnu/gnu.html\">Daha Fazla Bilgi</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<strong>The GNU Project supports the Free Software Foundation's petition to "
+"call on school administrators around the world to stop requiring students to "
+"run nonfree software. <a href=\"https://my.fsf.org/give-students-userfreedom"
+"\">Sign the petition for freedom in the classroom</a></strong>."
+msgstr ""
+"<strong>GNU Projesi, Özgür Yazılım Vakfı'nın dünya çapındaki okul "
+"yöneticilerinin öğrencilerin özgür olmayan yazılım kullanmasını "
+"gerektirmelerini durdurma çağrısını destekliyor. <a href=\"https://my.fsf."
+"org/give-students-userfreedom\">Sınıfta özgürlük için imza kampanyasını "
+"imzalayın</a></strong>."
 
 #. type: Content of: <div><div><div><p>
 msgid ""
