@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the original article.
 #
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
-# T. E. Kalayci, 2020.
+# T. E. Kalaycı, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
@@ -293,7 +293,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>T. E. Kalayci, 2020.</li>\n"
+"<li>T. E. Kalaycı, 2020.</li>\n"
 "<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
 "\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
 "</ul>"

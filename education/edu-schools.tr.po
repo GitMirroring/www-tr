@@ -2,7 +2,7 @@
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # C.Y. <cyildizli@autistici.org>, 2019.
-# T. E. Kalayci, 2019.
+# T. E. Kalaycı, 2019.
 # May 2020: update to new layout (T. Godefroy).
 #
 msgid ""
@@ -396,7 +396,7 @@ msgstr ""
 "</li>\n"
 "\n"
 "<li>\n"
-"T. E. Kalayci, 2019.\n"
+"T. E. Kalaycı, 2019.\n"
 "</li>\n"
 "\n"
 "</ul>"

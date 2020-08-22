@@ -1,7 +1,7 @@
 # Master Compendium for Turkish translations of www.gnu.org articles.
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the articles in www.gnu.org.
-# T. E. Kalayci, 2019.
+# T. E. Kalaycı, 2019.
 #
 msgid ""
 msgstr ""

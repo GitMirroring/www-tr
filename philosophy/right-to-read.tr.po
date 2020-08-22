@@ -3,7 +3,7 @@
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
-# T. E. Kalayci, 2009.
+# T. E. Kalaycı, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: right-to-read.html\n"
 "POT-Creation-Date: 2020-07-23 08:25+0000\n"
-"PO-Revision-Date: 2020-07-25 09:45+0200\n"
+"PO-Revision-Date: 2020-08-22 08:01+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -821,31 +821,13 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"\n"
-"<li>\n"
-"The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com\">&lt;"
-"theflossinformation@gmail.com&gt;</a>, 2019, 2020.\n"
-"</li>\n"
-"<li>\n"
-"T. E. Kalaycı, 2009.\n"
-"</li>\n"
-"\n"
-"<li>\n"
-"Çiğdem Özşar, 2009.\n"
-"</li>\n"
-"\n"
-"<li>\n"
-"Birkan Sarıfakıoğlu, 2009.\n"
-"</li>\n"
-"\n"
-"<li>\n"
-"Serkan Çapkan, 2009.\n"
-"</li>\n"
-"\n"
-"<li>\n"
-"İzlem Gözükeleş, 2009.\n"
-"</li>\n"
-"\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2019, 2020.</li>\n"
+"<li>T. E. Kalaycı, 2009.</li>\n"
+"<li>Çiğdem Özşar, 2009.</li>\n"
+"<li>Birkan Sarıfakıoğlu, 2009.</li>\n"
+"<li>Serkan Çapkan, 2009.</li>\n"
+"<li>İzlem Gözükeleş, 2009.</li>\n"
 "</ul>"
 
 #.  timestamp start 

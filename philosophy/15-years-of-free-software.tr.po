@@ -6,7 +6,7 @@
 # Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
 # Beyhan Parlakyıldız <beyhanpar@gmail.com>, 2007.
 # Anıl Mevlüt Güven <anilmevlutguven@mynet.com>, 2007.
-# T. E. Kalayci, 2019.
+# T. E. Kalaycı, 2019.
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
 msgid ""
 msgstr ""
@@ -245,7 +245,7 @@ msgstr ""
 "com&gt;</a>,\n"
 "2007.\n"
 "</li>\n"
-"<li>T. E. Kalayci, 2019.</li>\n"
+"<li>T. E. Kalaycı, 2019.</li>\n"
 "<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
 "\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
 "</ul>"

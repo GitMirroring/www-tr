@@ -2,7 +2,7 @@
 # Copyright (C) 2008 Free Software Foundation, Inc.
 # This file is distributed under the same license as the  original article.
 # Ali Servet Dönmez <asd@pittle.org>, 2008.
-# T. E. Kalayci, 2019, 2011.
+# T. E. Kalaycı, 2011, 2019.
 #
 msgid ""
 msgstr ""
@@ -196,7 +196,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>T. E. Kalaycı 2019, 2011.</li>\n"
+"<li>T. E. Kalaycı, 2011, 2019.</li>\n"
 "<li><a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a> <a href="
 "\"mailto:asd@pittle.org\">&lt;asd@pittle.org&gt;</a>, 2008.</li>\n"
 "</ul>"

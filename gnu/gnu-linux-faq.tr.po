@@ -7,12 +7,12 @@
 # Anıl Mevlut Güven <anilmevlutguven@mynet.com>, 2007.
 # Fırat Özgül <ozgulfirat@gmail.com>, 2008.
 # The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
-# T. E. Kalayci, 2020.
+# T. E. Kalaycı, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-linux-faq.html\n"
 "POT-Creation-Date: 2020-05-04 07:55+0000\n"
-"PO-Revision-Date: 2020-05-04 17:46+0200\n"
+"PO-Revision-Date: 2020-08-22 07:49+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -3626,6 +3626,7 @@ msgstr ""
 "<ul>\n"
 "<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
 "\">&lt;theflossinformation@gmail.com&gt;</a>, 2019, 2020.</li>\n"
+"<li>T. E. Kalaycı, 2020.</li>\n"
 "<li>Fırat Özgül <a href=\"mailto:ozgulfirat@gmail.com\">&lt;ozgulfirat@gmail."
 "com&gt;</a>, 2008.</li>\n"
 "<li><a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a> <a href="

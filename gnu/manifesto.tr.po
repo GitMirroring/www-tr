@@ -2,7 +2,7 @@
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original page.
 # 
-# T. E. Kalayci, 2019, 2009.
+# T. E. Kalaycı, 2019, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
@@ -1408,7 +1408,7 @@ msgstr ""
 "<ul>\n"
 "<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
 "\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
-"<li>T. E. Kalayci, 2019, 2009.</li>\n"
+"<li>T. E. Kalaycı, 2019, 2009.</li>\n"
 "<li>Çiğdem Özşar, 2009.</li>\n"
 "<li>Birkan Sarıfakıoğlu, 2009.</li>\n"
 "<li>Serkan Çapkan, 2009.</li>\n"

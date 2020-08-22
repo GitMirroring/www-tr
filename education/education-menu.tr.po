@@ -1,7 +1,7 @@
 # Turkish translation of https://gnu.org/education/education-menu.html.
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# T. E. Kalayci, 2020.
+# T. E. Kalaycı, 2020.
 # May 2020: update to new layout (T. Godefroy).
 #
 msgid ""

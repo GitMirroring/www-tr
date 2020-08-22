@@ -2,7 +2,7 @@
 # selling.html paketi için Türkçe çeviriler
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original page.
-# T. E. Kalayci, 2009, 2019.
+# T. E. Kalaycı, 2009, 2019.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
@@ -431,7 +431,7 @@ msgstr ""
 "<ul>\n"
 "<li>The FLOSS Information &lt;theflossinformation@yandex.com&gt;, 2019.</"
 "li>\n"
-"<li>T. E. Kalayci 2019, 2009.</li>\n"
+"<li>T. E. Kalayci 2009, 2019.</li>\n"
 "<li>Çiğdem Özşar, 2009.</li>\n"
 "<li>Birkan Sarıfakıoğlu, 2009.</li>\n"
 "<li>Serkan Çapkan, 2009.</li>\n"

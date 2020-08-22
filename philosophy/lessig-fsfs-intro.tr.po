@@ -1,7 +1,7 @@
 # Turkish translation of https://www.gnu.org/philosophy/lessig-fsfs-intro.html
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# T. E. Kalayci, 2009.
+# T. E. Kalaycı, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
@@ -12,14 +12,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lessig-fsfs-intro.html\n"
 "POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2014-07-09 10:54+0200\n"
-"Last-Translator: Ali Servet Donmez <asd@pittle.org>\n"
+"PO-Revision-Date: 2020-08-22 07:57+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -510,32 +511,11 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"\n"
-"<li>\n"
-"T. E. Kalayci,\n"
-"2009.\n"
-"</li>\n"
-"\n"
-"<li>\n"
-"Çiğdem Özşar,\n"
-"2009.\n"
-"</li>\n"
-"\n"
-"<li>\n"
-"Birkan Sarıfakıoğlu,\n"
-"2009.\n"
-"</li>\n"
-"\n"
-"<li>\n"
-"Serkan Çapkan,\n"
-"2009.\n"
-"</li>\n"
-"\n"
-"<li>\n"
-"İzlem Gözükeleş,\n"
-"2009.\n"
-"</li>\n"
-"\n"
+"<li>T. E. Kalaycı, 2009.</li>\n"
+"<li>Çiğdem Özşar, 2009.</li>\n"
+"<li>Birkan Sarıfakıoğlu, 2009.</li>\n"
+"<li>Serkan Çapkan, 2009.</li>\n"
+"<li>İzlem Gözükeleş, 2009. </li>\n"
 "</ul>"
 
 #.  timestamp start 
