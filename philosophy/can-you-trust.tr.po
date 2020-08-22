@@ -8,7 +8,7 @@
 # Birkan Sarıfakıoğlu, 2009.
 # Serkan Çapkan, 2009.
 # İzlem Gözükeleş, 2009.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: can-you-trust.html\n"

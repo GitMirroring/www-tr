@@ -1,7 +1,7 @@
 # Turkish translation of https://www.gnu.org/gnu/manifesto.html
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original page.
-# 
+#
 # T. E. Kalaycı, 2019, 2009.
 # Çiğdem Özşar, 2009.
 # Birkan Sarıfakıoğlu, 2009.
