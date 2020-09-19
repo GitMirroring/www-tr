@@ -1,0 +1,245 @@
+# Turkish translation of https://www.gnu.org/education/resisting-proprietary-software.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: resisting-proprietary-software.html\n"
+"POT-Creation-Date: 2020-06-16 10:56+0000\n"
+"PO-Revision-Date: 2020-09-19 08:29+0200\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid "Resisting proprietary software - GNU Project - Free Software Foundation"
+msgstr "Özel Mülk Yazılıma Direnmek - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Eğitim İçerikleri"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Eğitim İçerikleri]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div><p>
+msgid "</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/"
+msgstr "</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Resisting Proprietary Software"
+msgstr "Özel Mülk Yazılıma Direnmek"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Teachers, students, parents, free software advocates and the community at "
+"large are taking action to stop the use of nonfree programs in schools. They "
+"are doing it by telling schools about free software and raising awareness of "
+"the dangers nonfree programs pose to students' computer freedom and privacy. "
+"They are objecting persistently to the nonfree software that the schools "
+"suggest to them."
+msgstr ""
+"Öğretmenler, öğrenciler, ebeveynler, özgür yazılım savunanlar ve toplumun "
+"geneli okullarda özgür olmayan programların kullanılmasını durdurmak için "
+"harekete geçiyor. Okullara özgür yazılımdan söz ederek ve özgür olmayan "
+"yazılımın öğrencilerin bilgisayarlarının özgürlük ve gizliliğine yönelik "
+"tehlikelerine yönelik farkındalığı arttırarak bunu yapıyorlar. Okulların "
+"kendilerine önerdiği özgür olmayan yazılımlara sürekli karşı itiraz "
+"ediyorlar."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The recent health emergency situation caused by COVID-19 presented a new "
+"challenge. Traditional in-person classes were suddenly disallowed, and "
+"overnight thousands of schools around the world were confronted with a "
+"decision to make: either suspend their teaching activities entirely or "
+"comply by switching to online classes."
+msgstr ""
+"COVID-19'un neden olduğu son sağlık acil durumu yeni bir güçlük yarattı. "
+"Geleneksel yüz yüze sınıflara aniden izin verilmedi ve bir gecede dünyanın "
+"dört bir yanındaki binlerce okul bir kararla karşı karşıya kaldı: Ya öğretim "
+"faaliyetlerini tamamen askıya alın ya da çevrim içi derslere geçerek uyum "
+"sağlayın."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Schools from areas of the world where Internet connection and access to "
+"technology is readily available decided to go online.  Unfortunately, most "
+"school administrators and teachers had never heard about free software, so "
+"they couldn't think of anything but whatever they knew or had already used "
+"&mdash;namely, freedom-denying programs for video conferencing and online "
+"communication such as Zoom and Skype, among others."
+msgstr ""
+"İnternet bağlantısının ve teknolojiye erişimin hazır olduğu dünyanın "
+"bölgelerinden okullar çevrim içine geçmeye karar verdi. Ne yazık ki çoğu "
+"okul yöneticisi ve öğretmen özgür yazılım hakkında hiçbir şey duymamıştı, bu "
+"yüzden de bildikleri veya zaten kullandıklarından başka bir şey "
+"düşünemiyorlardı, diğerleriyle birlikte özellikle Zoom ve Skype gibi "
+"özgürlüğü reddeden video konferans ve çevrim içi iletişim programlarını."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"It's no secret, however, that the <a href=\"https://www.eff.org/issues/"
+"student-privacy\"> companies that distribute these programs use them to "
+"collect personal data to profile their users</a><a href=\"#cloud\">(1)</a>.  "
+"These data, in turn, can be seized by the State. It is the moral "
+"responsibility of schools to protect their students from being spied on, but "
+"if the school fails to do so, students and their parents should object and "
+"not let it happen."
+msgstr ""
+"Bununla birlikte <a href=\"https://www.eff.org/issues/student-privacy\">bu "
+"programları dağıtan şirketlerin, kullanıcılarının profillerini çıkarmak "
+"amacıyla kişisel verileri toplamak için kullandığı</a><a href=\"#cloud"
+"\">(1)</a> bir sır değil. Bu veriler, dolayısıyla, Devlet tarafından ele "
+"geçirilebilir. Öğrencilerini gözetlenmekten korumak okulların ahlaki "
+"sorumluluğudur ancak okul bunu yapmakta başarısız olursa öğrenciler ve "
+"öğrencilerin ebeveynleri karşı çıkmalı ve bunun olmasına izin vermemelidir."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"More generally, <a href=\"/education/edu-schools.html\">schools should "
+"reject all proprietary software</a> for a number of <a href=\"/education/edu-"
+"why.html\">reasons</a>."
+msgstr ""
+"Daha genel olarak okullar tüm özel mülk yazılımları birçok farklı <a href=\"/"
+"education/edu-why.html\">nedenlerden</a> ötürü <a href=\"/education/edu-"
+"schools.html\">reddetmelidir</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The free software community responded by offering communication and "
+"videoconferencing programs that respect freedom and privacy, because staying "
+"away from health hazards is a duty, as it is to stay safe from nonfree "
+"software."
+msgstr ""
+"Özgür yazılım topluluğu, özgürlüğe ve gizliliğe saygı duyan iletişim ve "
+"video konferans programları sunarak bir karşılık verdi, çünkü özgür olmayan "
+"yazılımlardan korunmak, sağlığa yönelik tehlikelerden uzak durmak gibi bir "
+"görevdir."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"See examples of <a href=\"/education/successful-resistance-against-nonfree-"
+"software.html\"> how people are successfully resisting nonfree software</a>."
+msgstr ""
+"<a href=\"/education/successful-resistance-against-nonfree-software.html"
+"\">İnsanların özgür olmayan yazılıma nasıl direndiklerini gösteren</a> "
+"örnekleri inceleyin."
+
+#. type: Content of: <div><div><h3>
+msgid "Footnote"
+msgstr "Dipnot"
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"The article cited uses the word &ldquo;cloud&rdquo; to refer to computing "
+"done on servers owned by third parties.  The term is too broad, it "
+"generalizes about various uses of servers that are totally different from a "
+"moral point of view.  See more about why <a href=\"/philosophy/words-to-"
+"avoid.html.en#CloudComputing\"> the GNU Project strongly recommends not to "
+"use the term &ldquo;cloud&rdquo;</a>."
+msgstr ""
+"Alıntı yapılan makale, üçüncü tarafların sahip olduğu sunucularda yapılan "
+"bilişime atıfta bulunmak için &ldquo;cloud (<em>bulut</em>)&rdquo; sözcüğünü "
+"kullanır. Terim çok geniştir, ahlaki açıdan tamamen farklı olan çeşitli "
+"sunucu kullanımlarını genelleştirir. <a href=\"/philosophy/words-to-avoid."
+"html.en#CloudComputing\">GNU Projesi'nin niçin &ldquo;cloud (<em>bulut</"
+"em>)&rdquo; terimini kullanmamayı çok ciddi bir şekilde önerdiği</a> "
+"hakkında daha fazla bilgi edinin."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

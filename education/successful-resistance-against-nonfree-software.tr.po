@@ -1,0 +1,241 @@
+# Turkish translation of https://www.gnu.org/education/successful-resistance-against-nonfree-software.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: successful-resistance-against-nonfree-software.html\n"
+"POT-Creation-Date: 2020-06-25 10:26+0000\n"
+"PO-Revision-Date: 2020-09-19 08:38+0200\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+
+#. type: Content of: <title>
+msgid ""
+"Successful Resistance Against Nonfree Software - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Özgür Olmayan Yazılıma Karşı Başarılı Direniş - GNU Projesi - Özgür Yazılım "
+"Vakfı"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Eğitim İçerikleri"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Eğitim İçerikleri]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/resisting-proprietary-software.html\">Resistance</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a href="
+"\"/education/resisting-proprietary-software.html\">Direniş</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Successful Resistance Against Nonfree Software"
+msgstr "Özgür Olmayan Yazılıma Karşı Başarılı Direniş"
+
+#. type: Content of: <div><p>
+msgid ""
+"Our aim in this section is to show examples of how people have successfully "
+"resisted and replaced nonfree software in educational institutions by "
+"various means, such as by talking to schools administrators and by setting "
+"up freedom and privacy respecting platforms for remote education."
+msgstr ""
+"Bu bölümdeki amacımız insanların eğitim kurumlarında özgür olmayan yazılıma "
+"nasıl başarılı bir şekilde direndiklerine, okul yöneticileriyle konuşarak ve "
+"uzaktan eğitim için özgürlüğe ve gizliliğe saygılı platformlar ayarlayarak "
+"çeşitli yollarla özgür yazılım olmayan programları nasıl ikame ettiklerine "
+"dair örnekleri göstermektir."
+
+#. type: Content of: <div><p>
+msgid ""
+"Some of the items below include examples of web-based videoconferencing "
+"software. We have verified that in some cases they require to run nonfree "
+"JavaScript code to be usable. <strong>The GNU Project warns against <a href="
+"\"/philosophy/javascript-trap.html\">the JavaScript trap</a></strong> and is "
+"providing guidance to the developers of these platforms so that they can "
+"either <em>eliminate it entirely</em> or <a href=\"/software/librejs/free-"
+"your-javascript.html\"> <em>free the code</em></a>."
+msgstr ""
+"Aşağıdaki maddelerden kimileri, web tabanlı video konferans yazılımı "
+"örneklerini içerir. Birtakım durumlarda kullanılabilir olmaları için özgür "
+"olmayan JavaScript kodunu çalıştırmaları gerektiğini doğruladık. <strong>GNU "
+"Projesi <a href=\"/philosophy/javascript-trap.html\">JavaScript tuzağına</a> "
+"karşı uyarıda bulunur</strong> ve bu platformların geliştiricilerine ya "
+"tamamen çıkarmaları ya da <a href=\"/software/librejs/free-your-javascript."
+"html\"><em>kodu özgürleştirebilmeleri</em></a> için yol göstermektedir."
+
+#. type: Content of: <div><p>
+msgid ""
+"If you would like to set up an instance of Jitsi Meet on your own server, we "
+"recommend that you do NOT install the standard release, because it does not "
+"indicate clearly the licensing of the JavaScript code. Instead, install the "
+"<a href=\"https://vcs.fsf.org/?p=jitsi-ansible.git\">FSF's cleaned-up "
+"version of Jitsi Meet</a>, which does clearly state the licensing."
+msgstr ""
+"Jitsi Meet'in bir örneğini kendi sunucunuza kurmak isterseniz JavaScript "
+"kodunun lisansı net bir şekilde belirtilmediği için standart sürümü "
+"KURMAMANIZI öneririz. Bunun yerine <a href=\"https://vcs.fsf.org/?p=jitsi-"
+"ansible.git\">lisansı net bir şekilde belirtilen FSF'nin Jitsi Meet "
+"temizlenmiş sürümünü</a> kurun."
+
+#. type: Content of: <div><h3>
+msgid "Examples"
+msgstr "Örnekler"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://www.fsf.org/blogs/community/fsf-gives-freedom-respecting-"
+"videoconferencing-to-all-associate-members\"> The Free Software Foundation "
+"runs an instance of Jitsi Meet on its servers</a> and makes it available to "
+"its associate members."
+msgstr ""
+"<a href=\"https://www.fsf.org/blogs/community/fsf-gives-freedom-respecting-"
+"videoconferencing-to-all-associate-members\">Özgür Yazılım Vakfı; "
+"sunucularında Jitsi Meet'in bir örneğini çalıştırır</a> ve üyeleri için onu "
+"kullanılabilir hâle getirmiştir."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Free software activists in Valencia, Spain, have set up <a href=\"https://"
+"bbb.valenciatech.com/b/\">a server running BigBlueButton</a>, an advanced "
+"web conferencing system that features sharing of media files and documents, "
+"whiteboard, and other capabilities. Although this platform is free software, "
+"work is currently being done on this implementation so that it will clearly "
+"show the JavaScript licensing. Read <a href=\"https://en.wikipedia.org/wiki/"
+"BigBlueButton\">more about BigBlueButton</a>."
+msgstr ""
+"Valensiya / İspanya'daki özgür yazılım aktivistleri; ortam dosyalarının ve "
+"belgelerin, beyaz tahtanın ve diğer özelliklerin paylaşılmasına olanak "
+"sağlayan gelişmiş bir web konferans sistemi olan <a href=\"https://bbb."
+"valenciatech.com/b/\">BigBlueButton'u çalıştıran bir sunucu</a> kurdu. Bu "
+"platform özgür bir yazılım olsa da JavaScript lisansını net bir şekilde "
+"göstermesi için şu anda bu gerçekleştirim üzerinde çalışmalar yapılmaktadır. "
+"<a href=\"https://en.wikipedia.org/wiki/BigBlueButton\">BigBlueButton "
+"hakkında daha fazla</a> bilgi edinin."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"As soon as MIT Prof. Gerald Jay Sussman realized that nonfree licenses were "
+"being offered for teaching online classes, he saw the moral issue at stake "
+"and started working to ensure he would not use them. <a href=\"/education/"
+"teaching-my-mit-classes-with-only-free-libre-software\"> He succeeded in "
+"teaching his Spring 2020 online classes using exclusively free software</a>."
+msgstr ""
+"MIT profesörü Gerald Jay Sussman; çevrim içi dersleri öğretmek için özgür "
+"olmayan lisansların sunulduğunu fark eder etmez söz konusu ahlaki sorunu "
+"gördü ve onları kullanmayacağından emin olmak için çalışmaya başladı. <a "
+"href=\"/education/teaching-my-mit-classes-with-only-free-libre-software"
+"\">İlkbahar 2020 çevrim içi derslerini yalnızca özgür yazılım kullanarak "
+"öğretmeyi başardı</a>."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"In Spain, a father succeeds in getting some of his children's schools <a "
+"href=\"/education/remote-education-children-freedom-privacy-at-stake.html\"> "
+"drop Skype and switch to Jitsi</a>."
+msgstr ""
+"İspanya'da bir baba, çocuklarının okullarından kimilerinin <a href=\"/"
+"education/remote-education-children-freedom-privacy-at-stake.html\">Skype'yi "
+"bırakıp Jitsi'ye geçmesini</a> sağlamayı başardı."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
