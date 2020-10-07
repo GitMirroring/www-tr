@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 3dbabygnutux.html\n"
-"POT-Creation-Date: 2019-02-28 15:27+0000\n"
-"PO-Revision-Date: 2020-05-08 08:57+0200\n"
+"POT-Creation-Date: 2020-10-06 08:26+0000\n"
+"PO-Revision-Date: 2020-10-07 23:04+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -29,7 +29,7 @@ msgstr ""
 msgid "3D baby GNU and baby Tux"
 msgstr "3B bebek GNU ve bebek Tux"
 
-#. type: Content of: <p>
+#. type: Content of: <address>
 msgid "by Nicolas Rougier"
 msgstr "yapan Nicolas Rougier"
 
@@ -324,11 +324,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
-"Inc."
+"<em>Page text:</em>&nbsp; Copyright &copy; 2019, 2020 Free Software "
+"Foundation, Inc."
 msgstr ""
-"<em>Sayfa metni:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
-"Inc."
+"<em>Sayfa metni:</em>&nbsp; Copyright &copy; 2019, 2020 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

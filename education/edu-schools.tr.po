@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-schools.html\n"
-"POT-Creation-Date: 2020-05-27 10:41+0200\n"
+"POT-Creation-Date: 2020-10-06 08:26+0000\n"
 "PO-Revision-Date: 2020-05-31 08:58+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -62,7 +62,7 @@ msgstr ""
 msgid "Why Schools Should Exclusively Use Free Software"
 msgstr "Okullar Neden Sadece Özgür Yazılım Kullanmalı"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><address>
 msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 msgstr "yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 

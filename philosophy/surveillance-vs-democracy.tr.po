@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
-"POT-Creation-Date: 2020-07-22 09:55+0000\n"
+"POT-Creation-Date: 2020-10-06 08:28+0000\n"
 "PO-Revision-Date: 2020-07-23 07:29+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -27,7 +27,7 @@ msgstr ""
 msgid "How Much Surveillance Can Democracy Withstand?"
 msgstr "Demokrasi Ne Kadar Gözetime Dayanabilir?"
 
-#. type: Content of: <p>
+#. type: Content of: <address>
 msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 msgstr "yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 

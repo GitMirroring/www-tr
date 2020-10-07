@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: saying-no-even-once.html\n"
-"POT-Creation-Date: 2020-06-02 11:55+0000\n"
+"POT-Creation-Date: 2020-10-06 08:28+0000\n"
 "PO-Revision-Date: 2020-06-05 13:57+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -29,7 +29,7 @@ msgstr ""
 msgid "Saying No to unjust computing even once is&nbsp;help"
 msgstr "Adaletsiz Bilişime Bir Kez Bile Hayır Demek Yararlıdır"
 
-#. type: Content of: <p>
+#. type: Content of: <address>
 msgid "by Richard Stallman"
 msgstr "yazan Richard Stallman"
 

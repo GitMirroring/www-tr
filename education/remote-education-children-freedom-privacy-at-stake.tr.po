@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: remote-education-children-freedom-privacy-at-stake.html\n"
-"POT-Creation-Date: 2020-07-25 07:55+0000\n"
+"POT-Creation-Date: 2020-10-06 08:26+0000\n"
 "PO-Revision-Date: 2020-08-22 08:27+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -66,7 +66,7 @@ msgstr ""
 msgid "Remote Education: My Children's Freedom and Privacy at Stake"
 msgstr "Uzaktan Eğitim: Çocuğumun Özgürlük ve Gizliliği Tehlikede"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><address>
 msgid ""
 "by Javier Sepúlveda <a href=\"#sepulveda\" id=\"sepulveda-rev\"><sup>[*]</"
 "sup></a>"

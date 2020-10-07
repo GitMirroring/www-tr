@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: open-source-misses-the-point.html\n"
-"POT-Creation-Date: 2020-01-07 13:55+0000\n"
+"POT-Creation-Date: 2020-10-06 08:28+0000\n"
 "PO-Revision-Date: 2020-08-22 07:58+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -31,7 +31,7 @@ msgstr ""
 msgid "Why Open Source misses the point of Free Software"
 msgstr "Neden Açık Kaynak Özgür Yazılımın Noktasını Kaçırıyor"
 
-#. type: Content of: <p>
+#. type: Content of: <address>
 msgid "by Richard Stallman"
 msgstr "yazan Richard Stallman"
 

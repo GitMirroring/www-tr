@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: teaching-my-mit-classes-with-only-free-libre-software."
 "html\n"
-"POT-Creation-Date: 2020-06-26 18:55+0000\n"
+"POT-Creation-Date: 2020-10-06 08:26+0000\n"
 "PO-Revision-Date: 2020-09-19 11:16+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -65,7 +65,7 @@ msgstr ""
 msgid "Teaching My MIT Classes with Only Free/Libre Software"
 msgstr "MIT Derslerimi Yalnızca Özgür Yazılımla Öğretmek"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><address>
 msgid ""
 "by Gerald Jay Sussman <a href=\"#sussman\" id=\"sussman-rev\"><sup>[1]</"
 "sup></a>"

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-structure.html\n"
-"POT-Creation-Date: 2020-03-03 20:25+0000\n"
+"POT-Creation-Date: 2020-10-06 08:26+0000\n"
 "PO-Revision-Date: 2020-05-03 08:55+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -27,7 +27,7 @@ msgstr "GNU Projesi'nin Yapısı ve Yönetimi - GNU Projesi - Özgür Yazılım 
 msgid "The Structure and Administration of the GNU Project"
 msgstr "GNU Projesi'nin Yapısı ve Yönetimi"
 
-#. type: Content of: <p>
+#. type: Content of: <address>
 msgid "by Brandon Invergo and Richard Stallman"
 msgstr "yazanlar Brandon Invergo ve Richard Stallman"
 

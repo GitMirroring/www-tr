@@ -12,7 +12,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: right-to-read.html\n"
-"POT-Creation-Date: 2020-07-23 08:25+0000\n"
+"POT-Creation-Date: 2020-10-06 08:28+0000\n"
 "PO-Revision-Date: 2020-08-22 08:01+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -32,7 +32,7 @@ msgid "The Right to Read"
 msgstr "Okuma Hakkı"
 
 # type: Content of: <p>
-#. type: Content of: <p>
+#. type: Content of: <address>
 msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 msgstr "yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
 
