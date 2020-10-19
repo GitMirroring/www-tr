@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: help.html\n"
-"POT-Creation-Date: 2020-07-21 23:55+0000\n"
-"PO-Revision-Date: 2020-08-22 08:31+0200\n"
+"POT-Creation-Date: 2020-10-16 14:26+0000\n"
+"PO-Revision-Date: 2020-10-19 16:55+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -28,6 +28,29 @@ msgstr ""
 #. type: Content of: <h2>
 msgid "Helping the GNU Project and the Free Software Movement"
 msgstr "GNU Projesi'ne ve Özgür Yazılım Hareketine Yardım Etmek"
+
+#. type: Content of: <p>
+msgid ""
+"Saying no to the use of a nonfree program or an online disservice <a href=\"/"
+"philosophy/saying-no-even-once.html\">on even one occasion</a> helps the "
+"cause of software freedom.  Saying no to using it <em>with others</em> helps "
+"even more.  And if you tell them it is for defense of your freedom, that "
+"helps even more."
+msgstr ""
+"Özgür olmayan bir programı veya çevrim içi hizmetsizliği kullanmaya <a href="
+"\"/philosophy/saying-no-even-once.html\">tek bir sefer bile</a> hayır "
+"diyerek özgür yazılım mücadelesine yardımcı olabilirsiniz. Onu "
+"<em>başkalarıyla</em> birlikte kullanmaya hayır dediğinizde çok daha fazla "
+"yardım etmiş olursunuz. Hatta bunu onların özgürlüğünü savunmak için "
+"yaptığınızı söylerseniz çok çok daha fazla yardım sağlamış olursunuz."
+
+#. type: Content of: <p>
+msgid ""
+"Beyond that, you can also help by volunteering to do work.  This page lists "
+"many kinds of work we need."
+msgstr ""
+"Bunun ötesinde, bazı işler için gönüllü olarak yardımcı olabilirsiniz. Bu "
+"sayfada ihtiyaç duyduğumuz çeşitli işler listelenmektedir."
 
 #. type: Content of: <div><h3>
 msgid "Table of Contents"
