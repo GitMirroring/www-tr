@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: pragmatic.html\n"
-"POT-Creation-Date: 2014-03-31 06:29+0000\n"
-"PO-Revision-Date: 2020-01-18 20:05+0100\n"
+"POT-Creation-Date: 2020-10-26 13:25+0000\n"
+"PO-Revision-Date: 2020-10-27 07:28+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid "Copyleft: Pragmatic Idealism - GNU Project - Free Software Foundation"
@@ -401,17 +401,17 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1998, 2003 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1998, 2003 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1998, 2003, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1998, 2003, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
 "Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.

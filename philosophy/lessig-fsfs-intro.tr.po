@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: lessig-fsfs-intro.html\n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2020-08-22 07:57+0200\n"
+"POT-Creation-Date: 2020-10-26 13:25+0000\n"
+"PO-Revision-Date: 2020-10-27 07:27+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -492,8 +492,10 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2013, 2017, 2018 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2002, 2013, 2017, 2018 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2002, 2013, 2017, 2018, 2020 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2002, 2013, 2017, 2018, 2020 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

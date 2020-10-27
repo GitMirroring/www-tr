@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: misinterpreting-copyright.html\n"
-"POT-Creation-Date: 2018-04-21 17:25+0000\n"
-"PO-Revision-Date: 2020-01-18 20:03+0100\n"
+"POT-Creation-Date: 2020-10-26 13:25+0000\n"
+"PO-Revision-Date: 2020-10-27 07:27+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid "Misinterpreting Copyright - GNU Project - Free Software Foundation"
@@ -1378,10 +1378,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2002, 2003, 2007, 2015, 2016, 2018 Free Software "
+"Copyright &copy; 2002, 2003, 2007, 2015, 2016, 2018, 2020 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2002, 2003, 2007, 2015, 2016, 2018 Free Software "
+"Copyright &copy; 2002, 2003, 2007, 2015, 2016, 2018, 2020 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
