@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2020-10-16 18:25+0000\n"
-"PO-Revision-Date: 2020-10-19 17:01+0200\n"
+"POT-Creation-Date: 2020-10-28 22:55+0000\n"
+"PO-Revision-Date: 2020-10-29 17:46+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -306,6 +306,18 @@ msgstr "Son eklenenler"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
+"The addictive Genshin Impact relentlessly <a href=\"https://www.theguardian."
+"com/games/2020/oct/22/genshin-impact-video-game-slowly-taking-over-the-world"
+"\">coerces players to spend money by overwhelming the game play with loot "
+"boxes</a>."
+msgstr ""
+"Bağımlılık yapan Genshin Impact amansız bir şekilde <a href=\"https://www."
+"theguardian.com/games/2020/oct/22/genshin-impact-video-game-slowly-taking-"
+"over-the-world\">oyunu hazine sandıklarına boğarak oyuncuları para harcamaya "
+"zorluyor</a>."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
 "Internet-enabled watches with proprietary software are malware, violating "
 "people (specially children's)  privacy. In addition, they have a lot of "
 "security flaws. They <a href=\"https://www.wired.com/story/kid-smartwatch-"
@@ -379,16 +391,6 @@ msgstr ""
 "personeli gözetleyen ve izleyen</a> telekonferans yazılımları da var. Eğer "
 "program &ldquo;etkin&rdquo; olup olmadığınızı bildiriyorsa, bu aslında "
 "kötücül bir gözetim özelliğidir."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"Facebook <a href=\"https://www.dailymail.co.uk/news/article-8747541/Facebook-"
-"accused-watching-Instagram-users-mobile-cameras.html\">snoops on Instagram</"
-"a> users by surreptitously turning on the device's camera."
-msgstr ""
-"Facebook, aygıtın kamerasını gizlice açarak Instagram kullanıcılarını <a "
-"href=\"https://www.dailymail.co.uk/news/article-8747541/Facebook-accused-"
-"watching-Instagram-users-mobile-cameras.html\">gizlice gözetliyor</a>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -469,6 +471,15 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Facebook <a href=\"https://www.dailymail.co.uk/news/article-8747541/"
+#~ "Facebook-accused-watching-Instagram-users-mobile-cameras.html\">snoops on "
+#~ "Instagram</a> users by surreptitously turning on the device's camera."
+#~ msgstr ""
+#~ "Facebook, aygıtın kamerasını gizlice açarak Instagram kullanıcılarını <a "
+#~ "href=\"https://www.dailymail.co.uk/news/article-8747541/Facebook-accused-"
+#~ "watching-Instagram-users-mobile-cameras.html\">gizlice gözetliyor</a>."
 
 #~ msgid ""
 #~ "Oculus headsets <a href=\"https://www.theverge.com/2020/8/18/21372435/"
