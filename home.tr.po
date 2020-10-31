@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2020-10-21 13:25+0000\n"
-"PO-Revision-Date: 2020-10-25 08:09+0100\n"
+"POT-Creation-Date: 2020-10-30 16:56+0000\n"
+"PO-Revision-Date: 2020-10-31 07:59+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -51,15 +51,29 @@ msgstr ""
 "GNU, özellikle kullanıcılarına özgürlük sağlamak için geliştirilen tek "
 "işletim sistemidir. GNU nedir ve hangi özgürlük tehlikede?"
 
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "English"
+msgstr "İngilizce"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "German"
+msgstr "Almanca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Persian"
+msgstr "Farsça"
+
 #. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"https://www.fsf.org/blogs/community/the-university-of-costumed-"
-"heroes-a-video-from-the-fsf\"> The University of Costumed Heroes: A video "
-"from the FSF</a>"
+"<a href=\"https://www.fsf.org/blogs/community/watch-and-share-rewind-to-help-"
+"explain-free-software\"> Rewind: A video from the FSF</a>"
 msgstr ""
-"<a href=\"https://www.fsf.org/blogs/community/the-university-of-costumed-"
-"heroes-a-video-from-the-fsf\"> Kostümlü Kahramanlar Üniversitesi: FSF'den "
-"bir video</a>"
+"<a href=\"https://www.fsf.org/blogs/community/watch-and-share-rewind-to-help-"
+"explain-free-software\"> FSF'den bir Video: Geri Sar</a>"
 
 #. type: Content of: <div><div><h2>
 msgid "What is GNU?"
