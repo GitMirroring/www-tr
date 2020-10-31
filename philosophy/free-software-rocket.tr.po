@@ -1,0 +1,330 @@
+# Turkish translation of https://www.gnu.org/philosophy/free-software-rocket.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: free-software-rocket.html\n"
+"POT-Creation-Date: 2020-10-13 07:56+0000\n"
+"PO-Revision-Date: 2020-10-31 09:15+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Should Rockets Have Only Free Software? Free Software and Appliances - GNU "
+"Project - Free Software Foundation"
+msgstr ""
+"Roketler Yalnızca Özgür Yazılım mı Kullanmalı? Özgür Yazılım ve Aletler - "
+"GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Should Rockets Have Only Free Software? Free Software and Appliances"
+msgstr ""
+"Roketler Yalnızca Özgür Yazılım mı Kullanmalı? Özgür Yazılım ve Aletler"
+
+#. type: Content of: <address>
+msgid "by Richard Stallman"
+msgstr "Yazan Richard Stallman"
+
+#. type: Content of: <p>
+msgid ""
+"Could there be a rocket that is totally free software? Should we demand that "
+"SpaceX liberate the software in its satellite launching rockets? I don't "
+"think the person who asked me this was serious, but answering that question "
+"may illuminate similar issues about the sorts of products people really buy "
+"today."
+msgstr ""
+"Tamamen özgür yazılım kullanan bir roket olabilir mi? SpaceX'in, yazılımı "
+"uydu fırlatma roketlerinde özgürleştirmesini talep etmeli miyiz? Bana bunu "
+"soran kişinin ciddi olduğunu sanmıyorum ancak bu soruyu yanıtlamak, "
+"insanların bugün gerçekten satın aldıkları ürünlerle ilgili benzer sorunları "
+"aydınlatabilir."
+
+#. type: Content of: <p>
+msgid ""
+"As far as I know, software as such is not capable of generating thrust.  A "
+"rocket is necessarily principally a physical device.  But it may include "
+"computerized control and telemetry systems, and thus software."
+msgstr ""
+"Bildiğim kadarıyla bu tür bir yazılım, itme gücü üretme yeteneğine sahip "
+"değil. Bir roket esas olarak fiziksel bir aygıttır. Ancak bilgisayarlı "
+"denetimi ve telemetri sistemlerini ve dolayısıyla yazılım içerebilir."
+
+#. type: Content of: <p>
+msgid ""
+"If someone offered to sell me a rocket, I would treat it like any other "
+"appliance.  Consider, for instance, a thermostat.  If it contains software "
+"to be modified, all the software in it needs to be free.  If, however, the "
+"software in it need not ever be altered, and it communicates <em>only</em> "
+"through some limited interface, such as buttons on the control panel, a TV "
+"remote control, or a USB interface with a fixed set of commands, I would not "
+"consider it crucial to know what is inside the thermostat: whether it "
+"contains a special-purpose chip, or a processor running code, makes no "
+"direct difference to me as user.  If it does contain code, it might as well "
+"have a special chip instead, so I don't need to care which it is."
+msgstr ""
+"Birisi bana bir roket satmayı teklif etse ona başka herhangi bir alet gibi "
+"muamele ederdim. Örneğin bir termostatı düşünün. Değiştirilecek yazılım "
+"içeriyorsa ondaki tüm yazılımların özgür olması gerekir. Bununla birlikte "
+"ondaki yazılımın hiç değiştirilmesi gerekmiyorsa ve <em>yalnızca</em> "
+"denetim panelindeki düğmeler, bir TV kumandası veya sabit bir komut setine "
+"sahip bir USB arabirimi gibi birtakım sınırlı arabirimler aracılığıyla "
+"iletişim kuruyorsa termostatın içinde ne olduğunu bilmenin çok önemli "
+"olduğunu düşünmezdim; özel amaçlı bir yonga veya kod çalıştıran bir işlemci "
+"içerip içermediği kullanıcı olarak benim için doğrudan bir fark yaratmaz. "
+"Kod içeriyorsa, onun yerine özel bir yonga da olabilir, bu yüzden onun "
+"hangisi olduğu umurumda değil."
+
+#. type: Content of: <p>
+msgid ""
+"I would object if that thermostat sent someone data about my activities, "
+"regardless of how that was implemented.  Once again, special chip or special "
+"code makes no direct difference.  Free software in it could give me a way to "
+"turn off the surveillance, but that is not the only way.  Another is by "
+"disconnecting its digital communication antennas, or switching them off."
+msgstr ""
+"Bu termostat,nasıl uygulandığına bakılmaksızın, faaliyetlerim hakkında "
+"birisine veri gönderirse karşı çıkardım. Bir kez daha özel yonga veya özel "
+"kod doğrudan bir fark yaratmaz. Ondaki özgür yazılım, gözetimi kapatmam için "
+"bana bir yol sağlayabilir ancak tek yol bu değil. Bir diğeri, dijital "
+"iletişim antenlerinin bağlantısını kesmek veya onları kapatmaktır."
+
+#. type: Content of: <p>
+msgid ""
+"If the rocket contains software, releasing that as free software can be a "
+"contribution to the community, and we should appreciate that "
+"contribution&mdash;but that is a different issue.  Such release also makes "
+"it possible for people who have bought the rockets to work on improving the "
+"software in them, though the irreversible nature of many rocket failures may "
+"discourage tinkering."
+msgstr ""
+"Roket yazılım içeriyorsa bunu özgür yazılım olarak yayımlamak topluluğa bir "
+"katkı olabilir ve bu katkıyı takdir etmeliyiz ancak bu farklı bir konudur. "
+"Bu tür bir yayım, roketleri satın alan kişilerin onlardaki yazımı "
+"iyileştirmesi için çalışmalarına da olanak sağlar ancak birçok roket "
+"başarısızlığının geri döndürülemez doğası, kurcalamaktan caydırabilir."
+
+#. type: Content of: <p>
+msgid ""
+"Given the experience of Tesla cars, which are full of surveillance and "
+"tracking malware that Tesla can change but the owner can't, I suppose SpaceX "
+"rockets have that too.  If someday rockets are sold like today's cars and "
+"tractors, <a href=\"/philosophy/free-software-even-more-important.html"
+"\">software in them would be unjust</a>, and it would <a href=\"/proprietary/"
+"proprietary.html\">probably be malware</a>.  If the manufacturer could "
+"install modified software in it but the owner could not, that too would be "
+"unjust.  People are starting to recognize this: look at the right-to-repair "
+"movement, which demands only the beginning of these freedoms (much less than "
+"freeing the car's software) and nonetheless faces a hard fight."
+msgstr ""
+"Tesla şirketinin değiştirebileceği ancak araba sahibinin yapamayacağı "
+"gözetim ve izleme amaçlı kötücül yazılımlarla dolu Tesla arabalarının "
+"deneyimi göz önüne alındığında, SpaceX roketlerinde de bu durumun olduğunu "
+"varsayabilirim. Bir gün roketler bugünün arabaları ve traktörleri gibi "
+"satılırsa <a href=\"/philosophy/free-software-even-more-important.html"
+"\">onlardaki yazılım da adaletsiz olacaktır</a> ve <a href=\"/proprietary/"
+"proprietary.html\">büyük olasılıkla kötücül yazılım olacaktır</a>. Üretici "
+"değiştirilmiş yazılımı ona kurabilir ancak sahibi kuramazsa bu "
+"adaletsizliktir. İnsanlar bunun farkına varmaya başlıyor; yalnızca bu "
+"özgürlüklerin verilmesini talep eden (arabanın yazılımı özgürleştirmekten "
+"çok daha azını talep eden) ve her şeye rağmen zorlu bir mücadele ile karşı "
+"karşıya olan onarım hakkı hareketine bakın."
+
+#. type: Content of: <p>
+msgid ""
+"However, I don't think SpaceX sells rockets; I think it provides the service "
+"of launching payloads in its own rockets.  That makes the issue totally "
+"different: if you are a customer, you're not operating the rocket; SpaceX is "
+"doing that."
+msgstr ""
+"Ancak SpaceX'in roket sattığını düşünmüyorum: Kendi roketlerinde yük "
+"fırlatma hizmetini sağladığını düşünüyorum. Bu, sorunu tamamen "
+"farklılaştırır; bir müşteri olarak roketi kullanan siz değilsiniz: Bunu "
+"yapan SpaceX."
+
+#. type: Content of: <p>
+msgid ""
+"The rocket that SpaceX uses is not like your own car or van, or even a car "
+"or van leased to you.  Rather, it's comparable to a moving company's van "
+"that is, for the moment, transporting your books and furniture to your "
+"specified destination.  It is the moving company that deserves control over "
+"the software in that van&mdash;not the customer of the moment."
+msgstr ""
+"SpaceX'in kullandığı roket, kendi arabanız veya kamyonetiniz hatta size "
+"kiralanan bir araba veya kamyonet gibi değildir. Aksine bu, şu an için, "
+"kitaplarınızı ve mobilyalarınızı belirttiğiniz yere taşıyan, bir taşıma "
+"şirketinin kamyonetiyle karşılaştırılabilir. O kamyonetteki yazılım üzerinde "
+"denetimi hak eden; o anki müşteri değil, taşıma şirkettir."
+
+#. type: Content of: <p>
+msgid ""
+"It makes sense to treat the job of transporting your things to Outer "
+"Mongolia, or to outer space, as a service because the job is mostly self-"
+"contained and mostly independent of the customer (&ldquo;mostly&rdquo; does "
+"not mean &ldquo;absolutely&rdquo; or &ldquo;100%&rdquo;), so the "
+"instructions for the job are simple (take these boxes to address A by date "
+"D)."
+msgstr ""
+"Eşyalarınızı Dış Moğolistan'a veya uzay boşluğuna taşıma işini bir hizmet "
+"olarak ele almak mantıklıdır, çünkü iş çoğunlukla müstakil ve müşteriden "
+"bağımsızdır (&ldquo;çoğunlukla&rdquo;; &ldquo;kesinlikle&rdquo; veya &ldquo;"
+"%100&rdquo; anlamına gelmez), bu yüzden işle ilgili yönergeler yalındır (bu "
+"kutuları D tarihine kadar A adresine götürün)."
+
+#. type: Content of: <p>
+msgid ""
+"But there is one kind of activity which should never be treated as a "
+"service: private computational activity.  That's because a private "
+"computational activity is exactly what you could do on your own computer in "
+"freedom, given suitable free software."
+msgstr ""
+"Ancak asla bir hizmet olarak ele alınmaması gereken bir tür faaliyet vardır; "
+"özel bilişim faaliyeti. Bunun nedeni, özel bir bilişim faaliyetinin, uygun "
+"özgür yazılım verildiğinde, tam olarak kendi bilgisayarınızda özgürce "
+"yapabileceğiniz bir şey olmasıdır."
+
+#. type: Content of: <p>
+msgid ""
+"When a program's task is to do computing for you, you are entitled to demand "
+"control over what it does and how, not just that it obey your orders as it "
+"interprets them.  You are entitled, in other words, to use your own copy of "
+"a free program, running on a computer you control."
+msgstr ""
+"Bir programın görevi sizin için bilişim görevlerini yerine getirmektir, salt "
+"komutlarınızı yorumladığı biçimiyle uymasını talebi değil, onun ne ve nasıl "
+"yapıldığı üzerinde denetim talebi hakkına da sahip olursunuz. Başka bir "
+"deyişle kontrol ettiğiniz bir bilgisayarda çalışan özgür bir programın kendi "
+"kopyasını kullanma hakkına sahipsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"No wonder there are companies that would like you to cede control over your "
+"computing activities to them, by labeling those activities as &ldquo;"
+"services&rdquo; to be done on their servers with programs that they "
+"control.  Even things as minutely directed by the user as text editing! This "
+"is a scheme to get you to substitute their power for your freedom.  We call "
+"that &ldquo;Service as a Software Substitute&rdquo;, SaaSS for short (see "
+"&ldquo;<a href=\"/philosophy/who-does-that-server-really-serve.html\">Who "
+"does that server really serve?</a>&rdquo;), and we reject it."
+msgstr ""
+"Hiç kuşku yok ki bu faaliyetleri, kendi denetledikleri programlarla "
+"sunucularında yapılacak &ldquo;hizmetler&rdquo; olarak etiketleyerek bilişim "
+"faaliyetleriniz üzerindeki denetiminizi onlara bırakmanızı isteyen şirketler "
+"var. Kullanıcı tarafından özenle yönetilen metin düzenleme gibi şeyleri "
+"bile! Bu, onların iktidarını özgürlüğünüzün yerine koymanızı sağlayacak bir "
+"düzen. Buna kısaca &ldquo;Yazılım Yerine Hizmet&rdquo; (&ldquo;Service as a "
+"Software Substitute&rdquo;), kısaca SaaSS, adını veriyoruz (bkz. &ldquo;<a "
+"href=\"/philosophy/who-does-that-server-really-serve.html\">Bu sunucu "
+"gerçekte kime hizmet ediyor?</a>&rdquo;) ve biz bunu reddediyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"For instance, imagine a hypothetical SpaceX Smart Spaceship, which as a "
+"&ldquo;service&rdquo; wants to know all about your business so SpaceX "
+"servers can decide for you what cargoes to buy and sell on which planets.  "
+"That planning service would be SaaSS&mdash;therefore a dis-service.  Instead "
+"of using that dis-service, you should do that planning with your copy of "
+"free software on your own computer."
+msgstr ""
+"Örneğin bir &ldquo;hizmet&rdquo; olarak işinizle ilgili her şeyi bilmek "
+"isteyen varsayımsal bir SpaceX Akıllı Uzay Gemisi'ni zihninizde canlandırın, "
+"böylece SpaceX sunucuları sizin için hangi kargoları hangi gezegenlerde alıp "
+"satacağınıza karar verebilir. Bu planlama hizmeti, SaaSS olabilir; "
+"dolayısıyla bu planlama hizmeti, bir hizmet<b><em>siz</em></b>lik olacaktır. "
+"Bu hizmet<b></em>siz</em></b>liği kullanmak yerine bu planlamayı kendi "
+"bilgisayarınızdaki özgür yazılım kopyanızla yapmalısınız."
+
+#. type: Content of: <p>
+msgid ""
+"SpaceX and others could then legitimately offer you the non-computational "
+"service of transporting cargoes, and you could use it sometimes; or you "
+"could choose some other method, perhaps to buy a spaceship and operate it "
+"yourself."
+msgstr ""
+"SpaceX ve diğerleri size yasal olarak bilişim olmayan kargo taşıma hizmeti "
+"sunabilir ve bunu bazı durumlarda kullanabilirsiniz; Veya başka bir yöntem "
+"seçebilirsiniz, belki de bir uzay gemisi satın alır ve onu kendi başına "
+"kullanırsınız."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2020 Richard Stallman"
+msgstr "Copyright &copy; 2020 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
