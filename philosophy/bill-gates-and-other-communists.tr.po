@@ -1,0 +1,322 @@
+# Turkish translation of http://www.gnu.org/philosophy/bill-gates-and-other-communists.html
+# Copyright (C) 2020 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# The FLOSS Information <theflossinformation@gmail.com>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bill-gates-and-other-communists.html\n"
+"POT-Creation-Date: 2015-10-06 13:55+0000\n"
+"PO-Revision-Date: 2020-11-02 20:33+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Bill Gates and Other Communists - GNU Project - Free Software Foundation"
+msgstr "Bill Gates ve Diğer Komünistler - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Bill Gates and Other Communists"
+msgstr "Bill Gates ve Diğer Komünistler"
+
+#. type: Content of: <p>
+msgid "by Richard Stallman"
+msgstr "Yazan Richard Stallman"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Originally published in 2005 in <a href=\"http://cnet.com/au/news/bill-gates-"
+"and-other-communists/\">CNET News.com</a>."
+msgstr ""
+"İlk olarak 2005'te, <a href=\"http://cnet.com/au/news/bill-gates-and-other-"
+"communists/\">CNET News.com</a>'da yayımlandı."
+
+#. type: Content of: <p>
+msgid ""
+"Bill Gates discussed patents with CNET under the heading of &ldquo;<a href="
+"\"/philosophy/not-ipr.html\">intellectual property</a>,&rdquo; a term that "
+"covers many disparate laws.  He said anyone who won't give blanket support "
+"to all these laws is a Communist.  Since I'm not a Communist but I have "
+"criticized software patents, I got to thinking this calumny might be aimed "
+"at me."
+msgstr ""
+"Bill Gates, CNET ile pek çok apayrı yasayı kapsayan bir terim olan &ldquo;<a "
+"href=\"/philosophy/not-ipr.html\">fikrî mülkiyet</a>&rdquo; başlığı altında "
+"patentleri tartıştı. Tüm bu yasalara sınırsız destek vermeyen herkesin "
+"Komünist olduğunu söyledi. Komünist olmadığım ancak yazılım patentlerini "
+"yerdiğim için bu karalamanın bana yönelik olabileceğini düşündüm."
+
+#. type: Content of: <p>
+msgid ""
+"The term &ldquo;intellectual property&rdquo; is too broad to have one "
+"opinion about.  It lumps together copyright law, patent law, and various "
+"other laws, whose requirements and effects are entirely different.  So "
+"anyone using the term &ldquo;intellectual property&rdquo; is typically "
+"either confused himself, or trying to confuse you.  Why does Mr. Gates lump "
+"these issues together? Let's study the differences he sets aside."
+msgstr ""
+"&ldquo;Fikrî mülkiyet&rdquo; terimi, hakkında tek görüş olamayacak kadar "
+"geniştir. Gereksinimleri ve etkileri tamamen farklı olan telif hakkı yasası, "
+"patent yasası ve diğer çeşitli yasaları bir araya getirir. Dolayısıyla "
+"&ldquo;fikrî mülkiyet&rdquo; terimini kullanan birisinin genellikle ya "
+"kafasını karışıktır ya da kafanızı karıştırmaya çalışmaktadır. Bay Gates "
+"neden bu konuları aynı kefeye koyuyor? Görmezden geldiği farklılıkları "
+"inceleyelim."
+
+#. type: Content of: <p>
+msgid ""
+"Software developers are not up in arms against copyright law, because the "
+"developer of a program holds the copyright on the program; as long as the "
+"programmers wrote the code themselves, no one else has a copyright on their "
+"code.  There is no danger that strangers could have a valid case of "
+"copyright infringement against them."
+msgstr ""
+"Yazılım geliştiricileri, telif hakkı yasasına karşı öfkeli değildir çünkü "
+"bir programın geliştiricisi, programın telif hakkına sahiptir: Programcılar, "
+"kodu kendileri yazdıkları sürece hiç kimsenin onların kodunda telif hakkı "
+"yoktur. Yabancıların, onlara karşı geçerli bir telif hakkı argümanı olma "
+"tehlikesi yoktur."
+
+#. type: Content of: <p>
+msgid ""
+"Patents are a different story.  Software patents don't cover programs or "
+"code; they cover ideas (methods, techniques, features, algorithms, etc.).  "
+"Developing a large program entails combining thousands of ideas, and even if "
+"a few of them are new, the rest must necessarily have come from other "
+"sources, such as programs the developer has seen.  If each of these ideas "
+"could be patented by someone, every large program is likely to infringe "
+"hundreds of patents.  Developing a large program means laying oneself open "
+"to hundreds of potential lawsuits.  Software patents are a menace to "
+"software developers, and to the users.  Since patent law covers execution of "
+"the program, the users can also be sued."
+msgstr ""
+"Patentler, farklı bir hikayedir. Yazılım patentleri; programları veya kodu "
+"kapsamaz: Onlar, fikirleri (yöntemler, teknikler, özellikler, algoritmalar "
+"vb.) kapsar. Büyük bir program geliştirmek, binlerce fikrin "
+"birleştirilmesini gerekli kılar ve bunlardan birkaçı, yeni olsa bile geri "
+"kalanı her durumda geliştiricinin gördüğü programlar gibi başka kaynaklardan "
+"gelmiş olmalıdır. Bu fikirlerin her biri başkası tarafından "
+"patentlenebilseydi, her büyük program büyük olasılıkla yüzlerce patenti "
+"ihlal ederdi. Büyük bir program geliştirmek, yüzlerce potansiyel hukuk "
+"davasına maruz kalmak demektir. Yazılım patentleri; yazılım geliştiricileri "
+"ve kullanıcılar için bir tehlikedir. Patent yasası programın yürütülmesini "
+"kapsadığından ötürü kullanıcılar da dava edilebilir."
+
+#. type: Content of: <p>
+msgid ""
+"A few fortunate software developers avoid most of the danger.  These are the "
+"megacorporations, which typically have thousands of patents each, and cross-"
+"license with each other.  This gives them an advantage over smaller rivals "
+"not in a position to do likewise.  That's why it is generally the "
+"megacorporations that lobby for software patents."
+msgstr ""
+"Birkaç şanslı yazılım geliştiricisi, tehlikenin çoğundan kaçınır. Bunlar "
+"genellikle her biri binlerce patente sahip olan ve birbiriyle çapraz "
+"lisanslama gerçekleştiren büyük şirketlerdir. Bu, onlarla aynı şekilde "
+"davranamayacak durumda olan daha küçük rakiplerine göre bir avantaj sağlar. "
+"Bu nedenle yazılım patentleri için kulis yapanlar genellikle büyük "
+"şirketlerdir."
+
+#. type: Content of: <p>
+msgid ""
+"Today's Microsoft is a megacorporation with thousands of patents.  Microsoft "
+"said in court that the main competition for MS Windows is &ldquo;Linux,"
+"&rdquo; meaning the free software GNU/Linux operating system.  Leaked "
+"internal documents say that Microsoft aims to use software patents to stop "
+"the development of GNU/Linux."
+msgstr ""
+"Bugünün Microsoft'u, binlerce patentle büyük bir şirkettir. Microsoft "
+"mahkemede MS Windows için ana rekabetin &ldquo;Linux,&rdquo; (özgür yazılım "
+"GNU/Linux işletim sistemini kastediyorlar) olduğunu olduğunu söyledi. Sızan "
+"şirket içi belgeler, Microsoft'un GNU/Linux'un geliştirilmesini durdurmak "
+"için yazılım patentlerini kullanmayı amaçladığını söylüyor."
+
+#. type: Content of: <p>
+msgid ""
+"When Mr. Gates started hyping his solution to the problem of spam, I "
+"suspected this was a plan to use patents to grab control of the net.  Sure "
+"enough, in 2004 Microsoft asked the IETF to approve a mail protocol that "
+"Microsoft was trying to patent.  The patent license policy for this protocol "
+"was written to forbid free software entirely.  No program supporting this "
+"mail protocol could be released as free software&mdash;not under the GNU "
+"GPL, or the MPL, or the Apache license, or any other."
+msgstr ""
+"Bay Gates, spam sorununa yönelik çözümü için yanıltıcı reklam yapmaya "
+"başladığında bunun, genel ağın denetimini ele geçirmek için patentleri "
+"kullanma planı olduğundan kuşkulanmıştım. Beklediğim gibi 2004'te Microsoft, "
+"IETF'ten Microsoft'un patentini almaya çalıştığı bir e-posta protokolünü "
+"onaylamasını istedi. Bu protokole ilişkin patent lisans politikası, özgür "
+"yazılımı tamamen yasaklamak için yazılmıştır. Bu posta protokolünü "
+"destekleyen hiçbir program özgür yazılım olarak, yani GNU GPL, MPL, Apache "
+"Lisansı veya herhangi bir başka özgür yazılım lisansı altında yayımlanamaz."
+
+#. type: Content of: <p>
+msgid ""
+"The IETF rejected Microsoft's protocol, but Microsoft said it would try to "
+"convince major ISPs to use it anyway.  Thanks to Mr. Gates, we now know that "
+"an open Internet with protocols anyone can implement is Communism; it was "
+"set up by that famous Communist agent, the US Department of Defense."
+msgstr ""
+"IETF, Microsoft'un protokolünü reddetti ancak Microsoft, büyük İSS'leri yine "
+"de bu protokolün kullanılması için ikna etmeye çalışacağını söyledi. Bay "
+"Gates sayesinde artık herkesin uygulayabileceği protokollerle açık genel "
+"ağın, Komünizm olduğunu biliyoruz: bu ağ, ünlü Komünist ajan, ABD Savunma "
+"Bakanlığı tarafından kuruldu."
+
+#. type: Content of: <p>
+msgid ""
+"With Microsoft's market clout, it can impose its choice of programming "
+"system as a de-facto standard.  Microsoft has already patented some .NET "
+"implementation methods, raising the concern that millions of users have been "
+"shifted to a government-issued Microsoft monopoly."
+msgstr ""
+"Microsoft pazar nüfuzunu kullanarak, programlama sistemi seçimini fiilî bir "
+"standart olarak dayatabilir. Microsoft, kimi .NET uygulama yöntemlerinin "
+"patentini çoktan almış ve bu da milyonlarca kullanıcının devlet tarafından "
+"düzenlenmiş bir Microsoft tekeline yönlendirildiği kaygısını arttırmıştır."
+
+#. type: Content of: <p>
+msgid ""
+"But Capitalism means monopoly; at least, Gates-style Capitalism does.  "
+"People who think that everyone should be free to program, free to write "
+"complex software, they are Communists, says Mr. Gates.  But these Communists "
+"have infiltrated even the Microsoft boardroom.  Here's what Bill Gates told "
+"Microsoft employees in 1991:"
+msgstr ""
+"Ancak kapitalizm, tekel demektir: En azından Gates tarzı kapitalizm öyle. "
+"Bay Gates; programın özgürleştirilmesi, karmaşık yazılım yazabilmek için "
+"özgürleştirilmesi gerektiğini düşünen insanların Komünist olduğunu söylüyor. "
+"Ancak bu Komünistler, Microsoft'un yönetim kurulu toplantı odasına bile "
+"sızdılar. Bill Gates, 1991'de Microsoft çalışanlarına şunları söylemişti:"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"&ldquo;If people had understood how patents would be granted when most of "
+"today's ideas were invented and had taken out patents, the industry would be "
+"at a complete stand-still today...A future start-up with no patents of its "
+"own will be forced to pay whatever price the giants choose to impose.&rdquo;"
+msgstr ""
+"&ldquo;İnsanlar bugünün fikirlerinin çoğu icat edildiğinde, patentlere nasıl "
+"sahip olunulacağını anlasaydı ve bu fikirleri patentleselerdi, endüstri "
+"bugün tam bir durgunluk içinde olurdu. Kendisinin patenti olmayan müstakbel "
+"bir girişim, devlerin dayatmayı seçtiği ederi ödemek zorunda kalacaktır."
+"&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"Mr. Gates' secret is out now&mdash;he too was a &ldquo;Communist,&rdquo; he "
+"too recognized that software patents were harmful, until Microsoft became "
+"one of these giants.  Now Microsoft aims to use software patents to impose "
+"whatever price it chooses on you and me.  And if we object, Mr. Gates will "
+"call us &ldquo;Communists.&rdquo;"
+msgstr ""
+"Bay Gates'in sırrı açığa çıktı: O da bir &ldquo;Komünist&rdquo;ti, o da "
+"Microsoft bu devlerden biri olana dek yazılım patentlerinin zararlı olduğunu "
+"kabul ediyordu. Artık Microsoft; size ve bana seçtiği ederi dayatmak için "
+"yazılım patentlerini kullanmayı amaçlıyor. Ve karşı çıkarsak Bay Gates bize "
+"&ldquo;Komünist&rdquo; diyecek."
+
+#. type: Content of: <p>
+msgid ""
+"If you're not afraid of name calling, visit the <a href=\"https://ffii.org"
+"\"> Foundation for a Free Information Infrastructure</a>, and join the fight "
+"against software patents in Europe.  We persuaded the European Parliament "
+"once&mdash;we even got support from right-wing MEPs&mdash;and with your help "
+"we will do it again."
+msgstr ""
+"Aşağılamadan korkmuyorsanız <a href=\"https://ffii.org\">Özgür Bilgi "
+"Altyapısı Vakfı</a>'nı ziyaret edin ve Avrupa'da yazılım patentlerine karşı "
+"mücadeleye katılın. Avrupa Parlamentosunu bir kez ikna ettik (sağcı Avrupa "
+"Parlamentosu üyelerinden bile destek aldık) ve sizin yardımınızla bunu yine "
+"yapacağız."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2005, 2015 Richard Stallman"
+msgstr "Copyright &copy; 2005, 2015 Richard Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "This page is licensed under a <a rel=\"license\" href=\"http://"
+#~ "creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+#~ "International License</a>."
+#~ msgstr ""
+#~ "Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/"
+#~ "by/4.0/deed.tr\">Creative Commons Atıf 4.0 Uluslararası Lisansı</a> "
+#~ "altında lisanslanmıştır."
