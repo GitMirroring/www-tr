@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-menu.html\n"
-"POT-Creation-Date: 2020-06-19 22:37+0200\n"
-"PO-Revision-Date: 2020-06-26 15:00+0200\n"
+"POT-Creation-Date: 2020-11-02 10:56+0000\n"
+"PO-Revision-Date: 2020-11-02 17:19+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <div><div>
 msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#11165;</a>"
@@ -165,6 +165,14 @@ msgstr ""
 msgid "<a href=\"/proprietary/malware-webpages.html#content\">Webpages</a>"
 msgstr ""
 "<a href=\"/proprietary/malware-webpages.html#content\">Web sayfaları</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid ""
+"<a href=\"/proprietary/malware-in-online-conferencing.html#content"
+"\">Conferencing</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-in-online-conferencing.html#content"
+"\">Konferans Sistemleri</a>"
 
 #. type: Content of: <div><div><dl><dt>
 msgid "By company"

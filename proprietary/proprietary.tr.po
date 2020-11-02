@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2020-10-28 22:55+0000\n"
-"PO-Revision-Date: 2020-10-29 17:46+0100\n"
+"POT-Creation-Date: 2020-11-02 14:55+0000\n"
+"PO-Revision-Date: 2020-11-02 17:18+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -225,6 +225,13 @@ msgid "<a href=\"/proprietary/malware-webpages.html\">Webpages</a>"
 msgstr "<a href=\"/proprietary/malware-webpages.html\">Web sayfaları</a>"
 
 #. type: Content of: <div><table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/malware-in-online-conferencing.html\">Conferencing</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-in-online-conferencing.html\">Konferans "
+"Sistemleri</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
 msgstr "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
 
@@ -306,6 +313,23 @@ msgstr "Son eklenenler"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
+"Microsoft is <a href=\"https://www.howtogeek.com/442609/confirmed-windows-10-"
+"setup-now-prevents-local-account-creation/\">tricking users to create an "
+"account on their network</a> to be able to install and use the Windows "
+"operating system, which is malware. The account can be used for surveillance "
+"and/or violating people's rights in many ways, such as turning their "
+"purchased software to a subscription product."
+msgstr ""
+"Microsoft, zaten kendisi kötücül bir yazılım olan Windows işletim sistemini "
+"kurabilmeleri ve kullanabilmeleri için <a href=\"https://www.howtogeek."
+"com/442609/confirmed-windows-10-setup-now-prevents-local-account-creation/"
+"\">kullanıcıları ağlarında hesap açmaları için kandırıyor</a>. Bu hesap, "
+"kişilerin gözetimi ve/veya haklarının çok çeşitli biçimlerde ihlal edilmesi "
+"için, örneğin satın aldıkları bir ürünü abone olunmuş bir ürüne dönüştürmek "
+"gibi, kullanılabilir."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
 "The addictive Genshin Impact relentlessly <a href=\"https://www.theguardian."
 "com/games/2020/oct/22/genshin-impact-video-game-slowly-taking-over-the-world"
 "\">coerces players to spend money by overwhelming the game play with loot "
@@ -375,22 +399,6 @@ msgstr ""
 "subscription-surprise-27630842/\"> bu yuları bir aboneliğe çevirdi</a>, "
 "aylık bir ücret ödemedikleri takdirde kullanıcıların pişiricinin &ldquo;"
 "gelişmiş özelliklerinden&rdquo; yararlanmalarını yasaklıyor."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"Many employers are using nonfree software, including videoconference "
-"software, to <a href=\"https://www.theguardian.com/world/2020/sep/27/"
-"shirking-from-home-staff-feel-the-heat-as-bosses-ramp-up-remote-surveillance"
-"\"> surveil and monitor staff working at home</a>. If the program reports "
-"whether you are &ldquo;active,&rdquo; that is in effect a malicious "
-"surveillance feature."
-msgstr ""
-"Çoğu çalışan özgür olmayan yazılım kullanıyor, bunların içerisinde <a href="
-"\"https://www.theguardian.com/world/2020/sep/27/shirking-from-home-staff-"
-"feel-the-heat-as-bosses-ramp-up-remote-surveillance\"> evde çalışan "
-"personeli gözetleyen ve izleyen</a> telekonferans yazılımları da var. Eğer "
-"program &ldquo;etkin&rdquo; olup olmadığınızı bildiriyorsa, bu aslında "
-"kötücül bir gözetim özelliğidir."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -471,6 +479,21 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Many employers are using nonfree software, including videoconference "
+#~ "software, to <a href=\"https://www.theguardian.com/world/2020/sep/27/"
+#~ "shirking-from-home-staff-feel-the-heat-as-bosses-ramp-up-remote-"
+#~ "surveillance\"> surveil and monitor staff working at home</a>. If the "
+#~ "program reports whether you are &ldquo;active,&rdquo; that is in effect a "
+#~ "malicious surveillance feature."
+#~ msgstr ""
+#~ "Çoğu çalışan özgür olmayan yazılım kullanıyor, bunların içerisinde <a "
+#~ "href=\"https://www.theguardian.com/world/2020/sep/27/shirking-from-home-"
+#~ "staff-feel-the-heat-as-bosses-ramp-up-remote-surveillance\"> evde çalışan "
+#~ "personeli gözetleyen ve izleyen</a> telekonferans yazılımları da var. "
+#~ "Eğer program &ldquo;etkin&rdquo; olup olmadığınızı bildiriyorsa, bu "
+#~ "aslında kötücül bir gözetim özelliğidir."
 
 #~ msgid ""
 #~ "Facebook <a href=\"https://www.dailymail.co.uk/news/article-8747541/"
