@@ -8,15 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: education-menu.html\n"
 "Report-Msgid-Bugs-To: Webmasters <webmasters@gnu.org>\n"
-"POT-Creation-Date: 2020-06-06 11:57+0000\n"
-"PO-Revision-Date: 2020-08-22 08:25+0200\n"
+"POT-Creation-Date: 2020-11-08 19:56+0000\n"
+"PO-Revision-Date: 2020-11-09 20:33+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <div><div>
 msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#11165;</a>"
@@ -34,65 +34,30 @@ msgstr "<a href=\"/education/education.html#content\">Ana sayfa</a>"
 msgid "<a href=\"/education/edu-cases.html#content\">Case studies</a>"
 msgstr "<a href=\"/education/edu-cases.html#content\">Durum çalışmaları</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><li><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid "<a href=\"/education/edu-cases-argentina.html#content\">Argentina</a>"
 msgstr "<a href=\"/education/edu-cases-argentina.html#content\">Arjantin</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><li><li><ul><li>
-msgid ""
-"<a href=\"/education/edu-cases-argentina-ecen.html#content\">ECE Neuquén</a>"
-msgstr ""
-"<a href=\"/education/edu-cases-argentina-ecen.html#content\">ECE Neuquén</a>"
-
-#. type: Content of: <div><div><dl><dd><ul><li><li><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid "<a href=\"/education/edu-cases-india.html#content\">India</a>"
 msgstr "<a href=\"/education/edu-cases-india.html#content\">Hindistan</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><li><li><li><ul><li>
-msgid ""
-"<a href=\"/education/edu-cases-india-ambedkar.html#content\">Ambedkar "
-"Center</a>"
-msgstr ""
-"<a href=\"/education/edu-cases-india-ambedkar.html#content\">Ambedkar "
-"Merkezi</a>"
-
-#. type: Content of: <div><div><dl><dd><ul><li><li><li><ul><li>
-msgid ""
-"<a href=\"/education/edu-cases-india-irimpanam.html#content\">VHSS "
-"Irimpanam</a>"
-msgstr ""
-"<a href=\"/education/edu-cases-india-irimpanam.html#content\">VHSS "
-"Irimpanam</a>"
-
-#. type: Content of: <div><div><dl><dd><ul><dt><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"/education/edu-resources.html#content\">Resources</a>"
 msgstr "<a href=\"/education/edu-resources.html#content\">Kaynaklar</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
 "<a href=\"/education/edu-software.html#content\">Educational Software</a>"
 msgstr "<a href=\"/education/edu-software.html#content\">Eğitsel Yazılım</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li><ul><li>
-msgid "<a href=\"/education/edu-software-gcompris.html#content\">Gcompris</a>"
-msgstr "<a href=\"/education/edu-software-gcompris.html#content\">Gcompris</a>"
-
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li><ul><li>
-msgid "<a href=\"/education/edu-software-gimp.html#content\">Gimp</a>"
-msgstr "<a href=\"/education/edu-software-gimp.html#content\">Gimp</a>"
-
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li><ul><li>
-msgid "<a href=\"/education/edu-software-tuxpaint.html#content\">Tux Paint</a>"
-msgstr ""
-"<a href=\"/education/edu-software-tuxpaint.html#content\">Tux Paint</a>"
-
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
 "<a href=\"/education/edu-projects.html#content\">Groups &amp; projects</a>"
 msgstr ""
 "<a href=\"/education/edu-projects.html#content\">Gruplar ve projeler</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><ul><li><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
 "<a href=\"/education/edu-free-learning-resources.html#content\">Free "
 "learning resources</a>"
@@ -100,7 +65,7 @@ msgstr ""
 "<a href=\"/education/edu-free-learning-resources.html#content\">Özgür "
 "öğrenme kaynakları</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "<a href=\"/education/resisting-proprietary-software.html#content"
 "\">Resistance</a>"
@@ -108,7 +73,7 @@ msgstr ""
 "<a href=\"/education/resisting-proprietary-software.html#content\">Direniş</"
 "a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
 "<a href=\"/education/successful-resistance-against-nonfree-software."
 "html#content\">Successful resistance</a>"
@@ -116,19 +81,27 @@ msgstr ""
 "<a href=\"/education/successful-resistance-against-nonfree-software."
 "html#content\">Başarılı direniş</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid ""
+"<a href=\"/education/dangers-of-proprietary-systems-in-online-teaching."
+"html#content\">Online teaching</a>"
+msgstr ""
+"<a href=\"/education/resisting-proprietary-software.html#content\">Çevrim "
+"içi öğretim</a>"
+
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"/education/edu-faq.html#content\">FAQ</a>"
 msgstr "<a href=\"/education/edu-faq.html#content\">SSS</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"/education/edu-team.html#content\">Our team</a>"
 msgstr "<a href=\"/education/edu-team.html#content\">Eğitim ekibi</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid "In depth"
 msgstr "Ayrıntılı"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
 "<a href=\"/education/edu-why.html#content\">Why educational institutions "
 "should use and teach free software</a>"
@@ -136,7 +109,7 @@ msgstr ""
 "<a href=\"/education/edu-why.html#content\">Eğitim kurumları neden özgür "
 "yazılım kullanmalı ve öğretmeli</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
 "<a href=\"/education/edu-schools.html#content\">Why schools should "
 "exclusively use free software</a>"
@@ -144,7 +117,7 @@ msgstr ""
 "<a href=\"/education/edu-schools.html#content\">Okullar neden sadece özgür "
 "yazılım kullanmalı</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><dd><ul><li>
+#. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
 "<a href=\"/education/edu-system-india.html#content\">The education system in "
 "India</a>"
@@ -152,11 +125,45 @@ msgstr ""
 "<a href=\"/education/edu-system-india.html#content\">Hindistan'daki eğitim "
 "sistemi</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><dt><dd><dt>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
 "<a href=\"/education/misc/edu-misc.html#content\">Miscellaneous materials</a>"
 msgstr ""
 "<a href=\"/education/misc/edu-misc.html#content\">Çeşitli materyaller</a>"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-cases-argentina-ecen.html#content\">ECE Neuquén</"
+#~ "a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases-argentina-ecen.html#content\">ECE Neuquén</"
+#~ "a>"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-cases-india-ambedkar.html#content\">Ambedkar "
+#~ "Center</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases-india-ambedkar.html#content\">Ambedkar "
+#~ "Merkezi</a>"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-cases-india-irimpanam.html#content\">VHSS "
+#~ "Irimpanam</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases-india-irimpanam.html#content\">VHSS "
+#~ "Irimpanam</a>"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-software-gcompris.html#content\">Gcompris</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-software-gcompris.html#content\">Gcompris</a>"
+
+#~ msgid "<a href=\"/education/edu-software-gimp.html#content\">Gimp</a>"
+#~ msgstr "<a href=\"/education/edu-software-gimp.html#content\">Gimp</a>"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-software-tuxpaint.html#content\">Tux Paint</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-software-tuxpaint.html#content\">Tux Paint</a>"
 
 #~ msgid "<a href=\"/education/edu-team.html\">OUR&nbsp;TEAM</a>"
 #~ msgstr "<a href=\"/education/edu-team\">EKİBİMİZ</a>"
