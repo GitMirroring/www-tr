@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-india-irimpanam.html\n"
-"POT-Creation-Date: 2020-06-20 19:25+0000\n"
+"POT-Creation-Date: 2020-11-10 17:25+0000\n"
 "PO-Revision-Date: 2020-06-21 09:37+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -61,7 +61,7 @@ msgstr ""
 msgid "Vocational Higher Secondary School Irimpanam"
 msgstr "Irimpanam Mesleki Okulu"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "The following report is based on information provided to us by the school's "
 "staff."

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-addictions.html\n"
-"POT-Creation-Date: 2020-10-28 22:55+0000\n"
+"POT-Creation-Date: 2020-11-10 17:25+0000\n"
 "PO-Revision-Date: 2020-10-29 17:46+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -77,7 +77,7 @@ msgstr ""
 msgid "This typically takes the form of malicious functionalities."
 msgstr "Bu genellikle kötücül işlevsellikler biçimini alır."
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><blockquote><p>
 msgid ""
 "This page deals with malicious functionalities that are added to some "
 "programs for the sole purpose of luring users into more and more frequent "

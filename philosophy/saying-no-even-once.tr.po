@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: saying-no-even-once.html\n"
-"POT-Creation-Date: 2020-10-06 08:28+0000\n"
+"POT-Creation-Date: 2020-11-10 17:25+0000\n"
 "PO-Revision-Date: 2020-06-05 13:57+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -33,7 +33,7 @@ msgstr "Adaletsiz Bilişime Bir Kez Bile Hayır Demek Yararlıdır"
 msgid "by Richard Stallman"
 msgstr "yazan Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <blockquote><p>
 msgid ""
 "A misunderstanding is circulating that the GNU Project demands you run 100% "
 "<a href=\"/philosophy/free-sw.html\">free software</a>, all the time. "

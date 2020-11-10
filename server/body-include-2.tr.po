@@ -5,28 +5,28 @@
 # The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
 # Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
 # April 2020: reorganize includes to fit new layout.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2020-04-26 06:25+0000\n"
-"PO-Revision-Date: 2020-05-01 23:18+0300\n"
-"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
+"POT-Creation-Date: 2020-11-09 22:25+0000\n"
+"PO-Revision-Date: 2020-11-10 18:29+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 19.12.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <div>
 msgid ""
-"<a id=\"more-links\" href=\"#navigation\"></a> <a id=\"less-links\" href="
-"\"#tabAboutGNU\"></a>"
+"<a id=\"more-links\" href=\"#navigation\" title=\"More...\"> <span>Site "
+"navigation</span></a> <a id=\"less-links\" href=\"#content\"><b>Skip</b></a>"
 msgstr ""
-"<a id=\"more-links\" href=\"#navigation\"></a> <a id=\"less-links\" href="
-"\"#tabAboutGNU\"></a>"
+"<a id=\"more-links\" href=\"#navigation\" title=\"More...\"> <span>Site "
+"gezinim</span></a> <a id=\"less-links\" href=\"#content\"><b>Atla</b></a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/gnu/gnu.html\">ABOUT&nbsp;GNU</a>"

@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: footer-text.html\n"
-"POT-Creation-Date: 2020-04-26 06:25+0000\n"
-"PO-Revision-Date: 2020-04-27 17:35+0200\n"
+"POT-Creation-Date: 2020-11-09 22:25+0000\n"
+"PO-Revision-Date: 2020-11-10 18:26+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <div><div>
-msgid "<a href=\"#\" class=\"close\"></a>"
-msgstr "<a href=\"#\" class=\"close\"></a>"
+msgid "<a href=\"#top\"><b>&#11165;</b></a>"
+msgstr "<a href=\"#top\"><b>&#11165;</b></a>"
 
-#. type: Content of: <div><div>
-msgid "<a href=\"#header\"><span>BACK TO TOP </span>&#11165;</a>"
-msgstr "<a href=\"#header\"><span>BAŞA DÖN </span>&#11165;</a>"
+#. type: Content of: <div><div><div>
+msgid "<a href=\"#top\" class=\"close\"><span>BACK TO TOP</span></a>"
+msgstr "<a href=\"#top\" class=\"close\"><span>BAŞA DÖN</span></a>"
 
 #. #echo encoding="none" var="language_selector" 
 #. type: Content of: <div><div><div>
@@ -35,6 +35,10 @@ msgstr "Dili ayarla"
 #. type: Content of: <div><div><p>
 msgid "Available for this page:"
 msgstr "Bu sayfa şu dillerde mevcut:"
+
+#. type: Content of: <div><div>
+msgid "<a href=\"#header\"><span>BACK TO TOP </span>&#11165;</a>"
+msgstr "<a href=\"#header\"><span>BAŞA DÖN </span>&#11165;</a>"
 
 #. type: Content of: <div><blockquote><p><a>
 msgid "<a href=\"//www.fsf.org\">"
@@ -64,6 +68,9 @@ msgstr ""
 "<a class=\"join\" href=\"//www.fsf.org/associate/support_freedom?"
 "referrer=4052\">KATIL</a> <a class=\"donate\" href=\"//donate.fsf.org/"
 "\">BAĞIŞ YAP</a> <a class=\"shop\" href=\"//shop.fsf.org/\">MAĞAZA</a>"
+
+#~ msgid "<a href=\"#\" class=\"close\"></a>"
+#~ msgstr "<a href=\"#\" class=\"close\"></a>"
 
 #~ msgid "<a href=\"#navigation\"><span>TOP</span> &#9650;</a>"
 #~ msgstr "<a href=\"#navigation\"><span>YUKARIYA GİT</span> &#9650;</a>"
