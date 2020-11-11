@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2020-10-30 16:56+0000\n"
-"PO-Revision-Date: 2020-10-31 07:59+0100\n"
+"POT-Creation-Date: 2020-11-10 21:25+0000\n"
+"PO-Revision-Date: 2020-11-11 18:43+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -210,22 +210,20 @@ msgstr ""
 "tarayıcısı) ve Gimp (görüntü düzenleyicisi)</small>"
 
 #. type: Content of: <div><div><div><div><a>
-msgid "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
-msgstr "<a href=\"/distros/screenshots/trisquel8-mate.jpg\">"
+msgid "<a href=\"https://trisquel.info/files/screenshots/etiona-media.jpg\">"
+msgstr "<a href=\"https://trisquel.info/files/screenshots/etiona-media.jpg\">"
 
 #. type: Attribute 'alt' of: <div><div><div><div><a><img>
-msgid "&nbsp;[Screenshot of Trisquel&nbsp;8 with MATE desktop]&nbsp;"
-msgstr "&nbsp;[MATE masaüstü ile Trisquel&nbsp;8'in ekran görüntüsü]&nbsp;"
+msgid "&nbsp;[Screenshot of Trisquel&nbsp;9 with MATE desktop]&nbsp;"
+msgstr "&nbsp;[MATE masaüstü ile Trisquel&nbsp;9'un ekran görüntüsü]&nbsp;"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;8</a> with <a href="
-"\"https://mate-desktop.org/\">MATE</a> desktop, Abrowser (web browser), and "
-"Inkscape (vector graphics editor)</small>"
+"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;9</a> with <a href="
+"\"https://mate-desktop.org/\">MATE</a> desktop, and VLC media player</small>"
 msgstr ""
-"<small><a href=\"https://mate-desktop.org/\">MATE</a> masaüstü ile <a href="
-"\"https://trisquel.info\">Trisquel&nbsp;8</a>, Abrowser (web tarayıcısı) ve "
-"Inkscape (vektörel grafik düzenleyicisi)</small>"
+"<small><a href=\"https://mate-desktop.org/\">MATE</a> masaüstü ve VLC ortam "
+"oynatıcı ile <a href=\"https://trisquel.info\">Trisquel&nbsp;9</a></small>"
 
 #. type: Content of: <div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
