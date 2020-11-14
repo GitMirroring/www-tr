@@ -2,7 +2,7 @@
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
-# T. E. Kalaycı, 2009, 2019.".
+# T. E. Kalaycı, 2009, 2019, 2020.".
 # Çiğdem Özşar, 2009.".
 # Birkan Sarıfakıoğlu, 2009.".
 # Serkan Çapkan, 2009.".
@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-07 11:55+0000\n"
-"PO-Revision-Date: 2020-07-11 08:13+0200\n"
+"POT-Creation-Date: 2020-11-14 17:56+0000\n"
+"PO-Revision-Date: 2020-11-14 21:31+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Loco-Source-Locale: en_AT\n"
 "X-Loco-Parser: loco_parse_po\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -456,17 +456,17 @@ msgstr "&ldquo;Alternatif&rdquo;"
 
 #. type: Content of: <p>
 msgid ""
-"We don't describe free software as an &ldquo;alternative&rdquo; to "
-"proprietary, because that word presumes all the &ldquo;alternatives&rdquo; "
-"are legitimate and each additional one makes users better off.  In effect, "
-"it assumes that free software ought to coexist with software that does not "
-"respect users' freedom."
+"We don't describe free software in general as an &ldquo;alternative&rdquo; "
+"to proprietary, because that word presumes all the &ldquo;"
+"alternatives&rdquo; are legitimate and each additional one makes users "
+"better off.  In effect, it assumes that free software ought to coexist with "
+"software that does not respect users' freedom."
 msgstr ""
-"Özgür yazılımı, özel mülk yazılım bir &ldquo;alternatif&rdquo; olarak "
-"tanımlamıyoruz. Çünkü bu kelime bütün &ldquo;alternatiflerin&rdquo;  meşru "
-"ve her ilave birinin kullanıcıları daha iyi duruma getirdiğini farz eder. "
-"Aslında, özgür yazılımın kullanıcıların özgürlüğüne saygı duymayan "
-"yazılımlarla bir arada yaşaması gerektiğini varsayar."
+"Özgür yazılımı, genelde özel mülk yazılıma bir &ldquo;alternatif&rdquo; "
+"olarak tanımlamıyoruz. Çünkü bu kelime bütün &ldquo;alternatiflerin&rdquo; "
+"meşru ve her ilave birinin kullanıcıları daha iyi duruma getirdiğini farz "
+"eder. Aslında özgür yazılımın kullanıcıların özgürlüğüne saygı duymayan "
+"yazılımlarla bir arada yaşaması gerektiğini farz eder."
 
 #. type: Content of: <p>
 msgid ""
@@ -484,6 +484,21 @@ msgstr ""
 "yerine Hizmet</a> kullanıcılarını denetimi altına alır. Kullanıcılara özgür "
 "yazılım yerine bu &ldquo;alternatifleri&rdquo; önermenin doğru olmadığını "
 "düşünüyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"Special circumstances can drive users toward running one particular program "
+"for a certain job.  For instance, when a web page sends JavaScript client "
+"code to the user's browser, that drives users toward running that specific "
+"client program rather than any possible other.  In such a case, there is a "
+"reason to describe any other code for that job as an alternative."
+msgstr ""
+"Özel durumlar kullanıcıları belirli bir iş için özel bir programı "
+"çalıştırmaya sevk edebilir. Örneğin bir web sayfası kullanıcının "
+"tarayıcısına JavaScript istemci kodu gönderdiğinde, bu durum kullanıcıları "
+"başka olası bir program yerine bu belirli istemci programı kullanmaya sevk "
+"edebilir. Böyle bir durumda, başka herhangi bir kodu bu iş için bir "
+"alternatif olarak tanımlamak için bir neden vardır."
 
 #. type: Content of: <h3>
 msgid "&ldquo;Assets&rdquo;"
@@ -2583,7 +2598,7 @@ msgstr ""
 "<ul>\n"
 "<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
 "\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
-"<li>T. E. Kalaycı, 2009, 2019.</li>\n"
+"<li>T. E. Kalaycı, 2009, 2019, 2020.</li>\n"
 "<li>Çiğdem Özşar, 2009.</li>\n"
 "<li>Birkan Sarıfakıoğlu, 2009.</li>\n"
 "<li>Serkan Çapkan, 2009.</li>\n"
