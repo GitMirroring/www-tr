@@ -7,20 +7,35 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: head-include-2.html\n"
-"POT-Creation-Date: 2020-11-09 22:25+0000\n"
-"PO-Revision-Date: 2019-08-25 19:59+0300\n"
-"Last-Translator: Ali Servet Dönmez <asd@pittle.org>\n"
+"POT-Creation-Date: 2020-11-20 19:25+0000\n"
+"PO-Revision-Date: 2020-11-21 07:47+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Attribute 'content' of: <meta>
 msgid "width=device-width, initial-scale=1"
 msgstr "width=device-width, initial-scale=1"
+
+#.  TRANSLATORS: Change direction to rtl if you translate
+#.      the fundraiser and your script is right-to-left.  
+#. type: Content of: <style>
+#, no-wrap
+msgid ""
+"\n"
+".fundraiser {\n"
+"  direction: ltr;\n"
+"}\n"
+msgstr ""
+"\n"
+".fundraiser {\n"
+"  direction: ltr;\n"
+"}\n"
 
 #~ msgid ""
 #~ "@media (min-width: 0) {\n"

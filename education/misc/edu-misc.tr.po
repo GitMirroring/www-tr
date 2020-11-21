@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-misc.html\n"
-"POT-Creation-Date: 2020-06-29 11:26+0000\n"
-"PO-Revision-Date: 2020-07-01 17:38+0200\n"
+"POT-Creation-Date: 2020-11-20 19:55+0000\n"
+"PO-Revision-Date: 2020-11-21 07:58+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -174,130 +174,113 @@ msgstr "<a href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Tux Paint interface Chinese (Simplified), png, <a href=\"/education/misc/"
-"tuxpaint-start-sm.zh-cn.png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-"
-"start.zh-cn.png\">86 KB</a>"
+"Interface in Chinese (Simplified), png, <a href=\"/education/misc/tuxpaint-"
+"start-sm.zh-cn.png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.zh-"
+"cn.png\">86 KB</a>"
 msgstr ""
-"Yalın Çince Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.zh-cn.png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.zh-cn.png"
+"Yalın Çince arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.zh-cn."
+"png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.zh-cn.png\">86 KB</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in English, png, <a href=\"/education/misc/tuxpaint-start-sm.png"
+"\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.png\">83 KB</a>"
+msgstr ""
+"İngilizce arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.png\">30 "
+"KB</a>, <a href=\"/education/misc/tuxpaint-start.png\">83 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in German, png, <a href=\"/education/misc/tuxpaint-start-sm.de.png"
+"\">45 KB</a>, <a href=\"/education/misc/tuxpaint-start.de.png\">86 KB</a>"
+msgstr ""
+"Almanca arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.de.png\">45 "
+"KB</a>, <a href=\"/education/misc/tuxpaint-start.de.png\">86 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Greek, png, <a href=\"/education/misc/tuxpaint-start-sm.el.png"
+"\">32 KB</a>, <a href=\"/education/misc/tuxpaint-start.el.png\">84 KB</a>"
+msgstr ""
+"Yunanca arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.el.png\">32 "
+"KB</a>, <a href=\"/education/misc/tuxpaint-start.el.png\">84 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in French, png, <a href=\"/education/misc/tuxpaint-start-sm.fr.png"
+"\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.fr.png\">86 KB</a>"
+msgstr ""
+"Fransızca arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.fr.png"
+"\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.fr.png\">86 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Italian, png, <a href=\"/education/misc/tuxpaint-start-sm.it.png"
+"\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.it.png\">83 KB</a>"
+msgstr ""
+"İtalyanca arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.it.png"
+"\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.it.png\">83 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Japanese, png, <a href=\"/education/misc/tuxpaint-start-sm.ja."
+"png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.ja.png\">85 KB</a>"
+msgstr ""
+"Japonca arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.ja.png\">30 "
+"KB</a>, <a href=\"/education/misc/tuxpaint-start.ja.png\">85 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Portuguese (Brazilian), png, <a href=\"/education/misc/tuxpaint-"
+"start-sm.pt-br.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.pt-"
+"br.png\">86 KB</a>"
+msgstr ""
+"Brezilya Portekizcesi arayüz, png, <a href=\"/education/misc/tuxpaint-start-"
+"sm.pt-br.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.pt-br.png"
 "\">86 KB</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Tux Paint interface English, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.png\">83 KB</a>"
+"Interface in Russian, png, <a href=\"/education/misc/tuxpaint-start-sm.ru.png"
+"\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.ru.png\">86 KB</a>"
 msgstr ""
-"İngilizce Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.png\">83 KB</a>"
+"Rusça arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.ru.png\">31 "
+"KB</a>, <a href=\"/education/misc/tuxpaint-start.ru.png\">86 KB</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Tux Paint interface German, png, <a href=\"/education/misc/tuxpaint-start-sm."
-"de.png\">45 KB</a>, <a href=\"/education/misc/tuxpaint-start.de.png\">86 KB</"
-"a>"
+"Interface in Spanish, png, <a href=\"/education/misc/tuxpaint-start-sm.es.png"
+"\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.es.png\">86 KB</a>"
 msgstr ""
-"Almanca Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-sm."
-"de.png\">45 KB</a>, <a href=\"/education/misc/tuxpaint-start.de.png\">86 KB</"
-"a>"
+"İspanyolca arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.es.png"
+"\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.es.png\">86 KB</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Tux Paint interface Greek, png, <a href=\"/education/misc/tuxpaint-start-sm."
-"el.png\">32 KB</a>, <a href=\"/education/misc/tuxpaint-start.el.png\">84 KB</"
-"a>"
+"Interface in Turkish, png, <a href=\"/education/misc/tuxpaint-start-sm.tr.png"
+"\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.tr.png\">85 KB</a>"
 msgstr ""
-"Yunanca Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-sm."
-"el.png\">32 KB</a>, <a href=\"/education/misc/tuxpaint-start.el.png\">84 KB</"
-"a>"
+"Türkçe arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.tr.png\">31 "
+"KB</a>, <a href=\"/education/misc/tuxpaint-start.tr.png\">85 KB</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Tux Paint interface French, png, <a href=\"/education/misc/tuxpaint-start-sm."
-"fr.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.fr.png\">86 KB</"
-"a>"
+"Interface in Ukranian, png, <a href=\"/education/misc/tuxpaint-start-sm.uk."
+"png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.uk.png\">87 KB</a>"
 msgstr ""
-"Fransızca Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.fr.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.fr.png\">86 "
-"KB</a>"
+"Ukraynaca arayüz, png, <a href=\"/education/misc/tuxpaint-start-sm.uk.png"
+"\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.uk.png\">87 KB</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Tux Paint interface Italian, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.it.png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.it.png\">83 "
-"KB</a>"
+"Interface in Malayalam with stamps, jpeg, <a href=\"/education/misc/tuxpaint-"
+"stamps-sm.jpg\">65 KB</a>, <a href=\"/education/misc/tuxpaint-stamps.jpg"
+"\">298 KB</a>"
 msgstr ""
-"İtalyanca Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.it.png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.it.png\">83 "
-"KB</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Tux Paint interface Japanese, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.ja.png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.ja.png\">85 "
-"KB</a>"
-msgstr ""
-"Japonca Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-sm."
-"ja.png\">30 KB</a>, <a href=\"/education/misc/tuxpaint-start.ja.png\">85 KB</"
-"a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Tux Paint interface Portuguese (Brazilian), png, <a href=\"/education/misc/"
-"tuxpaint-start-sm.pt-br.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-"
-"start.pt-br.png\">86 KB</a>"
-msgstr ""
-"Brezilya Portekizcesi Tux Paint arayüzü, png, <a href=\"/education/misc/"
-"tuxpaint-start-sm.pt-br.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-"
-"start.pt-br.png\">86 KB</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Tux Paint interface Russian, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.ru.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.ru.png\">86 "
-"KB</a>"
-msgstr ""
-"Rusça Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-sm.ru."
-"png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.ru.png\">86 KB</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Tux Paint interface Spanish, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.es.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.es.png\">86 "
-"KB</a>"
-msgstr ""
-"İspanyolca Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.es.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.es.png\">86 "
-"KB</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Tux Paint interface Turkish, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.tr.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.tr.png\">85 "
-"KB</a>"
-msgstr ""
-"Türkçe Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-sm."
-"tr.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.tr.png\">85 KB</"
-"a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Tux Paint interface Ukranian, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.uk.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.uk.png\">87 "
-"KB</a>"
-msgstr ""
-"Ukraynaca Tux Paint arayüzü, png, <a href=\"/education/misc/tuxpaint-start-"
-"sm.uk.png\">31 KB</a>, <a href=\"/education/misc/tuxpaint-start.uk.png\">87 "
-"KB</a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Tux Paint interface in Malayalam with stamps, jpeg, <a href=\"/education/"
-"misc/tuxpaint-stamps-sm.jpg\">65 KB</a>, <a href=\"/education/misc/tuxpaint-"
+"Damgalar ile Malayalamca olarak arayüz, jpeg, <a href=\"/education/misc/"
+"tuxpaint-stamps-sm.jpg\">65 KB</a>, <a href=\"/education/misc/tuxpaint-"
 "stamps.jpg\">298 KB</a>"
-msgstr ""
-"Damgalar ile Malayalamca olarak Tux Paint arayüzü, jpeg, <a href=\"/"
-"education/misc/tuxpaint-stamps-sm.jpg\">65 KB</a>, <a href=\"/education/misc/"
-"tuxpaint-stamps.jpg\">298 KB</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -321,11 +304,101 @@ msgstr "<a href=\"/education/edu-software-gcompris.html\">GCompris</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"GCompris interface, jpeg <a href=\"/education/misc/gcompris-sm.jpg\">44 KB</"
-"a>, <a href=\"/education/misc/gcompris.jpg\">198 KB</a>"
+"Interface in Chinese (Traditional), png, <a href=\"/education/misc/gcompris-"
+"sm.zh-tw.png\">23 KB</a>, <a href=\"/education/misc/gcompris.zh-tw.png\">62 "
+"KB</a>"
 msgstr ""
-"GCompris arayüzü, jpeg <a href=\"/education/misc/gcompris-sm.jpg\">44 KB</"
-"a>, <a href=\"/education/misc/gcompris.jpg\">198 KB</a>"
+"Yalın Çince arayüz, png, <a href=\"/education/misc/gcompris-sm.zh-tw.png"
+"\">23 KB</a>, <a href=\"/education/misc/gcompris.zh-tw.png\">62 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in English, png <a href=\"/education/misc/gcompris-sm.png\">28 KB</"
+"a>, <a href=\"/education/misc/gcompris.png\">86 KB</a>"
+msgstr ""
+"İngilizce arayüz, png <a href=\"/education/misc/gcompris-sm.png\">28 KB</a>, "
+"<a href=\"/education/misc/gcompris.png\">86 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in German, png, <a href=\"/education/misc/gcompris-sm.de.png\">24 "
+"KB</a>, <a href=\"/education/misc/gcompris.de.png\">64 KB</a>"
+msgstr ""
+"Almanca arayüz, png, <a href=\"/education/misc/gcompris-sm.de.png\">24 KB</"
+"a>, <a href=\"/education/misc/gcompris.de.png\">64 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in French, png, <a href=\"/education/misc/gcompris-sm.fr.png\">24 "
+"KB</a>, <a href=\"/education/misc/gcompris.fr.png\">65 KB</a>"
+msgstr ""
+"Fransızca arayüz, png, <a href=\"/education/misc/gcompris-sm.fr.png\">24 KB</"
+"a>, <a href=\"/education/misc/gcompris.fr.png\">65 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Italian, png, <a href=\"/education/misc/gcompris-sm.it.png\">24 "
+"KB</a>, <a href=\"/education/misc/gcompris.it.png\">64 KB</a>"
+msgstr ""
+"İtalyanca arayüz, png, <a href=\"/education/misc/gcompris-sm.it.png\">24 KB</"
+"a>, <a href=\"/education/misc/gcompris.it.png\">64 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Lithuanian, png, <a href=\"/education/misc/gcompris-sm.lt.png"
+"\">24 KB</a>, <a href=\"/education/misc/gcompris.lt.png\">64 KB</a>"
+msgstr ""
+"Litvanyaca arayüz, png, <a href=\"/education/misc/gcompris-sm.lt.png\">24 "
+"KB</a>, <a href=\"/education/misc/gcompris.lt.png\">64 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Malayalam, png, <a href=\"/education/misc/gcompris-sm.ml.png"
+"\">24 KB</a>, <a href=\"/education/misc/gcompris.ml.png\">64 KB</a>"
+msgstr ""
+"Malayalamca arayüz, png, <a href=\"/education/misc/gcompris-sm.ml.png\">24 "
+"KB</a>, <a href=\"/education/misc/gcompris.ml.png\">64 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Portuguese, png, <a href=\"/education/misc/gcompris-sm.pt.png"
+"\">24 KB</a>, <a href=\"/education/misc/gcompris.pt.png\">63 KB</a>"
+msgstr ""
+"Portekizce arayüz, png, <a href=\"/education/misc/gcompris-sm.pt.png\">24 "
+"KB</a>, <a href=\"/education/misc/gcompris.pt.png\">63 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Portuguese (Brazilian), png, <a href=\"/education/misc/gcompris-"
+"sm.pt-br.png\">24 KB</a>, <a href=\"/education/misc/gcompris.pt-br.png\">64 "
+"KB</a>"
+msgstr ""
+"Brezilya Portekizcesi arayüz, png, <a href=\"/education/misc/gcompris-sm.pt-"
+"br.png\">24 KB</a>, <a href=\"/education/misc/gcompris.pt-br.png\">64 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Spanish, png, <a href=\"/education/misc/gcompris-sm.es.png\">23 "
+"KB</a>, <a href=\"/education/misc/gcompris.es.png\">63 KB</a>"
+msgstr ""
+"İspanyolca arayüz, png, <a href=\"/education/misc/gcompris-sm.es.png\">23 "
+"KB</a>, <a href=\"/education/misc/gcompris.es.png\">63 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Turkish, png, <a href=\"/education/misc/gcompris-sm.tr.png\">28 "
+"KB</a>, <a href=\"/education/misc/gcompris.tr.png\">64 KB</a>"
+msgstr ""
+"Türkçe arayüz, png, <a href=\"/education/misc/gcompris-sm.tr.png\">28 KB</"
+"a>, <a href=\"/education/misc/gcompris.tr.png\">64 KB</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Interface in Ukranian, png, <a href=\"/education/misc/gcompris-sm.uk.png"
+"\">23 KB</a>, <a href=\"/education/misc/gcompris.uk.png\">62 KB</a>"
+msgstr ""
+"Ukraynaca arayüz, png, <a href=\"/education/misc/gcompris-sm.uk.png\">23 KB</"
+"a>, <a href=\"/education/misc/gcompris.uk.png\">62 KB</a>"
 
 #. type: Content of: <div><h3>
 msgid "Videos"
@@ -472,7 +545,7 @@ msgstr "Video Dökümleri ve Açıklamaları"
 
 #. type: Content of: <div><ul><li>
 msgid "Transcriptions of Richard Stallman's video on education"
-msgstr "Richard Stallman'ın eğitim videosu dökümü:"
+msgstr "Richard Stallman'ın eğitim videosu dökümleri:"
 
 #. type: Content of: <div><p>
 msgid ""
