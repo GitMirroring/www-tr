@@ -12,8 +12,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: can-you-trust.html\n"
-"POT-Creation-Date: 2020-10-26 13:25+0000\n"
-"PO-Revision-Date: 2020-10-27 07:20+0100\n"
+"POT-Creation-Date: 2020-12-08 11:55+0000\n"
+"PO-Revision-Date: 2020-12-09 17:18+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -391,13 +391,11 @@ msgstr ""
 
 #. type: Content of: <ol><li><p>
 msgid ""
-"The supporters of treacherous computing focus their discourse on its <a name="
-"\"beneficial\">beneficial uses</a>.  What they say is often correct, just "
-"not important."
+"The supporters of treacherous computing focus their discourse on its "
+"beneficial uses.  What they say is often correct, just not important."
 msgstr ""
-"Güvensiz hesaplamanın destekçileri söylemlerinin odak noktasını <a name="
-"\"beneficial\">yararlı kullanımlar</a> oluşturur. Söyledikleri genellikle "
-"doğrudur, sadece önemsizdir."
+"Güvensiz hesaplamanın destekçilerinin söylemlerinin odak noktasını yararlı "
+"kullanımlar oluşturur. Söyledikleri genellikle doğrudur, ama önemsizdir."
 
 #. type: Content of: <ol><li><p>
 msgid ""

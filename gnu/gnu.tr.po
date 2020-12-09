@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
-"POT-Creation-Date: 2020-05-06 01:25+0000\n"
-"PO-Revision-Date: 2020-05-06 18:12+0200\n"
+"POT-Creation-Date: 2020-12-08 12:25+0000\n"
+"PO-Revision-Date: 2020-12-09 17:15+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid "The GNU Operating System - GNU project - Free Software Foundation"
@@ -35,8 +35,8 @@ msgid "<a href=\"/distros/free-distros.html\">"
 msgstr "<a href=\"/distros/free-distros.html\">"
 
 #. type: Attribute 'alt' of: <div><p><a><img>
-msgid "GNU and Linux"
-msgstr "GNU ve Linux"
+msgid "&nbsp;[GNU and Linux]&nbsp;"
+msgstr "&nbsp;[GNU ve Linux]&nbsp;"
 
 #. type: Content of: <div><p>
 msgid "</a>"
@@ -160,8 +160,8 @@ msgid "<a href=\"/gnu/yes-give-it-away.html\">Yes, Give It Away</a> (1983)"
 msgstr "<a href=\"/gnu/yes-give-it-away.html\">Evet, Onu Verin</a> (1983)"
 
 #. type: Content of: <h3>
-msgid "<a id=\"gnulinux\"></a>GNU and Linux"
-msgstr "<a id=\"gnulinux\"></a>GNU ve Linux"
+msgid "GNU and Linux"
+msgstr "GNU ve Linux"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -190,8 +190,8 @@ msgid "<a href=\"/gnu/gnu-linux-faq.html\">A GNU/Linux FAQ</a>"
 msgstr "<a href=\"/gnu/gnu-linux-faq.html\">GNU/Linux SSS</a>"
 
 #. type: Content of: <h3>
-msgid "<a id=\"misc\"></a>Other GNU-related resources"
-msgstr "<a id=\"misc\"></a>Diğer GNU ile ilişkili kaynaklar"
+msgid "Other GNU-related resources"
+msgstr "GNU ilişkili diğer kaynaklar"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -202,12 +202,12 @@ msgstr ""
 "özgür yazılım kullanıcı grupları</a>"
 
 #. type: Content of: <h3>
-msgid "<a id=\"elsewhere\"></a>GNU elsewhere"
-msgstr "<a id=\"elsewhere\"></a>GNU başka yerde"
+msgid "GNU elsewhere"
+msgstr "Başka yerlerde GNU"
 
 #. type: Content of: <h4>
-msgid "<a id=\"asteroid\"></a>(9965) GNU"
-msgstr "<a id=\"asteroid\"></a>(9965) GNU"
+msgid "(9965) GNU"
+msgstr "(9965) GNU"
 
 #. type: Content of: <p>
 msgid ""
@@ -302,3 +302,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "<a id=\"gnulinux\"></a>GNU and Linux"
+#~ msgstr "<a id=\"gnulinux\"></a>GNU ve Linux"
+
+#~ msgid "<a id=\"elsewhere\"></a>GNU elsewhere"
+#~ msgstr "<a id=\"elsewhere\"></a>GNU başka yerde"
+
+#~ msgid "<a id=\"asteroid\"></a>(9965) GNU"
+#~ msgstr "<a id=\"asteroid\"></a>(9965) GNU"
