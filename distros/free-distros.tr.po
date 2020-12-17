@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2020-07-21 08:55+0000\n"
-"PO-Revision-Date: 2020-07-23 07:22+0200\n"
+"POT-Creation-Date: 2020-12-12 13:55+0000\n"
+"PO-Revision-Date: 2020-12-17 18:14+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -201,11 +201,11 @@ msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Dragora GNU/Linux-Libre, an independent GNU/Linux distribution based on "
-"concepts of simplicity."
+"<em>Dragora GNU/Linux-Libre</em>, an independent GNU/Linux distribution "
+"based on concepts of simplicity."
 msgstr ""
-"Dragora GNU/Linux-Libre, basitlik kavramlarına dayalı bağımsız bir GNU/Linux "
-"dağıtımıdır."
+"<em>Dragora GNU/Linux-Libre</em>, basitlik kavramlarına dayalı bağımsız bir "
+"GNU/Linux dağıtımıdır."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://www.dyne.org/software/dynebolic/\">"
@@ -217,14 +217,15 @@ msgstr "Dyne:bolic"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Dyne:bolic, a GNU/Linux distribution with special emphasis on audio and "
-"video editing. This is a &ldquo;static&rdquo; distro, normally run from a "
-"live CD. Since it will not receive security updates, it should be used "
+"<em>Dyne:bolic</em>, a GNU/Linux distribution with special emphasis on audio "
+"and video editing. This is a &ldquo;static&rdquo; distro, normally run from "
+"a live CD. Since it will not receive security updates, it should be used "
 "offline."
 msgstr ""
-"Dyne:bolic, ses ve görüntü düzenlemeye odaklı bir GNU/Linux dağıtımıdır. Bu "
-"&ldquo;statik&rdquo; bir dağıtımdır, normal CD üstünden çalışır. Güvenlik "
-"güncellemesi almadığı için, çevrimdışı olarak kullanılmalıdır."
+"<em>Dyne:bolic</em>,, ses ve görüntü düzenlemeye odaklı bir GNU/Linux "
+"dağıtımıdır. Bu &ldquo;statik&rdquo; bir dağıtımdır, normalde canlı CD "
+"üstünden çalışır. Güvenlik güncellemesi almadığı için, çevrimdışı olarak "
+"kullanılmalıdır."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.gnewsense.org/\">"
@@ -236,10 +237,11 @@ msgstr "gNewSense"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"gNewSense, a GNU/Linux distribution based on Debian, with sponsorship from "
-"the FSF."
+"<em>gNewSense</em>, a GNU/Linux distribution based on Debian, with "
+"sponsorship from the FSF."
 msgstr ""
-"gNewSense, FSF sponsorluğunda Debian tabanlı bir GNU/Linux dağıtımıdır."
+"<em>gNewSense</em>, FSF sponsorluğunda Debian tabanlı bir GNU/Linux "
+"dağıtımıdır."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/software/guix/\">"
@@ -251,13 +253,13 @@ msgstr "guix"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Guix System, an advanced GNU/Linux distro built on top of GNU Guix "
+"<em>Guix System</em>, an advanced GNU/Linux distro built on top of GNU Guix "
 "(pronounced &ldquo;geeks&rdquo;), a purely functional package manager for "
 "the GNU system."
 msgstr ""
-"Guix sistemi, GNU sistemi için saf işlevsel paket yöneticisi olan GNU "
-"Guix'in (&ldquo;geeks'ten&rdquo; türetilmiştir) üstüne kurulu ileri düzey "
-"bir GNU/Linux dağıtımıdır."
+"<em>Guix sistemi</em>, GNU sistemi için tamamen işlevsel bir paket "
+"yöneticisi olan GNU Guix'in (&ldquo;geeks&rdquo; olarak telafuz edilir) "
+"üstüne kurulu gelişmiş bir GNU/Linux dağıtımıdır."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://www.hyperbola.info/\">"
@@ -269,11 +271,11 @@ msgstr "Hyperbola"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Hyperbola GNU/Linux-libre, a long-term support simplicity-focused "
+"<em>Hyperbola GNU/Linux-libre</em>, a long-term support simplicity-focused "
 "distribution based on Arch GNU/Linux."
 msgstr ""
-"Hyperbola GNU/Linux-libre, uzun süreli desteğe sahip, basitliğe odaklı, Arch "
-"GNU/Linux tabanlı bir dağıtımdır."
+"<em>Hyperbola GNU/Linux-libre</em>, uzun süreli desteğe sahip, basitliğe "
+"odaklı, Arch GNU/Linux tabanlı bir dağıtımdır."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://www.parabola.nu\">"
@@ -285,11 +287,11 @@ msgstr "Parabola GNU/Linux-libre"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Parabola GNU/Linux-libre, a distribution based on Arch that prioritizes "
-"simple package and system management."
+"<em>Parabola GNU/Linux-libre</em>, a distribution based on Arch that "
+"prioritizes simple package and system management."
 msgstr ""
-"Parabola GNU/Linux-libre, basit paket ve sistem yönetimine öncelik veren "
-"Arch tabanlı bir dağıtımdır."
+"<em>Parabola GNU/Linux-libre</em>, basit paket ve sistem yönetimine öncelik "
+"veren Arch tabanlı bir dağıtımdır."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://pureos.net/\">"
@@ -301,11 +303,11 @@ msgstr "PureOS"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"PureOS, a GNU distribution based on Debian with a focus on privacy, "
+"<em>PureOS</em>, a GNU distribution based on Debian with a focus on privacy, "
 "security, and convenience."
 msgstr ""
-"PureOS gizlilik, güvenlik ve kolaylığa odaklanmış Debian tabanlı bir GNU "
-"dağıtımıdır."
+"<em>PureOS</em>, gizlilik, güvenlik ve kolaylığa odaklanmış Debian tabanlı "
+"bir GNU dağıtımıdır."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://trisquel.info/\">"
@@ -317,11 +319,11 @@ msgstr "Trisquel"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Trisquel, a GNU/Linux distribution based on Ubuntu that's oriented toward "
-"small enterprises, domestic users and educational centers."
+"<em>Trisquel</em>, a GNU/Linux distribution based on Ubuntu that's oriented "
+"toward small enterprises, domestic users and educational centers."
 msgstr ""
-"Trisquel, küçük işletmelere, ev kullanıcılarına ve eğitim merkezlerine "
-"yönelik Ubuntu tabanlı bir GNU/Linux dağıtımıdır."
+"<em>Trisquel</em>, küçük işletmelere, ev kullanıcılarına ve eğitim "
+"merkezlerine yönelik Ubuntu tabanlı bir GNU/Linux dağıtımıdır."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://www.ututo.org/\">"
@@ -333,11 +335,11 @@ msgstr "Ututo"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Ututo S, a GNU/Linux 100% free distribution.  It was the first fully free "
-"GNU/Linux system recognized by the GNU Project."
+"<em>Ututo S</em>, a GNU/Linux 100% free distribution.  It was the first "
+"fully free GNU/Linux system recognized by the GNU Project."
 msgstr ""
-"Ututo S, %100 özgür bir GNU/Linux dağıtımıdır. GNU projesi tarafından ilk "
-"onaylanan tamamıyla özgür bir GNU/Linux sistemidir."
+"<em>Ututo S</em> %100 özgür bir GNU/Linux dağıtımıdır. GNU projesi "
+"tarafından ilk onaylanan tamamıyla özgür bir GNU/Linux sistemidir."
 
 #. type: Content of: <h3>
 msgid "Small GNU/Linux distros"
@@ -369,14 +371,15 @@ msgstr "libreCMC"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"libreCMC is an embedded GNU/Linux distro for devices with very limited "
-"resources. While primarily targeting routers, it offers support for a wide "
-"range of devices and use cases. In 2015, LibreWRT merged with libreCMC."
+"<em>libreCMC</em> is an embedded GNU/Linux distro for devices with very "
+"limited resources. While primarily targeting routers, it offers support for "
+"a wide range of devices and use cases. In 2015, LibreWRT merged with "
+"libreCMC."
 msgstr ""
-"libreCMC çok sınırlı kaynaklara sahip aygıtlar için gömülü bir GNU/Linux "
-"dağıtımıdır. Öncelikle yönlendiricilere odaklansa da, çok çeşitli cihaz ve "
-"kullanım durumlarına da destek sağlamaktadır. 2015'te LibreWRT, libreCMC ile "
-"birleşti."
+"<em>libreCMC</em> çok sınırlı kaynaklara sahip aygıtlar için gömülü bir GNU/"
+"Linux dağıtımıdır. Esasen yönlendiricilere odaklansa da, çok çeşitli cihaz "
+"ve kullanım durumlarına da destek sağlamaktadır. 2015'te LibreWRT, libreCMC "
+"ile birleşti."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"http://proteanos.com/\">"
@@ -388,13 +391,14 @@ msgstr "ProteanOS"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"ProteanOS is a new, small, and fast distribution for embedded devices. Its "
-"platform configuration feature allows binary packages to be configured at "
-"build-time and run-time for different hardware and use cases."
+"<em>ProteanOS</em> is a new, small, and fast distribution for embedded "
+"devices. Its platform configuration feature allows binary packages to be "
+"configured at build-time and run-time for different hardware and use cases."
 msgstr ""
-"ProteanOS gömülü aygıtlar için yeni, küçük ve hızlı bir dağıtımdır. Platform "
-"yapılandırma özelliği, ikili paketlerin farklı donanım ve kullanım durumları "
-"için derleme sırasında ve çalışma zamanında yapılandırılmasını sağlıyor."
+"<em>ProteanOS</em> gömülü aygıtlar için yeni, küçük ve hızlı bir dağıtımdır. "
+"Platform yapılandırma özelliği, ikili paketlerin farklı donanım ve kullanım "
+"durumları için derleme sırasında ve çalışma zamanında yapılandırılmasını "
+"sağlıyor."
 
 #. type: Content of: <h3>
 msgid "How to get free GNU/Linux distros"
@@ -504,16 +508,16 @@ msgid "BLAG Linux and GNU"
 msgstr "BLAG Linux ve GNU"
 
 #. type: Content of: <table><tr><td>
-msgid "BLAG Linux and GNU, a GNU/Linux distribution based on Fedora."
-msgstr "BLAG Linux ve GNU, Fedora tabanlı bir GNU/Linux dağıtımıdır."
+msgid "<em>BLAG Linux and GNU</em>, a GNU/Linux distribution based on Fedora."
+msgstr "<em>BLAG Linux and GNU</em>, Fedora tabanlı bir GNU/Linux dağıtımıdır."
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<em>Removed June 2018</em>. Removed at the request of the maintainers, as "
-"they had stopped maintaining it."
+"<em>Removed June 2018</em> at the request of the maintainers, as they had "
+"stopped maintaining it."
 msgstr ""
-"<em>Haziran 2018'de kaldırıldı</em>. Geliştirilmesi durdurulduğu için "
-"geliştiricilerin isteği üzerine kaldırıldı."
+"Geliştirilmesi durdurulduğu için geliştiricilerin isteği üzerine <em>Haziran "
+"2018'de kaldırıldı</em>."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://musixdistro.wordpress.com/\">"
@@ -525,23 +529,23 @@ msgstr "Musix GNU+Linux"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Musix, a GNU+Linux distribution based on Knoppix, with special emphasis on "
-"audio production. This is a &ldquo;static&rdquo; distro, normally run from a "
-"live CD. Since it will not receive security updates, it should be used "
-"offline."
+"<em>Musix</em>, a GNU+Linux distribution based on Knoppix, with special "
+"emphasis on audio production. This is a &ldquo;static&rdquo; distro, "
+"normally run from a live CD. Since it will not receive security updates, it "
+"should be used offline."
 msgstr ""
-"Musix, ses prodüksiyonu üstünde duran Knoppix tabanlı bir GNU+Linux "
-"dağıtımıdır. Bu &ldquo;statik&rdquo; bir dağıtımdır, normal CD üstünden "
+"<em>Musix</em>, ses prodüksiyonu üstünde duran Knoppix tabanlı bir GNU+Linux "
+"dağıtımıdır. Bu &ldquo;statik&rdquo; bir dağıtımdır, canlı CD üstünden "
 "çalışır. Güvenlik güncellemesi almadığı için, çevrimdışı olarak "
 "kullanılmalıdır."
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<em>Removed March 2019</em>. Removed at the request of the maintainer, as "
-"they had stopped maintaining it."
+"<em>Removed March 2019</em> at the request of the maintainer, as they had "
+"stopped maintaining it."
 msgstr ""
-"<em>Mart 2019'da kaldırıldı</em>. Geliştirilmesi durdurulduğu için "
-"geliştiricilerin isteği üzerine kaldırıldı."
+"Geliştirilmesi durdurulduğu için geliştiricilerin isteği üzerine <em>Mart "
+"2019'da kaldırıldı</em>."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

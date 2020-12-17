@@ -7,15 +7,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-non-gnu-distros.html\n"
-"POT-Creation-Date: 2020-02-06 15:26+0000\n"
-"PO-Revision-Date: 2020-02-07 19:50+0100\n"
+"POT-Creation-Date: 2020-12-12 13:55+0000\n"
+"PO-Revision-Date: 2020-12-17 18:07+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. type: Content of: <title>
@@ -61,13 +61,13 @@ msgstr "</a>"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"Replicant is the free version of Android.  The Replicant developers have "
-"replaced many nonfree libraries, for certain phone models.  The nonfree apps "
-"are excluded, but you certainly don't want to use those."
+"<em>Replicant</em> is the free version of Android.  The Replicant developers "
+"have replaced many nonfree libraries, for certain phone models.  The nonfree "
+"apps are excluded, but you certainly don't want to use those."
 msgstr ""
-"Replicant, Android'in özgür sürümüdür. Replicant geliştiricileri, bazı "
-"telefon modelleri için birçok özgür olmayan kütüphaneyi başkalarıyla "
-"değiştirmiştir. Özgür olmayan uygulamalar hariç tutulur ancak kesinlikle "
+"<em>Replicant</em>, Android'in özgür sürümüdür. Replicant geliştiricileri, "
+"bazı telefon modelleri için birçok özgür olmayan kütüphaneyi başkalarıyla "
+"değiştirmiştir. Özgür olmayan uygulamalar mevcut değildir, zaten kesinlikle "
 "bunları kullanmak istemezsiniz."
 
 #. type: Content of: <p>
