@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-non-gnu-distros.html\n"
-"POT-Creation-Date: 2020-12-12 13:55+0000\n"
-"PO-Revision-Date: 2020-12-17 18:07+0100\n"
+"POT-Creation-Date: 2021-01-01 05:25+0000\n"
+"PO-Revision-Date: 2021-01-15 18:30+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -115,14 +115,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -136,8 +136,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2015, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2015, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

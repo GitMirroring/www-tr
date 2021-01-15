@@ -1,20 +1,20 @@
 # Turkish translation of https://www.gnu.org/distros/common-distros.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# 
+#
 # The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2019-08-14 19:55+0000\n"
-"PO-Revision-Date: 2020-04-01 22:11+0300\n"
-"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
+"POT-Creation-Date: 2020-12-26 14:25+0000\n"
+"PO-Revision-Date: 2021-01-15 18:29+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 19.12.3\n"
+"X-Generator: Poedit 2.4.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
@@ -382,17 +382,18 @@ msgstr "SteamOS"
 msgid ""
 "SteamOS, a version of GNU/Linux to be distributed by Valve. It contains "
 "proprietary software, including the Steam client and proprietary drivers. "
-"Steam uses <a href=\"https://www.defectivebydesign.org/what_is_drm\">Digital "
-"Restrictions Management (DRM)</a> to impose restrictions on the software it "
-"distributes, as well as on the proprietary software it promotes via the "
-"Steam store."
+"Steam uses <a href=\"https://www.defectivebydesign.org/"
+"what_is_drm_digital_restrictions_management\">Digital Restrictions "
+"Management (DRM)</a> to impose restrictions on the software it distributes, "
+"as well as on the proprietary software it promotes via the Steam store."
 msgstr ""
 "SteamOS, Valve tarafından dağıtılacak GNU/Linux sürümü. Steam istemcisi ve "
-"sahipli sürücüler de dâhil olmak üzere sahipli bir yazılım içerir. Steam, "
-"dağıttığı yazılımın yanı sıra Steam mağazası aracılığıyla tanıttığı sahipli "
-"yazılım üzerinde kısıtlamalar getirmek için <a href=\"https://www."
-"defectivebydesign.org/what_is_drm\">Dijital Sınırlamalar Yönetimi (DRM "
-"[Digital Restrictions Management])</a> kullanır."
+"özel mülkiyet sürücüler de dâhil olmak üzere özel mülkiyet bir yazılım "
+"içerir. Steam, dağıttığı yazılımın yanı sıra Steam mağazası aracılığıyla "
+"tanıttığı özel mülkiyet yazılım üzerinde kısıtlamalar getirmek için <a href="
+"\"https://www.defectivebydesign.org/"
+"what_is_drm_digital_restrictions_management\">Dijital Kısıtlamalar Yönetimi "
+"(DRM)</a> kullanır."
 
 #. type: Content of: <h3>
 msgid "SUSE GNU/Linux Enterprise"
@@ -676,10 +677,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019 Free Software "
+"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>

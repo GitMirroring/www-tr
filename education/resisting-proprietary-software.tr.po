@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: resisting-proprietary-software.html\n"
-"POT-Creation-Date: 2020-11-08 19:25+0000\n"
-"PO-Revision-Date: 2020-11-09 20:32+0100\n"
+"POT-Creation-Date: 2021-01-02 19:55+0000\n"
+"PO-Revision-Date: 2021-01-15 18:36+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -111,8 +111,8 @@ msgid ""
 msgstr ""
 "Bununla birlikte <a href=\"https://www.eff.org/issues/student-privacy\">bu "
 "programları dağıtan şirketlerin, kullanıcılarının profillerini çıkarmak "
-"amacıyla kişisel verileri toplamak için kullandığı</a><a href=\"#cloud\">(1)"
-"</a> bir sır değil. Bu veriler, dolayısıyla, Devlet tarafından ele "
+"amacıyla kişisel verileri toplamak için kullandığı</a><a href=\"#cloud"
+"\">(1)</a> bir sır değil. Bu veriler, dolayısıyla, Devlet tarafından ele "
 "geçirilebilir. Öğrencilerini gözetlenmekten korumak okulların ahlaki "
 "sorumluluğudur ancak okul bunu yapmakta başarısız olursa öğrenciler ve "
 "öğrencilerin ebeveynleri karşı çıkmalı ve bunun olmasına izin vermemelidir."
@@ -153,26 +153,26 @@ msgstr ""
 "software.html\"> özgür olmayan yazılıma karşı başarılı direniş</a> "
 "örneklerini inceleyin."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "Footnote"
 msgstr "Dipnot"
 
-#. type: Content of: <div><div><ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "The article cited uses the word &ldquo;cloud&rdquo; to refer to computing "
 "done on servers owned by third parties.  The term is too broad, it "
 "generalizes about various uses of servers that are totally different from a "
 "moral point of view.  See more about why <a href=\"/philosophy/words-to-"
-"avoid.html.en#CloudComputing\"> the GNU Project strongly recommends not to "
-"use the term &ldquo;cloud&rdquo;</a>."
+"avoid.html#CloudComputing\"> the GNU Project strongly recommends not to use "
+"the term &ldquo;cloud&rdquo;</a>."
 msgstr ""
 "Alıntı yapılan makale, üçüncü tarafların sahip olduğu sunucularda yapılan "
 "bilişime atıfta bulunmak için &ldquo;cloud (<em>bulut</em>)&rdquo; sözcüğünü "
 "kullanır. Terim çok geniştir, ahlaki açıdan tamamen farklı olan çeşitli "
 "sunucu kullanımlarını genelleştirir. <a href=\"/philosophy/words-to-avoid."
-"html.en#CloudComputing\">GNU Projesi'nin niçin &ldquo;cloud (<em>bulut</em>)"
-"&rdquo; terimini kullanmamayı çok ciddi bir şekilde önerdiği</a> hakkında "
-"daha fazla bilgi edinin."
+"html.en#CloudComputing\">GNU Projesi'nin niçin &ldquo;cloud (<em>bulut</"
+"em>)&rdquo; terimini kullanmamayı çok ciddi bir şekilde önerdiği</a> "
+"hakkında daha fazla bilgi edinin."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div><div>
@@ -221,8 +221,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

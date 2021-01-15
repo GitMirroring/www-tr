@@ -7,15 +7,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-argentina-ecen.html\n"
-"POT-Creation-Date: 2020-11-10 17:25+0000\n"
-"PO-Revision-Date: 2020-05-31 08:49+0200\n"
+"POT-Creation-Date: 2020-12-30 11:25+0000\n"
+"PO-Revision-Date: 2021-01-15 18:31+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -63,7 +63,7 @@ msgstr ""
 msgid "Escuela Cristiana Evangélica de Neuquén (ECEN)"
 msgstr "Escuela Cristiana Evangélica de Neuquén (ECEN)"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The following information was extracted from a report submitted to us by "
 "ECEN Elementary Teacher Debora Badilla Huento. Her commitment played a key "
@@ -354,7 +354,7 @@ msgstr ""
 "Özveri ve azim gerektirse de süreç keyifliydi. Şimdi diğer eğitim "
 "topluluklarına yardımcı olmak için öğrendiklerimizi yayıyoruz."
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We would like to express our appreciation for the excellent work done to all "
 "the people involved in the migration effort."

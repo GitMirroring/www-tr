@@ -7,15 +7,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-india-irimpanam.html\n"
-"POT-Creation-Date: 2020-11-10 17:25+0000\n"
-"PO-Revision-Date: 2020-06-21 09:37+0200\n"
+"POT-Creation-Date: 2020-12-30 11:25+0000\n"
+"PO-Revision-Date: 2021-01-15 18:33+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -61,7 +61,7 @@ msgstr ""
 msgid "Vocational Higher Secondary School Irimpanam"
 msgstr "Irimpanam Mesleki Okulu"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The following report is based on information provided to us by the school's "
 "staff."
@@ -391,7 +391,7 @@ msgstr ""
 "yıl National Free Software Conference ve Cyber Safe Day gibi etkinliklere "
 "katılırlar."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The commitment and the collaboration of teachers, students and local groups "
 "was essential to the success of this large scale government project."
