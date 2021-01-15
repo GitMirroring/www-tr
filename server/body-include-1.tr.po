@@ -93,7 +93,7 @@ msgstr ""
 msgid "&nbsp;[Search www.gnu.org]&nbsp;"
 msgstr "&nbsp;[www.gnu.org'da Ara]&nbsp;"
 
-#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/"
+#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/" 
 #. type: Content of: <div><div><a>
 msgid ""
 "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container\">"
