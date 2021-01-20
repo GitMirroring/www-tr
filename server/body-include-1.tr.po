@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2021-01-04 19:55+0000\n"
-"PO-Revision-Date: 2021-01-15 19:03+0100\n"
+"POT-Creation-Date: 2021-01-20 10:25+0000\n"
+"PO-Revision-Date: 2021-01-20 17:39+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -23,43 +23,39 @@ msgstr ""
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
 
-#. type: Content of: <div><div><p>
-msgid ""
-"<a href=\"https://fsf.org/appeal?pk_campaign=fall20&amp;pk_kwd=banner\"> "
-"Your membership fuels the voyage forward, and will help us reach our "
-"ultimate destination: full software freedom.  Become an associate member by "
-"January 18th.  <span class=\"highlight\">Read more &gt;</span></a>"
-msgstr ""
-"<a href=\"https://fsf.org/appeal?pk_campaign=fall20&amp;pk_kwd=banner\"> "
-"Üyeliğiniz yolculuğu sürdürmeyi sağlayacak ve nihai hedefimize ulaşmamıza "
-"yardımcı olacaktır: tam yazılım özgürlüğü.  18 Ocak'a kadar üyemiz olun.  "
-"<span class=\"highlight\">Daha fazlası için &gt;</span></a>"
-
-#. type: Content of: <div><div><div><div><a>
-msgid ""
-"<a href=\"https://my.fsf.org/join?pk_campaign=frfall2020&amp;pk_source=banner"
-"\">"
-msgstr ""
-"<a href=\"https://my.fsf.org/join?pk_campaign=frfall2020&amp;pk_source=banner"
-"\">"
-
-#. #endif 
 #. type: Content of: <div><div>
-msgid "</a>"
-msgstr "</a>"
+msgid ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
 
-#. type: Content of: <div><div><div><div><span>
-msgid "</a> <span class=\"percentage\">"
-msgstr "</a> <span class=\"percentage\">"
+#. type: Content of: <div><form><div>
+msgid ""
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
+msgstr ""
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
 
-#. #echo var="joined" 
-#. type: Content of: <div><div><div><div>
-msgid "</span>"
-msgstr "</span>"
+#. type: Content of: <div><form><div><label>
+msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
+msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
 
-#. type: Content of: <div><div><div>
-msgid "<span class=\"goal\">500 members</span>"
-msgstr "<span class=\"goal\">500 üye</span>"
+#. type: Content of: <div><form><div>
+msgid ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+msgstr ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
@@ -104,37 +100,37 @@ msgstr ""
 msgid "&nbsp;[Languages]&nbsp;"
 msgstr "&nbsp;[Languages - Diller]&nbsp;"
 
-#~ msgid ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
+#. #endif 
+#. type: Content of: <div><div>
+msgid "</a>"
+msgstr "</a>"
 
 #~ msgid ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
+#~ "<a href=\"https://fsf.org/appeal?pk_campaign=fall20&amp;pk_kwd=banner\"> "
+#~ "Your membership fuels the voyage forward, and will help us reach our "
+#~ "ultimate destination: full software freedom.  Become an associate member "
+#~ "by January 18th.  <span class=\"highlight\">Read more &gt;</span></a>"
 #~ msgstr ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
-
-#~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
-#~ msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
+#~ "<a href=\"https://fsf.org/appeal?pk_campaign=fall20&amp;pk_kwd=banner\"> "
+#~ "Üyeliğiniz yolculuğu sürdürmeyi sağlayacak ve nihai hedefimize ulaşmamıza "
+#~ "yardımcı olacaktır: tam yazılım özgürlüğü.  18 Ocak'a kadar üyemiz olun.  "
+#~ "<span class=\"highlight\">Daha fazlası için &gt;</span></a>"
 
 #~ msgid ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+#~ "<a href=\"https://my.fsf.org/join?pk_campaign=frfall2020&amp;"
+#~ "pk_source=banner\">"
 #~ msgstr ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
+#~ "<a href=\"https://my.fsf.org/join?pk_campaign=frfall2020&amp;"
+#~ "pk_source=banner\">"
+
+#~ msgid "</a> <span class=\"percentage\">"
+#~ msgstr "</a> <span class=\"percentage\">"
+
+#~ msgid "</span>"
+#~ msgstr "</span>"
+
+#~ msgid "<span class=\"goal\">500 members</span>"
+#~ msgstr "<span class=\"goal\">500 üye</span>"
 
 #~ msgid ""
 #~ "<strong>We can't live<span class=\"hide\">, work, or learn</span> in "
