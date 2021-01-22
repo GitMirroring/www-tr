@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: education-menu.html\n"
 "Report-Msgid-Bugs-To: Webmasters <webmasters@gnu.org>\n"
-"POT-Creation-Date: 2020-11-08 19:56+0000\n"
-"PO-Revision-Date: 2020-11-09 20:33+0100\n"
+"POT-Creation-Date: 2021-01-20 21:56+0000\n"
+"PO-Revision-Date: 2021-01-22 20:25+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -19,8 +19,8 @@ msgstr ""
 "X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <div><div>
-msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#11165;</a>"
-msgstr "<a href=\"#content\"><span>SAYFA BAŞI </span>&#11165;</a>"
+msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#9650;</a>"
+msgstr "<a href=\"#content\"><span>BAŞA DÖN </span>&#9650;</a>"
 
 #. type: Content of: <div><div><h3>
 msgid "Education"

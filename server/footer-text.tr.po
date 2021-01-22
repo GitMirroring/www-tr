@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: footer-text.html\n"
-"POT-Creation-Date: 2020-11-09 22:25+0000\n"
-"PO-Revision-Date: 2020-11-10 18:26+0100\n"
+"POT-Creation-Date: 2021-01-20 22:25+0000\n"
+"PO-Revision-Date: 2021-01-22 20:24+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -20,8 +20,8 @@ msgstr ""
 "X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <div><div>
-msgid "<a href=\"#top\"><b>&#11165;</b></a>"
-msgstr "<a href=\"#top\"><b>&#11165;</b></a>"
+msgid "<a href=\"#top\"><b>&#9650;</b></a>"
+msgstr "<a href=\"#top\"><b>&#9650;</b></a>"
 
 #. type: Content of: <div><div><div>
 msgid "<a href=\"#top\" class=\"close\"><span>BACK TO TOP</span></a>"
@@ -37,8 +37,8 @@ msgid "Available for this page:"
 msgstr "Bu sayfa şu dillerde mevcut:"
 
 #. type: Content of: <div><div>
-msgid "<a href=\"#header\"><span>BACK TO TOP </span>&#11165;</a>"
-msgstr "<a href=\"#header\"><span>BAŞA DÖN </span>&#11165;</a>"
+msgid "<a href=\"#header\"><span>BACK TO TOP </span>&#9650;</a>"
+msgstr "<a href=\"#header\"><span>BAŞA DÖN </span>&#9650;</a>"
 
 #. type: Content of: <div><blockquote><p><a>
 msgid "<a href=\"//www.fsf.org\">"
