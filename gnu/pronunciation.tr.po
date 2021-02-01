@@ -1,0 +1,174 @@
+# Turkish translation of http://www.gnu.org/gnu/pronunciation.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalayci, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pronunciation.html\n"
+"POT-Creation-Date: 2014-05-16 17:25+0000\n"
+"PO-Revision-Date: 2021-02-01 21:35+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#. type: Content of: <title>
+msgid "How To Pronounce GNU - GNU Project - Free Software Foundation"
+msgstr "GNU Nasıl Telaffuz Ediliyor - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "How To Pronounce GNU"
+msgstr "GNU Nasıl Telaffuz Ediliyor"
+
+#. type: Content of: <p>
+msgid ""
+"The name &ldquo;GNU&rdquo; is a recursive acronym for &ldquo;GNU's Not Unix!"
+"&rdquo;; it is pronounced as one syllable with a hard g, like &ldquo;"
+"grew&rdquo; but with the letter &ldquo;n&rdquo; instead of &ldquo;r&rdquo;."
+msgstr ""
+"&ldquo;GNU&rdquo; &ldquo;GNU's Not Unix!&rdquo; [GNU Unix Değildir!] "
+"ifadesinin kısaltmasıdır; sert bir g ile tek bir hece olarak telaffuz "
+"edilmektedir, İngilizcedeki &ldquo;grew&rdquo; gibi ama &ldquo;r&rdquo; "
+"harfi yerine &ldquo;n&rdquo; harfiyle."
+
+#. type: Content of: <p>
+msgid ""
+"This is a recording of <a href=\"http://www.stallman.org/\">Richard "
+"Stallman</a> saying &ldquo;GNU&rdquo; and another with a short explanation "
+"about how GNU was named:"
+msgstr ""
+"Burada <a href=\"http://www.stallman.org/\">Richard Stallman</a>'ın &ldquo;"
+"GNU&rdquo;'yu nasıl telaffuz ettiğini duyabileceğiniz bir ses kaydıyla, GNU "
+"isminin nasıl verildiğini kısaca anlattığı bir diğer ses kaydı var:"
+
+#. type: Content of: <p>
+msgid "<strong>How to say &ldquo;GNU&rdquo;:</strong>"
+msgstr "<strong>&ldquo;GNU&rdquo; nasıl söyleniyor:</strong>"
+
+#. type: Content of: <audio>
+msgid "<a href=\"/audio/gnu-pronunciation.ogg\">How To Say GNU</a>"
+msgstr "<a href=\"/audio/gnu-pronunciation.ogg\">GNU Nasıl Söylenmeli</a>"
+
+#. type: Content of: <p>
+msgid "<strong>How GNU Was Named:</strong>"
+msgstr "<strong>GNU Adı Nasıl Verildi:</strong>"
+
+#. type: Content of: <audio>
+msgid "<a href=\"/audio/how-gnu-was-named.ogg\">How GNU Was Named</a>"
+msgstr "<a href=\"/audio/how-gnu-was-named.ogg\">GNU Adı Nasıl Verildi</a>"
+
+#. type: Content of: <p>
+msgid ""
+"The combination of <a href=\"/gnu/linux-and-gnu.html\">GNU and Linux</a> is "
+"the <strong>GNU/Linux operating system</strong>, now used by millions and "
+"sometimes incorrectly called simply &ldquo;Linux&rdquo;."
+msgstr ""
+"<a href=\"/gnu/linux-and-gnu.html\">GNU ve Linux</a> birleşimi <strong>GNU/"
+"Linux işletim sistemi</strong>dir, şimdi milyonlarca kişi tarafından "
+"kullanılıyor ve kimi zaman yanlış bir şekilde basitçe &ldquo;Linux&rdquo; "
+"olarak adlandırılıyor."
+
+#. type: Content of: <p>
+msgid ""
+"For more detailed information and history of the GNU Operating System visit "
+"<a href=\"/gnu/\">http://www.gnu.org/gnu/</a>"
+msgstr ""
+"GNU İşletim Sistemi hakkında daha ayrıntılı bilgi ve tarihi için <a href=\"/"
+"gnu/\">http://www.gnu.org/gnu/</a> adresini ziyaret edin"
+
+#. type: Content of: <h3>
+msgid "License Of The Recordings"
+msgstr "Kayıtların Lisansları"
+
+#. type: Content of: <p>
+msgid "Copyright (C) 2001 Richard M. Stallman"
+msgstr "Copyright (C) 2001 Richard M. Stallman"
+
+#. type: Content of: <p>
+msgid ""
+"These recordings are licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Bu kayıtlar <a rel=\"license\" href=\"https://creativecommons.org/licenses/"
+"by-nd/3.0/us/deed.tr\">Creative Commons  Atıf-Türetilemez 3.0 Birleşik "
+"Devletler Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2010, 2013, 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2010, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-"
+"nd/3.0/us/deed.tr\">Creative Commons  Atıf-Türetilemez 3.0 Birleşik "
+"Devletler Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalayci, 2021.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
