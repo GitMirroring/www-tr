@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: bill-gates-and-other-communists.html\n"
-"POT-Creation-Date: 2015-10-06 13:55+0000\n"
-"PO-Revision-Date: 2020-11-02 20:10+0100\n"
+"POT-Creation-Date: 2021-01-31 17:25+0000\n"
+"PO-Revision-Date: 2021-02-01 20:03+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -32,10 +32,10 @@ msgstr "Yazan Richard Stallman"
 
 #. type: Content of: <blockquote><p>
 msgid ""
-"Originally published in 2005 in <a href=\"http://cnet.com/au/news/bill-gates-"
-"and-other-communists/\">CNET News.com</a>."
+"Originally published in 2005 in <a href=\"https://www.cnet.com/news/bill-"
+"gates-and-other-communists/\">CNET News.com</a>."
 msgstr ""
-"İlk olarak 2005'te, <a href=\"http://cnet.com/au/news/bill-gates-and-other-"
+"İlk olarak 2005'te, <a href=\"https://www.cnet.com/news/bill-gates-and-other-"
 "communists/\">CNET News.com</a>'da yayımlandı."
 
 #. type: Content of: <p>
@@ -284,8 +284,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2005, 2015 Richard Stallman"
-msgstr "Copyright &copy; 2005, 2015 Richard Stallman"
+msgid "Copyright &copy; 2005, 2015, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2005, 2015, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

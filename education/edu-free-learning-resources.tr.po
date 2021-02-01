@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-free-learning-resources.html\n"
-"POT-Creation-Date: 2020-05-27 11:14+0200\n"
-"PO-Revision-Date: 2020-05-31 08:54+0200\n"
+"POT-Creation-Date: 2021-01-31 17:25+0000\n"
+"PO-Revision-Date: 2021-02-01 20:02+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid "Free Learning Resources - GNU Project - Free Software Foundation"
@@ -119,10 +119,8 @@ msgstr ""
 "\">Copyleft</a>)."
 
 #. type: Content of: <div><div><dl><dt>
-msgid ""
-"<a href=\"http://www.gutenberg.org/wiki/Main_Page\">Project Gutenberg</a>"
-msgstr ""
-"<a href=\"http://www.gutenberg.org/wiki/Main_Page\">Gutenberg Projesi</a>"
+msgid "<a href=\"https://www.gutenberg.org/\">Project Gutenberg</a>"
+msgstr "<a href=\"https://www.gutenberg.org/\">Gutenberg Projesi</a>"
 
 #. type: Content of: <div><div><dl><dd>
 msgid ""
@@ -136,13 +134,13 @@ msgstr ""
 
 #. type: Content of: <div><div><dl><dd><p>
 msgid ""
-"They have a very clear explanation about the <a href=\"http://www.gutenberg."
-"org/wiki/Gutenberg:No_Cost_or_Freedom%3f\"> difference between free as in "
-"price and free as in freedom</a> related to printed material."
+"They have a very clear explanation about the <a href=\"https://www.gutenberg."
+"org/about/background/free_ebook.html\"> difference between free as in price "
+"and free as in freedom</a> related to printed material."
 msgstr ""
-"Basılı materyal ile ilgili <a href=\"http://www.gutenberg.org/wiki/Gutenberg:"
-"No_Cost_or_Freedom%3f\">fiyat olarak bedava ve özgürlük için özgür "
-"arasındaki fark</a> hakkında çok net bir açıklamaları var."
+"Basılı materyale yönelik olarak  <a href=\"https://www.gutenberg.org/about/"
+"background/free_ebook.html\">fiyatının bedava olmasıyla özgür olması "
+"arasındaki fark</a> için çok net bir açıklamaları var."
 
 #. type: Content of: <div><div><dl><dt>
 msgid "GNU Project"
@@ -260,8 +258,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2019, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2019, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019, 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
