@@ -1,0 +1,319 @@
+# Turkish translation of http://www.gnu.org/software/gethelp.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalaycı, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gethelp.html\n"
+"POT-Creation-Date: 2015-09-25 05:55+0000\n"
+"PO-Revision-Date: 2021-02-11 07:18+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. type: Content of: <title>
+msgid "Getting help with GNU software - GNU Project - Free Software Foundation"
+msgstr ""
+"GNU yazılımları için yardım edinmek - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Getting help with GNU software"
+msgstr "GNU yazılımları için yardım edinmek"
+
+#. type: Content of: <p>
+msgid ""
+"The Free Software Foundation does not provide technical support.  Our "
+"mission is developing, preserving, and protecting <a href=\"/philosophy/free-"
+"sw.html\">free software</a>.  We leave it to others to earn a living "
+"providing support.  We see programmers as providing a service, much as "
+"doctors and lawyers do now; both medical and legal knowledge are freely "
+"redistributable, but their practitioners charge for service.  So "
+"<strong>please do not email us or call the FSF Office for technical support."
+"</strong>"
+msgstr ""
+"Özgür Yazılım Vakfı teknik destek sağlamaz. Görevimiz <a href=\"/philosophy/"
+"free-sw.html\">özgür yazılımı</a> korumak ve sürdürmektir. Destek işini "
+"ondan geçimini sürdürmeleri için başkalarına bırakıyoruz. Programcıları, "
+"tıpkı doktorların ve avukatların şimdi yaptığı gibi, hem tıbbi hem de hukuk "
+"bilgisinin özgürce dağıtıldığı günümüzde uygulayıcıların hizmetleri "
+"karşılığında bedel almaları gibi, hizmet sağlayanlar olarak görüyoruz. Bu "
+"nedenle <strong>lütfen teknik destek için FSF ofisini aramayın veya bize e-"
+"posta atmayın.</strong>"
+
+#. type: Content of: <p>
+msgid ""
+"You can obtain <a href=\"/doc/doc.html\">GNU Project documentation</a> "
+"through various methods, which should answer many of your questions."
+msgstr ""
+"Çoğu sorunuzu yanıtlayabilecek olan <a href=\"/doc/doc.html\">GNU Projesi "
+"Belgelerine</a> çeşitli biçimlerde ulaşabilirsiniz."
+
+#. type: Content of: <h3>
+msgid "Reporting bugs"
+msgstr "Hata bildirimi"
+
+#. type: Content of: <p>
+msgid ""
+"Many companies now redistribute GNU software, often as part of a <a href=\"/"
+"distros/free-distros.html\">GNU/Linux distribution</a>.  When you find bugs "
+"in a GNU program that you installed with a given GNU/Linux distribution, "
+"please first try reporting the bug directly to the distributor, not to us, "
+"using the distributor's mailing lists or web forms.  It is common for "
+"distributors to modify the original GNU software we release (as they are "
+"free to do!), and/or distribute older versions.  The maintainers of the "
+"original GNU packages usually have no knowledge of what particular "
+"distributors have done."
+msgstr ""
+"Çoğu şirket günümüzde, sıklıkla <a href=\"/distros/free-distros.html\">GNU/"
+"Linux dağıtımlarının</a> bir parçası olarak, GNU yazılımı dağıtıyor. Belirli "
+"bir GNU/Linux dağıtımında kurduğunuz bir GNU programında bir hata tespit "
+"ettiğinizde, lütfen bu hatayı ilk olarak bize değil, dağıtımcıya, "
+"dağıtımcının e-posta listelerini veya web formlarını kullanarak bildirin. "
+"Dağıtımcıların yayınladığımız GNU yazılımlarını değiştirmeleri (ne de olsa "
+"bunu yapmakta özgürler!) ve/veya eski sürümleri dağıtmaları yaygındır. Asıl "
+"GNU paketlerinin bakım sorumlularının belirli dağıtımcıların ne yaptığına "
+"ilişkin genellikle hiç bir bilgisi yoktur."
+
+#. type: Content of: <p>
+msgid ""
+"However, if you find a deficiency in the canonical release of a GNU package, "
+"we want to know.  You can find out where to report bugs for a given package "
+"as follows:"
+msgstr ""
+"Ancak, bir GNU paketinin asıl sürümünde bir kusur bulursanız bilmek isteriz. "
+"Belirli bir paket için hataları nereye bildireceğinizi şu şekilde "
+"bulabilirsiniz:"
+
+#. type: Content of: <ul><li>
+msgid ""
+"If you run the program on the command line with the <code>--help</code> "
+"option, you should find the location where to report bugs, usually at the "
+"end of the help message."
+msgstr ""
+"Programı komut satırında <code>--help</code> seçeneğiyle çalıştırdığınızda, "
+"hataları nereye bildireceğinizi, genellikle yardım iletisinin sonunda, "
+"görmeniz lazım."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Otherwise, look for the home page of the package.  Usually this is "
+"<code>http://www.gnu.org/software/</code><em>pkgname</em>.  If this doesn't "
+"work or you don't know the package name, information for all GNU packages is "
+"included in the FSF <a href=\"http://directory.fsf.org/wiki/GNU/\">Free "
+"Software Directory</a>.  The home page should also be prominently mentioned "
+"in the package documentation or README files, and is often findable with a "
+"general Internet search."
+msgstr ""
+"Olmazsa, paketin ana sayfasına bakın. Genellikle ana sayfa <code>http://www."
+"gnu.org/software/</code><em>paket_adi</em> adresindedir. Eğer bu çalışmazsa "
+"veya paket ismini bilmiyorsanız, tüm GNU paketleri hakkındaki bilgiler FSF "
+"<a href=\"http://directory.fsf.org/wiki/GNU/\">Özgür Yazılım Dizininde</a> "
+"yer alır. Ana sayfa paket belgelerinde veya BENİOKU (README) dosyalarında "
+"açıkça belirtilmiş olmalıdır ve sıklıkla genel bir İnternet aramasıyla da "
+"bulunabilir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"The email address &lt;bug-<em>pkgname</em>@gnu.org&gt; will generally work "
+"for GNU packages, even if it is not a mailing list in its own right."
+msgstr ""
+"GNU paketleri için &lt;bug-<em>paket_adi</em>@gnu.org&gt; şeklindeki e-posta "
+"adresi, kendi başına bir e-posta listesi olmasa bile, genellikle işe yarar."
+
+#. type: Content of: <ul><li>
+msgid "The source files for a package may give other clues."
+msgstr "Bir paketin kaynak dosyaları başka ipuçları da verecektir."
+
+#. type: Content of: <p>
+msgid ""
+"When we receive a bug report for our canonical releases, we usually try to "
+"fix the problem.  While our bug fixes may seem like individual assistance, "
+"they are not; they are part of preparing a new improved version.  We may "
+"send you a patch for a bug so that you can help us test the fix and ensure "
+"its quality.  If your bug report does not evoke a solution from us, you may "
+"still get one from another user who reads our bug report mailing lists."
+msgstr ""
+"Asıl sürümler için bir hata bildirimi aldığımızda genellikle sorunu çözmeye "
+"çalışırız. Hata düzeltmelerimiz bireysel bir yardım gibi gözükse de, öyle "
+"değildir; geliştirilmiş yeni bir sürüm hazırlamanın bir parçasıdır. "
+"Düzeltmeyi test etmemize ve niteliğinden emin olmamıza yardımcı olmanız için "
+"size bir hata için yama gönderebiliriz. Eğer hata bildiriminiz bizden bir "
+"çözümü ortaya çıkarmasa da, hata takibi e-posta listelerini okuyan bir başka "
+"kullanıcıdan çözüm gelebilir."
+
+#. type: Content of: <p>
+msgid ""
+"In other words, please do not ask us to help you install software or learn "
+"how to use it&mdash;but do tell us how an installation script fails or where "
+"documentation is unclear."
+msgstr ""
+"Başka bir deyişle, lütfen yazılımı kurmanıza veya nasıl kullanacağınızı "
+"öğrenmenize yardımcı olmamızı istemeyin, ama bir kurulum betiğinin nasıl "
+"çalışmadığını veya belgelerin belirsiz olduğu yerleri bize söyleyin."
+
+#. type: Content of: <p>
+msgid ""
+"If an important bug report goes unheeded by the maintainer after a "
+"reasonable time (please allow at least two weeks), you can &ldquo;"
+"escalate&rdquo; the bug by writing to &lt;maintainers@gnu.org&gt;.  This is "
+"especially warranted if you can't find evidence of recent activity by the "
+"maintainer."
+msgstr ""
+"Eğer önemli bir hata bildirimi makul bir süre içerisinde (lütfen en azından "
+"iki hafta izin verin) bakım sorumlusu tarafından yeterince önemsenmezse, "
+"hatayı &lt;maintainers@gnu.org&gt; e-posta adresiyle iletişim kurarak &ldquo;"
+"üst makamlara bildirebilirsiniz&rdquo;. Bu özellikle bakım sorumlusunun son "
+"zamanlardaki faaliyetine ilişkin bir belirti bulamadığınız durumlarda "
+"gereklidir."
+
+#. type: Content of: <p>
+msgid ""
+"When sending a bug report, please do not include very large attachments.  "
+"Messages to GNU mailing lists have a limit of about 200k, and will reject "
+"anything larger than that.  Uploads to <a href=\"http://savannah.gnu.org"
+"\">Savannah</a> have a limit of 16 MB.  The best approach is to put the "
+"files on the web and include a url in your message.  If you have no way to "
+"do that, then ask about it; something can be worked out."
+msgstr ""
+"Hata bildirimi gönderirken, lütfen çok büyük ekler eklemeyin. GNU e-posta "
+"listelerinde iletilerin boyut sınırı 200k civarındadır ve bundan büyük "
+"herşey reddedilecektir. <a href=\"http://savannah.gnu.org\">Savannah</a> "
+"sistemine yüklemelerin sınırı 16 MB'tır. En iyi yaklaşım dosyaları webe "
+"yüklemek ve iletinizde URL bağlantısını paylaşmaktır. Bunu yapmanız mümkün "
+"değilse bize durum hakkında ulaşın, mutlaka yapacak bir şey buluruz."
+
+#. type: Content of: <h3>
+msgid "Getting general help"
+msgstr "Genel yardım edinme"
+
+#. type: Content of: <p>
+msgid ""
+"We host many <a href=\"http://lists.gnu.org/\">mailing lists for GNU and "
+"other free software</a>, both for bug reporting and general discussion and "
+"help.  The mailing lists with names beginning with <code>help-</code> are "
+"lists for getting help from the community.  If you can't find a mailing list "
+"for a particular GNU program, then please use the <a href=\"http://lists.gnu."
+"org/mailman/listinfo/help-gnu-utils/\">help-gnu-utils</a> mailing list."
+msgstr ""
+"<a href=\"http://lists.gnu.org/\">GNU ve diğer özgür yazılımlar için birçok "
+"e-posta listesi</a> barındırıyoruz, hem hata bildirimi hem de genel tartışma "
+"ve yardım için listeler var. Adı <code>help-</code> ile başlayan listeler "
+"topluluktan yardım almaya yöneliktir. Belirli bir GNU programı için bir e-"
+"posta listesi bulamazsanız, bu durumda lütfen <a href=\"http://lists.gnu.org/"
+"mailman/listinfo/help-gnu-utils/\">help-gnu-utils</a> e-posta listesini "
+"kullanın."
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"http://www.fsf.org/resources/service\">FSF Service Directory</"
+"a> is a list of people who offer support and other consulting services.  "
+"(Contact information for new and updated listings is on that page.)"
+msgstr ""
+"<a href=\"http://www.fsf.org/resources/service\">FSF Hizmet Dizini</a> "
+"destek ve diğer danışmanlık hizmetleri sunan kişilerin bir listesidir. (Yeni "
+"ve güncellenmiş listeler için iletişim bilgisi bu sayfadadır.)"
+
+#. type: Content of: <p>
+msgid ""
+"There are also <a href=\"/server/irc-rules.html\">active IRC channels for "
+"GNU software</a> in which you can chat with developers and users."
+msgstr ""
+"Ayrıca geliştirici ve kullanıcılarla sohbet edebildiğiniz <a href=\"/server/"
+"irc-rules.html\">GNU yazılımları için etkin IRC kanalları</a> da var."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2008, 2009, 2010, 2014, 2015 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2008, 2009, 2010, 2014, 2015 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalaycı, 2021.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Please see the <a href=\"/server/standards/README.translations.html"
+#~ "\">Translations README</a> for information on coordinating and "
+#~ "contributing translations of this article."
+#~ msgstr ""
+#~ "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+#~ "önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+#~ "bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili "
+#~ "bilgi için lütfen <a href=\"/server/standards/README.translations.html"
+#~ "\">Çeviriler BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm "
+#~ "sayfaların Türkçe çevirileri gönüllüler tarafından yapılmaktadır; Türkçe "
+#~ "niteliği yüksek bir <a href=\"/home.html\">www.gnu.org</a> için bize "
+#~ "yardımcı olmak istiyorsanız, <a href=\"https://savannah.gnu.org/projects/"
+#~ "www-tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
