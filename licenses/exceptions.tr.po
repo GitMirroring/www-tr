@@ -1,0 +1,198 @@
+# Turkish translation of https://www.gnu.org/licenses/exceptions.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalaycı, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: exceptions.html\n"
+"POT-Creation-Date: 2017-09-04 10:56+0000\n"
+"PO-Revision-Date: 2021-02-12 22:48+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. type: Content of: <title>
+msgid "Exceptions to GNU Licenses - GNU Project - Free Software Foundation"
+msgstr "GNU Lisansları İstisnaları - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Exceptions to GNU Licenses"
+msgstr "GNU Lisansları İstisnaları"
+
+#. type: Content of: <dl><dt>
+msgid "Autoconf Configure Script Exception"
+msgstr "Autoconf Yapılandırma Betiği İstisnası"
+
+#. type: Content of: <p>
+msgid ""
+"The purpose of this exception is to allow distribution of Autoconf's typical "
+"output under terms of the recipient's choice (including proprietary).  This "
+"is necessary because Autoconf includes some of its own code&mdash;which "
+"would otherwise be licensed under GPLv3&mdash;in its output."
+msgstr ""
+"Bu istisnanın amacı Autoconf'un tipik çıktısının alıcının (özel mülk de "
+"dahil) tercihi doğrultusunda dağıtımına izin vermektir. Autoconf'un çıktısı, "
+"aksi durumda GPLv3 altında lisanslanacak olan, kendi kodunu içerdiği için bu "
+"gereklidir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/autoconf-exception.html\">Autoconf Configure Script "
+"Exception</a>"
+msgstr ""
+"<a href=\"/licenses/autoconf-exception.html\">Autoconf Yapılandırma Betiği "
+"İstisnası</a>"
+
+#. type: Content of: <dl><dt>
+msgid "GCC Runtime Library Exception"
+msgstr "GCC Çalışma Zamanı Kütüphanesi İstinası"
+
+#. type: Content of: <p>
+msgid ""
+"The purpose of this exception is to allow developers to compile non-GPLed "
+"software with GCC, as long as they don't use proprietary plugins or other "
+"extensions to the compiler.  An additional permission is needed for this "
+"because GCC normally includes some GPLed code in the binaries it creates."
+msgstr ""
+"Bu istisnanın amacı geliştiricilerin, özel mülk eklentiler veya başka "
+"derleyici uzantıları kullanmadıkları sürece GCC ile GPL olmayan kod "
+"derlemelerine izin vermektir. Bunun için ilave izin gerekmektedir, çünkü "
+"normalde GCC, oluşturduğu ikili dosyalarda bazı GPL'li kodu da içerir."
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/gcc-exception.html\">GCC Runtime Library Exception</a>"
+msgstr ""
+"<a href=\"/licenses/gcc-exception.html\">GCC Çalışma Zamanı Kütüphanesi "
+"İstinası</a>"
+
+#. type: Content of: <ul><li>
+msgid ""
+"<a href=\"/licenses/gcc-exception-faq.html\">Rationale document and "
+"Frequently Asked Questions</a>"
+msgstr ""
+"<a href=\"/licenses/gcc-exception-faq.html\">Gerekçe belgesi ve Sıkça "
+"Sorulan Sorular</a>"
+
+#. type: Content of: <h3>
+msgid "URLs"
+msgstr "URL'ler"
+
+#. type: Content of: <p>
+msgid ""
+"When linking to the exceptions of GNU licenses, it's usually best to link to "
+"the latest version; hence the standard URLs such as http://www.gnu.org/"
+"licenses/gcc-exception.html have no version number.  Occasionally, however, "
+"you may want to link to a specific version of a given license exception.  In "
+"those situations, you can use the following links:"
+msgstr ""
+"GNU lisanslarına istisnaları bağlarken, en son sürüme bağlantı vermek "
+"genellikle en iyisidir. Bu nedenle http://www.gnu.org/licenses/gcc-exception."
+"html gibi standart URL'lerin sürüm numarası yoktur. Ancak arada sırada "
+"belirli bir lisans istisnasının belirli bir sürümüne bağlantı vermek "
+"isteyebilirsiniz. Bu gibi durumlarda, aşağıdaki bağlantıları "
+"kullanabilirsiniz:"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/licenses/autoconf-exception-3.0.html\">Autoconf Configure Script "
+"Exception v3.0</a>"
+msgstr ""
+"<a href=\"/licenses/autoconf-exception-3.0.html\">Autoconf Yapılandırma "
+"Betiği İstisnası 3.0</a>"
+
+#. type: Content of: <dl><dd>
+msgid ""
+"<a href=\"/licenses/gcc-exception-3.1.html\">GCC RLE v3.1</a>, <a href=\"/"
+"licenses/gcc-exception-3.0.html\">GCC RLE v3</a>"
+msgstr ""
+"<a href=\"/licenses/gcc-exception-3.1.html\">GCC RLE v3.1</a>, <a href=\"/"
+"licenses/gcc-exception-3.0.html\">GCC RLE v3</a>"
+
+#. type: Content of: <h3>
+msgid ""
+"<a href=\"/licenses/translations.html#Exceptions\">Unofficial Translations</"
+"a>"
+msgstr ""
+"<a href=\"/licenses/translations.html#Exceptions\">Resmi Olmayan Çeviriler</"
+"a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2009, 2013, 2014, 2017 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2009, 2013, 2014, 2017 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalaycı, 2021.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
