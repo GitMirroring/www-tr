@@ -105,8 +105,8 @@ msgstr "<a href=\"/graphics/gplv3-with-text-136x68.png\">"
 #. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Large GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük GPLv3 "
-"logosu]&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük GPLv3 logosu]"
+"&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 6.6kB (136x68)"
