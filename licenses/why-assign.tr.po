@@ -1,0 +1,177 @@
+# Turkish translation of https://www.gnu.org/licenses/why-assign.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalaycı, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: why-assign.html\n"
+"POT-Creation-Date: 2018-01-01 05:57+0000\n"
+"PO-Revision-Date: 2021-02-13 16:41+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Why the FSF gets copyright assignments from contributors - GNU Project - "
+"Free Software Foundation"
+msgstr ""
+"FSF katkı sağlayanlardan neden telif hakkı devri alıyor - GNU Projesi - "
+"Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Why the FSF gets copyright assignments from contributors"
+msgstr "FSF katkı sağlayanlardan neden telif hakkı devri alıyor"
+
+#. type: Content of: <p>
+msgid ""
+"by <strong>Professor Eben Moglen</strong>, Columbia University Law School"
+msgstr ""
+"yazan <strong>Professor Eben Moglen</strong>, Columbia Üniversitesi Hukuk "
+"Fakültesi"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"[Explanatory note added in Jan 2013: this point applies to the packages that "
+"are FSF-copyrighted.  When the developers of a program make it a GNU "
+"package, they can decide either to give the copyright to the FSF so it can "
+"enforce the GPL for the package, or else to keep the copyright as well as "
+"the responsibility for enforcing the GPL.  If they make it an FSF-"
+"copyrighted package, then the FSF asks for copyright assignments for further "
+"contributions, and this page explains why.  <a href=\"https://www.fsf.org/"
+"bulletin/2014/spring/copyright-assignment-at-the-fsf\"> Additional pertinent "
+"explanation</a>.]"
+msgstr ""
+"[Ocak 2013'te eklenen açıklayıcı not: bu husus FSF'nin telif hakkına sahip "
+"olduğu paketler için geçerlidir. Bir programın geliştiricileri onu GNU "
+"paketi yaparlarsa, telif hakkını FSF'ye devretmek, böylece GPL'in "
+"uygulanmasını FSF'nin yapmasını veya kendilerinde tutmak ve GPL'in "
+"uygulanmasını kendilerinin yapması konusunda karar verebilirler. Eğer telif "
+"hakkı FSF'de olan bir paket yaparlarsa, FSF daha sonraki katkılar için de "
+"telif hakkı devrini ister, bu sayfada bu durumun gerekçesi açıklanıyor. <a "
+"href=\"https://www.fsf.org/bulletin/2014/spring/copyright-assignment-at-the-"
+"fsf\"> Ek ilgili açıklama</a>.]"
+
+#. type: Content of: <p>
+msgid ""
+"Under US copyright law, which is the law under which most free software "
+"programs have historically been first published, there are very substantial "
+"procedural advantages to registration of copyright.  And despite the broad "
+"right of distribution conveyed by the GPL, enforcement of copyright is "
+"generally not possible for distributors: only the copyright holder or "
+"someone having assignment of the copyright can enforce the license.  If "
+"there are multiple authors of a copyrighted work, successful enforcement "
+"depends on having the cooperation of all authors."
+msgstr ""
+"Tarihsel olarak çoğu özgür yazılım programların ilk yayınlandığı yasa olan "
+"ABD telif hakkı yasası altında, telif hakkı kaydının usule ait oldukça "
+"önemli yararları var. Ve GPL'nin taşıdığı geniş dağıtım hakkına rağmen, "
+"telif hakkının uygulanması genellikle bütün dağıtımcılar için mümkün "
+"değildir: yalnızca telif hakkı sahibi veya telif hakkının atandığı bir kişi "
+"lisansı uygulayabilir. Eğer telifli bir çalışmanın birçok yazarı varsa, "
+"başarılı bir uygulama bütün yazarların işbirliğine bağlıdır."
+
+#. type: Content of: <p>
+msgid ""
+"In order to make sure that all of our copyrights can meet the recordkeeping "
+"and other requirements of registration, and in order to be able to enforce "
+"the GPL most effectively, FSF requires that each author of code incorporated "
+"in FSF projects provide a copyright assignment, and, where appropriate, a "
+"disclaimer of any work-for-hire ownership claims by the programmer's "
+"employer.  That way we can be sure that all the code in FSF projects is free "
+"code, whose freedom we can most effectively protect, and therefore on which "
+"other developers can completely rely."
+msgstr ""
+"Tüm telif haklarımızın, kayıt tutmanın ve kaydın diğer gereksinimlerini "
+"karşıladığından emin olmak için ve GPL'i en etkin bir şekilde uygulayabilmek "
+"amacıyla, FSF olarak, FSF projelerine dahil edilen kodların her bir "
+"yazarından bir telif hakkı devri sunmasını ve uygun olduğunda programcının "
+"işvereninden herhangi bir ücret karşılığı iş sahiplik iddialarından feragat "
+"etmesini talep ediyor. Böylece FSF projelerindeki tüm kodların, en etkin bir "
+"şekilde özgürlüğünü koruyabileceğimiz şekilde ve dolayısıyla diğer "
+"geliştiricilerin de tamamen güvenebileceği özgür kod olduklarından emin "
+"olabiliriz."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2001, 2008, 2009, 2014, 2017, 2018 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2001, 2008, 2009, 2014, 2017, 2018 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalaycı, 2021.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
