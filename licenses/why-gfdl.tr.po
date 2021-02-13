@@ -1,0 +1,151 @@
+# Turkish translation of http://www.gnu.org/licenses/why-gfdl.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalaycı, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: why-gfdl.html\n"
+"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"PO-Revision-Date: 2021-02-13 17:07+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. type: Content of: <title>
+msgid ""
+"Why Publishers should Use the GNU FDL - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Yayıncılar neden GNU FDL kullanmalıdır - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "Why publishers should use the GNU FDL"
+msgstr "Yayıncılar neden GNU FDL kullanmalıdır"
+
+#. type: Content of: <p>
+msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <p>
+msgid ""
+"Can technical writers earn money by writing free documentation for free "
+"software? We seriously hope so, and that is the reason for the GNU Free "
+"Documentation License."
+msgstr ""
+"Teknik yazarlar, özgür yazılım için özgür belgeler yazarak para "
+"kazanabilirler mi? Cidden bunu umuyoruz ve bu da GNU Özgür Belgelendirme "
+"Lisansı'nın nedenidir."
+
+#. type: Content of: <p>
+msgid ""
+"The GFDL is meant as a way to enlist commercial publishers in funding free "
+"documentation without surrendering any vital liberty.  The &ldquo;cover "
+"text&rdquo; feature, and certain other aspects of the license that deal with "
+"covers, title page, history, and endorsements, are included to make the "
+"license appealing to commercial publishers for books whose authors are "
+"paid.  To improve the appeal, I consulted specifically with staff of "
+"publishing companies, as well as lawyers, free documentation writers, and "
+"the community at large, in writing the GFDL."
+msgstr ""
+"GFDL, herhangi bir yaşamsal özgürlükten vazgeçmeden, özgür belgelendirmeyi "
+"fonlamada ticari yayıncıların yardımlarını almanın bir yolu olarak "
+"tasarlanmıştı. &ldquo;Kapak yazısı&rdquo; özelliği ve lisansın kapaklar, "
+"başlık sayfası, tarihçe ve destek gibi şeylerle ilgilenen belirli başka "
+"yönleri, yazarlarına ödeme yapılan kitaplar için lisansın ticari yayıncılara "
+"çekici gelmesi için dahil edildi. Çekiciliği arttırmak için, GFDL'i yazarken "
+"özellikle yayınevi şirketlerinin personeline, hukukçulara, özgür "
+"belgelendirme yazarlarına ve genel olarak topluluğa danıştım."
+
+#. type: Content of: <p>
+msgid ""
+"At least two commercial publishers of software manuals have told me they are "
+"interested in using this license.  The future is never a sure thing, but the "
+"GFDL looks like it has a good chance to succeed in shaping a social system "
+"where commercial publishers pay people to write commercial free manuals for "
+"free software."
+msgstr ""
+"En azından iki ticari yazılım kılavuzu yayıncısı bana bu lisansı kullanmakla "
+"ilgilendiklerini söylediler. Geleceğin ne getireceği belli olmaz, ama GFDL, "
+"ticari yayıncıların insanlara özgür yazılım için ticari özgür kılavuzlar "
+"yazmaları karşılığında ödeme yaptığı toplumsal bir sistemi biçimlendirmeyi "
+"başarmak açısından iyi bir şansı var gibi gözüküyor."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2000, 2007, 2008, 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2000, 2007, 2008, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/3.0/us/\">Creative Commons  Atıf-Türetilemez 3.0 Birleşik Devletler "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalaycı, 2021.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: license-logos.html\n"
 "POT-Creation-Date: 2019-06-27 09:56+0000\n"
-"PO-Revision-Date: 2021-02-13 16:44+0100\n"
+"PO-Revision-Date: 2021-02-13 17:06+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -105,8 +105,8 @@ msgstr "<a href=\"/graphics/gplv3-with-text-136x68.png\">"
 #. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Large GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; <a href=\\\"#tn1\\\">[1]</a> metnini "
-"içeren büyük GPLv3 logosu]&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük GPLv3 "
+"logosu]&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 6.6kB (136x68)"
@@ -119,8 +119,8 @@ msgstr "<a href=\"/graphics/lgplv3-with-text-154x68.png\">"
 #. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Large LGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük LGPLv3 "
-"logosu]&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük LGPLv3 logosu]"
+"&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 7.3kB (154x68)"
@@ -134,8 +134,8 @@ msgstr "<a href=\"/graphics/agplv3-with-text-162x68.png\">"
 msgid ""
 "&nbsp;[Large GNU AGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük AGPLv3 "
-"logosu]&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük AGPLv3 logosu]"
+"&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 8.5kB (162x68)"
@@ -152,8 +152,8 @@ msgstr "<a href=\"/graphics/gplv3-with-text-84x42.png\">"
 #. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Small GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük GPLv3 "
-"logosu]&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük GPLv3 logosu]"
+"&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 3.3kB (84x42)"
@@ -166,8 +166,8 @@ msgstr "<a href=\"/graphics/lgplv3-with-text-95x42.png\">"
 #. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Small LGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük LGPLv3 "
-"logosu]&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük LGPLv3 logosu]"
+"&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 3.7kB (95x42)"
@@ -181,8 +181,8 @@ msgstr "<a href=\"/graphics/agplv3-with-text-100x42.png\">"
 msgid ""
 "&nbsp;[Small GNU AGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük AGPLv3 "
-"logosu]&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük AGPLv3 logosu]"
+"&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 4.0kB (100x42)"
@@ -383,9 +383,11 @@ msgstr ""
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
-"<a id=\"tn1\">[1]</a> Bu metnin Türkçesi \"Özgürlükteki gibi Özgür\". \"Free"
-"\" kelimesinin İngilizce'de \"bedelsiz\" ve \"özgür\" şeklinde iki anlamı "
-"olmasından dolayı kullanılan ifade."
+"<ul>\n"
+"<li>\"Free as in Freedom\" ifadesinin Türkçesi \"Özgürlükteki gibi Özgür"
+"\"dür. \"Free\" kelimesinin İngilizce'de \"bedelsiz\" ve \"özgür\" şeklinde "
+"iki anlamı olmasından dolayı kullanılan ifade.</li>\n"
+"</ul>"
 
 #. type: Content of: <div><div><p>
 msgid ""
