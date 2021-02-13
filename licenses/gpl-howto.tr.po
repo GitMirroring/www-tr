@@ -1,0 +1,653 @@
+# Turkish translation of https://www.gnu.org/licenses/gpl-howto.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalaycı, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gpl-howto.html\n"
+"POT-Creation-Date: 2018-06-17 07:26+0000\n"
+"PO-Revision-Date: 2021-02-13 12:01+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. type: Content of: <title>
+msgid ""
+"How to use GNU licenses for your own software - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"Kendi yazılımınız için GNU lisanslarını nasıl kullanabilirsiniz - GNU "
+"Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "How to use GNU licenses for your own software"
+msgstr "Kendi yazılımınız için GNU lisanslarını nasıl kullanabilirsiniz"
+
+#. type: Content of: <p>
+msgid ""
+"This is a brief explanation of how to place a program under the <a href=\"/"
+"licenses/gpl.html\">GNU General Public License</a>, <a href=\"/licenses/lgpl."
+"html\">GNU Lesser General Public License</a>, or <a href=\"/licenses/agpl."
+"html\">GNU Affero General Public License</a>.  For the <a href=\"/licenses/"
+"fdl.html\">GNU Free Documentation License</a>, we have a <a href=\"/licenses/"
+"fdl-howto.html\">separate page</a>."
+msgstr ""
+"Bu, bir programın <a href=\"/licenses/gpl.html\">GNU Genel Kamu Lisansı</a>, "
+"<a href=\"/licenses/lgpl.html\">GNU Kısıtlı Genel Kamu Lisansı</a>, veya <a "
+"href=\"/licenses/agpl.html\">GNU Affero Genel Kamu Lisansı</a> altında nasıl "
+"yayınlanabileceğine ilişkin kısa bir açıklamadır. <a href=\"/licenses/fdl."
+"html\">GNU Özgür Belgeleme Lisansı</a> için, <a href=\"/licenses/fdl-howto."
+"html\">ayrı bir sayfamız</a> var."
+
+#. type: Content of: <p>
+msgid ""
+"For further information, see our list of <a href=\"/licenses/gpl-faq.html"
+"\">frequently asked questions about our licenses</a>."
+msgstr ""
+"Daha fazla bilgi için, <a href=\"/licenses/gpl-faq.html\">lisanslarımız "
+"hakkında sıkça sorulan sorular</a> listemize bakabilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"If you are considering using the GNU Lesser General Public License, please "
+"read the article &ldquo;<a href=\"/licenses/why-not-lgpl.html\">Why you "
+"shouldn't use the LGPL for your next library</a>&rdquo; first.  The article "
+"explains why it may be better to use the ordinary GPL instead, and how we "
+"would make the decision."
+msgstr ""
+"Eğer GNU Kısıtlı Genel Kamu Lisansını kullanmayı düşünüyorsanız, lütfen ilk "
+"önce &ldquo;<a href=\"/licenses/why-not-lgpl.html\">Bir sonraki kütüphaneniz "
+"için neden kısıtlı GPL kullanmamalısınız</a>&rdquo; yazımızı okuyun. Bu yazı "
+"normal GPL kullanmanın neden daha iyi olduğunu ve nasıl karar "
+"alabileceğimizi açıklıyor."
+
+#. type: Content of: <p>
+msgid ""
+"Here's a brief summary of what you need to do to release a program under one "
+"of our licenses:"
+msgstr ""
+"Burada lisanslarımızdan birini kullanarak bir programı nasıl "
+"yayınlayabileceğinize ilişkin kısa bir özet var:"
+
+#. type: Content of: <ul><li>
+msgid "Get a copyright disclaimer from your employer or school."
+msgstr "İşveren veya okulunuzdan telif hakkı feragatnamesi edinin."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Give each file the proper copyright notices. Make sure <a href=\"/licenses/"
+"identify-licenses-clearly.html\">to clearly identify which versions of the "
+"license users can use</a>."
+msgstr ""
+"Her bir dosyaya uygun telif hakkı bildirimlerini koyun. <a href=\"/licenses/"
+"identify-licenses-clearly.html\">Kullanıcıların hangi lisans sürümlerini "
+"kullanabileceğini açıkça belirttiğinizden</a> emin olun."
+
+#. type: Content of: <ul><li>
+msgid "Add a COPYING file with a copy of the GNU GPL or GNU AGPL."
+msgstr ""
+"GNU GPL veya GNU AGPL'nin bir kopyasıyla içeren bir COPYING dosyası ekleyin."
+
+#. type: Content of: <ul><li>
+msgid ""
+"Also add a COPYING.LESSER file with a copy of the GNU LGPL, if you use that."
+msgstr ""
+"Eğer kullanıyorsanız GNU LGPL'nin bir kopyasıyla içeren bir COPYING.LESSER "
+"dosyası ekleyin."
+
+#. type: Content of: <ul><li>
+msgid "Put a license notice in each file."
+msgstr "Her dosyaya bir lisans bildirimi koyun."
+
+#. type: Content of: <ul><li>
+msgid "(Optionally) make the program display a startup notice."
+msgstr ""
+"(İsteğe bağlı olarak) programın bir başlangıç bildirimi göstermesini "
+"sağlayın."
+
+#. type: Content of: <ul><li>
+msgid "(If using the AGPL) make the program offer copies of its source code."
+msgstr ""
+"(AGPL kullanıyorsanız) programın kaynak kodu kopyalarını önermesini sağlayın."
+
+#. type: Content of: <p>
+msgid ""
+"This involves adding two elements to each source file of your program: a "
+"copyright notice (such as &ldquo;Copyright 1999 Terry Jones&rdquo;), and a "
+"statement of copying permission, saying that the program is distributed "
+"under the terms of the GNU General Public License (or the Lesser GPL, or the "
+"Affero GPL)."
+msgstr ""
+"Bu programınızın her kaynak dosyasına iki öğe eklemenizi içerir: bir telif "
+"hakkı bildirimi (örneğin &ldquo;Copyright 1999 Terry Jones&rdquo;), ve "
+"programın GNU Genel Kamu Lisansı (veya Kısıtlı GPL, veya Affero GPL) "
+"şartları altında dağıtıldığını söyleyen kopyalama izni beyanı."
+
+#. type: Content of: <h3>
+msgid "The copyright disclaimer"
+msgstr "Telif hakkı feragatnamesi"
+
+#. type: Content of: <p>
+msgid ""
+"If you are an individual, and you have an employer or study in a school, "
+"it's wise to ask your employer or school to sign a copyright disclaimer for "
+"your program, so it cannot later claim that the copyright belongs to it and "
+"that you had no right to release the program at all.  This really has "
+"nothing to do with the GNU GPL&mdash;it applies no matter which free "
+"software license you use to release the program."
+msgstr ""
+"Eğer bağımsız bir bireyseniz ve bir işvereniniz var veya bir okulda eğitim "
+"görüyorsanız, işvereninize veya okulunuzdan programınız için telif hakkı "
+"feragatnamesi imzalamalarını istemeniz akıllıca olacaktır. Böylece daha "
+"sonra telif hakkının kendilerine ait olduğunu ve programı yayınlamak için "
+"hiç bir hakkınız olmadığını iddia edemeyeceklerdir. Bu GNU GPL'ye özgü bir "
+"şey değil, programı yayınlamak için hangi özgür yazılım lisansını "
+"kullanırsanız kullanın geçerlidir."
+
+#. type: Content of: <p>
+msgid ""
+"Here is a sample copyright disclaimer; just alter the names, title, and "
+"program description as appropriate:"
+msgstr ""
+"Aşağıda örnek bir telif hakkı feragatnamesi var; sadece adları, başlığı ve "
+"program tanımını uygun bir şekilde değiştirip kullanabilirsiniz:"
+
+#. type: Content of: <blockquote><p>
+msgid ""
+"Yoyodyne, Inc., hereby disclaims all copyright interest in the program "
+"&ldquo;Woodpecker&rdquo; (which deconstructs trees)  written by James Hacker."
+msgstr ""
+"Yoyodyne, Inc., hereby disclaims all copyright interest in the program "
+"&ldquo;Woodpecker&rdquo; (which deconstructs trees)  written by James "
+"Hacker.\n"
+"\n"
+"[Yoyodyne, Inc., işbu James Hacker tarafından yazılmış olan &ldquo;"
+"Woodpecker&rdquo; (ağaçları yapısöküme uğratan) programındaki tüm telif "
+"haklarından feragat eder.]"
+
+#. type: Content of: <blockquote><p>
+msgid "<em>signature of Moe Ghoul</em> 1 April 1989"
+msgstr "<em>Moe Ghoul'un imzası</em> 1 Nisan 1989"
+
+#. type: Content of: <blockquote><p>
+msgid "Moe Ghoul, President of Vice"
+msgstr "Moe Ghoul, Yönetim Kurulu Vekili"
+
+#. type: Content of: <p>
+msgid ""
+"If you are a university student, we recommend you request the disclaimer <a "
+"href=\"/philosophy/university.html\"> at an early stage in writing the "
+"program</a> to reduce resistance.  If you are not a research assistant or "
+"teaching assistant, it could be that the university has no claim to "
+"copyright on your work, but ask a lawyer to make sure of that."
+msgstr ""
+"Eğer üniversite öğrencisiyseniz, feragatnameyi, karşı çıkışı azaltmak için "
+"<a href=\"/philosophy/university.html\">programın yazımındaki erken bir "
+"aşamada</a> istemenizi öneriyoruz. Bir araştırma görevlisi veya öğretim "
+"asistanı değilseniz, üniversitenin çalışmanız üzerinde herhangi bir telif "
+"hakkı iddiası olmayabilir ama emin olmak için bir avukata danışın."
+
+#. type: Content of: <p>
+msgid ""
+"If you work, the best time to negotiate permission to release free software "
+"is <em>when negotiating your employment agreement</em>."
+msgstr ""
+"Çalışıyorsanız, özgür yazılım yayınlama iznini görüşmek için en iyi zaman "
+"<em>iş sözleşmesi görüşmesidir</em>."
+
+#. type: Content of: <h3>
+msgid "The copyright notice"
+msgstr "Telif hakkı bildirimi"
+
+#. type: Content of: <p>
+msgid ""
+"The copyright notice should include the year in which you finished preparing "
+"the release (so if you finished it in 1998 but didn't post it until 1999, "
+"use 1998).  You should add the proper year for each past release; for "
+"example, &ldquo;Copyright 1998, 1999 Terry Jones&rdquo; if some releases "
+"were finished in 1998 and some were finished in 1999.  If several people "
+"helped write the code, use all their names."
+msgstr ""
+"Telif hakkı bildirimi sürümü hazırlamayı bitirdiğiniz yılı içermelidir "
+"(örneğin eğer sürümü 1998'de bitirdiniz ama 1999'a kadar göndermediyseniz, "
+"1998'i kullanın). Her geçmiş sürüm için uygun yılı eklemelisiniz; örneğin "
+"bazıları 1998'de, bazıları da 1999 yılında bittiyse &ldquo;Copyright 1998, "
+"1999 Terry Jones&rdquo; eklemelisiniz. Eğer kodu yazmakta birçok kişinin "
+"katkısı varsa tüm herkesin adını kullanın."
+
+#. type: Content of: <p>
+msgid ""
+"For software with several releases over multiple years, it's okay to use a "
+"range (&ldquo;2008-2010&rdquo;) instead of listing individual years "
+"(&ldquo;2008, 2009, 2010&rdquo;) if and only if every year in the range, "
+"inclusive, really is a &ldquo;copyrightable&rdquo; year that would be listed "
+"individually; <em>and</em> you make an explicit statement in your "
+"documentation about this usage."
+msgstr ""
+"Birçok yıla yayılan sürümlere sahip yazılımlar için her yılı tek tek "
+"(&ldquo;2008, 2009, 2010&rdquo;) yazmak yerine, ancak ve ancak aralıktaki "
+"tüm yıllar, tek tek listelenebilecek şekilde &ldquo;telif hakkına "
+"sahip&rdquo; bir yıl ise, bir aralık (&ldquo;2008-2010&rdquo;) "
+"kullanabilirsiniz; <em>ve</em> belgelerinizde bu kullanımı açıkça beyan edin."
+
+#. type: Content of: <p>
+msgid ""
+"Always use the English word &ldquo;Copyright&rdquo;; by international "
+"convention, this is used worldwide, even for material in other languages. "
+"The copyright symbol &ldquo;&copy;&rdquo; can be included if you wish (and "
+"your character set supports it), but it's not necessary.  There is no legal "
+"significance to using the three-character sequence &ldquo;(C)&rdquo;, but it "
+"does no harm."
+msgstr ""
+"Her zaman İngilizce kelime &ldquo;Copyright&rdquo; kullanın; uluslararası "
+"sözleşmelere göre diğer dillerdeki materyallerde bile dünya çapında bu "
+"haliyle kullanılıyor. Eğer isterseniz (ve karakter kümeniz destekliyorsa) "
+"telif hakkı simgesi (&ldquo;&copy;&rdquo;) de kullanabilirsiniz, ancak "
+"zorunlu değilsiniz. Üç karakterli &ldquo;(C)&rdquo; dizisini kullanmanın "
+"yasal bir önemi yok ama zararı da yok."
+
+#. type: Content of: <p>
+msgid ""
+"If you have copied code from other programs covered by the same license, "
+"copy their copyright notices too.  Put all the copyright notices for a file "
+"together, right near the top of the file."
+msgstr ""
+"Eğer aynı lisansa sahip başka programlardan kod kopyaladıysanız onların "
+"telif hakkı bildirimlerini de kopyalayın. Bir dosyanın tüm telif hakkı "
+"bildirimlerini birlikte, tam da dosyanın üst kısmına yakın bir yere koyun."
+
+#. type: Content of: <h3>
+msgid "The license files"
+msgstr "Lisans dosyaları"
+
+#. type: Content of: <p>
+msgid ""
+"You should also include a copy of the license itself somewhere in the "
+"distribution of your program.  All programs, whether they are released under "
+"the GPL or LGPL, should include <a href=\"/licenses/gpl.txt\">the text "
+"version of the GPL</a>.  In GNU programs we conventionally put the license "
+"in a file called COPYING."
+msgstr ""
+"Programınızın dağıtımıyla birlikte lisansın kendisinin de bir kopyasını bir "
+"yerlerde sunmanız gerekiyor. Tüm programlar, ister GPL isterse LGPL altında "
+"yayınlanmış olsun, <a href=\"/licenses/gpl.txt\">GPL lisansının metin "
+"sürümünü</a> içermelidir. GNU programlarında geleneksel olarak lisansı "
+"COPYING adında bir dosyaya koyuyoruz."
+
+#. type: Content of: <p>
+msgid ""
+"If you are releasing your program under the GNU AGPL, use <a href=\"/"
+"licenses/agpl.txt\">the text version of the GNU AGPL</a> instead of the GNU "
+"GPL."
+msgstr ""
+"Eğer programı GNU AGPL altında yayınlıyorsanız, GNU GPL yerine <a href=\"/"
+"licenses/agpl.txt\">GNU AGPL'nin metin sürümünü</a> koyun."
+
+#. type: Content of: <p>
+msgid ""
+"If you are releasing your program under the Lesser GPL, you should also "
+"include <a href=\"/licenses/lgpl.txt\">the text version of the LGPL</a>, "
+"usually in a file called COPYING.LESSER.  Please note that, since the LGPL "
+"is a set of additional permissions on top of the GPL, it's crucial to "
+"include both licenses so users have all the materials they need to "
+"understand their rights."
+msgstr ""
+"Eğer programı Kısıtlı GPL altında yayınlıyorsanız, ayrıca <a href=\"/"
+"licenses/lgpl.txt\">LGPL'nin metin sürümünü de</a>, genellikle COPYING."
+"LESSER adlı dosyanın içerisine, koymalısınız. Lütfen, LGPL'nin GPL'e ek bir "
+"izinler kümesi olması nedeniyle, her iki lisansı koymanın önemli olduğunu "
+"unutmayın, böylece kullanıcılar haklarını anlamak için tüm materyale sahip "
+"olacaklardır."
+
+#. type: Content of: <h3>
+msgid "The license notices"
+msgstr "Lisans bildirimleri"
+
+#. type: Content of: <p>
+msgid ""
+"Each file's copying permission statement (also called the license notice)  "
+"should come right after its copyright notices.  For a one-file program, the "
+"statement (for the GPL) should look like this, to use GPL version 3 or later:"
+msgstr ""
+"Her bir dosyanın kopyalama izin beyanı (lisans bildirimi de deniliyor), "
+"telif hakkı bildiriminden sonra gelmelidir. Tek dosyalı bir program için, "
+"GPL v3 ve sonrasını kullanmaya yönelik bu beyan (GPL'de) aşağıdaki gibi "
+"olacaktır:"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"    This program is free software: you can redistribute it and/or modify\n"
+"    it under the terms of the GNU General Public License as published by\n"
+"    the Free Software Foundation, either version 3 of the License, or\n"
+"    (at your option) any later version.\n"
+"\n"
+"    This program is distributed in the hope that it will be useful,\n"
+"    but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"    GNU General Public License for more details.\n"
+"\n"
+"    You should have received a copy of the GNU General Public License\n"
+"    along with this program.  If not, see &lt;https://www.gnu.org/licenses/&gt;.\n"
+msgstr ""
+"    This program is free software: you can redistribute it and/or modify\n"
+"    it under the terms of the GNU General Public License as published by\n"
+"    the Free Software Foundation, either version 3 of the License, or\n"
+"    (at your option) any later version.\n"
+"\n"
+"    This program is distributed in the hope that it will be useful,\n"
+"    but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"    GNU General Public License for more details.\n"
+"\n"
+"    You should have received a copy of the GNU General Public License\n"
+"    along with this program.  If not, see &lt;https://www.gnu.org/licenses/&gt;.\n"
+
+#. type: Content of: <p>
+msgid ""
+"For programs that are more than one file, it is better to replace &ldquo;"
+"this program&rdquo; with the name of the program, and begin the statement "
+"with a line saying &ldquo;This file is part of NAME&rdquo;.  For instance,"
+msgstr ""
+"Birden fazla dosya içeren programlar için, &ldquo;this program&rdquo; [bu "
+"program] ifadesini programın ismiyle değiştirmek ve beyana &ldquo;This file "
+"is part of NAME&rdquo; [Bu dosya NAME bir parçasıdır] satırıyla başlamak iyi "
+"olacaktır. Örneğin,"
+
+#. type: Content of: <pre>
+#, no-wrap
+msgid ""
+"    This file is part of Foobar.\n"
+"\n"
+"    Foobar is free software: you can redistribute it and/or modify\n"
+"    it under the terms of the GNU General Public License as published by\n"
+"    the Free Software Foundation, either version 3 of the License, or\n"
+"    (at your option) any later version.\n"
+"\n"
+"    Foobar is distributed in the hope that it will be useful,\n"
+"    but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"    GNU General Public License for more details.\n"
+"\n"
+"    You should have received a copy of the GNU General Public License\n"
+"    along with Foobar.  If not, see &lt;https://www.gnu.org/licenses/&gt;.\n"
+msgstr ""
+"    This file is part of Foobar.\n"
+"\n"
+"    Foobar is free software: you can redistribute it and/or modify\n"
+"    it under the terms of the GNU General Public License as published by\n"
+"    the Free Software Foundation, either version 3 of the License, or\n"
+"    (at your option) any later version.\n"
+"\n"
+"    Foobar is distributed in the hope that it will be useful,\n"
+"    but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"    GNU General Public License for more details.\n"
+"\n"
+"    You should have received a copy of the GNU General Public License\n"
+"    along with Foobar.  If not, see &lt;https://www.gnu.org/licenses/&gt;.\n"
+
+#. type: Content of: <p>
+msgid ""
+"To use a different set of GPL versions, you would modify the end of the "
+"first long paragraph.  For instance, to license under version 2 or later, "
+"you would replace &ldquo;3&rdquo; with &ldquo;2&rdquo;."
+msgstr ""
+"Başka bir GPL kümesi kullanmak için, ilk uzun paragrafı değiştirmeniz "
+"gerekecektir. Örneğin, sürüm 2 veya sonrası kapsamında lisanslamak için, "
+"&ldquo;3&rdquo;'ü &ldquo;2&rdquo; ile değiştirmeniz gerekecektir."
+
+#. type: Content of: <p>
+msgid ""
+"This statement should go near the beginning of every source file, close to "
+"the copyright notices.  When using the Lesser GPL, insert the word &ldquo;"
+"Lesser&rdquo; before &ldquo;General&rdquo; in <em>all three</em> places.  "
+"When using the GNU AGPL, insert the word &ldquo;Affero&rdquo; before &ldquo;"
+"General&rdquo; in <em>all three</em> places."
+msgstr ""
+"Bu beyan her kaynak dosyasının başında, telif hakkı bildirimlerine yakın bir "
+"şekilde yer almalıdır. Kısıtlı GPL kullanırken, &ldquo;Lesser&rdquo; "
+"kelimesini <em>tüm üç</em> yerdeki &ldquo;General&rdquo; kelimesinin önüne "
+"koyun. GNU AGPL kullanırken, &ldquo;Affero&rdquo; kelimesini  <em>tüm üç</"
+"em> yerdeki &ldquo;General&rdquo; kelimesinin önüne koyun."
+
+#. type: Content of: <h3>
+msgid "Why license notices?"
+msgstr "Neden lisans bildirimleri?"
+
+#. type: Content of: <p>
+msgid ""
+"The purpose of a free software license is to give certain rights to all "
+"users of a program.  If it is not clear what rights you have given them, "
+"that defeats the purpose.  Our practices are designed to avoid any "
+"uncertainty."
+msgstr ""
+"Özgür yazılım lisansının amacı programın tüm kullanıcılarına belirli haklar "
+"vermektir. Eğer onlara hangi hakları verdiğiniz açık değilse, bu amaç boşa "
+"düşer. Uygulamalarımız herhangi bir belirsizliği önlemeye yönelik "
+"tasarlanmıştır."
+
+#. type: Content of: <p>
+msgid ""
+"If a program has a copy of a license FOO alongside the source files, but "
+"doesn't have an explicit statement that &ldquo;This program is released "
+"under license FOO,&rdquo; that leaves room for uncertainty about whether the "
+"license FOO applies to the code of that program."
+msgstr ""
+"Eğer program kaynak kodlarının yanında bir FOO lisansı kopyasına sahipse ama "
+"&ldquo;This program is released under license FOO,&rdquo; [Bu program FOO "
+"lisansı altında yayınlanmıştır] şeklinde açık bir beyana sahip değilse, FOO "
+"lisansının bu programın kodu için geçerli olup olmadığına yönelik bir "
+"belirsizliğe açık kapı bırakır."
+
+#. type: Content of: <p>
+msgid ""
+"If a release has one statement that &ldquo;This program is released under "
+"license FOO,&rdquo; in a central place such as the README file, that makes "
+"the situation clear <em>for that release</em>.  However, programmers often "
+"copy source files from one free program into another.  If a source file "
+"contains no statement about what its license is, then moving it into another "
+"context eliminates all trace of that point.  This invites confusion and "
+"error."
+msgstr ""
+"Eğer bir sürümde, README [BENİOKU] dosyası gibi merkezi bir konumda &ldquo;"
+"This program is released under license FOO&rdquo; şeklindeki bir beyan "
+"<em>bu sürüm</em> için durumu açıklığa kavuşturur. Ancak, programcılar "
+"genellikle bir özgür programdan bir başkasına kaynak dosya kopyalarlar. Eğer "
+"bir kaynak dosya lisansı hakkında bir beyan içermiyorsa, bu dosyanın başka "
+"bir bağlama taşınması durumunda bu hususun bütün izlenmesini ortadan "
+"kaldırır. Bu da karışıklık ve hataya davetiye çıkarır."
+
+#. type: Content of: <h3>
+msgid "The startup notice"
+msgstr "Başlangıç bildirimi"
+
+#. type: Content of: <p>
+msgid ""
+"For interactive programs, it is usually a good idea to make the program "
+"display a brief notice about copyright and copying permission when it starts "
+"up.  See <a href=\"/licenses/gpl-3.0.html#howto\">the end of the GNU GPL</a> "
+"for more information about this."
+msgstr ""
+"Etkileşimli programlar için, programın başladığında telif hakkı ve kopyalama "
+"izni hakkında kısa bir bildirim göstermesi genel olarak iyi bir fikirdir. Bu "
+"konu hakkında daha fazla bilgi için <a href=\"/licenses/gpl-3.0.html#howto"
+"\">GNU GPL'nin sonuna</a> bakabilirsiniz."
+
+#. type: Content of: <h3>
+msgid "The Affero notice"
+msgstr "Affero bildirimi"
+
+#. type: Content of: <p>
+msgid ""
+"If you are releasing your program under the GNU AGPL, and it can interact "
+"with users over a network, the program should offer its source to those "
+"users in some way.  For example, if your program is a web application, its "
+"interface could display a &ldquo;Source&rdquo; link that leads users to an "
+"archive of the code.  The GNU AGPL is flexible enough that you can choose a "
+"method that's suitable for your specific program&mdash;see section 13 for "
+"details."
+msgstr ""
+"Eğer programı GNU AGPL altında yayınlıyorsanız ve kullanıcılarla bir ağ "
+"aracılığıyla etkileşim kuruyorsa, program bu kullanıcılara kaynak kodunu da "
+"aynı şekilde sağlamalıdır. Örneğin, eğer programınız bir web uygulaması ise, "
+"arayüzünde kullanıcıları kodun arşivine yönlendirecek bir &ldquo;Kaynak "
+"Kodu&rdquo; bağlantısı göstermelidir. GNU AGPL, belirli programınıza uygun "
+"bir yöntem seçebileceğiniz esnekliktedir, ayrıntılar için 13. bölümüne "
+"bakabilirsiniz."
+
+#. type: Content of: <h3>
+msgid "Miscellaneous"
+msgstr "Diğer"
+
+#. type: Content of: <p>
+msgid ""
+"It is very important for practical reasons to include contact information "
+"for how to reach you, perhaps in the README file, but this has nothing to do "
+"with the legal issues of applying the license."
+msgstr ""
+"Size nasıl erişilebileceğine ilişkin iletişim bilgilerini, örneğin README "
+"dosyasına koymak, pratik nedenlerden dolayı oldukça önemlidir, ancak bunun "
+"lisansın uygulanmasına yönelik hukuki konularla bir ilgisi yoktur."
+
+#. type: Content of: <p>
+msgid ""
+"There is no legal requirement to register your copyright with anyone; simply "
+"writing the program makes it copyrighted.  However, for the US, it is a good "
+"idea to register the copyright with the US Registry of Copyrights, because "
+"that puts you in a stronger position against anyone who violates the license "
+"in the US.  Most other countries have no system of copyright registration."
+msgstr ""
+"Telif hakkınızı herhangi bir şekilde kaydetmenize ilişkin yasal bir "
+"gereksinim yoktur; basitçe programı yazmanız onu telif hakkı kapsamına "
+"sokar. Ancak, ABD için telif hakkınızı US Registry of Copyrights [ABD Telif "
+"Hakları Kaydı]'na kaydetmek iyi bir fikirdir, çünkü bu size ABD'de lisansı "
+"ihlal edenlere karşı daha güçlü bir konum sağlayacaktır. Çoğu başka ülkenin "
+"telif hakkı kaydına yönelik bir sistemi yoktur."
+
+#. type: Content of: <p>
+msgid ""
+"We would like to list all free software programs in the Free Software "
+"Directory, including all programs licensed under the GPL (any version).  So "
+"please submit an entry for your program, when it has reached the point of "
+"being useful.  Please see the <a href=\"http://directory.fsf.org/"
+"\">Directory web page</a> for information and an online submission form."
+msgstr ""
+"GPL (herhangi bir sürümü) altında lisanslanmış tüm programlar da dahil olmak "
+"üzere, tüm özgür yazılım programları Özgür Yazılım Dizin'inde listelemek "
+"istiyoruz. Bu nedenle lütfen programınız için, kullanışlı bir noktaya "
+"ulaştığı zaman bir girdi gönderin. Bilgi ve çevrim içi gönderim formu için "
+"<a href=\"http://directory.fsf.org/\">Dizinin web sayfasına</a> "
+"bakabilirsiniz."
+
+#. type: Content of: <p>
+msgid ""
+"It is also possible to make your program a GNU package, a part of the GNU "
+"Project.  If you might be interested in joining up with the GNU Project in "
+"this way, please see our <a href=\"/help/evaluation.html\">GNU software "
+"evaluation page</a> for more information and a short questionnaire.  We will "
+"respond and discuss the matter with you."
+msgstr ""
+"Programınızı, GNU Projesinin bir parçası, bir GNU paketi yapmak da "
+"mümkündür. Eğer GNU Projesi'ne bu şekilde katılmakla ilgileniyorsanız, "
+"lütfen daha fazla bilgi ve kısa bir anket için <a href=\"/help/evaluation."
+"html\">GNU yazılım değerlendirme sayfamıza</a> bakın. Size yanıt verecek ve "
+"konuyu sizinle birlikte tartışacağız."
+
+#. type: Content of: <p>
+msgid ""
+"You are welcome to use any of our licenses even if your program is not a GNU "
+"package; indeed, we hope you will.  They're available to everyone.  If you'd "
+"like to advertise your use of a particular license, feel free to use <a href="
+"\"/graphics/license-logos.html\" title=\"GNU License Logos\">one of our "
+"logos</a>."
+msgstr ""
+"Programınız bir GNU paketi olmasa bile herhangi bir lisansımızı kullanmanızı "
+"memnuniyetle karşılarız; doğrusu umarım kullanırsınız. Herkesin kullanımına "
+"açıklar. Belirli bir lisansı kullandığınızı duyurmak istiyorsanız, <a href="
+"\"/graphics/license-logos.html\" title=\"GNU License Logos\">logolarımızdan "
+"birini</a> kullanmakta özgürsünüz."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014, 2017, 2018 Free "
+"Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2001, 2007, 2008, 2009, 2013, 2014, 2017, 2018 Free "
+"Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalaycı, 2021.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
