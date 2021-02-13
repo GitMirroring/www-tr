@@ -4,13 +4,13 @@
 # This file is distributed under the same license as the original package.
 # Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
 # Sönmez Kartal <sz@szk0.org>, 2008.
-# T. E. Kalaycı, 2019.
+# T. E. Kalaycı, 2019, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: categories.html\n"
 "POT-Creation-Date: 2019-02-21 01:56+0000\n"
-"PO-Revision-Date: 2020-01-18 19:58+0100\n"
+"PO-Revision-Date: 2021-02-13 17:15+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -113,7 +113,7 @@ msgid ""
 "buying, and the price includes both.  Either way, it has nothing to do with "
 "what we mean by free software in the GNU project."
 msgstr ""
-"Özgür yazılım, bir özgürlük meselesidir, fiyat değil. Ama, mülk yazılım "
+"Özgür yazılım, bir özgürlük meselesidir, fiyat değil. Ama, özel mülk yazılım "
 "şirketleri bazen, &ldquo;free software (özgür yazılım)&rdquo; tanımını fiyat "
 "için kullanmaktadırlar<sup><a id=\"RefTransNote1\" href=\"#TransNote1\">1</"
 "a></sup>. Bazen çalıştırılabilir kopyasını ücretsiz olarak elde etmek "
@@ -282,8 +282,8 @@ msgstr ""
 "izin vermez (yine de bazı sınırlı sayıda koşulların eklenmesine izin "
 "verilebilmektedir) ve kaynak kodunun herkes tarafından erişilebilir olarak "
 "bulundurulmasını gerektirir anlamlarına gelir. Bu, programı ve değiştirilmiş "
-"sürümlerini mülk yazılım haline getirmenin bazı bilindik yollarından bir "
-"kalkan gibi korur."
+"sürümlerini özel mülk yazılım haline getirmenin bazı bilindik yollarından "
+"bir kalkan gibi korur."
 
 #. type: Content of: <p>
 msgid ""
@@ -584,7 +584,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Proprietary software"
-msgstr "Mülk yazılım"
+msgstr "Özel mülk yazılım"
 
 #. type: Content of: <p>
 msgid ""
@@ -610,10 +610,10 @@ msgid ""
 "that, we feel there is no possible excuse for installing a proprietary "
 "program."
 msgstr ""
-"Özgür Yazılım Vakfı, geçici olarak o programın özgür bir değişiğini yazmak "
-"özel amacı dışında her hangi bir mülk yazılım yükleyemeyiz kuralını uygular. "
-"Bundan bir yana, bir mülk program yüklemenin olası bir özürü olmadığını "
-"hissediyoruz."
+"Özgür Yazılım Vakfı, geçici olarak o programın özgür bir uyarlamasını yazmak "
+"şeklindeki özel amaç dışında her hangi bir özel mülk yazılım yükleyemeyiz "
+"kuralını uygular. Bunun dışında özel mülk bir program yüklemenin herhangi "
+"bir bahanesi olduğunu düşünmüyoruz."
 
 #. type: Content of: <p>
 msgid ""
@@ -893,18 +893,18 @@ msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
 "\n"
+"<li>T. E. Kalaycı, 2019, 2021.</li>\n"
+"<li>\n"
+"<a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a>\n"
+"<a href=\"mailto:asd@pittle.org\">&lt;asd@pittle.org&gt;</a>,\n"
+"2008, 2009.\n"
+"</li>\n"
 "<li>\n"
 "Sönmez Kartal\n"
 "<a href=\"mailto:sz@szk0.org\">&lt;sz@szk0.org&gt;</a>,\n"
 "2008.\n"
 "</li>\n"
 "\n"
-"<li>\n"
-"<a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a>\n"
-"<a href=\"mailto:asd@pittle.org\">&lt;asd@pittle.org&gt;</a>,\n"
-"2008, 2009.\n"
-"</li>\n"
-"<li>T. E. Kalaycı, 2019.</li>\n"
 "</ul>"
 
 #.  timestamp start 
