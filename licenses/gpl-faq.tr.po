@@ -407,8 +407,8 @@ msgid ""
 "propagate&rdquo; and &ldquo;convey&rdquo; in GPLv3?</a>"
 msgstr ""
 "<a href=\"#WhyPropagateAndConvey\">GPLv3'te neden yeni &ldquo;yaymak&rdquo; "
-"[<em>propagate</em>] ve &ldquo;taşımak&rdquo; [<em>convey</em>] "
-"terimlerini neden icat ettiniz?</a>"
+"[<em>propagate</em>] ve &ldquo;taşımak&rdquo; [<em>convey</em>] terimlerini "
+"neden icat ettiniz?</a>"
 
 #. type: Content of: <ul><li>
 msgid ""
@@ -6831,9 +6831,9 @@ msgid ""
 "convey&rdquo; in GPLv3? <span class=\"anchor-reference-id\">(<a href="
 "\"#WhyPropagateAndConvey\" >#WhyPropagateAndConvey</a>)</span>"
 msgstr ""
-"GPLv3'te neden yeni &ldquo;yaymak&rdquo; [<em>propagate</em>] ve &ldquo;taşımak "
-"&rdquo; [<em>convey</em>] terimlerini neden icat ettiniz? <span class="
-"\"anchor-reference-id\">(<a href=\"#WhyPropagateAndConvey"
+"GPLv3'te neden yeni &ldquo;yaymak&rdquo; [<em>propagate</em>] ve &ldquo;"
+"taşımak &rdquo; [<em>convey</em>] terimlerini neden icat ettiniz? <span "
+"class=\"anchor-reference-id\">(<a href=\"#WhyPropagateAndConvey"
 "\">#WhyPropagateAndConvey</a>)</span>"
 
 #. type: Content of: <dl><dd><p>
