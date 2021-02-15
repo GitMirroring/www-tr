@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fdl-howto.html\n"
 "POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2020-04-09 17:36+0200\n"
+"PO-Revision-Date: 2021-02-15 12:56+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #. type: Content of: <h2>
 msgid "Tips on Using the GNU Free Documentation License"
-msgstr "GNU Özgür Belgeleme Lisansının Kullanımı Hakkında İpuçları"
+msgstr "GNU Özgür Belgelendirme Lisansının Kullanımı Hakkında İpuçları"
 
 #. type: Content of: <p>
 msgid ""
@@ -33,7 +33,7 @@ msgid ""
 "software licenses, such as the GNU GPL, we have a <a href=\"/licenses/gpl-"
 "howto.html\">separate page</a>."
 msgstr ""
-"Bu yazı belgelerin <a href=\"/licenses/fdl.html\">GNU Özgür Belgeleme "
+"Bu yazı belgelerin <a href=\"/licenses/fdl.html\">GNU Özgür Belgelendirme "
 "Lisansı</a> kapsamında nasıl yayınlanabileceğine ilişkin kısa bir "
 "açıklamadır. GNU GPL gibi GNU yazılım lisansları için <a href=\"/licenses/"
 "gpl-howto.html\">ayrı bir sayfamız</a> var."
@@ -172,8 +172,8 @@ msgid ""
 msgstr ""
 "Bir bölüm özgür yazılım felsefesini tartıştığında, o bölümü değişmez yapmak "
 "iyi bir fikirdir. Örneğin, GNU Bildirisi'ni bir kılavuza yerleştirdiğimizde "
-"veya özgür belgelemenin neden önemli olduğunu açıklayan bir bölüm "
-"eklediğimizde, bu bölümü değişmez yaparız."
+"veya özgür belgelerin neden önemli olduğunu açıklayan bir bölüm eklediğimiz, "
+"bu bölümü değişmez yaparız."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>

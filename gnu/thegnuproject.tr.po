@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: thegnuproject.html\n"
 "POT-Creation-Date: 2020-07-12 02:25+0000\n"
-"PO-Revision-Date: 2020-07-12 06:50+0200\n"
+"PO-Revision-Date: 2021-02-15 12:50+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -941,8 +941,8 @@ msgid ""
 "(2) We now use the <a href=\"/licenses/fdl.html\">GNU Free Documentation "
 "License</a> for documentation."
 msgstr ""
-"(2) Şimdi belgeleme için <a href=\"/licenses/fdl.html\">GNU Özgür Belgeleme "
-"Lisansı</a>nı kullanıyoruz."
+"(2) Şimdi belgeler için <a href=\"/licenses/fdl.html\">GNU Özgür "
+"Belgelendirme Lisansı</a>nı kullanıyoruz."
 
 #. type: Content of: <h3>
 msgid "The Free Software Foundation"
@@ -1913,7 +1913,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Free documentation"
-msgstr "Özgür Belgeleme"
+msgstr "Özgür belgeler"
 
 #. type: Content of: <p>
 msgid ""

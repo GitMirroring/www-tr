@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: doc.html\n"
 "POT-Creation-Date: 2015-02-18 19:25+0000\n"
-"PO-Revision-Date: 2020-05-02 08:16+0200\n"
+"PO-Revision-Date: 2021-02-15 12:45+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -69,12 +69,12 @@ msgid ""
 "Printed books from other publishers using free documentation licenses."
 msgstr ""
 "<a href=\"/doc/other-free-books.html\">Diğer yayıncılardan özgür kitaplar</"
-"a>: Özgür belgeleme lisanslarını kullanan diğer yayıncılardan basılı "
+"a>: Özgür belgelendirme lisanslarını kullanan diğer yayıncılardan basılı "
 "kitaplar."
 
 #. type: Content of: <h3>
 msgid "GNU documentation principles"
-msgstr "GNU belgeleme ilkeleri"
+msgstr "GNU belgelendirme ilkeleri"
 
 #. type: Content of: <p>
 msgid ""
