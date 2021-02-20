@@ -1,0 +1,238 @@
+# Turkish translation of http://www.gnu.org/licenses/lgpl-java.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalaycı, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lgpl-java.html\n"
+"POT-Creation-Date: 2014-04-05 00:01+0000\n"
+"PO-Revision-Date: 2021-02-20 08:42+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. type: Content of: <title>
+msgid "The LGPL and Java - GNU Project - Free Software Foundation"
+msgstr "LGPL ve Java - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "The LGPL and Java"
+msgstr "LGPL ve Java"
+
+#. type: Content of: <p>
+msgid "by <a href=\"mailto:licensing@fsf.org\">David Turner</a>"
+msgstr "yazan <a href=\"mailto:licensing@fsf.org\">David Turner</a>"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"This article was written in November 2004, when <a href=\"/licenses/old-"
+"licenses/lgpl-2.1.html\">LGPLv2.1</a> was the most current version of the "
+"license.  Since then, <a href=\"/licenses/lgpl-3.0.html\">LGPLv3</a> has "
+"been published.  The main points of this article remain true about LGPLv3, "
+"but some of the details, such as section numbers, have changed."
+msgstr ""
+"Bu yazı, <a href=\"/licenses/old-licenses/lgpl-2.1.html\">LGPLv2.1</a>'in "
+"lisansın en güncel sürümü olduğu zaman, Kasım 2004'te yazıldı. O tarihten "
+"sonra <a href=\"/licenses/lgpl-3.0.html\">LGPLv3</a> yayınlandı. Bu yazının "
+"LGPLv3 hakkındaki ana fikri doğruluğunu korusa da, bazı ayrıntılar, örneğin "
+"bölüm numaraları, değişti."
+
+#. type: Content of: <p>
+msgid ""
+"It has always been the FSF's position that dynamically linking applications "
+"to libraries creates a single work derived from both the library code and "
+"the application code.  The GPL requires that all derivative works be "
+"licensed as a whole under the terms of the GPL, an effect which can be "
+"described as &ldquo;hereditary.&rdquo; So, if an application links to a "
+"library licensed under the GPL, the application too must be licensed under "
+"the GPL.  By contrast, libraries licensed under the GNU Lesser General "
+"Public License (LGPL) may be linked to proprietary applications."
+msgstr ""
+"Her zaman FSF'nin görüşü, uygulamaların, kütüphanelere dinamik olarak "
+"bağlanmasının hem kütüphane hem de uygulama kodundan türetilmiş tek bir "
+"çalışma ürettiği şeklindeydi. GPL tüm bu türetilmiş çalışmaların bir bütün "
+"olarak GPL altında lisanslanmasını gerektirir, &ldquo;kalıtsal&rdquo; olarak "
+"betimlenebilecek bir etki. Bu nedenle, eğer bir uygulama GPL altında "
+"lisanslı bir kütüphaneye bağlanırsa, uygulamanın da GPL altında "
+"lisanslanması gerekir. Buna karşın, GNU Kısıtlı Genel Kamu Lisansı (LGPL) "
+"altındaki kütüphaneler, özel mülk uygulamalara bağlanabilirler."
+
+#. type: Content of: <p>
+msgid ""
+"In July of 2003, Slashdot published a story claiming that I had claimed that "
+"the LGPL did not function as intended in the case of Java.  This story was "
+"based on a misunderstanding of a response to a question sent to "
+"licensing@gnu.org, and many attempts to clarify the issue in the Slashdot "
+"story did not get across.  I have received numerous questions about the "
+"story since, via both licensing@gnu.org and personal email."
+msgstr ""
+"2003 yılı Temmuz ayında Slashdot'ta yayınlanan bir yazıda, Java örneğinde "
+"LGPL'nin istendiği şekilde işlemediği şeklinde bir savım olduğunu iddia "
+"etti. Bu yazı, licensing@gnu.org'a gönderilen bir soruya yanıtın yanlış "
+"anlaşılmasından kaynaklanıyor ve Slashdot yazısındaki sorunları açıklamaya "
+"yönelik birçok çaba kabul edilmedi. O zamandan beri yazı hakkında, hem "
+"licensing@gnu.org hem de kişisel e-postam aracılığıyla birçok soru aldım."
+
+#. type: Content of: <p>
+msgid ""
+"FSF's position has remained constant throughout: the LGPL works as intended "
+"with all known programming languages, including Java.  Applications which "
+"link to LGPL libraries need not be released under the LGPL.  Applications "
+"need only follow the requirements in section 6 of the LGPL: allow new "
+"versions of the library to be linked with the application; and allow reverse "
+"engineering to debug this."
+msgstr ""
+"Başından sonuna kadar FSF'nin konumu sabit kalmıştır: LGPL, Java da dahil "
+"olmak üzere tüm bilinen programlama dilleriyle istendiği şekilde işliyor. "
+"LGPL kütüphanelerine bağlanan uygulamaların LGPL altında lisanslanması "
+"gerekmiyor. Uygulamalar sadece LGPL'nin 6. bölümündeki gereksinimleri "
+"izlemelidir: kütüphanenin yeni sürümlerinin uygulamalara bağlanmasına izin "
+"verin; ve buna ilişkin hata ayıklama için ters mühendisliğe izin verin."
+
+#. type: Content of: <p>
+msgid ""
+"The typical arrangement for Java is that each library an application uses is "
+"distributed as a separate JAR (Java Archive) file.  Applications use Java's "
+"&ldquo;import&rdquo; functionality to access classes from these libraries.  "
+"When the application is compiled, function signatures are checked against "
+"the library, creating a link.  The application is then generally a "
+"derivative work of the library.  So, the copyright holder for the library "
+"must authorize distribution of the work.  The LGPL permits this distribution."
+msgstr ""
+"Java'ya özgü düzenleme, bir uygulamanın kullandığı her kütüphanenin ayrı bir "
+"JAR (Java Arşiv) dosyası olarak dağıtılmasıdır. Uygulamalar, bu "
+"kütüphanelerden sınıflara erişmek için Java'nın &ldquo;import&rdquo; "
+"işlevselliğini kullanırlar. Uygulama derlendiğinde, fonksiyon imzaları "
+"kütüphaneyle karşılaştırılır, bir bağlantı oluşturulur. Uygulama, o halde, "
+"genellikle kütüphanenin türetilmiş bir çalışmasıdır. Bu yüzden, kütüphanenin "
+"telif hakkı sahibi çalışmanın dağıtımına yetki vermelidir. LGPL bu dağıtıma "
+"izin verir."
+
+#. type: Content of: <p>
+msgid ""
+"If you distribute a Java application that imports LGPL libraries, it's easy "
+"to comply with the LGPL.  Your application's license needs to allow users to "
+"modify the library, and reverse engineer your code to debug these "
+"modifications.  This doesn't mean you need to provide source code or any "
+"details about the internals of your application. Of course, some changes the "
+"users may make to the library may break the interface, rendering the library "
+"unable to work with your application.  You don't need to worry about "
+"that&mdash;people who modify the library are responsible for making it work."
+msgstr ""
+"Eğer LGPL kütüphaneleri içe aktaran bir Java uygulaması dağıtıyorsanız, LGPL "
+"lisansına uymak kolaydır. Uygulamanızın lisansı, kullanıcıların kütüphaneyi "
+"değiştirmesine ve bu değişikliklerin hata ayıklaması için kodunuzun ters "
+"mühendisliğine izin vermelidir. Bu, uygulamanızın kaynak kodunu veya "
+"herhangi bir içsel ayrıntısını sağlamanız gerektiği anlamına gelmiyor. "
+"Elbette, kullanıcıların kütüphanede yaptığı bazı değişiklikler arayüzü "
+"bozabilir, kütüphanenizin uygulamanızla çalışmasını olanaksız kılabilir. "
+"Buna ilişkin kaygılanmanıza gerek yok, kütüphaneyi değiştiren kişiler "
+"çalışmasını sağlamaktan da sorumludur."
+
+#. type: Content of: <p>
+msgid ""
+"When you distribute the library with your application (or on its own), you "
+"need to include source code for the library.  But if your application "
+"instead requires users to obtain the library on their own, you don't need to "
+"provide source code for the library."
+msgstr ""
+"Kütüphaneyi uygulamanızla (veya tek başına) dağıttığınızda, kütüphanenin "
+"kaynak kodunu da eklemelisiniz. Ancak uygulamanız kullanıcıların kütüphaneyi "
+"kendi başlarına almasını gerektiriyorsa, kütüphanenin kaynak kodunu "
+"sağlamanıza gerek yok."
+
+#. type: Content of: <p>
+msgid ""
+"The only difference between Java and C from the LGPL's perspective is that "
+"Java is an object-oriented language, supporting inheritance.  The LGPL "
+"contains no special provisions for inheritance, because none are needed.  "
+"Inheritance creates derivative works in the same way as traditional linking, "
+"and the LGPL permits this type of derivative work in the same way as it "
+"permits ordinary function calls."
+msgstr ""
+"LGPL'nin bakış açısından Java ve C arasındaki tek fark Java'nın, kalıtımı "
+"destekleyen, nesne yönelimli bir programlama dili olmasıdır. LGPL, "
+"gereksinim duymadığı için, kalıtıma özel şartlar içermez. Kalıtım, "
+"geleneksel bağlamayla aynı şekilde türetilmiş çalışmalar oluşturur ve LGPL "
+"bu türdeki türetilmiş çalışmalara, olağan fonksiyon çağrılarına izin verdiği "
+"şekilde izin verir."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2004, 2013, 2014 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2004, 2013, 2014 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
+"NoDerivs 3.0 United States License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalaycı, 2021.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
