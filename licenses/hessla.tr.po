@@ -1,0 +1,186 @@
+# Turkish translation of https://www.gnu.org/licenses/hessla.html
+# Copyright (C) 2021 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalaycı, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hessla.html\n"
+"POT-Creation-Date: 2020-07-22 10:25+0000\n"
+"PO-Revision-Date: 2021-02-21 08:56+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. type: Content of: <title>
+msgid "The HESSLA's Problems - GNU Project - Free Software Foundation"
+msgstr "HESSLA'nın Sorunları - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <h2>
+msgid "The HESSLA's Problems"
+msgstr "HESSLA'nın Sorunları"
+
+#. type: Content of: <p>
+msgid ""
+"The <a href=\"https://directory.fsf.org/wiki/License:HESSLA\">Hacktivismo "
+"Enhanced-Source Software License Agreement</a> (HESSLA) is a software source "
+"license that tries to put restrictions of ethical conduct on use and "
+"modification of the software.  Because it restricts what jobs people can use "
+"the software for, and restricts in substantive ways what jobs modified "
+"versions of the program can do, it is not a free software license.  The "
+"ironic result is that the community of people most likely to feel sympathy "
+"for the goals of the HESSLA cannot contribute to HESSLA-covered software "
+"without violating its principles."
+msgstr ""
+"<a href=\"https://directory.fsf.org/wiki/License:HESSLA\">Hacktivismo "
+"Gelişmiş-Kaynak Yazılım Lisans Anlaşması</a> (<abbr title=\"Hacktivismo "
+"Enhanced-Source Software License Agreement\">HESSLA</abbr>), yazılımın "
+"kullanımı ve değiştirilmesi konusunda etik davranış kısıtlamaları koymaya "
+"çalışan bir yazılım kaynak lisansıdır. İnsanların yazılımı kullanarak "
+"yapabilecekleri işleri kısıtladığı için ve programın değiştirilmiş "
+"sürümlerinin yapabileceği işleri önemli şekillerde kısıtladığı için, özgür "
+"yazılım lisansı değildir. İronik sonuç, büyük ihtimalle HESSLA'nın "
+"amaçlarına sempati besleyen insan topluluğunun, ilkelerini ihlal etmeden "
+"HESSLA kapsamındaki yazılıma katkı sağlayamamasıdır."
+
+#. type: Content of: <p>
+msgid ""
+"The restrictions in the HESSLA prohibit specific activities that are "
+"inexcusable: violations of human rights, and introduction of features that "
+"spy on the user.  People might ask why we do not declare an exception for "
+"these particular restrictions&mdash;why do we stick to the general policy of "
+"rejecting all restrictions on use and on the functionality of modified "
+"versions?"
+msgstr ""
+"HESSLA'daki kısıtlamalar hoşgörülemez bazı faaliyetleri yasaklıyor: insan "
+"hakkı ihlalleri ve kullanıcının gözetlenmesine yönelik özellikler. İnsanlar "
+"bu özel kısıtlamalar için neden bir istisna yapmadığımızı sorabilirler, "
+"neden kullanım ve değiştirilmiş sürümlerin işlevselliği üzerindeki tüm "
+"kısıtlamaları reddetme şeklinde genel politikaya bağlı kalıyoruz?"
+
+#. type: Content of: <p>
+msgid ""
+"If we were ever going to make an exception to our principles of free "
+"software, here would be the place to do it.  But it would be a mistake to do "
+"so: <a href=\"/philosophy/programs-must-not-limit-freedom-to-run.html\"> it "
+"would do harm to free software movement and would achieve nothing.</a> "
+"Trying to stop those particular activities with a software license is either "
+"unnecessary or ineffective."
+msgstr ""
+"Eğer özgür yazılım ilkelerimizde bir istisna yapacak olsaydık, onu "
+"yaptığımız yer burası olurdu. Ancak bunu yapmak bir hata da olurdu: <a href="
+"\"/philosophy/programs-must-not-limit-freedom-to-run.html\">özgür yazılım "
+"hareketine zarar verirdi ve hiç bir şey elde edemezdik.</a> Bu belirli "
+"faaliyetleri, bir yazılım lisansıyla durdurmaya çalışmak ya gereksizdir ya "
+"da etkisizdir."
+
+#. type: Content of: <p>
+msgid ""
+"In regard to modified versions, the HESSLA's restrictions are unnecessary.  "
+"The GNU GPL is, in general, sufficient protection against privacy-violating "
+"features, because it ensures that someone can get the source code, find the "
+"spyware feature, and publish an improved version of the software which does "
+"not have the feature.  Users can then switch to that version if they don't "
+"want their personal information to be reported."
+msgstr ""
+"Değiştirilmiş sürümlerine ilişkin olarak, HESSLA'nın kısıtlamaları "
+"gereksizdir. GNU GPL, genel olarak, gizliliği ihlal eden özelliklere karşı "
+"yeterli bir koruma sağlar, çünkü herhangi bir kimsenin kaynak kodu "
+"edinmesini, casus özellikleri keşfetmesini ve bu özellikleri içermeyen "
+"gelişmiş bir sürümü yayınlamasını sağlar. Kullanıcılar da kişisel "
+"bilgilerinin bildirilmesini istemiyorlarsa bu sürüme geçebilirler."
+
+#. type: Content of: <p>
+msgid ""
+"As for restricting the use of the software by governments that violate human "
+"rights, this is likely to be ineffective.  There are many other programs "
+"they can use.  Also, at least under US law, a copyright-based source license "
+"can't restrict use of the program; such a restriction is not enforcible "
+"anyway.  Meanwhile, they can simply decide they are exempt from the "
+"restrictions."
+msgstr ""
+"Yazılımın, insan hakkı ihlali yapan hükümetlerce kullanımının kısıtlanması "
+"ise muhtemelen etkisiz olacaktır. Kullanabilecekleri birçok başka program "
+"var. Ayrıca, en azından ABD yasası kapsamında, telif hakkı temelli bir "
+"kaynak lisansı programın kullanımını kısıtlayamaz; bu gibi bir kısıtlama hiç "
+"bir durumda uygulanabilir değildir. Aynı zamanda, kendilerini "
+"kısıtlamalardan muaf tutmaya da karar verebilirler."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and submitting translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2002, 2008, 2014, 2020 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2002, 2008, 2014, 2020 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>T. E. Kalaycı, 2021.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
