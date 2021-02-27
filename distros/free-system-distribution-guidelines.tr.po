@@ -1,7 +1,7 @@
 # Turkish translation of https://www.gnu.org/distros/free-system-distribution-guidelines.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# 
+#
 # The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
@@ -317,11 +317,11 @@ msgstr ""
 "olmayan veriler için özgür lisans kriterlerinde ısrar etmiyoruz. Lisansı, "
 "ticari ve ticari olmayan amaçlar için kopyalama ve yeniden dağıtma izni "
 "verdiğiniz sürece özgür bir sistem dağıtımına dâhil edilebilir. Örneğin; GNU "
-"GPL kapsamında piyasaya sürülen bazı oyun motorları, bu tür bir değişmeyen "
-"(verbatim) dağıtım lisansı altında yayınlanan oyun bilgisine (kurgusal bir "
-"dünya haritası, oyun grafikleri vb.) sahiptir. Bu tür verilerin lisansı "
-"özgür olarak nitelendirilmemesine rağmen özgür bir sistem dağıtımının bir "
-"parçası olabilir çünkü işlevsel değildir."
+"GPL kapsamında piyasaya sürülen bazı oyun motorları, bu tür bir birebir "
+"[<em>verbatim</em>] dağıtım lisansı altında yayınlanan oyun bilgisine "
+"(kurgusal bir dünya haritası, oyun grafikleri vb.) sahiptir. Bu tür "
+"verilerin lisansı özgür olarak nitelendirilmemesine rağmen özgür bir sistem "
+"dağıtımının bir parçası olabilir çünkü işlevsel değildir."
 
 #. type: Content of: <h3>
 msgid "Trademarks"
@@ -373,9 +373,9 @@ msgid ""
 "However, it is unacceptable to use trademarks to restrict verbatim copying "
 "and redistribution of the whole distribution, or any part."
 msgstr ""
-"Bununla birlikte tüm dağıtımın veya herhangi bir parçanın kopyalanmasını ve "
-"yeniden dağıtılmasını kısıtlamak için ticari markaları kullanmak kabul "
-"edilemez."
+"Bununla birlikte tüm dağıtımın veya herhangi bir parçanın birebir "
+"kopyalanmasını ve yeniden dağıtılmasını kısıtlamak için ticari markaları "
+"kullanmak kabul edilemez."
 
 #. type: Content of: <h3>
 msgid "Documentation"

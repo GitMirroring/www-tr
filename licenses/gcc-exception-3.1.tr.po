@@ -89,8 +89,8 @@ msgid ""
 "Everyone is permitted to copy and distribute verbatim copies of this license "
 "document, but changing it is not allowed."
 msgstr ""
-"Herkes bu lisans belgesinin tıpkı kopyalarını kopyalama ve dağıtma hakkında "
-"sahiptir ancak değiştirilemez."
+"Herkes bu lisans belgesinin birebir kopyalarını kopyalama ve dağıtma "
+"hakkında sahiptir ancak değiştirilemez."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

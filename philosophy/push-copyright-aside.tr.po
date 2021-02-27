@@ -113,7 +113,7 @@ msgstr ""
 "şekilde dağıtılmasını hangi kurallar sağlayacaktır? Makaleler, herkes için "
 "erişimi sağlayan özel mülk olmayan biçimlerde dağıtılmalıdır. Ve herkes "
 "makaleleri &ldquo;yansıtma&rdquo; hakkına sahip olmalıdır; başka bir "
-"deyişle, uygun atıfla bu makaleleri aynen yeniden yayınlama hakkına sahip "
+"deyişle, uygun atıfla bu makaleleri birebir yeniden yayınlama hakkına sahip "
 "olmalıdır."
 
 #. type: Content of: <p>

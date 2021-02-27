@@ -69,7 +69,7 @@ msgstr "<a href=\"#UnofficialTransl\">Resmi Olmayan Çeviriler</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#VerbatimCopying\">Verbatim Copying and Distribution</a>"
-msgstr "<a href=\"#VerbatimCopying\">Tıpkı Kopya ve Dağıtım</a>"
+msgstr "<a href=\"#VerbatimCopying\">Birebir Kopyalama ve Dağıtım</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"#FSLicenses\">List of Free Software Licenses</a>"
@@ -605,7 +605,7 @@ msgstr ""
 
 #. type: Content of: <h3>
 msgid "Verbatim Copying and Distribution"
-msgstr "Tıpkı Kopya ve Dağıtım"
+msgstr "Birebir [<em>Verbatim</em>] Kopyalama ve Dağıtım"
 
 #. type: Content of: <p>
 msgid ""
@@ -624,16 +624,16 @@ msgid ""
 "Verbatim copying and distribution of this entire article are permitted "
 "worldwide, without royalty, in any medium, provided this notice is preserved."
 msgstr ""
-"Tüm bu yazının tıpkı kopyası ve dağıtımına  dünya çapında herhangi bir telif "
-"hakkı ücreti olmadan, herhangi bir ortamda, bu uyarının korunması şartıyla "
-"izin verilmiştir."
+"Tüm bu yazının birebir kopyası ve dağıtımına  dünya çapında herhangi bir "
+"telif hakkı ücreti olmadan, herhangi bir ortamda, bu uyarının korunması "
+"şartıyla izin verilmiştir."
 
 #. type: Content of: <p>
 msgid ""
 "Please note the following commentary about this &ldquo;verbatim "
 "license&rdquo; by Eben Moglen:"
 msgstr ""
-"Eben Moglen'in bu &ldquo;tıpkı lisans&rdquo; hakkındaki aşağıdaki yorumunu "
+"Eben Moglen'in bu &ldquo;birebir lisans&rdquo; hakkındaki aşağıdaki yorumunu "
 "dikkate alın:"
 
 #. type: Content of: <blockquote><p>
@@ -644,7 +644,7 @@ msgid ""
 "non-hyperlinked media (as notes or some other form of printed URL in non-"
 "HTML media) is required.&rdquo;"
 msgstr ""
-"&ldquo;&lsquo;herhangi bir ortamda tıpkı kopya&rsquo; ifadesi sayfa "
+"&ldquo;&lsquo;herhangi bir ortamda birebir kopya&rsquo; ifadesi sayfa "
 "başlıkları ve alt bilgilerinin veya diğer biçimlendirme özellliklerinin "
 "korunmasını gerektirmiyor. Hem köprülü hem de köprü içermeyen ortamlarda "
 "(HTML olmayan ortamda notlar veya diğer bazı yazdırılmış URL biçiminde) ağ "
@@ -883,7 +883,7 @@ msgstr ""
 "Fikirlere ve bilimsel makalelere ilişkin yazılar için <a href=\"https://"
 "creativecommons.org/licenses/by-nd/3.0/us/deed.tr\">Creative Commons Atıf-"
 "Türetilemez 3.0 Birleşik Devletler Lisansı</a> veya basitçe yukarıda verilen "
-"&ldquo;sadece tıpkı kopyalama&rdquo; lisanslarını öneriyoruz.."
+"&ldquo;sadece birebir kopyalama&rdquo; lisanslarını öneriyoruz.."
 
 #. type: Content of: <p>
 msgid ""

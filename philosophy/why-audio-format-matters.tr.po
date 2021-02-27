@@ -340,8 +340,8 @@ msgid ""
 "worldwide, without royalty, in any medium, provided this notice, and the "
 "copyright notice, are preserved."
 msgstr ""
-"Tüm bu yazının tıpkı kopyası ve dağıtımına  dünya çapında herhangi bir telif "
-"hakkı ücreti olmadan, herhangi bir ortamda, bu uyarının ve telif hakkı "
+"Tüm bu yazının birebir kopyası ve dağıtımına  dünya çapında herhangi bir "
+"telif hakkı ücreti olmadan, herhangi bir ortamda, bu uyarının ve telif hakkı "
 "uyarısının korunması şartıyla izin verilmiştir."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.

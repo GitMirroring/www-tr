@@ -113,7 +113,7 @@ msgid ""
 msgstr ""
 "BSD benzeri lisansları kullanan diğer geliştiriciler (Kaliforniya "
 "Üniversitesi'ne atıfta bulunan cümle de dahil olmak üzere) BSD tanıtım "
-"şartını aynen kopyalamış olsalardı, sorunu daha da büyütmezlerdi."
+"şartını birebir kopyalamış olsalardı, sorunu daha da büyütmezlerdi."
 
 #. type: Content of: <p>
 msgid ""
@@ -122,10 +122,10 @@ msgid ""
 "with their own institution or their own names.  The result is a plethora of "
 "licenses, requiring a plethora of different sentences."
 msgstr ""
-"Ancak, doğal olarak, diğer geliştiriciler şartı kelimesi kelimesine "
-"kopyalamadı. İfadeyi &ldquo;Kaliforniya Üniversitesi&rdquo; yerine kendi "
-"kurumları veya kendi isimleri ile değiştirdiler. Sonuç çok sayıda farklı "
-"cümle gerektiren çok sayıda lisans oldu."
+"Ancak, doğal olarak, diğer geliştiriciler maddeyi birebir kopyalamadı. "
+"İfadeyi &ldquo;Kaliforniya Üniversitesi&rdquo; yerine kendi kurumları veya "
+"kendi isimleri ile değiştirdiler. Sonuç çok sayıda farklı cümle gerektiren "
+"çok sayıda lisans oldu."
 
 #. type: Content of: <p>
 msgid ""

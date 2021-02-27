@@ -2362,7 +2362,7 @@ msgid ""
 "href=\"#ModifyGPL\">another license</a> but it won't be the GNU GPL.)"
 msgstr ""
 "Önsöz ve talimatlar; GNU GPL'nin önemli kısımlarıdır ve atlanamaz. Doğrusu "
-"GPL'nin telif hakkı vardır ve lisansı, yalnızca motamot kopyalanmasına izin "
+"GPL'nin telif hakkı vardır ve lisansı, yalnızca birebir kopyalanmasına izin "
 "verir. (Yasal koşulları <a href=\"#ModifyGPL\">başka bir lisans</a> yapmak "
 "için kullanabilirsiniz ancak bu GNU GPL olmayacaktır.)"
 
