@@ -2,7 +2,7 @@
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
-# T. E. Kalaycı, 2009, 2019, 2020.".
+# T. E. Kalaycı, 2009, 2019, 2020, 2021.".
 # Çiğdem Özşar, 2009.".
 # Birkan Sarıfakıoğlu, 2009.".
 # Serkan Çapkan, 2009.".
@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-24 12:55+0000\n"
-"PO-Revision-Date: 2020-11-26 07:38+0100\n"
+"POT-Creation-Date: 2021-03-01 07:55+0000\n"
+"PO-Revision-Date: 2021-03-01 18:13+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -250,6 +250,11 @@ msgstr "&ldquo;<a href=\"#MP3Player\">MP3 Çalar</a>&rdquo; |"
 #. type: Content of: <p>
 msgid "&ldquo;<a href=\"#Open\">Open</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Open\">Açık</a>&rdquo; |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <p>
+msgid "&ldquo;<a href=\"#OptOut\">Opt out</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#OptOut\">Ayrılma</a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <p>
@@ -835,7 +840,7 @@ msgid ""
 "series-a-funding-2015-6\">this article</a>, which also refers to "
 "publications as &ldquo;<a href=\"#Content\">content</a>.&rdquo;"
 msgstr ""
-"Bir hikaye, yazı, program veya şarkının hiç bir özel durumu yokmuş "
+"Bir hikaye, yazı, program veya şarkının hiçbir özel durumu yokmuş "
 "varsayımıyla, eser sahipliği çalışmalarını bir meta olarak düşünmek ne "
 "anlama gelir? Bu yayınevi şirketi muhasebecisi veya sahibinin çarpık bakış "
 "açısıdır. Özel mülk yazılımın da, yazılımı bir meta olarak düşünmenizi "
@@ -1914,6 +1919,21 @@ msgid ""
 msgstr "<b>Açık kaynak</b> yerine <b>özgür yazılım</b> diyoruz."
 
 #. type: Content of: <h3>
+msgid "&ldquo;Opt out&rdquo;"
+msgstr "&ldquo;Ayrılma [<em>Opt out</em>]&rdquo;"
+
+#. type: Content of: <p>
+msgid ""
+"When applied to any form of computational mistreatment, &ldquo;opt "
+"out&rdquo; implies the choice is a minor matter of convenience. We recommend "
+"&ldquo;reject,&rdquo; &ldquo;shun&rdquo; or &ldquo;escape from.&rdquo;"
+msgstr ""
+"Herhangi bir bilgisayımsal kötü davranış biçimine uygulandığında, &ldquo;"
+"ayrılma&rdquo; terimi, tercih, kolaylık açısından çok önemsizmiş gibi "
+"gösterir. Onun yerine &ldquo;reddetmek,&rdquo; &ldquo;uzak durmak&rdquo; "
+"veya &ldquo;kaçmak&rdquo; sözcüklerini öneriyoruz."
+
+#. type: Content of: <h3>
 msgid "&ldquo;PC&rdquo;"
 msgstr "&ldquo;PC&rdquo;"
 
@@ -2573,11 +2593,11 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
-"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018, 2020 Free Software "
+"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018, 2020, 2021 Free Software "
 "Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996, 1997, 1998, 1999, 2001, 2002, 2003, 2004, 2007, 2008, "
-"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018, 2020 Free Software "
+"2009, 2010, 2011, 2012, 2015, 2016, 2017, 2018, 2020, 2021 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -2598,7 +2618,7 @@ msgstr ""
 "<ul>\n"
 "<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
 "\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
-"<li>T. E. Kalaycı, 2009, 2019, 2020.</li>\n"
+"<li>T. E. Kalaycı, 2009, 2019, 2020, 2021.</li>\n"
 "<li>Çiğdem Özşar, 2009.</li>\n"
 "<li>Birkan Sarıfakıoğlu, 2009.</li>\n"
 "<li>Serkan Çapkan, 2009.</li>\n"
