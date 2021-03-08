@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: outdated.html\n"
-"POT-Creation-Date: 2014-07-22 15:55+0000\n"
-"PO-Revision-Date: 2019-08-25 20:53+0200\n"
+"POT-Creation-Date: 2021-03-08 11:55+0000\n"
+"PO-Revision-Date: 2021-03-08 20:48+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. #set var="ORIGINAL_LINK" value="<a href=\"${ORIGINAL_FILE}.en\">" 
 #. #if expr='${OUTDATED_SINCE}' 
@@ -64,12 +64,11 @@ msgid "<span>.</span>"
 msgstr "<span>.</span>"
 
 #
-#. #endif 
 #. #if expr='${DIFF_FILE}' 
 #. #set var="DIFF_LINK" value="<a href=\"${DIFF_FILE}\">" 
 #. TRANSLATORS: The link to the page with differences
 #.              will follow this string. 
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <p>
 msgid "You should take a look at"
 msgstr "Bu değişikliklere"
 
@@ -77,7 +76,7 @@ msgstr "Bu değişikliklere"
 #. #echo encoding="none" var="DIFF_LINK" 
 #. TRANSLATORS: The text of the link; the next string is the last part
 #.              of the sentence (just a period in English). 
-#. type: Content of: outside any tag (error?)
+#. type: Content of: <p>
 msgid "those changes"
 msgstr "bakmanız gerekmektedir"
 
