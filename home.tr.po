@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2021-03-12 18:25+0000\n"
-"PO-Revision-Date: 2021-03-14 16:18+0100\n"
+"POT-Creation-Date: 2021-03-15 13:25+0000\n"
+"PO-Revision-Date: 2021-03-17 06:23+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -661,7 +661,12 @@ msgstr ""
 msgid "Today's random package&hellip;"
 msgstr "Bugünün Rastgele Paketi&hellip;"
 
-#. type: Content of: <div><p>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <p>
 msgid ""
 "The <a href=\"http://www.fsf.org/\">FSF</a> also has sister organizations in "
 "<a href=\"http://www.fsfe.org\">Europe</a>, <a href=\"http://www.fsfla.org/"
@@ -671,14 +676,9 @@ msgstr ""
 "org\">Avrupa</a>, <a href=\"http://www.fsfla.org/\">Latin Amerika</a> ve <a "
 "href=\"http://fsf.org.in/\">Hindistan</a>'da kardeş örgütleri vardır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid "Feel free to join them!"
 msgstr "Onlara katılmaktan çekinmeyin!"
-
-#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div><div>
-msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
-msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
