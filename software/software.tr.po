@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: software.html\n"
-"POT-Creation-Date: 2021-02-14 08:26+0000\n"
-"PO-Revision-Date: 2021-02-14 09:53+0100\n"
+"POT-Creation-Date: 2021-03-31 15:55+0000\n"
+"PO-Revision-Date: 2021-03-31 19:12+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -47,11 +47,11 @@ msgstr "<a href=\"/manual/manual.html\">Kılavuzlar</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<strong><a href=\"/distros/free-distros.html\">Wholly free GNU/Linux "
-"distributions</a></strong>"
+"<a href=\"/distros/free-distros.html\"><strong>Wholly free GNU/Linux "
+"distributions</strong></a>"
 msgstr ""
-"<strong><a href=\"/distros/free-distros.html\">Tamamen özgür GNU/Linux "
-"dağıtımları</a></strong>"
+"<a href=\"/distros/free-distros.html\"><strong>Tamamen özgür GNU/Linux "
+"dağıtımları</strong></a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/distros/distros.html\">GNU/Linux distributions</a>"
