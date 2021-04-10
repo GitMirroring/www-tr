@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-gnu-linux.html\n"
-"POT-Creation-Date: 2020-07-01 15:25+0000\n"
-"PO-Revision-Date: 2020-07-01 18:12+0200\n"
+"POT-Creation-Date: 2021-04-07 17:55+0000\n"
+"PO-Revision-Date: 2021-04-10 08:33+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid "Why GNU/Linux? - GNU Project - Free Software Foundation"
@@ -29,14 +29,11 @@ msgstr "Neden GNU/Linux? - GNU Projesi - Özgür Yazılım Vakfı"
 msgid "What's in a Name?"
 msgstr "İsim Dediğin Nedir Ki?"
 
-#. type: Content of: <p>
-msgid ""
-"<strong>by <a href=\"http://www.stallman.org/\">Richard Stallman</a></strong>"
-msgstr ""
-"<strong>yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a></"
-"strong>"
+#. type: Content of: <address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "To learn more about this issue, you can read our <a href=\"/gnu/gnu-linux-"
 "faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/linux-and-gnu.html"
@@ -52,7 +49,17 @@ msgstr ""
 "heard-of-gnu.html\">GNU'yu Hiç Duymamış GNU Kullanıcıları</a> başlıklı "
 "yazımızı okuyabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
+msgid ""
+"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"software-free-society/\"> <cite>Free Software, Free Society: The Selected "
+"Essays of Richard M. Stallman</cite></a>."
+msgstr ""
+"Bu yazı <a href=\"http://shop.fsf.org/product/free-software-free-society/"
+"\"><cite>Özgür Yazılım, Özgür Toplum: Richard M. Stallman'ın Seçilmiş "
+"Yazıları</cite></a> kitabında yayınlanmıştır."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "Names convey meanings; our choice of names determines the meaning of what we "
 "say.  An inappropriate name gives people the wrong idea.  A rose by any "
@@ -75,7 +82,7 @@ msgstr ""
 "gnu.html\">GNU/Linux</a> dediğinizde (ayrıntılı olmasa da) doğru bir fikir "
 "verecektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Does this really matter for our community? Is it important whether people "
 "know the system's origin, history, and purpose? Yes&mdash;because people who "
@@ -91,7 +98,7 @@ msgstr ""
 "güvende değil; bizi GNU’yu geliştirmeye iten sorunlar tamamen ortadan "
 "kalkmadı. Üstelik bunların tekrar ortaya çıkma tehlikesi var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When I explain why it's appropriate to call the operating system GNU/Linux "
 "rather than Linux, people sometimes respond this way:"
@@ -99,7 +106,7 @@ msgstr ""
 "Neden bu işletim sistemine Linux yerine GNU/Linux demenin doğru olduğunu "
 "açıkladığım zaman insanlar bazen şu cevabı veriyor:"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><blockquote><p>
 msgid ""
 "<em> Granted that the GNU Project deserves credit for this work, is it "
 "really worth a fuss when people don't give credit? Isn't the important thing "
@@ -112,7 +119,7 @@ msgstr ""
 "doğru yaptığınız için gurur duymalısınız. Emeğinizin takdir edilip "
 "edilmemesini de dert etmemelisiniz.</em>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This would be wise advice, if only the situation were like that&mdash;if the "
 "job were done and it were time to relax.  If only that were true! But "
@@ -129,7 +136,7 @@ msgstr ""
 "kullanmak, insanların bu idealleri hatırlayıp başkalarını da "
 "bilgilendirmeleri için bir yoldur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "It is possible to write good free software without thinking of GNU; much "
 "good work has been done in the name of Linux also.  But the term &ldquo;"
@@ -144,7 +151,7 @@ msgstr ""
 "Linux ismi, iş dünyası tarafından giderek artan düzeyde kullanıldıkça, onu "
 "topluluk ruhuyla bağdaştırmakta daha da büyük sorunlar yaşayacağız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A great challenge to the future of free software comes from the tendency of "
 "the &ldquo;Linux&rdquo; distribution companies to add nonfree software to <a "
@@ -167,7 +174,7 @@ msgstr ""
 "özgürlük vermeyen, &ldquo;kullanıcı başına lisanslanmış&rdquo; &ldquo;"
 "Linux&rdquo; sistemlerinin reklamını yapıyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "People try to justify adding nonfree software in the name of the &ldquo;"
 "popularity of Linux&rdquo;&mdash;in effect, valuing popularity above "
@@ -190,7 +197,7 @@ msgstr ""
 "\">özgürlük gayelerini bir kenara bırakıp &ldquo;Linux'un popülerliği&rdquo; "
 "için çalışmaya</a> teşvik ediyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Adding nonfree software to the <a href=\"/gnu/linux-and-gnu.html\">GNU/"
 "Linux</a> system may increase the popularity, if by popularity we mean the "
@@ -209,7 +216,7 @@ msgstr ""
 "etmektedir. Eğer arabayı yolda tutmayı beceremiyorsanız, hızlı sürmenizin ne "
 "anlamı var?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When the nonfree &ldquo;add-on&rdquo; is a library or programming tool, it "
 "can become a trap for free software developers.  When they write free "
@@ -232,7 +239,7 @@ msgstr ""
 "\"/philosophy/java-trap.html\">Java Kapanı</a>, neyse ki şimdi bu durum "
 "çoğunlukla düzeldi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If our community keeps moving in this direction, it could redirect the "
 "future of <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> into a mosaic of "
@@ -249,7 +256,7 @@ msgstr ""
 "olmaksızın pek kullanışlı olmayacak. Bu gerçekleşirse özgürlük çabalarımız "
 "başarısızlığa uğramış demektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If releasing free alternatives were simply a matter of programming, solving "
 "future problems might become easier as our community's development resources "
@@ -272,7 +279,7 @@ msgstr ""
 "etmek için <strong>bunları kullanan özgür olmayan yazılımları reddetmekten</"
 "strong> başka bir yolumuz kalmayacak."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Meeting these challenges will require many different kinds of effort.  But "
 "what we need above all, to confront any kind of challenge, is to remember "
@@ -290,7 +297,7 @@ msgstr ""
 "özgürlüğü için savaşan, bunu yıllarca sürdürüp yılmayan insanların "
 "kararlılığına ihtiyacımız var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In our community, this goal and this determination emanate mainly from the "
 "GNU Project.  We're the ones who talk about freedom and community as "
@@ -316,13 +323,13 @@ msgstr ""
 "topluluğumuzdaki insanların, özgürlük ve kararlılık idealleriyle "
 "buluştukları başlıca mekan GNU Projesi'dir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid "But when people come across it, will they feel it relates to them?"
 msgstr ""
 "Peki insanlar bu ideallerle buluştuklarında, bu ideallerin kendileriyle "
 "bağlantısını hissedebilecekler mi?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "People who know they are using a system that came out of the GNU Project can "
 "see a direct relationship between themselves and GNU.  They won't "
@@ -342,7 +349,7 @@ msgstr ""
 "arasında sadece dolaylı bir ilişki kurabilirler. GNU felsefesiyle karşı "
 "karşıya geldiklerinde de bu felsefeyi gözardı etmeleri muhtemeldir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The GNU Project is idealistic, and anyone encouraging idealism today faces a "
 "great obstacle: the prevailing ideology encourages people to dismiss "
@@ -359,7 +366,7 @@ msgstr ""
 "aslında. Bu sistemi seven insanlar bunun bizim idealizmimiz sayesinde "
 "gerçekleştiğini bilirler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If &ldquo;the job&rdquo; really were done, if there were nothing at stake "
 "except credit, perhaps it would be wiser to let the matter drop.  But we are "
@@ -374,16 +381,6 @@ msgstr ""
 "yüreklendirmek için şimdiye kadar yaptıklarımızın takdir edilmesi gerekiyor. "
 "Lütfen işletim sistemini <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
 "olarak adlandırarak bize yardımcı olun."
-
-#. type: Content of: <blockquote><p>
-msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
-"software-free-society/\"> <cite>Free Software, Free Society: The Selected "
-"Essays of Richard M. Stallman</cite></a>."
-msgstr ""
-"Bu yazı <a href=\"http://shop.fsf.org/product/free-software-free-society/"
-"\"><cite>Özgür Yazılım, Özgür Toplum: Richard M. Stallman'ın Seçilmiş "
-"Yazıları</cite></a> kitabında yayınlanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -411,14 +408,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -433,9 +430,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2000, 2006, 2007, 2014, 2015, 2016, 2020 Richard Stallman"
+"Copyright &copy; 2000, 2006, 2007, 2014-2016, 2020, 2021 Richard Stallman"
 msgstr ""
-"Copyright &copy; 2000, 2006, 2007, 2014, 2015, 2016, 2020 Richard Stallman"
+"Copyright &copy; 2000, 2006, 2007, 2014-2016, 2020, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
