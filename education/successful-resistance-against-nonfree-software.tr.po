@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: successful-resistance-against-nonfree-software.html\n"
-"POT-Creation-Date: 2020-12-30 16:55+0000\n"
-"PO-Revision-Date: 2021-01-15 18:39+0100\n"
+"POT-Creation-Date: 2021-04-17 14:25+0000\n"
+"PO-Revision-Date: 2021-04-18 10:02+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -108,6 +108,17 @@ msgstr ""
 #. type: Content of: <div><h3>
 msgid "Examples"
 msgstr "Örnekler"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"A student of Computer Science in Poland <a href=\"/education/how-i-fought-to-"
+"graduate-without-using-non-free-software.html\"> fights back</a> proprietary "
+"software at his university and manages to graduate using only free software."
+msgstr ""
+"Polonya'da bir Bilgisayar Bilimleri öğrencisi, üniversitesindeki özel mülk "
+"yazılıma <a href=\"/education/how-i-fought-to-graduate-without-using-non-"
+"free-software.html\"> karşı direniyor</a> ve sadece özgür yazılım kullanarak "
+"mezun olmayı başarıyor."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -223,8 +234,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

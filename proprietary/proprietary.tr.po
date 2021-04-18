@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the original article.
 #
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
-# T. E. Kalaycı, 2020.
+# T. E. Kalaycı, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2021-04-11 14:55+0000\n"
-"PO-Revision-Date: 2021-04-14 20:13+0200\n"
+"POT-Creation-Date: 2021-04-18 08:25+0000\n"
+"PO-Revision-Date: 2021-04-19 07:49+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -59,8 +59,8 @@ msgid ""
 "The point of this page is that the initial injustice of proprietary software "
 "often leads to further injustices: malicious functionalities."
 msgstr ""
-"Bu sayfanın bakış açısı, özel mülk yazılımın ilk adaletsizliğinin genellikle "
-"daha fazla adaletsizliğe yol açtığı şeklindedir: kötücül işlevler."
+"Bu sayfanın bakış açısı özel mülk yazılımın başlangıçtaki adaletsizliğinin "
+"genellikle daha fazla adaletsizliğe yol açtığı şeklindedir: kötücül işlevler."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -85,7 +85,7 @@ msgstr ""
 "Güç yozlaştırır; özel mülk programın geliştiricisi, programı kullanıcılarına "
 "kötü muamele yapacak şekilde tasarlama eğilimindedir. (İşleyişi kullanıcıya "
 "kötü davranan yazılımlara <em>kötücül yazılım</em> denir.) Tabii ki "
-"geliştirici bunu genellikle kötülüğünden dolayı yapmaz, bunun yerine "
+"geliştirici bunu genellikle kötülüğünden dolayı yapmaz, onun yerine "
 "kullanıcıların pahasına daha fazla kâr elde etmek için yapar. Bu onu daha az "
 "kötü ya da daha meşru yapmaz."
 
@@ -336,10 +336,27 @@ msgstr "Son eklenenler"
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
+"A zero-day vulnerability in Zoom which <a href=\"https://www.zdnet.com/"
+"article/critical-zoom-vulnerability-triggers-remote-code-execution-without-"
+"user-input/\">can be used to launch remote code execution (RCE) attacks</a> "
+"has been disclosed by researchers. The researchers demonstrated a three-bug "
+"attack chain that caused an RCE on a target machine, and all without any "
+"form of user interaction."
+msgstr ""
+"Zoom'da <a href=\"https://www.zdnet.com/article/critical-zoom-vulnerability-"
+"triggers-remote-code-execution-without-user-input/\">uzaktan kod çalıştırma "
+"[Remote Code Execution] (RCE) saldırıları yapmak için kullanılabilecek</a> "
+"bir sıfır gün açığı araştırmacılar tarafından ortaya çıkarıldı. "
+"Araştırmacılar üç yazılım hatası saldırı zincirinin hedef bir makinede "
+"RCE'ye, hem de herhangi bir biçimde kullanıcı etkileşimi olmadan, yol "
+"açtığını gösterdiler."
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
 "Google <a href=\"https://www.indiatoday.in/technology/news/story/disha-ravi-"
 "arrest-puts-privacy-of-all-google-india-users-in-"
 "doubt-1769772-2021-02-16\">handed over personal data of Indian protesters "
-"and activists to Indian police</a> which leaded to their arrest. The cops "
+"and activists to Indian police</a> which led to their arrest. The cops "
 "requested the IP address and the location where a document was created and "
 "with that information, they identified protesters and activists."
 msgstr ""
@@ -431,25 +448,9 @@ msgstr ""
 "philosophy/words-to-avoid.html#Hacker\">üstât (hacker)</a>\" olarak "
 "adlandırmaktır.</small>"
 
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"TV manufacturers are turning to produce only &ldquo;Smart&rdquo; TV sets "
-"(which include spyware) that <a href=\"https://frame.work/blog/in-defense-of-"
-"dumb-tvs\">it's now very hard to find a TV that doesn't spy on you</a>."
-msgstr ""
-"TV imalatçıları &ldquo;Akıllı&rdquo; (casus yazılım içeren) TV takımları "
-"üretmeye yöneliyor ve <a href=\"https://frame.work/blog/in-defense-of-dumb-"
-"tvs\">artık şimdi sizi gizlice gözetlemeyen bir TV bulmak oldukça zor</a>."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"It appears that those manufacturers business model is not to produce TV and "
-"sell them for money, but to collect your personal data and (possibly) hand "
-"over them to others for benefit."
-msgstr ""
-"Öyle görünüyor ki bu imalatçıların işletme modeli TV üretip para "
-"karşılığında satmaktan ziyade kişisel verinizi toplamak ve (muhtemelen) "
-"çıkar sağlamak için onu başkalarına vermek."
+#. type: Content of: <div><p>
+msgid "<a href=\"/proprietary/all.html\">More items&hellip;</a>"
+msgstr "<a href=\"/proprietary/all.html\">Daha fazlası&hellip;</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -523,13 +524,32 @@ msgstr ""
 "<ul>\n"
 "<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
 "\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
-"<li>T. E. Kalaycı, 2020.</li>\n"
+"<li>T. E. Kalaycı, 2020, 2021.</li>\n"
 "</ul>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "TV manufacturers are turning to produce only &ldquo;Smart&rdquo; TV sets "
+#~ "(which include spyware) that <a href=\"https://frame.work/blog/in-defense-"
+#~ "of-dumb-tvs\">it's now very hard to find a TV that doesn't spy on you</a>."
+#~ msgstr ""
+#~ "TV imalatçıları &ldquo;Akıllı&rdquo; (casus yazılım içeren) TV takımları "
+#~ "üretmeye yöneliyor ve <a href=\"https://frame.work/blog/in-defense-of-"
+#~ "dumb-tvs\">artık şimdi sizi gizlice gözetlemeyen bir TV bulmak oldukça "
+#~ "zor</a>."
+
+#~ msgid ""
+#~ "It appears that those manufacturers business model is not to produce TV "
+#~ "and sell them for money, but to collect your personal data and (possibly) "
+#~ "hand over them to others for benefit."
+#~ msgstr ""
+#~ "Öyle görünüyor ki bu imalatçıların işletme modeli TV üretip para "
+#~ "karşılığında satmaktan ziyade kişisel verinizi toplamak ve (muhtemelen) "
+#~ "çıkar sağlamak için onu başkalarına vermek."
 
 #~ msgid ""
 #~ "Tiny Lab Productions, along with online ad businesses run by Google, "
