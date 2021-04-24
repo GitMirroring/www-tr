@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2021-01-01 05:25+0000\n"
-"PO-Revision-Date: 2021-01-15 18:30+0100\n"
+"POT-Creation-Date: 2021-04-22 15:25+0000\n"
+"PO-Revision-Date: 2021-04-24 07:28+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -226,22 +226,6 @@ msgstr ""
 "dağıtımıdır. Bu &ldquo;statik&rdquo; bir dağıtımdır, normalde canlı CD "
 "üstünden çalışır. Güvenlik güncellemesi almadığı için, çevrimdışı olarak "
 "kullanılmalıdır."
-
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.gnewsense.org/\">"
-msgstr "<a href=\"http://www.gnewsense.org/\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "gNewSense"
-msgstr "gNewSense"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<em>gNewSense</em>, a GNU/Linux distribution based on Debian, with "
-"sponsorship from the FSF."
-msgstr ""
-"<em>gNewSense</em>, FSF sponsorluğunda Debian tabanlı bir GNU/Linux "
-"dağıtımıdır."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"/software/guix/\">"
@@ -519,6 +503,22 @@ msgstr ""
 "Geliştirilmesi durdurulduğu için geliştiricilerin isteği üzerine <em>Haziran "
 "2018'de kaldırıldı</em>."
 
+#. type: Attribute 'alt' of: <table><tr><td><img>
+msgid "gNewSense"
+msgstr "gNewSense"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<em>gNewSense</em>, a GNU/Linux distribution based on Debian, with "
+"sponsorship from the FSF."
+msgstr ""
+"<em>gNewSense</em>, FSF sponsorluğunda Debian tabanlı bir GNU/Linux "
+"dağıtımıdır."
+
+#. type: Content of: <table><tr><td>
+msgid "<em>Removed April 2021</em>."
+msgstr "<em>Nisan 2021'de Kaldırıldı</em>."
+
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://musixdistro.wordpress.com/\">"
 msgstr "<a href=\"https://musixdistro.wordpress.com/\">"
@@ -628,6 +628,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "<a href=\"http://www.gnewsense.org/\">"
+#~ msgstr "<a href=\"http://www.gnewsense.org/\">"
 
 #~ msgid "Introduction"
 #~ msgstr "Giriş"
