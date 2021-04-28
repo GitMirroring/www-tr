@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2021-01-20 10:25+0000\n"
-"PO-Revision-Date: 2021-01-20 17:39+0100\n"
+"POT-Creation-Date: 2021-04-27 20:55+0000\n"
+"PO-Revision-Date: 2021-04-28 06:56+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -17,19 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <div>
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
-
-#. type: Content of: <div><div>
-msgid ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
-msgstr ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
 
 #. type: Content of: <div><form><div>
 msgid ""
@@ -56,6 +48,14 @@ msgstr ""
 "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
 "maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> <input "
 "type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
+
+#. type: Content of: <div><div>
+msgid ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
@@ -89,7 +89,7 @@ msgstr ""
 msgid "&nbsp;[Search www.gnu.org]&nbsp;"
 msgstr "&nbsp;[www.gnu.org'da Ara]&nbsp;"
 
-#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/" 
+#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/"
 #. type: Content of: <div><div><a>
 msgid ""
 "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container\">"
@@ -100,7 +100,7 @@ msgstr ""
 msgid "&nbsp;[Languages]&nbsp;"
 msgstr "&nbsp;[Languages - Diller]&nbsp;"
 
-#. #endif 
+#. #endif
 #. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
