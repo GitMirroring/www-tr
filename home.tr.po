@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2021-04-28 23:25+0000\n"
-"PO-Revision-Date: 2021-04-29 06:54+0200\n"
+"POT-Creation-Date: 2021-05-22 06:25+0000\n"
+"PO-Revision-Date: 2021-05-22 09:56+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -56,12 +56,24 @@ msgid "English"
 msgstr "İngilizce"
 
 #. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
 msgid "Persian"
 msgstr "Farsça"
 
 #. type: Attribute 'label' of: <div><div><div><video><track>
 msgid "French"
 msgstr "Fransızca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Italian"
+msgstr "İtalyanca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Dutch"
+msgstr "Hollandaca"
 
 #. type: Attribute 'label' of: <div><div><div><video><track>
 msgid "Brazilian"
@@ -756,9 +768,6 @@ msgstr "Son Güncelleme:"
 
 #~ msgid "German"
 #~ msgstr "Almanca"
-
-#~ msgid "Spanish"
-#~ msgstr "İspanyolca"
 
 #~ msgid ""
 #~ "The GNU Project and the Free Software Foundation are <a href=\"/gnu/2020-"
