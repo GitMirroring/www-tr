@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: dangers-of-proprietary-systems-in-online-teaching.html\n"
-"POT-Creation-Date: 2020-12-09 05:56+0000\n"
+"POT-Creation-Date: 2021-05-26 21:26+0000\n"
 "PO-Revision-Date: 2021-01-16 09:16+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: \n"
@@ -176,8 +176,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -202,3 +202,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "Copyright &copy; 2020 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2020 Free Software Foundation, Inc."

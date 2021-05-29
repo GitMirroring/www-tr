@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-resources.html\n"
-"POT-Creation-Date: 2020-05-27 11:14+0200\n"
+"POT-Creation-Date: 2021-05-26 21:26+0000\n"
 "PO-Revision-Date: 2020-05-31 08:58+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -139,9 +139,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2012, 2016, 2018-2020 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018-2021 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2012, 2016, 2018-2020 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

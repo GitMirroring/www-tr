@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2021-05-10 00:25+0000\n"
-"PO-Revision-Date: 2021-05-16 08:59+0200\n"
+"POT-Creation-Date: 2021-05-26 11:25+0000\n"
+"PO-Revision-Date: 2021-05-29 12:02+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -562,6 +562,42 @@ msgstr ""
 "Chrome OS’un merkezî kısmı, özgür olmayan Chrome tarayıcısıdır. Başka özgür "
 "olmayan yazılım da içerebilir."
 
+#. type: Content of: <p>
+msgid ""
+"The rest of it is based on <a href=\"#ChromiumOS\">ChromiumOS</a>, so it "
+"also has the problems of Chromium OS, plus the nonfree parts of Android."
+msgstr ""
+"Diğer kısımları <a href=\"#ChromiumOS\">ChromiumOS</a>'da dayanıyor, bu "
+"nedenle Chromium OS'un ve Android'in özgür olmayan kısımlarının sorunlarını "
+"da barındırıyor."
+
+#. type: Content of: <h3>
+msgid "Chromium OS"
+msgstr "Chromium OS"
+
+#. type: Content of: <p>
+msgid ""
+"Chromium OS contains proprietary software, including firmware blobs and "
+"nonfree user-space binaries to support specific hardware on some computers."
+msgstr ""
+"Chromium OS, aygıt yazılımı parçaları ve bazı bilgisayarlarda belirli "
+"donanımı desteklemek için özgür olmayan kullanıcı alanı ikili dosyalarını da "
+"içeren, özel mülk yazılım içeriyor."
+
+#. type: Content of: <p>
+msgid ""
+"In addition, the login system surveils users, as it requires a Google "
+"account (Chromium OS does not support local accounts).  The &ldquo;"
+"guest&rdquo; session feature is not a real alternative to logging in with a "
+"Google account, because it doesn't allow persistent storage and limits the "
+"system's features."
+msgstr ""
+"Ek olarak, oturum açma sistemi kullanıcıyı gözetliyor, çünkü bir Google "
+"hesabı gerektiriyor (Chromium OS yerel hesapları desteklemiyor). &ldquo;"
+"Misafir&rdquo; oturum özelliği Google hesabıyla oturum açmaya karşı ciddi "
+"bir alternatif oluşturmuyor, çünkü kalıcı saklamaya izin vermiyor ve "
+"sistemin bazı özelliklerini kısıtlıyor."
+
 #. type: Content of: <h3>
 msgid "/e/"
 msgstr "/e/"
@@ -661,12 +697,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
-"Software Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021 Free "
-"Software Foundation, Inc."
+msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-software.html\n"
-"POT-Creation-Date: 2020-10-28 18:56+0000\n"
+"POT-Creation-Date: 2021-05-26 21:26+0000\n"
 "PO-Revision-Date: 2020-10-28 21:50+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -240,10 +240,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2012, 2016, 2017, 2019, 2020 Free Software "
+"Copyright &copy; 2011, 2012, 2016, 2017, 2019, 2020, 2021 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2012, 2016, 2017, 2019, 2020 Free Software "
+"Copyright &copy; 2011, 2012, 2016, 2017, 2019, 2020, 2021 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -270,3 +270,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Copyright &copy; 2011, 2012, 2016, 2017, 2019, 2020 Free Software "
+#~ "Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 2011, 2012, 2016, 2017, 2019, 2020 Free Software "
+#~ "Foundation, Inc."
