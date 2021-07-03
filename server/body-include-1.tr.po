@@ -23,7 +23,7 @@ msgstr ""
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
 
-#. #echo encoding='none' var='fr_link'
+#. #echo encoding='none' var='fr_link' 
 #. type: Content of: <div><div><p>
 msgid ""
 "Your donation helps us lead the journey to freedom for all computer users.  "
@@ -71,7 +71,7 @@ msgstr ""
 msgid "&nbsp;[Search www.gnu.org]&nbsp;"
 msgstr "&nbsp;[www.gnu.org'da Ara]&nbsp;"
 
-#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/"
+#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/" 
 #. type: Content of: <div><div><a>
 msgid ""
 "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container\">"
@@ -82,7 +82,7 @@ msgstr ""
 msgid "&nbsp;[Languages]&nbsp;"
 msgstr "&nbsp;[Languages - Diller]&nbsp;"
 
-#. #endif
+#. #endif 
 #. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
