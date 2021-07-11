@@ -12,42 +12,30 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-doc.html\n"
-"POT-Creation-Date: 2019-12-27 22:55+0000\n"
-"PO-Revision-Date: 2021-02-15 12:49+0200\n"
-"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
+"POT-Creation-Date: 2021-07-11 09:56+0000\n"
+"PO-Revision-Date: 2021-07-11 20:12+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 19.12.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
-"Why Free Software needs Free Documentation - GNU Project - Free Software "
+"Why Free Software Needs Free Documentation - GNU Project - Free Software "
 "Foundation"
 msgstr ""
-"Özgür Yazılım neden Özgür Belgelendirmeye ihtiyaç duyar - GNU Projesi - "
+"Özgür Yazılım Neden Özgür Belgelendirmeye İhtiyaç Duyar - GNU Projesi - "
 "Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
-msgid "Why Free Software needs Free Documentation"
-msgstr "Özgür Yazılım neden Özgür Belgelendirmeye ihtiyaç duyar"
+#. type: Content of: <div><h2>
+msgid "Why Free Software Needs Free Documentation"
+msgstr "Özgür Yazılım Neden Özgür Belgelendirmeye İhtiyaç Duyar"
 
-#. type: Content of: <blockquote><p>
-msgid ""
-"<a href=\"http://defectivebydesign.org/ebooks.html\">Join our mailing list "
-"about the dangers of eBooks</a>."
-msgstr ""
-"<a href=\"http://defectivebydesign.org/ebooks.html\">E-kitapların "
-"tehlikeleri hakkındaki posta listemize katılın</a>."
-
-#. type: Content of: <ul><li>
-msgid "<a href=\"/copyleft/fdl.html\">The GNU Free Documentation License</a>"
-msgstr "<a href=\"/copyleft/fdl.html\">GNU Özgür Belgelendirme Lisansı</a>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The biggest deficiency in free operating systems is not in the "
 "software&mdash;it is the lack of good free manuals that we can include in "
@@ -63,7 +51,7 @@ msgstr ""
 "özgür yazılım paketi iyi bir özgür belgeyle birlikte verilmediğinde, bu "
 "büyük bir eksikliktir. Günümüzde bu gibi eksikliklerimiz vardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Once upon a time, many years ago, I thought I would learn Perl.  I got a "
 "copy of a free manual, but I found it hard to read.  When I asked Perl users "
@@ -75,7 +63,7 @@ msgstr ""
 "kullanıcılarına başka kılavuzlar olup olmadığını sorduğumda, daha iyi "
 "anlatımlı kılavuzların olduğunu ancak bunların özgür olmadığını öğrenmiştim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Why was this? The authors of the good manuals had written them for O'Reilly "
 "Associates, which published them with restrictive terms&mdash;no copying, no "
@@ -87,7 +75,7 @@ msgstr ""
 "değil&mdash;yayımlayan O'Reilly Associates için yazmışlardı, bu da onları "
 "özgür olmayan kıldı ve böylece Özgür Dünya'nın dışında kaldılar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "That wasn't the first time this sort of thing has happened, and (to our "
 "community's great loss) it was far from the last.  Proprietary manual "
@@ -107,7 +95,7 @@ msgstr ""
 "kullanamayacağız şekilde bir yayıncı ile anlaşıp bir sözleşme imzaladığını "
 "söyledi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Given that writing good English is a rare skill among programmers, we can "
 "ill afford to lose manuals this way."
@@ -115,12 +103,20 @@ msgstr ""
 "Programcıların iyi İngilizce yazamadıklarını göz önünde bulundurursak, "
 "kılavuzların bu şekilde işlevsizleştiğini de görürüz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><div><p>
+msgid ""
+"<a href=\"https://defectivebydesign.org/ebooks.html\">Join our mailing list "
+"about the dangers of eBooks</a>."
+msgstr ""
+"<a href=\"https://defectivebydesign.org/ebooks.html\">E-kitapların "
+"tehlikeleri hakkındaki posta listemize katılın</a>."
+
+#. type: Content of: <div><div><p>
 msgid ""
 "Free documentation, like free software, is a matter of freedom, not price.  "
 "The problem with these manuals was not that O'Reilly Associates charged a "
 "price for printed copies&mdash;that in itself is fine.  (The Free Software "
-"Foundation <a href=\"http://shop.fsf.org/category/books/\">sells printed "
+"Foundation <a href=\"https://shop.fsf.org/category/books/\">sells printed "
 "copies</a> of free <a href=\"/doc/doc.html\">GNU manuals</a>, too.)  But GNU "
 "manuals are available in source code form, while these manuals are available "
 "only on paper.  GNU manuals come with permission to copy and modify; the "
@@ -130,13 +126,13 @@ msgstr ""
 "bir husustur. Bu kılavuzlarla ilgili sorun, O’Reilly Associates’in kopyalar "
 "için bir ücret istemesi değildir, bununla ilgili bir sorun yoktur. (Özgür "
 "Yazılım Vakfı özgür  <a href=\"/doc/doc.html\">GNU kılavuzları</a>nın <a "
-"href=\"http://shop.fsf.org/category/books/\">baskılı kopyalarını</a> da "
+"href=\"https://shop.fsf.org/category/books/\">baskılı kopyalarını</a> da "
 "satmaktadır.) Ancak GNU kılavuzları, kaynak kodu biçiminde sağlanabilirken, "
 "özel mülk kılavuzlar yalnızca kâğıt biçiminde elde edilebilmektedir. GNU "
 "kılavuzları kopyalama ve değiştirme izniyle birlikte gelir; Perl kılavuzları "
 "için durum farklıdır. Bu kısıtlamalar problemlerdir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The criterion for a free manual is pretty much the same as for free "
 "software: it is a matter of giving all users certain freedoms.  "
@@ -151,7 +147,11 @@ msgstr ""
 "bu çevrim içi  ya da kâğıt biçiminde olabilir. Değiştirmeye ilişkin izin de "
 "can alıcıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"/licenses/fdl.html\">The GNU Free Documentation License</a>"
+msgstr "<a href=\"/licenses/fdl.html\">GNU Özgür Belgelendirme Lisansı</a>"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "As a general rule, I don't believe that it is essential for people to have "
 "permission to modify all sorts of articles and books.  The issues for "
@@ -166,7 +166,7 @@ msgstr ""
 "yazıların değiştirilmesine sizin ve benim izin vermek zorunda olduğumuzu "
 "düşünmüyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But there is a particular reason why the freedom to modify is crucial for "
 "documentation for free software.  When people exercise their right to modify "
@@ -186,7 +186,7 @@ msgstr ""
 "veya programı değiştirdiklerinde sıfırdan yeni bir kılavuz yazmalarını "
 "gerektiren bir kılavuz, topluluğumuzun ihtiyaçlarını karşılamaz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "While a blanket prohibition on modification is unacceptable, some kinds of "
 "limits on the method of modification pose no problem.  For example, "
@@ -205,7 +205,7 @@ msgstr ""
 "olmayan başlıkları ele aldığı sürece) sahip olmakta da bir problem yoktur. "
 "(Bazı GNU kılavuzlarında bu vardır.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "These kinds of restrictions are not a problem because, as a practical "
 "matter, they don't stop the conscientious programmer from adapting the "
@@ -217,7 +217,7 @@ msgstr ""
 "alıkoymaz. Başka bir deyişle, özgür yazılım topluluğunun kılavuzun tam "
 "kullanımını sağlamasını engellemezler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "However, it must be possible to modify all the <em>technical</em> content of "
 "the manual, and then distribute the result through all the usual media, "
@@ -229,7 +229,7 @@ msgstr ""
 "mümkün olmalıdır; aksi takdirde, kısıtlamalar topluluğu engeller, kılavuz "
 "özgür değilse başka bir kılavuza ihtiyaç duyarız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Unfortunately, it is often hard to find someone to write another manual when "
 "a proprietary manual exists.  The obstacle is that many users think that a "
@@ -243,7 +243,7 @@ msgstr ""
 "bir kılavuzun yazılmasına ihtiyaç olduğunu göremezler. Özgür işletim "
 "sisteminin, doldurulması gereken bir boşluğa sahip olduğunu görmezler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Why do users think that proprietary manuals are good enough? Some have not "
 "considered the issue.  I hope this article will do something to change that."
@@ -252,7 +252,7 @@ msgstr ""
 "düşünmektedir? Bazıları bu konuyu düşünmemiştir. Umarım ki bu yazı, bunu "
 "değiştirmek için bir şeyler yapacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Other users consider proprietary manuals acceptable for the same reason so "
 "many people consider proprietary software acceptable: they judge in purely "
@@ -269,7 +269,7 @@ msgstr ""
 "fikirler, özgürlüğü içermeyen değerlerden kaynaklandıkları için, özgürlüğe "
 "değer veren bizim gibi insanlar için yol gösterici değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Please spread the word about this issue.  We continue to lose manuals to "
 "proprietary publishing.  If we spread the word that proprietary manuals are "
@@ -283,7 +283,7 @@ msgstr ""
 "GNU’ya yardım etmek isteyen bir sonraki kimse, çok geç olmadan hepsinin "
 "ötesinde öncelikle özgürlüğe önem vermesi gerektiğini fark edecektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We can also encourage commercial publishers to sell free, copylefted manuals "
 "instead of proprietary ones.  One way you can help this is to check the "
@@ -295,7 +295,7 @@ msgstr ""
 "yolu da, satın almadan önce bir kılavuzun dağıtımını kontrol etmek ve "
 "copyleft olmayan kılavuzlardan çok copyleft kılavuzları tercih etmektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "[Note: We maintain a <a href=\"/doc/other-free-books.html\">page that lists "
 "free books available from other publishers</a>]."
@@ -330,14 +330,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -352,11 +352,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2009, 2015, 2016, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 1996-2007, 2009, 2015, 2016, 2019, 2021 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2009, 2015, 2016, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 1996-2007, 2009, 2015, 2016, 2019, 2021 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

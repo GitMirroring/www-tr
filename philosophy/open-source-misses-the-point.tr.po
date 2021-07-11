@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: open-source-misses-the-point.html\n"
-"POT-Creation-Date: 2021-04-26 11:55+0000\n"
-"PO-Revision-Date: 2021-04-28 06:52+0200\n"
+"POT-Creation-Date: 2021-07-11 08:56+0000\n"
+"PO-Revision-Date: 2021-07-11 20:10+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -27,15 +27,15 @@ msgstr ""
 "Neden Açık Kaynak Özgür Yazılımın Noktasını Kaçırıyor - GNU Projesi - Özgür "
 "Yazılım Vakfı"
 
-#. type: Content of: <h2>
-msgid "Why Open Source misses the point of Free Software"
+#. type: Content of: <div><h2>
+msgid "Why Open Source Misses the Point of Free Software"
 msgstr "Neden Açık Kaynak Özgür Yazılımın Noktasını Kaçırıyor"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "yazan Richard Stallman"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><div><div><p>
 msgid ""
 "The terms &ldquo;free software&rdquo; and &ldquo;open source&rdquo; stand "
 "for almost the same range of programs.  However, they say deeply different "
@@ -53,7 +53,7 @@ msgstr ""
 "avantajlara değer verir ve ilkeler için kampanya yapmaz. Bu nedenle açık "
 "kaynak ile aynı fikirde değiliz ve bu terimi kullanmıyoruz."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When we call software &ldquo;free,&rdquo; we mean that it respects the <a "
 "href=\"/philosophy/free-sw.html\">users' essential freedoms</a>: the freedom "
@@ -68,7 +68,7 @@ msgstr ""
 "meselesidir, ücret değil, bu yüzden  “bedava bira” yerine “konuşma "
 "özgürlüğünü” akla getirmek gerekmektedir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "These freedoms are vitally important.  They are essential, not just for the "
 "individual users' sake, but for society as a whole because they promote "
@@ -84,7 +84,7 @@ msgstr ""
 "daha da önem kazanmaktadır. Sayısal ses, görüntü ve kelimelerin olduğu bir "
 "dünyada, özgür yazılım genel olarak özgürlük içi asli hale gelmektedir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Tens of millions of people around the world now use free software; the "
 "public schools of some regions of India and Spain now teach all students to "
@@ -104,7 +104,7 @@ msgstr ""
 "çoğunlukla &ldquo;açık kaynak&rdquo; olarak adlandırılmaktadır, bu kavrama "
 "özgürlüğün zar zor dile getirildiği farklı bir felsefe yüklenmiştir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The free software movement has campaigned for computer users' freedom since "
 "1983.  In 1984 we launched the development of the free operating system GNU, "
@@ -122,7 +122,7 @@ msgstr ""
 "Genel Kamu Lisansını</a> (GNU GPL) programın tüm kullanıcılarının "
 "özgürlüğünü koruyacak bir lisans olarak tasarladık."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Not all of the users and developers of free software agreed with the goals "
 "of the free software movement.  In 1998, a part of the free software "
@@ -139,7 +139,7 @@ msgstr ""
 "önerilmişti, ancak kısa zamanda özgür yazılım hareketindeki felsefik "
 "görüşlerden oldukça farklı görüşlerle ilişkilendirildi."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some of the supporters of open source considered the term a &ldquo;marketing "
 "campaign for free software,&rdquo; which would appeal to business executives "
@@ -153,7 +153,7 @@ msgid ""
 "supporters of open source have come to it since then, and they make the same "
 "association.  Most discussion of &ldquo;open source&rdquo; pays no attention "
 "to right and wrong, only to popularity and success; here's a <a href="
-"\"http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-"
+"\"https://linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-"
 "Hottest-Trends-78937.html\"> typical example</a>.  A minority of supporters "
 "of open source do nowadays say freedom is part of the issue, but they are "
 "not very visible among the many that don't."
@@ -170,13 +170,13 @@ msgstr ""
 "vardı. Açık kaynağın çoğu destekçisi bu duruma geldi, ve aynı ilişkiyi "
 "yaptılar. &ldquo;Açık kaynak&rdquo; hakkındaki çoğu tartışma doğru veya "
 "yanlışa aldırış etmiyor, sadece popülerlik ve başarıyı önemsiyor; işte <a "
-"href=\"http://www.linuxinsider.com/story/Open-Source-Is-Woven-Into-the-"
-"Latest-Hottest-Trends-78937.html\"> tipik bir örnek</a>. Açık kaynak "
+"href=\"https://linuxinsider.com/story/Open-Source-Is-Woven-Into-the-Latest-"
+"Hottest-Trends-78937.html\"> tipik bir örnek</a>. Açık kaynak "
 "destekçilerinin az bir kısmı bugünlerde özgürlüğün de sorunun bir parçası "
 "olduğunu söylüyorlar, ancak bunu ifade etmeyen çoğunluk içerisinde pek "
 "görünür değiller."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The two now describe almost the same category of software, but they stand "
 "for views based on fundamentally different values.  For the free software "
@@ -194,7 +194,7 @@ msgstr ""
 "konusunu önemser. Özgür olmayan yazılımın eldeki pratik problem için "
 "değersiz bir çözüm olduğunu söyler."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For the free software movement, however, nonfree software is a social "
 "problem, and the solution is to stop using it and move to free software."
@@ -202,7 +202,7 @@ msgstr ""
 "Ancak özgür yazılım hareketi için özgür olmayan yazılım sosyal bir sorundur "
 "ve çözüm, onu kullanmayı bırakıp özgür yazılıma geçmektir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;Free software.&rdquo; &ldquo;Open source.&rdquo; If it's the same "
 "software (<a href=\"/philosophy/free-open-overlap.html\">or nearly so</a>), "
@@ -221,7 +221,7 @@ msgstr ""
 "öğretmeye dayanır. Eğer bunu yapmakta yardımcı olmak istiyorsanız, &ldquo;"
 "özgür yazılım&rdquo;dan konuşmak olmazsa olmazdır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "We in the free software movement don't think of the open source camp as an "
 "enemy; the enemy is proprietary (nonfree) software.  But we want people to "
@@ -238,11 +238,11 @@ msgstr ""
 "çıktığımız &ldquo;kapalı kaynak&rdquo; değildir. Bunu açıklığa kavuşturmak "
 "için, bu terimleri kullanmaktan kaçınıyoruz."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Practical Differences between Free Software and Open Source"
 msgstr "Özgür Yazılım ve Açık Kaynak Arasındaki Pratik Farklılıklar"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In practice, open source stands for criteria a little looser than those of "
 "free software.  As far as we know, all existing released free software "
@@ -262,7 +262,7 @@ msgstr ""
 "değiştirilmiş bir sürüm oluşturulmasına ve özel olarak kullanılmasına izin "
 "vermez. Neyse ki birkaç program bu tür lisansları kullanmaktadır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Second, when a program's source code carries a weak license, one without "
 "copyleft, its executables can carry additional nonfree conditions.  <a href="
@@ -274,7 +274,7 @@ msgstr ""
 "taşıyabilir. Örneğin; <a href=\"https://code.visualstudio.com/License/"
 "\">Microsoft, Visual Studio ile bunu yapıyor</a>."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If these executables fully correspond to the released sources, they qualify "
 "as open source but not as free software.  However, in that case users can "
@@ -285,7 +285,7 @@ msgstr ""
 "Bununla birlikte bu durumda kullanıcılar özgür yürütülebilir dosya yapmak ve "
 "dağıtmak için kaynak kodu derleyebilir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Finally, and most important in practice, many products containing computers "
 "check signatures on their executable programs to block users from installing "
@@ -307,7 +307,7 @@ msgstr ""
 "nominal olarak özgür lisans alsa bile kullanıcılar değiştirilmiş sürümlerini "
 "çalıştıramazlar, böylece çalıştırılabilir dosya fiilen özgür değildir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Many Android products contain nonfree tivoized executables of Linux, even "
 "though its source code is under GNU GPL version 2.  We designed GNU GPL "
@@ -317,7 +317,7 @@ msgstr ""
 "Linux'un özgür olmayan tivolaşmış çalıştırılabilir dosyalarını içerir.  Bu "
 "uygulamayı yasaklamak için GNU GPL versiyon 3'ü tasarladık."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The criteria for open source are concerned solely with the licensing of the "
 "source code.  Thus, these nonfree executables, when made from source code "
@@ -328,13 +328,13 @@ msgstr ""
 "kaynak ve özgür olan Linux gibi kaynak kodlarından yapıldığında açık "
 "kaynaktır fakat özgür değildir."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid ""
 "Common Misunderstandings of &ldquo;Free Software&rdquo; and &ldquo;Open "
 "Source&rdquo;"
 msgstr "“Özgür Yazılım” ve “Açık Kaynak” İle İlgili Başlıca Yanlış Anlamalar"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The term &ldquo;free software&rdquo; is prone to misinterpretation: an "
 "unintended meaning, &ldquo;software you can get for zero price,&rdquo; fits "
@@ -354,7 +354,7 @@ msgstr ""
 "çözüm değildir, sorunu tamamen çözemez. Kafa karıştırmayan ve doğru bir "
 "terim daha iyi olurdu, eğer başka bir problem yaratmıyorsa."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Unfortunately, all the alternatives in English have problems of their own.  "
 "We've looked at many that people have suggested, but none is so clearly "
@@ -372,7 +372,7 @@ msgstr ""
 "yazılım”la değiştirmek üzere önerilen her kelime bir çeşit anlamsal soruna "
 "sahip - bunların içerisinde “açık kaynak yazılım”da var."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The <a href=\"https://opensource.org/osd\">official definition of &ldquo;"
 "open source software&rdquo;</a> (which is published by the Open Source "
@@ -387,7 +387,7 @@ msgstr ""
 "dolaylı olarak türetilmiştir. Aynı değildir; bazı açılardan daha gevşektir. "
 "Bununla beraber, pratikte bizim tanımımıza oldukça yakındır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "However, the obvious meaning for the expression &ldquo;open source "
 "software&rdquo;&mdash;and the one most people seem to think it means&mdash;"
@@ -402,7 +402,7 @@ msgstr ""
 "da oldukça zayıftır. Özgür veya açık kaynak olmayan bir çok programı da "
 "içerir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Since the obvious meaning for &ldquo;open source&rdquo; is not the meaning "
 "that its advocates intend, the result is that most people misunderstand the "
@@ -431,37 +431,37 @@ msgstr ""
 "kamusal olarak elde edilebilir, her ne kadar bazı lisans anlaşmalarına bağlı "
 "olarak kod ile yapabildikleriniz değişiklik gösterse de.&rdquo;"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"The <i>New York Times</i> <a href=\"http://www.nytimes.com/external/"
+"The <cite>New York Times</cite> <a href=\"https://www.nytimes.com/external/"
 "gigaom/2009/02/07/07gigaom-the-brave-new-world-of-open-source-game-"
 "design-37415.html\"> ran an article that stretched the meaning of the term</"
 "a> to refer to user beta testing&mdash;letting a few users try an early "
 "version and give confidential feedback&mdash;which proprietary software "
 "developers have practiced for decades."
 msgstr ""
-"<i>New York Times</i> özel mülk yazılım geliştiricilerin on yıllardır "
+"<cite>New York Times</cite> özel mülk yazılım geliştiricilerin on yıllardır "
 "uyguladığı kullanıcı beta testlerini (bazı kullanıcıların yazılımların ön "
 "sürümlerini denemesi ve güvenilir geri bildirimler vermesi) kastederek <a "
-"href=\"http://www.nytimes.com/external/gigaom/2009/02/07/07gigaom-the-brave-"
+"href=\"https://www.nytimes.com/external/gigaom/2009/02/07/07gigaom-the-brave-"
 "new-world-of-open-source-game-design-37415.html\">terimin anlamını "
 "esnekleştiren bir makale</a> yayınlamıştır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The term has even been stretched to include designs for equipment that are "
-"<a href=\"http://www.theguardian.com/sustainable-business/2015/aug/27/texas-"
+"<a href=\"https://www.theguardian.com/sustainable-business/2015/aug/27/texas-"
 "teenager-water-purifier-toxic-e-waste-pollution\">published without a "
 "patent</a>.  Patent-free equipment designs can be laudable contributions to "
 "society, but the term &ldquo;source code&rdquo; does not pertain to them."
 msgstr ""
-"Terim ayrıca <a href=\"http://www.theguardian.com/sustainable-business/2015/"
+"Terim ayrıca <a href=\"https://www.theguardian.com/sustainable-business/2015/"
 "aug/27/texas-teenager-water-purifier-toxic-e-waste-pollution\">patentsiz "
 "yayınlanan</a> teçhizat tasarımlarını da içerecek şekilde esnetilmiştir . "
 "Patentsiz teçhizat tasarıları övgüye değer toplumsal katkılar olabilir, "
 "ancak &ldquo;kaynak koduyla&rdquo; bir ilgileri yok."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Open source supporters try to deal with this by pointing to their official "
 "definition, but that corrective approach is less effective for them than it "
@@ -483,7 +483,7 @@ msgstr ""
 "anlamdan farklıdır. Bu yüzden resmi tanımı açıklamanın ve doğrulamanın kısa "
 "bir yolu yoktur. Bu karmaşayı daha da kötüleştirmektedir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Another misunderstanding of &ldquo;open source&rdquo; is the idea that it "
 "means &ldquo;not using the GNU GPL.&rdquo; This tends to accompany another "
@@ -502,7 +502,7 @@ msgstr ""
 "<a href=\"/licenses/license-list.html\"> Birçok özgür yazılım lisansı da</a> "
 "vardır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The term &ldquo;open source&rdquo; has been further stretched by its "
 "application to other activities, such as government, education, and science, "
@@ -510,7 +510,7 @@ msgid ""
 "licensing are simply not pertinent.  The only thing these activities have in "
 "common is that they somehow invite people to participate.  They stretch the "
 "term so far that it only means &ldquo;participatory&rdquo; or &ldquo;"
-"transparent&rdquo;, or less than that.  At worst, it has <a href=\"http://"
+"transparent&rdquo;, or less than that.  At worst, it has <a href=\"https://"
 "www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html\"> "
 "become a vacuous buzzword</a>."
 msgstr ""
@@ -519,15 +519,15 @@ msgstr ""
 "faaliyetlere uygulanarak da esnetildi. Bu faaliyetlerin tek ortak noktası "
 "bir şekilde insanları katkı sunmaya davet etmesi. Terimi o kadar esnettiler "
 "ki yalnızca &ldquo;katılımcı&rdquo; veya &ldquo;şeffaf&rdquo; veya bundan "
-"daha azı anlamına gelir oldu. Daha da kötüsü, <a href=\"http://www.nytimes."
+"daha azı anlamına gelir oldu. Daha da kötüsü, <a href=\"https://www.nytimes."
 "com/2013/03/17/opinion/sunday/morozov-open-and-closed.html\"> anlamsız bir "
 "moda sözcük haline geldi</a>."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Different Values Can Lead to Similar Conclusions&mdash;but Not Always"
 msgstr "Farklı Değerler Benzer Sonuçlara Götürebilir&mdash;Ama Her Zaman Değil"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Radical groups in the 1960s had a reputation for factionalism: some "
 "organizations split because of disagreements on details of strategy, and the "
@@ -541,7 +541,7 @@ msgstr ""
 "da iki kardeş grup birbirini düşman olarak görüyorlardı. Sağ kanat bunu tüm "
 "solu eleştirmek için kullandı."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some try to disparage the free software movement by comparing our "
 "disagreement with open source to the disagreements of those radical groups.  "
@@ -555,7 +555,7 @@ msgstr ""
 "dolayı anlaşamıyoruz, ancak onların ve bizim bakış açımız çoğu durumda aynı "
 "pratik davranışa yol açmaktadır - özgür yazılım geliştirmek gibi."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "As a result, people from the free software movement and the open source camp "
 "often work together on practical projects such as software development.  It "
@@ -571,7 +571,7 @@ msgstr ""
 "temel olarak farklı bakış açılarının tamamen farklı eylemlerle sonuçlandığı "
 "durumlar da vardır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The idea of open source is that allowing users to change and redistribute "
 "the software will make it more powerful and reliable.  But this is not "
@@ -587,7 +587,7 @@ msgstr ""
 "kullanıcıların özgürlüğüne saygı göstermese de. Özgür yazılım aktivistleri "
 "ve açık kaynak heveslileri bu duruma oldukça farklı tepki gösterecektir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A pure open source enthusiast, one that is not at all influenced by the "
 "ideals of free software, will say, &ldquo;I am surprised you were able to "
@@ -601,7 +601,7 @@ msgstr ""
 "Bu tutum özgürlüğümüzü ortadan kaldıran tasarıları ödüllendirip, özgürlüğün "
 "kaybına neden olacaktır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The free software activist will say, &ldquo;Your program is very attractive, "
 "but I value my freedom more.  So I reject your program.  I will get my work "
@@ -614,11 +614,11 @@ msgstr ""
 "&ldquo; Eğer özgürlüğümüze değer veriyorsak, onu korumak ve savunmak için "
 "eylemeye geçeriz."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Powerful, Reliable Software Can Be Bad"
 msgstr "Güçlü, Güvenilir Yazılım Kötü Olabilir"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The idea that we want software to be powerful and reliable comes from the "
 "supposition that the software is designed to serve its users.  If it is "
@@ -628,7 +628,7 @@ msgstr ""
 "kullanıcılara hizmet ettiği varsayımından gelir. Eğer güçlü ve güvenilir "
 "ise, kullanıcılara daha iyi hizmet edecektir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But software can be said to serve its users only if it respects their "
 "freedom.  What if the software is designed to put chains on its users? Then "
@@ -647,12 +647,12 @@ msgstr ""
 "oldukça yaygındır, ve bazı açık kaynak destekçileri bu özellikleri açık "
 "kaynak programlarda da gerçekleştirmek istemektedir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Under pressure from the movie and record companies, software for individuals "
 "to use is increasingly designed specifically to restrict them.  This "
 "malicious feature is known as Digital Restrictions Management (DRM) (see <a "
-"href=\"http://defectivebydesign.org/\">DefectiveByDesign.org</a>) and is the "
+"href=\"https://defectivebydesign.org\">DefectiveByDesign.org</a>) and is the "
 "antithesis in spirit of the freedom that free software aims to provide.  And "
 "not just in spirit: since the goal of DRM is to trample your freedom, DRM "
 "developers try to make it hard, impossible, or even illegal for you to "
@@ -661,7 +661,7 @@ msgstr ""
 "Film ve kayıt şirketlerinin baskısı altında, bireyler için yazılımlar gün "
 "geçtikçe artan şekilde kullanıcıları kısıtlamak üzere tasarlanmaktadır. Bu "
 "kötü niyetli özellik “Sayısal Kısıtlamalar Yönetimi - Digital Restrictions "
-"Management (DRM)” (<a href=\"http://defectivebydesign.org/"
+"Management (DRM)” (<a href=\"https://defectivebydesign.org/"
 "\">DefectiveByDesign.org</a> adresini ziyaret edin) olarak bilinmektedir ve "
 "bu özellik özgür yazılımın sağlamak istediği özgürlük ruhunun antitezidir. "
 "Sadece ruhun değil: DRM'in hedefi özgürlüğünü ayaklar altına almak "
@@ -669,7 +669,7 @@ msgstr ""
 "oldukça zorlaştırmakta, imkansızlaştırmakta ve hatta yasadışı hale "
 "getirmektedir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Yet some open source supporters have proposed &ldquo;open source DRM&rdquo; "
 "software.  Their idea is that, by publishing the source code of programs "
@@ -686,7 +686,7 @@ msgstr ""
 "yazılım daha sonra size değiştirme izni vermeyen aygıtlar üzerinde "
 "ulaştırılacak."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This software might be open source and use the open source development "
 "model, but it won't be free software since it won't respect the freedom of "
@@ -700,11 +700,11 @@ msgstr ""
 "yazılımı sizi kısıtlamakta daha güçlü ve güvenilir yapmakta başarılı olursa, "
 "bu herşeyi daha da kötüleştirecektir."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Fear of Freedom"
 msgstr "Özgürlük Korkusu"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The main initial motivation of those who split off the open source camp from "
 "the free software movement was that the ethical ideas of &ldquo;free "
@@ -724,7 +724,7 @@ msgstr ""
 "zihinlerini buna kapatabilirler. Ancak bu durum bizim bu konular hakkında "
 "konuşmayı bırakmamızı gerektirmez."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "That is, however, what the leaders of open source decided to do.  They "
 "figured that by keeping quiet about ethics and freedom, and talking only "
@@ -737,7 +737,7 @@ msgstr ""
 "pratik yararlarından bahsederek yazılımı bazı kullanıcılara, özellikle "
 "işletmelere, daha kolay “sattıklarını” farkettiler."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "When open source proponents talk about anything deeper than that, it is "
 "usually the idea of making a &ldquo;gift&rdquo; of source code to humanity.  "
@@ -751,7 +751,7 @@ msgstr ""
 "sunmak, özel mülkiyet kaynak kod dağıtımını etik olarak meşru olarak "
 "varsayar."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This approach has proved effective, in its own terms.  The rhetoric of open "
 "source has convinced many businesses and individuals to use, and even "
@@ -773,7 +773,7 @@ msgstr ""
 "sağlamak için yeterli değildir.  Kullanıcıları özgür yazılıma çekmek, kendi "
 "özgürlüklerini savunacak şekle kavuşturacak yolun sadece bir parçasıdır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Sooner or later these users will be invited to switch back to proprietary "
 "software for some practical advantage.  Countless companies seek to offer "
@@ -796,7 +796,7 @@ msgstr ""
 "ama eğer özgürlük sevgisinin bir ayrıksılık olarak görülmesi yaygınlaşırsa "
 "tehlikelidir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "That dangerous situation is exactly what we have.  Most people involved with "
 "free software, especially its distributors, say little about freedom&mdash;"
@@ -812,7 +812,7 @@ msgstr ""
 "özgür sisteme özel mülk paketler ekliyor ve kullanıcılarının bunu bir kusur "
 "değil de avantaj olarak değerlendirmesini istiyor."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Proprietary add-on software and partially nonfree GNU/Linux distributions "
 "find fertile ground because most of our community does not insist on freedom "
@@ -832,11 +832,11 @@ msgstr ""
 "hakkında konuşup elden ele geçmesine neden olmamaktadır. Bu eğilimi aşmak "
 "için, özgürlük hakkında daha az değil, daha fazla konuşmamız gerekli."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "&ldquo;FLOSS&rdquo; and &ldquo;FOSS&rdquo;"
 msgstr "&ldquo;FLOSS&rdquo; ve &ldquo;FOSS&rdquo;"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The terms &ldquo;FLOSS&rdquo; and &ldquo;FOSS&rdquo; are used to be <a href="
 "\"/philosophy/floss-and-foss.html\"> neutral between free software and open "
@@ -852,11 +852,11 @@ msgstr ""
 "kalkmak istiyorsan nötr bir terim kullanmak bu şekilde olmaz. Özgürlük için "
 "ayağa kalkmak, insanlara özgürlüğü desteklediğinizi göstermeyi gerektirir."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Rivals for Mindshare"
 msgstr "Tüketici Bilinci İçin Rakipler"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;Free&rdquo; and &ldquo;open&rdquo; are rivals for mindshare.  &ldquo;"
 "Free software&rdquo; and &ldquo;open source&rdquo; are different ideas but, "
@@ -882,7 +882,7 @@ msgstr ""
 "aktivite, özgür yazılım hareketi fikirlerini gizleyen perdeyi genişletme "
 "eğilimindedir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Thus, free software activists are well advised to decline to work on an "
 "activity that calls itself &ldquo;open.&rdquo; Even if the activity is good "
@@ -902,11 +902,11 @@ msgstr ""
 "Aralarından seçim yapabileceğiniz pek çok faydalı projeyle neden fazladan "
 "iyi olanı seçmiyorsunuz?"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Conclusion"
 msgstr "Sonuç"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "As the advocates of open source draw new users into our community, we free "
 "software activists must shoulder the task of bringing the issue of freedom "
@@ -922,13 +922,13 @@ msgstr ""
 "Her &ldquo;açık kaynak&rdquo; yerine &ldquo;özgür yazılım&rdquo; dediğinizde "
 "mücadelemize yardımcı olmuş olursunuz."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h3>
 msgid "Note"
 msgstr "Notlar"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Lakhani and Wolf's <a href=\"http://ocw.mit.edu/courses/sloan-school-of-"
+"Lakhani and Wolf's <a href=\"https://ocw.mit.edu/courses/sloan-school-of-"
 "management/15-352-managing-innovation-emerging-trends-spring-2005/readings/"
 "lakhaniwolf.pdf\"> paper on the motivation of free software developers</a> "
 "says that a considerable fraction are motivated by the view that software "
@@ -936,13 +936,13 @@ msgid ""
 "on SourceForge, a site that does not support the view that this is an "
 "ethical issue."
 msgstr ""
-"Lakhani ve Wolf'un <a href=\"http://ocw.mit.edu/courses/sloan-school-of-"
+"Lakhani ve Wolf'un <a href=\"https://ocw.mit.edu/courses/sloan-school-of-"
 "management/15-352-managing-innovation-emerging-trends-spring-2005/readings/"
-"lakhaniwolf.pdf\">özgür yazılım geliştiricilerinin güdüsü üzerine bildirisi</"
-"a> önemli oranda bir kesimin yazılımın özgür olması gerektiği görüşüyle "
-"güdülendiğini belirtmektedir. Bu sonuç, konuyu etik bir konu olarak ele alan "
-"görüşü desteklemeyen SourceForge üzerindeki geliştiricilerin incelendiği "
-"gerçeğine rağmendir."
+"lakhaniwolf.pdf\">özgür yazılım geliştiricilerinin motivasyonları üzerine "
+"bildirisi</a> önemli oranda bir kesimin yazılımın özgür olması gerektiği "
+"görüşüyle güdülendiğini belirtmektedir. Bu sonuç, konuyu etik bir konu "
+"olarak ele alan görüşü desteklemeyen SourceForge üzerindeki geliştiricilerin "
+"incelendiği gerçeğine rağmendir."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -970,14 +970,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -992,11 +992,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2007, 2010, 2012, 2015, 2016, 2019, 2020, 2021 Richard "
-"Stallman"
+"Copyright &copy; 2007, 2010, 2012, 2015, 2016, 2019-2021 Richard Stallman"
 msgstr ""
-"Copyright &copy; 2007, 2010, 2012, 2015, 2016, 2019, 2020, 2021 Richard "
-"Stallman"
+"Copyright &copy; 2007, 2010, 2012, 2015, 2016, 2019-2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

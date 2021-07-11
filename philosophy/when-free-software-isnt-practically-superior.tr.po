@@ -7,15 +7,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: when-free-software-isnt-practically-superior.html\n"
-"POT-Creation-Date: 2016-07-23 05:25+0000\n"
-"PO-Revision-Date: 2020-08-22 08:04+0200\n"
+"POT-Creation-Date: 2021-07-11 09:56+0000\n"
+"PO-Revision-Date: 2021-07-11 20:07+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -25,19 +25,15 @@ msgstr ""
 "Özgür Yazılımın (Pratik Olarak) Üstün Olmadığı Zaman - GNU Projesi - Özgür "
 "Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "When Free Software Isn't (Practically) Superior"
 msgstr "Özgür Yazılımın (Pratik Olarak) Üstün Olmadığı Zaman"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"https://mako.cc/writing/\"><strong>Benjamin Mako Hill</strong></"
-"a>"
-msgstr ""
-"yazan: <a href=\"https://mako.cc/writing/\"><strong>Benjamin Mako Hill</"
-"strong></a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://mako.cc/writing/\">Benjamin Mako Hill</a>"
+msgstr "yazan <a href=\"https://mako.cc/writing/\">Benjamin Mako Hill</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The Open Source Initiative's mission statement reads, &ldquo;Open source is "
 "a development method for software that harnesses the power of distributed "
@@ -51,7 +47,7 @@ msgstr ""
 "yüksek güvenilirlik, daha fazla esneklik, daha düşük maliyet ve talancı "
 "satıcıya bağımlılığın sona ermesidir.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For more than a decade now, the Free Software Foundation has argued against "
 "this &ldquo;open source&rdquo; characterization of the free software "
@@ -75,7 +71,7 @@ msgstr ""
 "gerektirecek başka bir neden daha var. Misyonda da açıklanan temel açık "
 "kaynak görüşü, genel olarak doğru değil."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Although the Open Source Initiative suggests &ldquo;the promise of open "
 "source is better quality, higher reliability, more flexibility,&rdquo; this "
@@ -101,7 +97,7 @@ msgstr ""
 "mülkiyet araçların daha iyi bir seçim olacağı sonucuna varmalıdır. "
 "Yapabileceğimiz başka hiçbir şey yok."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Richard Stallman speaks to this in his article on <a href=\"/philosophy/open-"
 "source-misses-the-point.html\">Why Open Source Misses the Point</a> when he "
@@ -120,7 +116,7 @@ msgstr ""
 "güvenilir program üretebilirler, program kullanıcıların özgürlüğüne saygı "
 "göstermese de. &rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For open source, poor-quality software is a problem to be explained away or "
 "a reason to eschew the software altogether. For free software, it is a "
@@ -138,7 +134,7 @@ msgstr ""
 "mülkiyet bir rakipten daha güçlü bir doğal avantaja sahiptir. Başka "
 "sorunları olsa bile, özgür yazılım her zaman özgürlüğe sahiptir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Of course, every piece of free software must start somewhere. A brand-new "
 "piece of software, for example, is unlikely to be more featureful than an "
@@ -159,7 +155,7 @@ msgstr ""
 "adım ileridedir. Bir projenin gelişmesi, kalitesinin artması kekin üzerine "
 "krema yapmak gibidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A second, perhaps even more damning, fact is that the collaborative, "
 "distributed, peer-review development process at the heart of the definition "
@@ -172,10 +168,10 @@ msgstr ""
 "(veya &ldquo;açık kaynak&rdquo;) lisanslı projelerin büyük çoğunluğuyla çok "
 "az benzerlik göstermesidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Several academic studies of <a href=\"/software/repo-criteria.html\"> free "
-"software hosting sites</a> SourceForge and <a href=\"http://sv.gnu.org"
+"software hosting sites</a> SourceForge and <a href=\"https://sv.gnu.org"
 "\">Savannah</a> have shown what many free software developers who have put a "
 "codebase online already know first-hand. The vast majority of free software "
 "projects are not particularly collaborative. The median number of "
@@ -187,7 +183,7 @@ msgid ""
 "developer with little outside help."
 msgstr ""
 "<a href=\"/software/repo-criteria.html\">Özgür yazılım barındırma siteleri "
-"olan</a> SourceForge ve <a href=\"http://sv.gnu.org\">Savannah</a>'ı "
+"olan</a> SourceForge ve <a href=\"https://sv.gnu.org\">Savannah</a>'ı "
 "inceleyen çeşitli akademik çalışmalar, çevrimiçi kod yükleyen birçok özgür "
 "yazılım geliştiricisinin zaten doğrudan işi yürüttüğünü göstermiştir. Özgür "
 "yazılım projelerinin büyük çoğunluğu özellikle işbirlikçi değil. "
@@ -198,7 +194,7 @@ msgstr ""
 "sık indirilen birçok proje bile, dışarıdan az yardım alan tek bir "
 "geliştiricinin eseridir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "By emphasizing the power of collaborative development and &ldquo;distributed "
 "peer review,&rdquo; open source approaches seem to have very little to say "
@@ -216,7 +212,7 @@ msgstr ""
 "gerçekleştirilemediğinden, özgür gelişim projelerinin büyük çoğunluğu, özel "
 "mülkiyet bir rakip için hiçbir teknik avantaja sahip değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "For free software advocates, these same projects are each seen as important "
 "successes. Because every piece of free software respects its users' freedom, "
@@ -241,7 +237,7 @@ msgstr ""
 "lanet olası bir eleştirisi olarak veya söz konusu yazılımın kullanımına "
 "karşı zorlayıcı bir argüman olarak görmemize gerek yok."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Open source advocates must defend their thesis that freely developed "
 "software should, or will with time, be better than proprietary software. "
@@ -264,7 +260,7 @@ msgstr ""
 "ve özgürlüklerini koruma amacını gerçekleştirmek için yapılması gereken "
 "yegane yol değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Of course, we do not need to reject arguments that collaboration can play an "
 "important role in creating high-quality software. In many of the most "
@@ -306,14 +302,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
