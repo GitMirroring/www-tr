@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: writing-fs-song.html\n"
-"POT-Creation-Date: 2014-04-05 00:02+0000\n"
-"PO-Revision-Date: 2020-05-07 08:02+0200\n"
+"POT-Creation-Date: 2021-07-12 16:25+0000\n"
+"PO-Revision-Date: 2021-07-13 17:41+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,17 +15,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid "Writing the Free Software Song - GNU Project - Free Software Foundation"
 msgstr "Özgür Yazılım Şarkısı'nı Yazmak - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div>
+msgid ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU&nbsp;humor</a>&nbsp;/ <a "
+"href=\"/music/music.html#content\">Music</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU&nbsp;mizahı</a>&nbsp;/ "
+"<a href=\"/music/music.html#content\">Müzik</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
 msgid "Writing the Free Software Song"
 msgstr "Özgür Yazılım Şarkısı'nı Yazmak"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "yazan Richard Stallman"
+
+#. type: Content of: <div><p>
 msgid ""
 "This is the story of the writing of the <a href=\"/music/free-software-song."
 "html\">Free Software Song</a>."
@@ -33,7 +53,7 @@ msgstr ""
 "Bu, <a href=\"/music/free-software-song.html\">Özgür Yazılım Şarkısı "
 "(<em>Free Software Song</em>)</a>'nın yazılma öyküsüdür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I wrote the free software song at a <a href=\"#filksinging\"> filksinging</"
 "a> session at a science fiction convention, probably in early 1991.  It was "
@@ -55,7 +75,7 @@ msgstr ""
 "verdim. Bu, aklıma gelen herhangi bir belirgin esinle başlamadığım anlamına "
 "geliyordu. Ne hakkında ve nasıl yazacağımı düşünmem gerekiyordu."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So first I asked myself, what topic should it be about? I realized I had "
 "never written a filksong relating to free software, so I figured it was time "
@@ -65,7 +85,7 @@ msgstr ""
 "ilgili hiçbir zaman bir bilim kurgu şarkısı (<em>filksong</em>) yazmadığımı "
 "fark ettim, bu yüzden böyle bir şarkı yazma zamanının geldiğini düşündüm."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Then I asked myself, what tune should I use? I realized I had never written "
 "a filksong using Bulgarian dance music, so I figured that would be a good "
@@ -78,7 +98,7 @@ msgstr ""
 "olacağını düşündüm. <cite>Sadi Moma</cite>'yı seçtim, çünkü çok hızlı veya "
 "karmaşık değildi ve şarkı söylemesi kolaydı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By the time it was my turn again, the song was ready.  After I sang it, "
 "someone else in the room said, &ldquo;That has an anthem-like quality.  You "
@@ -90,21 +110,21 @@ msgstr ""
 "Stallman'a göstermelisin.&rdquo; dedi. (O yıl biraz ünlü olduğum ve "
 "toplantıda bir konuk olduğum zamandı.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "I said, &ldquo;I am Richard Stallman.&rdquo;"
 msgstr "Ben de &ldquo;Richard Stallman benim.&rdquo; dedim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "She said, &ldquo;Oh, I'm sorry!&rdquo;"
 msgstr "O hemen &ldquo;Ah, özür dilerim!&rdquo; dedi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "I responded, &ldquo;Don't be sorry, it's fun when that happens.&rdquo;"
 msgstr ""
 "&ldquo;Özür dilemene gerek yok, böyle bir şeyin olması hep eğlenceli.&rdquo; "
 "diye yanıtladım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;filksong&rdquo; started as a typo for &ldquo;folksong&rdquo;, and the "
 "term was adopted in science fiction fandom to refer to the practice of "
@@ -150,14 +170,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -171,21 +191,17 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2009, 2014 "
-"Richard Stallman"
-msgstr ""
-"Copyright &copy; 1993, 2001, 2002, 2003, 2004, 2005, 2006, 2009, 2014 "
-"Richard Stallman"
+msgid "Copyright &copy; 1993, 2001-2006, 2009, 2014, 2021 Richard Stallman"
+msgstr "Copyright &copy; 1993, 2001-2006, 2009, 2014, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
 "Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
