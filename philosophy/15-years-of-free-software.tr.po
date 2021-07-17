@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 15-years-of-free-software.html\n"
-"POT-Creation-Date: 2020-07-01 14:25+0000\n"
-"PO-Revision-Date: 2020-07-01 17:46+0200\n"
+"POT-Creation-Date: 2021-07-17 08:25+0000\n"
+"PO-Revision-Date: 2021-07-17 10:47+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid "15 Years of Free Software - GNU Project - Free Software Foundation"
@@ -42,15 +42,15 @@ msgstr ""
 "Richard Stallman özgür bir işletim sistemi geliştirmek için başlatılan "
 "hareketin geçmişini anlatıyor."
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "15 Years of Free Software"
 msgstr " Özgür Yazılımla 15 Yıl"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard M. Stallman</strong>"
-msgstr "yazan <strong>Richard M. Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "yazan Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "It is now just over 15 years since the beginning of the Free Software "
 "Movement and the GNU Project. We have come a long way."
@@ -58,7 +58,7 @@ msgstr ""
 "Özgür Yazılım Hareketi’nin ve GNU Projesi’nin başlangıcından bu yana 15 "
 "yıldan fazla geçti. Uzun bir yol almışız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In 1984, it was impossible to use a modern computer without installing a "
 "proprietary operating system, which you would have to obtain under a "
@@ -74,7 +74,7 @@ msgstr ""
 "gereksinimlerine uyması için güçlükle değiştirebilirdi. Yazılım sahipleri, "
 "bizi, birbirimizden ayırmak için duvarlar örmüşlerdi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The GNU Project was founded to change all that. Its first goal: to develop a "
 "Unix-compatible portable operating system that would be 100% free software. "
@@ -95,7 +95,7 @@ msgstr ""
 "sunmanın bir yoludur. Teknik açıdan GNU, Unix'e benzer; ancak Unix'in "
 "tersine GNU, kullanıcılarına özgürlük verir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "It took many years of work, by hundreds of programmers, to develop this "
 "operating system. Some were paid by the Free Software Foundation and by free "
@@ -112,7 +112,7 @@ msgstr ""
 "birlikte, bütün insanlık için, bilgisayar ağının gizli gücünün açığa "
 "çıkmasına katkıda bulunmuşlardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In 1991, the last major essential component of a Unix-like system was "
 "developed: Linux, the free kernel written by Linus Torvalds. Today, the "
@@ -130,7 +130,7 @@ msgstr ""
 "grafik masaüstü <abbr title=\"GNU Network Object Model Environment\">GNOME</"
 "abbr> 1.0'ın yayımını duyurduk."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "But our freedom is not permanently assured. The world does not stand still, "
 "and we cannot count on having freedom five years from now, just because we "
@@ -149,7 +149,7 @@ msgstr ""
 "istediği bütün iş alanlarını ele alacak özgür uygulamalar eklemeye "
 "gereksinim duyuyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In future columns, I will be writing about the specific challenges facing "
 "the free software community, and other issues affecting freedom for computer "
@@ -186,14 +186,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -207,8 +207,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1999, 2014, 2020 Richard M. Stallman"
-msgstr "Copyright &copy; 1999, 2014, 2020 Richard M. Stallman"
+msgid "Copyright &copy; 1999, 2021 Richard Stallman"
+msgstr "Copyright &copy; 1999, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

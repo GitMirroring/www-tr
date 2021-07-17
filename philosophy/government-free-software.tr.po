@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: government-free-software.html\n"
-"POT-Creation-Date: 2020-12-26 14:55+0000\n"
-"PO-Revision-Date: 2021-01-15 18:47+0100\n"
+"POT-Creation-Date: 2021-07-17 08:25+0000\n"
+"PO-Revision-Date: 2021-07-17 11:00+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -26,22 +26,19 @@ msgstr ""
 "Özgür Yazılımı Teşvik etmek İçin Hükümetlerin Alabileceği Önlemler - GNU "
 "Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Measures Governments Can Use to Promote Free Software"
 msgstr "Özgür Yazılımı Teşvik etmek İçin Hükümetlerin Alabileceği Önlemler"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "And why it is their duty to do so"
 msgstr "Ve bunu yapmaları neden görevleridir"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"yazan <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</"
-"strong></a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This article suggests policies for a strong and firm effort to promote free "
 "software within the state, and to lead the rest of the country towards "
@@ -51,12 +48,12 @@ msgstr ""
 "kalanını yazılım özgürlüğüne yönlendirmek için güçlü ve sağlam bir çaba "
 "gösterilmesine yönelik politikalar önerilmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The mission of the state is to organize society for the freedom and well-"
 "being of the people.  One aspect of this mission, in the computing field, is "
 "to encourage users to adopt free software: <a href=\"/philosophy/free-sw.html"
-"\">software that respects the users' freedom</a>.  A proprietary (non-free) "
+"\">software that respects the users' freedom</a>.  A proprietary (nonfree) "
 "program tramples the freedom of those that use it; it is a social problem "
 "that the state should work to eradicate."
 msgstr ""
@@ -67,7 +64,7 @@ msgstr ""
 "programı kullananların özgürlüğünü çiğner; bu devletin ortadan kaldırmak "
 "için çalışması gereken toplumsal bir sorundur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The state needs to insist on free software in its own computing for the sake "
 "of its computational sovereignty (the state's control over its own "
@@ -87,7 +84,7 @@ msgstr ""
 "denetimi, ilgili bilişim faaliyetleri üzerindeki denetimine bağlıdır. Görevi "
 "kritik olan bir kurumda bu denetimi yitirmek ulusal güvenliği zayıflatır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Moving state agencies to free software can also provide secondary benefits, "
 "such as saving money and encouraging local software support businesses."
@@ -95,7 +92,7 @@ msgstr ""
 "Devlet kurumlarının özgür yazılıma taşınması, tasarruf etme ve yerel yazılım "
 "destek işletmelerini teşvik etme gibi ikincil yararlar da sağlayabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "In this text, &ldquo;state entities&rdquo; refers to all levels of "
 "government, and means public agencies including schools, public-private "
@@ -109,11 +106,11 @@ msgstr ""
 "kontrol edilen veya devlet tarafından özel ayrıcalık veya işlevlerle kurulan "
 "&ldquo;özel&rdquo; şirketleri içeren kamu kurumlarını ifade eder."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Education"
 msgstr "Eğitim"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The most important policy concerns education, since that shapes the future "
 "of the country:"
@@ -121,11 +118,11 @@ msgstr ""
 "En önemli politika eğitim ile ilgilidir, çünkü bu ülkenin geleceğini "
 "şekillendirir:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<b>Teach only free software</b>"
 msgstr "<b>Yalnızca özgür yazılım öğretin</b>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Educational activities, or at least those of state entities, must teach only "
 "free software (thus, they should never lead students to use a nonfree "
@@ -139,11 +136,11 @@ msgstr ""
 "ısrarcı olmanın yurttaşlık görevlerini öğretmelidir. Özgür olmayan bir "
 "programı öğretmek, okulun görevine aykırı olan bağımlılığı öğretmektir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "The State and the Public"
 msgstr "Devlet ve Halk"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Also crucial are state policies that influence what software individuals and "
 "organizations use:"
@@ -151,11 +148,11 @@ msgstr ""
 "Ayrıca, bireylerin ve kuruluşların kullandığı yazılımları etkileyen devlet "
 "politikaları da çok önemlidir:"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Never require nonfree programs</b>"
 msgstr "<b>Asla özgür olmayan programları gerektirmeyin</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Laws and public sector practices must be changed so that they never require "
 "or pressure individuals or organizations to use a nonfree program.  They "
@@ -171,11 +168,11 @@ msgstr ""
 "defectivebydesign.org/what_is_drm_digital_restrictions_management\">Dijital "
 "Kısıtlamalar Yönetimi</a> de dahil)."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Distribute only free software</b>"
 msgstr "<b>Yalnızca özgür yazılımı dağıtın</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Whenever a state entity distributes software to the public, including "
 "programs included in or specified by its web pages, it must be distributed "
@@ -187,11 +184,11 @@ msgstr ""
 "dağıttığında, bu yazılım özgür yazılım olarak dağıtılmalı ve özellikle özgür "
 "yazılım içeren bir platformda çalışabilmelidir."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>State web sites</b>"
 msgstr "<b>Devlet web siteleri</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "State entity web sites and network services must be designed so that users "
 "can use them, without disadvantage, by means of free software exclusively."
@@ -200,11 +197,11 @@ msgstr ""
 "özgür yazılım aracılığıyla herhangi bir yarar yitimi olmadan "
 "kullanabilecekleri şekilde tasarlanmalıdır."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Free formats and protocols</b>"
 msgstr "<b>Özgür biçimler ve protokoller</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "State entities must use only file formats and communication protocols that "
 "are well supported by free software, preferably with published "
@@ -222,7 +219,7 @@ msgstr ""
 "olmayan kod çözücü gerektiren biçimlerde dağıtmamalı ve kamu kütüphaneleri "
 "Dijital Kısıtlamalar Yönetimi ile çalışan eserleri dağıtmamalıdır."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "To support the policy of distributing publications and works in freedom-"
 "respecting formats, the state must insist that all reports developed for it "
@@ -232,11 +229,11 @@ msgstr ""
 "politikasını desteklemek için, kendisi için geliştirilen tüm raporların "
 "özgürlüğe saygılı biçimlerde sunulmasında ısrarcı olmalıdır."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Untie computers from licenses</b>"
 msgstr "<b>Bilgisayarları lisanslardan ayırın</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Sale of computers must not require purchase of a proprietary software "
 "license.  The seller should be required by law to offer the purchaser the "
@@ -247,7 +244,7 @@ msgstr ""
 "gerekmemeli. Satıcı, yasa gereği, alıcıya bilgisayarı özel mülkiyet "
 "yazılımsız ve lisans ücretini ödemeden satın alma seçeneği sunmalıdır."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The imposed payment is a secondary wrong, and should not distract us from "
 "the essential injustice of proprietary software, the loss of freedom which "
@@ -263,11 +260,11 @@ msgstr ""
 "kullanıcıların özgürlüğüne zarar veren ek bir haksız avantaj sağlar. "
 "Devletin bu kötüye kullanımı önlemesi doğrudur."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Computational Sovereignty"
 msgstr "Bilişim Bağımsızlığı"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Several policies affect the computational sovereignty of the state.  State "
 "entities must maintain control over their computing, not cede control to "
@@ -278,11 +275,11 @@ msgstr ""
 "sahibi olmalıdır. Bu noktalar akıllı telefonlar da dahil olmak üzere tüm "
 "bilgisayarlar için geçerlidir."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Migrate to free software</b>"
 msgstr "<b>Özgür yazılıma geçin</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "State entities must migrate to free software, and must not install, or "
 "continue using, any nonfree software except under a temporary exception.  "
@@ -296,11 +293,11 @@ msgstr ""
 "olmalı ve sadece mücbir nedenler gösterildiğinde vermelidir. Bu kurumun "
 "amacı istisna sayısını sıfıra indirmek olmalıdır."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Develop free IT solutions</b>"
 msgstr "<b>Özgür bilişim teknolojileri çözümleri geliştirin</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "When a state entity pays for development of a computing solution, the "
 "contract must require it be delivered as free software, and that it be "
@@ -314,11 +311,11 @@ msgstr ""
 "tasarlanmasını gerektirmelidir. Tüm sözleşmeler bunu gerektirmelidir, "
 "böylece geliştirici bu gereksinimlere uymuyorsa, iş için ödeme yapılamaz."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Choose computers for free software</b>"
 msgstr "<b>Özgür yazılıma göre bilgisayarlar seçin</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "When a state entity buys or leases computers, it must choose among the "
 "models that come closest, in their class, to being capable of running "
@@ -334,11 +331,11 @@ msgstr ""
 "hem de devletin kullanabileceği modeller yalnızca devletin kullanımına "
 "sunulan modellere tercih edilmelidir."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Negotiate with manufacturers</b>"
 msgstr "<b>Donanım üreticileriyle pazarlık edin</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The state should negotiate actively with manufacturers to bring about the "
 "availability in the market (to the state and the public) of suitable "
@@ -349,11 +346,11 @@ msgstr ""
 "donanım ürünlerinin pazarda (devlete ve halka) erişilebilirliğini sağlamak "
 "için üreticilerle aktif olarak pazarlık yapmalıdır."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Unite with other states</b>"
 msgstr "<b>Diğer devletlerle dayanışma içinde olun</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The state should invite other states to negotiate collectively with "
 "manufacturers about suitable hardware products.  Together they will have "
@@ -362,11 +359,11 @@ msgstr ""
 "Devlet, diğer devletleri uygun donanım ürünleri konusunda üreticilerle toplu "
 "pazarlık yapmaya davet etmelidir. Birlikte daha fazla nüfuz sahibi olacaklar."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Computational Sovereignty II"
 msgstr "Bilişim Bağımsızlığı II"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The computational sovereignty (and security) of the state includes control "
 "over the computers that do the state's work.  This requires avoiding <a href="
@@ -382,11 +379,11 @@ msgstr ""
 "zamanda devletin yanı sıra devletin bilişimi üzerindeki denetimini azaltan "
 "diğer uygulamalardan da kaçınılmasını gerektirir. Bu nedenle,"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<b>State must control its computers</b>"
 msgstr "<b>Bir devlet kendi bilgisayarlarını denetlemelidir</b>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "Every computer that the state uses must belong to or be leased by the same "
 "branch of government that uses it, and that branch must not cede to "
@@ -404,19 +401,19 @@ msgstr ""
 "kullanımdayken devletin (sahibi veya kiracı olarak) sakini olduğu fiziksel "
 "bir alanda olması gerekir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Influence Development"
 msgstr "Geliştirmeyi etkileyin"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid "State policy affects free and nonfree software development:"
 msgstr "Devlet politikası özgür ve özgür olmayan yazılım geliştirmeyi etkiler:"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Encourage free</b>"
 msgstr "<b>Özgürlüğü teşvik edin</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "The state should encourage developers to create or enhance free software and "
 "make it available to the public, e.g. by tax breaks and other financial "
@@ -428,11 +425,11 @@ msgstr ""
 "teşviklerle cesaretlendirmelidir. Tersine, özgür olmayan yazılımların "
 "geliştirilmesi, dağıtımı veya kullanımı için böyle bir teşvik verilmemelidir."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Don't encourage nonfree</b>"
 msgstr "<b>Özgür olmayanları teşvik etmeyin</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "In particular, proprietary software developers should not be able to &ldquo;"
 "donate&rdquo; copies to schools and claim a tax write-off for the nominal "
@@ -442,19 +439,19 @@ msgstr ""
 "bağışı&rdquo; yapamamalı ve yazılımın nominal değeri için vergi iadesi "
 "talebinde bulunmamalıdır. Özel mülk yazılım bir okulda meşru değildir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "E-waste"
 msgstr "E-atık"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid "Freedom should not imply e-waste:"
 msgstr "Özgürlük e-atık anlamına gelmemelidir:"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid "<b>Replaceable software</b>"
 msgstr "<b>Değiştirilebilir yazılım</b>"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Many modern computers are designed to make it impossible to replace their "
 "preloaded software with free software.  Thus, the only way to free them is "
@@ -464,7 +461,7 @@ msgstr ""
 "değiştirmeyi imkansız hale getirmek için tasarlanmıştır. Bu yüzden onları "
 "özgürleştirmenin tek yolu onları atmaktır. Bu uygulama topluma zararlıdır."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "Therefore, it should be illegal, or at least substantially discouraged "
 "through heavy taxation, to sell, import or distribute in quantity a new "
@@ -486,11 +483,11 @@ msgstr ""
 "\"/proprietary/proprietary-jails.html\">&ldquo;yazılım kırma&rdquo; "
 "(jailbreaking)</a> gereken tüm aygıtlar için geçerlidir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><div><h3>
 msgid "Technological neutrality"
 msgstr "Teknolojik tarafsızlık"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "With the measures in this article, the state can recover control over its "
 "computing, and lead the country's citizens, businesses and organizations "
@@ -504,7 +501,7 @@ msgstr ""
 "tarafsızlık &ldquo;ilkesini&rdquo; ihlal edeceği gerekçesiyle buna itiraz "
 "ediyorlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The idea of technological neutrality is that the state should not impose "
 "arbitrary preferences on technical choices.  Whether that is a valid "
@@ -552,14 +549,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -574,10 +571,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Copyright &copy; Copyright &copy; 2011-2014, 2016, 2017 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2015, 2016, 2017, 2018, 2020 Free Software "
+"Copyright &copy; Copyright &copy; 2011-2014, 2016, 2017 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -604,3 +601,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Copyright &copy; Copyright &copy; 2011-2014, 2016, 2017, 2021 Free "
+#~ "Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; Copyright &copy; 2011-2014, 2016, 2017, 2021 Free "
+#~ "Software Foundation, Inc."

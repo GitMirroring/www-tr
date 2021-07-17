@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldbefree.html\n"
-"POT-Creation-Date: 2021-07-11 09:26+0000\n"
-"PO-Revision-Date: 2021-07-11 20:08+0200\n"
+"POT-Creation-Date: 2021-07-16 13:55+0000\n"
+"PO-Revision-Date: 2021-07-17 11:01+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -1906,11 +1906,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017, 2018, "
-"2020, 2021 Free Software Foundation, Inc."
+"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2021 Free "
+"Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2017, 2018, "
-"2020, 2021 Free Software Foundation, Inc."
+"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2021 Free "
+"Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

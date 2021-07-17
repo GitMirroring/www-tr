@@ -7,15 +7,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: your-freedom-needs-free-software.html\n"
-"POT-Creation-Date: 2017-08-27 14:56+0000\n"
-"PO-Revision-Date: 2020-01-18 20:16+0100\n"
+"POT-Creation-Date: 2021-07-17 08:25+0000\n"
+"PO-Revision-Date: 2021-07-17 11:02+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -24,11 +24,15 @@ msgstr ""
 "Özgürlüğünüzün Özgür Yazılım'a İhtiyacı Var - GNU Projesi - Özgür Yazılım "
 "Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Your Freedom Needs Free Software"
 msgstr "Özgürlüğünüzün Özgür Yazılım'a İhtiyacı Var"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "yazan Richard Stallman"
+
+#. type: Content of: <div><div><p>
 msgid ""
 "Many of us know that governments can threaten the human rights of software "
 "users through censorship and surveillance of the Internet.  Many do not "
@@ -43,10 +47,10 @@ msgstr ""
 "insanlar yazılımın kendilerine itaat ettiğini düşünse de, aslında yazılımlar "
 "kullanıcılarına değil, başkalarına itaat etmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The software running in most computers is <a href=\"/philosophy/categories."
-"html#ProprietarySoftware\">non-free, proprietary software</a>: controlled by "
+"html#ProprietarySoftware\">nonfree, proprietary software</a>: controlled by "
 "software companies, not by its users.  Users can't check what these programs "
 "do, nor prevent them from doing what they don't want.  Most people accept "
 "this because they have seen no other way, but it is simply wrong to give "
@@ -61,14 +65,14 @@ msgstr ""
 "kullanıcıların bilgisayarları üzerinde geliştiriciye yetki vermek basitçe "
 "yanlıştır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "This unjust power, as usual, tempts its wielders to further misdeeds. If a "
 "computer talks to a network, and you don't control the software in it, it "
 "can easily spy on you.  Microsoft Windows spies on users; for instance, it "
 "reports what words a user searches for in her own files, and what other "
 "programs are installed.  RealPlayer spies too; it reports what the user "
-"plays.  Cell phones are full of non-free software, which spies.  Cell phones "
+"plays.  Cell phones are full of nonfree software, which spies.  Cell phones "
 "send out localizing signals even when &lsquo;off&rsquo;, many can send out "
 "your precise GPS location whether you wish or not, and some models can be "
 "switched on remotely as listening devices.  Users can't fix these malicious "
@@ -81,13 +85,13 @@ msgstr ""
 "kullanıcının sahip olduğu dosyalarda veya yüklü programlarda ne aradıklarını "
 "bildirmektedir. RealPlayer da gözetlemektedir; kullanıcıların ne dinlediğini "
 "bildirmektedir. Cep telefonları da sizi gözetim altına alan tamamen özgür "
-"olmayan yazılımlardan oluşur. Cep telefonları \"kapalı\" bile olsa konumunu "
-"belli etmek amacıyla sinyaller yollar, birçoğu istemenizden bağımsız alarak "
-"kesin GPS konumunuzu yollar ve bazı modelleri de uzaktan dinleme cihazı "
-"olarak kullanılabilir. Kullanıcılar, üzerinde bir denetim yetkilerinin "
-"olmadığı bu kötü niyetli özellikleri kısıtlayamamaktadır."
+"olmayan yazılımlardan oluşur. Cep telefonları &lsquo;kapalı&rsquo; bile olsa "
+"konumunu belli etmek amacıyla sinyaller yollar, birçoğu istemenizden "
+"bağımsız alarak kesin GPS konumunuzu yollar ve bazı modelleri de uzaktan "
+"dinleme cihazı olarak kullanılabilir. Kullanıcılar, üzerinde bir denetim "
+"yetkilerinin olmadığı bu kötü niyetli özellikleri kısıtlayamamaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some proprietary software is designed to restrict and attack its users.  <a "
 "href=\"http://badvista.org/\">Windows Vista</a> is a big advance in this "
@@ -116,21 +120,21 @@ msgstr ""
 "Mac OS de aynı şekilde kullanıcıyı kısıtlamak için tasarlanmış özellikler "
 "içermektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Microsoft has installed back doors for the US government's use in the past "
-"(<a href=\"http://www.heise.de/tp/artikel/5/5263/1.html\">reported on heise."
+"(<a href=\"https://www.heise.de/tp/artikel/5/5263/1.html\">reported on heise."
 "de</a>).  We cannot check whether they have successors today.  Other "
 "proprietary programs may or may not have back doors, but since we cannot "
 "check them, we cannot trust them."
 msgstr ""
 "Microsoft geçmişte ABD hükümetinin yararlanması amacıyla arka kapılar "
-"yüklemiştir (<a href=\"http://www.heise.de/tp/artikel/5/5263/1.html\">heise."
+"yüklemiştir (<a href=\"https://www.heise.de/tp/artikel/5/5263/1.html\">heise."
 "de'de bildirilmiştir</a>).  Bugün yerlerine başka bir şeylerin yapılıp "
 "yapılmadığını öğrenemiyoruz. Öteki özel mülk programlar da arka kapılara "
 "sahip olabilir veya olmayabilir, ancak denetleyemediğimiz için güvenemiyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The only way to assure that your software is working for you is to insist on "
 "Free/Libre software.  This means users get the source code, are free to "
@@ -138,9 +142,9 @@ msgid ""
 "changes.  The <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux system</a>, "
 "developed <a href=\"/gnu/gnu.html\">specifically for users' freedom</a>, "
 "includes office applications, multimedia, games, and everything you really "
-"need to run a computer.  See <a href=\"http://www.gnewsense.org/\">gNewSense."
-"org</a> for a <a href=\"/distros/distros.html\">totally Free/Libre version "
-"of GNU/Linux</a>."
+"need to run a computer.  See <a href=\"https://www.gnewsense.org/"
+"\">gNewSense.org</a> for a <a href=\"/distros/distros.html\">totally Free/"
+"Libre version of GNU/Linux</a>."
 msgstr ""
 "Sizin için yazılımınızı güvence altına alabilmenin tek yolu Özgür Yazılımda "
 "ısrardır. Bu, kullanıcıların kaynak kodu bilmesi, onun üzerinde özgürce "
@@ -150,10 +154,10 @@ msgstr ""
 "kullanıcıların özgürlüğü için</a> geliştirilmiştir,  içinde bir bilgisayarın "
 "kullanılabilmesi için gereken ofis, uygulamalar, multimedya ve aklınıza "
 "gelebilecek her şeyi barındırır. <a href=\"/distros/distros.html\">Tamamen "
-"özgür</a> bir GNU/Linux dağıtımı için <a href=\"http://www.gnewsense.org/"
+"özgür</a> bir GNU/Linux dağıtımı için <a href=\"https://www.gnewsense.org/"
 "\">gNewSense.org</a> adresine bakabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A special problem occurs when activists for social change use proprietary "
 "software, because its developers, who control it, may be companies they wish "
@@ -171,7 +175,7 @@ msgstr ""
 "diyeceğimizin de denetim altında olduğu anlamına gelir. Bu durum hayatımızın "
 "her alanında özgürlüğümüzü tehdit eder."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "There is also danger in using a company's server to do your word processing "
 "or email&mdash;and not just if you are in China, as US lawyer Michael "
@@ -189,7 +193,7 @@ msgstr ""
 "yaptığını kabul etmemiştir. Springmann verilerini geri almaktan vazgeçmek "
 "zorunda kaldı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The US is not the only state that doesn't respect human rights, so keep your "
 "data on your own computer, and your backups under your own custody&mdash;and "
@@ -225,14 +229,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -246,8 +250,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2017 Richard Stallman"
-msgstr "Copyright &copy; 2007, 2017 Richard Stallman"
+msgid "Copyright &copy; 2007, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2007, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

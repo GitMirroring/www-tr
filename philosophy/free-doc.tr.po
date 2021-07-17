@@ -12,8 +12,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-doc.html\n"
-"POT-Creation-Date: 2021-07-11 09:56+0000\n"
-"PO-Revision-Date: 2021-07-11 20:12+0200\n"
+"POT-Creation-Date: 2021-07-16 13:55+0000\n"
+"PO-Revision-Date: 2021-07-17 10:47+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -351,12 +351,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1996-2007, 2009, 2015, 2016, 2019, 2021 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 1996-2007, 2009, 2015, 2016, 2019, 2021 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 1996, 2019, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996, 2019, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: open-source-misses-the-point.html\n"
-"POT-Creation-Date: 2021-07-11 08:56+0000\n"
-"PO-Revision-Date: 2021-07-11 20:10+0200\n"
+"POT-Creation-Date: 2021-07-16 13:55+0000\n"
+"PO-Revision-Date: 2021-07-17 11:00+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -991,10 +991,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2007, 2010, 2012, 2015, 2016, 2019-2021 Richard Stallman"
-msgstr ""
-"Copyright &copy; 2007, 2010, 2012, 2015, 2016, 2019-2021 Richard Stallman"
+msgid "Copyright &copy; 2007, 2010, 2012-2016, 2019-2021 Richard Stallman"
+msgstr "Copyright &copy; 2007, 2010, 2012-2016, 2019-2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
