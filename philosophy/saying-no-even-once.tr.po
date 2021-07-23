@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: saying-no-even-once.html\n"
-"POT-Creation-Date: 2020-12-30 11:55+0000\n"
-"PO-Revision-Date: 2020-06-05 13:57+0200\n"
+"POT-Creation-Date: 2021-07-22 13:56+0000\n"
+"PO-Revision-Date: 2021-07-23 16:07+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -169,8 +169,8 @@ msgid ""
 "do.  If one of them would be usable, you could add, &ldquo;If we use XYZ for "
 "this conversation, or some other libre software, I could participate.&rdquo;"
 msgstr ""
-"FSF, adaletsiz sistemlerin gerçekleştirdiği her türlü iletişim için <a href="
-"\"https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-"
+"FSF, adaletsiz sistemlerin gerçekleştirdiği her türlü iletişim yerine <a "
+"href=\"https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-"
 "software-tools-for-staying-in-touch\">özgürlüğe saygılı yöntemler</a> "
 "önerir. Bunlardan biri kullanılabilir olduğunda &ldquo;eğer bu konuşmayı XYZ "
 "ile veya başka bir özgür yazılım ile yapacaksak katılabilirim.&rdquo; de "
@@ -239,8 +239,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2020 Richard Stallman"
-msgstr "Copyright &copy; 2020 Richard Stallman"
+msgid "Copyright &copy; 2020, 2021 Richard Stallman"
+msgstr "Copyright &copy; 2020, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -266,3 +266,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "Copyright &copy; 2020 Richard Stallman"
+#~ msgstr "Copyright &copy; 2020 Richard Stallman"

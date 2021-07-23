@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: categories.html\n"
-"POT-Creation-Date: 2019-02-21 01:56+0000\n"
-"PO-Revision-Date: 2021-02-13 17:15+0100\n"
+"POT-Creation-Date: 2021-07-21 20:25+0000\n"
+"PO-Revision-Date: 2021-07-23 16:15+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -28,11 +28,11 @@ msgstr ""
 "Özgür ve Özgür Olmayan Yazılım Kategorileri - GNU Projesi - Özgür Yazılım "
 "Vakfı"
 
-#. type: Content of: <h2>
-msgid "Categories of free and nonfree software"
-msgstr "Özgür ve Özgür Olmayan Yazılım Kategorileri"
+#. type: Content of: <div><h2>
+msgid "Categories of Free and Nonfree Software"
+msgstr "Özgür Olan ve Özgür Olmayan Yazılım Kategorileri"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Also see <a href=\"/philosophy/words-to-avoid.html\">Confusing Words which "
 "You Might Want to Avoid</a>."
@@ -40,11 +40,11 @@ msgstr ""
 "Ayrıca <a href=\"/philosophy/words-to-avoid.html\">Uzak Durmak "
 "İsteyebileceğiniz Kafa Karıştıran Kelimeler</a>'e dikkat edin."
 
-#. type: Attribute 'alt' of: <p><img>
+#. type: Attribute 'alt' of: <div><p><img>
 msgid "[Categories of software]"
 msgstr "[Yazılım Kategorileri]"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This diagram, originally by Chao-Kuei and updated by several others since, "
 "explains the different categories of software. It's available as a <a href="
@@ -60,11 +60,11 @@ msgstr ""
 "(SVG)</a> ve <a href=\"/philosophy/category.fig\">XFig dosyası</a>olarak "
 "mevcuttur."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Free software"
 msgstr "Özgür yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free software is software that comes with permission for anyone to use, "
 "copy, and/or distribute, either verbatim or with modifications, either "
@@ -80,7 +80,7 @@ msgstr ""
 "&rdquo; Bu basitleştirilmiş bir tanımdır; ayrıca <a href=\"/philosophy/free-"
 "sw.html\">tam tanıma</a> bakın."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If a program is free, then it can potentially be included in a free "
 "operating system such as GNU, or free versions of the <a href=\"/gnu/linux-"
@@ -90,7 +90,7 @@ msgstr ""
 "\"/gnu/linux-and-gnu.html\">GNU/Linux</a> sistemlerin özgür sürümlerine "
 "dahil edilebilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are many different ways to make a program free&mdash;many questions of "
 "detail, which could be decided in more than one way and still make the "
@@ -104,7 +104,7 @@ msgstr ""
 "lisansları hakkında bilgi için <a href=\"/licenses/license-list.html"
 "\">lisans listesi</a> sayfasına bakın."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free software is a matter of freedom, not price. But proprietary software "
 "companies typically use the term &ldquo;free software&rdquo; to refer to "
@@ -121,7 +121,7 @@ msgstr ""
 "olduğu anlamında kullanırlar. Her durumda, özgür yazılımın GNU projesinde  "
 "bizim bahsettiğimiz anlamıyla hiçbir ilgisi yoktur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Because of this potential confusion, when a software company says its "
 "product is free software, always check the actual distribution terms to see "
@@ -134,7 +134,7 @@ msgstr ""
 "olmadıklarını, asıl dağıtım koşullarına bakarak kontrol edin. Bazen, "
 "gerçekten özgür yazılımdır; bazen değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many languages have two separate words for &ldquo;free&rdquo; as in freedom "
 "and &ldquo;free&rdquo; as in zero price. For example, French has &ldquo;"
@@ -156,7 +156,7 @@ msgstr ""
 "&ldquo;özgür yazılım&rdquo; tanımının değişik dillere çevirileri</a> "
 "listesine bakın."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free software is often <a href=\"/software/reliability.html\">more reliable</"
 "a> than nonfree software."
@@ -164,11 +164,11 @@ msgstr ""
 "Özgür yazılım, çoğunlukla, özgür olmayan yazılımdan <a href=\"/software/"
 "reliability.html\">daha güvenilirdir</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Open source software"
 msgstr "Açık kaynak yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The term &ldquo;open source&rdquo; software is used by some people to mean "
 "more or less the same category as free software. It is not exactly the same "
@@ -189,7 +189,7 @@ msgstr ""
 "özgür programların açık kaynak olarak kabul edilmeyebilir, ancak bunun "
 "şimdiye kadar olup olmadığını bilmiyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We prefer the term &ldquo;<a href=\"/philosophy/open-source-misses-the-point."
 "html\">free software</a>&rdquo; because it refers to freedom&mdash;something "
@@ -199,11 +199,11 @@ msgstr ""
 "yazılım</a>&rdquo; terimini tercih ediyoruz; çünkü, o özgürlüğe işaret "
 "eder&mdash;&ldquo;açık kaynak&rdquo; teriminin yapmadığı bir şey."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Public domain software"
 msgstr "Kamuya açık yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Public domain software is software that is not copyrighted. If the source "
 "code is in the public domain, that is a special case of <a href=\"#Non-"
@@ -215,7 +215,7 @@ msgstr ""
 "olmayabileceği anlamına gelen <a href=\"#Non-CopyleftedFreeSoftware"
 "\">copyleft olmayan özgür yazılım</a> özel halidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In some cases, an executable program can be in the public domain but the "
 "source code is not available. This is not free software, because free "
@@ -231,7 +231,7 @@ msgstr ""
 "kullanma izinlerini, bir özgür yazılım lisansı kullanarak yasal olarak "
 "vermiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Sometimes people use the term &ldquo;public domain&rdquo; in a loose fashion "
 "to mean <a href=\"#FreeSoftware\">&ldquo;free&rdquo;</a> or &ldquo;available "
@@ -248,7 +248,7 @@ msgstr ""
 "terimini, başka anlamları ifade etmek için diğer terimleri kullanmanızı "
 "öneriyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Under the Berne Convention, which most countries have signed, anything "
 "written down is automatically copyrighted. This includes programs. "
@@ -262,11 +262,11 @@ msgstr ""
 "hakkını çıkarmak için bazı yasal adımlardan geçmek zorundasınız; yoksa, "
 "program telif hakkına sahiptir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Copylefted software"
 msgstr "Copyleft yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copylefted software is free software whose distribution terms ensure that "
 "all copies of all versions carry more or less the same distribution terms.  "
@@ -285,7 +285,7 @@ msgstr ""
 "sürümlerini özel mülk yazılım haline getirmenin bazı bilindik yollarından "
 "bir kalkan gibi korur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some copyleft licenses, such as GPL version&nbsp;3, block other means of "
 "turning software proprietary, such as <a href=\"/licenses/rms-why-gplv3.html"
@@ -295,7 +295,7 @@ msgstr ""
 "sağlayan, <a href=\"/licenses/rms-why-gplv3.html\">tivoization</a> gibi "
 "yöntemleri durdurur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the GNU Project, we copyleft almost all the software we write, because "
 "our goal is to give <em>every</em> user the freedoms implied by the term "
@@ -309,7 +309,7 @@ msgstr ""
 "kullandığımız hakkında daha çok açıklama için <a href=\"/licenses/copyleft."
 "html\">Copyleft</a> sayfasına bakınç"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft is a general concept; to copyleft an actual program, you need to "
 "use a specific set of distribution terms. There are many possible ways to "
@@ -331,11 +331,11 @@ msgstr ""
 "birleştirmek yasal değildir; böylece, eğer insanlar tek bir copyleft lisans "
 "kullanması toplum için iyidir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Noncopylefted free software"
 msgstr "Copyleft olmayan özgür yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Noncopylefted free software comes from the author with permission to "
 "redistribute and modify, and also to add additional restrictions to it."
@@ -343,7 +343,7 @@ msgstr ""
 "Copyleft-olmayan özgür yazılımlar, yazarından yeniden dağıtma ve değiştirme "
 "ve ayrıca sonradan kısıtlamalar ekleme izinleri ile gelir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If a program is free but not copylefted, then some copies or modified "
 "versions may not be free at all. A software company can compile the program, "
@@ -356,35 +356,35 @@ msgstr ""
 "dosyayı, <a href=\"#ProprietarySoftware\">mülk</a> yazılım ürünü olarak "
 "dağıtabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The <a href=\"http://www.x.org\">X Window System</a> illustrates this.  The "
-"X Consortium released X11 with distribution terms that made it noncopylefted "
-"free software, and subsequent developers have mostly followed the same "
-"practice.  A copy which has those distribution terms is free software.  "
-"However, there are nonfree versions as well, and there are (or at least "
-"were) popular workstations and PC graphics boards for which nonfree versions "
-"are the only ones that work.  If you are using this hardware, X11 is not "
-"free software for you.  <a href=\"/philosophy/x.html\">The developers of X11 "
-"even made X11 nonfree</a> for a while; they were able to do this because "
-"others had contributed their code under the same noncopyleft license."
+"The <a href=\"https://www.x.org/wiki/\">X Window System</a> illustrates "
+"this.  The X Consortium released X11 with distribution terms that made it "
+"noncopylefted free software, and subsequent developers have mostly followed "
+"the same practice.  A copy which has those distribution terms is free "
+"software.  However, there are nonfree versions as well, and there are (or at "
+"least were) popular workstations and PC graphics boards for which nonfree "
+"versions are the only ones that work.  If you are using this hardware, X11 "
+"is not free software for you.  <a href=\"/philosophy/x.html\">The developers "
+"of X11 even made X11 nonfree</a> for a while; they were able to do this "
+"because others had contributed their code under the same noncopyleft license."
 msgstr ""
-"<a href=\"http://www.x.org\">X Pencere Sistemi</a> bunu örnekle açıklar. X "
-"Birliği, X11'i, copyleft olmayan özgür yazılım yapan dağıtım koşulları ile "
-"yayınlar. Eğer isterseniz, o koşulları içeren ve özgür bir kopyasını "
-"alabilirsiniz. Her nasılsa, özgür-olmayan sürümleri de var ve yalnızca özgür-"
-"olmayan sürümleri ile çalışan gözde iş istasyonları ile PC grafik kartları "
-"da var (en azından vardı). Eğer böyle bir donanım kullanıyorsanız, X11 sizin "
-"için özgür bir yazılım değildir. <a href=\"/philosophy/x.html\">X11 "
-"yazılımının geliştiricileri dahi bir ara X11'i özgür-olmayan yazılım "
-"yaptılar</a>; bunu yapabiliyorlardı, çünkü diğer kişiler aynı copyleft "
-"olmayan lisans altında koda katkıda bulundular."
+"<a href=\"https://www.x.org/wiki/\">X Pencere Sistemi</a> bunu örnekle "
+"açıklar. X Birliği, X11'i, copyleft olmayan özgür yazılım yapan dağıtım "
+"koşulları ile yayınlar. Eğer isterseniz, o koşulları içeren ve özgür bir "
+"kopyasını alabilirsiniz. Her nasılsa, özgür-olmayan sürümleri de var ve "
+"yalnızca özgür-olmayan sürümleri ile çalışan gözde iş istasyonları ile PC "
+"grafik kartları da var (en azından vardı). Eğer böyle bir donanım "
+"kullanıyorsanız, X11 sizin için özgür bir yazılım değildir. <a href=\"/"
+"philosophy/x.html\">X11 yazılımının geliştiricileri dahi bir ara X11'i özgür-"
+"olmayan yazılım yaptılar</a>; bunu yapabiliyorlardı, çünkü diğer kişiler "
+"aynı copyleft olmayan lisans altında koda katkıda bulundular."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Lax permissive licensed software"
 msgstr "Lax serbest lisanslı yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Lax permissive licenses include the X11 license and the <a href=\"/licenses/"
 "bsd.html\">two BSD licenses</a>.  These licenses permit almost any use of "
@@ -396,11 +396,11 @@ msgstr ""
 "değiştirip veya değiştirmeden özel mülk çalıştırılabilir dosyaları da "
 "dağıtmayı içerecek şekilde neredeyse her şekilde kullanımına izin veriyorlar."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "GPL-covered software"
 msgstr "GPL kapsamlı yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"/licenses/gpl.html\">GNU GPL (General Public License)</a> is "
 "one specific set of distribution terms for copylefting a program. The GNU "
@@ -410,17 +410,17 @@ msgstr ""
 "programı copyleft yazılım yapmak için özel bir dağıtım koşullarıdır. GNU "
 "projesi, çoğu GNU yazılım için dağıtım koşulu olarak kullanır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To equate free software with GPL-covered software is therefore an error."
 msgstr ""
 "Dolaisiyle özgür yazılımı GPL ile korunan yazılım ile eş saymak bir hatadır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The GNU operating system"
 msgstr "GNU İşletim Sistemi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"/gnu/gnu-history.html\">GNU operating system</a> is the Unix-"
 "like operating system, which is entirely free software, that we in the GNU "
@@ -430,7 +430,7 @@ msgstr ""
 "1984'den beri GNU projesinde geliştirdiğimiz, tamamen özgür yazılım işletim "
 "sistemidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A Unix-like operating system consists of many programs. The GNU system "
 "includes all of the <a href=\"#GNUsoftware\">official GNU packages</a>.  It "
@@ -441,7 +441,7 @@ msgstr ""
 "bütün <a href=\"#GNUsoftware\">resmi GNU paketleri</a> gibi diğer, X Pencere "
 "Sistemi ve TeX gibi bir çok GNU yazılımı olmayan diğer paketleri de içerir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The first test release of the complete GNU system was in 1996.  This "
 "includes the GNU Hurd, our kernel, developed since 1990.  In 2001 the GNU "
@@ -463,7 +463,7 @@ msgstr ""
 "başarı olan Linux çekirdeğini kullanan GNU sistemi doğmuştur. Oluşan sonuç "
 "yine de bir GNU sistemi türüdür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Since the purpose of GNU is to be free, every single component in the GNU "
 "operating system is free software.  They don't all have to be copylefted, "
@@ -475,11 +475,11 @@ msgstr ""
 "gerekmiyor; eğer teknik bir hedefe ulaşmaya yardımcı oluyor ise her hangi "
 "bir çeşit özgür yazılımı yasal olarak dahil etmeye uygundur."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "GNU programs"
 msgstr "GNU Programları"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;GNU programs&rdquo; is equivalent to <a href=\"#GNUsoftware\">GNU "
 "software.</a> A program Foo is a GNU program if it is GNU software.  We also "
@@ -489,14 +489,14 @@ msgstr ""
 "aynı anlama gelir. Eğer Foo programı bir GNU yazılımı ise, o bir GNU "
 "programıdır. Bazen, onun bir &ldquo;GNU paketi&rdquo; olduğunu da söyleriz."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "GNU software"
 msgstr "GNU yazılımı"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/software/software.html\">GNU software</a> is software that is "
-"released under the auspices of the <a href= \"/gnu/gnu-history.html\">GNU "
+"released under the auspices of the <a href=\"/gnu/gnu-history.html\">GNU "
 "Project</a>. If a program is GNU software, we also say that it is a GNU "
 "program or a GNU package.  The README or manual of a GNU package should say "
 "it is one; also, the <a href=\"/directory\">Free Software Directory</a> "
@@ -505,11 +505,11 @@ msgstr ""
 "<a href=\"/software/software.html\">GNU yazılımı</a>, <a href=\"/gnu/gnu-"
 "history.html\">GNU projesi</a> himayesi altında yayınlanan yazılımdır. Eğer "
 "bir program GNU yazılımı ise, biz onun aynı zamanda bir GNU programı veya "
-"GNU paketi olduğunu da söyleriz. README veya bir GNU paketinin kılavuzu, "
-"öyle olduğunu söylemelidir; ayrıca, <a href=\"/directory\">Özgür Yazılım "
-"Rehberi</a> bütün GNU paketlerini tanımlar."
+"GNU paketi olduğunu da söyleriz. README veya bir GNU paketinin kılavuzu da "
+"bunu belirtmelidir; ayrıca, <a href=\"/directory\">Özgür Yazılım Rehberi</a> "
+"tüm GNU paketlerini \t."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Most GNU software is <a href= \"/licenses/copyleft.html\">copylefted</a>, "
 "but not all; however, all GNU software must be <a href=\"/philosophy/free-sw."
@@ -519,29 +519,30 @@ msgstr ""
 "\">copyleft</a> yazılımdır; ancak, bütün <a href=\"/philosophy/free-sw.html"
 "\">GNU yazılımları</a> özgür yazılım olmak zorundadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Some GNU software was written by <a href= \"http://www.fsf.org/about/staff/"
-"\">staff</a> of the <a href=\"http://www.fsf.org/\">Free Software "
+"Some GNU software was written by <a href=\"https://www.fsf.org/about/staff/"
+"\">staff</a> of the <a href=\"https://www.fsf.org/\">Free Software "
 "Foundation</a>, but most GNU software comes from many <a href=\"/people/"
 "people.html\">volunteers</a>.  (Some of these volunteers are paid by "
 "companies or universities, but they are volunteers for us.)  Some "
 "contributed software is copyrighted by the Free Software Foundation; some is "
 "copyrighted by the contributors who wrote it."
 msgstr ""
-"Bazı GNU yazılımları, <a href=\"http://www.fsf.org/\">Özgür Yazılım Vakfı "
-"(FSF)</a> <a href=\"http://www.fsf.org/about/staff/\">çalışanları</a> "
+"Bazı GNU yazılımları, <a href=\"https://www.fsf.org/\">Özgür Yazılım Vakfı "
+"(FSF)</a> <a href=\"https://www.fsf.org/about/staff/\">çalışanları</a> "
 "tarafından yazılmıştır, ancak çoğu GNU yazılımına <a href=\"/people/people."
-"html\">gönüllüler</a> tarafından katkıda bulunulmuştur. Bazı katkıda "
-"bulunulan yazılımlar Özgür Yazılım Vakfı tarafından telif hakkı ile "
-"korunurken, bazıları da ona katkıda bulunan yazarlar tarafından telif hakkı "
-"ile korunmaktadır."
+"html\">gönüllüler</a> tarafından katkıda bulunulmuştur. (Bu gönüllülerin bir "
+"kısmı şirketlerden veya üniversitelerden ücret alıyor, ancak bizim "
+"gönüllülerimiz.) Bazı katkıda bulunulan yazılımlar Özgür Yazılım Vakfı "
+"tarafından telif hakkı ile korunurken, bazıları da ona katkıda bulunan "
+"yazarlar tarafından telif hakkı ile korunmaktadır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "FSF-copyrighted GNU software"
 msgstr "FSF telif hakkına sahip GNU yazılımı"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The developers of GNU packages can transfer the copyright to the FSF, or "
 "they can keep it.  The choice is theirs."
@@ -549,7 +550,7 @@ msgstr ""
 "GNU paketi geliştiricileri telif haklarını FSF'ye devredebilir veya "
 "ellerinde tutabilirler. Tercih onların."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If they have transferred the copyright to the FSF, the program is FSF-"
 "copyrighted GNU software, and the FSF can enforce its license.  If they have "
@@ -559,7 +560,7 @@ msgstr ""
 "yazılımı haline gelir ve FSF lisanslarını yürütür. Telif haklarını ellerinde "
 "tutarlarsa, lisansların yürütülmesi kendi sorumluluklarıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The FSF does not accept copyright assignments of software that is not an "
 "official GNU package, as a rule."
@@ -567,11 +568,11 @@ msgstr ""
 "Kural olarak FSF resmi GNU paketi olmayan yazılımların telif hakkı "
 "tahsislerini kabul etmez."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Nonfree software"
 msgstr "Özgür olmayan yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonfree software is any software that is not free.  Its use, redistribution "
 "or modification is prohibited, or requires you to ask for permission, or is "
@@ -582,11 +583,11 @@ msgstr ""
 "gerektirir veya o kadar kısıtlandırılmıştır ki özgür bir şekilde etkin "
 "olarak değişiklik yapamazsınız."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Proprietary software"
 msgstr "Özel mülk yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software is another name for nonfree software.  In the past we "
 "subdivided nonfree software into &ldquo;semifree software&rdquo;, which "
@@ -602,7 +603,7 @@ msgstr ""
 "yapmıyoruz ve &ldquo;özel mülk yazılımı&rdquo; özgür olmayan yazılımla eş "
 "anlamlı olarak kullanıyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation follows the rule that we cannot install any "
 "proprietary program on our computers except temporarily for the specific "
@@ -615,7 +616,7 @@ msgstr ""
 "kuralını uygular. Bunun dışında özel mülk bir program yüklemenin herhangi "
 "bir bahanesi olduğunu düşünmüyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For example, we felt justified in installing Unix on our computer in the "
 "1980s, because we were using it to write a free replacement for Unix. "
@@ -630,7 +631,7 @@ msgstr ""
 "kullanmıyoruz ve herhangi bir yeni kurduğumuz bilgisayarda mutlaka tamamen "
 "özgür bir işletim sistemi kullanmalıyız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We don't insist that users of GNU, or contributors to GNU, have to live by "
 "this rule. It is a rule we made for ourselves. But we hope you will follow "
@@ -640,11 +641,11 @@ msgstr ""
 "ısrar etmiyoruz. Bu kendimiz için yaptığımız bir kuraldır. Ama, sizin de, "
 "özgürlüğünüz için buna uymaya karar vereceğinizi umut ediyoruz."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Freeware"
 msgstr "Freeware"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The term &ldquo;freeware&rdquo; has no clear accepted definition, but it is "
 "commonly used for packages which permit redistribution but not modification "
@@ -658,11 +659,11 @@ msgstr ""
 "özgür yazılım <em>değildirler</em>, yani, lütfen özgür yazılımı ifade etmek "
 "için &ldquo;ücretsiz yazılım&rdquo; terimini kullanmayın."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Shareware"
 msgstr "Shareware"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Shareware is software which comes with permission for people to redistribute "
 "copies, but says that anyone who continues to use a copy is <em>required</"
@@ -672,7 +673,7 @@ msgstr ""
 "fakat kullanmaya devam eden kişilerin lisans ücreti ödemesi <em>gerektiğini</"
 "em> söyler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Shareware is not free software, or even semifree. There are two reasons it "
 "is not:"
@@ -680,7 +681,7 @@ msgstr ""
 "Paylaşılan yazılım, özgür yazılım, hatta yarı-özgür yazılım bile değildir. "
 "Olmamasının iki sebebi vardır:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "For most shareware, source code is not available; thus, you cannot modify "
 "the program at all."
@@ -688,7 +689,7 @@ msgstr ""
 "Çoğu paylaşılan yazılımın kaynak kodu mevcut değildir; yani, programı "
 "tamamen değiştiremezsiniz."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Shareware does not come with permission to make a copy and install it "
 "without paying a license fee, not even for individuals engaging in nonprofit "
@@ -701,11 +702,11 @@ msgstr ""
 "bir şekilde, bir kopyasını yaparlar ve yüklerler, ama dağıtım koşulları "
 "bunlara izin vermez.)"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Private software"
 msgstr "Özel yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Private or custom software is software developed for one user (typically an "
 "organization or company). That user keeps it and uses it, and does not "
@@ -715,7 +716,7 @@ msgstr ""
 "kurum veya şirket için). Bu kullanıcı, yazılımı saklar ve kullanır, ve "
 "kamuya, kaynak koduveya çalışabilir halini yayınlamaz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A private program is free software (in a somewhat trivial sense) if its sole "
 "user has the four freedoms.  In particular, if the user has full rights to "
@@ -729,7 +730,7 @@ msgstr ""
 "başkalarına dağıtır ama dört özgürlüğü bu kopyalarla onlara sağlamazsa, bu "
 "kopyalar özgür yazılım değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Free software is a matter of freedom, not access.  In general we do not "
 "believe it is wrong to develop a program and not release it. There are "
@@ -748,7 +749,7 @@ msgstr ""
 "yazılım hareketinin ilkeleri ile özel veya isteğe göre yazılım geliştirmek "
 "arasında bir uyuşmazlık yoktur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nearly all employment for programmers is in development of custom software; "
 "therefore most programming jobs are, or could be, done in a way compatible "
@@ -758,11 +759,11 @@ msgstr ""
 "çoğu programlama işleri, özgür yazılım hareketi ile uyumlu bir şekilde "
 "yapılabilinir veya yapılabilinirdi."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Commercial software"
 msgstr "Ticari yazılım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;Commercial&rdquo; and &ldquo;proprietary&rdquo; are not the same! "
 "Commercial software is software developed by a business as part of its "
@@ -776,7 +777,7 @@ msgstr ""
 "\"#ProprietarySoftware\">özel mülk yazılımdır</a>, ama ticari özgür "
 "yazılımlar da vardır, ve ticari ve özgür olmayan yazılımlar da vardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For example, GNU Ada is developed by a company.  It is always distributed "
 "under the terms of the GNU GPL, and every copy is free software; but its "
@@ -793,7 +794,7 @@ msgstr ""
 "Pazarlamacı, &ldquo;GNU Ada <em>ticari</em> bir derleyicidir ile yanıtlar; "
 "özgür yazılım olsa bile öyledir.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For the GNU Project, the priorities are in the other order: the important "
 "thing is that GNU Ada is free software; that it is commercial is just a "
@@ -805,7 +806,7 @@ msgstr ""
 "bir ayrıntıdır. Ancak, GNU Ada derleyicisinin ticari olmasından kaynaklanan "
 "ek gelişmeler kesinlikle yararlıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Please help spread the awareness that free commercial software is possible. "
 "You can do this by making an effort not to say &ldquo;commercial&rdquo; when "
@@ -848,14 +849,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -870,11 +871,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 2001, 2006, 2007, 2009, 2010, 2014, 2015, "
-"2016, 2017, 2018, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 1996-1998, 2001-2005, 2007, 2009-2012, 2015, 2019, 2021 "
+"Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 2001, 2006, 2007, 2009, 2010, 2014, 2015, "
-"2016, 2017, 2018, 2019 Free Software Foundation, Inc."
+"Copyright &copy; 1996-1998, 2001-2005, 2007, 2009-2012, 2015, 2019, 2021 "
+"Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
