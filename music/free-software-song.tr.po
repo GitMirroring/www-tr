@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-song.html\n"
-"POT-Creation-Date: 2021-07-12 16:56+0000\n"
-"PO-Revision-Date: 2021-07-13 17:45+0200\n"
+"POT-Creation-Date: 2021-07-29 17:25+0000\n"
+"PO-Revision-Date: 2021-07-30 20:32+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -261,10 +261,10 @@ msgstr ""
 #. type: Content of: <div><ul><li>
 msgid ""
 "A version by the band Zweitgolf: <a href=\"/music/free_software_song_sunnata."
-"ogg\">free_software_song_sunnata.ogg</a>, released under the GPL"
+"ogg\">free_software_song_sunnata.ogg</a>, released under the GPL."
 msgstr ""
 "Zweitgolf müzik grubu tarafından bir sürüm: GPL altında yayımlanan <a href="
-"\"/music/free_software_song_sunnata.ogg\">free_software_song_sunnata.ogg</a>"
+"\"/music/free_software_song_sunnata.ogg\">free_software_song_sunnata.ogg</a>."
 
 #. type: Content of: <div><ul><li>
 msgid ""
