@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-copyleft.html\n"
-"POT-Creation-Date: 2021-07-21 18:26+0000\n"
-"PO-Revision-Date: 2021-07-23 16:05+0200\n"
+"POT-Creation-Date: 2021-08-28 13:56+0000\n"
+"PO-Revision-Date: 2021-09-12 08:41+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -27,7 +27,7 @@ msgstr "Neden Copyleft? - GNU Projesi - Özgür Yazılım Vakfı"
 msgid "Why Copyleft?"
 msgstr "Neden Copyleft?"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>When it comes to defending everyone's freedom, to lie down and do "
 "nothing is an act of weakness, not humility.</em>"
@@ -35,7 +35,7 @@ msgstr ""
 "<em>Söz konusu diğerlerinin haklarını savunmak olduğunda, yatıp uzanmak ve "
 "hiçbir şey yapmamak alçak gönüllülük değil zayıflıktır.</em>"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In the GNU Project we usually recommend people use <a href=\"/licenses/"
 "copyleft.html\">copyleft</a> licenses like GNU GPL, rather than permissive "
@@ -53,12 +53,12 @@ msgstr ""
 "savunucuları <abbr title=\"Genel Kamu Lisansı\">GPL</abbr>'ye karşı sert bir "
 "tartışmaya giriyor."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In one such argument, a person stated that his use of one of the BSD "
 "licenses was an &ldquo;act of humility&rdquo;: &ldquo;I ask nothing of those "
 "who use my code, except to credit me.&rdquo; It is rather a stretch to "
-"describe a legal demand for credit as &ldquo;humility&rdquo;, but there is a "
+"describe a legal demand for credit as &ldquo;humility,&rdquo; but there is a "
 "deeper point to be considered here."
 msgstr ""
 "Bu tartışmalardan birinde, birisi, BSD lisanslarını kullanmasının &ldquo;"
@@ -68,7 +68,7 @@ msgstr ""
 "gönüllülük&rdquo; olarak açıklamak oldukça abartılı, fakat burada, dikkat "
 "edilmesi gereken daha derin bir nokta var."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Humility is disregarding your own self-interest, but the interest you "
 "abandon when you don't copyleft your code is much bigger than your own.  "
@@ -86,7 +86,7 @@ msgstr ""
 "diğerlerinin haklarını savunmak olduğunda, yatıp uzanmak ve hiçbir şey "
 "yapmamak alçak gönüllülük değil zayıflıktır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Releasing your code under <a href=\"/licenses/bsd.html\"> one of the BSD "
 "licenses</a>, or some other lax, permissive license, is not doing wrong; the "
@@ -101,7 +101,7 @@ msgstr ""
 "kullanıcıların yazılımı paylaşma ve değiştirme özgürlüklerini desteklemek "
 "için en iyi yol değildir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Here are specific examples of nonfree versions of free programs that have "
 "done major harm to the free world."
@@ -109,7 +109,7 @@ msgstr ""
 "İşte, özgür programların özgür olmayan sürümlerinin özgür dünyaya yaptığı "
 "büyük zararların bazı örnekler."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Those who released LLVM under a non-copyleft license <a href=\"https://www."
 "anandtech.com/show/5238/nvidia-releases-cuda-41-cuda-goes-llvm-and-open-"
@@ -128,7 +128,7 @@ msgstr ""
 "olmayan uyarlaması bu platformlar için yegâne derleyici ve öyle kalacak gibi "
 "gözüküyor."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Intel uses <a href=\"https://www.tomshardware.com/news/google-removing-minix-"
 "management-engine-intel,35876.html\">a proprietary version of the MINIX "

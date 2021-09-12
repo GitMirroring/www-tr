@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-users-never-heard-of-gnu.html\n"
-"POT-Creation-Date: 2021-04-07 17:55+0000\n"
-"PO-Revision-Date: 2021-04-10 08:31+0200\n"
+"POT-Creation-Date: 2021-08-30 13:26+0000\n"
+"PO-Revision-Date: 2021-09-12 07:33+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -30,33 +30,21 @@ msgstr ""
 "GNU'yu hiç duymamış olan GNU kullanıcıları - GNU Projesi - Özgür Yazılım "
 "Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "GNU Users Who Have Never Heard of&nbsp;GNU"
 msgstr "GNU'yu hiç duymamış olan GNU kullanıcıları"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "yazan <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><div><p>
-msgid ""
-"To learn more about this issue, you can also read our <a href=\"/gnu/gnu-"
-"linux-faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/why-gnu-linux."
-"html\">Why GNU/Linux?</a> and our page on <a href=\"/gnu/linux-and-gnu.html"
-"\">Linux and the GNU Project</a>."
-msgstr ""
-"Bu konuda daha fazla bilgi için, <a href=\"/gnu/gnu-linux-faq.html\">GNU/"
-"Linux SSS</a> ve <a href=\"/gnu/why-gnu-linux.html\">Neden GNU/Linux</a> "
-"sayfamıza ve ayrıca <a href=\"/gnu/linux-and-gnu.html\">Linux ve GNU "
-"Projesi</a> sayfamıza göz atabilirsiniz."
-
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Most people have never heard of GNU.  Even most of the people who use the "
 "GNU system have never heard of GNU, since so many people and companies teach "
-"them to call it &ldquo;Linux&rdquo;.  Indeed, GNU users often say they are "
-"&ldquo;running Linux&rdquo;, which is like saying you are &ldquo;driving "
-"your carburetor&rdquo; or &ldquo;driving your transmission&rdquo;."
+"them to call it &ldquo;Linux.&rdquo; Indeed, GNU users often say they are "
+"&ldquo;running Linux,&rdquo; which is like saying you are &ldquo;driving "
+"your carburetor&rdquo; or &ldquo;driving your transmission.&rdquo;"
 msgstr ""
 "Çoğu insan, GNU'yu hiç duymamıştır. GNU sistemini kullanan çoğu insan bile "
 "GNU'yu duymamıştır, çünkü çoğu kişi ve şirket onlara sistemi &ldquo;"
@@ -65,7 +53,7 @@ msgstr ""
 "karbüratör kullandığınızı&rdquo; veya &ldquo;vites&rdquo; kullandığınızı "
 "söylemek gibi bir şey."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Nonetheless, those who know about GNU associate it with the ideals of "
 "freedom of the free software movement.  That association is no accident; the "
@@ -77,7 +65,7 @@ msgstr ""
 "geliştirilmesini güdüleyen şey, bir bilgisayarın kullanmayı ve bu işi "
 "özgürce yapmanızı sağlamaktır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A person seeing the name &ldquo;GNU&rdquo; for the first time in &ldquo;GNU/"
 "Linux&rdquo; won't immediately know what it represents, but has come one "
@@ -96,7 +84,7 @@ msgstr ""
 "kullanıcılar GNU kelimesini aratırlarsa, GNU'nun temsil ettiği değerleri "
 "bulacaklardır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If they don't search, they may encounter them anyway.  The <a href=\"/"
 "philosophy/open-source-misses-the-point.html\">&ldquo;open source&rdquo;</a> "
@@ -116,14 +104,14 @@ msgstr ""
 "GNU hakkındaki (özgürlük ve topluluk üzerine bir kampanya çalışması gibi) "
 "bilgiler daha fazla dikkatlerini çekecektir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Over time, calling the system &ldquo;GNU/Linux&rdquo; spreads awareness of "
 "the ideals of freedom for which we developed the GNU system.  It is also "
 "useful as a reminder for people in our community who know about these "
 "ideals, in a world where much of discussion of free software takes a totally "
 "practical (and thus amoral) approach.  When we ask you to call the system "
-"&ldquo;GNU/Linux&rdquo;, we are asking you to help in making the public "
+"&ldquo;GNU/Linux,&rdquo; we are asking you to help in making the public "
 "aware of the free software ideals."
 msgstr ""
 "Zamanla, sistemi &ldquo;GNU/Linux&rdquo; olarak adlandırmak, GNU sistemini "
@@ -134,6 +122,18 @@ msgstr ""
 "getirir. Sizden, sistemi &ldquo;GNU/Linux&rdquo; olarak adlandırmanızı "
 "istediğimizde, toplumun özgür yazılım amaçlarının farkına varmasına yardım "
 "etmenizi istemiş oluyoruz."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"To learn more about this issue, you can also read our <a href=\"/gnu/gnu-"
+"linux-faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/why-gnu-linux."
+"html\">Why GNU/Linux?</a> and our page on <a href=\"/gnu/linux-and-gnu.html"
+"\">Linux and the GNU System</a>."
+msgstr ""
+"Bu konuda daha fazla bilgi için, <a href=\"/gnu/gnu-linux-faq.html\">GNU/"
+"Linux SSS</a> ve <a href=\"/gnu/why-gnu-linux.html\">Neden GNU/Linux?</a> "
+"sayfamıza ve ayrıca <a href=\"/gnu/linux-and-gnu.html\">Linux ve GNU "
+"Projesi</a> sayfamıza göz atabilirsiniz."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -182,12 +182,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2006, 2007, 2013-2015, 2017, 2019, 2021 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2006, 2007, 2013-2015, 2017, 2019, 2021 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2006, 2015, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2006, 2015, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

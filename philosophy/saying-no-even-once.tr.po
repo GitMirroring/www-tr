@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: saying-no-even-once.html\n"
-"POT-Creation-Date: 2021-07-22 13:56+0000\n"
+"POT-Creation-Date: 2021-09-05 10:26+0000\n"
 "PO-Revision-Date: 2021-07-23 16:07+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -33,7 +33,7 @@ msgstr "Adaletsiz Bilişime Bir Kez Bile Hayır Demek Yararlıdır"
 msgid "by Richard Stallman"
 msgstr "yazan Richard Stallman"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A misunderstanding is circulating that the GNU Project demands you run 100% "
 "<a href=\"/philosophy/free-sw.html\">free software</a>, all the time. "
@@ -45,7 +45,7 @@ msgstr ""
 "az özgür herhangi bir şey (%90?) söz konusu olduğunda size defol "
 "diyebileceğimizi söylüyorlar. Gerçekten oldukça uzak bir söylem."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Our ultimate goal is <a href=\"/philosophy/free-software-even-more-important."
 "html\">digital freedom for all</a>, a world without nonfree software. Some "
@@ -68,7 +68,7 @@ msgstr ""
 "düşünmenin bilgili bir örneğini göstermiş olursunuz. Bu dünyanın özgürlüğüne "
 "doğru bir adımdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If you're caught in a web of nonfree programs, you're surely looking for a "
 "chance to pull a few strands off of your body. Each one pulled off is an "
@@ -78,7 +78,7 @@ msgstr ""
 "gövdenizden birkaç tutamı koparma şansı arıyorsunuz. Her kopardığınız bir "
 "tutam ilerlemedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Each time you tell the people in some activity, &ldquo;I'd rather use Zoom "
 "less&mdash;please count me out today,&rdquo; you help the free software "
@@ -100,7 +100,7 @@ msgstr ""
 "yazılım kullanmaya ikna edebilirsiniz. En azından bazı insanların özgürlük "
 "uğruna katılımı reddedecek kadar özgürlüğü önemsediğini öğrenecekler."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If you say no, on one occasion, to conversing with someone or some group via "
 "Skype, you have helped. If you say no, on one occasion, to conversing via "
@@ -123,7 +123,7 @@ msgstr ""
 "kalırsanız (kuşkusuz nazik bir katılıkla) ve başkalarının fikrinizi "
 "değiştirmesine izin vermezseniz daha fazla yardımcı olmuş olursunuz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Steps add up. If on another day you decline the nonfree program again, you "
 "will have helped again. If you say no a few times a week, that adds up over "
@@ -135,7 +135,7 @@ msgstr ""
 "derseniz, bu zamanla birikir. İnsanlar hayır dediğinizi gördüğünde, bu bir "
 "kez olsa bile, sizi örnek almaları konusunda ilham vermiş olabilirsiniz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "To give help consistently, you can make this refusal a firm practice, but "
 "refusing occasionally is still help. You will help more if you reject "
@@ -148,7 +148,7 @@ msgstr ""
 "reddederseniz daha fazla yardım etmiş olursunuz. Onların hepsini reddetmek "
 "ister misiniz? Buna şimdi karar vermeye gerek yok."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "So tell someone, &ldquo;Thanks for inviting me, but Zoom/Skype/WhatsApp/"
 "whichever is a freedom-denying program, and almost surely snoops on its "
@@ -161,7 +161,7 @@ msgstr ""
 "katmayın. Ben başka bir dünya istiyorum ve bugün bunu kullanmayı reddederek "
 "o dünyaya doğru bir adım atıyorum.&rdquo;"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The FSF recommends <a href=\"https://www.fsf.org/blogs/community/better-than-"
 "zoom-try-these-free-software-tools-for-staying-in-touch\"> freedom-"
@@ -176,7 +176,7 @@ msgstr ""
 "ile veya başka bir özgür yazılım ile yapacaksak katılabilirim.&rdquo; de "
 "diyebilirsiniz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "You can take one step. And once you've done it, sooner or later you can do "
 "it again. Eventually you may find you have changed your practices; if you "

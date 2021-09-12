@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: copyright-and-globalization.html\n"
-"POT-Creation-Date: 2020-12-08 11:55+0000\n"
-"PO-Revision-Date: 2021-02-15 12:56+0200\n"
+"POT-Creation-Date: 2021-09-10 11:26+0000\n"
+"PO-Revision-Date: 2021-09-12 08:00+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -30,41 +30,41 @@ msgstr ""
 "Bilgisayar Ağları Çağında Telif Hakları ve Küreselleşme - GNU Projesi - "
 "Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Copyright and Globalization in the Age of Computer Networks"
 msgstr "Bilgisayar Ağları Çağında Telif Hakları ve Küreselleşme"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<i>The following is an edited transcript from a speech given at <abbr title="
+"The following is an edited transcript from a speech given at <abbr title="
 "\"Massachusetts Institute of Technology\">MIT</abbr> in the Communications "
-"Forum on Thursday, April 19, 2001 from 5:00pm - 7:00pm</i>"
+"Forum on Thursday, April 19, 2001 from 5:00pm - 7:00pm"
 msgstr ""
-"<i>Aşağıdaki metin <abbr title=\"Massachusetts Institute of Technology"
-"\">MIT</abbr> İletişim Formunda 19 Nisan 2001 Perşembe günü 17:00 - 19:00 "
-"saatleri arasında yapılan konuşmanın düzenlenmiş çözümlemesidir</i>"
+"Aşağıdaki metin <abbr title=\"Massachusetts Institute of Technology\">MIT</"
+"abbr> İletişim Forumunda 19 Nisan 2001 Perşembe günü 17:00 - 19:00 saatleri "
+"arasında yapılan konuşmanın düzenlenmiş çözümlemesidir"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>DAVID THORBURN, moderator</b>: Our speaker today, Richard Stallman, is a "
 "legendary figure in the computing world, and my experience in trying to find "
 "a respondent to share the podium with him was instructive.  One "
-"distinguished <abbr>MIT</abbr> professor told me that Stallman needs to be "
-"understood as a charismatic figure in a biblical parable &mdash; a kind of "
-"Old Testament anecdote-lesson.  &ldquo;Imagine,&rdquo; he said, &ldquo;a "
-"Moses or a Jeremiah &mdash; better a Jeremiah.&rdquo; And I said, &ldquo;"
-"Well, that's very admirable.&rdquo;"
+"distinguished MIT professor told me that Stallman needs to be understood as "
+"a charismatic figure in a biblical parable&mdash;a kind of Old Testament "
+"anecdote-lesson.  &ldquo;Imagine,&rdquo; he said, &ldquo;a Moses or a "
+"Jeremiah&mdash;better a Jeremiah.&rdquo; And I said, &ldquo;Well, that's "
+"very admirable.&rdquo;"
 msgstr ""
 "<b>DAVID THORBURN, yönetici</b>: Bugünkü konuşmacımız, Richard Stallman, "
 "bilgisayar dünyasında efsanevi bir şahsiyettir ve kürsüyü onunla paylaşmak "
-"için muhatap bulma çalışmalarındaki tecrübem öğreticiydi. Seçkin bir "
-"<abbr>MIT</abbr> profesörü bana, Stallman’ın Kutsal Kitaba ait (bir çeşit "
-"Eski Vasiyetname anekdot-dersindeki) bir hikayedeki karizmatik bir şahsiyet "
-"olarak anlaşılması gerektiğini söylemişti. &ldquo;Bir Musa ya da Yeremya, "
-"daha çok bir Yeremya hayal edin&rdquo; dedi. Ben de &ldquo;Evet, bu çok "
-"hayranlık duyulacak bir şey.&rdquo;"
+"için muhatap bulma çalışmalarındaki tecrübem öğreticiydi. Seçkin bir MIT "
+"profesörü bana, Stallman’ın Kutsal Kitaba ait (bir çeşit Eski Vasiyetname "
+"anekdot-dersindeki) bir hikayedeki karizmatik bir şahsiyet olarak "
+"anlaşılması gerektiğini söylemişti. &ldquo;Bir Musa ya da Yeremya, daha çok "
+"bir Yeremya hayal edin&rdquo; dedi. Ben de &ldquo;Evet, bu çok hayranlık "
+"duyulacak bir şey.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That sounds wonderful.  It confirms my sense of the kind of contribution he "
 "has made to the world.  Then why are you reluctant to share the podium with "
@@ -80,7 +80,7 @@ msgstr ""
 "dünyadaki yaşayan beş kişinin isimlerini soracak olursan, Richard Stallman "
 "onlardan biri olurdu.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>RICHARD STALLMAN</b>: I should [begin by explaining why I have refused to "
 "allow this Forum to be web cast], in case it wasn't clear fully what the "
@@ -97,7 +97,7 @@ msgstr ""
 "çalıştırılabilir biçimdedir, başka bir deyişle, gizemli bir sayı dizisinden "
 "ibarettir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What it does is secret.  You can't study it; you can't change it; and you "
 "certainly can't publish it in your own modified version.  And those are "
@@ -108,7 +108,7 @@ msgstr ""
 "kesinlikle kendi değiştirilmiş sürümünüzü yayınlayamazsınız. Ve bunlar, "
 "&ldquo;özgür yazılım&rdquo;ın tanımı için önemli özgürlükler arasındadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So if I am to be an honest advocate for free software, I can hardly go "
 "around giving speeches, then put pressure on people to use nonfree "
@@ -121,7 +121,7 @@ msgstr ""
 "şekilde ele aldığımı göstermezsem, başka hiç kimsenin bunları ciddi bir "
 "şekilde ele almasını bekleyemem."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, this speech is not about free software.  After I'd been working on "
 "the free software movement for several years and people started using some "
@@ -137,7 +137,7 @@ msgstr ""
 "kullanıcıları için olan fikirler nasıl diğer şeylere için de genelleştirilir?"
 "&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And, of course, people asked silly questions like, &ldquo;Well, should "
 "hardware be free?&rdquo; &ldquo;Should this microphone be free?&rdquo;"
@@ -145,7 +145,7 @@ msgstr ""
 "Ve tabi ki, insanlar şu gibi aptalca soruları da sordular: &ldquo;Donanım da "
 "özgür olmalı mıdır?&rdquo; &ldquo;Bu mikrofon da özgür olmalı mıdır?&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Well, what does that mean? Should you be free to copy it and change it? "
 "Well, as for changing it, if you buy the microphone, nobody is going to stop "
@@ -171,7 +171,7 @@ msgstr ""
 "bu, büyük bir politik konu olacaktır. Bunun olup olmayacağını bilmiyorum; "
 "bu, yalnızca şu andaki bir tahmindir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But for other kinds of information, you can raise the issue because any kind "
 "of information that can be stored on a computer, conceivably, can be copied "
@@ -192,7 +192,7 @@ msgstr ""
 "kopyalarına sahip olması durumunda  sahip olmanız gereken haklardan "
 "bahsediyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In order to explain my ideas on the subject, I'd like to review the history "
 "of the distribution of information and of copyright.  In the ancient world, "
@@ -214,7 +214,7 @@ msgstr ""
 "hazırlanmasının on katı zaman alıyordu. Ayrıca bir merkezileştirme zorlaması "
 "da yoktu, bir kitap herhangi bir yerde kopyalanabilirdi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now because of this technology, because it didn't force copies to be "
 "identical, there wasn't in the ancient world the same total divide between "
@@ -224,7 +224,7 @@ msgid ""
 "a book, there were other useful things you could do.  For instance, you "
 "could copy a part of a book, then write some new words, copy some more and "
 "write some new words and on and on.  This was called &ldquo;writing a "
-"commentary&rdquo; &mdash; that was a common thing to do &mdash; and these "
+"commentary&rdquo;&mdash;that was a common thing to do&mdash;and these "
 "commentaries were appreciated."
 msgstr ""
 "Bu teknolojiden dolayı, kopyaların birbiriyle tamamen aynı olması zorunlu "
@@ -234,10 +234,10 @@ msgstr ""
 "biliyorlardı ancak bir kitabın yazılmasıyla kopyalanması arasında "
 "yapabileceğiniz başka yararlı şeyler vardı. Örneğin, bir kitabın bir "
 "parçasını kopyalayıp daha sonra bazı yeni sözcükler ve daha sonra bazı yeni "
-"sözcükler yazabiliyordunuz. Bu “bir yorum yazılması” olarak "
+"sözcükler yazabiliyordunuz. Bu &ldquo;bir yorum yazılması&rdquo; olarak "
 "adlandırılmaktaydı. Bu yaygın bir şeydi ve bu yorumlar takdir görüyordu."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You could also copy a passage out of one book, then write some other words, "
 "and copy a passage from another book and write some more and so on, and this "
@@ -257,7 +257,7 @@ msgstr ""
 "oluşturmuştur ancak orijinali kopyalamakla uğraşmamışlardır çünkü orijinali "
 "yeterince ilginç değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now as far as I can tell, there was no such thing as copyright in the "
 "ancient world.  Anyone who wanted to copy a book could copy the book.  Later "
@@ -281,7 +281,7 @@ msgstr ""
 "üretim çalışması haline gelmiştir. Belirli herhangi bir kitabın kopyaları "
 "genellikle yalnızca birkaç yerde yapılmaktaydı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It also meant that ordinary readers couldn't copy books efficiently.  Only "
 "if you had a printing press could you do that.  So it was an industrial "
@@ -291,7 +291,7 @@ msgstr ""
 "anlamına da gelmekteydi, eğer bir matbaaya sahipseniz bunu yapabilirdiniz. "
 "Bu nedenle bu, endüstriyel bir eylemdi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now for the first few centuries of printing, printed books did not totally "
 "replace hand-copying.  Hand-copied books were still made, sometimes by rich "
@@ -310,7 +310,7 @@ msgstr ""
 "kopyalama yapacak kadar vakitleri vardı. Şarkıda da söylendiği gibi, &ldquo;"
 "Tek sahip olduğunuz şey vakitse, vakit nakit değildir.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So hand-copying was still done to some extent.  I think it was in the 1800s "
 "that printing actually got to be cheap enough that even poor people could "
@@ -320,7 +320,7 @@ msgstr ""
 "Sanırım 1800'li yıllarda baskılı kitaplar, okuryazar fakir insanların bile "
 "satın alabilecekleri kadar ucuzladı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now copyright was developed along with the use of the printing press and "
 "given the technology of the printing press, it had the effect of an "
@@ -339,7 +339,7 @@ msgstr ""
 "zamanında, insanlar, farklı bir telif hakkı amacı fikrine ulaştı ve "
 "zannediyorum ki, bu fikir İngiltere’de de kabul gördü."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For the U.S. Constitution it was proposed that authors should be entitled to "
 "a copyright, a monopoly on copying their books.  This proposal was "
@@ -360,7 +360,7 @@ msgstr ""
 "Tekeller, halka hizmet eden bir şeyler yapma yönünde davranışlarını "
 "iyileştirmeleri için yazarlara verildi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So the goal is more written and published books which other people can then "
 "read.  And this is believed to contribute to increased literary activity, "
@@ -375,7 +375,7 @@ msgstr ""
 "amaç da budur. Özel tekellerin oluşturulması yalnızca bir amaca ilişkin bir "
 "araçtır ve bu nihai hedef halka ilişkin bir hedeftir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now copyright in the age of the printing press was fairly painless because "
 "it was an industrial regulation.  It restricted only the activities of "
@@ -391,7 +391,7 @@ msgstr ""
 "hiçbir zaman telif hakkını onlara dayatmamıştı çünkü telif hakkı endüstriyel "
 "bir düzenleme olarak anlaşılmaktaydı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyright in the age of the printing press was also easy to enforce because "
 "it had to be enforced only where there was a publisher, and publishers, by "
@@ -405,7 +405,7 @@ msgstr ""
 "insanlara kitapları nereden alabileceklerini söylemeniz gereklidir. Telif "
 "hakkını dayatmak için, herkesin evine girmeniz gerekmez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And, finally, copyright may have been a beneficial system in that context.  "
 "Copyright in the U.S. is considered by legal scholars as a trade, a bargain "
@@ -419,10 +419,10 @@ msgstr ""
 "Kamu, kopyalamak için doğal haklarından bazılarını verir ve bu alışverişin "
 "sonunda, çıkarı, daha fazla sayıda kitabın yazılması ve yayınlanması olur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, is this an advantageous trade? Well, when the general public can't make "
-"copies because they can only be efficiently made on printing presses &mdash; "
+"copies because they can only be efficiently made on printing presses&mdash;"
 "and most people don't own printing presses &mdash; the result is that the "
 "general public is trading away a freedom it is unable to exercise, a freedom "
 "that is of no practical value.  So if you have something that is a byproduct "
@@ -435,11 +435,11 @@ msgstr ""
 "insanın kendi matbaası olmadığından dolayı, bunların sonucunda, kamu, "
 "uygulayamadığı bir özgürlüğü feda etmektedir, bu özgürlüğün pratikte bir "
 "değeri yoktur. Hayatınız için bir yan ürün olan bir şeye sahipseniz ve bu "
-"şey yararızsa ve bu şeyi herhangi bir değere sahip olan başka bir şeyle "
-"değiştirme imkânınız varsa, o zaman kazanmaktasınızdır. Bu, telif hakkının o "
-"zamanlar avantajlı bir ticaret olabilmesinin nedenidir."
+"şey yararsızsa ve bu şeyi herhangi bir değere sahip olan başka bir şeyle "
+"değiştirme olanağınız varsa, o zaman kazanmaktasınızdır. Bu, telif hakkının "
+"o zamanlar avantajlı bir ticaret olabilmesinin nedenidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But the context is changing, and that has to change our ethical evaluation "
 "of copyright.  Now the basic principles of ethics are not changed by "
@@ -459,7 +459,7 @@ msgstr ""
 "kanunu alanında da bu durum gerçekleşmektedir çünkü matbaa çağı sona "
 "ermektedir, artık yavaş yavaş bilgisayar ağların ın çağı gelmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Computer networks and digital information technology are bringing us back to "
 "a world more like the ancient world where anyone who can read and use the "
@@ -477,7 +477,7 @@ msgstr ""
 "merkezileşme ve matbaa ile devreye giren ekonomi ölçeği ve benzer "
 "teknolojiler artık devam etmeyecektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And this changing context changes the way copyright law works.  You see, "
 "copyright law no longer acts as an industrial regulation; it is now a "
@@ -490,7 +490,7 @@ msgid ""
 "to enforce because it was a restriction only on publishers who were easy to "
 "find and what they published was easy to see.  Now the copyright is a "
 "restriction on each and everyone of you.  To enforce it requires "
-"surveillance &mdash; an intrusion &mdash; and harsh punishments, and we are "
+"surveillance&mdash;an intrusion &mdash; and harsh punishments, and we are "
 "seeing these being enacted into law in the U.S. and other countries."
 msgstr ""
 "Bu değişen bağlam, telif hakkı kanununun çalışma şeklini değiştirmektedir. "
@@ -505,10 +505,10 @@ msgstr ""
 "yayıncılar üzerindeki bir kısıtlamaydı ve yayıncıların bulunması kolaydı ve "
 "ne yayınladıkları kolayca görülebilmekteydi. Şimdi ise, telif hakkı her "
 "biriniz ve hepiniz için bir kısıtlamadır. Telif hakkının dayatılması, "
-"gözetim, zorla denetim ve ciddi cezalandırmaları gerektirmektedir ve A.B."
-"D.’de ve diğer ülkelerde bunlara ilişkin yasaların çıkarıldığını görmekteyiz."
+"gözetim, zorla denetim ve ciddi cezalandırmaları gerektirmektedir ve ABD’de "
+"ve diğer ülkelerde bunlara ilişkin yasaların çıkarıldığını görmekteyiz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And copyright used to be, arguably, an advantageous trade for the public to "
 "make because the public was trading away freedoms it couldn't exercise.  "
@@ -527,7 +527,7 @@ msgstr ""
 "birazını elinizde tutarsınız. Ve halkın doğal olarak yapmak istediği şey de "
 "budur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That's what the public does whenever it's given a chance to voice its "
 "preference; it keeps some of this freedom and exercises it.  Napster is a "
@@ -546,7 +546,7 @@ msgstr ""
 "kısıtlamaların miktarını azaltmak ve halkın sahip olduğu özgürlüğü "
 "artırmaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But this is not what the publishers want to do.  What they want to do is "
 "exactly the opposite.  They wish to increase copyright powers to the point "
@@ -562,7 +562,7 @@ msgstr ""
 "kanunlara neden olmuştur. Matbaa zamanında halkın sahip olmuş olduğu "
 "özgürlükler alınmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For instance, let's look at e-books.  There's a tremendous amount of hype "
 "about e-books; you can hardly avoid it.  I took a flight in Brazil and in "
@@ -571,7 +571,7 @@ msgid ""
 "campaign comes from somebody paying for it.  Now why are they doing that? I "
 "think I know.  The reason is that e-books are the opportunity to take away "
 "some of the residual freedoms that readers of printed books have always had "
-"and still have &mdash; the freedom, for instance, to lend a book to your "
+"and still have&mdash;the freedom, for instance, to lend a book to your "
 "friend or borrow it from the public library or sell a copy to a used "
 "bookstore or buy a copy anonymously, without putting a record in the "
 "database of who bought that particular book.  And maybe even the right to "
@@ -591,7 +591,7 @@ msgstr ""
 "kopyayı satın alma özgürlüğü. Ve belki de bir kitabı iki defa okuma "
 "özgürlüğü."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These are freedoms that the publishers would like to take away, but they "
 "can't do this for printed books because that would be too obvious a power-"
@@ -617,12 +617,12 @@ msgstr ""
 "kitaplara geçmesini sağladılar ve sonuçta, okuyucular, farkına varmadan ve "
 "kaybetmemek için savaşmadan bu özgürlükleri kaybettiler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We see at the same time efforts to take away people's freedom in using other "
 "kinds of published works.  For instance, movies that are on DVDs are "
-"published in an encrypted format that used to be secret &mdash; it was meant "
-"to be secret &mdash; and the only way the movie companies would tell you the "
+"published in an encrypted format that used to be secret&mdash;it was meant "
+"to be secret&mdash;and the only way the movie companies would tell you the "
 "format, so that you could make a DVD player, was if you signed a contract to "
 "build certain restrictions into the player, with the result that the public "
 "would be stopped even from fully exercising their legal rights.  Then a few "
@@ -639,12 +639,12 @@ msgstr ""
 "bir DVD player yapabilirsiniz, sonuçta kamu, yasal haklarını bile "
 "kullanmaktan tamamen mahrum edilmektedir. Bu durum karşısında, Avrupa’daki "
 "birkaç zeki yazılımcı, DVD’lerin biçimini anlamış ve DVD okuyabilen bir "
-"özgür yazılım paketi yazmıştır1. Bu, satın almış olduğunuz DVD’yi seyretmek "
+"özgür yazılım paketi yazmıştır. Bu, satın almış olduğunuz DVD’yi seyretmek "
 "için GNU+Linux işletim sisteminin üstünde özgür bir yazılımın kullanılmasını "
 "mümkün kılmıştır, bu yapılması tamamen yasal olan bir şeydir. Bunu özgür "
 "yazılım kullanarak yapabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But the movie companies objected and they went to court.  You see, the movie "
 "companies used to make a lot of films where there was a mad scientist and "
@@ -670,25 +670,25 @@ msgstr ""
 "bir dava özeti imzaladım, gururla söyleyebilirim ki, söz konusu savaşta "
 "oldukça küçük bir rolüm var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The U.S. government intervened directly on the other side.  This is not "
 "surprising when you consider why the Digital Millennium Copyright Act was "
 "passed in the first place.  The reason is the campaign finance system that "
 "we have in the U.S., which is essentially legalized bribery where the "
 "candidates are bought by business before they even get elected.  And, of "
-"course, they know who their master is &mdash; they know whom they're working "
-"for &mdash; and they pass the laws to give business more power."
+"course, they know who their master is&mdash;they know whom they're working "
+"for&mdash;and they pass the laws to give business more power."
 msgstr ""
-"A.B.D. hükümeti doğrudan diğer tarafa müdahale etmiştir. Bu, Dijital "
-"Milenyum Telif Hakkı Hareketi’nin ilk sırada geçtiğini göz önüne aldığımızda "
+"ABD hükümeti doğrudan diğer tarafa müdahale etmiştir. Bu, Dijital Milenyum "
+"Telif Hakkı Hareketi’nin ilk sırada geçtiğini göz önüne aldığımızda "
 "şaşırtıcı değildir. Bunun nedeni, A.B.D.’deki seçim kampanyalarının finans "
 "sistemidir, bu sistem, adayların seçilmeden önce şirketler tarafından satın "
 "alındıkları yasal bir rüşvet sistemidir. Ve tabi ki, sahiplerinin kim "
 "olduğunu bilmektedirler, kimin için çalıştıklarını ve şirkete daha fazla güç "
 "sağlamak için kanunları kime yönelik yaptıklarını bilmektedirler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What will happen with that particular battle, we don't know.  But meanwhile "
 "Australia has passed a similar law and Europe is almost finished adopting "
@@ -702,7 +702,7 @@ msgstr ""
 "bırakmamaktır. Ancak A.B.D. yayınlanmış olan bilginin dağıtılmasının "
 "önlenmesi çalışmalarında dünya lideri olmayı sürdürmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The U.S. though is not the first country to make a priority of this.  The "
 "Soviet Union treated it as very important.  There this unauthorized copying "
@@ -712,14 +712,14 @@ msgid ""
 "harsh punishments for anyone caught doing forbidden copying. You could be "
 "sent to Siberia.  Third, soliciting informers, asking everyone to rat on "
 "their neighbors and co-workers to the information police.  Fourth, "
-"collective responsibility &mdash; You! You're going to watch that group! If "
-"I catch any of them doing forbidden copying, you are going to prison.  So "
+"collective responsibility&mdash;You! You're going to watch that group! If I "
+"catch any of them doing forbidden copying, you are going to prison.  So "
 "watch them hard.  And, fifth, propaganda, starting in childhood to convince "
 "everyone that only a horrible enemy of the people would ever do this "
 "forbidden copying."
 msgstr ""
-"Ancak, A.B.D. bunun öncülüğünü yapan ilk ülke değildir. Sovyetler Birliği, "
-"bu hususu çok önemli olarak görmüştür. Orada, izinsiz kopyalama ve yeniden "
+"Ancak, ABD bunun öncülüğünü yapan ilk ülke değildir. Sovyetler Birliği, bu "
+"hususu çok önemli olarak görmüştür. Orada, izinsiz kopyalama ve yeniden "
 "dağıtım Samizdat (ç.n.: yasadışı, yeraltı basın ) olarak biliniyordu ve bunu "
 "bastırmak için, bir düzine yöntem geliştirdiler: İlk olarak, yasak "
 "kopyalamayı önlemek için insanların neyi kopyaladıklarını kontrol etmek "
@@ -733,7 +733,7 @@ msgstr ""
 "izle.” Ve beşinci olarak, çocuklukta başlayan, bu yasak kopyalamayı yapmanın "
 "insanlık için korkunç bir düşmanlık olduğunu anlatan propaganda."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The U.S. is using all of these measures now.  First, guards watching copying "
 "equipment.  Well, in copy stores, they have human guards to check what you "
@@ -752,7 +752,7 @@ msgstr ""
 "girer; belirli verilere erişmenizin tek yolu budur ve kopyalama yapmanızı "
 "önler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There's a plan now to introduce this software into every hard disk, so that "
 "there could be files on your hard disk that you can't even access except by "
@@ -765,7 +765,7 @@ msgstr ""
 "diğer insanlara nasıl atlatılacağını açıklamak bile bir suç teşkil "
 "etmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Second, harsh punishments.  A few years ago, if you made copies of something "
 "and handed them out to your friends just to be helpful, this was not a "
@@ -778,7 +778,7 @@ msgstr ""
 "bir suç olmamıştı. Daha sonra bunu ağır bir suç yaptılar, komşunuzla "
 "paylaşım yaptığınız için yıllarca hapse girebilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Third, informers.  Well, you may have seen the ads on TV, the ads in the "
 "Boston subways asking people to rat on their co-workers to the information "
@@ -789,7 +789,7 @@ msgstr ""
 "istihbarat polisine gammazlamanız istenmektedir, bu istihbarat polisi resmi "
 "olarak Yazılım Yayıncıları Birliği şeklinde adlandırılmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And fourth, collective responsibility.  In the U.S., this has been done by "
 "conscripting Internet service providers, making them legally responsible for "
@@ -810,7 +810,7 @@ msgstr ""
 "kesildiğini duydum. Şimdilerde, mahkemelerle uğraşmak yerine yalnızca "
 "sitenizin bağlantısı kesilmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And, finally, propaganda, starting in childhood.  That's what the word "
 "&ldquo;pirate&rdquo; is used for.  If you'll think back a few years, the "
@@ -833,7 +833,7 @@ msgstr ""
 "ki, siz de böyle düşünmüyorsunuzdur ve düşünmüyorsanız, kelimeyi bu şekilde "
 "kullanmayı reddedersiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So the publishers are purchasing laws to give themselves more power.  In "
 "addition, they're also extending the length of time the copyright lasts.  "
@@ -862,7 +862,7 @@ msgstr ""
 "bu nedenle hiçbir çalışma yeniden halka sunulmayacaktır. Bu, &ldquo;taksit "
 "usülü kalıcı telif hakkı&rdquo; olarak adlandırılmıştır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The law in 1998 that extended copyright by 20 years is known as the &ldquo;"
 "Mickey Mouse Copyright Extension Act&rdquo; because one of the main sponsors "
@@ -876,7 +876,7 @@ msgstr ""
 "ereceğini fark etmiştir ve telif hakkından çok para kazandıkları için, bunun "
 "meydana gelmesini istememiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now the original title of this talk was supposed to be &ldquo;Copyright and "
 "Globalization.&rdquo; If you look at globalization, what you see is that "
@@ -899,7 +899,7 @@ msgstr ""
 "gücün alınması ve bu gücün bu vatandaşların çıkarlarını düşünmeyen işlere "
 "verilmesi hakkındadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Democracy is the problem in their view, and these treaties are designed to "
 "put an end to the problem.  For instance, <abbr title=\"North American Free "
@@ -915,20 +915,20 @@ msgstr ""
 "için onlara dava açmalasına izin veren hükümler içeriyor. Böylelikle yabancı "
 "firmalar, ülkenin vatandaşlarından daha fazla güce sahiptir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"There are attempts being made to extend this beyond <abbr>NAFTA</abbr>.  For "
-"instance, this is one of the goals of the so-called free trade area of the "
-"Americas, to extend this principle to all the countries in South America and "
-"the Caribbean as well, and the multilateral agreement on investment was "
-"intended to spread it to the whole world."
+"There are attempts being made to extend this beyond NAFTA.  For instance, "
+"this is one of the goals of the so-called free trade area of the Americas, "
+"to extend this principle to all the countries in South America and the "
+"Caribbean as well, and the multilateral agreement on investment was intended "
+"to spread it to the whole world."
 msgstr ""
-"Bunun <abbr>NAFTA</abbr>’nın ötesine uzanması için girişimler mevcuttur. "
-"Örneğin, bu ilkeyi, Güney Amerika’daki ve Karayiplerdeki tüm ülkelere "
-"genişletmek Amerika’nın özgür ticaret alanının hedeflerinden biridir ve çok "
-"uluslu bir ticari anlaşma, bunu tüm dünyaya yaymayı hedeflemektedir."
+"Bunun NAFTA'nın ötesine uzanması için girişimler mevcuttur. Örneğin, bu "
+"ilkeyi, Güney Amerika'daki ve Karayipler'deki tüm ülkelere genişletmek "
+"Amerika'nın özgür ticaret alanının hedeflerinden biridir ve çok uluslu bir "
+"ticari anlaşma, bunu tüm dünyaya yaymayı hedeflemektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One thing we've seen in the '90s is that these treaties begin to impose "
 "copyright throughout the world, and in more powerful and restrictive ways.  "
@@ -942,7 +942,7 @@ msgstr ""
 "ticareti ortadan kaldırmak için, şirketlere dünyadaki ticaret üzerinde "
 "kontrol yetkisi veren anlaşmalardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When the U.S. was a developing country in the 1800s, the U.S. did not "
 "recognize foreign copyrights.  This was a decision made carefully, and it "
@@ -955,7 +955,7 @@ msgstr ""
 "yabancı telif haklarını tanımasının dezavantajlı bir şey olduğu, paranın "
 "dışarı gideceği ve iyi bir sonuç vermeyeceği bilinmekteydi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The same logic would apply today to developing countries but the U.S.  has "
 "sufficient power to force them to go against their interests.  Actually, "
@@ -981,7 +981,7 @@ msgstr ""
 "göstermektedir çünkü Bill Gates gerçekte $2 milyara daha ihtiyaç "
 "duymamaktadır ancak diğer insanlar için $1 milyarlık bir kayıp kötü olabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Well, in a discussion about any of these trade treaties, when you hear "
 "people talk about the interests of this country or that country, what "
@@ -999,7 +999,7 @@ msgstr ""
 "dağılıma etkisini ve bu anlaşmanın bunu A.B.D.’de olduğu gibi daha da kötüye "
 "götürüp götürmeyeceğini görmezken gelmek için bir bahanedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So it's really not the U.S. interest that is being served by enforcing "
 "copyright around the world.  It's the interests of certain business owners, "
@@ -1012,7 +1012,7 @@ msgstr ""
 "ve bazıları da başka ülkelerdedir. Bu, herhangi bir anlamda halkın çıkarına "
 "değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But what would make sense to do? If we believe in the goal of copyright "
 "stated, for instance in the U.S. Constitution, the goal of promoting "
@@ -1033,7 +1033,7 @@ msgstr ""
 "gitmelidir? Bu, ilginç bir sorudur çünkü telif hakkını toplamda mutlaka "
 "yürürlükten kaldırmamız gerektiğini düşünmüyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The idea of trading some freedoms for more progress might still be an "
 "advantageous trade at a certain level, even if traditional copyright gives "
@@ -1049,7 +1049,7 @@ msgstr ""
 "olmamasıdır. Tüm çalışma tipleri için, aynı pazarlığın yapılması üzerinde "
 "ısrar etmek için bir neden yoktur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In fact, that already isn't the case because there are a lot of exceptions "
 "for music.  Music is treated very differently under copyright law.  But the "
@@ -1072,7 +1072,7 @@ msgstr ""
 "durum olsa ve gerçekte toplamda çok önemli olmasa bile, en güçlü tezi "
 "kurabilecekleri özel durumu alırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But maybe we should have that much copyright for that particular special "
 "case.  We don't have to pay the same price for everything we buy.  A "
@@ -1087,7 +1087,7 @@ msgstr ""
 "alanlarında satın aldığınız her şey için özel bir fiyat ödemeyecektiniz. O "
 "zaman niçin burada ödüyorsunuz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So we need to look at different kinds of works, and I'd like to propose a "
 "way of doing this."
@@ -1095,7 +1095,7 @@ msgstr ""
 "Farklı iş tiplerine bakmamız gereklidir ve size bunu yapmanın bir yolunu "
 "önereceğim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This includes recipes, computer programs, manuals and textbooks, reference "
 "works like dictionaries and encyclopedias.  For all these functional works, "
@@ -1116,7 +1116,7 @@ msgstr ""
 "yapmak istediğiniz bir işe ilişkin fikriniz farklı olabilir. Böylece sizin "
 "için iyi olanı yapmak için bu çalışmayı değiştirmek istersiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "At that point, there may be other people who have similar needs to yours, "
 "and your modified version might be good for them.  Everybody who cooks knows "
@@ -1138,7 +1138,7 @@ msgstr ""
 "sürümünuzu yazıp arkadaşlarınıza kopyaları verebilirsiniz. Bu, özgür yazılım "
 "topluluğunda yaptığımız şeyin aynısıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So that's one class of work.  The second class of work is works whose "
 "purpose is to say what certain people think.  Talking about those people is "
@@ -1160,17 +1160,17 @@ msgstr ""
 "değiştirilmesi, sosyal açıdan yararlı bir eylem değildir. Bu nedenle, "
 "insanların yapmasına izin verilmesi gereken tek şey birebir kopyalamadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The next question is: Should people have the right to do commercial verbatim "
 "copying? Or is non-commercial enough? You see, these are two different "
 "activities we can distinguish, so that we can consider the questions "
-"separately &mdash; the right to do non-commercial verbatim copying and the "
+"separately&mdash;the right to do non-commercial verbatim copying and the "
 "right to do commercial verbatim copying.  Well, it might be a good "
 "compromise policy to have copyright cover commercial verbatim copying but "
 "allow everyone the right to do non-commercial verbatim copying.  This way, "
 "the copyright on the commercial verbatim copying, as well as on all modified "
-"versions &mdash; only the author could approve a modified version &mdash; "
+"versions &mdash; only the author could approve a modified version&mdash;"
 "would still provide the same revenue stream that it provides now to fund the "
 "writing of these works, to whatever extent it does."
 msgstr ""
@@ -1186,13 +1186,13 @@ msgstr ""
 "kadar olursa olsun, bu çalışmaların yazılmasına destek olmak için şimdi "
 "sağladığıyla aynı geliri sağlayacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By allowing the non-commercial verbatim copying, it means the copyright no "
 "longer has to intrude into everybody's home.  It becomes an industrial "
 "regulation again, easy to enforce and painless, no longer requiring "
 "draconian punishments and informers for the sake of its enforcement.  So we "
-"get most of the benefit &mdash; and avoid most of the horror &mdash; of the "
+"get most of the benefit&mdash;and avoid most of the horror&mdash;of the "
 "current system."
 msgstr ""
 "Ticari olmayan birebir kopyalamaya izin verilmesi, telif hakkının artık "
@@ -1202,7 +1202,7 @@ msgstr ""
 "muhbirleri gerektirmez. Bu nedenle, mevcut sistemin yararının çoğunu alır ve "
 "kötü tarafının çoğunu bırakırız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The third category of works is aesthetic or entertaining works, where the "
 "most important thing is just the sensation of looking at the work.  Now for "
@@ -1228,7 +1228,7 @@ msgstr ""
 "bir hikayeyi kullanmıştır. Günümüzün telif hakkı kanunları o zamandan beri "
 "yürürlükte olsaydı, o zaman bu oyunlar yasa dışı olurdu."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So it's a hard question what we should do about publishing modified versions "
 "of an aesthetic or an artistic work, and we might have to look for further "
@@ -1247,7 +1247,7 @@ msgstr ""
 "değerlendirilmelidir; belki de bu yüzden, ticari yayınlar, asıl yazarla bir "
 "düzenleme yapılmasını gerektirmelidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now if commercial publication of these aesthetic works is covered by "
 "copyright, that will give most of the revenue stream that exists today to "
@@ -1263,7 +1263,7 @@ msgstr ""
 "sağlayacaktır  Bu nedenle bu, nu tip işlerde bulunan insanlara iltifatta "
 "bulunulduğu bir durummuş gibi mantıklı bir uzlaşma olabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we look ahead to the time when the age of the computer networks will have "
 "fully begun, when we're past this transitional stage, we can envision "
@@ -1275,7 +1275,7 @@ msgstr ""
 "gözümüzde canlandırabiliriz. Çalışmalarınız için para alabileceğiniz dijital "
 "bir para sisteminin olduğunu hayal edin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Imagine that we have a digital cash system that enables you to send somebody "
 "else money through the Internet; this can be done in various ways using "
@@ -1299,7 +1299,7 @@ msgstr ""
 "etmez ancak oradadır, size yazarları ve müzisyenleri desteklemenin iyi bir "
 "şey olduğunu söyler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So if you love the work that you're reading or listening to, eventually "
 "you're going to say, &ldquo;Why shouldn't I give these people a dollar? It's "
@@ -1325,7 +1325,7 @@ msgstr ""
 "etmektedirler. Yazarlar ve müzisyenler adına kamu üzerinde güç talep eden "
 "aynı yayıncılar, yazarlara ve müzisyenlere küçük bir kâr oranı vermektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I recommend you read Courtney Love's article in &ldquo;Salon&rdquo; "
 "magazine, an article about pirates that plan to use musicians' work without "
@@ -1344,7 +1344,7 @@ msgstr ""
 "sahip müzisyenlerin büyük çoğunluğunun küçük satış ücretlerinin % 4’ünden "
 "daha azını aldıkları anlamına gelmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here's the way it works: The record company spends money on publicity and "
 "they consider this expenditure as an advance to the musicians, although the "
@@ -1361,7 +1361,7 @@ msgstr ""
 "gider ve müzisyenler ancak çok başarılı oldukları zaman söz konusu paranın "
 "bir kısmına sahip olur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The musicians, of course, sign their record contracts because they hope "
 "they're going to be one of those few who strike it rich.  So essentially a "
@@ -1391,7 +1391,7 @@ msgstr ""
 "reklamı sağlayan mekanizma olabilir, bu da zaten kayıt sözleşmelerinden "
 "sağladıklarıyla aynı reklamdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We have to recognize that the existing copyright system does a lousy job of "
 "supporting musicians, just as lousy as world trade does of raising living "
@@ -1420,7 +1420,7 @@ msgstr ""
 "Meksikalı işçilerin yaşam standartlarını yükseltmekse bu, bunu yapmanın kötü "
 "bir yoludur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's interesting to see how the same phenomenon is going on in the copyright "
 "industry, the same general idea.  In the name of these workers who certainly "
@@ -1432,7 +1432,7 @@ msgstr ""
 "miktar veren ölçüleri önermektesiniz ve gerçekte hayatlarımızı kontrol etmek "
 "için şirketlerin gücünü desteklemektesiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you're trying to replace a very good system, you have to work very hard "
 "to come up with a better alternative.  If you know that the present system "
@@ -1446,7 +1446,7 @@ msgstr ""
 "değildir; günümüzde karşılaştırmanın standardı çok düşüktür. Telif hakkı "
 "politikası hususlarını değerlendirirken, bunu her zaman aklımızda tutmalıyız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So I think I've said most of what I want to say.  I'd like to mention that "
 "tomorrow is Phone-In Sick Day in Canada.  Tomorrow is the beginning of a "
@@ -1465,7 +1465,7 @@ msgstr ""
 "kullanılmakta olduğunu gördük. Birçok Amerikalı normal zamanda girmelerine "
 "izin verildiği sınırdan Kanada’ya giremez hale geldi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "On the flimsiest of excuses, a wall has been built around the center of "
 "Quebec to be used as a fortress to keep protesters out.  We've seen a large "
@@ -1483,7 +1483,7 @@ msgstr ""
 "sonra bize kalan demokrasi her neyse, buna karşı olan halk protestosunun "
 "baskısından arta kalan da odur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I've dedicated 17 years of my life to working on free software and allied "
 "issues.  I didn't do this because I think it's the most important political "
@@ -1507,11 +1507,11 @@ msgstr ""
 "bu husus üzerinde çalışırken buldum. Umarım ki, çalışmaya benim de bir "
 "katkım olmuştur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<b>RESPONSE</b>:"
 msgstr "<b>YANIT</b>:"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>THORBURN</b>: We'll turn to the audience for questions and comments in a "
 "moment.  But let me offer a brief general response.  It seems to me that the "
@@ -1529,7 +1529,7 @@ msgstr ""
 "bilgisayar ağlarının gelişmesiyle yıkılmışlardır. Bu açıkça görülebilir "
 "basit bir husustur ancak önemlidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Second is the recognition that the digital era requires us to reconsider how "
 "we distinguish and weigh forms of intellectual and creative labor.  Stallman "
@@ -1546,7 +1546,7 @@ msgstr ""
 "gelişimiyle birlikte ortaya çıkan entelektüel çalışmaya ilişkin problemlerle "
 "başa çıkmanın değerli bir yolu gibi görünmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But I think I detect another theme that lies beneath what Stallman has been "
 "saying and that isn't really directly about computers at all, but more "
@@ -1573,7 +1573,7 @@ msgstr ""
 "uygulama ile Stallman’ın kuramsal olasılıkları arasındaki fark hâlâ oldukça "
 "büyüktür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So I'll conclude by asking if Stallman would like to expand a bit on certain "
 "aspects of his talk and, specifically, whether he has further thoughts about "
@@ -1585,7 +1585,7 @@ msgstr ""
 "adlandıracağımız yaratıcıları nasıl koruyacağına dair ilâve düşüncelerini "
 "anlatmasını isteyerek konuşmamı sonlandırmak istiyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: First of all, I have to point out that we shouldn't use the "
 "term &ldquo;protection&rdquo; to describe what copyright does.  Copyright "
@@ -1607,7 +1607,7 @@ msgstr ""
 "kullanmayacağım. İnsanların yanlış tarafı korumasına neden olduğunu "
 "düşünüyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Also, it's a very bad idea to think about intellectual property for two "
 "reasons: First, it prejudges the most fundamental question in the area which "
@@ -1623,7 +1623,7 @@ msgstr ""
 "mülkiyet” ifadesinin kullanılması cevabın “evet” olduğu ön varsayımında "
 "bulunmaktır, bu meseleye yaklaşımın yoludur, diğer yol değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Second, it encourages over-generalization.  Intellectual property is a catch-"
 "all for several different legal systems with independent origins such as, "
@@ -1652,7 +1652,7 @@ msgstr ""
 "kanununun benzer olduğunu varsayarlar, gerçekte bunlar birbirinden tamamen "
 "farklıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So if you want to encourage careful thinking and clear understanding of what "
 "the law says, avoid the term &ldquo;intellectual property.&rdquo; Talk about "
@@ -1674,12 +1674,12 @@ msgstr ""
 "farklı. Bunlara farklı düşünce süreçleriyle ulaştım çünkü bu kanun "
 "maddeleri, birbirlerinden tamamen farklıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Anyway, I made that digression, but it's terribly important."
 msgstr ""
 "Her neyse, bu konu dışı sözü söylemiş oldum, bu benim için çok önemliydi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So let me now get to the point.  Of course, we can't see now how well it "
 "would work, whether it would work to ask people to pay money voluntarily to "
@@ -1698,12 +1698,12 @@ msgstr ""
 "şimdi denersek, başarısız olabiliriz ve bu hiçbir şeyi kanıtlamayacaktır "
 "çünkü şimdikinin on katı kadar insan katıldığında sistem çalışabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The other thing is, we do not have this digital cash payment system; so we "
 "can't really try it today.  You could try to do something a little bit like "
 "it.  There are services you can sign up for where you can pay money to "
-"someone &mdash; things like PayPal.  But before you can pay anyone through "
+"someone&mdash;things like PayPal.  But before you can pay anyone through "
 "PayPal, you have to go through a lot of rigmarole and give them personal "
 "information about you, and they collect records of whom you pay.  Can you "
 "trust them not to misuse that?"
@@ -1711,13 +1711,13 @@ msgstr ""
 "Diğer husus ise, bu dijital nakit ödeme sistemine sahip olmamamızdır; bu "
 "nedenle bunu gerçekten de bugün deneyemeyiz. Bunun gibi bir şeyleri yapmaya "
 "çalışabilirsiniz. Birilerine para ödemek için kullanabileceğiniz hizmetler "
-"var, PayPal (İnternet üzerinden çalışan bir online ödeme sistemi) gibi "
+"var, PayPal (İnternet üzerinden çalışan bir çevrimiçi ödeme sistemi) gibi "
 "şeyler. Ancak PayPal ile herhangi birine ödeme yapmadan önce, birtakım "
 "anlamsız formalitelerden geçmeniz ve kendiniz hakkında kişisel bilgi "
 "vermeniz gereklidir ve bu sistemde ödeme yaptığınız kişinin kayıtları "
 "toplanır. Bunu kötüye kullanmayacaklarına güvenebilir misiniz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So the dollar might not discourage you, but the trouble it takes to pay "
 "might discourage you.  The whole idea of this is that it should be as easy "
@@ -1741,28 +1741,28 @@ msgstr ""
 "fanlarının müziklerini teybe çekmelerini ve bunları kopyalamalarını "
 "cesaretlendirmişlerdir. Satışlarında bir düşme olmamıştır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We are gradually moving from the age of the printing press to the age of the "
 "computer network, but it's not happening in a day.  People are still buying "
-"lots of records, and that will probably continue for many years &mdash; "
-"maybe forever.  As long as that continues, simply having copyrights that "
-"still apply to commercial sales of records ought to do about as good a job "
-"of supporting musicians as it does today.  Of course, that's not very good, "
+"lots of records, and that will probably continue for many years&mdash;maybe "
+"forever.  As long as that continues, simply having copyrights that still "
+"apply to commercial sales of records ought to do about as good a job of "
+"supporting musicians as it does today.  Of course, that's not very good, "
 "but, at least, it won't get any worse."
 msgstr ""
-"Matbaadan internet çağına yavaş yavaş geçiyoruz ancak bu bir günde olmuyor. "
+"Matbaadan İnternet çağına yavaş yavaş geçiyoruz ancak bu bir günde olmuyor. "
 "İnsanlar hâlâ çok sayıda kaset ya da CD alıyor ve bu durum muhtemelen "
 "yıllarca, belki de sonsuza kadar, sürecek. Bu devam ettiği sürece, kaset ya "
-"da CD’lerin satışlarına uygulanan telif haklarının olması bugün de olduğu "
+"da CD'lerin satışlarına uygulanan telif haklarının olması bugün de olduğu "
 "gibi müzisyenleri desteklemeye devam edecek. Tabi ki, bu çok iyi bir durum "
 "değil ama en azından durum daha da kötüleşmeyecek."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<b>DISCUSSION</b>:"
 msgstr "<b>TARTIŞMA</b>:"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: [A comment and question about free downloading and about "
 "Stephen King's attempt to market one of his novels serially over the web.]"
@@ -1771,7 +1771,7 @@ msgstr ""
 "romanlarından birini internet üzerinden pazarlama girişimi1 hakkındaki yorum "
 "ve soru.]"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Yes, it's interesting to know what he did and what "
 "happened.  When I first heard about that, I was elated.  I thought, maybe he "
@@ -1794,7 +1794,7 @@ msgstr ""
 "&ldquo;Ödeme yapmazsanız o zaman kötüsünüz. Ve sizin gibi kötü insanlar "
 "çoğaldıkça, o zaman yazmayı bırakacağım.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Well, clearly, that's not the way to make the public feel like sending you "
 "money.  You've got to make them love you, not fear you."
@@ -1803,7 +1803,7 @@ msgstr ""
 "sağlamanın bir yolu değildir. Halkın sizi sevmesini sağlamanız gereklidir, "
 "sizden korkmasını değil."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>SPEAKER</b>: The details were that he required a certain percentage "
 "&mdash; I don't know the exact percentage, around 90% sounds correct &mdash; "
@@ -1822,7 +1822,7 @@ msgstr ""
 "sonra söz konusu kişi yüzdesine ulaşılamazsa, başka bir bölüm "
 "yayınlamayacağını söyledi. Eseri indiren insanlara bu çok düşmanca geldi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: Isn't the scheme where there's no copyright but people are "
 "asked to make voluntary donations open to abuse by people plagiarizing?"
@@ -1831,7 +1831,7 @@ msgstr ""
 "yapmalarının istendiği sistem, aşırma yapan insanların kötüye kullanımlarına "
 "açık değil mi?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: No.  That's not what I proposed.  Remember, I'm proposing "
 "that there should be copyright covering commercial distribution and "
@@ -1847,7 +1847,7 @@ msgstr ""
 "değiştirirse, telif hakkını ihlal etmiş olacaktır ve bugün yargılandığı gibi "
 "yargılanabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: I see.  So you're still imagining a world in which there is "
 "copyright?"
@@ -1855,7 +1855,7 @@ msgstr ""
 "<b>SORU</b>: Anlıyorum. Yani siz hâlâ telif hakkının olduğu bir dünyayı mı "
 "hayal ediyorsunuz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Yes.  As I've said, for those kinds of works.  I'm not "
 "saying that everything should be permitted.  I'm proposing to reduce "
@@ -1866,27 +1866,27 @@ msgstr ""
 "Telif hakkı güçlerini tamamen ortadan kaldırmayı önermiyorum, yalnızca "
 "azaltmayı öneriyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>THORBURN</b>: I guess one question that occurred to me while you were "
 "speaking, Richard, and, again, now when you're responding here to this "
 "question is why you don't consider the ways in which the computer, itself, "
-"eliminates the middle men completely &mdash; in the way that Stephen King "
-"refused to do &mdash; and might establish a personal relationship."
+"eliminates the middle men completely&mdash;in the way that Stephen King "
+"refused to do&mdash;and might establish a personal relationship."
 msgstr ""
 "<b>THORBURN</b>: Richard, siz konuşurken aklıma gelen bir soruyu sormak "
 "istiyorum, Stephen King'in reddettiği şekilde, neden bilgisayarın kendisinin "
 "aracıları tamamen ortadan kaldırdığı, kişisel bir ilişkiyi kurabilecek bir "
 "yöntemi düşünmüyorsunuz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Well, they can and, in fact, this voluntary donation is one."
 msgstr ""
 "<b>STALLMAN</b>: Evet, aslında olabilir, söz konusu gönüllü bağış bunun bir "
 "yoludur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>THORBURN</b>: You think of that as not involving going through a "
 "publisher at all?"
@@ -1894,7 +1894,7 @@ msgstr ""
 "<b>THORBURN</b>: Bunu bir yayıncı ile çalışmak olarak mı "
 "değerlendiriyorsunuz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Absolutely not.  I hope it won't, you see, because the "
 "publishers exploit the authors terribly.  When you ask the publishers' "
@@ -1919,7 +1919,7 @@ msgstr ""
 "oynatıcılar üzerinde oynatabileceğiniz herhangi bir şeyi almak isterseniz, "
 "bunun yayıncılar aracılığıyla olacağı bir dünyayı hayal etmektedirler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, in fact, while there's no law against an author or a musician publishing "
 "directly, it won't be feasible.  There's also the lure of maybe hitting it "
@@ -1937,7 +1937,7 @@ msgstr ""
 "bu durum sanatçıları çeker ve kendilerini ömür boyu bağlayan anlaşmalara "
 "imza atarlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Publishers tend to be very bad at respecting their contracts with authors.  "
 "For instance, book contracts typically have said that if a book goes out of "
@@ -1959,7 +1959,7 @@ msgstr ""
 "hiçbir nüfuzu olmadığında, anlaşma imzalatalım ve ondan sonra hiçbir gücü de "
 "kalmasın; yalnızca yayıncının gücü olsun."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: Would it be good to have free licenses for various kinds of "
 "works that protect for every user the freedom to copy them in whatever is "
@@ -1969,7 +1969,7 @@ msgstr ""
 "hangi yol uygunsa o yolda kullanıcının kopyalama yapma özgürlüğünü koruyan "
 "özgür lisansların olması iyi midir?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Well, people are working on this.  But for non-functional "
 "works, one thing doesn't substitute for another.  Let's look at a functional "
@@ -1994,7 +1994,7 @@ msgstr ""
 "değildir ve birileri size komşunuzla paylaşım içinde olamayacağınızı "
 "söylerse, onu dinlememelisiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: With regard to the functional works, how do you, in your "
 "own thinking, balance out the need for abolishing the copyright with the "
@@ -2006,7 +2006,7 @@ msgstr ""
 "çalışmaları geliştirmek için gerekli ekonomik güdülere ilişkin ihtiyaçla "
 "nasıl dengeliyorsunuz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Well, what we see is, first of all, that this economic "
 "incentive is a lot less necessary than people have been supposing.  Look at "
@@ -2022,7 +2022,7 @@ msgstr ""
 "çalışmaları kopyalamasını ve değiştirmesini engellemeden bunun için para "
 "toplamanın başka yolları olduğunu da görmekteyiz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That's the interesting lesson of the free software movement.  Aside from the "
 "fact that it gives you a way you can use a computer and keep your freedom to "
@@ -2042,7 +2042,7 @@ msgstr ""
 "olanlar hariç olmak üzere bilimin birçok alanında ders kitabı olarak hizmet "
 "veren monografilerde yazar bu işten para kazanmamaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We now have a free encyclopedia project which is, in fact, a commercial-free "
 "encyclopedia project, and it's making progress.  We had a project for a GNU "
@@ -2070,13 +2070,13 @@ msgstr ""
 "çalışma alanlarında bu çalışmalar için ekonomik bir güdüye ihtiyaç "
 "duymadığımız için memnunum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<b>THORBURN</b>: Well, what about the other two categories?"
 msgstr ""
 "<b>THORBURN</b>: Diğer iki kategori [insanların düşünceleri ve eğlence] "
 "hakkında ne düşünüyorsunuz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: For the other two classes of work, I don't know.  I don't "
 "know whether people will write some day novels without worrying about "
@@ -2086,7 +2086,7 @@ msgid ""
 "in effect, it's a chicken-or-the-egg problem, you know.  Which do we do "
 "first? How do we get the world where people don't have to desperately get "
 "money except by removing the control by business? And how can we remove the "
-"control by business except &mdash; Anyway, I don't know, but that's why I'm "
+"control by business except&mdash;Anyway, I don't know, but that's why I'm "
 "trying to propose first a compromise copyright system and, second, the "
 "voluntary payment supported by a compromise copyright system as a way to "
 "provide a revenue stream to the people who write those works."
@@ -2097,15 +2097,15 @@ msgstr ""
 "Bolluk içindeki topluma ulaşmak için yapmamız gereken şey, ekonomi ve "
 "kanunlar üzerindeki kontrolden kurtulmaktır. Bu aslında tavuk mu yumurtadan "
 "çıktı yumurta mı tavuktan çıktı problemidir, biliyorsunuz. Hangisini ilk "
-"önce yaparız? İnsanların şirketler tarafından kontrol altında tutulmadan...."
-"işle kontrollerini kaybetmeleri hariç olmak üzere insanların para kazanmak "
+"önce yaparız? İnsanların şirketler tarafından kontrol altında tutulmadan, "
+"işle kontrollerini kaybetmeleri hariç olmak üzere, insanların para kazanmak "
 "zorunda olmadıkları bir dünyayı nasıl sağlarız? Ve kontrolü nasıl ortadan "
 "kaldırırız? Bilmiyorum ama bu, ilk olarak uzlaşmacı bir telif hakkı sistemi "
 "ve daha sonra ikinci olarak bu çalışmaları yazan kimselere gelir sağlamanın "
 "bir yolu olarak uzlaşmalı bir telif hakkı sistemi tarafından desteklenen "
 "gönüllü ödemeyi önermeye çalışmamın sebebidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: How would you really expect to implement this compromise "
 "copyright system under the chokehold of corporate interests on American "
@@ -2115,7 +2115,7 @@ msgstr ""
 "politikacılar üzerinde ortak çıkarlarınızın gücü ve kontrolü altında bu "
 "uzlaşmalı telif hakkı sistemini uygulamayı gerçekten de nasıl umuyorsunuz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: It beats me.  I wish I knew.  It's a terribly hard "
 "problem.  If I knew how to solve that problem, I would solve it and nothing "
@@ -2125,7 +2125,7 @@ msgstr ""
 "gerçekten de çok zor bir problem. Bu problemi nasıl çözeceğimi bilseydim, "
 "çözerdim ve dünyadaki hiçbir şey, beni daha da onurlu yapamazdı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>:.  How do you fight the corporate control? Because when you "
 "look at these sums of money going into corporate lobbying in the court case, "
@@ -2141,7 +2141,7 @@ msgstr ""
 "tarafından ise ne gibi bir maliyete sahip olduğunu ise Tanrı bilir. Bu gibi "
 "yüksek fiyatlarla nasıl başa çıkılacağına dair bir fikriniz var mı?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: I have a suggestion.  If I were to suggest totally "
 "boycotting movies, I think people would ignore that suggestion.  They might "
@@ -2169,7 +2169,7 @@ msgstr ""
 "fikriniz olduğu için giderseniz, o zaman paradan iyi bir tasarruf "
 "sağlarsınız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>THORBURN</b>: One way to understand all of this discourse today, I think, "
 "is to recognize that whenever radical, potentially transforming technologies "
@@ -2189,13 +2189,13 @@ msgstr ""
 "ve görüntülerin kontrolüne ilişkin mücadeleler ve tüm bilgi biçimlerine "
 "ilişkin mücadeleler sancılı ve yoğun olabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For example, as a teacher of media, my access to images has been restricted "
 "in recent years in a way that had never been in place before.  If I write an "
 "essay in which I want to use still images, even from films, they are much "
 "harder to get permission to use, and the prices charged to use those still "
-"images are much higher &mdash; even when I make arguments about intellectual "
+"images are much higher&mdash;even when I make arguments about intellectual "
 "inquiry and the legal category of &ldquo;fair use.&rdquo; So I think, in "
 "this moment of extended transformation, the longer-term prospects may, in "
 "fact, not be as disturbing as what's happening in the shorter term.  But in "
@@ -2215,7 +2215,7 @@ msgstr ""
 "bir ilkesi olan teknolojik kaynakların kontrolü üzerindeki mücadelenin "
 "yenilenmiş bir sürümü olarak bu tecrübelerin tümünün anlaşılması gereklidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It's also essential to understand that the history of older technologies is "
 "itself a complicated matter.  The impact of the printing press in Spain, for "
@@ -2225,7 +2225,7 @@ msgstr ""
 "önemlidir. Örneğin, matbaanın İspanya’daki etkisi, İngiltere’deki ya da "
 "Fransa’daki etkisinden radikal olarak farklıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: One of the things that bothers me when I hear discussions "
 "of copyright is that often they start off with, &ldquo;We want a 180-degree "
@@ -2246,7 +2246,7 @@ msgstr ""
 "gerektiğine inanmaktadır. Konuşmacımızın bu konuda bir strateji olarak yorum "
 "yapıp yapmayacağını merak ediyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: I agree that shortening the time span of copyright is a "
 "good idea.  There is absolutely no need in terms of encouraging publication "
@@ -2277,7 +2277,7 @@ msgstr ""
 "zaman makinesi de vardı. Belki de düşüncelerini bu zaman makinesi etkilemiş "
 "olabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: Have you given thought to extending the concept of &ldquo;"
 "fair use,&rdquo; and are there any nuances there that you might care to lay "
@@ -2286,7 +2286,7 @@ msgstr ""
 "<b>SORU</b>“Adil kullanım” kavramını genişletmeyi düşündünüz mü ve bize "
 "sunabileceğiniz herhangi bir fark var mı?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Well, the idea of giving everyone permission for non-"
 "commercial verbatim copying of two kinds of works, certainly, may be thought "
@@ -2303,7 +2303,7 @@ msgstr ""
 "düşünüyorsanız, o zaman çeşitli farklı yerlerde çizgi çizebilirsiniz. Toplum "
 "hangi özgürlükleri verir ve hangilerini vermez?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: To extend the conversation for just a moment, in certain "
 "entertainment fields, we have the concept of a public presentation.  So, for "
@@ -2322,7 +2322,7 @@ msgstr ""
 "genişletilmesi hakkında düşünmenin yararlı olup olmayacağını merak "
 "etmekteyim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: I used to think that that might be enough, and then Napster "
 "convinced me otherwise because Napster is used by its users for non-"
@@ -2345,7 +2345,7 @@ msgstr ""
 "kopyalarını ticari olmayan bir şekilde yeniden dağıtma hakkına sahip olması "
 "gerektiği konusunda ikna oldum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: One analogy that was recently suggested to me for the whole "
 "Napster question was the analogy of the public library.  I suppose some of "
@@ -2366,7 +2366,7 @@ msgstr ""
 "aldığında, bunun için ödeme yapmazlar ve herhangi ilâve bir ödeme olmaksızın "
 "onlarca, yüzlerce kere ödünç alabilirler. Napster niçin farklı olsun?&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Well, it's not exactly the same.  But it should be pointed "
 "out that the publishers want to transform public libraries into pay-per-use, "
@@ -2376,7 +2376,7 @@ msgstr ""
 "kütüphanelerini kullanım başına ödeme sistemine dönüştürmek istemektedir. Bu "
 "nedenle halk kütüphanelerine de karşıdırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: Can these ideas about copyright suggest any ideas for "
 "certain issues about patent law such as making cheap, generic drugs for use "
@@ -2386,7 +2386,7 @@ msgstr ""
 "üzere ucuz ve genel ilaçların üretilmesi amacıyla ilgili patent kanunu "
 "üzerinde belli hususlar için herhangi bir fikir öne sürebilir mi?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: No, there's absolutely no similarity.  The issues of "
 "patents are totally different from the issues of copyrights.  The idea that "
@@ -2406,7 +2406,7 @@ msgstr ""
 "ilaçlarının üretilmesi hakkındaki ana husus nedir? Bu para hususudur, başka "
 "bir husus değil, para hususudur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now the issue I've been talking about arises because digital information "
 "technology gives every user the ability to make copies.  Well, there's "
@@ -2429,20 +2429,20 @@ msgstr ""
 "husus, maliyetlerinin ne kadar olduğu ve Afrika’daki insanların "
 "ödeyebileceği bir fiyatta olup olmadıklarıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So that's a tremendously important issue, but it's a totally different "
 "issue.  There's just one area where an issue arises with patents that is "
 "actually similar to these issues of freedom to copy, and that is in the area "
 "of agriculture.  Because there are certain patented things that can be "
-"copies, more or less &mdash; namely, living things.  They copy themselves "
-"when they reproduce.  It's not necessarily exact copying; they re-shuffle "
-"the genes.  But the fact is, farmers for millennia have been making use of "
-"this capacity of the living things they grow to copy themselves.  Farming "
-"is, basically, copying the things that you grew and you keep copying them "
-"every year.  When plant and animal varieties get patented, when genes are "
-"patented and used in them, the result is that farmers are being prohibited "
-"from doing this."
+"copies, more or less&mdash;namely, living things.  They copy themselves when "
+"they reproduce.  It's not necessarily exact copying; they re-shuffle the "
+"genes.  But the fact is, farmers for millennia have been making use of this "
+"capacity of the living things they grow to copy themselves.  Farming is, "
+"basically, copying the things that you grew and you keep copying them every "
+"year.  When plant and animal varieties get patented, when genes are patented "
+"and used in them, the result is that farmers are being prohibited from doing "
+"this."
 msgstr ""
 "Bu nedenle bu, çok önemli ancak tamamen farklı bir husustur. Kopyalama "
 "özgürlüğü konularında benzer patentlerle ilgili bir hususun ortaya çıktığı "
@@ -2456,7 +2456,7 @@ msgstr ""
 "genler patentlendiğinde ve kullanıldığında, sonuç olarak çiftçiler bunları "
 "kullanamaz hale gelir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is a farmer in Canada who had a patented variety growing on his field "
 "and he said, &ldquo;I didn't do that deliberately.  The pollen blew, and the "
@@ -2471,7 +2471,7 @@ msgstr ""
 "etmeliydi. Bu örnek, hükümetin bir tekelciye nasıl destek olduğunu "
 "göstermektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So I believe that, following the same principles that I apply to copying "
 "things on your computer, farmers should have an unquestioned right to save "
@@ -2484,7 +2484,7 @@ msgstr ""
 "firmalarını kapsayan patentlere sahip olabilirsiniz ancak bunlar, çiftçileri "
 "kapsamamalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: There's more to making a model successful than just the "
 "licensing.  Can you speak to that?"
@@ -2492,7 +2492,7 @@ msgstr ""
 "<b>SORU</b>:  Lisanslamadan daha başarılı bir model vardır. Bunun hakkında "
 "konuşabilir misiniz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Absolutely.  Well, you know, I don't know the answers.  But "
 "part of what I believe is crucial for developing free, functional "
@@ -2516,16 +2516,16 @@ msgstr ""
 "yapabileceğimizi dikte eden güçlü birtakım insanların kontrolü altına "
 "girmeyelim.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This tremendously boosts it.  But I don't know how much it will work in "
 "various different areas, but I think that in the area of education, when "
 "you're looking for textbooks, I think I see a way it can be done.  There are "
 "a lot of teachers in the world, teachers who are not at prestigious "
-"universities &mdash; maybe they're in high-school; maybe they're in college "
-"&mdash; where they don't write and publish a lot of things and there's not a "
-"tremendous demand for them.  But a lot of them are smart.  A lot of them "
-"know their subjects well and they could write textbooks about lots of "
+"universities&mdash;maybe they're in high-school; maybe they're in "
+"college&mdash;where they don't write and publish a lot of things and there's "
+"not a tremendous demand for them.  But a lot of them are smart.  A lot of "
+"them know their subjects well and they could write textbooks about lots of "
 "subjects and share them with the world and receive a tremendous amount of "
 "appreciation from the people who will have learned from them."
 msgstr ""
@@ -2539,17 +2539,17 @@ msgstr ""
 "hakkında ders kitapları yazabilir ve dünyayla paylaşabilirler ve bu "
 "kitaplardan bilgi öğrenen insanların takdirini kazanabilirler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: That's what I proposed.  But the funny thing is, I do know "
-"the history of education.  That's what I do &mdash; educational, electronic "
+"the history of education.  That's what I do&mdash;educational, electronic "
 "media projects.  I couldn't find an example.  Do you know of one?"
 msgstr ""
 "<b>SORU</b>: Önerdiğim şey de bu. Ancak komik olan şey şu ki, ben eğitim "
 "tarihini biliyorum. Yaptığım şey bu, eğitimsel, elektronik medya projeleri. "
 "Bir örnek bulamadım. Sizin bildiğiniz bir örnek var mı?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: No, I don't.  I started proposing this free encyclopedia "
 "and learning resource a couple of years ago, and I thought it would probably "
@@ -2568,7 +2568,7 @@ msgstr ""
 "bir kitap ya da bir bölümünü yazın. Bir kitabın birkaç bölümünü yazın ve "
 "diğer insanları geri kalanını yazmaya çağırın."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: Actually what I was looking for is something even more than "
 "that.  What's important in your kind of structure is somebody that creates "
@@ -2581,7 +2581,7 @@ msgstr ""
 "kuran birileridir. Malzemelere ilişkin bir katkı için herhangi bir yerde bir "
 "K-üzerinden-12 alt yapı sistemi yoktur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I can get information from lots of places but it's not released under free "
 "licenses, so I can't use it to make a free textbook."
@@ -2590,7 +2590,7 @@ msgstr ""
 "yayınlanmamıştır, bu nedenle bunu, özgür bir ders kitabı yapmak için "
 "kullanamam."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Actually, copyright doesn't cover the facts.  It only "
 "covers the way it's written.  So you can learn a field from anywhere and "
@@ -2601,7 +2601,7 @@ msgstr ""
 "alanı öğrenebilir ve daha sonra bir kitap yazabilirsiniz ve isterseniz söz "
 "konusu kitabı özgür yapabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>QUESTION</b>: But I can't write by myself all the textbooks that a "
 "student needs going through school."
@@ -2609,7 +2609,7 @@ msgstr ""
 "<b>SORU</b>: Ancak okula giden bir öğrencinin ihtiyaç duyduğu tüm kitapları "
 "kendim yazamam."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<b>STALLMAN</b>: Well, it's true.  And I didn't write a whole, free "
 "operating system, either.  I wrote some pieces and invited other people to "
@@ -2631,7 +2631,7 @@ msgstr ""
 "düşünün: Siz bir adım atıyorsunuz ve bundan sonra diğer insanlar da adım "
 "atıyor ve birlikte sonunda işi bitiriyorsunuz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Assuming that humanity doesn't wipe itself out, the work we do today to "
 "produce the free educational infrastructure, the free learning resource for "
@@ -2648,14 +2648,14 @@ msgstr ""
 "gerçekleştirilebileceğini gösterecektir, böylece diğerleri diğer parçaları "
 "yapacaktır."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This speech is published in <a href=\"http://shop.fsf.org/product/free-"
+"This speech is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
-"Bu konuşma <a href=\"http://shop.fsf.org/product/free-software-free-society/"
-"\"><cite>Özgür Yazılım, Özgür Toplum: Richard M. Stallman SeçilmişYazıları</"
+"Bu konuşma <a href=\"https://shop.fsf.org/product/free-software-free-society/"
+"\"><cite>Özgür Yazılım, Özgür Toplum: Richard M. Stallman Seçilmiş Yazıları</"
 "cite></a> kitabında yayınlanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -2684,14 +2684,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -2705,12 +2705,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2001, 2007, 2008, 2012, 2014, 2018, 2020 Free Software "
-"Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2001, 2007, 2008, 2012, 2014, 2018, 2020 Free Software "
-"Foundation, Inc."
+msgid "Copyright &copy; 2001, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2001, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

@@ -10,8 +10,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: misinterpreting-copyright.html\n"
-"POT-Creation-Date: 2020-10-26 13:25+0000\n"
-"PO-Revision-Date: 2020-10-27 07:27+0100\n"
+"POT-Creation-Date: 2021-09-05 09:56+0000\n"
+"PO-Revision-Date: 2021-09-12 08:22+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -19,23 +19,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid "Misinterpreting Copyright - GNU Project - Free Software Foundation"
 msgstr "Telif Hakkının Yanlış Yorumlanması - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Misinterpreting Copyright&mdash;A Series of Errors"
 msgstr "Telif Hakkının Yanlış Yorumlanması - Bir Dizi Hata"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"yazan <a href=\"http://stallman.org/\"><strong>Richard Stallman</strong></a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"https://stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Something strange and dangerous is happening in copyright law.  Under the US "
 "Constitution, copyright exists to benefit users&mdash;those who read books, "
@@ -54,7 +52,7 @@ msgstr ""
 "hükümeti daha fazla kısıtlama getirmektedir ve yeni ve ciddi cezalarla "
 "insanları korkutmaya çalışmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "How did copyright policies come to be diametrically opposed to their stated "
 "purpose? And how can we bring them back into alignment with that purpose? To "
@@ -66,11 +64,11 @@ msgstr ""
 "getirebiliriz? Anlamak için, Amerikan telif hakkı kanununun köküne bakarak "
 "başlamalıyız: A.B.D. Anayasasına."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Copyright in the US Constitution"
 msgstr "ABD Anayasasındaki Telif Hakkı"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When the US Constitution was drafted, the idea that authors were entitled to "
 "a copyright monopoly was proposed&mdash;and rejected.  The founders of our "
@@ -86,7 +84,7 @@ msgstr ""
 "gibi farklı bir dayanak noktasını benimsemiştir. Anayasa, aşağıdaki "
 "paragrafla bir telif hakkı sistemine izin vermektedir (Madde I, Bölüm 8):"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "[Congress shall have the power] to promote the Progress of Science and the "
 "useful Arts, by securing for limited Times to Authors and Inventors the "
@@ -96,7 +94,7 @@ msgstr ""
 "hakkı tanıyarak ve sınırlı zamanlar için yazarları ve mucitleri koruyarak "
 "bilimin ve yararlı sanatların gelişmesine yardımcı olmalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Supreme Court has repeatedly affirmed that promoting progress means "
 "benefit for the users of copyrighted works.  For example, in <em>Fox Film v. "
@@ -107,7 +105,7 @@ msgstr ""
 "gelir. Örneğin, <em>Fox Filmi olan v. Doyal</em>’de, mahkeme şunu "
 "söylemiştir:"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "The sole interest of the United States and the primary object in conferring "
 "the [copyright] monopoly lie in the general benefits derived by the public "
@@ -116,7 +114,7 @@ msgstr ""
 "A.B.D.'nin tek ilgisi ve [telif hakkı] tekeline danışmadaki birincil amaç, "
 "yazarların emeğinden kamunun elde ettiği genel çıkarlarda yatar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This fundamental decision explains why copyright is not <b>required</b> by "
 "the Constitution, only <b>permitted</b> as an option&mdash;and why it is "
@@ -134,11 +132,11 @@ msgstr ""
 "neden olamayacaktı, bu tıpkı, herkesin evinin, yapımından belirli bir süre "
 "sonra kamu malı haline gelmesi gibi bir şeyden farklı olmazdı."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The &ldquo;copyright bargain&rdquo;"
 msgstr "&ldquo;Telif hakkı pazarlığı&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The copyright system works by providing privileges and thus benefits to "
 "publishers and authors; but it does not do this for their sake.  Rather, it "
@@ -160,7 +158,7 @@ msgstr ""
 "paralarıyla bir karayolu ya da uçak satın alması gibidir, buradaki fark, "
 "hükümetin para yerine özgürlüğümüzü harcamasıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But is the bargain as it exists actually a good deal for the public? Many "
 "alternative bargains are possible; which one is best? Every issue of "
@@ -172,7 +170,7 @@ msgstr ""
 "politikasının her hususu, bu sorunun bir yanıtıdır. Sorunun yapısını yanlış "
 "anlarsak, hususlar konusunda yanlış karar verebiliriz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Constitution authorizes granting copyright powers to authors.  In "
 "practice, authors typically cede them to publishers; it is usually the "
@@ -197,11 +195,11 @@ msgstr ""
 "çalışmaların kullanılmasının her zaman okuma olduğu anlamına gelmez, çünkü "
 "&ldquo;kullanıcılar&rdquo; uzakta ve soyuttur."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The first error: &ldquo;striking a balance&rdquo;"
 msgstr "İlk hata: &ldquo;dengenin bozulması&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The copyright bargain places the public first: benefit for the reading "
 "public is an end in itself; benefits (if any) for publishers are just a "
@@ -217,7 +215,7 @@ msgstr ""
 "yanlış yorumlanmasındaki ilk adım, yayıncıların, okuyucularla aynı önem "
 "seviyesine çıkarılmasıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is often said that US copyright law is meant to &ldquo;strike a "
 "balance&rdquo; between the interests of publishers and readers.  Those who "
@@ -232,7 +230,7 @@ msgstr ""
 "başka bir deyişle, bu, telif hakkı pazarlığına eş değer olarak "
 "varsayılmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But the two interpretations are far from equivalent; they are different "
 "conceptually, and different in their implications.  The balance concept "
@@ -255,7 +253,7 @@ msgstr ""
 "okuyucuların ve yayıncıların çıkarları arasındaki nitel ayrımı "
 "reddetmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The consequences of this alteration are far-reaching, because the great "
 "protection for the public in the copyright bargain&mdash;the idea that "
@@ -274,7 +272,7 @@ msgstr ""
 "ayrıcalıklarını haklı gösterebilir; başka bir deyişle, &ldquo;denge&rdquo; "
 "kavramı, halktan başka biri adına haklı gösterilebilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As a practical matter, the consequence of the &ldquo;balance&rdquo; concept "
 "is to reverse the burden of justification for changes in copyright law.  The "
@@ -295,7 +293,7 @@ msgstr ""
 "basmaya&rdquo; yetecek ölçüde zarar gördükleri kanıtlanamazsa, yayıncıların, "
 "talep ettikleri her türlü ayrıcalığı alabilecekleri sonucuna varırız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Since the idea of &ldquo;striking a balance&rdquo; between publishers and "
 "readers denies the readers the primacy they are entitled to, we must reject "
@@ -305,11 +303,11 @@ msgstr ""
 "okuyucuların, hak ettikleri önceliği almalarını engellerse, o zaman buna "
 "karşı gelmeliyiz."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Balancing against what?"
 msgstr "Neye karşı dengeleme?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When the government buys something for the public, it acts on behalf of the "
 "public; its responsibility is to obtain the best possible deal&mdash;best "
@@ -323,7 +321,7 @@ msgstr ""
 "Hükümet birimleri, fiyatı aşağı çekmek için rekabetçi fiyat tekliflerini "
 "kullanmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For example, when signing contracts with construction companies to build "
 "highways, the government aims to spend as little as possible of the public's "
@@ -334,7 +332,7 @@ msgstr ""
 "değerlendirmeyi hedeflemektedir. Hükümet birimleri, fiyatı aşağı çekmek için "
 "rekabetçi fiyat tekliflerini kullanmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As a practical matter, the price cannot be zero, because contractors will "
 "not bid that low.  Although not entitled to special consideration, they have "
@@ -357,7 +355,7 @@ msgstr ""
 "toplum ve özgür piyasa bağlamında yapabilecekleri en iyi pazarlık için vergi "
 "veren vatandaşlar için en iyi sonucu elde etmeye çalışmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the copyright bargain, the government spends our freedom instead of our "
 "money.  Freedom is more precious than money, so government's responsibility "
@@ -371,11 +369,11 @@ msgstr ""
 "sorumluluğundan daha önemlidir. Hükümetler, yayıncıların çıkarlarını "
 "toplumun özgürlüğüyle eşit tutmamalıdır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Not &ldquo;balance&rdquo; but &ldquo;trade-off&rdquo;"
 msgstr "&ldquo;Denge&rdquo; değil ama &ldquo;alışveriş&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The idea of balancing the readers' interests against the publishers' is the "
 "wrong way to judge copyright policy, but there are indeed two interests to "
@@ -392,7 +390,7 @@ msgstr ""
 "güdü sistemi vasıtasıyla bir yayının yüreklendirilmesiyle de "
 "ilgilenebilirler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The word &ldquo;balance,&rdquo; in discussions of copyright, has come to "
 "stand as shorthand for the idea of &ldquo;striking a balance&rdquo; between "
@@ -406,7 +404,7 @@ msgstr ""
 "&ldquo;denge&rdquo; sözcüğünün kullanılması kafa karıştırıcı olabilir. <a "
 "href=\"#footnote1\">[1]</a> Başka bir terim gerekiyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In general, when one party has two goals that partly conflict, and cannot "
 "completely achieve both of them, we call this a &ldquo;trade-off.&rdquo; "
@@ -420,11 +418,11 @@ msgstr ""
 "dengenin bozulması&rdquo;ndan konuşmak yerine, &ldquo;özgürlüğümüzü harcama "
 "ve koruma arasında doğru alışverişin sağlanması&rdquo; lafını kullanmalıyız."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The second error: maximizing one output"
 msgstr "İkinci hata: tek bir sonucun maksimize edilmesi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The second mistake in copyright policy consists of adopting the goal of "
 "maximizing&mdash;not just increasing&mdash;the number of published works.  "
@@ -438,7 +436,7 @@ msgstr ""
 "okuyucularla aynı seviyeye getirmiştir; bu ikinci hata ise, yayıncıları "
 "okuyucuların çok üstünde tutmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When we purchase something, we do not generally buy the whole quantity in "
 "stock or the most expensive model.  Instead we conserve funds for other "
@@ -456,7 +454,7 @@ msgstr ""
 "kaynakların verimsiz harcanmasına neden olmaktadır; genelde başka bir "
 "kullanım için bir miktar para ayırmayı tercih ederiz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Diminishing returns applies to copyright just as to any other purchase.  The "
 "first freedoms we should trade away are those we miss the least, and whose "
@@ -478,7 +476,7 @@ msgstr ""
 "miktarını arttırmak olan bir pazarlığı sağlarız ancak bunu da mümkün olan en "
 "üst dereceye kadar sağlayamayız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Accepting the goal of maximizing publication rejects all these wiser, more "
 "advantageous bargains in advance&mdash;it dictates that the public must cede "
@@ -490,11 +488,11 @@ msgstr ""
 "yalnızca biraz daha fazla yayın için, yayınlanmış çalışmaları kullanmak için "
 "bırakması gerektiğini ifade eder."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The rhetoric of maximization"
 msgstr "Maksimizasyon söylemi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In practice, the goal of maximizing publication regardless of the cost to "
 "freedom is supported by widespread rhetoric which asserts that public "
@@ -519,7 +517,7 @@ msgstr ""
 "için olan Anayasal tabanı doğrudan reddetmektedir ancak kendini, Amerikan "
 "kanun sisteminin sorgulanmayan geleneğini temsil edecek biçimde sunmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The &ldquo;pirate&rdquo; rhetoric is typically accepted because it so "
 "pervades the media that few people realize how radical it is.  It is "
@@ -538,7 +536,7 @@ msgstr ""
 "olduğunu göstermeye çağırıldığında, hepimizin en önemli nedeni olan, &ldquo;"
 "Kopyalamak istiyoruz&rdquo; derhal elenir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This leaves no way to argue against increasing copyright power except using "
 "side issues.  Hence, opposition to stronger copyright powers today almost "
@@ -551,7 +549,7 @@ msgstr ""
 "almaktadır ve kopyaları yasal bir kamu değeri olarak dağıtma özgürlüğünden "
 "sözedilmesi bile imkânsız hale gelir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As a practical matter, the goal of maximization enables publishers to argue "
 "that &ldquo;A certain practice is reducing our sales&mdash;or we think it "
@@ -568,11 +566,11 @@ msgstr ""
 "varırız: kamunun yararı, yayıncıların satışlarıyla ölçülmektedir ve Genel "
 "Medya için iyi olan şey, A.B.D. için de iyidir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The third error: maximizing publishers' power"
 msgstr "Üçüncü hata: yayıncıların gücünün maksimuma çıkarılması"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Once the publishers have obtained assent to the policy goal of maximizing "
 "publication output at any cost, their next step is to infer that this "
@@ -593,7 +591,7 @@ msgstr ""
 "kaldırılmasını gerektiren bu hedef, A.B.D.’nin eyaletlerinden, uluslararası "
 "Anayasalara kadar tüm mevcut hükümet seviyelerinde uygulanmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This step is erroneous because strict copyright rules obstruct the creation "
 "of useful new works.  For instance, Shakespeare borrowed the plots of some "
@@ -606,7 +604,7 @@ msgstr ""
 "almıştır, yani günümüzün telif hakkı kanunu o zamanlar etkin olsaydı, "
 "Shakespeare’in oyunları yasadışı sayılmış olacaktı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Even if we wanted the highest possible rate of publication, regardless of "
 "cost to the public, maximizing publishers' power is the wrong way to get "
@@ -616,11 +614,11 @@ msgstr ""
 "olsun, yayıncının gücünün maksimuma çıkarılması, bunu sağlamanın yanlış "
 "yoludur. İlerlemeyi sağlamanın bir yolu olarak, bu, yanlış bir yoldur."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "The results of the three errors"
 msgstr "Üç hatanın sonuçları"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The current trend in copyright legislation is to hand publishers broader "
 "powers for longer periods of time.  The conceptual basis of copyright, as it "
@@ -634,7 +632,7 @@ msgstr ""
 "temeli genellikle sunmaz. Yasa yapan kimseler, telif hakkının kamuya hizmet "
 "ettiğini savunurken, yayıncılara gerçekte her istediğini verirler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For example, here is what Senator Hatch said when introducing S. 483, a 1995 "
 "bill to increase the term of copyright by 20 years:"
@@ -642,7 +640,7 @@ msgstr ""
 "Örneğin, S. 483’ü (telif hakkı döneminin 20 yıla çıkarılmasını isteyen 1995 "
 "tarihli yasa tasarısı) devreye sokarken Senatör Hatch şunları söylemiştir:"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "I believe we are now at such a point with respect to the question of whether "
 "the current term of copyright adequately protects the interests of authors "
@@ -654,7 +652,7 @@ msgstr ""
 "durumunun, yeni yayın çalışmalarının oluşturulması için yeterli bir güdü "
 "sağlamaya devam edip etmediği sorusunu sorduğumuz bir noktadayız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This bill extended the copyright on already published works written since "
 "the 1920s.  This change was a giveaway to publishers with no possible "
@@ -675,7 +673,7 @@ msgstr ""
 "&ldquo;<a href=\"/philosophy/words-to-avoid.html#Protection\">koru</"
 "a>&rdquo; propaganda teriminin kullanımına dikkat edin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The bill also extended the copyrights of works yet to be written.  For works "
 "made for hire, copyright would last 95 years instead of the present 75 "
@@ -691,7 +689,7 @@ msgstr ""
 "yayıncı, 2075 yılı için planlanmış bilanço föyleriyle bu iddiayı "
 "kanıtlamalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Needless to say, Congress did not question the publishers' arguments: a law "
 "extending copyright was enacted in 1998.  It was officially called the Sonny "
@@ -707,7 +705,7 @@ msgstr ""
 "ölen Sonny Bono Telif Hakkı Dönem Genişletme Hareketi olarak adlandırıldı. "
 "Onun işlerine bakan dul eşi ise şu ifadede bulundu:"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "Actually, Sonny wanted the term of copyright protection to last forever. I "
 "am informed by staff that such a change would violate the Constitution. I "
@@ -723,7 +721,7 @@ msgstr ""
 "kadar olması gerektiğini teklif etmektedir. Belki de komite, sonraki "
 "kongrede bu hususu ele alabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Supreme Court later heard a case that sought to overturn the law on the "
 "grounds that the retroactive extension fails to serve the Constitution's "
@@ -736,7 +734,7 @@ msgstr ""
 "kabul etti. Mahkeme hususu yargılama sorumluluğundan el çekerek yanıt verdi; "
 "Anayasa, telif hakkı için, sadece sözde bağlılık gerektiriyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another law, passed in 1997, made it a felony to make sufficiently many "
 "copies of any published work, even if you give them away to friends just to "
@@ -747,7 +745,7 @@ msgstr ""
 "adına arkadaşlarınıza verseniz bile, ağır bir suç olarak kabul etti. Önceden "
 "bu, A.B.D.’de bir suç bile değildi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "An even worse law, the Digital Millennium Copyright Act (DMCA), was designed "
 "to bring back what was then called &ldquo;copy protection&rdquo; &mdash; now "
@@ -774,7 +772,7 @@ msgstr ""
 "çalışmanın birtakım şifreleme özelliği ya da lisans yöneticisi içermesi "
 "şartıyla kanunun gücünü kullanır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One of the arguments offered for this bill was that it would implement a "
 "recent treaty to increase copyright powers.  The treaty was promulgated by "
@@ -794,7 +792,7 @@ msgstr ""
 "ülkedeki kamu çıkarına hizmet edip etmediği şüpheliydi. Her durumda, kanun "
 "tasarısı, anlaşmanın gerektirdiğinin üstüne çıktı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Libraries were a key source of opposition to this bill, especially to the "
 "aspects that block the forms of copying that are considered fair use. How "
@@ -814,7 +812,7 @@ msgstr ""
 "kısmını korumak istediklerinden, yayıncıların, günümüze kadar yaşamlarını "
 "nasıl sürdürdüklerini merak edebiliriz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Congressman Barney Frank, in a meeting with me and others who opposed this "
 "bill, showed how far the US Constitution's view of copyright has been "
@@ -840,7 +838,7 @@ msgstr ""
 "çalıştırdığı &ldquo;yaratıcı insanlarla&rdquo; tanımlanmıştır, telif hakkı "
 "onun yetkisi olarak değerlendirilmiştir ve Anayasa, ters yüz edilmiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The DMCA was enacted in 1998.  As enacted, it says that fair use remains "
 "nominally legitimate, but allows publishers to prohibit all software or "
@@ -852,7 +850,7 @@ msgstr ""
 "donanımları ve yazılımları yasaklamasına imkân verildi. Etkin olarak, adil "
 "kullanım yasaklandı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Based on this law, the movie industry has imposed censorship on free "
 "software for reading and playing DVDs, and even on the information about how "
@@ -870,7 +868,7 @@ msgstr ""
 "erişimi kısıtlamak için önerilmiş bir şifreleme sistemi hakkında "
 "öğrendiklerini yazan bilimsel makalesini geri çekmişti."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We are also beginning to see e-books that take away many of readers' "
 "traditional freedoms&mdash;for instance, the freedom to lend a book to your "
@@ -889,7 +887,7 @@ msgstr ""
 "kısıtlamaktadır, bu kitapları yalnızca sizleri kısıtlamak için tasarımlanmış "
 "özel gizli yazılımlar ile okuyabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I will never buy one of these encrypted, restricted e-books, and I hope you "
 "will reject them too.  If an e-book doesn't give you the same freedoms as a "
@@ -899,7 +897,7 @@ msgstr ""
 "siz de almazsınız. Bir e-kitap size geleneksel bir kağıt kitapla aynı "
 "özgürlüğü sunmuyorsa, o kitabı kabul etmeyin!"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Anyone independently releasing software that can read restricted e-books "
 "risks prosecution.  A Russian programmer, Dmitry Sklyarov, was arrested in "
@@ -916,7 +914,7 @@ msgstr ""
 "yazılımları yasaklamak için bir kanun hazırlamaktadır ve Avrupa Birliği "
 "yakın zamanda bu gibi bir kanunu kabul etmiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Mass-market e-books have been a commercial failure so far, but not because "
 "readers chose to defend their freedom; they were unattractive for other "
@@ -944,7 +942,7 @@ msgstr ""
 "öğrencilerden, okul kitapları olarak kısıtlanmış e-kitapların satın "
 "alınmasını istemektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The media companies are not satisfied yet.  In 2001, Disney-funded Senator "
 "Hollings proposed a bill called the &ldquo;Security Systems Standards and "
@@ -975,7 +973,7 @@ msgstr ""
 "edecektir. FCC bu kuralı benimserse, GNU Radyo gibi mevcut özgür yazılımlar "
 "sansürlenecektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To block these bills and rules requires political action.<a href="
 "\"#footnote3\">[3]</a>"
@@ -983,11 +981,11 @@ msgstr ""
 "Bu yasa tasarılarının ve kuralların engellenmesi politik eylemleri "
 "gerektirmektedir.<a href=\"#footnote3\">[3]</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Finding the right bargain"
 msgstr "Doğru pazarlığın sağlanması"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What is the proper way to decide copyright policy? If copyright is a bargain "
 "made on behalf of the public, it should serve the public interest above "
@@ -1003,7 +1001,7 @@ msgstr ""
 "karşılaştırılabilir bir yayın seviyesi sağlarken, telif hakkını mümkün "
 "olduğunca törpülemeliyiz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Since we cannot find this minimum price in freedom through competitive "
 "bidding, as we do for construction projects, how can we find it?"
@@ -1012,7 +1010,7 @@ msgstr ""
 "özgürlükteki bu en düşük fiyatı bulamayacağımız durumda, bunu nasıl "
 "bulabiliriz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One possible method is to reduce copyright privileges in stages, and observe "
 "the results.  By seeing if and when measurable diminutions in publication "
@@ -1029,7 +1027,7 @@ msgstr ""
 "çünkü yayıncılar, güçleri herhangi bir şekilde azaldığında, abartılı kötü "
 "kader tahminleri yapma eğilimine sahiptir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyright policy includes several independent dimensions, which can be "
 "adjusted separately.  After we find the necessary minimum for one policy "
@@ -1041,7 +1039,7 @@ msgstr ""
 "seviyesini korurken, telif hakkının diğer boyutlarının azaltılması hâlâ "
 "mümkün olabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One important dimension of copyright is its duration, which is now typically "
 "on the order of a century.  Reducing the monopoly on copying to ten years, "
@@ -1055,7 +1053,7 @@ msgstr ""
 "olacaktır. Telif hakkının, türemiş çalışmaların hazırlanmasını kapsayan "
 "başka bir yönü daha uzun bir dönem boyunca sürebilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Why count from the date of publication? Because copyright on unpublished "
 "works does not directly limit readers' freedom; whether we are free to copy "
@@ -1073,7 +1071,7 @@ msgstr ""
 "hakkı vadesinin sonunu ötelemek için yayının gecikmesini nadiren tercih "
 "edecektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Why ten years? Because that is a safe proposal; we can be confident on "
 "practical grounds that this reduction would have little impact on the "
@@ -1094,7 +1092,7 @@ msgstr ""
 "sürümü kopyalamak yerine telif hakkı olan mevcut baskıyı satın almayı tercih "
 "edecektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Ten years may still be longer than necessary; once things settle down, we "
 "could try a further reduction to tune the system.  At a panel on copyright "
@@ -1110,7 +1108,7 @@ msgstr ""
 "üstündeki herhangi bir şeyin tahammül edilemeyen bir şey olduğunu söyleyerek "
 "öfkeli bir şekilde karşı çıkmıştı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But we don't have to apply the same time span to all kinds of works.  "
 "Maintaining the utmost uniformity of copyright policy is not crucial to the "
@@ -1130,7 +1128,7 @@ msgstr ""
 "herhangi bir tip için gerekli bulduğumuz özgürlükteki en yüksek fiyatla "
 "&ldquo;ödeme yapılması&rdquo; da benzer şekilde aptalcadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So perhaps novels, dictionaries, computer programs, songs, symphonies, and "
 "movies should have different durations of copyright, so that we can reduce "
@@ -1149,7 +1147,7 @@ msgstr ""
 "bilgisayar programlamasında, üç yıl yeterlidir çünkü ürün çevrimleri bu "
 "süreden bile kısadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another dimension of copyright policy is the extent of fair use: some ways "
 "of reproducing all or part of a published work that are legally permitted "
@@ -1182,7 +1180,7 @@ msgstr ""
 "paylaşmak isterken ve bu çalışmaları yararlı bulurken, yalnızca acımasız "
 "önlemler bunları durduracaktır ve kamu, istediği şeyi almayı hak etmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For novels, and in general for works that are used for entertainment, "
 "noncommercial verbatim redistribution may be sufficient freedom for the "
@@ -1205,7 +1203,7 @@ msgstr ""
 "bu özgürlüklerin evrensel olarak mevcut olması için bu, kabul edilebilir bir "
 "uzlaşmadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Changes like these could bring copyright into line with the public's wish to "
 "use digital technology to copy.  Publishers will no doubt find these "
@@ -1220,7 +1218,7 @@ msgstr ""
 "bunu gerçekten de yapmazlar, çünkü oyun yine de kârlıdır ve bu, mevcut tek "
 "oyundur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As we consider reductions in copyright power, we must make sure media "
 "companies do not simply replace it with end-user license agreements.  It "
@@ -1236,11 +1234,11 @@ msgstr ""
 "pazarlı sektörler için bu tip tartışılmamış kısıtlamalar A.B.D. hukuk "
 "sisteminin standart bir parçası olmayı gerektirebilir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "A personal note"
 msgstr "Kişisel bir not"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I am a software designer, not a legal scholar.  I've become concerned with "
 "copyright issues because there's no avoiding them in the world of computer "
@@ -1260,7 +1258,7 @@ msgstr ""
 "arttırmak için yazarlara atfedilmiş olan yarı ilahi <a href=\"words-to-avoid."
 "html#Creator\">yaratıcı</a> romantik esrarı reddedebilirim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Most of this article consists of facts and reasoning that you can check, and "
 "proposals on which you can form your own opinions.  But I ask you to accept "
@@ -1276,57 +1274,55 @@ msgstr ""
 "ya da kitaplar için beni ödüllendirmek isterseniz, teşekkür olarak bir çek "
 "kabul edebilirim, ama lütfen özgürlüğünüzü teslim etmeyin."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h3>
 msgid "Footnotes"
 msgstr "Dipnotlar"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
-"<a id=\"footnote1\"></a>See Julian Sanchez’s article <a href=\"http://www."
-"juliansanchez.com/2011/02/04/the-trouble-with-balance-metaphors/\">&ldquo;"
-"The Trouble with &lsquo;Balance&rsquo; Metaphors&rdquo;</a> for an "
-"examination of &ldquo;how the analogy between sound judgment and balancing "
-"weights may constrain our thinking in unhealthy ways.&rdquo;"
+"See Julian Sanchez’s article <a href=\"http://www.juliansanchez."
+"com/2011/02/04/the-trouble-with-balance-metaphors/\">&ldquo;The Trouble with "
+"&lsquo;Balance&rsquo; Metaphors&rdquo;</a> for an examination of &ldquo;how "
+"the analogy between sound judgment and balancing weights may constrain our "
+"thinking in unhealthy ways.&rdquo;"
 msgstr ""
-"<a id=\"footnote1\"></a>&ldquo;Sağlıklı karar almakla ağırlığı dengeleme "
-"arasındaki karşılaştırmanın düşünüş şeklimizi nasıl sağlıksız bir şekilde "
-"sınırladığına&rdquo; ilişkin bir inceleme için Julian Sanchez’in <a href="
-"\"http://www.juliansanchez.com/2011/02/04/the-trouble-with-balance-metaphors/"
-"\">&ldquo;&lsquo;Denge&rsquo; Metaforlarının Sorunu&rdquo;</a> yazısına "
-"bakabilirsiniz."
+"&ldquo;Sağlıklı karar almakla ağırlığı dengeleme arasındaki karşılaştırmanın "
+"düşünüş şeklimizi nasıl sağlıksız bir şekilde sınırladığına&rdquo; ilişkin "
+"bir inceleme için Julian Sanchez’in <a href=\"http://www.juliansanchez."
+"com/2011/02/04/the-trouble-with-balance-metaphors/\">&ldquo;&lsquo;"
+"Denge&rsquo; Metaforlarının Sorunu&rdquo;</a> yazısına bakabilirsiniz."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
-"<a id=\"footnote2\"></a>Since renamed to the unpronounceable CBDTPA, for "
-"which a good mnemonic is &ldquo;Consume, But Don't Try Programming Anything,"
-"&rdquo; but it really stands for the &ldquo;Consumer Broadband and Digital "
-"Television Promotion Act.&rdquo;"
+"Since renamed to the unpronounceable CBDTPA, for which a good mnemonic is "
+"&ldquo;Consume, But Don't Try Programming Anything,&rdquo; but it really "
+"stands for the &ldquo;Consumer Broadband and Digital Television Promotion "
+"Act.&rdquo;"
 msgstr ""
-"<a id=\"footnote2\"></a>Telaffuz edilemeyen CBDTPA olarak adı "
-"değiştirilmiştir, &ldquo;Tüket Ama Hiçbirşey Programlamaya "
-"Çalışma'nın&rdquo; (Consume, But Don’t Try Programming Anything) kısaltması "
-"olarak akılda tutulabilir ancak aslında &ldquo;Tüketici Geniş Bant ve "
-"Dijital Televizyon Promosyon Hareketinin&rdquo; kısaltmasıdır."
+"Telaffuz edilemeyen CBDTPA olarak adı değiştirilmiştir, &ldquo;Tüket Ama "
+"Hiçbirşey Programlamaya Çalışma'nın&rdquo; (Consume, But Don’t Try "
+"Programming Anything) kısaltması olarak akılda tutulabilir ancak aslında "
+"&ldquo;Tüketici Geniş Bant ve Dijital Televizyon Promosyon "
+"Hareketinin&rdquo; kısaltmasıdır."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
-"<a id=\"footnote3\"></a>If you would like to help, I recommend the Web sites "
-"<a href=\"http://defectivebydesign.org\">DefectiveByDesign.org</a>, <a href="
-"\"http://publicknowledge.org\">publicknowledge.org</a> and <a href=\"http://"
-"www.eff.org\">www.eff.org</a>."
+"If you would like to help, I recommend the Web sites <a href=\"https://www."
+"defectivebydesign.org/\">DefectiveByDesign.org</a>, <a href=\"https://www."
+"publicknowledge.org/\">publicknowledge.org</a> and <a href=\"https://www.eff."
+"org/\">www.eff.org</a>."
 msgstr ""
-"<a id=\"footnote3\"></a>Yardım etmek isterseniz, <a href=\"http://"
-"defectivebydesign.org\">DefectiveByDesign.org</a>, <a href=\"http://"
-"publicknowledge.org\">publicknowledge.org</a> ve <a href=\"http://www.eff.org"
-"\">www.eff.org</a>."
+"Yardım etmek isterseniz, <a href=\"http://defectivebydesign.org"
+"\">DefectiveByDesign.org</a>, <a href=\"http://publicknowledge.org"
+"\">publicknowledge.org</a> ve <a href=\"http://www.eff.org\">www.eff.org</a>."
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"This essay is published in <a href=\"http://shop.fsf.org/product/free-"
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
 "software-free-society/\"><cite>Free Software, Free Society: The Selected "
 "Essays of Richard M. Stallman</cite></a>."
 msgstr ""
-"Bu yazı <a href=\"http://shop.fsf.org/product/free-software-free-society/"
+"Bu yazı <a href=\"https://shop.fsf.org/product/free-software-free-society/"
 "\"><cite>Özgür Yazılım, Özgür Toplum: Richard M. Stallman Seçilmiş Yazıları</"
 "cite></a> kitabında yayınlanmıştır."
 
@@ -1356,14 +1352,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -1378,11 +1374,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2002, 2003, 2007, 2015, 2016, 2018, 2020 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2002, 2009, 2010, 2015, 2021 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2002, 2003, 2007, 2015, 2016, 2018, 2020 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2002, 2009, 2010, 2015, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

@@ -6,38 +6,49 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophy-menu.html\n"
-"PO-Revision-Date: 2019-08-25 19:25+0300\n"
+"POT-Creation-Date: 2021-08-19 11:58+0000\n"
+"PO-Revision-Date: 2021-09-12 08:24+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/essays-and-articles.html\">Essays and articles</a>"
+"<a href=\"/philosophy/essays-and-articles.html\">Essays&nbsp;&amp;&nbsp;"
+"articles</a>"
 msgstr ""
-"<a href=\"/philosophy/essays-and-articles.html\">Denemeler ve yazılar</a>"
+"<a href=\"/philosophy/essays-and-articles.html\">Denemeler&nbsp;ve&nbsp;"
+"yazılar</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"/philosophy/speeches-and-interview.html\">Speeches and interviews</"
-"a>"
+"<a href=\"/philosophy/speeches-and-interview.html\">Speeches&nbsp;&amp;&nbsp;"
+"interviews</a>"
 msgstr ""
-"<a href=\"/philosophy/speeches-and-interview.html\">Konuşmalar ve "
+"<a href=\"/philosophy/speeches-and-interview.html\">Konuşmalar&nbsp;ve&nbsp;"
 "röportajlar</a>"
 
-#. type: Content of: <ul><li>
-msgid "<a href=\"/philosophy/third-party-ideas.html\">Third party ideas</a>"
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/philosophy/third-party-ideas.html\">Third&nbsp;party&nbsp;ideas</"
+"a>"
 msgstr ""
-"<a href=\"/philosophy/third-party-ideas.html\">Üçüncü taraf fikirler</a>"
+"<a href=\"/philosophy/third-party-ideas.html\">Üçüncü&nbsp;taraf&nbsp;"
+"fikirler</a>"
 
-#. type: Content of: <ul><li>
-msgid "<a href=\"/server/sitemap.html#directory-philosophy\">All articles</a>"
-msgstr "<a href=\"/server/sitemap.html#directory-philosophy\">Tüm yazılar</a>"
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/philosophy/latest-articles.html\">Latest&nbsp;articles</a>"
+msgstr "<a href=\"/philosophy/essays-and-articles.html\">Son&nbsp;yazılar</a>"
 
-#. type: Content of: <ul><li>
-msgid "<a href=\"http://audio-video.gnu.org/\">Audio and video</a>"
-msgstr "<a href=\"http://audio-video.gnu.org/\">Ses ve video</a>"
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"//audio-video.gnu.org/\">Audio&nbsp;&amp;&nbsp;video</a>"
+msgstr "<a href=\"//audio-video.gnu.org/\">Ses&nbsp;ve&nbsp;video</a>"
+
+#~ msgid ""
+#~ "<a href=\"/server/sitemap.html#directory-philosophy\">All articles</a>"
+#~ msgstr ""
+#~ "<a href=\"/server/sitemap.html#directory-philosophy\">Tüm yazılar</a>"

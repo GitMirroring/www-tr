@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gates.html\n"
-"POT-Creation-Date: 2021-07-18 09:55+0000\n"
-"PO-Revision-Date: 2021-07-18 16:28+0200\n"
+"POT-Creation-Date: 2021-09-10 11:26+0000\n"
+"PO-Revision-Date: 2021-09-12 08:13+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -30,7 +30,7 @@ msgstr "Kapılar<a href=\"#tn1\"><sup>1</sup></a> değil, bariyerler "
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "yazan <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "To pay so much attention to Bill Gates' retirement is missing the point. "
 "What really matters is not Gates, nor Microsoft, but the unethical system of "
@@ -42,7 +42,7 @@ msgstr ""
 "(diğer birçok yazılım şirketi gibi) müşterilerine dayattığı etik olmayan "
 "kısıtlamalar sistemidir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "That statement may surprise you, since most people interested in computers "
 "have strong feelings about Microsoft. Businessmen and their tame politicians "
@@ -59,14 +59,14 @@ msgstr ""
 "kullanıcı arayüzleri gibi aslında yalnızca yararlandığı ilerlemeler için "
 "saygı gösteriyor."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Gates' philanthropy for health care for poor countries has won some people's "
 "good opinion. The LA Times reported that his foundation spends five to 10% "
 "of its money annually and invests the rest, sometimes in companies it "
 "suggests cause environmental degradation and illness in the same poor "
 "countries.  (2010 update: The Gates Foundation is supporting a project with "
-"agribusiness giant Cargill on a <a href=\"http://www.guardian.co.uk/global-"
+"agribusiness giant Cargill on a <a href=\"https://www.theguardian.com/global-"
 "development/poverty-matters/2010/sep/29/gates-foundation-gm-monsanto"
 "\">project that could involve pushing genetically modified crops in Africa</"
 "a>.)"
@@ -76,12 +76,12 @@ msgstr ""
 "ila %10'unu yıllık olarak harcadığını ve geri kalanıyla yatırım yaptığını, "
 "bazen de aynı yoksul ülkelerde çevresel bozulmaya ve hastalığa neden olduğu "
 "ileri sürülen şirketlere yatırım yaptığını bildirdi. (2010 güncellemesi: "
-"Gates Vakfı, tarımsal işletme devi Cargill ile <a href=\"http://www.guardian."
-"co.uk/global-development/poverty-matters/2010/sep/29/gates-foundation-gm-"
-"monsanto\">Afrika'da genetik olarak değiştirilmiş ürünlerin zorla kabul "
-"ettirilmesini içerebilecek bir projeye</a> destek veriyor.)"
+"Gates Vakfı, tarımsal işletme devi Cargill ile <a href=\"https://www."
+"theguardian.com/global-development/poverty-matters/2010/sep/29/gates-"
+"foundation-gm-monsanto\">Afrika'da genetik olarak değiştirilmiş ürünlerin "
+"zorla kabul ettirilmesini içerebilecek bir projeye</a> destek veriyor.)"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Many computerists specially hate Gates and Microsoft. They have plenty of "
 "reasons.  Microsoft persistently engages in anti-competitive behaviour, and "
@@ -99,9 +99,9 @@ msgstr ""
 "bölgesinde büyük bir ofis kurdu. Hem yasal hem de potansiyel olarak "
 "yozlaşma.)"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
-"Many users hate the &ldquo;Microsoft tax&rdquo;, the retail contracts that "
+"Many users hate the &ldquo;Microsoft tax,&rdquo; the retail contracts that "
 "make you pay for Windows on your computer even if you won't use it. (In some "
 "countries you can get a refund, but the effort required is daunting.)  "
 "There's also the Digital Restrictions Management: software features designed "
@@ -116,7 +116,7 @@ msgstr ""
 "tasarlanmış yazılım özellikleri. (Kullanıcıların artan kısıtlaması, "
 "Vista'nın ana ilerlemesi gibi görünüyor.)"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Then there are the gratuitous incompatibilities and obstacles to "
 "interoperation with other software. (This is why the EU required Microsoft "
@@ -132,7 +132,7 @@ msgstr ""
 "standart&rdquo;ın ISO onayını edinmek üzere kendi destekçileriyle doldurdu. "
 "(AB şimdi bunu inceliyor.)"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "These actions are intolerable, of course, but they are not isolated events. "
 "They are systematic symptoms of a deeper wrong which most people don't "
@@ -142,7 +142,7 @@ msgstr ""
 "insanın tanımadığı daha derin bir yanlışın sistematik belirtileridir: özel "
 "mülk yazılım."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Microsoft's software is distributed under licenses that keep users divided "
 "and helpless. The users are divided because they are forbidden to share "
@@ -154,13 +154,13 @@ msgstr ""
 "kullanıcılar bölünmüştür. Kullanıcılar çaresizdir çünkü programcıların "
 "okuyabileceği ve değiştirebileceği kaynak kodu yoktur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If you're a programmer and you want to change the software, for yourself or "
 "for someone else, you can't.  If you're a business and you want to pay a "
 "programmer to make the software suit your needs better, you can't. If you "
 "copy it to share with your friend, which is simple good-neighbourliness, "
-"they call you a &ldquo;pirate&rdquo;.  Microsoft would have us believe that "
+"they call you a &ldquo;pirate.&rdquo; Microsoft would have us believe that "
 "helping your neighbour is the moral equivalent of attacking a ship."
 msgstr ""
 "Bir programcıysanız ve yazılımı kendiniz veya başka birisi için değiştirmek "
@@ -171,7 +171,7 @@ msgstr ""
 "Microsoft, komşunuza yardım etmenin bir gemiye saldırmakla aynı ahlaki "
 "denklikte olduğuna inanmamızı sağlayacaktır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The most important thing that Microsoft has done is to promote this unjust "
 "social system.  Gates is personally identified with it, due to his infamous "
@@ -188,7 +188,7 @@ msgstr ""
 "herhangi birine sahip olamayacaksın. Bana teslim ol ya da kaybol!&rdquo; "
 "diyordu."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "But Gates didn't invent proprietary software, and thousands of other "
 "companies do the same thing. It's wrong&mdash;no matter who does it. "
@@ -202,7 +202,7 @@ msgstr ""
 "Şirketlerdeki veya yöneticilerdeki bir değişiklik önemsizdir. Değiştirmeniz "
 "gereken şey bu sistemdir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "That's what the free software movement is all about. &ldquo;Free&rdquo; "
 "refers to freedom: we write and publish software that users are free to "
@@ -220,7 +220,7 @@ msgstr ""
 "yelpazesi sunmaktır, böylece hiçbir bilgisayar kullanıcısı yazılım edinme "
 "özgürlüğünden vazgeçmek için teşvik edilmeyecektir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1984, when I started the free software movement, I was hardly aware of "
 "Gates' letter. But I'd heard similar demands from others, and I had a "
@@ -234,7 +234,7 @@ msgstr ""
 "geliştirmeyin. Onsuz daha iyiyiz. Bilgisayarlarımızı kullanmanın ve "
 "özgürlüğümüzü korumanın başka yollarını bulacağız.&rdquo;"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1992, when the GNU operating system was completed by the kernel, Linux, "
 "you had to be a wizard to run it. Today GNU/Linux is user-friendly: in parts "
@@ -247,7 +247,7 @@ msgstr ""
 "standarttır. Dünya çapında on milyonlarca kişi onu kullanıyor. Siz de "
 "kullanabilirsiniz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Gates may be gone, but the walls and bars of proprietary software he helped "
 "create remain&mdash;for now.  Dismantling them is up to us."

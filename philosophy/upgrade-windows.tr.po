@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: upgrade-windows.html\n"
-"POT-Creation-Date: 2021-07-22 13:56+0000\n"
+"POT-Creation-Date: 2021-09-05 10:26+0000\n"
 "PO-Revision-Date: 2021-07-23 16:06+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -33,7 +33,7 @@ msgstr "Windows Kurulumunu Yükseltmenin Doğru Yolu Nedir?"
 msgid "by Richard Stallman"
 msgstr "yazan Richard Stallman"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "It is commonplace in the computing field to urge users to &ldquo;"
 "upgrade&rdquo; to newer versions of Windows (and other nonfree programs) so "
@@ -50,7 +50,7 @@ msgstr ""
 "Windows için durumun hiç de böyle olmadığını biliyoruz. Bu nedenle farklı "
 "bir öneri sunuyoruz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In fact, newer versions of Windows have exploits before they are released. "
 "They are designed with various kinds of malicious functionalities; see "
@@ -62,7 +62,7 @@ msgstr ""
 "proprietary/malware-microsoft.html\">Microsoft'un Yazılımı Kötücül "
 "Yazılımdır</a>).&rdquo;"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Newer Windows versions contain added malicious functionalities; they give "
 "Microsoft more power over the users. That is a reason not to switch to a "
@@ -76,7 +76,7 @@ msgstr ""
 "bir sürüme geçmek Microsoft'u para ile ödüllendirmeyi ve hatta yeni bir "
 "bilgisayar satın almayı gerektirebilir. Bunu teşvik etmeyi pek istemiyoruz!"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Therefore we decline to support Microsoft by urging users to move to newer "
 "versions; we do not treat the unintentional flaws of Windows as more "
@@ -86,7 +86,7 @@ msgstr ""
 "Microsoft'u desteklemeyi reddediyoruz; Windows'un istemeden yapılan "
 "kusurlarının, kasıtlı yapılanlardan daha önemli olduğunu düşünmüyoruz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Our advice to those using any version of Windows is to <a href=\"https://"
 "upgradefromwindows.org\">upgrade to GNU/Linux</a>."
@@ -94,7 +94,7 @@ msgstr ""
 "Windows'un herhangi bir sürümünü kullananlara önerimiz, <a href=\"https://"
 "upgradefromwindows.org\">GNU/Linux'a yükseltmeleridir</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Supporting GNU packages on any version of Windows (or any non-GNU-like "
 "systems) is not part of the GNU Project's core mission. Our slogan is, "

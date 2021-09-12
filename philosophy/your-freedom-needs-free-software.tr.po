@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: your-freedom-needs-free-software.html\n"
-"POT-Creation-Date: 2021-07-17 08:25+0000\n"
+"POT-Creation-Date: 2021-09-05 10:26+0000\n"
 "PO-Revision-Date: 2021-07-17 11:02+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -32,7 +32,7 @@ msgstr "Özgürlüğünüzün Özgür Yazılım'a İhtiyacı Var"
 msgid "by Richard Stallman"
 msgstr "yazan Richard Stallman"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Many of us know that governments can threaten the human rights of software "
 "users through censorship and surveillance of the Internet.  Many do not "
@@ -47,7 +47,7 @@ msgstr ""
 "insanlar yazılımın kendilerine itaat ettiğini düşünse de, aslında yazılımlar "
 "kullanıcılarına değil, başkalarına itaat etmektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The software running in most computers is <a href=\"/philosophy/categories."
 "html#ProprietarySoftware\">nonfree, proprietary software</a>: controlled by "
@@ -65,7 +65,7 @@ msgstr ""
 "kullanıcıların bilgisayarları üzerinde geliştiriciye yetki vermek basitçe "
 "yanlıştır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This unjust power, as usual, tempts its wielders to further misdeeds. If a "
 "computer talks to a network, and you don't control the software in it, it "
@@ -91,7 +91,7 @@ msgstr ""
 "dinleme cihazı olarak kullanılabilir. Kullanıcılar, üzerinde bir denetim "
 "yetkilerinin olmadığı bu kötü niyetli özellikleri kısıtlayamamaktadır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Some proprietary software is designed to restrict and attack its users.  <a "
 "href=\"http://badvista.org/\">Windows Vista</a> is a big advance in this "
@@ -120,7 +120,7 @@ msgstr ""
 "Mac OS de aynı şekilde kullanıcıyı kısıtlamak için tasarlanmış özellikler "
 "içermektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Microsoft has installed back doors for the US government's use in the past "
 "(<a href=\"https://www.heise.de/tp/artikel/5/5263/1.html\">reported on heise."
@@ -134,7 +134,7 @@ msgstr ""
 "yapılmadığını öğrenemiyoruz. Öteki özel mülk programlar da arka kapılara "
 "sahip olabilir veya olmayabilir, ancak denetleyemediğimiz için güvenemiyoruz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The only way to assure that your software is working for you is to insist on "
 "Free/Libre software.  This means users get the source code, are free to "
@@ -157,7 +157,7 @@ msgstr ""
 "özgür</a> bir GNU/Linux dağıtımı için <a href=\"https://www.gnewsense.org/"
 "\">gNewSense.org</a> adresine bakabilirsiniz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A special problem occurs when activists for social change use proprietary "
 "software, because its developers, who control it, may be companies they wish "
@@ -175,7 +175,7 @@ msgstr ""
 "diyeceğimizin de denetim altında olduğu anlamına gelir. Bu durum hayatımızın "
 "her alanında özgürlüğümüzü tehdit eder."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "There is also danger in using a company's server to do your word processing "
 "or email&mdash;and not just if you are in China, as US lawyer Michael "
@@ -193,7 +193,7 @@ msgstr ""
 "yaptığını kabul etmemiştir. Springmann verilerini geri almaktan vazgeçmek "
 "zorunda kaldı."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The US is not the only state that doesn't respect human rights, so keep your "
 "data on your own computer, and your backups under your own custody&mdash;and "

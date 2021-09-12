@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophy.html\n"
-"POT-Creation-Date: 2021-06-02 15:25+0000\n"
-"PO-Revision-Date: 2021-06-04 10:21+0200\n"
+"POT-Creation-Date: 2021-08-19 14:56+0000\n"
+"PO-Revision-Date: 2021-09-12 08:25+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -33,7 +33,7 @@ msgid ""
 msgstr ""
 "<em>Özgür Yazılım</em> kullanıcılarının özgürlüğe sahip olduğu yazılımdır. "
 "(söz konusu olan fiyat değildir.) GNU işletim sistemini kullanıcılar bilişim "
-"işlerinde özgürlüğe sahip olsun diye geliştirdik. "
+"işlerinde özgürlüğe sahip olsun diye geliştirdik."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -45,7 +45,7 @@ msgstr ""
 "Tam olarak özgür yazılım kullanıcıların <a href=\"/philosophy/free-sw.html"
 "\">dört temel özgürlüğe</a> sahip olduğu anlamına gelir: (0) programı "
 "çalıştırma, (1) kaynak kodunu kullanarak onu öğrenme ve değiştirme, (2) "
-"tamamen aynı kopyaları yeniden dağıtır, (3) değiştirilmiş sürümleri dağıtma. "
+"tamamen aynı kopyaları yeniden dağıtır, (3) değiştirilmiş sürümleri dağıtma."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -65,21 +65,13 @@ msgid "For further reading, please select a section from the menu above."
 msgstr ""
 "Daha ayrıntılı yazılar için, yukarıdaki menüden bir bölüm seçebilirsiniz."
 
-#. type: Content of: <div><div><div><p>
-msgid ""
-"We also maintain a list of <a href=\"/philosophy/latest-articles.html\">most "
-"recently added articles</a>."
-msgstr ""
-"Ayrıca <a href=\"/philosophy/latest-articles.html\">yakın geçmişte eklenmiş "
-"olan yazıların</a> bir listesini de tutuyoruz."
-
 #. type: Content of: <div><div><p>
 msgid ""
-"See <a href=\"http://audio-video.gnu.org/\">audio-video.gnu.org</a> for "
+"See <a href=\"//audio-video.gnu.org/\">audio-video.gnu.org</a> for "
 "recordings of Richard Stallman's speeches."
 msgstr ""
-"Richard Stallman'ın konuşma kayıtları için <a href=\"http://audio-video.gnu."
-"org/\">audio-video.gnu.org</a> adresine bakabilirsiniz."
+"Richard Stallman'ın konuşma kayıtları için <a href=\"//audio-video.gnu.org/"
+"\">audio-video.gnu.org</a> adresine bakabilirsiniz."
 
 #. type: Content of: <h3>
 msgid "Introduction"
@@ -252,6 +244,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "We also maintain a list of <a href=\"/philosophy/latest-articles.html"
+#~ "\">most recently added articles</a>."
+#~ msgstr ""
+#~ "Ayrıca <a href=\"/philosophy/latest-articles.html\">yakın geçmişte "
+#~ "eklenmiş olan yazıların</a> bir listesini de tutuyoruz."
 
 #~ msgid ""
 #~ "Copyright &copy; 2013, 2015, 2016, 2017, 2018, 2021 Free Software "

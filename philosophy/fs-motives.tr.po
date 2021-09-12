@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fs-motives.html\n"
-"POT-Creation-Date: 2021-07-17 08:25+0000\n"
+"POT-Creation-Date: 2021-09-05 08:26+0000\n"
 "PO-Revision-Date: 2021-07-17 10:59+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -29,7 +29,7 @@ msgstr ""
 msgid "Motives For Writing Free Software"
 msgstr "Özgür Yazılım Geliştirmenin Gerekçeleri"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Don't make the mistake of supposing that all software development has one "
 "simple motive.  Here are some of the motives we know influence many people "
@@ -39,11 +39,11 @@ msgstr ""
 "kapılmayın. İnsanları özgür yazılım geliştirmeye yöneltecek gerekçelerden "
 "bazılarını bu yazıda paylaşıyoruz."
 
-#. type: Content of: <div><div><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Fun"
 msgstr "Eğlence"
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "For some people, often the best programmers, writing software is the "
 "greatest fun, especially when there is no boss to tell you what to do."
@@ -52,15 +52,15 @@ msgstr ""
 "geliştirmek, özellikle de kendilerine ne yapmaları gerektiğini söyleyen bir "
 "patron olmadığında, bir eğlencedir."
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid "Nearly all free software developers share this motive."
 msgstr "Neredeyse bütün özgür yazılım geliştiricileri bu gerekçeyi paylaşır."
 
-#. type: Content of: <div><div><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Political idealism"
 msgstr "Siyasi idealizm"
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "The desire to build a world of freedom, and help computer users escape from "
 "the power of software developers."
@@ -68,11 +68,11 @@ msgstr ""
 "Özgürlüklerle dolu bir dünya kurma ve yazılım geliştiricilerinin "
 "iktidarından kaçmak isteyen bilgisayar kullanıcılarına yardım etme arzusu."
 
-#. type: Content of: <div><div><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "To be admired"
 msgstr "Takdir toplamak"
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "If you write a successful, useful free program, the users will admire you.  "
 "That feels very good."
@@ -80,11 +80,11 @@ msgstr ""
 "Eğer başarılı ve kullanışlı bir özgür program geliştirirseniz kullanıcılar "
 "sizi takdir eder. Bu durum da sizi epey iyi hissettirir."
 
-#. type: Content of: <div><div><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Professional reputation"
 msgstr "Profesyonel İtibar"
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "If you write a successful, useful free program, that will suffice to show "
 "you are a good programmer."
@@ -92,11 +92,11 @@ msgstr ""
 "Eğer başarılı ve kullanışlı bir özgür program geliştirirseniz, bu durum sizi "
 "iyi bir programcı olarak göstermeye yetecektir."
 
-#. type: Content of: <div><div><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Community"
 msgstr "Topluluk"
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "Being part of a community by collaborating with other people in public free "
 "software projects is a motive for many programmers."
@@ -105,11 +105,11 @@ msgstr ""
 "çalışarak bir topluluğun içerisinde yer almak, birçok programcı için "
 "nedendir."
 
-#. type: Content of: <div><div><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Education"
 msgstr "Eğitim"
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "If you write free software, it is often an opportunity to dramatically "
 "improve both your technical and social skills; if you are a teacher, "
@@ -123,11 +123,11 @@ msgstr ""
 "projesinde yer almak veya özgür bir yazılım projesi geliştirmek amacıyla "
 "özendirmeniz, onlar için mükemmel bir fırsattır."
 
-#. type: Content of: <div><div><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Gratitude"
 msgstr "Minnettarlık"
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "If you have used the community's free programs for years, and it has been "
 "important to your work, you feel grateful and indebted to their developers.  "
@@ -139,11 +139,11 @@ msgstr ""
 "karşı minnettar ve borçlu hissediyor olabilirsiniz. Birçok insan için "
 "kullanışlı bir program yazmanız, bu borcu ödemeniz için bir fırsattır."
 
-#. type: Content of: <div><div><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Hatred for Microsoft"
 msgstr "Microsoft'a karşı duyulan nefret"
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "It is a mistake <a href=\"/philosophy/microsoft.html\">to focus our "
 "criticism narrowly on Microsoft</a>.  Indeed, Microsoft is evil, since it "
@@ -162,7 +162,7 @@ msgstr ""
 "bunları yapıyor olsa da, günümüzde özgürlüğümüzün en büyük düşmanı <a href="
 "\"/philosophy/proprietary/malware-apple.html\">Apple</a>'dır."
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "Nonetheless, it is a fact that many people utterly despise Microsoft, and "
 "some contribute to free software based on that feeling."
@@ -170,11 +170,11 @@ msgstr ""
 "Yine de, birçok insanın Microsoft'tan tümüyle nefret ettiğini ve bazılarının "
 "bu duyguyla özgür yazılıma katkıda bulunduğu gerçeğini göz ardı etmeyelim."
 
-#. type: Content of: <div><div><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Money"
 msgstr "Para"
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "A considerable number of people are paid to develop free software or have "
 "built businesses around it."
@@ -182,11 +182,11 @@ msgstr ""
 "Dikkate değer sayıda insan, özgür yazılım geliştirmek için bir ücret alıyor "
 "veya bu çerçevede kendine bir iş alanı yaratıyor."
 
-#. type: Content of: <div><div><dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Wanting a better program to use"
 msgstr "Daha iyi bir program kullanma isteği"
 
-#. type: Content of: <div><div><dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "People often work on improvements in programs they use, in order to make "
 "them more convenient.  (Some commentators recognize no motive other than "
@@ -197,7 +197,7 @@ msgstr ""
 "başka hiçbir gerekçe tanımıyorlar, ama insan doğasıyla ilgili çizdikleri "
 "resim çok dar kapsamlı.)"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Human nature is complex, and it is quite common for a person to have "
 "multiple simultaneous motives for a single action."
@@ -205,7 +205,7 @@ msgstr ""
 "İnsan doğası karmaşıktır ve bir kişinin bir eyleminin birden fazla gerekçesi "
 "olabilir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Each person is different, and there could be other motives that are missing "
 "from this list.  If you know of other motives not listed here, please send "

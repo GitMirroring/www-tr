@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: basic-freedoms.html\n"
-"POT-Creation-Date: 2018-06-05 15:56+0000\n"
-"PO-Revision-Date: 2020-04-01 19:50+0200\n"
+"POT-Creation-Date: 2021-08-20 20:25+0000\n"
+"PO-Revision-Date: 2021-09-12 07:45+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. type: Content of: <title>
@@ -25,11 +25,11 @@ msgstr ""
 "İnternet Üzerinde İfade, Basın ve Örgütlenme Özgürlüğü - GNU Projesi - Özgür "
 "Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Freedom of Speech, Press, and Association on the Internet"
 msgstr "İnternet Üzerinde İfade, Basın ve Örgütlenme Özgürlüğü"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation supports the freedoms of speech, press, and "
 "association on the Internet.  Please check out:"
@@ -37,7 +37,7 @@ msgstr ""
 "Özgür Yazılım Vakfı İnternet üzerinde ifade, basın ve örgütlenme özgürlüğünü "
 "desteklemektedir. Lütfen gözden geçirin:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The <a href=\"https://web.archive.org/web/19990424100121/http://www.ciec.org/"
 "\">Citizens Internet Empowerment Coalition</a> at the Wayback Machine "
@@ -54,8 +54,8 @@ msgstr ""
 "Nezaket Yasasına karşı birlikte hareket ettik. Siteleri İNY davasının bir "
 "simgesinin kaynağı olarak saklanmıştır."
 
-#.  activating this link… site is archived as of July 09, 1998 
-#. type: Content of: <ul><li>
+#. activating this link… site is archived as of July 09, 1998
+#. type: Content of: <div><ul><li>
 msgid ""
 "The <a href=\"https://web.archive.org/web/19980709161803/http://vtw.org/"
 "\">Voters Telecommunications Watch</a> at the Wayback Machine (archived July "
@@ -65,7 +65,7 @@ msgstr ""
 "archive.org/web/19980709161803/http://vtw.org/\">Oy Kullananların "
 "Telekomünikasyon Gözcüsü</a> ve muhteşem duyuru elektronik e-posta listesi."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/censoring-emacs.html\">Censoring GNU Emacs</a> "
 "describes how the Communications Decency Act required the GNU Project to "
@@ -77,28 +77,28 @@ msgstr ""
 "sansürlemesini istediğini ve bunun nasıl da çelişkili bir biçimde "
 "sansürlerin arzuladığı etkinin tam da karşıtına yol açtığını anlatıyor."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://www.factnetglobal.org/\">F.A.C.T.Net Inc.</a> is a non-"
+"<a href=\"https://www.factnetglobal.org/\">F.A.C.T.Net Inc.</a> is a non-"
 "profit Internet digest, news service, library, dialogue center, and archive "
 "dedicated to the promotion and defense of international free thought, free "
 "speech, and privacy rights."
 msgstr ""
-"<a href=\"http://www.factnetglobal.org/\">F.A.C.T.Net Inc.</a>, uluslararası "
-"düşünce özgürlüğü, ifade özgürlüğü ve gizlilik haklarının teşvik edilmesi ve "
-"savunulmasına adanmış kâr amacı gütmeyen bir İnternet derlemesi, haber "
-"hizmeti, kütüphane, iletişim merkezi ve arşivdir."
+"<a href=\"https://www.factnetglobal.org/\">F.A.C.T.Net Inc.</a>, "
+"uluslararası düşünce özgürlüğü, ifade özgürlüğü ve gizlilik haklarının "
+"teşvik edilmesi ve savunulmasına adanmış kâr amacı gütmeyen bir İnternet "
+"derlemesi, haber hizmeti, kütüphane, iletişim merkezi ve arşivdir."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
-"The <a href=\"http://www.eff.org/blueribbon.html\">Blue Ribbon Campaign</a> "
-"for Online Freedom of Speech, Press and Association."
+"The <a href=\"https://www.eff.org/pages/blue-ribbon-campaign\">Blue Ribbon "
+"Campaign</a> for Online Freedom of Speech, Press and Association."
 msgstr ""
-"Çevrimiçi İfade, Basın ve Örgütlenme Özgürlüğü için <a href=\"http://www.eff."
-"org/blueribbon.html\">Mavi Kurdele Kampanyası</a>."
+"Çevrimiçi İfade, Basın ve Örgütlenme Özgürlüğü için <a href=\"https://www."
+"eff.org/pages/blue-ribbon-campaign\">Mavi Kurdele Kampanyası</a>."
 
-#.  activating this link… site is archived as of December 01, 2001 
-#. type: Content of: <ul><li>
+#. activating this link… site is archived as of December 01, 2001
+#. type: Content of: <div><ul><li>
 msgid ""
 "You can read <a href=\"https://web.archive.org/web/20011201050533/http://www."
 "vtw.org/speech/\">the June 1996 appeals court decision</a> at the Wayback "
@@ -114,7 +114,7 @@ msgstr ""
 "İlk olarak Yüksek Mahkeme bu karara katılacak ve katılmayacak, daha sonra da "
 "Kongre başka bir sansür yöntemini aramak için bir şans elde edecektir."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/philosophy/savingeurope.html\">Saving Europe from Software "
 "Patents</a>"
@@ -122,7 +122,7 @@ msgstr ""
 "<a href=\"/philosophy/savingeurope.html\">Avrupa'yı Yazılım Patentlerinden "
 "Korumak</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/links/links.html#FreedomOrganizations\">Organizations</a> that "
 "work for freedom in computer development and electronic communications."
@@ -156,14 +156,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -178,11 +178,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2007, "
-"2014, 2016, 2018 Free Software Foundation, Inc."
+"Copyright &copy; 1996, 1997, 1998, 2000, 2004, 2021 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2007, "
-"2014, 2016, 2018 Free Software Foundation, Inc."
+"Copyright &copy; 1996, 1997, 1998, 2000, 2004, 2021 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

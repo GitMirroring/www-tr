@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: shouldbefree.html\n"
-"POT-Creation-Date: 2021-07-16 13:55+0000\n"
-"PO-Revision-Date: 2021-07-17 11:01+0200\n"
+"POT-Creation-Date: 2021-08-28 13:56+0000\n"
+"PO-Revision-Date: 2021-09-12 08:34+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -34,7 +34,7 @@ msgstr "Yazılım Niçin Özgür Olmalıdır"
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "yazan <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The existence of software inevitably raises the question of how decisions "
 "about its use should be made.  For example, suppose one individual who has a "
@@ -49,7 +49,7 @@ msgstr ""
 "gerçekleşmeyeceğine kim karar vermelidir? İlgili bireyler mi? Ya da “sahip” "
 "olarak adlandırılan başka bir taraf mı?"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Software developers typically consider these questions on the assumption "
 "that the criterion for the answer is to maximize developers' profits. The "
@@ -64,7 +64,7 @@ msgstr ""
 "programın, tipik olarak geliştirilmesinde bulunan bir şirket olan bir sahibi "
 "vardır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "I would like to consider the same question using a different criterion: the "
 "prosperity and freedom of the public in general."
@@ -72,7 +72,7 @@ msgstr ""
 "Aynı soruyu farklı bir ölçüt kullanarak değerlendirmek istiyorum: genel "
 "olarak toplumun refahı ve özgürlüğünü göz önünde bulundurarak."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This answer cannot be decided by current law&mdash;the law should conform to "
 "ethics, not the other way around.  Nor does current practice decide this "
@@ -90,7 +90,7 @@ msgstr ""
 "üretilmesi kadar, bir bütün olarak toplum tarafında tam anlamıyla özgürlüğü "
 "de dikkate alarak bir maliyet-kâr analizi gerçekleştirmeliyiz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In this essay, I will describe the effects of having owners, and show that "
 "the results are detrimental.  My conclusion is that programmers have the "
@@ -105,11 +105,11 @@ msgstr ""
 "deyişle, <a href=\"/philosophy/free-sw.html\">özgür yazılım</a> yazma "
 "konusunda insanları yüreklendirmek görevimizdir.<a href=\"#f1\">(1)</a>"
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "How Owners Justify Their Power"
 msgstr "Yazılım Sahipleri Güçlerini Nasıl Haklı Gösterir"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Those who benefit from the current system where programs are property offer "
 "two arguments in support of their claims to own programs: the emotional "
@@ -119,7 +119,7 @@ msgstr ""
 "programları sahiplenme isteklerini desteklemek için iki sav sunar: duygusal "
 "sav ve ekonomik sav."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The emotional argument goes like this: &ldquo;I put my sweat, my heart, my "
 "soul into this program.  It comes from <em>me</em>, it's <em>mine</em>!"
@@ -129,7 +129,7 @@ msgstr ""
 "koydum. Bu program <em>ben</em>den gelmektedir, bu program <em>benim</em>dir!"
 "&rdquo;"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This argument does not require serious refutation.  The feeling of "
 "attachment is one that programmers can cultivate when it suits them; it is "
@@ -151,7 +151,7 @@ msgstr ""
 "sanatçının adı önemli değildi. Önemli olan çalışmanın yapılması, ve hizmet "
 "edeceği amaçtı. Bu görüş, yüzlerce yıl hüküm sürdü."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The economic argument goes like this: &ldquo;I want to get rich (usually "
 "described inaccurately as &lsquo;making a living&rsquo;), and if you don't "
@@ -167,7 +167,7 @@ msgstr ""
 "zaman elinizde hiçbir program olmayacak!&rdquo; Bu tehdit, genellikle "
 "arkadaşça bir tavsiye altında gizlenmektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "I'll explain later why this threat is a bluff.  First I want to address an "
 "implicit assumption that is more visible in another formulation of the "
@@ -177,7 +177,7 @@ msgstr ""
 "savın başka bir biçiminde  görülebilir olan bir kapalı varsayıma işaret "
 "etmek istiyorum."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This formulation starts by comparing the social utility of a proprietary "
 "program with that of no program, and then concludes that proprietary "
@@ -193,7 +193,7 @@ msgstr ""
 "yazılımın olması durumu ile hiçbir yazılımın olmaması durumu, "
 "karşılaştırılmasındadır ve başka hiçbir olasılığın olmadığı varsayılmaktadır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Given a system of software copyright, software development is usually linked "
 "with the existence of an owner who controls the software's use.  As long as "
@@ -213,11 +213,11 @@ msgstr ""
 "hiçbir yazılımın var olmaması arasındaki tercihin formülize edilmesi, "
 "sorgulanmayı gerektirmektedir."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "The Argument against Having Owners"
 msgstr "Sahiplerin Olmasına Karşı Sav"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The question at hand is, &ldquo;Should development of software be linked "
 "with having owners to restrict the use of it?&rdquo;"
@@ -225,7 +225,7 @@ msgstr ""
 "Şu anda soru şudur: &ldquo;Yazılımın gelişimi, kullanımının kısıtlanması "
 "amacıyla sahiplerinin olmasıyla ilişkilendirilmeli midir?&rdquo;"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In order to decide this, we have to judge the effect on society of each of "
 "those two activities <em>independently</em>: the effect of developing the "
@@ -242,7 +242,7 @@ msgstr ""
 "ilişkiyi bırakmamız ve yalnızca yararlı olan eylemi gerçekleştirmemiz daha "
 "iyidir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "To put it another way, if restricting the distribution of a program already "
 "developed is harmful to society overall, then an ethical software developer "
@@ -252,7 +252,7 @@ msgstr ""
 "bir programın dağıtılmasının kısıtlanması toplum için zararlı ise, o zaman "
 "etik bir yazılım geliştiricisi, bu seçeneği reddedecektir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "To determine the effect of restricting sharing, we need to compare the value "
 "to society of a restricted (i.e., proprietary) program with that of the same "
@@ -263,7 +263,7 @@ msgstr ""
 "herkes için ulaşılabilir olduğu durumdaki değeriyle karşılaştırmamız "
 "gerekir. Bu, iki dünyanın karşılaştırılması anlamına gelmektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This analysis also addresses the simple counterargument sometimes made that "
 "&ldquo;the benefit to the neighbor of giving him or her a copy of a program "
@@ -279,7 +279,7 @@ msgstr ""
 "karşılaştırılmasını içermektedir ve faydanın daha büyük olduğunu "
 "göstermektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "To elucidate this argument, let's apply it in another area: road "
 "construction."
@@ -287,7 +287,7 @@ msgstr ""
 "Bu savı açıklığa kavuşturmak için, bu savı başka bir alana uygulayalım: yol "
 "inşaatı."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "It would be possible to fund the construction of all roads with tolls. This "
 "would entail having toll booths at all street corners.  Such a system would "
@@ -304,7 +304,7 @@ msgstr ""
 "araba sürülmesine ilişkin yapay bir engeldir, yapaydır çünkü yolların ya da "
 "arabaların nasıl çalıştığının bir sonucu değildir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Comparing free roads and toll roads by their usefulness, we find that (all "
 "else being equal) roads without toll booths are cheaper to construct, "
@@ -326,7 +326,7 @@ msgstr ""
 "sağlaması gereklidir. Bir kere inşaa edildikten sonra, yolların kullanımı "
 "ücretsiz olmalıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "When the advocates of toll booths propose them as <em>merely</em> a way of "
 "raising funds, they distort the choice that is available.  Toll booths do "
@@ -343,7 +343,7 @@ msgstr ""
 "geçiş ücretli yolların geçeceği anlamına geliyorsa, daha iyi ya da teknik "
 "olarak üstün yolların iyi bir sonuç vermeyebileceğini gösterir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Of course, the construction of a free road does cost money, which the public "
 "must somehow pay.  However, this does not imply the inevitability of toll "
@@ -356,7 +356,7 @@ msgstr ""
 "bizler için, ücretsiz bir yolun satın alınması paramızın daha iyi "
 "değerlendirilmesini sağlayacaktır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "I am not saying that a toll road is worse than no road at all.  That would "
 "be true if the toll were so great that hardly anyone used the road&mdash;but "
@@ -371,7 +371,7 @@ msgstr ""
 "harcama ve elverişsizliğe neden olduğu sürece, finansmanın daha az "
 "engelleyici bir biçimde sağlanması daha iyidir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "To apply the same argument to software development, I will now show that "
 "having &ldquo;toll booths&rdquo; for useful software programs costs society "
@@ -390,11 +390,11 @@ msgstr ""
 "yazılım gelişiminin desteklenmesi ve (gerçekte gerekli olduğu dereceye "
 "kadar) finanse edilmesi için başka yöntemleri açıklamaya devam edeceğim."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "The Harm Done by Obstructing Software"
 msgstr "Yazılımın Engellenmesi ile Verilen Zarar"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Consider for a moment that a program has been developed, and any necessary "
 "payments for its development have been made; now society must choose either "
@@ -408,7 +408,7 @@ msgstr ""
 "yapmalıdır. Programın varlığı ve ulaşılabilirliği istenen bir şeydir.<a href="
 "\"#f3\">(3)</a>"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Restrictions on the distribution and modification of the program cannot "
 "facilitate its use.  They can only interfere.  So the effect can only be "
@@ -418,25 +418,25 @@ msgstr ""
 "kolaylaştıramaz. Bu sınırlamalar yalnızca zarar vericidir. Bu nedenle "
 "etkileri yalnızca olumsuz olabilir. Ancak ne kadar? Ve ne çeşit?"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid "Three different levels of material harm come from such obstruction:"
 msgstr "Bu gibi bir engellemeden dolayı üç farklı maddi zarar seviyesi vardır:"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Fewer people use the program."
 msgstr "Daha az sayıda insan programı kullanmaktadır."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid "None of the users can adapt or fix the program."
 msgstr "Kullanıcıların hiçbiri programı uyarlayamaz ya da onaramaz."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Other developers cannot learn from the program, or base new work on it."
 msgstr ""
 "Diğer geliştiriciler programdan bir şeyler öğrenemez ya da yeni çalışmalar "
 "için programı temel alamaz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Each level of material harm has a concomitant form of psychosocial harm. "
 "This refers to the effect that people's decisions have on their subsequent "
@@ -450,7 +450,7 @@ msgstr ""
 "yollarındaki bu değişiklikler daha sonra diğer insanlarla ilişkilerinde ek "
 "bir etkiye sahip olacaktır ve maddi sonuçlara neden olabilir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The three levels of material harm waste part of the value that the program "
 "could contribute, but they cannot reduce it to zero.  If they waste nearly "
@@ -464,7 +464,7 @@ msgstr ""
 "için harcanan emek şeklinde topluma zarar verir. Satılması kârlı olan bir "
 "program birtakım net doğrudan maddi fayda sağlamalıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "However, taking account of the concomitant psychosocial harm, there is no "
 "limit to the harm that proprietary software development can do."
@@ -472,11 +472,11 @@ msgstr ""
 "Ancak, eşlik eden psiko-sosyal zarar hesaba katıldığında, özel mülk yazılım "
 "gelişiminin verebildiği zararın bir sınırı yoktur."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Obstructing Use of Programs"
 msgstr "Programların Kullanımının Sınırlandırılması"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The first level of harm impedes the simple use of a program.  A copy of a "
 "program has nearly zero marginal cost (and you can pay this cost by doing "
@@ -492,7 +492,7 @@ msgstr ""
 "çaplı olarak yararlı olan bir program özel mülk ise, çok daha az sayıda "
 "insan bu programı kullanacaktır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "It is easy to show that the total contribution of a program to society is "
 "reduced by assigning an owner to it.  Each potential user of the program, "
@@ -512,7 +512,7 @@ msgstr ""
 "durumun kimseye yararı olmaz. Negatif sayılarla sıfırların toplamı negatif "
 "olmalıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "But this does not reduce the amount of work it takes to <em>develop</em> the "
 "program.  As a result, the efficiency of the whole process, in delivered "
@@ -522,7 +522,7 @@ msgstr ""
 "azaltmamaktadır. Sonuç olarak, saatlik çalışma başına sağlanan kullanıcı "
 "memnuniyeti açısından tüm sürecin verimi azalır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This reflects a crucial difference between copies of programs and cars, "
 "chairs, or sandwiches.  There is no copying machine for material objects "
@@ -539,7 +539,7 @@ msgstr ""
 "korunmaktadır: her bir yeni kopya, ilk kopyanın yapılış şekliyle aynı "
 "şekilde hammaddelerden yapılmalıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "With material objects, a disincentive to use them makes sense, because fewer "
 "objects bought means less raw material and work needed to make them.  It's "
@@ -558,7 +558,7 @@ msgstr ""
 "eklenmesi niteliksel bir fark yaratmamaktadır. Ve sıradan kullanıcıların "
 "özgürlüğünde kısıtlamaların olmasını gerektirmemektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "However, imposing a price on something that would otherwise be free is a "
 "qualitative change.  A centrally imposed fee for software distribution "
@@ -568,7 +568,7 @@ msgstr ""
 "dayatılması niteliksel bir değişikliktir. Yazılım dağıtımı için merkezi "
 "olarak dayatılan bir ücret güçlü bir engelleyici durum haline gelmektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "What's more, central production as now practiced is inefficient even as a "
 "means of delivering copies of software.  This system involves enclosing "
@@ -584,11 +584,11 @@ msgstr ""
 "işin yapılmasının masrafı olarak sunulmaktadır; gerçekte, sahiplerin olması "
 "nedeniyle oluşan boşa harcamanın bir kısmıdır."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Damaging Social Cohesion"
 msgstr "Sosyal Uyumun Zarar Görmesi"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Suppose that both you and your neighbor would find it useful to run a "
 "certain program.  In ethical concern for your neighbor, you should feel that "
@@ -603,7 +603,7 @@ msgstr ""
 "tarafından kullanılması ve diğerinin kısıtlanması önerisi, ara bozucu bir "
 "öneridir komşunuz da siz de bu durumu kabul edemezsiniz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Signing a typical software license agreement means betraying your neighbor: "
 "&ldquo;I promise to deprive my neighbor of this program so that I can have a "
@@ -621,7 +621,7 @@ msgstr ""
 "programın kullanımından insanları vazgeçirmenin maddi zararıyla ilişkili "
 "olan psiko-sosyal zarardır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Many users unconsciously recognize the wrong of refusing to share, so they "
 "decide to ignore the licenses and laws, and share programs anyway.  But they "
@@ -641,7 +641,7 @@ msgstr ""
 "ancak bu lisansların ve kanunların hiçbir törel güce sahip olmadığına karar "
 "vererek bundan kaçınılabilir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Programmers also suffer psychosocial harm knowing that many users will not "
 "be allowed to use their work.  This leads to an attitude of cynicism or "
@@ -660,7 +660,7 @@ msgstr ""
 "bu gerçeği görmezden gelir ya da bu konunun önemini en aza indirmek için "
 "sinik bir tutum benimser."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Since the age of Reagan, the greatest scarcity in the United States is not "
 "technical innovation, but rather the willingness to work together for the "
@@ -672,11 +672,11 @@ msgstr ""
 "birlikte çalışma isteği harcanarak teknik yeniliğin yüreklendirilmesi "
 "anlamsızdır."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Obstructing Custom Adaptation of Programs"
 msgstr "Programların Uyarlanmasının Engellenmesi"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The second level of material harm is the inability to adapt programs.  The "
 "ease of modification of software is one of its great advantages over older "
@@ -690,7 +690,7 @@ msgstr ""
 "bile değişiklik için elverişli değildir. Bir kara kutu gibi, almanız ya da "
 "bırakmanız için uygundur, hepsi bu."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A program that you can run consists of a series of numbers whose meaning is "
 "obscure.  No one, not even a good programmer, can easily change the numbers "
@@ -700,7 +700,7 @@ msgstr ""
 "oluşmaktadır. Hiç kimse, hatta iyi bir programcı bile, programın başka bir "
 "şey yapması için bu sayıları kolayca değiştiremez."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Programmers normally work with the &ldquo;source code&rdquo; for a program, "
 "which is written in a programming language such as Fortran or C.  It uses "
@@ -719,7 +719,7 @@ msgstr ""
 "düzlemdeki iki nokta arasındaki uzaklığı hesaplamak için kullanılan bir "
 "programdır:"
 
-#. type: Content of: <div><div><pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "     float\n"
@@ -740,7 +740,7 @@ msgstr ""
 "       return sqrt (xdist * xdist + ydist * ydist);\n"
 "     }\n"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Precisely what that source code means is not the point; the point is that it "
 "looks like algebra, and a person who knows this programming language will "
@@ -753,7 +753,7 @@ msgstr ""
 "bilgisayardaki haliyle çalıştırılabilir biçimde aynı programı aşağıda "
 "görebilirsiniz:"
 
-#. type: Content of: <div><div><pre>
+#. type: Content of: <div><pre>
 #, no-wrap
 msgid ""
 "     1314258944      -232267772      -231844864      1634862\n"
@@ -768,7 +768,7 @@ msgstr ""
 "     1644167167      -3214848        1090581031      1962942495\n"
 "     572518958       -803143692      1314803317\n"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Source code is useful (at least potentially) to every user of a program. But "
 "most users are not allowed to have copies of the source code. Usually the "
@@ -785,7 +785,7 @@ msgstr ""
 "dosyalarını almaktadır. Bu, programın, yalnızca programın sahibi tarafından "
 "değiştirilebileceği anlamına gelmektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A friend once told me of working as a programmer in a bank for about six "
 "months, writing a program similar to something that was commercially "
@@ -804,7 +804,7 @@ msgstr ""
 "üründe hatırı sayılır bir çalışmaydı ancak gerçekte boşa giden bir "
 "çalışmaydı."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The <abbr title=\"Massachusetts Institute of Technology\">MIT</abbr> "
 "Artificial Intelligence Lab (AI Lab) received a graphics printer as a gift "
@@ -824,7 +824,7 @@ msgstr ""
 "işlerini sıraya koyarak tüm kullanıcıları bilgilendirmekteydi. Bu özellikler "
 "düzgün çalışmayı sağlamaktaydı."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Later Xerox gave the AI Lab a newer, faster printer, one of the first laser "
 "printers.  It was driven by proprietary software that ran in a separate "
@@ -846,7 +846,7 @@ msgstr ""
 "bilgilendirilmiyordu, bu nedenle yazıcı genellikle hiç kimse tarafından "
 "tamir edilmeden bir saat öylece duruyordu."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The system programmers at the AI Lab were capable of fixing such problems, "
 "probably as capable as the original authors of the program.  Xerox was "
@@ -859,7 +859,7 @@ msgstr ""
 "tercih etti, bu nedenle problemleri kabul etmeye zorlandık. Bu problemler "
 "hiçbir zaman giderilmedi."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Most good programmers have experienced this frustration.  The bank could "
 "afford to solve the problem by writing a new program from scratch, but a "
@@ -870,7 +870,7 @@ msgstr ""
 "kadar yetenekli olursa olsun tipik bir kullanıcının tek yapabileceği şey "
 "vazgeçmekti."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Giving up causes psychosocial harm&mdash;to the spirit of self-reliance.  It "
 "is demoralizing to live in a house that you cannot rearrange to suit your "
@@ -884,7 +884,7 @@ msgstr ""
 "etkileyecek şekilde yayılabilen kabullenmeye ve cesaret kırmaya neden olur. "
 "Bu şekilde hisseden insanlar mutsuzdur ve iyi çalışma yapamazlar."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Imagine what it would be like if recipes were hoarded in the same fashion as "
 "software.  You might say, &ldquo;How do I change this recipe to take out the "
@@ -900,7 +900,7 @@ msgstr ""
 "çalışarak nasıl hakaret edersin? Yemek tarifimi değiştirme ve onu daha güzel "
 "yapma hakkına sahip değilsin!&rdquo;"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;But my doctor says I'm not supposed to eat salt! What can I do? Will "
 "you take out the salt for me?&rdquo;"
@@ -908,7 +908,7 @@ msgstr ""
 "&ldquo;Ama doktorum tuz yememem gerektiğini söyledi! Ne yapabilirim? Benim "
 "için tuzu çıkaramaz mısınız?&rdquo;"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;I would be glad to do that; my fee is only $50,000.&rdquo; Since the "
 "owner has a monopoly on changes, the fee tends to be large.  &ldquo;However, "
@@ -922,11 +922,11 @@ msgstr ""
 "için yeni bir tarif tasarlamam gerekiyor. İki yıl sonra sizin işinizi "
 "görürüm.&rdquo;"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Obstructing Software Development"
 msgstr "Yazılım Geliştirmenin Engellenmesi"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The third level of material harm affects software development.  Software "
 "development used to be an evolutionary process, where a person would take an "
@@ -944,7 +944,7 @@ msgstr ""
 "etti. Bu arada, programın parçaları, başka programların başlangıçlarını "
 "oluşturmak üzere alınacak ve orada kullanılacaktır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The existence of owners prevents this kind of evolution, making it necessary "
 "to start from scratch when developing a program.  It also prevents new "
@@ -957,7 +957,7 @@ msgstr ""
 "teknikleri öğrenmek için mevcut programları çalışmasını ya da hatta büyük "
 "programların yapılandırılabilmesini de önler."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Owners also obstruct education.  I have met bright students in computer "
 "science who have never seen the source code of a large program.  They may be "
@@ -970,7 +970,7 @@ msgstr ""
 "nasıl yaptığını göremezlerse, büyük programları yazma konusunda farklı "
 "özellikleri öğrenmeye başlayamazlar."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In any intellectual field, one can reach greater heights by standing on the "
 "shoulders of others.  But that is no longer generally allowed in the "
@@ -982,7 +982,7 @@ msgstr ""
 "izin verilmemektedir, <em>kendi firmanızda</em> diğer insanların omuzlarına "
 "çıkabilirsiniz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The associated psychosocial harm affects the spirit of scientific "
 "cooperation, which used to be so strong that scientists would cooperate even "
@@ -998,7 +998,7 @@ msgstr ""
 "bir şekilde korumuş ve çalışmalarına iyi bakmaları için ABD Deniz "
 "Kuvvetlerine bir not bırakmışlardır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Conflict for profit has destroyed what international conflict spared.  "
 "Nowadays scientists in many fields don't publish enough in their papers to "
@@ -1015,11 +1015,11 @@ msgstr ""
 "kodunun genelde sır olduğu bilgisayar biliminde de kesinlikle benzer "
 "şekildedir."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "It Does Not Matter How Sharing Is Restricted"
 msgstr "Paylaşımın Nasıl Kısıtlandığı Önemli Değildir"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "I have been discussing the effects of preventing people from copying, "
 "changing, and building on a program.  I have not specified how this "
@@ -1037,7 +1037,7 @@ msgstr ""
 "hangisi ile yapılırsa yapılsın, kullanımı önlemede <em>başarılı</em> olursa, "
 "zarar vericidir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Users do consider some of these methods more obnoxious than others.  I "
 "suggest that the methods most hated are those that accomplish their "
@@ -1047,11 +1047,11 @@ msgstr ""
 "bulmaktadır. Zannediyorum ki, en çok nefret edilen metotlar, hedeflerini "
 "gerçekleştiren metotlardır."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Software Should be Free"
 msgstr "Yazılım Özgür Olmalıdır"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "I have shown how ownership of a program&mdash;the power to restrict changing "
 "or copying it&mdash;is obstructive.  Its negative effects are widespread and "
@@ -1062,7 +1062,7 @@ msgstr ""
 "etkileri yaygın ve önemlidir. Ortaya çıkan sonuç toplumda, programlar için "
 "sahipler olmamalıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Another way to understand this is that what society needs is free software, "
 "and proprietary software is a poor substitute.  Encouraging the substitute "
@@ -1072,7 +1072,7 @@ msgstr ""
 "özel mülk yazılım kötü bir ikamedir. Bunun cesaretlendirilmesi ihtiyaç "
 "duyduğumuz şeyi almanın gerçekçi bir yolu değildir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Vaclav Havel has advised us to &ldquo;Work for something because it is good, "
 "not just because it stands a chance to succeed.&rdquo; A business making "
@@ -1084,11 +1084,11 @@ msgstr ""
 "yazılım yapan bir şirket, kendi dar anlamında başarı şansına sahiptir ancak "
 "bu, toplum için iyi olan şey değildir."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "Why People Will Develop Software"
 msgstr "İnsanlar Niçin Yazılım Geliştireceklerdir"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If we eliminate copyright as a means of encouraging people to develop "
 "software, at first less software will be developed, but that software will "
@@ -1109,11 +1109,11 @@ msgstr ""
 "Bunun nasıl olabileceği hakkında konuşmadan önce, ilk olarak yapay "
 "cesaretlendirmenin gerçekten ne kadar gerekli olduğunu sorgulamak isterim."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Programming is Fun"
 msgstr "Programlama Eğlencelidir"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "There are some lines of work that few will enter except for money; road "
 "construction, for example.  There are other fields of study and art in which "
@@ -1134,7 +1134,7 @@ msgstr ""
 "bir şekilde olmaktan çok üzgün bir şekilde rekabet eder. Hatta güçleri "
 "yeterse, ilgili alanda çalışmak için para bile ödeyebilirler."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Such a field can transform itself overnight if it begins to offer the "
 "possibility of getting rich.  When one worker gets rich, others demand the "
@@ -1154,7 +1154,7 @@ msgstr ""
 "özel tedbirleri ve tekeli oluşturarak bu kârların mümkün olmasını "
 "sağlamaları konusunda baskı yapacaklardır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This change happened in the field of computer programming in the 1980s.  In "
 "the 1970s, there were articles on &ldquo;computer addiction&rdquo;: users "
@@ -1172,7 +1172,7 @@ msgstr ""
 "genel olarak hiç kimsenin yüksek bir ücret almadan programlama yapmadığı "
 "anlaşılmaktadır. İnsanlar, o zaman bildikleri şeyi unutmuşlar."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "When it is true at a given time that most people will work in a certain "
 "field only for high pay, it need not remain true.  The dynamic of change can "
@@ -1188,7 +1188,7 @@ msgstr ""
 "davranışlarını yeniden ayarladıkları zaman, insanlar, bir kere daha yeniden "
 "başarının zevki için ilgili alanda çalışmaya can atacaklardır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The question &ldquo;How can we pay programmers?&rdquo; becomes an easier "
 "question when we realize that it's not a matter of paying them a fortune.  A "
@@ -1199,11 +1199,11 @@ msgstr ""
 "kolay bir soru haline gelmektedir. Sade bir yaşantının sağlanması daha "
 "kolaydır."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Funding Free Software"
 msgstr "Özgür Yazılımın Finansmanı"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Institutions that pay programmers do not have to be software houses.  Many "
 "other institutions already exist that can do this."
@@ -1211,7 +1211,7 @@ msgstr ""
 "Programcılara ücret ödeyen kurumların yazılım evleri olması gerekmez. Bunu "
 "yapabilecek birçok başka kurum mevcuttur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Hardware manufacturers find it essential to support software development "
 "even if they cannot control the use of the software.  In 1970, much of their "
@@ -1225,7 +1225,7 @@ msgstr ""
 "katılmaya ilişkin artan istekleri, yazılıma sahip olmanın onlar için "
 "gerçekten de önemli olan şey olmadığını fark ettiklerini göstermektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Universities conduct many programming projects.  Today they often sell the "
 "results, but in the 1970s they did not.  Is there any doubt that "
@@ -1240,7 +1240,7 @@ msgstr ""
 "şüphe var mıdır? Bu projeler, şimdi özel mülk yazılım gelişimini destekleyen "
 "hükümet anlaşmalarıyla desteklenebilir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "It is common today for university researchers to get grants to develop a "
 "system, develop it nearly to the point of completion and call that &ldquo;"
@@ -1261,7 +1261,7 @@ msgstr ""
 "Ancak araştırmacılar bu gibi şeyleri yapma isteğine açık değillerse, yine de "
 "araştırmayı gerçekleştireceklerdir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Programmers writing free software can make their living by selling services "
 "related to the software.  I have been hired to port the <a href=\"/software/"
@@ -1277,7 +1277,7 @@ msgstr ""
 "tamamlandıktan sonra bu gelişmeleri kamuya sundum.) Ayrıca ders verdim ve "
 "bunun için de ücret aldım."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "I am not alone in working this way; there is now a successful, growing "
 "corporation which does no other kind of work.  Several other companies also "
@@ -1295,7 +1295,7 @@ msgstr ""
 "dışındaki kullanıcılara, özel mülk yazılım için mevcut olmayan bir seçeneği "
 "sunmaktadır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "New institutions such as the <a href=\"/fsf/fsf.html\">Free Software "
 "Foundation</a> can also fund programmers.  Most of the Foundation's funds "
@@ -1318,7 +1318,7 @@ msgstr ""
 "sipariş etmektedir. Vakıf ayrıca bilgisayar üreticilerinden önemli oranda "
 "bağış da almaktadır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation is a charity, and its income is spent on hiring "
 "as many programmers as possible.  If it had been set up as a business, "
@@ -1330,7 +1330,7 @@ msgstr ""
 "olsaydı, aynı ücretle aynı özgür yazılımı kamuya dağıtarak, kurucusu için "
 "çok iyi bir servet sağlayabilirdi."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Because the Foundation is a charity, programmers often work for the "
 "Foundation for half of what they could make elsewhere.  They do this because "
@@ -1346,7 +1346,7 @@ msgstr ""
 "programlama eğlenceli bir iştir. Buna ek olarak, gönüllüler de bizim için "
 "birçok yararlı program yazmıştır. (Teknik yazarlar bile gönüllüdür.)"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This confirms that programming is among the most fascinating of all fields, "
 "along with music and art.  We don't have to fear that no one will want to "
@@ -1355,11 +1355,11 @@ msgstr ""
 "Bu, müzik ve sanatta olduğu gibi programlamanın çok etkileyici olduğunu "
 "doğrular. Hiç kimsenin programlama yapmayacağından korkmamıza gerek yoktur."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "What Do Users Owe to Developers?"
 msgstr "Kullanıcılar Geliştiricilere Ne Borçludur?"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "There is a good reason for users of software to feel a moral obligation to "
 "contribute to its support.  Developers of free software are contributing to "
@@ -1372,7 +1372,7 @@ msgstr ""
 "yazılım geliştiricilerine bunu sürdürmeleri için finansman sağlamak "
 "kullanıcıların uzun vadede ilgilendikleri bir husustur ve adildir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "However, this does not apply to proprietary software developers, since "
 "obstructionism deserves a punishment rather than a reward."
@@ -1380,7 +1380,7 @@ msgstr ""
 "Ancak, bu husus, özel mülk yazılım geliştiricileri için geçerli değildir "
 "çünkü kısıtlamalar, bir ödülden çok bir cezayı gerektirmektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "We thus have a paradox: the developer of useful software is entitled to the "
 "support of the users, but any attempt to turn this moral obligation into a "
@@ -1393,7 +1393,7 @@ msgstr ""
 "temele zarar vermektedir. Geliştirici, bir ödülü hak edebilir ya da talep "
 "edebilir ancak bunların her ikisi de aynı anda olamaz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "I believe that an ethical developer faced with this paradox must act so as "
 "to deserve the reward, but should also entreat the users for voluntary "
@@ -1407,11 +1407,11 @@ msgstr ""
 "ve televizyon istasyonlarını desteklemeyi öğrendikleri gibi baskı olmaksızın "
 "geliştiricileri desteklemeyi de öğrenecektir."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "What Is Software Productivity?"
 msgstr "Yazılım Üretkenliği Nedir?"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If software were free, there would still be programmers, but perhaps fewer "
 "of them.  Would this be bad for society?"
@@ -1419,7 +1419,7 @@ msgstr ""
 "Yazılım özgür olsaydı, hâlâ programcılar olacaktı ancak daha az sayıda "
 "olacaktı. Bu durum toplum için kötü olur muydu?"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Not necessarily.  Today the advanced nations have fewer farmers than in "
 "1900, but we do not think this is bad for society, because the few deliver "
@@ -1435,11 +1435,11 @@ msgstr ""
 "programcıya ihtiyaç duymaktadır çünkü her seviyede yazılım üretkenliği "
 "artmıştır:"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Wider use of each program that is developed."
 msgstr "Geliştirilen her bir program daha geniş kullanıma sahiptir."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The ability to adapt existing programs for customization instead of starting "
 "from scratch."
@@ -1447,15 +1447,15 @@ msgstr ""
 "Derme çatma hazırlanmış bir şeyden başlamak yerine isteğe göre uyarlamak "
 "için mevcut programlar uyarlanabilir."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid "Better education of programmers."
 msgstr "Programcılar daha iyi bir şekilde eğitilir."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid "The elimination of duplicate development effort."
 msgstr "Tekrarlayan geliştirme çabaları elenir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Those who object to cooperation claiming it would result in the employment "
 "of fewer programmers are actually objecting to increased productivity.  Yet "
@@ -1468,7 +1468,7 @@ msgstr ""
 "duyduğuna ilişkin geniş çaplı olan inancı kabul etmektedirler. Peki bu nasıl "
 "olur?"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;Software productivity&rdquo; can mean two different things: the "
 "overall productivity of all software development, or the productivity of "
@@ -1487,11 +1487,11 @@ msgstr ""
 "çalışan araştırmacılar, yalnızca geliştirmenin zor teknolojik gelişmeleri "
 "gerektirdiği ikinci ve sınırlı ifadeye odaklanmaktadır."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "Is Competition Inevitable?"
 msgstr "Rekabet Önlenemez Bir Şey Midir?"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Is it inevitable that people will try to compete, to surpass their rivals in "
 "society? Perhaps it is.  But competition itself is not harmful; the harmful "
@@ -1501,7 +1501,7 @@ msgstr ""
 "midir? Belki de öyledir. Ancak rekabet zararlı bir şey değildir; zararlı "
 "olan şey <em>savaş</em>tır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "There are many ways to compete.  Competition can consist of trying to "
 "achieve ever more, to outdo what others have done.  For example, in the old "
@@ -1519,7 +1519,7 @@ msgstr ""
 "bir <em>centilmenlik</em> ruhunun korunması şartıyla herkes için yararlı "
 "olabilir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Constructive competition is enough competition to motivate people to great "
 "efforts.  A number of people are competing to be the first to have visited "
@@ -1534,7 +1534,7 @@ msgstr ""
 "gemi kaptanlarına rüşvet vermemektedirler. En iyi olanın kazanmasına rıza "
 "göstermektedirler."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Competition becomes combat when the competitors begin trying to impede each "
 "other instead of advancing themselves&mdash;when &ldquo;Let the best person "
@@ -1549,7 +1549,7 @@ msgstr ""
 "olması değil ayrıca toplumumuzun vatandaşları arasındaki bir savaş biçimi "
 "olmasıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Competition in business is not necessarily combat.  For example, when two "
 "grocery stores compete, their entire effort is to improve their own "
@@ -1567,7 +1567,7 @@ msgstr ""
 "karakteristiği paylaşmamaktadır. Herkesin gelişmesini sağlayan bilgilerin "
 "saklanması da bir savaş çeşididir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Business ideology does not prepare people to resist the temptation to combat "
 "the competition.  Some forms of combat have been banned with antitrust laws, "
@@ -1583,11 +1583,11 @@ msgstr ""
 "biçimlerini icat etmektedir. Toplumun, ayrılıkçı bir sivil savaşın ekonomik "
 "eşdeğerinde kaynağı israf edilmektedir."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "&ldquo;Why Don't You Move to Russia?&rdquo;"
 msgstr "&ldquo;Niçin Rusya’ya Taşınmıyorsunuz?&rdquo;"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In the United States, any advocate of other than the most extreme form of "
 "laissez-faire selfishness has often heard this accusation.  For example, it "
@@ -1607,7 +1607,7 @@ msgstr ""
 "iyiliği için hissettiği sorumluluk, Amerika’da Komünizm olarak "
 "tanımlanmaktadır. Ancak bu fikirler ne kadar benzerdir?"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Communism as was practiced in the Soviet Union was a system of central "
 "control where all activity was regimented, supposedly for the common good, "
@@ -1619,7 +1619,7 @@ msgstr ""
 "çalışan bir merkezi kontrol sistemidir. Ve kopyalama cihazları yasal olmayan "
 "kopyalamayı önlemek için sıkı bir şekilde korunmaktadır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The American system of software copyright exercises central control over "
 "distribution of a program, and guards copying equipment with automatic "
@@ -1629,7 +1629,7 @@ msgstr ""
 "merkezi kontrol uygular ve yasal olmayan kopyalamayı önlemek için kopyalama "
 "cihazlarını, otomatik kopya koruma sistemleriyle korur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "By contrast, I am working to build a system where people are free to decide "
 "their own actions; in particular, free to help their neighbors, and free to "
@@ -1642,7 +1642,7 @@ msgstr ""
 "araçları geliştirme ve değiştirme konusunda özgür olmalıdırlar. Bu, gönüllü "
 "iş birliği ve yetkiyi merkezden alarak dağıtmayı esas alan bir sistemdir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, if we are to judge views by their resemblance to Russian Communism, it "
 "is the software owners who are the Communists."
@@ -1650,11 +1650,11 @@ msgstr ""
 "Bu nedenle, fikirleri, Rusya Komünizmine benzerlikleriyle yargılayacak "
 "olursak, burada yazılım sahipleri Komünistlerdir."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "The Question of Premises"
 msgstr "Önermeler Sorusu"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "I make the assumption in this paper that a user of software is no less "
 "important than an author, or even an author's employer.  In other words, "
@@ -1667,7 +1667,7 @@ msgstr ""
 "yazılım kullanıcılarıyla yazarların ilgi alanları ve ihtiyaçları eşit öneme "
 "sahiptir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "This premise is not universally accepted.  Many maintain that an author's "
 "employer is fundamentally more important than anyone else.  They say, for "
@@ -1681,7 +1681,7 @@ msgstr ""
 "olmasının amacı, yazarın patronuna hak ettiği avantajı sağlamaktır, bunun "
 "halkı nasıl etkileyeceği önemli değildir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "It is no use trying to prove or disprove these premises.  Proof requires "
 "shared premises.  So most of what I have to say is addressed only to those "
@@ -1695,7 +1695,7 @@ msgstr ""
 "olduğuyla ilgilenenlere yöneliktir. Ürün sahiplerinin herkesten önemli "
 "olduğunu düşünenler için, bu yazı basit bir şekilde önemsizdir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "But why would a large number of Americans accept a premise that elevates "
 "certain people in importance above everyone else? Partly because of the "
@@ -1709,7 +1709,7 @@ msgstr ""
 "önermeden şüphe duyulmasının toplumun temelinde sorunların olduğu anlamına "
 "geldiğini hisseder."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "It is important for these people to know that this premise is not part of "
 "our legal tradition.  It never has been."
@@ -1717,7 +1717,7 @@ msgstr ""
 "Bu insanların, bu önermenin hukuksal geleneğimizin bir parçası olmadığını "
 "bilmeleri önemlidir. Hiçbir zaman da olmamıştır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, the Constitution says that the purpose of copyright is to &ldquo;"
 "promote the Progress of Science and the useful Arts.&rdquo; The Supreme "
@@ -1732,7 +1732,7 @@ msgstr ""
 "&ldquo;A.B.D.’nin tek çıkarı ve [telif hakkı] tekelin görüşülmesindeki temel "
 "hedef, halkın yazarlardan edindiği genel faydalarda bulunmaktadır.&rdquo;"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "We are not required to agree with the Constitution or the Supreme Court.  "
 "(At one time, they both condoned slavery.)  So their positions do not "
@@ -1746,11 +1746,11 @@ msgstr ""
 "bir varsayımdan çok, bir radikal sağ varsayımı olduğunun farkına varılması "
 "çekiciliğini azaltacaktır."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "Conclusion"
 msgstr "Sonuç"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "We like to think that our society encourages helping your neighbor; but each "
 "time we reward someone for obstructionism, or admire them for the wealth "
@@ -1761,7 +1761,7 @@ msgstr ""
 "bu şekilde kazandıkları onları takdir ettiğiömizde, eleştirel mesajlar "
 "alırız."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Software hoarding is one form of our general willingness to disregard the "
 "welfare of society for personal gain.  We can trace this disregard from "
@@ -1779,7 +1779,7 @@ msgstr ""
 "diğer insanların bize yardım etmeyeceğini gördükçe, onlara yardım etmek de o "
 "kadar saçma görünmektedir. Bu nedenle toplum vahşileşmektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If we don't want to live in a jungle, we must change our attitudes.  We must "
 "start sending the message that a good citizen is one who cooperates when "
@@ -1906,11 +1906,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2021 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 1991, 1992, 1998, 2006, 2010, 2021 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1991, 1992, 1998, 2000, 2001, 2006, 2007, 2010, 2021 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 1991, 1992, 1998, 2006, 2010, 2021 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

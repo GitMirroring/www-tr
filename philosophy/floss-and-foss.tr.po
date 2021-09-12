@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: floss-and-foss.html\n"
-"POT-Creation-Date: 2021-07-11 09:25+0000\n"
-"PO-Revision-Date: 2021-07-11 20:12+0200\n"
+"POT-Creation-Date: 2021-09-11 09:55+0000\n"
+"PO-Revision-Date: 2021-09-12 08:03+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -29,7 +29,7 @@ msgstr "ÖLAKY ve ÖAKY"
 msgid "by Richard Stallman"
 msgstr "yazan Richard Stallman"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The two political camps in the free software community are the free software "
 "movement and open source.  The free software movement is a campaign for <a "
@@ -48,7 +48,7 @@ msgstr ""
 "philosophy/open-source-misses-the-point.html\">salt pratik yararlara</a> "
 "dayandırıyor."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "To emphasize that &ldquo;free software&rdquo; refers to freedom and not to "
 "price, we sometimes write or say &ldquo;free (libre)  software,&rdquo; "
@@ -61,7 +61,7 @@ msgstr ""
 "anlamına gelen kelimeyi ekliyoruz. Bazı bağlamlarda sadece &ldquo;libre "
 "software&rdquo; kullanmak da işe yarar."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A researcher studying practices and methods used by developers in the free "
 "software community decided that these questions were independent of the "
@@ -79,7 +79,7 @@ msgstr ""
 "tarafsız olmak istiyorsanız, bu iyi bir yöntem, çünkü iki tarafın "
 "isimlendirmelerini eşit derecede öne çıkarır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Others use the term &ldquo;FOSS,&rdquo; which stands for &ldquo;Free and "
 "Open Source Software.&rdquo; This is meant to mean the same thing as &ldquo;"
@@ -97,7 +97,7 @@ msgstr ""
 "çünkü &ldquo;açık kaynak&rdquo; belirgin bir biçimde sunarken, &ldquo;özgür "
 "yazılım&rdquo; bölünmüştür."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;Free and Open Source Software&rdquo; is misleading in another way: it "
 "suggests that &ldquo;free and open source&rdquo; names a single point of "
@@ -112,7 +112,7 @@ msgstr ""
 "anlaşamayan iki farklı politik konumlanış olduğu gerçeğini anlama önünde bir "
 "engeldir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, if you want to be neutral between free software and open source, and "
 "clear about them, the way to achieve that is to say &ldquo;FLOSS,&rdquo; not "
@@ -122,12 +122,12 @@ msgstr ""
 "istiyorsanız, bunu başarmanın yolu &ldquo;ÖAKK&rdquo; değil, &ldquo;"
 "ÖLAKY&rdquo; kullanmaktır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "We in the free software movement don't use either of these terms, because we "
 "don't want to be neutral on the political question.  We stand for freedom, "
 "and we show it every time&mdash;by saying &ldquo;free&rdquo; and &ldquo;"
-"libre&rdquo;&mdash; or &ldquo;free (libre)&rdquo;."
+"libre&rdquo;&mdash;or &ldquo;free (libre).&rdquo;"
 msgstr ""
 "Biz, özgür yazılım hareketi olarak, bu politik sorun açısından tarafsız "
 "kalmak istemediğimiz için bu terimlerin hiçbirini kullanmıyoruz. Özgürlükten "

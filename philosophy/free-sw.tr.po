@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2021-07-16 12:25+0000\n"
-"PO-Revision-Date: 2021-07-17 10:58+0200\n"
+"POT-Creation-Date: 2021-09-11 09:56+0000\n"
+"PO-Revision-Date: 2021-09-12 08:11+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -48,16 +48,16 @@ msgstr ""
 msgid "What is Free Software?"
 msgstr "Özgür Yazılım Nedir?"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;Free software&rdquo; means software that respects users' freedom and "
 "community.  Roughly, it means that <b>the users have the freedom to run, "
 "copy, distribute, study, change and improve the software</b>.  Thus, &ldquo;"
 "free software&rdquo; is a matter of liberty, not price.  To understand the "
 "concept, you should think of &ldquo;free&rdquo; as in &ldquo;free speech,"
-"&rdquo; not as in &ldquo;free beer&rdquo;.  We sometimes call it &ldquo;"
-"libre software,&rdquo; borrowing the French or Spanish word for &ldquo;"
-"free&rdquo; as in freedom, to show we do not mean the software is gratis."
+"&rdquo; not as in &ldquo;free beer.&rdquo; We sometimes call it &ldquo;libre "
+"software,&rdquo; borrowing the French or Spanish word for &ldquo;free&rdquo; "
+"as in freedom, to show we do not mean the software is gratis."
 msgstr ""
 "&ldquo;Özgür yazılım&rdquo;, kullanıcıların özgürlüğüne ve topluluğa saygı "
 "duyan yazılım demektir. Kabataslak, <b>kullanıcıların bir yazılımı "
@@ -70,7 +70,7 @@ msgstr ""
 "alınarak &ldquo;libre&rdquo; yazılım kavramı da, yazılımın bedelsiz olduğu "
 "değil özgür olduğunu  kastetmek için kullanılıyor."
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "You may have paid money to get copies of a free program, or you may have "
 "obtained copies at no charge.  But regardless of how you got your copies, "
@@ -83,7 +83,7 @@ msgstr ""
 "kopyalama, değiştirme ve hatta <a href=\"/philosophy/selling.html"
 "\">kopyalarını satma</a> özgürlüğüne sahipsiniz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "We campaign for these freedoms because everyone deserves them.  With these "
 "freedoms, the users (both individually and collectively) control the program "
@@ -102,7 +102,7 @@ msgstr ""
 "href=\"/philosophy/free-software-even-more-important.html\">adaletsiz "
 "iktidarın bir aracı</a> kılar."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;Open source&rdquo; is something different: it has a very different "
 "philosophy based on different values.  Its practical definition is different "
@@ -116,37 +116,37 @@ msgstr ""
 "open-source-misses-the-point.html\"> Neden &ldquo;Açık Kaynak&rdquo; Özgür "
 "Yazılımın Noktasını Kaçırıyor</a> yazısında açıklıyoruz."
 
-#. type: Content of: <div><div><div><h3>
+#. type: Content of: <div><div><h3>
 msgid "Table of contents"
 msgstr "İçindekiler"
 
-#. type: Content of: <div><div><div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#fs-definition\">The Free Software Definition</a>"
 msgstr "<a href=\"#fs-definition\">Özgür Yazılım Tanımı</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#four-freedoms\">The four essential freedoms</a>"
 msgstr "<a href=\"#four-freedoms\">Dört temel özgürlük</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#selling\">Free software <em>can</em> be commercial</a>"
 msgstr "<a href=\"#selling\">Özgür yazılım ticari <em>olabilir</em></a>"
 
-#. type: Content of: <div><div><div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href=\"#clarifying\">Clarifying the Boundary Between Free and Nonfree</a>"
 msgstr ""
 "<a href=\"#clarifying\">Özgür olanla özgür olmayan arasındaki sınırı "
 "açıklığa kavuşturmak</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid ""
 "<a href=\"#run-the-program\">The freedom to run the program as you wish</a>"
 msgstr ""
 "<a href=\"#run-the-program\">Programı istediğiniz gibi çalıştırma özgürlüğü</"
 "a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid ""
 "<a href=\"#make-changes\">The freedom to study the source code and make "
 "changes</a>"
@@ -154,7 +154,7 @@ msgstr ""
 "<a href=\"#make-changes\">Kaynak kodu inceleme ve değişiklikler yapma "
 "özgürlüğü</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid ""
 "<a href=\"#redistribute\">The freedom to redistribute if you wish: basic "
 "requirements</a>"
@@ -162,42 +162,42 @@ msgstr ""
 "<a href=\"#redistribute\">İsterseniz yeniden dağıtma özgürlüğü: temel "
 "gereksinimler</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#copyleft\">Copyleft</a>"
 msgstr "<a href=\"#copyleft\">Copyleft</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid ""
 "<a href=\"#packaging\">Rules about packaging and distribution details</a>"
 msgstr ""
 "<a href=\"#packaging\">Paketleme ve dağıtım ayrıntıları hakkındaki kurallar</"
 "a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#exportcontrol\">Export regulations</a>"
 msgstr "<a href=\"#exportcontrol\">İhracat düzenlemeleri</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#legal-details\">Legal considerations</a>"
 msgstr "<a href=\"#legal-details\">Yasal hususlar</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#contracts\">Contract-based licenses</a>"
 msgstr "<a href=\"#contracts\">Sözleşme tabanlı lisanslar</a>"
 
-#. type: Content of: <div><div><div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#in-practice\">The Free Software Definition in Practice</a>"
 msgstr "<a href=\"#in-practice\">Uygulamada Özgür Yazılım Tanımı</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#interpretation\">How we interpret these criteria</a>"
 msgstr "<a href=\"#interpretation\">Bu ölçütler nasıl yorumlanmalı</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid "<a href=\"#get-help\">Get help with free licenses</a>"
 msgstr "<a href=\"#get-help\">Özgür lisanslarla ilgili yardım</a>"
 
-#. type: Content of: <div><div><div><ul><li><ul><li>
+#. type: Content of: <div><div><ul><li><ul><li>
 msgid ""
 "<a href=\"#terminology\">Use the right words when talking about free "
 "software</a>"
@@ -205,15 +205,15 @@ msgstr ""
 "<a href=\"#terminology\">Özgür yazılım hakkında konuşurken doğru kelimeleri "
 "kullanmak</a>"
 
-#. type: Content of: <div><div><div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#beyond-software\">Beyond Software</a>"
 msgstr "<a href=\"#beyond-software\">Yazılımdan Ötesi</a>"
 
-#. type: Content of: <div><div><div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid "<a href=\"#History\">History</a>"
 msgstr "<a href=\"#History\">Geçmiş</a>"
 
-#. type: Content of: <div><div><div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Have a question about free software licensing not answered here? See our "
 "other <a href=\"http://www.fsf.org/licensing\">licensing resources</a>, and "
@@ -226,11 +226,11 @@ msgstr ""
 "licensing@fsf.org\">licensing@fsf.org</a> adresinden bağlantıya "
 "girebilirsiniz."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "The Free Software Definition"
 msgstr "Özgür Yazılım Tanımı"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The free software definition presents the criteria for whether a particular "
 "software program qualifies as free software.  From time to time we revise "
@@ -245,11 +245,11 @@ msgstr ""
 "göz atmak isterseniz, lütfen daha fazla bilgi için aşağıdaki <a href="
 "\"#History\">Tarihçe kısmına</a> bakınız."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "The four essential freedoms"
 msgstr "Dört temel özgürlük"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A program is free software if the program's users have the four essential "
 "freedoms: <a href=\"#f1\">[1]</a>"
@@ -257,14 +257,14 @@ msgstr ""
 "Bir program, eğer kullanıcıları dört temel özgürlüğe sahipse bir özgür "
 "yazılımdır: <a href=\"#f1\">[1]</a>"
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The freedom to run the program as you wish, for any purpose (freedom 0)."
 msgstr ""
 "Herhangi bir amaç için, istediğiniz şekilde yazılımı çalıştırma özgürlüğü (0 "
 "numaralı özgürlük)."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The freedom to study how the program works, and change it so it does your "
 "computing as you wish (freedom 1). Access to the source code is a "
@@ -274,13 +274,13 @@ msgstr ""
 "ve onu değiştirme özgürlüğü (1 numaralı özgürlük). Yazılımın kaynak koduna "
 "ulaşmak, bu iş için ön koşuldur."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid "The freedom to redistribute copies so you can help others (freedom 2)."
 msgstr ""
 "Kopyaları dağıtma özgürlüğü, böylece başkalarına yardım edebilirsiniz (2 "
 "numaralı özgürlük)."
 
-#. type: Content of: <div><div><ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The freedom to distribute copies of your modified versions to others "
 "(freedom 3).  By doing this you can give the whole community a chance to "
@@ -291,7 +291,7 @@ msgstr ""
 "özgürlük). Böylece değişikliklerinizden yararlanması için tüm topluma bir "
 "şans vermiş olursunuz. Kaynak koduna erişmek, bunun için bir ön koşuldur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A program is free software if it gives users adequately all of these "
 "freedoms.  Otherwise, it is nonfree.  While we can distinguish various "
@@ -303,7 +303,7 @@ msgstr ""
 "şemalarını, hangi açılardan özgür olmadıkları konusunda ayırt edebilsek de, "
 "hepsini eşit derecede etik dışı kabul ediyoruz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In any given scenario, these freedoms must apply to whatever code we plan to "
 "make use of, or lead others to make use of.  For instance, consider a "
@@ -323,13 +323,13 @@ msgstr ""
 "değiştirmeyi düşünüyorsak, bu durumda sadece A'nın özgür olması yetecektir; "
 "B'nin bu planla bir ilgisi yoktur."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Free software <em>can</em> be commercial"
 msgstr "Özgür yazılım ticari <em>olabilir</em>"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
-"&ldquo;Free software&rdquo; does not mean &ldquo;noncommercial&rdquo;.  On "
+"&ldquo;Free software&rdquo; does not mean &ldquo;noncommercial.&rdquo; On "
 "the contrary, a free program must be available for commercial use, "
 "commercial development, and commercial distribution.  This policy is of "
 "fundamental importance&mdash;without this, free software could not achieve "
@@ -340,7 +340,7 @@ msgstr ""
 "dağıtım için de mevcut olmalıdır. Bu politika, temel önemdedir, bu politika "
 "olmadan özgür yazılım amaçlarına ulaşamaz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "We want to invite everyone to use the GNU system, including businesses and "
 "their workers.  That requires allowing commercial use.  We hope that free "
@@ -362,7 +362,7 @@ msgstr ""
 "dışı değil; bu gibi ticari özgür yazılımlar oldukça önemli. Özgür yazılımın "
 "ücretli, profesyonel desteği, önemli bir boşluğu dolduruyor."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, to exclude commercial use, commercial development or commercial "
 "distribution would hobble the free software community and obstruct its path "
@@ -374,7 +374,7 @@ msgstr ""
 "olacaktır. Sonuç olarak bu gibi kısıtlamalarla lisanslanmış bir program "
 "özgür yazılım niteliğine sahip değildir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A free program must offer the four freedoms to any would-be user that "
 "obtains a copy of the software, who has complied thus far with the "
@@ -392,11 +392,11 @@ msgstr ""
 "özgürlükleri vermemekle aynı şeydir ve dolayısıyla program özgür olmayan bir "
 "program haline gelir."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "Clarifying the Boundary Between Free and Nonfree"
 msgstr "Özgür Olanla Özgür Olmayan Arasındaki Sınırı Açıklığa Kavuşturmak"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In the rest of this article we explain more precisely how far the various "
 "freedoms need to extend, on various issues, in order for a program to be "
@@ -406,11 +406,11 @@ msgstr ""
 "olabilmesi için özgürlüklerin ne dereceye kadar genişletilmesi gerektiğini "
 "daha açık olarak anlatıyoruz."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "The freedom to run the program as you wish"
 msgstr "Programı istediğiniz gibi çalıştırma özgürlüğü"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The freedom to run the program means the freedom for any kind of person or "
 "organization to use it on any kind of computer system, for any kind of "
@@ -430,7 +430,7 @@ msgstr ""
 "da kendi amaçları için programı çalıştırmaya özgürdür, ama kendi amaçlarınız "
 "için onu zorlayamazsınız."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The freedom to run the program as you wish means that you are not forbidden "
 "or stopped from making it run.  This has nothing to do with what "
@@ -444,7 +444,7 @@ msgstr ""
 "belirli hesaplama faaliyeti olsun, hangi işlevsellikleri barındırdığından "
 "bağımsızdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "For example, if the code arbitrarily rejects certain meaningful inputs&mdash;"
 "or even fails unconditionally&mdash;that may make the program less useful, "
@@ -463,7 +463,7 @@ msgstr ""
 "sıkıntılı kodları kaldırarak değiştirilmiş sürümleri oluşturma ve dağıtma "
 "olanağı sunar."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "&ldquo;As you wish&rdquo; includes, optionally, &ldquo;not at all&rdquo; if "
 "that is what you wish.  So there is no need for a separate &ldquo;freedom "
@@ -473,11 +473,11 @@ msgstr ""
 "&ldquo;asla&rdquo;yı da içerektir. Dolayısıyla ayrı bir &ldquo;programı "
 "çalıştırmama özgürlüğüne&rdquo; ihtiyaç yoktur."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "The freedom to study the source code and make changes"
 msgstr "Kaynak kodu inceleme ve değişiklikler yapma özgürlüğü"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In order for freedoms 1 and 3 (the freedom to make changes and the freedom "
 "to publish the changed versions) to be meaningful, you need to have access "
@@ -492,13 +492,13 @@ msgstr ""
 "kod&rdquo; gerçek bir kaynak kod değildir ve kaynak kod olarak "
 "değerlendirilemez."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom 1 includes the freedom to use your changed version in place of the "
 "original.  If the program is delivered in a product designed to run someone "
-"else's modified versions but refuse to run yours &mdash; a practice known as "
-"&ldquo;tivoization&rdquo; or &ldquo;lockdown&rdquo;, or (in its "
-"practitioners' perverse terminology) as &ldquo;secure boot&rdquo; &mdash; "
+"else's modified versions but refuse to run yours&mdash;a practice known as "
+"&ldquo;tivoization&rdquo; or &ldquo;lockdown,&rdquo; or (in its "
+"practitioners' perverse terminology) as &ldquo;secure boot&rdquo;&mdash;"
 "freedom 1 becomes an empty pretense rather than a practical reality.  These "
 "binaries are not free software even if the source code they are compiled "
 "from is free."
@@ -512,12 +512,12 @@ msgstr ""
 "uygulanabilen bir özgürlük yerine bir yalan olacaktır. Bu ikili kodlar, "
 "derlendikleri kaynak kodları özgür olsa ile özgür bir yazılım değillerdir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "One important way to modify a program is by merging in available free "
 "subroutines and modules.  If the program's license says that you cannot "
-"merge in a suitably licensed existing module &mdash; for instance, if it "
-"requires you to be the copyright holder of any code you add &mdash; then the "
+"merge in a suitably licensed existing module&mdash;for instance, if it "
+"requires you to be the copyright holder of any code you add&mdash;then the "
 "license is too restrictive to qualify as free."
 msgstr ""
 "Bir program üzerinde değişiklik yapmanın önemli yollarından biri de, mevcut "
@@ -526,7 +526,7 @@ msgstr ""
 "eklediğiniz her kodun telif hakkı sahibi olmanız gerektiğini söylüyorsa, o "
 "lisans, özgür olarak tanımlamak için çok kısıtlayıcıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Whether a change constitutes an improvement is a subjective matter.  If your "
 "right to modify a program is limited, in substance, to changes that someone "
@@ -536,7 +536,7 @@ msgstr ""
 "değişiklik yapmanız, esasında, başka birinin iyileştirme olarak "
 "tanımladığıyla sınırlıysa, bu program özgür değildir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "One special case of freedom 1 is to delete the program's code so it returns "
 "after doing nothing, or make it invoke some other program.  Thus, freedom 1 "
@@ -547,11 +547,11 @@ msgstr ""
 "sağlamaktır. Bu yüzden, 1 numaralı özgürlük &ldquo;programı silme "
 "özgürlüğünü&rdquo; de içerir."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "The freedom to redistribute if you wish: basic requirements"
 msgstr "İsterseniz yeniden dağıtma özgürlüğü: temel gereksinimler"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom to distribute (freedoms 2 and 3) means you are free to redistribute "
 "copies, either with or without modifications, either gratis or charging a "
@@ -567,7 +567,7 @@ msgstr ""
 "için başkasından izin almak veya birine bir ücret ödemek zorunda olmadığınız "
 "anlamına gelir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "You should also have the freedom to make modifications and use them "
 "privately in your own work or play, without even mentioning that they "
@@ -578,7 +578,7 @@ msgstr ""
 "veya oyununuzda kullanma özgürlüğünüz de olmalı. Değişikliklerinizi "
 "yayımladığınızda da, hiç kimseyi haberdar etmenize gerek olmamalıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom 3 includes the freedom to release your modified versions as free "
 "software.  A free license may also permit other ways of releasing them; in "
@@ -593,7 +593,7 @@ msgstr ""
 "olmayan olmasını gerektiren bir lisans, özgür bir lisans olarak "
 "değerlendirilemez."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The freedom to redistribute copies must include binary or executable forms "
 "of the program, as well as source code, for both modified and unmodified "
@@ -612,11 +612,11 @@ msgstr ""
 "ancak, program, bu biçimlerden herhangi birine sokmanın bir yolunu "
 "bulduğunuzda, programı yeniden dağıtmaya hakkınızın olması gerekir."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Copyleft"
 msgstr "Copyleft"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Certain kinds of rules about the manner of distributing free software are "
 "acceptable, when they don't conflict with the central freedoms.  For "
@@ -631,7 +631,7 @@ msgstr ""
 "insanların özgürlüklerini hiçe sayan kısıtlamalar eklenememesi için konmuş "
 "kuraldır. Bu kural, merkezi özgürlükler ile çelişmez; aksine onları korur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In the GNU project, we use copyleft to protect the four freedoms legally for "
 "everyone.  We believe there are important reasons why <a href=\"/philosophy/"
@@ -652,11 +652,11 @@ msgstr ""
 "href=\"/philosophy/categories.html\">Özgür Yazılım Kategorileri</a> "
 "sayfasını inceleyebilirsiniz."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Rules about packaging and distribution details"
 msgstr "Paketleme ve dağıtım ayrıntıları hakkındaki kurallar"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Rules about how to package a modified version are acceptable, if they don't "
 "substantively limit your freedom to release modified versions, or your "
@@ -677,7 +677,7 @@ msgstr ""
 "makuldur; zaten programa başka değişiklikler yapıyorsunuz, bir kaç "
 "değişiklik daha yapmanız sorun olmayacaktır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Rules that &ldquo;if you make your version available in this way, you must "
 "make it available in that way also&rdquo; can be acceptable too, on the same "
@@ -697,7 +697,7 @@ msgstr ""
 "unutmayın). Kamusal kullanıma koyduğunuz sürümlerin kullanıcılarına da "
 "yayınlamanızı gerektiren kurallar da kabul edilebilirdir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A special issue arises when a license requires changing the name by which "
 "the program will be invoked from other programs.  That effectively hampers "
@@ -714,11 +714,11 @@ msgstr ""
 "takma bir ad olarak belirtmenize olanak sağlayan uygun bir takma adlandırma "
 "yapısının olması durumunda kabul edilebilirdir."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Export regulations"
 msgstr "İhracat düzenlemeleri"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Sometimes government export control regulations and trade sanctions can "
 "constrain your freedom to distribute copies of programs internationally.  "
@@ -741,7 +741,7 @@ msgstr ""
 "olmaz özgürlüklerin uygulanması için bir koşul olarak gereksinim "
 "duymamalıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Merely mentioning the existence of export regulations, without making them a "
 "condition of the license itself, is acceptable since it does not restrict "
@@ -758,11 +758,11 @@ msgstr ""
 "bir değişiklik, bu gereksinimi önemli hale getirebilir ve yazılım özgür "
 "olmayan bir yazılım kılabilir."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Legal considerations"
 msgstr "Yasal hususlar"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In order for these freedoms to be real, they must be permanent and "
 "irrevocable as long as you do nothing wrong; if the developer of the "
@@ -776,11 +776,11 @@ msgstr ""
 "hükümsüz kılma veya geçmişe dönük olarak koşullarına yeni şartlar ekleme "
 "gücüne sahipse, o yazılım özgür değildir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "A free license may not require compliance with the license of a nonfree "
 "program.  Thus, for instance, if a license requires you to comply with the "
-"licenses of &ldquo;all the programs you use&rdquo;, in the case of a user "
+"licenses of &ldquo;all the programs you use,&rdquo; in the case of a user "
 "that runs nonfree programs this would require compliance with the licenses "
 "of those nonfree programs; that makes the license nonfree."
 msgstr ""
@@ -791,7 +791,7 @@ msgstr ""
 "programların lisanslarıyla da bir uyum gerektireceği için, bu lisans özgür "
 "olmayan bir lisans olmuş olur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "It is acceptable for a free license to specify which jurisdiction's law "
 "applies, or where litigation must be done, or both."
@@ -799,11 +799,11 @@ msgstr ""
 "Özgür bir lisansın hangi yargı hukukunun geçerli olduğunu veya hukuki "
 "davaların nerede görülmesi gerektiğini veya her ikisini belirtmesi uygundur."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Contract-based licenses"
 msgstr "Sözleşme tabanlı lisanslar"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Most free software licenses are based on copyright, and there are limits on "
 "what kinds of requirements can be imposed through copyright.  If a copyright-"
@@ -824,7 +824,7 @@ msgstr ""
 "da, bir lisansın kabul edilemez kısıtlamalara ve özgür olarak kabul "
 "edilmemesine dair mümkün birçok yol olduğunu belirtir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "We can't possibly list all the ways that might happen.  If a contract-based "
 "license restricts the user in an unusual way that copyright-based licenses "
@@ -837,15 +837,15 @@ msgstr ""
 "açıklanmamışsa, o halde bu konu hakkında düşünmemiz gerekir ve bunu "
 "herhalde, özgür olmayan bir lisans olarak tanımlayacağızdır."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "The Free Software Definition in Practice"
 msgstr "Uygulamada Özgür Yazılım Tanımı"
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "How we interpret these criteria"
 msgstr "Bu ölçütler nasıl yorumlanmalı"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Note that criteria such as those stated in this free software definition "
 "require careful thought for their interpretation.  To decide whether a "
@@ -871,11 +871,11 @@ msgstr ""
 "mevcut lisansların neyi sınırladığını ya da sınırlamadığını açıkça belirtmek "
 "için bu kıstaslar sıklıkla güncelliyoruz."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Get help with free licenses"
 msgstr "Özgür lisanslarla ilgili yardım al"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If you are interested in whether a specific license qualifies as a free "
 "software license, see our <a href=\"/licenses/license-list.html\">list of "
@@ -890,7 +890,7 @@ msgstr ""
 "licensing@gnu.org\">&lt;licensing@gnu.org&gt;</a> adresine eposta yollayarak "
 "sorabilirsiniz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If you are contemplating writing a new license, please contact the Free "
 "Software Foundation first by writing to that address. The proliferation of "
@@ -904,7 +904,7 @@ msgstr ""
 "edeceği anlamına gelir; belki size, gereksinimlerinizi karşılayabilecek "
 "mevcut bir Özgür Yazılım lisansı bulmanızda yardımcı olabiliriz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If that isn't possible, if you really need a new license, with our help you "
 "can ensure that the license really is a free software license and avoid "
@@ -914,11 +914,11 @@ msgstr ""
 "bizim yardımımızla, lisansınızın bir özgür yazılım lisansı olduğunu temin "
 "edebilir ve olası uygulama sorunlarından kurtulabilirsiniz."
 
-#. type: Content of: <div><div><h4>
+#. type: Content of: <div><h4>
 msgid "Use the right words when talking about free software"
 msgstr "Özgür yazılım hakkında konuşurken doğru kelimeleri kullanın"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "When talking about free software, it is best to avoid using terms like "
 "&ldquo;give away&rdquo; or &ldquo;for free,&rdquo; because those terms imply "
@@ -940,12 +940,12 @@ msgstr ""
 "yazılım</a>&rdquo; kavramının birçok dile çevirisini içeren bir listemiz de "
 "var."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Another group uses the term &ldquo;open source&rdquo; to mean something "
-"close (but not identical) to &ldquo;free software&rdquo;.  We prefer the "
-"term &ldquo;free software&rdquo; because, once you have heard that it refers "
-"to freedom rather than price, it calls to mind freedom.  The word &ldquo;"
+"close (but not identical) to &ldquo;free software.&rdquo; We prefer the term "
+"&ldquo;free software&rdquo; because, once you have heard that it refers to "
+"freedom rather than price, it calls to mind freedom.  The word &ldquo;"
 "open&rdquo; never refers to freedom."
 msgstr ""
 "Diğer bir grup, &ldquo;özgür yazılım&rdquo; kavramına yakın (ancak aynısı "
@@ -955,11 +955,11 @@ msgstr ""
 "özgürlüğünü çağrıştırır. Ancak &ldquo;açık&rdquo; kelimesi asla özgürlüğü "
 "çağrıştırmaz."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "Beyond Software"
 msgstr "Yazılımın Yanında"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/philosophy/free-doc.html\">Software manuals must be free</a>, for "
 "the same reasons that software must be free, and because the manuals are in "
@@ -969,10 +969,10 @@ msgstr ""
 "yazılımın bir etkili parçası olmasından dolayı <a href=\"/philosophy/free-"
 "doc.html\">yazılım kılavuzları da özgür olmalıdır</a>."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
-"The same arguments also make sense for other kinds of works of practical use "
-"&mdash; that is to say, works that embody useful knowledge, such as "
+"The same arguments also make sense for other kinds of works of practical "
+"use&mdash;that is to say, works that embody useful knowledge, such as "
 "educational works and reference works.  <a href=\"https://wikipedia.org"
 "\">Wikipedia</a> is the best-known example."
 msgstr ""
@@ -980,7 +980,7 @@ msgstr ""
 "öğrenim ve başvuru işleri gibi kullanışlı bilgi sunan işler. <a href="
 "\"https://wikipedia.org\">Wikipedia</a> en iyi bilinen örnek."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Any kind of work <em>can</em> be free, and the definition of free software "
 "has been extended to a definition of <a href=\"http://freedomdefined.org/\"> "
@@ -1005,13 +1005,13 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.168&amp;r2=1.169\">Version 1.169</a>: Explain more clearly "
 "why the four freedoms must apply to commercial activity.  Explain why the "
 "four freedoms imply the freedom not to run the program and the freedom to "
 "delete it, so there is no need to state those as separate requirements."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.168&amp;r2=1.169\">Sürüm 1.169</a>: Dört özgürlüğün ticari "
 "faaliyete de neden uygulanması gerektiği daha net bir şekilde açıklandı. "
 "Dört özgürlüğün neden programı çalıştırmama ve silme özgürlüğünü "
@@ -1020,12 +1020,12 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.164&amp;r2=1.165\">Version 1.165</a>: Clarify that "
 "arbitrary annoyances in the code do not negate freedom 0, and that freedoms "
 "1 and 3 enable users to remove them."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.164&amp;r2=1.165\">Sürüm 1.165</a>: Kodtaki nedensiz "
 "sıkıntıların 0 numaralı özgürlüğü çürütemeyeceği ve 1 ve 3 numaralı "
 "özgürlüklerin kullanıcıların bu sıkıntıları kaldırmasına olanak sağladığı "
@@ -1033,99 +1033,99 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.152&amp;r2=1.153\">Version 1.153</a>: Clarify that freedom "
 "to run the program means nothing stops you from making it run."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.152&amp;r2=1.153\">Sürüm 1.153</a>: Programı çalıştırma "
 "özgürlüğünün, hiçbir şeyin onu çalıştırmaktan alıkoyamayacağı anlamına "
 "geldiği açıklandı."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.140&amp;r2=1.141\">Version 1.141</a>: Clarify which code "
 "needs to be free."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.140&amp;r2=1.141\">Sürüm 1.141</a>: Hangi kodun özgür "
 "olması gerektiği açıklandı."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.134&amp;r2=1.135\">Version 1.135</a>: Say each time that "
 "freedom 0 is the freedom to run the program as you wish."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.134&amp;r2=1.135\">Sürüm 1.135</a>: Her seferinde 0. "
 "özgürlüğün programı istediğiniz gibi çalıştırma özgürlüğü olduğu söylendi."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.133&amp;r2=1.134\">Version 1.134</a>: Freedom 0 is not a "
 "matter of the program's functionality."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.133&amp;r2=1.134\">Sürüm 1.134</a>: 0. Özgürlük programın "
 "işlevselliğiyle ilgili bir husus değildir."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.130&amp;r2=1.131\">Version 1.131</a>: A free license may "
 "not require compliance with a nonfree license of another program."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.130&amp;r2=1.131\">Sürüm 1.131</a>: Özgür bir lisansın "
 "başka bir programın özgür olmayan lisansıyla uygunluk gerektirmeyebilir."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.128&amp;r2=1.129\">Version 1.129</a>: State explicitly "
 "that choice of law and choice of forum specifications are allowed.  (This "
 "was always our policy.)"
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.128&amp;r2=1.129\">Sürüm 1.129</a>: Yasa seçimi ve forum "
 "tariflerinin seçimi açıkça belirtildi (bu her zaman politikamızdı)."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.121&amp;r2=1.122\">Version 1.122</a>: An export control "
 "requirement is a real problem if the requirement is nontrivial; otherwise it "
 "is only a potential problem."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.121&amp;r2=1.122\">Sürüm 1.122</a>: İhracat denetim "
 "gereksinimi, eğer gereksinim kolay değilse gerçek bir sorundur; aksi durumda "
 "sadece olası bir sorundur."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.117&amp;r2=1.118\">Version 1.118</a>: Clarification: the "
 "issue is limits on your right to modify, not on what modifications you have "
 "made.  And modifications are not limited to &ldquo;improvements&rdquo;"
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.117&amp;r2=1.118\">Sürüm 1.118</a>: Açıklama: bu sorun "
 "değiştirme hakkınızı sınırlıyor, ne değişiklik yaptığınızı değil. Ve "
 "değişiklik dediğimiz şey &ldquo;iyileştirmelerle&rdquo; sınırlı değildir"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.110&amp;r2=1.111\">Version 1.111</a>: Clarify 1.77 by "
 "saying that only retroactive <em>restrictions</em> are unacceptable.  The "
 "copyright holders can always grant additional <em>permission</em> for use of "
 "the work by releasing the work in another way in parallel."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.110&amp;r2=1.111\">Sürüm 1.111</a>: 1.77 sürümü için, "
 "yalnızca geçmişe dönük <em>kısıtlamaların</em> kabul edilemez olduğu "
 "belirtildi. Telif hakkı sahipleri, her zaman, çalışmanın kullanımı için "
@@ -1133,12 +1133,12 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.104&amp;r2=1.105\">Version 1.105</a>: Reflect, in the "
 "brief statement of freedom 1, the point (already stated in version 1.80) "
 "that it includes really using your modified version for your computing."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.104&amp;r2=1.105\">Sürüm 1.105</a>: 1 numaralı "
 "özgürlüğünün kısa bir cümlesinde, (halihazırda 1.80 sürümünde belirtilmiş "
 "olan) aslında kendi değiştirilmiş sürümünüzü kendi bilgi işleminiz için "
@@ -1146,22 +1146,22 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.91&amp;r2=1.92\">Version 1.92</a>: Clarify that obfuscated "
 "code does not qualify as source code."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.91&amp;r2=1.92\">Sürüm 1.92</a>: Gizlenmiş kodun kaynak "
 "kod olarak değerlendirilemeyeceği açıklandı."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.89&amp;r2=1.90\">Version 1.90</a>: Clarify that freedom 3 "
 "means the right to distribute copies of your own modified or improved "
 "version, not a right to participate in someone else's development project."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.89&amp;r2=1.90\">Sürüm 1.90</a>: 3 numaralı özgürlüğün "
 "kendi değiştirdiğiniz veya geliştirdiğiniz sürümlerin kopyalarını dağıtma "
 "hakkı anlamına geldiği, başkasının geliştirme projesinde yer alma hakkı "
@@ -1169,44 +1169,44 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.88&amp;r2=1.89\">Version 1.89</a>: Freedom 3 includes the "
 "right to release modified versions as free software."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.88&amp;r2=1.89\">Sürüm 1.89</a>: 3 numaralı özgürlük, "
 "değiştirilmiş sürümleri özgür yazılım olarak yayınlama hakkını içerir."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.79&amp;r2=1.80\">Version 1.80</a>: Freedom 1 must be "
 "practical, not just theoretical; i.e., no tivoization."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.79&amp;r2=1.80\">Sürüm 1.80</a>: 1 numaralı özgürlük "
 "uygulanabilir olmalıdır, yalnızca teorik değil; örn., tivolaştırma olmamalı."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.76&amp;r2=1.77\">Version 1.77</a>: Clarify that all "
 "retroactive changes to the license are unacceptable, even if it's not "
 "described as a complete replacement."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.76&amp;r2=1.77\">Sürüm 1.77</a>: Tam bir yerini alma "
 "olmasa bile, lisansda geriye dönük değişiklikler yapmanın kabuledilebilir "
 "olmadığını açıklığa kavuştur."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.73&amp;r2=1.74\">Version 1.74</a>: Four clarifications of "
 "points not explicit enough, or stated in some places but not reflected "
 "everywhere:"
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.73&amp;r2=1.74\">Sürüm 1.74</a>: Yeterince açık olmayan "
 "veya bazı yerlerde sözü geçen ancak heryerde belirtilmemiş olan dört "
 "noktanın açıklamaları:"
@@ -1243,98 +1243,98 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.56&amp;r2=1.57\">Version 1.57</a>: Add &quot;Beyond "
 "Software&quot; section."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.56&amp;r2=1.57\">Sürüm 1.57</a>: &quot;Yazılımın "
 "Ötesinde&quot; kısmını ekle."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.45&amp;r2=1.46\">Version 1.46</a>: Clarify whose purpose "
 "is significant in the freedom to run the program for any purpose."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.45&amp;r2=1.46\">Sürüm 1.46</a>: Özgürlükte kimin hangi "
 "neden için olursa olsun programı çalıştırmasının önemini açıkla."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.40&amp;r2=1.41\">Version 1.41</a>: Clarify wording about "
 "contract-based licenses."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.40&amp;r2=1.41\">Sürüm 1.41</a>: Kontrata dayalı lisanslar "
 "hakkındaki sözleri açıklığa kavuştur."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.39&amp;r2=1.40\">Version 1.40</a>: Explain that a free "
 "license must allow to you use other available free software to create your "
 "modifications."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.39&amp;r2=1.40\">Sürüm 1.40</a>: Özgür bir lisansın kendi "
 "değişikliklerinizi yaratmak için diğer mevcut özgür lisansları kullanmanıza "
 "izin vermesi gerektiğini anlat."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.38&amp;r2=1.39\">Version 1.39</a>: Note that it is "
 "acceptable for a license to require you to provide source for versions of "
 "the software you put into public use."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.38&amp;r2=1.39\">Sürüm 1.39</a>: Bir lisansın, kamusal "
 "kullanıma açık koyulan bir yazılımın sürümleri için kaynak kodunu sağlamayı "
 "gerekli kılmasının kabul edilebilir olduğunu belirt."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.30&amp;r2=1.31\">Version 1.31</a>: Note that it is "
 "acceptable for a license to require you to identify yourself as the author "
 "of modifications.  Other minor clarifications throughout the text."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.30&amp;r2=1.31\">Sürüm 1.31</a>: Bir lisansın, "
 "değişikliklerin sahibi olarak sizin kendinizi göstermenizi mecbur kılmasının "
 "kabul edilebilir olduğunu belirt."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.22&amp;r2=1.23\">Version 1.23</a>: Address potential "
 "problems related to contract-based licenses."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.22&amp;r2=1.23\">Sürüm 1.23</a>: Kontrat tabanlı lisanslar "
 "hakkındaki olası sorunlara işaret et."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.15&amp;r2=1.16\">Version 1.16</a>: Explain why "
 "distribution of binaries is important."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.15&amp;r2=1.16\">Sürüm 1.16</a>: Çalıştırılabilir "
 "dosyaların dağıtılmasının neden önemli olduğunu açıkla."
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.10&amp;r2=1.11\">Version 1.11</a>: Note that a free "
 "license may require you to send a copy of versions you distribute to "
 "previous developers on request."
 msgstr ""
-"<a href=\"http://web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
 "root=www&amp;r1=1.10&amp;r2=1.11\">Sürüm 1.11</a>: Özgür bir lisansın, "
 "dağıttığınız sürümlerin bir kopyasını talep durumunda programın sahibine "
 "göndermenizi zorunlu kılabileceği belirtildi."
@@ -1345,17 +1345,16 @@ msgid ""
 "changes in this page that do not affect the definition or its "
 "interpretations.  For instance, the list does not include changes in asides, "
 "formatting, spelling, punctuation, or other parts of the page.  You can "
-"review the complete list of changes to the page through the <a href=\"http://"
-"web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?root=www&amp;"
-"view=log\">cvsweb interface</a>."
+"review the complete list of changes to the page through the <a href=\"//web."
+"cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?root=www&amp;view=log"
+"\">cvsweb interface</a>."
 msgstr ""
-"Sürüm numaralarının araları açık, çünkü tanımı veya yorumlamalarını "
-"değiştirmeyen başka değişiklikler de var. Örneğin bu liste kenardaki, "
-"biçimlendirmedeki, imladaki, noktalamadaki veya sayfanın diğer "
-"kısımlarındaki değişiklikleri içermiyor. Eğer yapılan değişikliklerin tam "
-"bir listesine gözatmak isterseniz, bunu <a href=\"http://web.cvs.savannah."
-"gnu.org/viewvc/www/philosophy/free-sw.html?root=www&amp;view=log\">cvsweb "
-"arayüzümüzden</a> yapabilirsiniz."
+"Eksik sürüm numaraları var, çünkü tanımı veya yorumlamalarını değiştirmeyen "
+"başka değişiklikler de var. Örneğin bu liste kenardaki, biçimlendirmedeki, "
+"imladaki, noktalamadaki veya sayfanın diğer kısımlarındaki değişiklikleri "
+"içermiyor. Eğer yapılan değişikliklerin tam bir listesine gözatmak "
+"isterseniz, bunu <a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/"
+"free-sw.html?root=www&amp;view=log\">cvsweb arayüzümüzden</a> yapabilirsiniz."
 
 # type: Content of: <h3>
 #. type: Content of: <div><h3>
@@ -1442,11 +1441,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996-2002, 2004-2007, 2009-2019, 2021 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1996-2002, 2004-2019, 2021 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996-2002, 2004-2007, 2009-2019, 2021 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1996-2002, 2004-2019, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

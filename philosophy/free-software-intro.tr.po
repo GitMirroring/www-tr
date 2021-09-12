@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-software-intro.html\n"
-"POT-Creation-Date: 2021-07-17 08:25+0000\n"
-"PO-Revision-Date: 2021-07-17 10:51+0200\n"
+"POT-Creation-Date: 2021-09-11 09:56+0000\n"
+"PO-Revision-Date: 2021-09-12 08:07+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -26,7 +26,7 @@ msgstr "Özgür Yazılım Hareketi - GNU Projesi - Özgür Yazılım Vakfı"
 msgid "Free Software Movement"
 msgstr "Özgür Yazılım Hareketi"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "People use free software operating systems such as <a href=\"/gnu/linux-and-"
 "gnu.html\">GNU/Linux</a> for various reasons.  Many users switch for "
@@ -39,7 +39,7 @@ msgstr ""
 "pratik nedenlerden dolayı kullanır: çünkü sistem güçlüdür, güvenilirdir veya "
 "yazılımı gereksiniminiz olan şeye değiştirmenize uygundur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Those are good reasons&mdash;but there is more at stake than just "
 "convenience.  What's at stake is your freedom, and your community."
@@ -47,7 +47,7 @@ msgstr ""
 "Bunlar iyi nedenlerdir, ancak ortada kolaylıktan daha fazla neden söz "
 "konusudur. Bunlar özgürlüğünüz ve topluluğunuzdur."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The idea of the Free Software Movement is that computer users <a href=\"/"
 "philosophy/why-free.html\">deserve the freedom to form a community</a>.  You "
@@ -66,7 +66,7 @@ msgstr ""
 "gelişmiş sürümleri yayınlayarak, kendi topluluğunuzu oluşturma özgürlüğünüz "
 "de olmalıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Whether a program is free software depends mainly on its license.  However, "
 "a program can also be nonfree because you don't have access to its source "
@@ -78,7 +78,7 @@ msgstr ""
 "değiştirilmiş bir sürüm yüklemenize izin vermediğinde de program özgür "
 "olmayan bir program olabilir (buna &ldquo;tivoization&rdquo; deniyor)."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Our <a href=\"/philosophy/free-sw.html\">detailed definition</a> of free "
 "software shows how we evaluate a license to see if it makes programs free "
@@ -95,7 +95,7 @@ msgstr ""
 "href=\"/philosophy/essays-and-articles.html#LicensingFreeSoftware\">bazı "
 "özel durumlarla ilgili</a> yazılarımız da vardır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "In 1998 the term &ldquo;open source&rdquo; was coined and associated with <a "
 "href=\"/philosophy/open-source-misses-the-point.html\">views considerably "
@@ -117,10 +117,10 @@ msgstr ""
 "çekinmiyoruz, ancak onların görüşlerine katılmıyoruz ve onların isimleri "
 "altında çalışmayı reddediyoruz."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If you think that freedom and community are important for their own sake, "
-"please join us in proudly using the term &ldquo;free software&rdquo;, and "
+"please join us in proudly using the term &ldquo;free software,&rdquo; and "
 "help spread the word."
 msgstr ""
 "Eğer özgürlüğün ve topluluğun kendileri için önemli olduklarını "

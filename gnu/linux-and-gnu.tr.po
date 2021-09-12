@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: linux-and-gnu.html\n"
-"POT-Creation-Date: 2021-04-07 17:55+0000\n"
-"PO-Revision-Date: 2021-04-10 08:32+0200\n"
+"POT-Creation-Date: 2021-08-30 13:26+0000\n"
+"PO-Revision-Date: 2021-09-12 07:37+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -39,28 +39,20 @@ msgstr ""
 "paylaşma ve geliştirme özgürlüğüne sahip olabilmeleri için özgür Unix tarzı "
 "işletim sistemi GNU geliştiriliyor."
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Linux and the GNU System"
 msgstr "Linux ve GNU Sistemi"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 msgstr "yazan <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <div><div><p>
-msgid ""
-"For more information see also the <a href=\"/gnu/gnu-linux-faq.html\">GNU/"
-"Linux FAQ</a>, and <a href=\"/gnu/why-gnu-linux.html\">Why GNU/Linux?</a>"
-msgstr ""
-"Daha fazla bilgi için ayrıca bkz. <a href=\"/gnu/gnu-linux-faq.html\">GNU/"
-"Linux SSS</a> ve <a href=\"/gnu/why-gnu-linux.html\">Neden GNU/Linux?</a>"
-
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Many computer users run a modified version of <a href=\"/philosophy/"
 "categories.html#TheGNUsystem\">the GNU system</a> every day, without "
 "realizing it.  Through a peculiar turn of events, the version of GNU which "
-"is widely used today is often called &ldquo;Linux&rdquo;, and many of its "
+"is widely used today is often called &ldquo;Linux,&rdquo; and many of its "
 "users are <a href=\"/gnu/gnu-users-never-heard-of-gnu.html\"> not aware</a> "
 "that it is basically the GNU system, developed by the <a href=\"/gnu/gnu-"
 "history.html\">GNU Project</a>."
@@ -74,6 +66,14 @@ msgstr ""
 "\">farkında değildir</a>."
 
 #. type: Content of: <div><div><p>
+msgid ""
+"For more information see also the <a href=\"/gnu/gnu-linux-faq.html\">GNU/"
+"Linux FAQ</a>, and <a href=\"/gnu/why-gnu-linux.html\">Why GNU/Linux?</a>"
+msgstr ""
+"Daha fazla bilgi için ayrıca bkz. <a href=\"/gnu/gnu-linux-faq.html\">GNU/"
+"Linux SSS</a> ve <a href=\"/gnu/why-gnu-linux.html\">Neden GNU/Linux?</a>"
+
+#. type: Content of: <div><p>
 msgid ""
 "There really is a Linux, and these people are using it, but it is just a "
 "part of the system they use.  Linux is the kernel: the program in the system "
@@ -94,10 +94,10 @@ msgstr ""
 "Linux eklenmiş GNU veya GNU/Linux'tur. Tüm sözümona &ldquo;Linux&rdquo; "
 "dağıtımları gerçekte GNU/Linux dağıtımlarıdır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Many users do not understand the difference between the kernel, which is "
-"Linux, and the whole system, which they also call &ldquo;Linux&rdquo;.  The "
+"Linux, and the whole system, which they also call &ldquo;Linux.&rdquo; The "
 "ambiguous use of the name doesn't help people understand.  These users often "
 "think that Linus Torvalds developed the whole operating system in 1991, with "
 "a bit of help."
@@ -108,7 +108,7 @@ msgstr ""
 "Linus Torvalds'ın tüm işletim sistemini 1991 yılında biraz yardımla "
 "geliştirdiğini düşünüyor."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Programmers generally know that Linux is a kernel.  But since they have "
 "generally heard the whole system called &ldquo;Linux&rdquo; as well, they "
@@ -126,7 +126,7 @@ msgstr ""
 "özgür yazılımları aradıklarına ve Unix benzeri bir sistem yapmak için "
 "gereken her şeyin zaten mevcut olduğunu (ortada neden yokken) keşfetti."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "What they found was no accident&mdash;it was the not-quite-complete GNU "
 "system.  The available <a href=\"/philosophy/free-sw.html\">free software</"
@@ -146,7 +146,7 @@ msgstr ""
 "\">İlk Duyurusu</a> ayrıca GNU sistemi için bazı orijinal planların ana "
 "hatlarını çiziyor. Linux başlatıldığında GNU neredeyse bitmişti."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Most free software projects have the goal of developing a particular program "
 "for a particular job.  For example, Linus Torvalds set out to write a Unix-"
@@ -162,18 +162,18 @@ msgstr ""
 "geliştirmek için yola çıktı. Bu tür bir projenin katkısını projeden gelen "
 "belirli programlarla ölçmek doğaldır."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If we tried to measure the GNU Project's contribution in this way, what "
 "would we conclude? One CD-ROM vendor found that in their &ldquo;Linux "
-"distribution&rdquo;, <a href=\"/philosophy/categories.html#GNUsoftware\">GNU "
+"distribution,&rdquo; <a href=\"/philosophy/categories.html#GNUsoftware\">GNU "
 "software</a> was the largest single contingent, around 28% of the total "
 "source code, and this included some of the essential major components "
 "without which there could be no system.  Linux itself was about 3%.  (The "
 "proportions in 2008 are similar: in the &ldquo;main&rdquo; repository of "
 "gNewSense, Linux is 1.5% and GNU packages are 15%.)  So if you were going to "
 "pick a name for the system based on who wrote the programs in the system, "
-"the most appropriate single choice would be &ldquo;GNU&rdquo;."
+"the most appropriate single choice would be &ldquo;GNU.&rdquo;"
 msgstr ""
 "GNU Projesi'nin katkısını bu şekilde ölçmeye çalışsaydık neyin sonucuna "
 "varırdık? Bir CD-ROM sağlayıcı, kendi &ldquo;Linux dağıtımı&rdquo;nda <a "
@@ -186,7 +186,7 @@ msgstr ""
 "yazdığına bağlı olarak sistem için bir isim seçecekseniz eğer en uygun "
 "yegane seçenek &ldquo;GNU&rdquo; olurdu."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "But that is not the deepest way to consider the question.  The GNU Project "
 "was not, is not, a project to develop specific software packages.  It was "
@@ -202,7 +202,7 @@ msgstr ""
 "ama yine de bir tane geliştirdik. GNU Projesi, <em>tamamen özgür bir Unix "
 "benzeri sistem</em> geliştirmeyi amaçlıyordu: GNU'yu."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Many people have made major contributions to the free software in the "
 "system, and they all deserve credit for their software.  But the reason it "
@@ -230,7 +230,7 @@ msgstr ""
 "yazdık <a href=\"#nottools\">(2)</a>. Hatta bir satranç oyunu geliştirdik, "
 "GNU Chess, çünkü bütün bir sistem de oyunlara ihtiyaç duyar."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "By the early 90s we had put together the whole system aside from the "
 "kernel.  We had also started a kernel, the <a href=\"/software/hurd/hurd.html"
@@ -246,23 +246,23 @@ msgstr ""
 "and-linux.html\">GNU Hurd 2001 yılında güvenilir bir şekilde çalışmaya "
 "başladı</a> ancak insanların genel kullanımına hazır olmaktan çok uzaktı."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Fortunately, we didn't have to wait for the Hurd, because of Linux.  Once "
 "Torvalds freed Linux in 1992, it fit into the last major gap in the GNU "
-"system.  People could then <a href=\"http://ftp.funet.fi/pub/linux/"
+"system.  People could then <a href=\"https://ftp.funet.fi/pub/linux/"
 "historical/kernel/old-versions/RELNOTES-0.01\"> combine Linux with the GNU "
 "system</a> to make a complete free system &mdash; a version of the GNU "
 "system which also contained Linux.  The GNU/Linux system, in other words."
 msgstr ""
 "Neyse ki Linux sayesinde Hurd'u beklemek zorunda değildik. Torvalds 1992'de "
 "Linux'u yayımladıktan sonra GNU sistemindeki son büyük boşluğu kapatmış "
-"oldu. İnsanlar daha sonra <a href=\"http://ftp.funet.fi/pub/linux/historical/"
-"kernel/old-versions/RELNOTES-0.01\">Linux'u GNU sistemi ile birleştirerek</"
-"a> tam bir özgür sistem yapabildiler: Linux'u de içeren bir GNU sistemi "
-"sürümü. Başka bir deyişle GNU/Linux sistemi."
+"oldu. İnsanlar daha sonra <a href=\"https://ftp.funet.fi/pub/linux/"
+"historical/kernel/old-versions/RELNOTES-0.01\">Linux'u GNU sistemi ile "
+"birleştirerek</a> tam bir özgür sistem yapabildiler: Linux'u de içeren bir "
+"GNU sistemi sürümü. Başka bir deyişle GNU/Linux sistemi."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Making them work well together was not a trivial job.  Some GNU components<a "
 "href=\"#somecomponents\">(3)</a> needed substantial change to work with "
@@ -284,23 +284,23 @@ msgstr ""
 "önemli çalışmalar yaptılar. Ancak, doğal olarak, kesinlikle birileri "
 "tarafından yapılacak bir işti."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Project supports GNU/Linux systems as well as <em>the</em> GNU "
-"system.  The <a href=\"http://fsf.org/\">FSF</a> funded the rewriting of the "
-"Linux-related extensions to the GNU C library, so that now they are well "
+"system.  The <a href=\"https://fsf.org/\">FSF</a> funded the rewriting of "
+"the Linux-related extensions to the GNU C library, so that now they are well "
 "integrated, and the newest GNU/Linux systems use the current library release "
 "with no changes.  The FSF also funded an early stage of the development of "
 "Debian GNU/Linux."
 msgstr ""
 "GNU Projesi, GNU sisteminin yanı sıra GNU/Linux sistemlerini de destekliyor. "
-"<a href=\"http://fsf.org/\">FSF</a>; Linux ile ilgili eklentilerin GNU C "
+"<a href=\"https://fsf.org/\">FSF</a>; Linux ile ilgili eklentilerin GNU C "
 "kütüphanesine yeniden yazılmasını finanse etti, böylece şimdi iyi "
 "bütünleştiler ve en yeni GNU/Linux sistemleri mevcut kütüphane sürümünü "
 "hiçbir değişiklik olmadan kullanıyor. FSF ayrıca Debian GNU/Linux'un "
 "gelişiminin erken bir aşamasını da finanse etti."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Today there are many different variants of the GNU/Linux system (often "
 "called &ldquo;distros&rdquo;).  Most of them include nonfree programs&mdash;"
@@ -320,14 +320,14 @@ msgstr ""
 "distros/distros.html\">tamamen özgür GNU/Linux dağıtımları</a> da var. FSF, "
 "bunlardan birkaçı için bilgisayar olanaklarını desteklemektedir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Making a free GNU/Linux distribution is not just a matter of eliminating "
 "various nonfree programs.  Nowadays, the usual version of Linux contains "
 "nonfree programs too.  These programs are intended to be loaded into I/O "
 "devices when the system starts, and they are included, as long series of "
 "numbers, in the \"source code\" of Linux.  Thus, maintaining free GNU/Linux "
-"distributions now entails maintaining a <a href=\"http://directory.fsf.org/"
+"distributions now entails maintaining a <a href=\"https://directory.fsf.org/"
 "project/linux\"> free version of Linux</a> too."
 msgstr ""
 "Özgür bir GNU/Linux dağıtımı yapmak sadece çeşitli özgür olmayan programları "
@@ -335,17 +335,17 @@ msgstr ""
 "özgür olmayan programlar da bulunmaktadır. Bu programların sistem "
 "başladığında G/Ç aygıtlarına yüklenmesi amaçlanmıştır ve uzun sayı serileri "
 "olarak Linux'un \"kaynak kodu\"na dâhil edilmiştir. Bu nedenle özgür GNU/"
-"Linux dağıtımlarının sürdürülmesi artık <a href=\"http://directory.fsf.org/"
+"Linux dağıtımlarının sürdürülmesi artık <a href=\"https://directory.fsf.org/"
 "project/linux\">Linux'un özgür bir sürümünün</a>  de sürdürülmesini "
 "gerektirir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Whether you use GNU/Linux or not, please don't confuse the public by using "
 "the name &ldquo;Linux&rdquo; ambiguously.  Linux is the kernel, one of the "
 "essential major components of the system.  The system as a whole is "
 "basically the GNU system, with Linux added.  When you're talking about this "
-"combination, please call it &ldquo;GNU/Linux&rdquo;."
+"combination, please call it &ldquo;GNU/Linux.&rdquo;"
 msgstr ""
 "GNU/Linux kullansanız da kullanmasanız da lütfen &ldquo;Linux&rdquo; adını "
 "muğlak bir şekilde kullanarak halkın kafasını karıştırmayın. Linux, sistemin "
@@ -353,26 +353,26 @@ msgstr ""
 "sistem temelde Linux ile birlikte GNU sistemidir. Bu bileşenden söz ederken "
 "lütfen &ldquo;GNU/Linux&rdquo; olarak adlandırın."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "If you want to make a link on &ldquo;GNU/Linux&rdquo; for further reference, "
-"this page and <a href=\"/gnu/the-gnu-project.html\"> http://www.gnu.org/gnu/"
+"this page and <a href=\"/gnu/the-gnu-project.html\"> https://www.gnu.org/gnu/"
 "the-gnu-project.html</a> are good choices.  If you mention Linux, the "
-"kernel, and want to add a link for further reference, <a href=\"http://"
-"foldoc.org/linux\">http://foldoc.org/linux</a> is a good URL to use."
+"kernel, and want to add a link for further reference, <a href=\"https://"
+"foldoc.org/linux\">https://foldoc.org/linux</a> is a good URL to use."
 msgstr ""
 "Daha fazla referans için &ldquo;GNU/Linux&rdquo; hakkında bir bağlantı "
 "vermek istiyorsanız bu sayfa ve <a href=\"/gnu/the-gnu-project.html\">http://"
 "www.gnu.org/gnu/the-gnu-project.html</a> iyi seçimlerdir. Eğer Linux'tan, "
 "çekirdekten, söz ediyorsanız ve daha fazla referans için bir bağlantı "
-"paylaşmak istiyorsanız <a href=\"http://foldoc.org/linux\">http://foldoc.org/"
-"linux</a> kullanışlı bir URL'dir."
+"paylaşmak istiyorsanız <a href=\"http://foldoc.org/linux\">https://foldoc."
+"org/linux</a> kullanışlı bir URL'dir."
 
-#. type: Content of: <div><div><h3>
+#. type: Content of: <div><h3>
 msgid "Postscripts"
 msgstr "Dipnotlar"
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "Aside from GNU, one other project has independently produced a free Unix-"
 "like operating system.  This system is known as BSD, and it was developed at "
@@ -388,7 +388,7 @@ msgstr ""
 "neredeyse kesinlikle ya GNU sisteminin bir türü ya da bir çeşit BSD "
 "sistemidir."
 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><p>
 msgid ""
 "People sometimes ask whether BSD too is a version of GNU, like GNU/Linux.  "
 "The BSD developers were inspired to make their code free software by the "
@@ -410,77 +410,71 @@ msgstr ""
 "BSD geliştiricileri bir çekirdek yazmadı ve GNU sistemine eklemedi ve GNU/"
 "BSD gibi bir isim duruma uymayacaktı.<a href=\"#gnubsd\">(5)</a>"
 
-#. type: Content of: <div><div><h3>
-msgid "Notes"
-msgstr "Notlar"
+#. type: Content of: <div><h3>
+msgid "Footnotes"
+msgstr "Dipnotlar"
 
-#. type: Content of: <div><div><ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
-"<a id=\"unexciting\"></a>These unexciting but essential components include "
-"the GNU assembler (GAS) and the linker (GLD), both are now part of the <a "
-"href=\"/software/binutils/\">GNU Binutils</a> package, <a href=\"/software/"
-"tar/\">GNU tar</a>, and many more."
+"These unexciting but essential components include the GNU assembler (GAS) "
+"and the linker (GLD), both are now part of the <a href=\"/software/binutils/"
+"\">GNU Binutils</a> package, <a href=\"/software/tar/\">GNU tar</a>, and "
+"many more."
 msgstr ""
-"<a id=\"unexciting\"></a>Bu heyecansız ancak gerekli bileşenler GNU "
-"assembler (GAS) ve bağlayıcıyı (GLD), her ikisi de artık <a href=\"/software/"
-"binutils/\">GNU Binutils</a> paketinin bir parçası, <a href=\"/software/tar/"
-"\">GNU tar</a> ve daha pek çok şeyi içerir."
+"Bu heyecansız ancak gerekli bileşenler GNU assembler (GAS) ve bağlayıcıyı "
+"(GLD), her ikisi de artık <a href=\"/software/binutils/\">GNU Binutils</a> "
+"paketinin bir parçası, <a href=\"/software/tar/\">GNU tar</a> ve daha pek "
+"çok şeyi içerir."
 
-#. type: Content of: <div><div><ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
-"<a id=\"nottools\"></a>For instance, The Bourne Again SHell (BASH), the "
-"PostScript interpreter <a href=\"/software/ghostscript/ghostscript.html"
-"\">Ghostscript</a>, and the <a href=\"/software/libc/libc.html\">GNU C "
-"library</a> are not programming tools.  Neither are GNUCash, GNOME, and GNU "
-"Chess."
+"For instance, The Bourne Again SHell (BASH), the PostScript interpreter <a "
+"href=\"/software/ghostscript/ghostscript.html\">Ghostscript</a>, and the <a "
+"href=\"/software/libc/libc.html\">GNU C library</a> are not programming "
+"tools.  Neither are GNUCash, GNOME, and GNU Chess."
 msgstr ""
-"<a id=\"nottools\"></a>Örneğin; Bourne Again SHell (BASH), PostScript "
-"yorumlayıcısı <a href=\"/software/ghostscript/ghostscript.html"
-"\">Ghostscript</a> ve <a href=\"/software/libc/libc.html\">GNU C "
-"kütüphanesi</a> programlama aracı değildir. GNUCash, GNOME ve GNU Chess de "
-"değildir."
+"Örneğin Bourne Again SHell (BASH), PostScript yorumlayıcısı <a href=\"/"
+"software/ghostscript/ghostscript.html\">Ghostscript</a> ve <a href=\"/"
+"software/libc/libc.html\">GNU C kütüphanesi</a> programlama aracı değildir. "
+"GNUCash, GNOME ve GNU Chess de değildir."
 
-#. type: Content of: <div><div><ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
-"<a id=\"somecomponents\"></a>For instance, the <a href=\"/software/libc/libc."
-"html\">GNU C library</a>."
-msgstr ""
-"<a id=\"somecomponents\"></a>Örneğin; <a href=\"/software/libc/libc.html"
-"\">GNU C kütüphanesi</a>."
+"For instance, the <a href=\"/software/libc/libc.html\">GNU C library</a>."
+msgstr "Örneğin <a href=\"/software/libc/libc.html\">GNU C kütüphanesi</a>."
 
-#. type: Content of: <div><div><ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
-"<a id=\"newersystems\"></a>Since that was written, a nearly-all-free Windows-"
-"like system has been developed, but technically it is not at all like GNU or "
-"Unix, so it doesn't really affect this issue.  Most of the kernel of Solaris "
-"has been made free, but if you wanted to make a free system out of that, "
-"aside from replacing the missing parts of the kernel, you would also need to "
-"put it into GNU or BSD."
+"Since that was written, a nearly-all-free Windows-like system has been "
+"developed, but technically it is not at all like GNU or Unix, so it doesn't "
+"really affect this issue.  Most of the kernel of Solaris has been made free, "
+"but if you wanted to make a free system out of that, aside from replacing "
+"the missing parts of the kernel, you would also need to put it into GNU or "
+"BSD."
 msgstr ""
-"<a id=\"newersystems\"></a>Bu yazıldığından beri neredeyse tamamen özgür bir "
-"Windows benzeri sistem geliştirildi ancak teknik olarak hiç GNU veya Unix "
-"gibi değil, bu yüzden bu hususu gerçekten etkilemiyor. Solaris çekirdeğinin "
-"çoğu özgürleştirildi ancak bunun dışında bir sistem yapmak isterseniz, "
-"çekirdeğin eksik kısımlarını değiştirmenin yanı sıra, GNU veya BSD'ye de "
-"koymanız gerekir."
+"Bu yazı yazıldığından beri neredeyse tamamen özgür bir Windows benzeri "
+"sistem geliştirildi ancak teknik olarak hiç GNU veya Unix gibi değil, bu "
+"yüzden bu hususu gerçekten etkilemiyor. Solaris çekirdeğinin çoğu "
+"özgürleştirildi ancak bunun dışında bir sistem yapmak isterseniz, çekirdeğin "
+"eksik kısımlarını değiştirmenin yanı sıra, GNU veya BSD'ye de koymanız "
+"gerekir."
 
-#. type: Content of: <div><div><ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
-"<a id=\"gnubsd\"></a>On the other hand, in the years since this article was "
-"written, the GNU C Library has been ported to several versions of the BSD "
-"kernel, which made it straightforward to combine the GNU system with that "
-"kernel.  Just as with GNU/Linux, these are indeed variants of GNU, and are "
-"therefore called, for instance, GNU/kFreeBSD and GNU/kNetBSD depending on "
-"the kernel of the system.  Ordinary users on typical desktops can hardly "
-"distinguish between GNU/Linux and GNU/*BSD."
+"On the other hand, in the years since this article was written, the GNU C "
+"Library has been ported to several versions of the BSD kernel, which made it "
+"straightforward to combine the GNU system with that kernel.  Just as with "
+"GNU/Linux, these are indeed variants of GNU, and are therefore called, for "
+"instance, GNU/kFreeBSD and GNU/kNetBSD depending on the kernel of the "
+"system.  Ordinary users on typical desktops can hardly distinguish between "
+"GNU/Linux and GNU/*BSD."
 msgstr ""
-"<a id=\"gnubsd\"></a>Öte yandan bu yazının yazılmasından sonraki yıllarda "
-"GNU C Kütüphanesi, GNU sistemini bu çekirdekle birleştirmeyi kolaylaştıran "
-"BSD çekirdeğinin çeşitli sürümlerine taşınmıştır. Tıpkı GNU/Linux'ta olduğu "
-"gibi bunlar aslında GNU'nun çeşitleridir ve bu nedenle mesela sistemin "
-"çekirdeğine bağlı olarak GNU/kFreeBSD ve GNU/kNetBSD olarak adlandırılır. "
-"Tipik masa üstlerindeki sıradan kullanıcılar GNU/Linux ve GNU/*BSD arasında "
-"farkı güçlükle görebilir."
+"Öte yandan bu yazının yazılmasından sonraki yıllarda GNU C Kütüphanesi, GNU "
+"sistemini bu çekirdekle birleştirmeyi kolaylaştıran BSD çekirdeğinin çeşitli "
+"sürümlerine taşınmıştır. Tıpkı GNU/Linux'ta olduğu gibi bunlar aslında "
+"GNU'nun çeşitleridir ve bu nedenle mesela sistemin çekirdeğine bağlı olarak "
+"GNU/kFreeBSD ve GNU/kNetBSD olarak adlandırılır. Tipik masa üstlerindeki "
+"sıradan kullanıcılar GNU/Linux ve GNU/*BSD arasında farkı güçlükle görebilir."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -529,10 +523,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 1997-2002, 2007, 2014-2017, 2019, 2021 Richard M. Stallman"
-msgstr ""
-"Copyright &copy; 1997-2002, 2007, 2014-2017, 2019, 2021 Richard M. Stallman"
+msgid "Copyright &copy; 1997-2002, 2005, 2008, 2019, 2021 Richard Stallman"
+msgstr "Copyright &copy; 1997-2002, 2005, 2008, 2019, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -558,3 +550,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "Notes"
+#~ msgstr "Notlar"
