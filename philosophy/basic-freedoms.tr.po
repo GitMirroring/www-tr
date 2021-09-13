@@ -54,7 +54,7 @@ msgstr ""
 "Nezaket Yasasına karşı birlikte hareket ettik. Siteleri İNY davasının bir "
 "simgesinin kaynağı olarak saklanmıştır."
 
-#. activating this link… site is archived as of July 09, 1998
+#.  activating this link… site is archived as of July 09, 1998 
 #. type: Content of: <div><ul><li>
 msgid ""
 "The <a href=\"https://web.archive.org/web/19980709161803/http://vtw.org/"
@@ -97,7 +97,7 @@ msgstr ""
 "Çevrimiçi İfade, Basın ve Örgütlenme Özgürlüğü için <a href=\"https://www."
 "eff.org/pages/blue-ribbon-campaign\">Mavi Kurdele Kampanyası</a>."
 
-#. activating this link… site is archived as of December 01, 2001
+#.  activating this link… site is archived as of December 01, 2001 
 #. type: Content of: <div><ul><li>
 msgid ""
 "You can read <a href=\"https://web.archive.org/web/20011201050533/http://www."
