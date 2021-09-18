@@ -1444,12 +1444,12 @@ msgid ""
 "really do that.  If neutrality is your goal, &ldquo;FLOSS&rdquo; is better.  "
 "But if you want to show you stand for freedom, don't use a neutral term."
 msgstr ""
-"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖAKY "
-"(FOSS)&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür "
-"yazılım ve açık kaynak arasında tarafsız olmanın</a> bir yolu olarak ortaya "
-"kondu, ama aslında bunu başaramıyor. Eğer tarafsızlık amacınızsa, &ldquo;"
-"ÖLAKK&rdquo; daha iyi bir seçenektir. Ancak eğer özgürlüğün tarafını "
-"tuttuğunuzu göstermek istiyorsanız, tarafsız bir terim kullanmayın."
+"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖAKY (FOSS)"
+"&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür yazılım ve "
+"açık kaynak arasında tarafsız olmanın</a> bir yolu olarak ortaya kondu, ama "
+"aslında bunu başaramıyor. Eğer tarafsızlık amacınızsa, &ldquo;ÖLAKK&rdquo; "
+"daha iyi bir seçenektir. Ancak eğer özgürlüğün tarafını tuttuğunuzu "
+"göstermek istiyorsanız, tarafsız bir terim kullanmayın."
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
@@ -1843,7 +1843,7 @@ msgstr ""
 msgid "&ldquo;MP3 Player&rdquo;"
 msgstr "&ldquo;MP3 Çalar&rdquo;"
 
-#. The MP3 patents will reportedly expire by 2018.
+#.  The MP3 patents will reportedly expire by 2018.  
 #. type: Content of: <div><p>
 msgid ""
 "In the late 1990s it became feasible to make portable, solid-state digital "
