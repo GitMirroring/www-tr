@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-audio-format-matters.html\n"
-"POT-Creation-Date: 2020-07-22 12:25+0000\n"
-"PO-Revision-Date: 2020-07-23 07:31+0200\n"
+"POT-Creation-Date: 2021-09-22 08:26+0000\n"
+"PO-Revision-Date: 2021-09-22 20:25+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,45 +15,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid "Why Audio Format Matters - GNU Project - Free Software Foundation"
 msgstr "Ses Biçimi Neden Önemli - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why Audio Format Matters"
 msgstr "Ses Biçimi Neden Önemli"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "An invitation to audio producers to use Ogg Vorbis alongside MP3"
 msgstr "Ses yapımcılarına MP3 ile birlikte Ogg Vorbis kullanma çağrısı"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by Karl Fogel"
 msgstr "yazan Karl Fogel"
 
-#. type: Content of: <div><blockquote><p>
-msgid ""
-"<a href=\"http://xiph.org/about/\">More information</a> about Xiph.org (the "
-"organization that created Ogg Vorbis) and the importance of free "
-"distribution formats <a href=\"http://xiph.org/about/\">is available</a>."
-msgstr ""
-"Xiph.org (Ogg Vorbis'i oluşturan kuruluş) ve özgür dağıtım biçimlerinin "
-"önemi hakkında <a href=\"http://xiph.org/about/\">daha fazla</a> bilgi <a "
-"href=\"http://xiph.org/about/\">mevcuttur</a>."
-
-#. type: Content of: <div><blockquote><p>
-msgid ""
-"The Free Software Foundation have also produced <a href=\"http://playogg.org"
-"\">a user-friendly guide to installing Ogg Vorbis support in Microsoft "
-"Windows and Apple Mac OS X</a>."
-msgstr ""
-"Özgür Yazılım Vakfı; <a href=\"http://playogg.org\">Microsoft Windows ve "
-"Apple Mac OS X'te Ogg Vorbis desteğini kurmak için kullanıcı dostu bir "
-"kılavuz</a> da hazırladı."
-
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The patents covering MP3 will reportedly all have expired by 2018, but "
 "similar problems will continue to arise as long as patents are permitted to "
@@ -63,7 +43,7 @@ msgstr ""
 "patentlerin yazılım geliştirmeyi kısıtlamasına izin verildiği sürece benzer "
 "sorunlar sürecek."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you produce audio for general distribution, you probably spend 99.9% of "
 "your time thinking about form, content, and production quality, and 0.1% "
@@ -74,7 +54,7 @@ msgstr ""
 "ve %0,1'ini kayıtlarınızı hangi ses biçiminde dağıtacağınızı düşünerek "
 "harcıyorsunuz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And in an ideal world, this would be fine.  Audio formats would be like the "
 "conventions of laying out a book, or like pitches and other building-blocks "
@@ -92,7 +72,7 @@ msgstr ""
 "MP3 biçiminde dağıtmanın sonuçları hakkında kaygılanmanıza gerek "
 "kalmayacaktı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Unfortunately, that is not the world we live in.  MP3 is a patented format.  "
 "What this means is that various companies have government-granted monopolies "
@@ -119,7 +99,7 @@ msgstr ""
 "b) farkında olmayarak patentleri ihlal ediyorsunuz ve teoride bunun için "
 "dava açılabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The harm here goes deeper than just the danger to you.  A software patent "
 "grants one party the exclusive right to use a certain mathematical fact.  "
@@ -135,7 +115,7 @@ msgstr ""
 "öngöremezsiniz. Bu yalnızca soyut bir olasılık değildir: MP3 patentleri "
 "çoklu davalara konu olmuştur ve toplam zarar bir milyar dolardan fazladır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The most important issue here is not about the fees, it's about the freedom "
 "to communicate and to develop communications tools.  Distribution formats "
@@ -148,7 +128,7 @@ msgid ""
 "are free for everyone to use.  But until those same liberties are extended "
 "to newer, less familiar methods (like particular standards for representing "
 "sounds via digital encoding), we who generate audio works must take care "
-"what format we use&nbsp;&mdash;&nbsp;and require our listeners to use."
+"what format we use&mdash;and require our listeners to use."
 msgstr ""
 "Buradaki en önemli sorun ücretler değildir, iletişim ve iletişim araçları "
 "geliştirme özgürlüğü hakkındadır. MP3 gibi dağıtım biçimleri, İnternet'teki "
@@ -161,14 +141,14 @@ msgstr ""
 "olamaz, onlar herkesin kullanması için özgürdür. Ancak bu aynı özgürlükler "
 "daha yeni, daha az bilindik yöntemlere (dijital kodlama yoluyla sesleri "
 "betimlemek için belirli standartlar gibi) genişletilene dek ses yapıtları "
-"üreten bizler hangi biçimi kullandığımıza dikkat etmeli&nbsp;,&nbsp;ve "
+"üreten bizler hangi biçimi kullandığımıza dikkat etmeli ve "
 "dinleyicilerimizin kullanmasını istemeliyiz."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "A way out: Ogg Vorbis format"
 msgstr "Bir çıkış yolu: Ogg Vorbis biçimi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Ogg Vorbis is an alternative to MP3.  It gets high sound quality, can "
 "compress down to a smaller size than MP3 while still sounding good (thus "
@@ -180,7 +160,7 @@ msgstr ""
 "zamandan ve bant genişliği maliyetlerinden tasarruf sağlar) ve en önemlisi "
 "tamamen patentsiz olacak şekilde tasarlanmıştır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You won't sacrifice any technical quality by encoding your audio in Ogg "
 "Vorbis.  The files sound fine, and most players know how to play them.  But "
@@ -194,16 +174,35 @@ msgstr ""
 "zamanda dağıtım biçimlerinde patentsiz standartları kabul ettirmeye yardımcı "
 "olacaksınız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"The Ogg Vorbis home page, <a href=\"https://xiph.org/vorbis/\" >www.vorbis."
-"com</a>, has all the information you need to both listen to and produce "
-"Vorbis-encoded files.  The safest thing, for you and your listeners, would "
-"be to offer Ogg Vorbis files exclusively.  But since there are still some "
-"players that can only handle MP3, and you don't want to lose audience, a "
-"first step is to offer both Ogg Vorbis and MP3, while explaining to your "
-"downloaders (perhaps by linking to this article) exactly why you support Ogg "
-"Vorbis."
+"More information <a href=\"https://xiph.org/about/\">about Xiph.org</a> (the "
+"organization that created Ogg Vorbis) and the importance of free "
+"distribution formats."
+msgstr ""
+"<a href=\"https://xiph.org/about/\">Xiph.org hakkında</a> (Ogg Vorbis'i "
+"oluşturan kuruluş) ve özgür dağıtım biçimlerinin önemi hakkında daha fazla "
+"bilgiye ulaşabilirsiniz."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The Free Software Foundation has produced a user-friendly <a href=\"https://"
+"www.fsf.org/campaigns/playogg/how\">guide to installing Ogg Vorbis support "
+"in Microsoft Windows and Apple Mac OS X</a>."
+msgstr ""
+"Özgür Yazılım Vakfı <a href=\"https://www.fsf.org/campaigns/playogg/how"
+"\">Microsoft Windows ve Apple Mac OS X'te Ogg Vorbis desteğini kurmak için</"
+"a> kullanıcı dostu bir rehber de hazırladı."
+
+#. type: Content of: <div><p>
+msgid ""
+"The <a href=\"https://xiph.org/vorbis/\">Ogg Vorbis home page</a> has all "
+"the information you need to both listen to and produce Vorbis-encoded "
+"files.  The safest thing, for you and your listeners, would be to offer Ogg "
+"Vorbis files exclusively.  But since there are still some players that can "
+"only handle MP3, and you don't want to lose audience, a first step is to "
+"offer both Ogg Vorbis and MP3, while explaining to your downloaders (perhaps "
+"by linking to this article) exactly why you support Ogg Vorbis."
 msgstr ""
 "Ogg Vorbis ana sayfası, <a href=\"https://xiph.org/vorbis/\" >www.vorbis."
 "com</a>, Vorbis olarak kodlanmış dosyaları hem dinlemek hem de üretmek için "
@@ -214,14 +213,14 @@ msgstr ""
 "indirenlere (belki bu yazıya bağlantı vererek) tam olarak neden Ogg Vorbis'i "
 "desteklediğinizi açıklayabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And with Ogg Vorbis, you'll even <em>gain</em> some audience.  Here's how:"
 msgstr ""
 "Ve Ogg Vorbis ile bir miktar dinleyici bile <em>kazanacaksınız</em>. Bunu "
 "yapmanın yolu:"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Up till now, the MP3 patent owners have been clever enough not to harass "
 "individual users with demands for payment.  They know that would stimulate "
@@ -232,14 +231,13 @@ msgid ""
 "However, not everyone is in a position to pay: some of your listeners use "
 "free software programs to play audio files.  Because this software is freely "
 "copied and downloaded, there is no practical way for either the authors or "
-"the users to pay a patent fee&nbsp;&mdash;&nbsp;that is, to pay for the "
-"right to use the mathematical facts that underly the MP3 format.  As a "
-"result, these programs cannot legally implement MP3, even though the tracks "
-"the users want to listen to may themselves be perfectly free! Because of "
-"this situation, some distributors of the GNU/Linux computer operating "
-"system&nbsp;&mdash;&nbsp;which has millions of users worldwide&nbsp;&mdash;"
-"&nbsp;have been unable to include MP3 players in their software "
-"distributions."
+"the users to pay a patent fee&mdash;that is, to pay for the right to use the "
+"mathematical facts that underly the MP3 format.  As a result, these programs "
+"cannot legally implement MP3, even though the tracks the users want to "
+"listen to may themselves be perfectly free! Because of this situation, some "
+"distributors of the GNU/Linux computer operating system&mdash;which has "
+"millions of users worldwide&mdash;have been unable to include MP3 players in "
+"their software distributions."
 msgstr ""
 "MP3 patent sahipleri şimdiye kadar bireysel kullanıcılara ödeme talepleri "
 "ile rahatsız etmeyecek kadar akıllıydılar. Bunun patentler hakkında kamunun "
@@ -250,16 +248,15 @@ msgstr ""
 "herkes ödeme yapacak bir konumda değildir: Dinleyicilerinizden bazıları ses "
 "dosyalarını oynatmak için özgür yazılım programlarını kullanır. Bu yazılım "
 "özgürce kopyalandığından ve indirildiğinden ya yazarların ya da "
-"kullanıcıların patent ücreti ödemeleri&nbsp;,&nbsp;yani MP3 biçiminin "
-"altında yatan matematiksel gerçekleri kullanma hakkını ödemeleri için "
-"kullanışlı hiçbir yol yoktur. Sonuç olarak kullanıcıların dinlemek "
-"istedikleri parçalar kendileri mükemmel bir şekilde özgür olsalar bile bu "
-"programlar bu programlar yasal olarak MP3'ü gerçekleştiremez! Bu durum "
-"nedeniyle dünya çapında milyonlarca kullanıcısı olan&nbsp;,&nbsp;GNU/Linux "
-"işletim sisteminin bazı dağıtıcıları&nbsp;,&nbsp;MP3 oynatıcıları yazılım "
-"dağıtımlarına dâhil edememiştir."
+"kullanıcıların patent ücreti ödemeleri, yani MP3 biçiminin altında yatan "
+"matematiksel gerçekleri kullanma hakkını ödemeleri için kullanışlı hiçbir "
+"yol yoktur. Sonuç olarak kullanıcıların dinlemek istedikleri parçalar "
+"kendileri mükemmel bir şekilde özgür olsalar bile bu programlar bu "
+"programlar yasal olarak MP3'ü gerçekleştiremez! Bu durum nedeniyle dünya "
+"çapında milyonlarca kullanıcısı olan, GNU/Linux işletim sisteminin bazı "
+"dağıtıcıları, MP3 oynatıcıları yazılım dağıtımlarına dâhil edememiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Luckily, you don't have to require such users to engage in civil "
 "disobedience every time they want to listen to your works.  By offering Ogg "
@@ -310,14 +307,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
