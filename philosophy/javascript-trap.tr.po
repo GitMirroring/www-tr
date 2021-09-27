@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-trap.html\n"
-"POT-Creation-Date: 2021-07-18 09:55+0000\n"
-"PO-Revision-Date: 2021-07-18 16:30+0200\n"
+"POT-Creation-Date: 2021-09-27 14:55+0000\n"
+"PO-Revision-Date: 2021-09-27 21:07+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,6 +15,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.4.2\n"
+
+#. type: Content of: <title>
+msgid "The JavaScript Trap - GNU Project - Free Software Foundation"
+msgstr "JavaScript Tuzağı - GNU Projesi - Özgür Yazılım Vakfı"
 
 #. type: Content of: <div><h2>
 msgid "The JavaScript Trap"
