@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: push-copyright-aside.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-01 05:58+0000\n"
-"PO-Revision-Date: 2019-09-08 14:39+0200\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-02 08:19+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Loco-Source-Locale: en_AT\n"
 "X-Loco-Parser: loco_parse_po\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -32,15 +32,15 @@ msgid ""
 msgstr ""
 "Bilim, Telif Hakkını Bir Kenara İtmelidir - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Science must push copyright aside"
 msgstr "Bilim, Telif Hakkını Bir Kenara İtmelidir"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard M. Stallman</strong>"
-msgstr "yazan: <strong>Richard M. Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard M. Stallman"
+msgstr "by Richard M. Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "<em>Many points that lead to a conclusion that software freedom must be "
 "universal often apply to other forms of expressive works, albeit in "
@@ -58,15 +58,7 @@ msgstr ""
 "Özgür Yazılıma ilgi duyan bir çok kişi bu ilkelerin yazılım dışındaki "
 "alanlarda da nasıl uygulanabileceğini merak ediyorlar.</em>"
 
-#. type: Content of: <p>
-msgid ""
-"(This article appeared in <em>Nature</em> magazine's <b>web</b>debates forum "
-"in 2001.)"
-msgstr ""
-"(Bu yazı 2001 yılında <em>Nature</em> dergisinin <b>ağ</b> tartışmaları "
-"forumunda yayınlanmıştır.)"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It should be a truism that the scientific literature exists to disseminate "
 "scientific knowledge, and that scientific journals exist to facilitate the "
@@ -78,7 +70,7 @@ msgstr ""
 "gerçektir. Bu nedenle, bilimsel literatürün kullanımına ilişkin kuralların, "
 "bu hedefi gerçekleştirmeye yardımcı olmak için tasarlanması gerekir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The rules we have now, known as copyright, were established in the age of "
 "the printing press, an inherently centralized method of mass-production "
@@ -99,7 +91,7 @@ msgstr ""
 "dergilerin bilgiyi işletmesine ve yaymasına yardımcı oldu. Bu kurallar söz "
 "konusu sisteme uygundur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The modern technology for scientific publishing, however, is the World Wide "
 "Web.  What rules would best ensure the maximum dissemination of scientific "
@@ -116,7 +108,7 @@ msgstr ""
 "deyişle, uygun atıfla bu makaleleri birebir yeniden yayınlama hakkına sahip "
 "olmalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These rules should apply to past as well as future articles, when they are "
 "distributed in electronic form. But there is no crucial need to change the "
@@ -128,21 +120,21 @@ msgstr ""
 "şekliyle mevcut telif hakkı sisteminin değiştirilmesi için hiçbir ciddi "
 "gereksinim yoktur çünkü problem bu alanda değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Unfortunately, it seems that not everyone agrees with the truisms that began "
 "this article. Many journal publishers appear to believe that the purpose of "
 "scientific literature is to enable them to publish journals so as to collect "
 "subscriptions from scientists and students. Such thinking is known as &ldquo;"
-"confusion of the means with the ends&rdquo;."
+"confusion of the means with the ends.&rdquo;"
 msgstr ""
 "Maalesef, öyle görünüyor ki, herkes bu makalenin başındaki gerçeklere "
 "katılmamaktadır. Birçok dergi yayıncısı, bilimsel literatürün hedefinin, "
 "bilim adamlarından ve öğrencilerden üye aidatı toplayarak, dergi "
 "yayınlamalarını olanaklı kılmak olduğuna inanmaktadır. Bu gibi bir düşünce, "
-"“niyetlerle sonuçların karıştırılması” olarak bilinmektedir."
+"&ldquo;niyetlerle sonuçların karıştırılması&rdquo; olarak bilinmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Their approach has been to restrict access even to read the scientific "
 "literature to those who can and will pay for it. They use copyright law, "
@@ -155,7 +147,7 @@ msgstr ""
 "İnternet için uygun olmasalar bile hâlâ yürürlükte olan telif hakkı kanununu "
 "kullanmaktadırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For the sake of scientific cooperation and humanity's future, we must reject "
 "that approach at its root&mdash;not merely the obstructive systems that have "
@@ -165,7 +157,7 @@ msgstr ""
 "reddetmeliyiz, yalnızca kurulmuş engelleyici sistemleri değil ayrıca onları "
 "esinlendiren hatalı önceliklerini de reddetmeliyiz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Journal publishers sometimes claim that online access requires expensive "
 "high-powered server machines, and that they must charge access fees to pay "
@@ -185,7 +177,7 @@ msgstr ""
 "kaybolmasına karşı koruma sağlarken, İnternet bant genişliği ihtiyaçlarını "
 "azaltacak ve daha hızlı erişim sağlayacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Publishers also argue that paying the editors requires charging for access.  "
 "Let us accept the assumption that editors must be paid; this tail need not "
@@ -201,7 +193,7 @@ msgstr ""
 "%3'ü arasındadır. Maliyetin bu gibi küçük bir yüzdesi, sonuçların "
 "kullanımının engellenmesini oldukça zor haklı gösterebilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Instead, the cost of editing could be recovered, for example, through page "
 "charges to the authors, who can pass these on to the research sponsors.  The "
@@ -224,7 +216,7 @@ msgstr ""
 "sahip olmayan bir yazar, kurum-temelli yazarlardan zorla toplanan "
 "maliyetlerle birlikte sayfa ücretlerinden muaf tutulmalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another justification for access fees to online publications is to fund "
 "conversion of the print archives of a journal into online form. That work "
@@ -241,81 +233,87 @@ msgstr ""
 "sayısal hale getirilmesi ve erişimin kısıtlanmasıyla bunların çöpe atılması "
 "kötü bir durumdur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The US Constitution says that copyright exists &ldquo;to promote the "
-"Progress of Science&rdquo;. When copyright impedes the progress of science, "
+"Progress of Science.&rdquo; When copyright impedes the progress of science, "
 "science must push copyright out of the way."
 msgstr ""
-"ABD Anayasası, telif hakkının amacının “Bilimin İlerlemesini desteklemek” "
-"olduğunu söylemektedir. Telif hakkı bilimin ilerlemesine engel olduğunda, "
-"bilim, telif hakkını bir kenara itmelidir."
+"ABD Anayasası, telif hakkının amacının &ldquo;Bilimin İlerlemesini "
+"desteklemek&rdquo; olduğunu söylemektedir. Telif hakkı bilimin ilerlemesine "
+"engel olduğunda, bilim, telif hakkını bir kenara itmelidir."
 
-#. type: Content of: outside any tag (error?)
-msgid "Later developments:"
-msgstr "Sonraki gelişmeler:"
+#. type: Content of: <div><h3>
+msgid "Later developments"
+msgstr "Sonraki gelişmeler"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some universities have adopted policies to thwart the journal publishers' "
-"power. For instance, here is MIT's."
+"power. For instance, look at <a href=\"https://libraries.mit.edu/scholarly/"
+"mit-open-access/open-access-policy/\"> MIT Faculty Open Access Policy</a>.  "
+"Stronger policies are needed, however, as this one permits individual "
+"authors to &ldquo;opt out&rdquo; (i.e., cave in)."
 msgstr ""
-"Bazı üniversiteler dergi yayıncılarının gücünü zorlayacak politikalar "
-"benimsemiştir. Burada MIT'yi örnek olarak verebiliriz."
+"Bazı üniversiteler dergi yayınevlerinin gücünü engellemek için politikalar "
+"benimsediler. Örneğin, a href=\"https://libraries.mit.edu/scholarly/mit-open-"
+"access/open-access-policy/\"> MIT Üniversitesi Açık Erişim Politikası</a>na "
+"bakabilirsiniz. Daha güçlü politikalar gerekiyor, yine de, bu bireysel "
+"yazarların &ldquo;çekilmesine&ldquo; (yani teslim olmasına) izin veriyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"<a href=\"https://libraries.mit.edu/scholarly/mit-open-access/open-access-"
-"policy/\"> https://libraries.mit.edu/scholarly/mit-open-access/open-access-"
-"policy/</a>.  Stronger policies are needed, however, as this one permits "
-"individual authors to \"opt out\" (i.e., cave in)."
+"The US government has imposed a requirement known as &ldquo;public "
+"access&rdquo; on some funded research.  This requires publication within a "
+"certain period in a site that allows anyone to view the article.  This "
+"requirement is a positive step, but inadequate because it does not include "
+"freedom to redistribute the article."
 msgstr ""
-"<a href=\"https://libraries.mit.edu/scholarly/mit-open-access/open-access-"
-"policy/\"> https://libraries.mit.edu/scholarly/mit-open-access/open-access-"
-"policy/</a>. Daha güçlü politikalar gerekiyor, yine de, bu bireysel "
-"yazarların \"çekilmesine\" (yani boyun eğmesine) izin veriyor."
+"ABD hükümeti bazı fonladığı araştırmalar için &ldquo;kamusal erişim&rdquo; "
+"olarak bilinen gereksinimi dayatmıştır. Bu, bir sitedeki yayına herkes için "
+"belirli bir süre boyunca görüntüleme hakkı gerektiriyor. Bu gereksinim "
+"olumlu bir adımdır ama yetersizdir. Çünkü makalenin yeniden dağıtımı "
+"özgürlüğünü barındırmıyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The US government has imposed a requirement known as \"public access\" on "
-"some funded research.  This requires publication within a certain period in "
-"a site that allows anyone to view the article.  This requirement is a "
-"positive step, but inadequate because it does not include freedom to "
-"redistribute the article."
+"Curiously, the concept of &ldquo;open access&rdquo; in the 2002 Budapest "
+"Open Access Initiative did include freedom to redistribute.  I signed that "
+"declaration, despite my distaste for the word &ldquo;open\", because the "
+"substance of the position was right."
 msgstr ""
-"ABD hükümeti bazı fonladığı araştırmalar için \"kamusal erişim\" olarak "
-"bilinen gereksinimi dayatmıştır. Bu, bir sitedeki yayına herkes için belirli "
-"bir süre boyunca görüntüleme hakkı gerektiriyor. Bu gereksinim olumlu bir "
-"adımdır ama yetersizdir. Çünkü makalenin yeniden dağıtımı özgürlüğünü "
-"barındırmıyor."
+"İlginç bir biçimde, 2002 Budapeşte Açık Erişim Girişiminin &ldquo;açık "
+"erişim&rdquo; kavramı yeniden dağıtım özgürlüğünü içeriyordu. Bu bildirgeyi, "
+"&ldquo;açık&rdquo; kelimesinden hoşnutsuzluğuma rağmen, görüşün özünü doğru "
+"bulduğum için ben de imzaladım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Curiously, the concept of \"open access\" in the 2002 Budapest Open Access "
-"Initiative did include freedom to redistribute.  I signed that declaration, "
-"despite my distaste for the word \"open\", because the substance of the "
-"position was right."
+"However, the word &ldquo;open&rdquo; had the last laugh: influential "
+"campaigners for &ldquo;open access&rdquo; subsequently dropped freedom to "
+"redistribute from their goals.  I stand by the position of the <a href="
+"\"https://www.budapestopenaccessinitiative.org/\">BOAI</a>, but now that "
+"&ldquo;open access&rdquo; means something else, I refer to it as &ldquo;"
+"redistributable publication&rdquo; or &ldquo;free-to-mirror publication."
+"&rdquo;"
 msgstr ""
-"İlginç bir biçimde, 2002 Budapeşte Açık Erişim Girişiminin \"açık erişim\" "
-"kavramı yeniden dağıtım özgürlüğünü içeriyordu. Bu bildirgeyi, \"açık\" "
-"kelimesinden hoşnutsuzluğuma rağmen, görüşün özünü doğru bulduğum için ben "
-"de imzaladım."
+"Ancak, son gülen &ldquo;açık&rdquo; kelimesi oldu: &ldquo;açık erişim&rdquo; "
+"için kampanya yürüten etkili kişiler daha sonra yeniden dağıtım özgürlüğünü "
+"kendi amaçları içerisinden kaldırdılar. <a href=\"https://www."
+"budapestopenaccessinitiative.org/\">BOAI</a> görüşünü savunmaya devam "
+"ediyorum ama şimdi &ldquo;açık erişim&rdquo; başka bir anlama geliyor, ben "
+"bu ifadeyle &ldquo;yeniden dağıtılabilir yayın&rdquo; veya &ldquo;yansılama "
+"özgürlüğü olan yayın&rdquo; anlamlarını kastediyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"However, the word \"open\" had the last laugh: influential campaigners for "
-"\"open access\" subsequently dropped freedom to redistribute from their "
-"goals.  I stand by the position of the <a href=\"http://www."
-"budapestopenaccessinitiative.org/\">BOAI</a>, but now that \"open access\" "
-"means something else, I refer to it as \"redistributable publication\" or "
-"\"free-to-mirror publication\"."
+"This article appeared in <a href=\"https://web.archive.org/"
+"web/20050729110347/http://www.nature.com/nature/debates/e-access/Articles/"
+"stallman.html\"> <cite>Nature WebDebates</cite></a> in 2001."
 msgstr ""
-"Ancak, son gülen \"açık\" kelimesi oldu: \"açık erişim\" için kampanya "
-"yürüten etkili kişiler daha sonra yeniden dağıtım özgürlüğünü kendi amaçları "
-"içerisinden kaldırdılar. <a href=\"http://www.budapestopenaccessinitiative."
-"org/\">BOAI</a> görüşünü savunmaya devam ediyorum ama şimdi \"açık erişim\" "
-"başka bir anlama geliyor, ben bu ifadeyle \"yeniden dağıtılabilir yayın\" "
-"veya \"yansılama özgürlüğü olan yayın\" anlamlarını kastediyorum."
+"Bu yazı 2001 yılında <a href=\"https://web.archive.org/web/20050729110347/"
+"http://www.nature.com/nature/debates/e-access/Articles/stallman.html\"> "
+"<cite>Nature WebDebates</cite></a>'te yayınlandı."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -343,14 +341,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -364,9 +362,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2001, 2012, 2015, 2016, 2017, 2018 Richard M. Stallman"
-msgstr ""
-"Copyright &copy; 2001, 2012, 2015, 2016, 2017, 2018 Richard M. Stallman"
+msgid "Copyright &copy; 2001, 2010-2012, 2021 Richard M. Stallman"
+msgstr "Copyright &copy; 2001, 2010-2012, 2021 Richard M. Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -395,3 +392,17 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "(This article appeared in <em>Nature</em> magazine's <b>web</b>debates "
+#~ "forum in 2001.)"
+#~ msgstr ""
+#~ "(Bu yazı 2001 yılında <em>Nature</em> dergisinin <b>ağ</b> tartışmaları "
+#~ "forumunda yayınlanmıştır.)"
+
+#~ msgid ""
+#~ "Some universities have adopted policies to thwart the journal publishers' "
+#~ "power. For instance, here is MIT's."
+#~ msgstr ""
+#~ "Bazı üniversiteler dergi yayıncılarının gücünü zorlayacak politikalar "
+#~ "benimsemiştir. Burada MIT'yi örnek olarak verebiliriz."

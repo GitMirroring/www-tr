@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: who-does-that-server-really-serve.html\n"
-"POT-Creation-Date: 2020-12-18 05:55+0000\n"
-"PO-Revision-Date: 2021-01-15 19:33+0100\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-02 08:18+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
@@ -23,33 +23,25 @@ msgid ""
 msgstr ""
 "Bu Sunucu Gerçekte Kime Hizmet Ediyor? - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Who does that server really serve?"
 msgstr "Bu sunucu gerçekte kime hizmet ediyor?"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard Stallman</strong>"
-msgstr "yazan <strong>Richard Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "yazan Richard Stallman"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"(The first version was published in <a href=\"http://www.bostonreview.net/"
-"richard-stallman-free-software-DRM\"> Boston Review</a>.)"
+"<em>On the Internet, proprietary software isn't the only way to lose your "
+"computing freedom.  Service as a Software Substitute, or SaaSS, is another "
+"way to give someone else power over your computing.</em>"
 msgstr ""
-"(İlk sürüm <a href=\"http://www.bostonreview.net/richard-stallman-free-"
-"software-DRM\">Boston Review</a>'de yayımlandı.)"
+"<em>İnternet'te, özel mülk yazılım, bilişim özgürlüğünüzü kaybetmenin tek "
+"yolu değildir. Yazılım Yerine Hizmet veya SaaSS, birisine bilişiminiz "
+"üzerinde yetki vermenin bir başka yoludur.</em>"
 
-#. type: Content of: <p>
-msgid ""
-"<strong>On the Internet, proprietary software isn't the only way to lose "
-"your computing freedom.  Service as a Software Substitute, or SaaSS, is "
-"another way to give someone else power over your computing.</strong>"
-msgstr ""
-"<strong>İnternet'te, özel mülk yazılım, bilişim özgürlüğünüzü kaybetmenin "
-"tek yolu değildir. Yazılım Yerine Hizmet veya SaaSS, birisine bilişiminiz "
-"üzerinde yetki vermenin bir başka yoludur.</strong>"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The basic point is, you can have control over a program someone else wrote "
 "(if it's free), but you can never have control over a service someone else "
@@ -61,12 +53,12 @@ msgstr ""
 "ilkesel olarak bir programı çalıştırarak yapabileceğiniz bir hizmeti "
 "kullanmayın."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "SaaSS means using a service implemented by someone else as a substitute for "
 "running your copy of a program.  The term is ours; articles and ads won't "
 "use it, and they won't tell you whether a service is SaaSS.  Instead they "
-"will probably use the vague and distracting term &ldquo;cloud&rdquo;, which "
+"will probably use the vague and distracting term &ldquo;cloud,&rdquo; which "
 "lumps SaaSS together with various other practices, some abusive and some "
 "ok.  With the explanation and examples in this page, you can tell whether a "
 "service is SaaSS."
@@ -79,40 +71,40 @@ msgstr ""
 "terim olan &ldquo;bulut&rdquo;u kullanacaklardır. Bu sayfadaki açıklama ve "
 "örneklerle bir hizmetin SaaSS olup olmadığını anlayabilirsiniz."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Background: How Proprietary Software Takes Away Your Freedom"
 msgstr "Arka Plan: Özel Mülk Yazılım, Özgürlüğünüzü Nasıl Elinizden Alır?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Digital technology can give you freedom; it can also take your freedom "
 "away.  The first threat to our control over our computing came from "
 "<em>proprietary software</em>: software that the users cannot control "
 "because the owner (a company such as Apple or Microsoft)  controls it.  The "
 "owner often takes advantage of this unjust power by inserting malicious "
-"features such as spyware, back doors, and <a href=\"http://DefectiveByDesign."
-"org\">Digital Restrictions Management (DRM)</a> (referred to as &ldquo;"
-"Digital Rights Management&rdquo; in their propaganda)."
+"features such as spyware, back doors, and <a href=\"https://www."
+"defectivebydesign.org\">Digital Restrictions Management (DRM)</a> (referred "
+"to as &ldquo;Digital Rights Management&rdquo; in their propaganda)."
 msgstr ""
 "Dijital teknoloji size özgürlük verebilir; aynı zamanda özgürlüğünüzü "
 "elinizden alabilir. Bilişimimiz üzerindeki denetimimize karşı ilk tehdit "
 "özel mülk yazılımdan geldi: Sahipleri (Apple veya Microsoft gibi bir şirket) "
 "denetlediği için kullanıcıların denetleyemediği yazılımlar. Sahipler; casus "
-"yazılım, arka kapılar ve <a href=\"http://DefectiveByDesign.org\">Dijital "
-"Kısıtlamalar Yönetimi (Digital Restrictions Management [DRM])</a> "
-"(propagandalarında &ldquo;Dijital Haklar Yönetimi [Digital Rights Management]"
-"&rdquo; olarak söz edilir) gibi kötücül özellikleri ekleyerek bu haksız "
-"güçten yararlanırlar."
+"yazılım, arka kapılar ve <a href=\"https://www.defectivebydesign.org"
+"\">Dijital Kısıtlamalar Yönetimi (<abbr title=\"Digital Restrictions "
+"Management\">DRM<abbr>)</a> (propagandalarında &ldquo;Dijital Haklar "
+"Yönetimi [Digital Rights Management]&rdquo; olarak söz edilir) gibi kötücül "
+"özellikleri ekleyerek bu haksız güçten yararlanırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Our solution to this problem is developing <em>free software</em> and "
 "rejecting proprietary software.  Free software means that you, as a user, "
-"have four essential freedoms: (0)&nbsp;to run the program as you wish, (1)"
-"&nbsp;to study and change the source code so it does what you wish, (2)&nbsp;"
-"to redistribute exact copies, and (3)&nbsp;to redistribute copies of your "
-"modified versions.  (See the <a href=\"/philosophy/free-sw.html\">free "
-"software definition</a>.)"
+"have four essential freedoms: (0)&nbsp;to run the program as you wish, "
+"(1)&nbsp;to study and change the source code so it does what you wish, "
+"(2)&nbsp;to redistribute exact copies, and (3)&nbsp;to redistribute copies "
+"of your modified versions.  (See the <a href=\"/philosophy/free-sw.html"
+"\">free software definition</a>.)"
 msgstr ""
 "Bu soruna sunduğumuz çözüm; özgür yazılım geliştirmek ve özel mülk yazılımı "
 "reddetmektir. Özgür yazılım, bir kullanıcı olarak, dört temel özgürlüğe "
@@ -122,7 +114,7 @@ msgstr ""
 "değiştirilmiş sürümlerin kopyalarını yeniden dağıtmak. (<a href=\"/"
 "philosophy/free-sw.html\">Özgür yazılım tanımına</a> bakınız.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With free software, we, the users, take back control of our computing.  "
 "Proprietary software still exists, but we can exclude it from our lives and "
@@ -137,11 +129,11 @@ msgstr ""
 "(Service as a Software Substitute [SaaSS]). Özgürlüğümüz uğruna bunu da "
 "reddetmeliyiz."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "How Service as a Software Substitute Takes Away Your Freedom"
 msgstr "Yazılım Yerine Hizmet, Özgürlüğünüzü Nasıl Elinizden Alır?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Service as a Software Substitute (SaaSS) means using a service as a "
 "substitute for running your copy of a program.  Concretely, it means that "
@@ -163,11 +155,11 @@ msgstr ""
 "üzerinde bilişim faaliyetini yapar ve sonuçları size geri gönderir veya "
 "doğrudan sizin adınıza hareket eder."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What does it mean to say that a given computing activity is <em>your own</"
 "em>? It means that no one else is inherently involved in it.  To clarify the "
-"meaning of &ldquo;inherently involved&rdquo;, we present a thought "
+"meaning of &ldquo;inherently involved,&rdquo; we present a thought "
 "experiment.  Suppose that any free software you might need for the job is "
 "available to you, and whatever data you might need, as well as computers of "
 "whatever speed, functionality and capacity might be required.  Could you do "
@@ -184,7 +176,7 @@ msgstr ""
 "içerisinde, başkasının bilgisayarlarıyla iletişim kurmadan yapabilir "
 "miydiniz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you could, then the activity is <em>entirely your own</em>.  For your "
 "freedom's sake, you deserve to control it.  If you do it by running free "
@@ -199,7 +191,7 @@ msgstr ""
 "olursunuz. Bu senaryoya SaaSS adını veriyoruz ve adaletsiz olduğunu "
 "söylüyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By contrast, if for fundamental reasons you couldn't possibly do that "
 "activity in your own computers, then the activity isn't entirely your own, "
@@ -211,7 +203,7 @@ msgstr ""
 "bu faaliyet açısından uygun olmuyor. Genel olarak, bu faaliyetler "
 "başkalarıyla iletişimi barındırıyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "SaaSS servers wrest control from the users even more inexorably than "
 "proprietary software.  With proprietary software, users typically get an "
@@ -225,7 +217,7 @@ msgstr ""
 "çalışmakta olan kodu incelemeyi zorlaştırır, bu nedenle programın gerçekte "
 "ne yaptığını belirlemek ve değiştirmek zordur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With SaaSS, the users do not have even the executable file that does their "
 "computing: it is on someone else's server, where the users can't see or "
@@ -237,7 +229,7 @@ msgstr ""
 "sunucusundadır. Bu nedenle gerçekte ne yaptığını saptamaları imkânsızdır ve "
 "onu değiştirmek de imkânsızdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Furthermore, SaaSS automatically leads to consequences equivalent to the "
 "malicious features of certain proprietary software."
@@ -245,7 +237,7 @@ msgstr ""
 "Ayrıca SaaSS otomatik olarak belirli özel mülk yazılımların kötücül "
 "özelliklerine eş değer sonuçlara yol açar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For instance, some proprietary programs are &ldquo;spyware&rdquo;: the "
 "program <a href=\"/philosophy/proprietary-surveillance.html\"> sends out "
@@ -263,17 +255,16 @@ msgstr ""
 "kullanıcının hangi kitaplarda, hangi sayfalara baktığını ve ne zaman "
 "olduğunu bildirir. Angry Birds kullanıcının coğrafi konum geçmişini bildirir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Unlike proprietary software, SaaSS does not require covert code to obtain "
 "the user's data.  Instead, users must send their data to the server in order "
 "to use it.  This has the same effect as spyware: the server operator gets "
 "the data&mdash;with no special effort, by the nature of SaaSS.  Amy Webb, "
 "who intended never to post any photos of her daughter, made the mistake of "
-"using SaaSS (Instagram) to edit photos of her.  Eventually <a href=\"http://"
-"www.slate.com/articles/technology/data_mine_1/2013/09/"
-"privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html\"> "
-"they leaked from there</a>."
+"using SaaSS (Instagram) to edit photos of her.  Eventually <a href=\"https://"
+"slate.com/technology/2013/09/privacy-facebook-kids-dont-post-photos-of-your-"
+"kids-on-social-media.html\"> they leaked from there</a>."
 msgstr ""
 "Özel mülk yazılımların aksine SaaSS, kullanıcının verilerini elde etmek için "
 "gizli kod gerektirmez. Bunun yerine kullanıcıların kullanabilmeleri için "
@@ -281,12 +272,11 @@ msgstr ""
 "sahiptir: Sunucu operatörü verileri alır&mdash;SaaSS'nin doğası gereği hiç "
 "bir özel çaba göstermeden. Örneğin, kızının herhangi bir fotoğrafını hiç "
 "yayımlamayı düşünmeyen Amy Webb, fotoğraflarını düzenlemek için SaaSS "
-"(Instagram) kullanarak hata yaptı. Sonunda <a href=\"http://www.slate.com/"
-"articles/technology/data_mine_1/2013/09/"
-"privacy_facebook_kids_don_t_post_photos_of_your_kids_on_social_media.html"
-"\">oradan sızdılar</a>."
+"(Instagram) kullanarak hata yaptı. Sonunda <a href=\"https://slate.com/"
+"technology/2013/09/privacy-facebook-kids-dont-post-photos-of-your-kids-on-"
+"social-media.html\">oradan sızdılar</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Theoretically, homomorphic encryption might some day advance to the point "
 "where future SaaSS services might be constructed to be unable to understand "
@@ -302,7 +292,7 @@ msgstr ""
 "em>; bu, onların gizlice gözetlemeyeceği anlamına gelmez.  Üstelik gizlice "
 "gözetleme SaaSS'ın ikincil adaletsizliklerinden sadece birisidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some proprietary operating systems have a universal back door, permitting "
 "someone to remotely install software changes.  For instance, Windows has a "
@@ -319,7 +309,7 @@ msgstr ""
 "kapıları da vardır; mesela GNU/Linux için Steam istemcisi, geliştiricinin "
 "değiştirilmiş sürümleri uzaktan yüklemesine izin verir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With SaaSS, the server operator can change the software in use on the "
 "server.  He ought to be able to do this, since it's his computer; but the "
@@ -333,7 +323,7 @@ msgstr ""
 "Birisi, kullanıcının bilişiminin nasıl yapıldığına dair sessizce "
 "değişiklikler dayatma gücüne sahiptir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, SaaSS is equivalent to running proprietary software with spyware and a "
 "universal back door.  It gives the server operator unjust power over the "
@@ -343,30 +333,31 @@ msgstr ""
 "kapı ile çalışmasına eş değerdir. Sunucu operatörüne kullanıcının haksız bir "
 "yetki vermesini sağlar ve bu yetki karşı koymamız gereken bir şeydir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "SaaSS and SaaS"
 msgstr "SaaSS ve SaaS"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Originally we referred to this problematical practice as &ldquo;SaaS&rdquo;, "
-"which stands for &ldquo;Software as a Service&rdquo;.  It's a commonly used "
+"Originally we referred to this problematical practice as &ldquo;SaaS,&rdquo; "
+"which stands for &ldquo;Software as a Service.&rdquo; It's a commonly used "
 "term for setting up software on a server rather than offering copies of it "
 "to users, and we thought it described precisely the cases where this problem "
 "occurs."
 msgstr ""
-"Başlangıçta bu sorunlu uygulamaya Hizmet Olarak Yazılım anlamına gelen SaaS "
-"adını verdik. Bu, kullanıcılara kopyalarını sunmak yerine bir sunucuda "
-"yazılım oluşturmak için yaygın olarak kullanılan bir terimdi ve bu sorunun "
-"ortaya çıktığı durumları tam olarak tanımladığını düşündük."
+"Başlangıçta bu sorunlu uygulamaya &ldquo;Hizmet Olarak Yazılım&rdquo; "
+"anlamına gelen &ldquo;SaaS&rdquo; adını verdik. Bu, kullanıcılara "
+"kopyalarını sunmak yerine bir sunucuda yazılım oluşturmak için yaygın olarak "
+"kullanılan bir terimdi ve bu sorunun ortaya çıktığı durumları tam olarak "
+"tanımladığını düşündük."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Subsequently we became aware that the term SaaS is sometimes used for "
 "communication services&mdash;activities for which this issue is not "
 "applicable.  In addition, the term &ldquo;Software as a Service&rdquo; "
 "doesn't explain <em>why</em> the practice is bad.  So we coined the term "
-"&ldquo;Service as a Software Substitute&rdquo;, which defines the bad "
+"&ldquo;Service as a Software Substitute,&rdquo; which defines the bad "
 "practice more clearly and says what is bad about it."
 msgstr ""
 "Daha sonra SaaS teriminin bazen iletişim hizmetleri, bu sorunun "
@@ -376,11 +367,11 @@ msgstr ""
 "şekilde tanımlayan ve bu konuda neyin kötü olduğunu söyleyen &ldquo;Yazılım "
 "Yerine Hizmet&rdquo; terimini kullandık."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Untangling the SaaSS Issue from the Proprietary Software Issue"
 msgstr "SaaSS Sorununu Özel Mülk Yazılım Sorunundan Ayırt Etmek"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "SaaSS and proprietary software lead to similar harmful results, but the "
 "mechanisms are different.  With proprietary software, the mechanism is that "
@@ -393,7 +384,7 @@ msgstr ""
 "dışı olan bir kopyaya sahip olmanız ve kullanmanızdır. SaaSS ile yöntem, "
 "bilişiminizi yapan kopyaya sahip olmamanızdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These two issues are often confused, and not only by accident.  Web "
 "developers use the vague term &ldquo;web application&rdquo; to lump the "
@@ -413,7 +404,7 @@ msgstr ""
 "tüm özgür olmayan yazılımlarla aynı türde bir adaletsizliğe neden olurlar. "
 "Bununla birlikte burada hizmetin kendisinin kullanılması ile ilgileniyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many free software supporters assume that the problem of SaaSS will be "
 "solved by developing free software for servers.  For the server operator's "
@@ -433,7 +424,7 @@ msgstr ""
 "<em>sunucunun kullanıcılarını</em> SaaSS'nin etkilerinden korumaz. Bu "
 "programlar sunucu operatörünü özgürleştirir, sunucunun kullanıcılarını değil."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Releasing the server software source code does benefit the community: it "
 "enables suitably skilled users to set up similar servers, perhaps changing "
@@ -447,7 +438,7 @@ msgstr ""
 "recommendations.html\">GNU Affero GPL'yi sunucularda sıkça kullanılan "
 "programların lisansı olarak kullanmanızı öneririz</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But none of these servers would give you control over computing you do on "
 "it, unless it's <em>your</em> server (one whose software load you control, "
@@ -468,10 +459,10 @@ msgstr ""
 "em> Sizin tarafınızdan sağlanan verilerle, kendi bilişim işleriniz için "
 "başkasının sunucusunu kullanmayın."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This issue demonstrates the depth of the difference between &ldquo;"
-"open&rdquo; and &ldquo;free&rdquo;.  Source code that is open source <a href="
+"open&rdquo; and &ldquo;free.&rdquo; Source code that is open source <a href="
 "\"/philosophy/free-open-overlap.html\">is, nearly always, free</a>.  "
 "However, the idea of an <a href=\"https://opendefinition.org/ossd/\">&ldquo;"
 "open software&rdquo; service</a>, meaning one whose server software is open "
@@ -484,7 +475,7 @@ msgstr ""
 "href=\"https://opendefinition.org/ossd/\">&ldquo;açık yazılım&rdquo; "
 "hizmeti</a> fikri, SaaSS sorununu çözemez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Services are fundamentally different from programs, and the ethical issues "
 "that services raise are fundamentally different from the issues that "
@@ -498,11 +489,11 @@ msgstr ""
 "arent-free-or-nonfree.html\">bir hizmeti &ldquo;özgür&rdquo; veya &ldquo;"
 "özel mülk&rdquo; olarak tanımlamaktan kaçınıyoruz.</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Distinguishing SaaSS from Other Network Services"
 msgstr "SaaSS'yi Diğer Ağ Hizmetlerinden Ayırt Etme"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Which online services are SaaSS? The clearest example is a translation "
 "service, which translates (say) English text into Spanish text.  Translating "
@@ -520,7 +511,7 @@ msgstr ""
 "geçmektedir, bu nedenle bir Yazılım yerine Hizmet veya SaaSS'dir. "
 "Bilişiminiz üzerindeki denetiminizi engellediğinden size karşı hatalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another clear example is using a service such as Flickr or Instagram to "
 "modify a photo.  Modifying photos is an activity that people have done in "
@@ -532,7 +523,7 @@ msgstr ""
 "bilgisayarlarında yıllarca yaptıkları bir işlemdir; bu işlemi kendi "
 "bilgisayarınız yerine denetlemediğiniz bir sunucuda yapmanız, SaaSS'dir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Rejecting SaaSS does not mean refusing to use any network servers run by "
 "anyone other than you.  Most servers are not SaaSS because the jobs they do "
@@ -543,7 +534,7 @@ msgstr ""
 "çünkü yaptıkları işler, kullanıcının kendi bilişimi değil, bir tür "
 "iletişimdir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The original idea of web servers wasn't to do computing for you, it was to "
 "publish information for you to access.  Even today this is what most web "
@@ -563,7 +554,7 @@ msgstr ""
 "sorunlara sahip olabilir veya olmayabilir.) Aynı durum, sohbet grupları gibi "
 "özel olmayan diğer iletişim türleri için de geçerlidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In its essence, social networking is a form of communication and "
 "publication, not SaaSS.  However, a service whose main facility is social "
@@ -573,7 +564,7 @@ msgstr ""
 "becerisi sosyal ağ olan bir hizmette SaaSS olan özellikler veya uzantılar "
 "bulunabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If a service is not SaaSS, that does not mean it is OK.  There are other "
 "ethical issues about services.  For instance, Facebook distributes video in "
@@ -589,7 +580,7 @@ msgstr ""
 "teslim etmeleri için onları cezbederken yanıltıcı bir gizlilik izlenimi "
 "verir. Bunlar önemli ama SaaSS sorunundan farklı hususlardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Services such as search engines collect data from around the web and let you "
 "examine it.  Looking through their collection of data isn't your own "
@@ -604,7 +595,7 @@ msgstr ""
 "hizmeti kullanmak SaaSS değildir. Ancak kendi siteniz için bir arama aracı "
 "kurmak için başkasının sunucusunu kullanmak,<em>SaaSS</em>'dir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Purchasing online is not SaaSS, because the computing isn't <em>your own</"
 "em> activity; rather, it is done jointly by and for you and the store.  The "
@@ -616,7 +607,7 @@ msgstr ""
 "içi alışverişlerde asıl sorun; karşı tarafa paranızla ve diğer kişisel "
 "bilgilerinizle (adınızla başlayarak) güvenip güvenmediğinizdir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Repository sites such as Savannah and SourceForge are not inherently SaaSS, "
 "because a repository's job is publication of data supplied to it."
@@ -624,7 +615,7 @@ msgstr ""
 "Savannah ve SourceForge gibi depo siteleri doğal olarak SaaSS değildir, "
 "çünkü bir deponun görevi kendisine verilen verileri yayımlanmasıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Using a joint project's servers isn't SaaSS because the computing you do in "
 "this way isn't your own.  For instance, if you edit pages on Wikipedia, you "
@@ -640,7 +631,7 @@ msgstr ""
 "denetler ancak kurumların yanı sıra bireyler de bilişimlerini başka birinin "
 "sunucusunda yaparlarsa SaaSS sorunuyla karşılaşırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some sites offer multiple services, and if one is not SaaSS, another may be "
 "SaaSS.  For instance, the main service of Facebook is social networking, and "
@@ -658,7 +649,7 @@ msgstr ""
 "sahiptir. Aynı şekilde Instagram'ı bir fotoğraf göndermek için kullanmak "
 "SaaSS değil; fotoğrafı dönüştürmek için kullanmak SaaSS'dir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Google Docs shows how complex the evaluation of a single service can "
 "become.  It invites people to edit a document by running a large <a href=\"/"
@@ -687,7 +678,7 @@ msgstr ""
 "bilgisayarınızda uygun (tercihen özgür) bir program çalıştırarak "
 "yapabileceğiniz bir şeydir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Using Google Docs through a free editor is rare, of course.  Most often, "
 "people use it through the nonfree JavaScript program, which is bad like any "
@@ -704,7 +695,7 @@ msgstr ""
 "ancak SaaSS ve özel mülk yazılım kullanıcıları için benzer şekilde hatalı "
 "olduklarından dolayı, bunu bilmek çok önemli değil."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Publishing via someone else's repository does not raise privacy issues, but "
 "publishing through Google Docs has a special problem: it is impossible even "
@@ -719,7 +710,7 @@ msgstr ""
 "bir şey yayımlamak için Google Dokümanlar'ı kullanmamalısınız, ancak bunun "
 "nedeni SaaSS sorunu değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The IT industry discourages users from making these distinctions.  That's "
 "what the buzzword &ldquo;cloud computing&rdquo; is for.  This term is so "
@@ -740,7 +731,7 @@ msgstr ""
 "bireysel olarak düşünmeleri gereken uygulamalar hakkında genelleme yapmaya "
 "yönlendirir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If &ldquo;cloud computing&rdquo; has a meaning, it is not a way of doing "
 "computing, but rather a way of thinking about computing: a devil-may-care "
@@ -760,11 +751,11 @@ msgstr ""
 "bulut, berrak düşünmenin önünde bir engeldir. Bilişim hakkında berrak bir "
 "şekilde düşünmek için &ldquo;bulut&rdquo; teriminden kaçınalım."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Renting a Server Distinguished from SaaSS"
 msgstr "Sunucu Kiralamayı SaaSS'den Ayırt Ayırt Etme"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you rent a server (real or virtual), whose software load you have control "
 "over, that's not SaaSS.  In SaaSS, someone else decides what software runs "
@@ -780,7 +771,7 @@ msgstr ""
 "için ne yapması gerektiğini denetlersiniz. Böylece kiralanan sunucu "
 "neredeyse sizin bilgisayarınızdır. Bu hususta, sizin sayılır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <em>data</em> on the rented remote server is less secure than if you had "
 "the server at home, but that is a separate issue from SaaSS."
@@ -788,7 +779,7 @@ msgstr ""
 "Kiralanan uzak sunucudaki <em>veriler</em>, sunucunuzu evde bulundurmanızdan "
 "daha az güvenlidir ancak bu SaaSS'den farklı bir husustur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This kind of server rental is sometimes called &ldquo;IaaS,&rdquo; but that "
 "term fits into a conceptual structure that downplays the issues that we "
@@ -798,11 +789,11 @@ msgstr ""
 "önemli olduğunu düşündüğümüz hususları önemsizleştiren kavramsal bir yapıda "
 "yer alır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Dealing with the SaaSS Problem"
 msgstr "SaaSS Sorunuyla Başa Çıkma"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Only a small fraction of all web sites do SaaSS; most don't raise the "
 "issue.  But what should we do about the ones that raise it?"
@@ -810,7 +801,7 @@ msgstr ""
 "Tüm web sitelerinin yalnızca küçük bir bölümü SaaSS yapar; çoğu sorunu "
 "ortaya çıkarmıyor. Ama sorunu ortaya çıkaranlar hakkında ne yapmalıyız?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "For the simple case, where you are doing your own computing on data in your "
 "own hands, the solution is simple: use your own copy of a free software "
@@ -830,7 +821,7 @@ msgstr ""
 "yüzden bunları kullanmamalısınız. Zamanınız veya paranız ile özgür bir "
 "alternatifin geliştirilmesine katkıda bulunabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What about collaborating with other individuals as a group? It may be hard "
 "to do this at present without using a server, and your group may not know "
@@ -858,13 +849,13 @@ msgstr ""
 "sunucu kullanmanız gerekiyorsa, operatörleri size salt ticari bir ilişkinin "
 "ötesinde güven için bir temel sağlayan bir sunucu kullanın."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, on a longer time scale, we can create alternatives to using "
 "servers.  For instance, we can create a peer-to-peer program through which "
 "collaborators can share data encrypted.  The free software community should "
 "develop distributed peer-to-peer replacements for important &ldquo;web "
-"applications&rdquo;.  It may be wise to release them under the <a href=\"/"
+"applications.&rdquo; It may be wise to release them under the <a href=\"/"
 "licenses/why-affero-gpl.html\"> GNU Affero GPL</a>, since they are likely "
 "candidates for being converted into server-based programs by someone else.  "
 "The <a href=\"/\">GNU project</a> is looking for volunteers to work on such "
@@ -882,11 +873,11 @@ msgstr ""
 "çalışmak için gönüllü arıyor. Diğer özgür yazılım projelerinin "
 "tasarımlarında da bu konuyu dikkate almaya davet ediyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the meantime, if a company invites you to use its server to do your own "
 "computing tasks, don't yield; don't use SaaSS.  Don't buy or install &ldquo;"
-"thin clients&rdquo;, which are simply computers so weak they make you do the "
+"thin clients,&rdquo; which are simply computers so weak they make you do the "
 "real work on a server, unless you're going to use them with <em>your</em> "
 "server.  Use a real computer and keep your data there.  Do your own "
 "computing with your own copy of a free program, for your freedom's sake."
@@ -898,17 +889,21 @@ msgstr ""
 "bilgisayar kullanın ve verilerinizi orada saklayın. Özgürlüğünüz için kendi "
 "bilişim işlerinizi özgür bir programın size ait olan bir kopyası ile yapın."
 
-#. type: Content of: <h3>
-msgid "See also:"
-msgstr "Ayrıca Bkz:"
-
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">The Bug Nobody "
-"is Allowed to Understand</a>."
+"See also: <a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">The "
+"Bug Nobody is Allowed to Understand</a>."
 msgstr ""
-"<a href=\"/philosophy/bug-nobody-allowed-to-understand.html\">Kimsenin "
-"Anlamasına İzin Verilmeyen Hata</a>."
+"Ayrıca bakınız: <a href=\"/philosophy/bug-nobody-allowed-to-understand.html"
+"\">Kimsenin Anlamasına İzin Verilmeyen Hata</a>."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The first version of this article was published in the <a href=\"http://www."
+"bostonreview.net/richard-stallman-free-software-DRM\"> Boston Review</a>."
+msgstr ""
+"Bu yazının ilk sürümü <a href=\"http://www.bostonreview.net/richard-stallman-"
+"free-software-DRM\">Boston Review</a>'de yayımlandı."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -936,14 +931,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -957,8 +952,10 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020 Richard Stallman"
-msgstr "Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020 Richard Stallman"
+msgid ""
+"Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021 Richard Stallman"
+msgstr ""
+"Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -984,6 +981,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "See also:"
+#~ msgstr "Ayrıca Bkz:"
 
 #~ msgid ""
 #~ "The computing is <em>her own</em> because, by assumption, she could, in "

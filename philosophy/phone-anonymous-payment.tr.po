@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: phone-anonymous-payment.html\n"
-"POT-Creation-Date: 2019-01-28 07:56+0000\n"
-"PO-Revision-Date: 2020-05-13 07:28+0200\n"
+"POT-Creation-Date: 2021-10-01 10:56+0000\n"
+"PO-Revision-Date: 2021-10-02 08:04+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,21 +15,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. type: Content of: <title>
 msgid "Anonymous Payment by Phone - GNU Project - Free Software Foundation"
 msgstr "Telefonla Anonim Ödeme - GNU Projesi- Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Anonymous Payment by Phone"
 msgstr "Telefonla Anonim Ödeme"
 
-#. type: Content of: <p>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "yazan Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Here is an idea for an anonymous payment system that would be useful for "
 "some applications."
@@ -37,7 +37,7 @@ msgstr ""
 "İşte, bazı uygulamalar için yararlı olacak anonim bir ödeme sistemi için bir "
 "fikir."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The seller sets up a phone number that charges N dollars per minute to any "
 "caller."
@@ -45,7 +45,7 @@ msgstr ""
 "Satıcı herhangi bir arayan için dakika başına N dolar ücret alan bir telefon "
 "numarası ayarlar."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The customer chooses a code, calls that number (which requires paying N "
 "dollars), and enters the code. A voice-generation system speaks the code "
@@ -55,7 +55,7 @@ msgstr ""
 "girer. Bir sesli yanıt sistemi kodu geri söyler, böylece müşteri kodu "
 "onaylayabilir."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "That code represents a payment of N dollars. The customer enters it in a web "
 "site, or a kiosk, and it constitutes payment for whatever."
@@ -63,7 +63,7 @@ msgstr ""
 "Bu kod, N dolarlık bir ödemeyi betimler. Müşteri; onu bir web sitesine veya "
 "bir kiosk'a girer ve her ne içinse onun ödemesi olur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It should be possible to do this using a phone card on a payphone or anyone "
 "else's telephone."
@@ -97,14 +97,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -118,8 +118,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2018, 2019 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2018, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2018, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
