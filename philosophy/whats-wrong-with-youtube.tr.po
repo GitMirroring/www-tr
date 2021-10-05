@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: whats-wrong-with-youtube.html\n"
-"POT-Creation-Date: 2021-09-16 16:58+0000\n"
-"PO-Revision-Date: 2021-09-18 08:31+0200\n"
+"POT-Creation-Date: 2021-10-04 13:56+0000\n"
+"PO-Revision-Date: 2021-10-05 22:21+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -307,8 +307,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2015-2017, 2019-2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2015-2017, 2019-2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2014-2017, 2019-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2014-2017, 2019-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
