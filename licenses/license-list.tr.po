@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: license-list.html\n"
-"POT-Creation-Date: 2021-05-07 10:55+0000\n"
-"PO-Revision-Date: 2021-05-09 08:13+0200\n"
+"POT-Creation-Date: 2021-10-11 12:56+0000\n"
+"PO-Revision-Date: 2021-10-14 21:21+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -992,11 +992,11 @@ msgstr ""
 msgid ""
 "This is a free software license, and GPL-compatible.  The author has "
 "explained to us that the GPL's options for providing source all mean the "
-"source has been &quot;made available publicly&quot; in their words."
+"source has been &ldquo;made available publicly&rdquo; in their words."
 msgstr ""
 "Bu bir özgür yazılım lisansıdır ve GPL ile uyumludur. Yazar bize GPL'nin "
-"kaynak kodu sağlama seçeneklerinin hepsinin, kendi ifadeleriyle &quot;"
-"herkese açık olarak erişilir kılındığı&quot; anlamına geldiğini açıkladı."
+"kaynak kodu sağlama seçeneklerinin hepsinin, kendi ifadeleriyle &ldquo;"
+"herkese açık olarak erişilir kılındığı&rdquo; anlamına geldiğini açıkladı."
 
 #. type: Content of: <div><dl><dt>
 msgid ""
@@ -5505,8 +5505,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014-2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1999-2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1999-2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
