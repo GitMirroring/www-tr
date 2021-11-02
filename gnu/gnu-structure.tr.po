@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu-structure.html\n"
-"POT-Creation-Date: 2020-10-06 08:26+0000\n"
-"PO-Revision-Date: 2020-05-03 08:55+0200\n"
+"POT-Creation-Date: 2021-11-02 14:27+0000\n"
+"PO-Revision-Date: 2021-11-02 17:15+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -23,27 +23,19 @@ msgid ""
 "Software Foundation"
 msgstr "GNU Projesi'nin Yapısı ve Yönetimi - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The Structure and Administration of the GNU Project"
 msgstr "GNU Projesi'nin Yapısı ve Yönetimi"
 
-#. type: Content of: <address>
+#. type: Content of: <div><h3>
+msgid "Version 1.0.1"
+msgstr "Sürüm 1.0.1"
+
+#. type: Content of: <div><address>
 msgid "by Brandon Invergo and Richard Stallman"
 msgstr "yazanlar Brandon Invergo ve Richard Stallman"
 
-#. type: Content of: <p>
-msgid "<strong>Version 1.0.1</strong>"
-msgstr "<strong>Sürüm 1.0.1</strong>"
-
 #. type: Content of: <div><p>
-msgid ""
-"An <a href=\"/gnu/gnu-structure.org\">Org version</a> of this document is "
-"also available."
-msgstr ""
-"Bu belgenin bir <a href=\"/gnu/gnu-structure.org\">Org sürümü</a> de "
-"mevcuttur."
-
-#. type: Content of: <p>
 msgid ""
 "The GNU Project develops and maintains the <a href=\"/gnu/about-gnu.html"
 "\">GNU operating system</a>.  Through this work, and other related "
@@ -56,7 +48,7 @@ msgstr ""
 "yoluyla özgür yazılım hareketinin temel felsefesi olan <a href=\"/philosophy/"
 "philosophy.html\">yazılım özgürlüğünü</a> destekler ve teşvik eder."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "An operating system consists of many software components that together make "
 "a computer do useful jobs.  It includes code for low-level functionality, "
@@ -64,9 +56,9 @@ msgid ""
 "programs (utilities, tools, applications, and games) that users explicitly "
 "run.  The GNU operating system comprises software across this entire "
 "spectrum.  Many of the programs are specifically developed and released by "
-"the GNU Project; these are termed &ldquo;GNU packages&rdquo;.  The GNU "
-"system also includes components that are <a href=\"/philosophy/categories."
-"html\">free programs</a> released by other developers, outside of the GNU "
+"the GNU Project; these are termed &ldquo;GNU packages.&rdquo; The GNU system "
+"also includes components that are <a href=\"/philosophy/categories.html"
+"\">free programs</a> released by other developers, outside of the GNU "
 "Project."
 msgstr ""
 "Bir işletim sistemi, bir bilgisayarın yararlı işler yapmasını sağlayan "
@@ -80,7 +72,7 @@ msgstr ""
 "<a href=\"/philosophy/categories.html\">özgür program</a> olan bileşenler de "
 "içerir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Just as the programs composing an operating system must work together "
 "coherently, the GNU Project must operate coherently.  Most of the work "
@@ -98,7 +90,7 @@ msgstr ""
 "bir yapı geliştirdik. Hiçbiri yeni değil ama ilk kez hepsini tek bir yerde "
 "belgeliyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation provides many kinds of support (facilities, "
 "services) to the GNU Project.  How that works is outside the scope of this "
@@ -108,11 +100,11 @@ msgstr ""
 "hizmetler) sağlar. Bu desteklerin nasıl işlediği bu belgenin kapsamı "
 "dışındadır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Software Development Structure"
 msgstr "Yazılım Geliştirme Yapısı"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Most of the GNU Project's activity consists of development of software "
 "packages.  Here is how GNU software development is structured."
@@ -120,11 +112,11 @@ msgstr ""
 "GNU Projesi'nin etkinliklerinin çoğu yazılım paketlerinin geliştirilmesinden "
 "oluşmaktadır. GNU'nun yazılım geliştirmesi şu şekilde yapılandırılmıştır."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "The Chief GNUisance"
 msgstr "Baş GNUisance"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Project is led by the Chief GNUisance, Richard Stallman, the founder "
 "of the project.  The Chief GNUisance is responsible in principle for all "
@@ -140,7 +132,7 @@ msgstr ""
 "paketlerini GNU paketi olarak adlandırır veya gerektiğinde hizmetten çıkarır "
 "ve bakımcıları görevlendirir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In practice, the Chief GNUisance delegates many of these decisions and most "
 "of the tasks to others, and only rarely intervenes in the specifics of "
@@ -150,14 +142,14 @@ msgstr ""
 "başkalarına devreder ve bir GNU paketinin geliştirme özelliklerine nadiren "
 "müdahale eder, ve bu genellikle sadece öneri şeklindedir."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Assistant GNUisances"
 msgstr "Yardımcı GNUisance'ler"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"This team, residing at <a href=\"mailto:maintainers@gnu.org"
-"\">maintainers@gnu.org</a>, is available as a first point-of-contact for "
+"This team, residing at <a href=\"mailto:maintainers@gnu.org\">&lt;"
+"maintainers@gnu.org&gt;</a>, is available as a first point-of-contact for "
 "maintainers of GNU Software.  They keep track of development activity across "
 "the entire project, ensuring timely releases, checking that the maintainers "
 "follow GNU's <a href=\"/philosophy/\">philosophy</a> and guidelines, and "
@@ -166,8 +158,8 @@ msgid ""
 "existing package (in which case they can appoint a new maintainer on behalf "
 "of the Chief GNUisance)."
 msgstr ""
-"<a href=\"mailto:maintainers@gnu.org\">maintainers@gnu.org</a> adresiyle "
-"erişilebilir olan bu ekip, GNU Yazılımı sahipleri için ilk irtibat "
+"<a href=\"mailto:maintainers@gnu.org\">&lt;maintainers@gnu.org&gt;</a> "
+"adresiyle erişilebilir olan bu ekip, GNU Yazılımı sahipleri için ilk irtibat "
 "noktasıdır. Tüm proje boyunca geliştirme etkinliklerini takip ederler, "
 "zamanında yayımlar sağlarlar, bakımcıların GNU'nun <a href=\"/philosophy/"
 "\">felsefesini</a> ve yönergelerini izleyip izlemediklerini denetlerler ve "
@@ -176,7 +168,7 @@ msgstr ""
 "geçtiği durumları (bu durumda Baş GNUisance adına yeni bir bakımcı "
 "görevlendirebilirler) da ele alırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "New members are recruited from existing GNU volunteers when needed.  "
 "However, help is often welcome for specific tasks and interested GNU "
@@ -186,11 +178,11 @@ msgstr ""
 "birlikte belirli görevler için yardım genellikle kabul edilir ve ilgili GNU "
 "gönüllüleri temasa geçebilirler."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Package maintainers"
 msgstr "Paket bakımcıları"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Each GNU software package has specific maintainers, appointed by the Chief "
 "GNUisance or the assistant GNUisances.  The package maintainers are "
@@ -204,7 +196,7 @@ msgstr ""
 "GNUisance'ye karşı sorumludur ve GNU Projesi adına üstlendikleri paketleri "
 "geliştirmekle yükümlüdürler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The initial appointment of maintainers is done when a program is <a href=\"/"
 "help/evaluation.html\">accepted as a GNU package</a>.  These are normally "
@@ -214,7 +206,7 @@ msgstr ""
 "html\">GNU paketi olarak kabul edildiğinde</a> yapılır. Bunlar normalde "
 "programı bir GNU paketi yapmayı kabul eden ana geliştiricilerden bazılarıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Over time, maintainers occasionally step down.  In some cases, the sole "
 "maintainer steps down from the role, leaving the package unmaintained.  The "
@@ -231,7 +223,7 @@ msgstr ""
 "paketlerin listesine bakabilirsiniz</a>. Eski bakımcılardan yeni bakımcılar "
 "önermelerini istiyoruz ve bu önerileri dikkatle değerlendiriyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The maintainers of a package often recruit others to contribute to its "
 "development, and delegate some technical decisions to them.  However, the "
@@ -243,7 +235,7 @@ msgstr ""
 "bakımcılar, GNU Projesi'ne karşı sorumluluklarını yerine getirebilmeleri "
 "için paketin tamamı üzerinde yetki sahibi olurlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A maintainer's primary responsibility is to do a good, practical job of "
 "developing and maintaining the program in accord with the GNU Project's "
@@ -261,7 +253,7 @@ msgstr ""
 "görevleri ve bir programın GNU paketi olmasının ne anlama geldiğini "
 "okuyabilirsiniz</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In general, maintainers determine the technical directions that the software "
 "packages take and thus they make the day-to-day decisions for the packages.  "
@@ -279,7 +271,7 @@ msgstr ""
 "verir. Etkilenen paketlerin sahipleri GNU Projesi adına kararı yürütmekle "
 "sorumludur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "More complete information about the specific responsibilities of maintainers "
 "and technical guidance for maintaining GNU software can be found in the <a "
@@ -291,7 +283,7 @@ msgstr ""
 "\">GNU Yazılımı Bakımcıları İçin Bilgiler</a> ve <a href=\"/prep/standards"
 "\">GNU Kodlama Standartları</a> belgelerinde bulunabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We do not require that GNU package maintainers agree with our philosophy, or "
 "approve of our policies&mdash;only to follow them.  Maintainers and "
@@ -303,11 +295,11 @@ msgstr ""
 "bulunanlar; GNU yazılımı üzerinde yaptıkları çalışmalarda felsefemizi, "
 "politikalarımızı ve ara sıra belirli kararlarımızı uygulamalıdır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Support for GNU Package Development"
 msgstr "GNU Paket Geliştirme için Destek"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Several teams provide various kinds of support to the development and "
 "management of GNU packages.  Most of these teams have a coordinator to "
@@ -321,25 +313,25 @@ msgstr ""
 "Baş GNUisance'ye rapor verir. Kuşkuya düşerseniz öneri için <a href=\"mailto:"
 "gvc@gnu.org\">GNU Gönüllü Koordinatörleri</a> ile iletişime geçebilirsiniz."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Software Evaluation"
 msgstr "Yazılım Değerlendirme"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The software evaluation team at <a href=\"mailto:gnueval@gnu.org"
-"\">gnueval@gnu.org</a> evaluates software packages proposed as GNU "
+"The software evaluation team at <a href=\"mailto:gnueval@gnu.org\">&lt;"
+"gnueval@gnu.org&gt;</a> evaluates software packages proposed as GNU "
 "packages.  This involves a careful assessment of the software's "
 "functionality as well as pertinent issues related to software freedom and "
 "how the program fits with the GNU system."
 msgstr ""
-"<a href=\"mailto:gnueval@gnu.org\">gnueval@gnu.org</a> adresindeki yazılım "
-"değerlendirme ekibi, GNU paketleri olarak önerilen yazılım paketlerini "
-"değerlendirir. Bu, yazılımın işlevselliğinin yanı sıra yazılım özgürlüğü ve "
-"programın GNU sistemine nasıl uyduğu ile ilgili konuların dikkatle "
-"değerlendirilmesini içerir."
+"<a href=\"mailto:gnueval@gnu.org\">&lt;gnueval@gnu.org&gt;</a> adresindeki "
+"yazılım değerlendirme ekibi, GNU paketleri olarak önerilen yazılım "
+"paketlerini değerlendirir. Bu, yazılımın işlevselliğinin yanı sıra yazılım "
+"özgürlüğü ve programın GNU sistemine nasıl uyduğu ile ilgili konuların "
+"dikkatle değerlendirilmesini içerir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "New members are recruited from existing GNU volunteers when needed.  Prior "
 "experience with non-GNU software evaluation on Savannah is preferable."
@@ -348,31 +340,31 @@ msgstr ""
 "üzerinde GNU olmayan yazılım değerlendirmesi ile ilgili önceden deneyim "
 "tercih sebebidir."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Software Security Evaluation"
 msgstr "Yazılım Güvenliği Değerlendirmesi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The software security evaluation team at <a href=\"mailto:gnueval-"
-"security@gnu.org\">gnueval-security@gnu.org</a> works with the software "
-"evaluation team.  They determine whether there are any security concerns in "
-"software that has been offered to GNU."
+"security@gnu.org\">&lt;gnueval-security@gnu.org&gt;</a> works with the "
+"software evaluation team.  They determine whether there are any security "
+"concerns in software that has been offered to GNU."
 msgstr ""
-"<a href=\"mailto:gnueval-security@gnu.org\">gnueval-security@gnu.org</a> "
-"adresindeki yazılım güvenliği değerlendirme ekibi, yazılım değerlendirme "
-"ekibiyle birlikte çalışır. GNU'ya sunulan yazılımda herhangi bir güvenlik "
-"sorunu olup olmadığını belirler."
+"<a href=\"mailto:gnueval-security@gnu.org\">&lt;gnueval-security@gnu.org&gt;"
+"</a> adresindeki yazılım güvenliği değerlendirme ekibi, yazılım "
+"değerlendirme ekibiyle birlikte çalışır. GNU'ya sunulan yazılımda herhangi "
+"bir güvenlik sorunu olup olmadığını belirler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "New members are recruited from existing GNU volunteers when needed."
 msgstr "Gerektiğinde, mevcut GNU gönüllülerinden yeni üyeler alınır."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Security Team"
 msgstr "Güvenlik Ekibi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"mailto:security@gnu.org\">Security Team</a> helps to resolve "
 "security bugs in a timely fashion.  If the maintainer of a GNU package fails "
@@ -388,11 +380,11 @@ msgstr ""
 "ve paketin onarılmış bir sürümü yayımlanabilir. Bakımcılar ayrıca güvenlik "
 "ekibinden paketlerinin güvenliğini sağlama konusunda öneri isteyebilirler."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Platform Testers"
 msgstr "Platform Sınayıcıları"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Volunteers behind the <a href=\"//lists.gnu.org/mailman/listinfo/platform-"
 "testers\">platform-testers@gnu.org</a> mailing list test GNU software pre-"
@@ -404,45 +396,46 @@ msgstr ""
 "çalıştığından emin olmak için GNU yazılımının farklı donanım "
 "platformlarındaki ön sürümlerini sınarlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "New volunteers are welcome."
 msgstr "Yeni gönüllüler bekliyoruz."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Mentors"
 msgstr "Danışmanlar"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The GNU Mentors (<a href=\"mailto:mentors@gnu.org\">mentors@gnu.org</a>) "
-"volunteer to provide guidance for new software maintainers."
+"The GNU Mentors at <a href=\"mailto:mentors@gnu.org\">&lt;mentors@gnu.org&gt;"
+"</a> volunteer to provide guidance for new software maintainers."
 msgstr ""
-"GNU Danışmanları (<a href=\"mailto:mentors@gnu.org\">mentors@gnu.org</a>) "
-"yeni yazılım bakımcılarına kılavuzluk etmeye gönüllüdür."
+"GNU Danışmanları (<a href=\"mailto:mentors@gnu.org\">&lt;mentors@gnu.org&gt;"
+"</a>) yeni yazılım bakımcılarına kılavuzluk etmeye gönüllüdür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "We ask long-time GNU maintainers to volunteer."
 msgstr "Uzun süredir GNU bakımcılarından gönüllü olmalarını istiyoruz."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Proofreaders"
 msgstr "Düzeltmenler"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The proofreaders list is available to help GNU package maintainers by "
 "proofreading English text.  To request proofreading, write to <a href="
-"\"mailto:proofreaders@gnu.org\">proofreaders@gnu.org</a>."
+"\"mailto:proofreaders@gnu.org\">&lt;proofreaders@gnu.org&gt;</a>."
 msgstr ""
 "Düzeltmenler listesi, İngilizce metinleri düzelterek GNU paketi "
 "bakımcılarına yardımcı olmak için kullanılabilir. Düzeltme istemek için <a "
-"href=\"mailto:proofreaders@gnu.org\">proofreaders@gnu.org</a> adresine yazın."
+"href=\"mailto:proofreaders@gnu.org\">&lt;proofreaders@gnu.org&gt;</a> "
+"adresine yazın."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Other Teams and Services"
 msgstr "Diğer Ekipler ve Hizmetler"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Several other teams facilitate or manage the day-to-day operations within "
 "the GNU Project, or advance specific goals of the project."
@@ -450,11 +443,11 @@ msgstr ""
 "Diğer birkaç ekip GNU Projesi içindeki günlük işleyişi kolaylaştırır, "
 "yönetir veya projenin belirli hedeflerini geliştirir."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "GNU Advisory Committee"
 msgstr "GNU Danışma Kurulu"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"/contact/gnu-advisory.html\">GNU Advisory Committee</a> (GAC) "
 "exists to provide advice to the Chief GNUisance.  Members of the Advisory "
@@ -468,11 +461,11 @@ msgstr ""
 "Danışma Kurulu genel olarak GNU Projesi adına GNU Projesi'nin sağlığını "
 "izler ve olası tartışma konularını gündeme taşır."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Savannah Hackers"
 msgstr "Savannah Hacker'leri"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"//savannah.gnu.org\">Savannah</a> is the GNU Project's software "
 "forge.  It hosts code repositories, bug reporting tools, mailing list "
@@ -491,11 +484,11 @@ msgstr ""
 "yanı sıra, yazılım işbirliği platformunda barındırılmak üzere GNU olmayan "
 "yazılım başvurularını da değerlendirir."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Webmasters"
 msgstr "Web Yöneticileri"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"/people/webmeisters.html\">GNU Webmasters</a> maintain and "
 "update the web pages at <a href=\"/\">https://www.gnu.org</a>."
@@ -504,7 +497,7 @@ msgstr ""
 "\">https://www.gnu.org</a> adresindeki web sayfalarının bakımından ve "
 "güncellenmesinden sorumludur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Webmasters also answer various kinds of questions sent by the public, "
 "regarding topics such as free software and licenses (when the answer is "
@@ -518,7 +511,7 @@ msgstr ""
 "değerlendirmek ve yansı listesini güncellemek için isteklerin ilk "
 "filtrelemesini yaparlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Webmaster Group is led by the&nbsp;<a href=\"mailto:chief-"
 "webmaster@gnu.org\">Chief Webmaster</a> who reports to&nbsp; the Chief "
@@ -530,11 +523,11 @@ msgstr ""
 "Yeni gönüllüler bekliyoruz. <a href=\"/server/standards/webmaster-quiz.html"
 "\">Gönüllü Web Yöneticisi Sınavı</a>'na bakın."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "Web Translators"
 msgstr "Web Çevirmenleri"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Each language has a translation team, directed by a team coordinator.  See "
 "<a href=\"/server/standards/README.translations.html\">the Guide to "
@@ -549,11 +542,11 @@ msgstr ""
 "veren&nbsp;<a href=\"mailto:web-translators@gnu.org\">GNU Çevirileri "
 "Yöneticisi</a>'ne&nbsp;rapor verir."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "List Helpers"
 msgstr "Liste Yardımcıları"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"//savannah.gnu.org/maintenance/ListHelperAntiSpam/\">Listhelper</"
 "a> is a system for semi-automatically managing spam sent to GNU mailing "
@@ -566,20 +559,21 @@ msgstr ""
 "spam olmadığı tahmin edilen iletilerin kuyruğunu yönetmek için insan "
 "denetleticiler de mevcuttur."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "GNU Volunteer Coordinators"
 msgstr "GNU Gönüllü Koordinatörleri"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"The GNU Volunteer Coordinators (<a href=\"mailto:gvc@gnu.org\">gvc@gnu.org</"
-"a>) help to guide new volunteers towards suitable jobs within the GNU Project"
+"The GNU Volunteer Coordinators at <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu."
+"org&gt;</a> help to guide new volunteers towards suitable jobs within the "
+"GNU Project"
 msgstr ""
-"GNU Gönüllü Koordinatörleri (<a href=\"mailto:gvc@gnu.org\">gvc@gnu.org</"
-"a>), yeni gönüllüleri GNU Projesi içinde uygun işlere yönlendirmeye yardımcı "
-"olmaktadır"
+"GNU Gönüllü Koordinatörleri (<a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu."
+"org&gt;</a>), yeni gönüllüleri GNU Projesi içinde uygun işlere yönlendirmeye "
+"yardımcı olmaktadır"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "New GVC volunteers are welcome, but prior experience volunteering within GNU "
 "(and thus broad knowledge of the GNU Project) is highly recommended."
@@ -588,11 +582,11 @@ msgstr ""
 "bekliyoruz ancak önceden GNU içinde gönüllülük deneyimi olması (ve böylece "
 "GNU Projesi hakkında çok geniş bilgi) oldukça önerilir."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "GNU Education Team"
 msgstr "GNU Eğitim Ekibi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"/education/\">GNU Education Team</a> promotes the adoption of "
 "the GNU Operating System in educational environments.  It also evaluates "
@@ -602,11 +596,11 @@ msgstr ""
 "İşletim Sistemi'nin benimsenmesini teşvik eder. Ayrıca okulları "
 "değerlendirir ve okul yöneticileriyle konuşur."
 
-#. type: Content of: <h4>
+#. type: Content of: <div><h4>
 msgid "GNU Standards Group"
 msgstr "GNU Standartları Grubu"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Standards Group evaluates proposals to update the GNU coding "
 "standards.  Anyone can submit a proposal via the <a href=\"//lists.gnu.org/"
@@ -625,15 +619,15 @@ msgstr ""
 "bir öneri şeklinde sunarlar. Grup ayrıca belgede değişiklik yapmanın yanı "
 "sıra belgeyi web'de güncellemekten de sorumludur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "New volunteers are recruited from existing GNU volunteers when needed."
 msgstr "Gerektiğinde, mevcut GNU gönüllülerinden yeni üyeler alınır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Correcting Errors"
 msgstr "Hataları Düzeltme"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we find errors or omissions in this description of the existing "
 "structure, which are possible since it previously had no centralized "
@@ -650,11 +644,11 @@ msgstr ""
 "Eski sürümleri <a href=\"/gnu/old-gnu-structure/\">bir alt dizinde</a> "
 "saklayacağız."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Future Changes in Administrative Structure"
 msgstr "Yönetsel Yapıda Gelecekteki Değişiklikler"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Changes in the GNU Project administrative structure are decided on by the "
 "Chief GNUisance after starting consultations with GNU contributors, usually "
@@ -668,7 +662,7 @@ msgstr ""
 "amacı; akıllıca bir karar vermek için olası alternatifleri düşünmek ve ne "
 "gibi iyi ve kötü etkileri olacağını öngörmektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To report changes that are adopted, we will update this document, both the "
 "Org version and the HTML version (see previous section), advancing the first "
@@ -678,6 +672,14 @@ msgstr ""
 "(önceki bölüme bakınız) olan bu belgeyi güncelleyeceğiz ve birinci ve/veya "
 "ikinci sürüm numarasını ilerleteceğiz. Eski sürümleri bir alt dizinde "
 "saklayacağız."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"An <a href=\"/gnu/gnu-structure.org\">Org version</a> of this document is "
+"also available."
+msgstr ""
+"Bu belgenin bir <a href=\"/gnu/gnu-structure.org\">Org sürümü</a> de "
+"mevcuttur."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -709,14 +711,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -730,8 +732,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2020 Brandon Invergo and Richard Stallman"
-msgstr "Copyright &copy; 2020 Brandon Invergo and Richard Stallman"
+msgid "Copyright &copy; 2020, 2021 Brandon Invergo and Richard Stallman"
+msgstr "Copyright &copy; 2020, 2021 Brandon Invergo and Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""

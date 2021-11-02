@@ -11,41 +11,41 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: manifesto.html\n"
-"POT-Creation-Date: 2015-06-02 12:55+0000\n"
-"PO-Revision-Date: 2020-04-01 22:17+0300\n"
-"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
+"POT-Creation-Date: 2021-11-02 16:26+0000\n"
+"PO-Revision-Date: 2021-11-02 17:41+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 19.12.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid "The GNU Manifesto - GNU Project - Free Software Foundation"
 msgstr "GNU Bildirisi - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The GNU Manifesto"
 msgstr "GNU Bildirisi"
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
-"The GNU Manifesto (which appears below) was written by <a href=\"http://www."
+"The GNU Manifesto (which appears below) was written by <a href=\"https://www."
 "stallman.org/\">Richard Stallman</a> in 1985 to ask for support in "
 "developing the GNU operating system.  Part of the text was taken from the "
 "original announcement of 1983.  Through 1987, it was updated in minor ways "
 "to account for developments; since then, it seems best to leave it unchanged."
 msgstr ""
-"GNU Bildirisi (aşağıda yer almaktadır) <a href=\"http://www.stallman.org/"
+"GNU Bildirisi (aşağıda yer almaktadır) <a href=\"https://www.stallman.org/"
 "\">Richard Stallman</a> tarafından 1985 yılında GNU işletim sistemini "
 "geliştirmek için destek isteme amacıyla yazılmıştır. Metnin bir kısmı "
 "1983'teki özgün duyurudan alınmıştır. 1987 yılı boyunca, gelişmeleri "
 "açıklamak amacıyla küçük değişikliklere uğramıştır; o tarihten sonra en "
 "iyisi değiştirmeden bırakmaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Since that time, we have learned about certain common misunderstandings that "
 "different wording could help avoid.  Footnotes added since 1993 help clarify "
@@ -55,7 +55,7 @@ msgstr ""
 "anlamaları öğrendik ve bu yanlış anlamaları açıklamak için 1993'ten beri "
 "dipnotlar ekledik."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "If you want to install the GNU/Linux system, we recommend you use one of the "
 "<a href=\"/distros\">100% free software GNU/Linux distributions</a>.  For "
@@ -67,7 +67,7 @@ msgstr ""
 "öneriyoruz. Nasıl katkı sağlarım diyorsanız, <a href=\"/help/help.html"
 "\">http://www.gnu.org/help</a> sayfasına bakabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
 msgid ""
 "The GNU Project is part of the Free Software Movement, a campaign for <a "
 "href=\"/philosophy/free-sw.html\">freedom for users of software</a>.  It is "
@@ -84,25 +84,25 @@ msgstr ""
 "the-point.html\">etik olmayan bir yaklaşımı</a> teşvik etmek için "
 "kullanıyorlar."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "What's GNU? Gnu's Not Unix!"
 msgstr "GNU nedir? Gnu Unix Değildir!"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "GNU, which stands for Gnu's Not Unix, is the name for the complete Unix-"
 "compatible software system which I am writing so that I can give it away "
-"free to everyone who can use it.<a href=\"#f1\">(1)</a> Several other "
-"volunteers are helping me.  Contributions of time, money, programs and "
-"equipment are greatly needed."
+"free to everyone who can use it&#8239;<a class=\"ftn\" href=\"#f1\">[1]</a>. "
+"Several other volunteers are helping me.  Contributions of time, money, "
+"programs and equipment are greatly needed."
 msgstr ""
-"Gnu Unix Değildir [:Gnu’s Not Unix] anlamına gelen GNU, yazmakta olduğum "
-"Unix-uyumlu yazılım sisteminin adıdır, bu yazılımı, kullanabilen herkese "
-"özgür olarak verebilirim<a href=\"#f1\">(1)</a>. Diğer çeşitli gönüllüler "
-"bana yardım etmektedir. Zaman, para, program ve cihaz katkıları büyük ölçüde "
-"gereklidir."
+"Gnu Unix Değildir [Gnu’s Not Unix] anlamına gelen GNU, yazmakta olduğum Unix-"
+"uyumlu yazılım sisteminin adıdır, bu yazılımı, kullanabilen herkese özgür "
+"olarak verebilirim&#8239;<a class=\"ftn\" href=\"#f1\">[1]</a>. Diğer "
+"çeşitli gönüllüler bana yardım etmektedir. Zaman, para, program ve cihaz "
+"katkıları büyük ölçüde gereklidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So far we have an Emacs text editor with Lisp for writing editor commands, a "
 "source level debugger, a yacc-compatible parser generator, a linker, and "
@@ -132,7 +132,7 @@ msgstr ""
 "belgeyi ekleyeceğiz. Sonunda, bir Unix sisteminin sahip olduğu her şeyi ve "
 "daha da fazlasını sağlamayı umuyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "GNU will be able to run Unix programs, but will not be identical to Unix.  "
 "We will make all improvements that are convenient, based on our experience "
@@ -154,7 +154,7 @@ msgstr ""
 "Lisp sistem programlama dilleri olarak mevcut olacaktır. Haberleşme için "
 "İnternet protokollerini, UUCP’yi, MIT Chaosnet’i desteklemeye çalışacağız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "GNU is aimed initially at machines in the 68000/16000 class with virtual "
 "memory, because they are the easiest machines to make it run on.  The extra "
@@ -166,7 +166,7 @@ msgstr ""
 "küçük makineler üzerinde çalışması için fazladan çaba, onu bunlar üzerinde "
 "kullanmak isteyen kimselere kalmıştır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To avoid horrible confusion, please pronounce the <em>g</em> in the word "
 "&ldquo;GNU&rdquo; when it is the name of this project."
@@ -174,11 +174,11 @@ msgstr ""
 "Ciddi bir karışıklığı önlemek için, bu projenin adı olan ‘GNU’ sözcüğündeki "
 "‘G’ harfini dikkatli telaffuz edin."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Why I Must Write GNU"
 msgstr "GNU'yu niçin yazmalıydım"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I consider that the Golden Rule requires that if I like a program I must "
 "share it with other people who like it.  Software sellers want to divide the "
@@ -200,25 +200,25 @@ msgstr ""
 "sonunda çok ileri gittiler: benim irademe karşı bazı şeylerin yapıldığı bir "
 "kurumda kalamazdım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So that I can continue to use computers without dishonor, I have decided to "
 "put together a sufficient body of free software so that I will be able to "
 "get along without any software that is not free.  I have resigned from the "
-"AI Lab to deny MIT any legal excuse to prevent me from giving GNU away.<a "
-"href=\"#f2a\">(2)</a>"
+"AI Lab to deny MIT any legal excuse to prevent me from giving GNU away&#8239;"
+"<a class=\"ftn\" href=\"#f2a\">[2]</a>."
 msgstr ""
 "Bilgisayarları onurlu bir biçimde kullanabilmek amacıyla, yeterli bir bütünü "
 "oluşturacak özgür yazılımları bir araya getirmeye karar verdim. Bunu özgür "
 "olmayan yazılımlar olmadan başaracaktım. MIT'in, GNU'yu yaymayı engelleyecek "
 "herhangi bir yasal durum yaratmasını önlemek için YZ laboratuvarından istifa "
-"ettim.<a href=\"#f2a\">(2)</a>"
+"ettim&#8239;<a class=\"ftn\" href=\"#f2a\">[2]</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Why GNU Will Be Compatible with Unix"
 msgstr "GNU niçin Unix ile Uyumlu Olacaktır"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Unix is not my ideal system, but it is not too bad.  The essential features "
 "of Unix seem to be good ones, and I think I can fill in what Unix lacks "
@@ -230,11 +230,11 @@ msgstr ""
 "eksiklerini tamamlayabilirim. Ve Unix ile uyumlu bir sistem başka birçok "
 "insanın benimseyebileceği şekilde uygun olacaktır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "How GNU Will Be Available"
 msgstr "GNU Nasıl Erişebilir Olacaktır"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "GNU is not in the public domain.  Everyone will be permitted to modify and "
 "redistribute GNU, but no distributor will be allowed to restrict its further "
@@ -249,11 +249,11 @@ msgstr ""
 "verilmeyecektir. GNU’nun tüm sürümlerinin özgür kalacağından emin olmak "
 "isterim."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Why Many Other Programmers Want to Help"
 msgstr "Niçin Başka Birçok Programcı Yardım Etmek İstemektedir"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I have found many other programmers who are excited about GNU and want to "
 "help."
@@ -261,7 +261,7 @@ msgstr ""
 "GNU konusunda heyecanlı olan ve yardım etmek isteyen çok sayıda programcı "
 "ile karşılaştım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many programmers are unhappy about the commercialization of system "
 "software.  It may enable them to make more money, but it requires them to "
@@ -286,7 +286,7 @@ msgstr ""
 "iyiliğe inanmaz hale gelir ve programlamanın yalnızca para kazanmanın bir "
 "yolu olduğuna inanırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By working on and using GNU rather than proprietary programs, we can be "
 "hospitable to everyone and obey the law.  In addition, GNU serves as an "
@@ -303,11 +303,11 @@ msgstr ""
 "Konuştuğum programcıların yaklaşık olarak yarısı için, bu, paranın yerini "
 "alan önemli bir mutluluktur."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "How You Can Contribute"
 msgstr "Nasıl Katkı Sunabilirsiniz"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "(Nowadays, for software tasks to work on, see the <a href=\"http://fsf.org/"
 "campaigns/priority-projects\">High Priority Projects list</a> and the <a "
@@ -324,7 +324,7 @@ msgstr ""
 "help.html\">GNU işletim sistemine yardım etme rehberini</"
 "a>inceleyebilirsiniz.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I am asking computer manufacturers for donations of machines and money.  I'm "
 "asking individuals for donations of programs and work."
@@ -333,7 +333,7 @@ msgstr ""
 "bulunuyorum. Bireylere program ve çalışma konusunda bağışta bulunmaları "
 "konusunda istekte bulunuyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One consequence you can expect if you donate machines is that GNU will run "
 "on them at an early date.  The machines should be complete, ready to use "
@@ -346,7 +346,7 @@ msgstr ""
 "onaylı olmalıdır ve gelişmiş soğutma ya da güç gereksinimi içinde "
 "olmamalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I have found very many programmers eager to contribute part-time work for "
 "GNU.  For most projects, such part-time distributed work would be very hard "
@@ -376,7 +376,7 @@ msgstr ""
 "yakın bir haberleşme gerektirecektir ve küçük ve sıkı bir grup tarafından "
 "üzerinde çalışılacaktır.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If I get donations of money, I may be able to hire a few people full or part "
 "time.  The salary won't be high by programmers' standards, but I'm looking "
@@ -393,19 +393,20 @@ msgstr ""
 "görüyorum, bu insanlar hayatlarını kazanmak için başka bir yol tercih "
 "edebilirler."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Why All Computer Users Will Benefit"
 msgstr "Niçin Tüm Bilgisayar Kullanıcıları Yararlanacaktır"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Once GNU is written, everyone will be able to obtain good system software "
-"free, just like air.<a href=\"#f2\">(3)</a>"
+"free, just like air&#8239;<a class=\"ftn\" href=\"#f2\">[3]</a>."
 msgstr ""
 "GNU yazıldıktan sonra, aynen hava almak gibi herkes iyi sistem yazılımını "
-"ücretsiz bir şekilde edinebilecektir.<a href=\"#f2\">(3)</a>"
+"ücretsiz bir şekilde edinebilecektir&#8239;<a class=\"ftn\" href="
+"\"#f2\">[3]</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This means much more than just saving everyone the price of a Unix license.  "
 "It means that much wasteful duplication of system programming effort will be "
@@ -416,7 +417,7 @@ msgstr ""
 "kopyalama işinden kaçınılması anlamına gelmektedir. Bu çaba, bunun yerine  "
 "projede aşama kaydedilmesi için harcanabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Complete system sources will be available to everyone.  As a result, a user "
 "who needs changes in the system will always be free to make them himself, or "
@@ -431,7 +432,7 @@ msgstr ""
 "böyle kaynakların sahibi olan tek bir programlayıcının ya da firmanın "
 "insafına kalmayacaktır ve değişiklik yapma hakkına sahip olacaklardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Schools will be able to provide a much more educational environment by "
 "encouraging all students to study and improve the system code.  Harvard's "
@@ -447,7 +448,7 @@ msgstr ""
 "ve belirli programları kurmayı reddederek bu kararlılığını korudu. Bundan "
 "çok etkilenmiş ve ilham almıştım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Finally, the overhead of considering who owns the system software and what "
 "one is or is not entitled to do with it will be lifted."
@@ -455,7 +456,7 @@ msgstr ""
 "Son olarak, sistem yazılımına kimin sahip olduğu ve bu yazılımla ne yapılıp "
 "yapılamayacağı özgür hale gelmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Arrangements to make people pay for using a program, including licensing of "
 "copies, always incur a tremendous cost to society through the cumbersome "
@@ -481,7 +482,7 @@ msgstr ""
 "kameralarının konulması ahlaka aykırıdır. Kişi başına vergi alınması ve "
 "maskelerin atılması daha iyidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copying all or parts of a program is as natural to a programmer as "
 "breathing, and as productive.  It ought to be as free."
@@ -490,11 +491,11 @@ msgstr ""
 "nefes almak kadar doğal bir şeydir, aynı zamanda da üretkenliğini artırır. "
 "Bu, özgür olmalıdır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Some Easily Rebutted Objections to GNU's Goals"
 msgstr "Bazı kimseler GNU’nun hedeflerine kolayca karşı çıkmaktadır"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;Nobody will use it if it is free, because that means they "
 "can't rely on any support.&rdquo;</strong>"
@@ -502,7 +503,7 @@ msgstr ""
 "<strong>\"Özgür olursa yazılımı hiç kimse kullanmayacaktır, çünkü bu, "
 "herhangi bir desteğe güvenilmeyeceği anlamına gelmektedir.\"</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;You have to charge for the program to pay for providing the "
 "support.&rdquo;</strong>"
@@ -510,17 +511,18 @@ msgstr ""
 "<strong>\"Desteği sağlamak üzere ödeme yapabilmek için programa ait bir "
 "ücret almalısınız.\"</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "If people would rather pay for GNU plus service than get GNU free without "
 "service, a company to provide just service to people who have obtained GNU "
-"free ought to be profitable.<a href=\"#f3\">(4)</a>"
+"free ought to be profitable&#8239;<a class=\"ftn\" href=\"#f3\">[4]</a>."
 msgstr ""
 "İnsanlar, ek hizmetler içermeyen özgür GNU’yu almaktan ek hizmetleri içeren "
 "GNU'ya ödeme yapmayı tercih ederlerse, GNU’yu özgür olarak edinen insanlara "
-"yalnızca hizmet sağlayan bir firma kârda olacaktır.<a href=\"#f3\">(4)</a>"
+"yalnızca hizmet sağlayan bir firma kârda olacaktır&#8239;<a class=\"ftn\" "
+"href=\"#f3\">[4]</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "We must distinguish between support in the form of real programming work and "
 "mere handholding.  The former is something one cannot rely on from a "
@@ -532,7 +534,7 @@ msgstr ""
 "alınamayan bir şeydir. Probleminiz yeterince sayıda insanda yoksa, satıcı "
 "size kaybolmanızı söyleyecektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "If your business needs to be able to rely on support, the only way is to "
 "have all the necessary sources and tools.  Then you can hire any available "
@@ -552,7 +554,7 @@ msgstr ""
 "bağlanamaz. GNU dünyanın tüm problemlerini ortadan kaldırmaz, yalnızca "
 "bazılarını ortadan kaldırır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Meanwhile, the users who know nothing about computers need handholding: "
 "doing things for them which they could easily do themselves but don't know "
@@ -563,7 +565,7 @@ msgstr ""
 "yapabilecekleri ama nasıl yapacaklarını bilmedikleri şeylerin onlar için "
 "yapılması gibi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Such services could be provided by companies that sell just handholding and "
 "repair service.  If it is true that users would rather spend money and get a "
@@ -581,7 +583,7 @@ msgstr ""
 "hizmete ihtiyaç duymayanlar, hizmete para ödemeden programı "
 "kullanabilmelidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;You cannot reach many people without advertising, and you "
 "must charge for the program to support that.&rdquo;</strong>"
@@ -589,7 +591,7 @@ msgstr ""
 "<strong>\"Reklam vermeden çok sayıda insana ulaşamazsınız ve programı "
 "desteklemek için para ödemelisiniz.\"</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;It's no use advertising a program people can get free.&rdquo;"
 "</strong>"
@@ -597,7 +599,7 @@ msgstr ""
 "<strong>\"İnsanların özgürce sahip olabileceği bir program için reklam "
 "vermenin bir anlamı yoktur.\"</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "There are various forms of free or very cheap publicity that can be used to "
 "inform numbers of computer users about something like GNU.  But it may be "
@@ -615,19 +617,20 @@ msgstr ""
 "için ödeme yapmaya yetecek kadar başarılı olmalıdır. Bu şekilde, yalnızca "
 "reklamdan kâr yapan kullanıcılar program için ödeme yapacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "On the other hand, if many people get GNU from their friends, and such "
 "companies don't succeed, this will show that advertising was not really "
 "necessary to spread GNU.  Why is it that free market advocates don't want to "
-"let the free market decide this?<a href=\"#f4\">(5)</a>"
+"let the free market decide this?&#8239;<a class=\"ftn\" href=\"#f4\">[5]</a>"
 msgstr ""
 "Diğer taraftan, birçok insan GNU’yu arkadaşlarından edinirse ve bu gibi "
 "firmalar başarılı olamazsa, bu durum, GNU’yu yaymak için reklam vermenin "
 "ille de gerekli olmadığını gösterecektir. Niçin özgür piyasanın savunucuları "
-"buna özgür piyasanın karar vermesini istemiyor?<a href=\"#f4\">(5)</a>"
+"buna özgür piyasanın karar vermesini istemiyor?&#8239;<a class=\"ftn\" href="
+"\"#f4\">[5]</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;My company needs a proprietary operating system to get a "
 "competitive edge.&rdquo;</strong>"
@@ -635,7 +638,7 @@ msgstr ""
 "<strong>\"Firmam, rekabetçi bir durum elde etmek için özel mülk bir işletim "
 "sistemine ihtiyaç duymaktadır.\"</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "GNU will remove operating system software from the realm of competition.  "
 "You will not be able to get an edge in this area, but neither will your "
@@ -653,15 +656,17 @@ msgstr ""
 "başka bir şeyle alakalıysa, GNU işletim sistemleri satmak gibi pahalı bir "
 "işe atılmanızı engelleyecektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I would like to see GNU development supported by gifts from many "
-"manufacturers and users, reducing the cost to each.<a href=\"#f5\">(6)</a>"
+"manufacturers and users, reducing the cost to each&#8239;<a class=\"ftn\" "
+"href=\"#f5\">[6]</a>."
 msgstr ""
 "Her birine ilişkin maliyeti düşürerek birçok kullanıcıdan ve üreticiden "
-"gelen hediyelerle GNU’nun gelişimini görmek isterdim.<a href=\"#f5\">(6)</a>"
+"gelen hediyelerle GNU’nun gelişimini görmek isterdim&#8239;<a class=\"ftn\" "
+"href=\"#f5\">[6]</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;Don't programmers deserve a reward for their creativity?"
 "&rdquo;</strong>"
@@ -669,7 +674,7 @@ msgstr ""
 "<strong>\"Programcılar yaratıcılıkları için bir ödülü hak etmezler mi?\"</"
 "strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "If anything deserves a reward, it is social contribution.  Creativity can be "
 "a social contribution, but only in so far as society is free to use the "
@@ -683,7 +688,7 @@ msgstr ""
 "hak ediyorlarsa, aynı mantıkla, bu programların kullanılmasını "
 "kısıtlarlarsa, cezalandırılmayı da hak ederler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;Shouldn't a programmer be able to ask for a reward for his "
 "creativity?&rdquo;</strong>"
@@ -691,7 +696,7 @@ msgstr ""
 "<strong>\"Bir programcı yaratıcılığı için ödül isteme hakkına sahip olmamalı "
 "mıdır?\"</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "There is nothing wrong with wanting pay for work, or seeking to maximize "
 "one's income, as long as one does not use means that are destructive.  But "
@@ -702,7 +707,7 @@ msgstr ""
 "yoktur. Ancak günümüzde yazılım konusunda alışılageldik yollarda zarar "
 "verici bir durum vardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Extracting money from users of a program by restricting their use of it is "
 "destructive because the restrictions reduce the amount and the ways that the "
@@ -715,7 +720,7 @@ msgstr ""
 "Bu, insanlığın programdan edinebileceği zenginliği azaltır. Kasıtlı bir "
 "kısıtlama durumu söz konusu olduğunda, bunun sonucu da kasıtlı zarardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The reason a good citizen does not use such destructive means to become "
 "wealthier is that, if everyone did so, we would all become poorer from the "
@@ -733,11 +738,11 @@ msgstr ""
 "birinin yaratıcılığı için ödüllendirilmesi isteği, genel olarak bu "
 "yaratıcılığın tamamından ya da bir kısmından mahrum kalınmasını haklı kılmaz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid "<strong>&ldquo;Won't programmers starve?&rdquo;</strong>"
 msgstr "<strong>\"Programlayıcılar açlıktan ölmeyecek midir?\"</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "I could answer that nobody is forced to be a programmer.  Most of us cannot "
 "manage to get any money for standing on the street and making faces.  But we "
@@ -749,7 +754,7 @@ msgstr ""
 "olarak, caddede durup gülümseyerek açlıktan öldüğümüz için kınanmayız. Başka "
 "bir şeyler yaparız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "But that is the wrong answer because it accepts the questioner's implicit "
 "assumption: that without ownership of software, programmers cannot possibly "
@@ -759,7 +764,7 @@ msgstr ""
 "etmektedir: yazılımın sahibi değilse, programcılara bir kuruş bile ödenemez. "
 "Bu, ya hep ya hiçtir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The real reason programmers will not starve is that it will still be "
 "possible for them to get paid for programming; just not paid as much as now."
@@ -768,22 +773,23 @@ msgstr ""
 "için programcılara para ödenecek olmasının hâlâ mümkün olmasıdır; ancak "
 "şimdiki kadar çok ödeme yapılmayacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Restricting copying is not the only basis for business in software.  It is "
-"the most common basis<a href=\"#f8\">(7)</a> because it brings in the most "
-"money.  If it were prohibited, or rejected by the customer, software "
-"business would move to other bases of organization which are now used less "
-"often.  There are always numerous ways to organize any kind of business."
+"the most common basis&#8239;<a class=\"ftn\" href=\"#f8\">[7]</a> because it "
+"brings in the most money.  If it were prohibited, or rejected by the "
+"customer, software business would move to other bases of organization which "
+"are now used less often.  There are always numerous ways to organize any "
+"kind of business."
 msgstr ""
 "Kopyalamanın kısıtlanması, yazılım piyasasında iş yapılmasının tek temeli "
-"değildir. Bu en yaygın temeldir<a href=\"#f8\">(7)</a> çünkü en çok parayı "
-"bu getirmektedir. Yasaklanmış ya da müşteri tarafından reddedilmiş olsaydı, "
-"yazılım işi, şimdi daha az kullanılan organizasyon temellerine doğru "
-"kayardı. Herhangi bir iş tipini organize etmek için her zaman çeşitli yollar "
-"mevcuttur."
+"değildir. Bu en yaygın temeldir&#8239;<a class=\"ftn\" href=\"#f8\">[7]</a> "
+"çünkü en çok parayı bu getirmektedir. Yasaklanmış ya da müşteri tarafından "
+"reddedilmiş olsaydı, yazılım işi, şimdi daha az kullanılan organizasyon "
+"temellerine doğru kayardı. Herhangi bir iş tipini organize etmek için her "
+"zaman çeşitli yollar mevcuttur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Probably programming will not be as lucrative on the new basis as it is "
 "now.  But that is not an argument against the change.  It is not considered "
@@ -797,7 +803,7 @@ msgstr ""
 "aynısını yapsaydı, bu da bir haksızlık olmayacaktı. (Uygulamada, hâlâ bundan "
 "çok daha fazlasını gerçekleştireceklerdi.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;Don't people have a right to control how their creativity is "
 "used?&rdquo;</strong>"
@@ -805,7 +811,7 @@ msgstr ""
 "<strong>\"İnsanlar yaratıcılıklarının nasıl kullanıldığını kontrol etme "
 "hakkına sahip değil midir?\"</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "&ldquo;Control over the use of one's ideas&rdquo; really constitutes control "
 "over other people's lives; and it is usually used to make their lives more "
@@ -815,21 +821,21 @@ msgstr ""
 "hayatları üzerinde kontrol oluşturur ve genellikle yaşamlarını daha zor hale "
 "getirmek için kullanılır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
-"People who have studied the issue of intellectual property rights<a href="
-"\"#f6\">(8)</a> carefully (such as lawyers) say that there is no intrinsic "
-"right to intellectual property.  The kinds of supposed intellectual property "
-"rights that the government recognizes were created by specific acts of "
-"legislation for specific purposes."
+"People who have studied the issue of intellectual property rights&#8239;<a "
+"class=\"ftn\" href=\"#f6\">[8]</a> carefully (such as lawyers) say that "
+"there is no intrinsic right to intellectual property.  The kinds of supposed "
+"intellectual property rights that the government recognizes were created by "
+"specific acts of legislation for specific purposes."
 msgstr ""
-"Fikri mülkiyet [:intellectual property] <a href=\"#f6\">(8)</a> hakları "
-"üzerine dikkatli bir şekilde çalışan insanlar (avukatlar gibi) fikri "
-"mülkiyete ilişkin hiçbir içkin hakkın olmadığını söyler. Hükümetin tanıdığı "
-"fikri mülkiyet hakları, özel amaçlar için yasama organları tarafından "
+"Fikri mülkiyet&#8239;<a class=\"ftn\" href=\"#f6\">[8]</a> hakları üzerine "
+"dikkatli bir şekilde çalışan insanlar (avukatlar gibi) fikri mülkiyete "
+"ilişkin hiçbir içkin hakkın olmadığını söyler. Hükümetin tanıdığı fikri "
+"mülkiyet hakları, özel amaçlar için yasama organları tarafından "
 "oluşturulmuştur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "For example, the patent system was established to encourage inventors to "
 "disclose the details of their inventions.  Its purpose was to help society "
@@ -849,7 +855,7 @@ msgstr ""
 "için, patentler, genellikle çok zarar verici değildir. Patentli ürünleri "
 "kullanan birçok bireyi engellemezler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The idea of copyright did not exist in ancient times, when authors "
 "frequently copied other authors at length in works of nonfiction.  This "
@@ -868,7 +874,7 @@ msgstr ""
 "olarak yalnızca bir baskıda kopyalanabilen kitaplar az zarar vericiydi ve "
 "kitapları okuyan bireylerin çoğunu engellemedi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "All intellectual property rights are just licenses granted by society "
 "because it was thought, rightly or wrongly, that society as a whole would "
@@ -882,7 +888,7 @@ msgstr ""
 "gereken soru şudur: bu gibi bir lisansın verilmesiyle daha mı iyi olacağız? "
 "Bir kimsenin yapması gereken bir hareketi nasıl lisanslıyoruz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The case of programs today is very different from that of books a hundred "
 "years ago.  The fact that the easiest way to copy a program is from one "
@@ -901,14 +907,14 @@ msgstr ""
 "olarak zarar verme durumudur; bir kimse kanunların mümkün kılıp "
 "kılmamasından bağımsız olarak bunu yapmamalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;Competition makes things get done better.&rdquo;</strong>"
 msgstr ""
 "<strong>\"Rekabet bazı şeylerin daha iyi bir şekilde yapılmasını sağlar.\"</"
 "strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The paradigm of competition is a race: by rewarding the winner, we encourage "
 "everyone to run faster.  When capitalism really works this way, it does a "
@@ -927,7 +933,7 @@ msgstr ""
 "örneğin, diğer koşuculara saldırabilirler. Koşucular ciddi bir kavgaya "
 "tutuşurlarsa, hepsi de yarışı geç bitireceklerdir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Proprietary and secret software is the moral equivalent of runners in a fist "
 "fight.  Sad to say, the only referee we've got does not seem to object to "
@@ -942,7 +948,7 @@ msgstr ""
 "Gerçekte yapması gereken kavga edenleri ayırmak ve dövüşmeye çalışan "
 "koşucuları cezalandırmak olmalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;Won't everyone stop programming without a monetary incentive?"
 "&rdquo;</strong>"
@@ -950,7 +956,7 @@ msgstr ""
 "<strong>\"Maddi bir hedefi olmayınca herkes program yapmayı durdurmayacak "
 "mıdır?\"</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Actually, many people will program with absolutely no monetary incentive.  "
 "Programming has an irresistible fascination for some people, usually the "
@@ -963,7 +969,7 @@ msgstr ""
 "şekilde para kazanamadıklarını düşünseler bile, müzik işine devam eden çok "
 "sayıda profesyonel müzisyen vardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "But really this question, though commonly asked, is not appropriate to the "
 "situation.  Pay for programmers will not disappear, only become less.  So "
@@ -976,7 +982,7 @@ msgstr ""
 "göre mi programlama yapacaktır? Benim tecrübelerim durumun böyle olacağını "
 "göstermektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "For more than ten years, many of the world's best programmers worked at the "
 "Artificial Intelligence Lab for far less money than they could have had "
@@ -989,7 +995,7 @@ msgstr ""
 "kazandılar: örneğin, ün ve saygınlık gibi. Ve yaratıcılık da ayrıca bir "
 "eğlence, kendi içinde bir ödüldü."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Then most of them left when offered a chance to do the same interesting work "
 "for a lot of money."
@@ -997,7 +1003,7 @@ msgstr ""
 "Daha sonra birçoğu, aynı ilginç işi çok daha fazla para kazanarak yapmak "
 "için işlerini bıraktı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "What the facts show is that people will program for reasons other than "
 "riches; but if given a chance to make a lot of money as well, they will come "
@@ -1012,7 +1018,7 @@ msgstr ""
 "daha zayıftır ancak yüksek ödeme yapan organizasyonların yasaklanması "
 "durumunda, kötü şeyler yapmaları gerekmez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;We need the programmers desperately.  If they demand that we "
 "stop helping our neighbors, we have to obey.&rdquo;</strong>"
@@ -1020,7 +1026,7 @@ msgstr ""
 "<strong>\"Çaresiz bir şekilde programcılara ihtiyaç duymaktayız. "
 "Komşularımıza yardım etmememizi isterlerse, buna uymamız gerekir.\"</strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "You're never so desperate that you have to obey this sort of demand.  "
 "Remember: millions for defense, but not a cent for tribute!"
@@ -1028,14 +1034,14 @@ msgstr ""
 "Aslında bu tip bir isteğe uyacak kadar çaresiz değilsiniz. Unutmayın: "
 "savunma için milyonlar harcanır ama vergi için bir kuruş bile verilmez!"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "<strong>&ldquo;Programmers need to make a living somehow.&rdquo;</strong>"
 msgstr ""
 "<strong>\"Programcılar bir şekilde yaşamlarını sürdürmek zorundadır.\"</"
 "strong>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "In the short run, this is true.  However, there are plenty of ways that "
 "programmers could make a living without selling the right to use a program.  "
@@ -1050,7 +1056,7 @@ msgstr ""
 "bu değildir. Bulmak isterseniz başka yollar da bulmak kolaydır. Aşağıda bir "
 "kaç örnek görebilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "A manufacturer introducing a new computer will pay for the porting of "
 "operating systems onto the new hardware."
@@ -1058,7 +1064,7 @@ msgstr ""
 "Yeni bir bilgisayarı piyasaya süren bir üretici, işletim sistemlerinin yeni "
 "donanıma taşınması için bir ücret ödeyecektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The sale of teaching, handholding and maintenance services could also employ "
 "programmers."
@@ -1066,18 +1072,19 @@ msgstr ""
 "Öğretme, destek ve bakım hizmetleri için de programcıların kullanılması "
 "gerekli olabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
-"People with new ideas could distribute programs as freeware<a href=\"#f7\">"
-"(9)</a>, asking for donations from satisfied users, or selling handholding "
-"services.  I have met people who are already working this way successfully."
+"People with new ideas could distribute programs as freeware&#8239;<a class="
+"\"ftn\" href=\"#f7\">[9]</a>, asking for donations from satisfied users, or "
+"selling handholding services.  I have met people who are already working "
+"this way successfully."
 msgstr ""
-"Yeni fikirlere sahip insanlar, freeware (ücretsiz)<a href=\"#f7\">(9)</a> "
-"olarak programları dağıtabilir, memnun kullanıcılardan bağış isteyebilir ya "
-"da destek hizmetlerini satabilir. Hâlihazırda bu şekilde başarılı bir "
-"biçimde çalışan insanlarla karşılaştım."
+"Yeni fikirlere sahip insanlar, freeware (ücretsiz)&#8239;<a class=\"ftn\" "
+"href=\"#f7\">[9]</a> olarak programları dağıtabilir, memnun kullanıcılardan "
+"bağış isteyebilir ya da destek hizmetlerini satabilir. Hâlihazırda bu "
+"şekilde başarılı bir biçimde çalışan insanlarla karşılaştım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Users with related needs can form users' groups, and pay dues.  A group "
 "would contract with programming companies to write programs that the group's "
@@ -1087,12 +1094,12 @@ msgstr ""
 "hak ödeyebilir. Bir grup, grup üyelerinin kullanmak istediği programları "
 "yazmak için, programlama firmalarıyla anlaşma yapabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid "All sorts of development can be funded with a Software Tax:"
 msgstr ""
 "Tüm geliştirme çeşitlerine bir Yazılım Vergisiyle finansman sağlanabilir:"
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Suppose everyone who buys a computer has to pay x percent of the price as a "
 "software tax.  The government gives this to an agency like the NSF to spend "
@@ -1102,7 +1109,7 @@ msgstr ""
 "ödemesinin gerekli olduğunu varsayalım. Hükümet, bunu, yazılım geliştirme "
 "konusunda harcamak üzere NSF gibi bir birime verir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "But if the computer buyer makes a donation to software development himself, "
 "he can take a credit against the tax.  He can donate to the project of his "
@@ -1116,7 +1123,7 @@ msgstr ""
 "Ödemesinin gerekli olduğu toplam vergiye kadar olan miktarda ödeme yapmak "
 "için kredi alabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The total tax rate could be decided by a vote of the payers of the tax, "
 "weighted according to the amount they will be taxed on."
@@ -1124,19 +1131,19 @@ msgstr ""
 "Toplam vergi oranı vergi ödeyenlerin oyuyla belirlenebilir, "
 "vergilendirilecek miktara göre ağırlıklandırılır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><dl><dd><p>
 msgid "The consequences:"
 msgstr "Sonuçlar:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid "The computer-using community supports software development."
 msgstr "Bilgisayar kullanan topluluk yazılım gelişimini destekler."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid "This community decides what level of support is needed."
 msgstr "Bu topluluk, hangi destek seviyesinin gerekli olduğuna karar verir."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
 "Users who care which projects their share is spent on can choose this for "
 "themselves."
@@ -1144,7 +1151,7 @@ msgstr ""
 "Paylarının hangi projelere harcandığına önem veren kullanıcılar, kendileri "
 "için bunu seçebilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the long run, making programs free is a step toward the postscarcity "
 "world, where nobody will have to work very hard just to make a living.  "
@@ -1163,7 +1170,7 @@ msgstr ""
 "sayesinde geçimini sağlamak için gerekli kazancı sağlayabilme ihtiyacı "
 "olmayacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We have already greatly reduced the amount of work that the whole society "
 "must do for its actual productivity, but only a little of this has "
@@ -1183,11 +1190,11 @@ msgstr ""
 "üretkenlikteki teknik kazançların bizim için daha az çalışmaya dönüşmesi "
 "için yapmalıyız."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Footnotes"
 msgstr "Dipnotlar"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "The wording here was careless.  The intention was that nobody would have to "
 "pay for <b>permission</b> to use the GNU system.  But the words don't make "
@@ -1219,7 +1226,7 @@ msgstr ""
 "Kopyaya sahip olan herhangi biri, bu kopyanın kullanımı konusunda diğer "
 "insanlarla işbirliği yapma özgürlüğüne sahiptir."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "The expression &ldquo;give away&rdquo; is another indication that I had not "
 "yet clearly separated the issue of price from that of freedom.  We now "
@@ -1234,36 +1241,36 @@ msgstr ""
 "html#GiveAwaySoftware\">kafa karıştıran kelimeler ve ifadeler</a>&rdquo; "
 "bağlantısını ziyaret ediniz."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "This is another place I failed to distinguish carefully between the two "
-"different meanings of &ldquo;free&rdquo;.  The statement as it stands is not "
+"different meanings of &ldquo;free.&rdquo; The statement as it stands is not "
 "false&mdash;you can get copies of GNU software at no charge, from your "
 "friends or over the net.  But it does suggest the wrong idea."
 msgstr ""
-"Burada “free” kelimesinin iki farklı anlamı arasında dikkatli bir ayrım "
-"yapamadığım başka bir durum var. Burada anlaşılan özgür ifadesi hatalı "
-"değildir – ücretsiz olarak, arkadaşlarınızdan ya da İnternetten GNU "
+"Burada &ldquo;free.&rdquo; kelimesinin iki farklı anlamı arasında dikkatli "
+"bir ayrım yapamadığım başka bir durum var. Burada anlaşılan özgür ifadesi "
+"hatalı değildir, ücretsiz olarak, arkadaşlarınızdan ya da İnternetten GNU "
 "yazılımının kopyalarını alabilirsiniz. Ancak burada yanlış anlamı ifade "
 "etmektedir."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid "Several such companies now exist."
 msgstr "Buna benzer bir çok şirket günümüzde vardır."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Although it is a charity rather than a company, the Free Software Foundation "
 "for 10 years raised most of its funds from its distribution service.  You "
-"can <a href=\"/order/order.html\">order things from the FSF</a> to support "
-"its work."
+"can <a href=\"https://shop.fsf.org/\">order things from the FSF</a> to "
+"support its work."
 msgstr ""
 "Bir firma olmaktan çok bir hayır kurumu olmasına rağmen, Özgür Yazılım Vakfı "
-"10 yıldır finansmanının çoğunu dağıtım hizmetinden sağlamaktadır. <a href=\"/"
-"order/order.html\">FSF'den birşeyler satın alarak</a> çalışmasını "
+"10 yıldır finansmanının çoğunu dağıtım hizmetinden sağlamaktadır. <a href="
+"\"https://shop.fsf.org/\">FSF'den birşeyler satın alarak</a> çalışmalarını "
 "destekleyebilirsiniz."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "A group of computer companies pooled funds around 1991 to support "
 "maintenance of the GNU C Compiler."
@@ -1271,7 +1278,7 @@ msgstr ""
 "GNU C Derleyicisinin devamlılığının desteklenmesi için, bir grup bilgisayar "
 "firması 1991'de finansman sağladı."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "I think I was mistaken in saying that proprietary software was the most "
 "common basis for making money in software.  It seems that actually the most "
@@ -1291,10 +1298,10 @@ msgstr ""
 "ücretli programcının özgür yazılım dünyasında daha az kazanmasını artık "
 "beklemiyorum."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "In the 1980s I had not yet realized how confusing it was to speak of &ldquo;"
-"the issue&rdquo; of &ldquo;intellectual property&rdquo;.  That term is "
+"the issue&rdquo; of &ldquo;intellectual property.&rdquo; That term is "
 "obviously biased; more subtle is the fact that it lumps together various "
 "disparate laws which raise very different issues.  Nowadays I urge people to "
 "reject the term &ldquo;intellectual property&rdquo; entirely, lest it lead "
@@ -1303,27 +1310,27 @@ msgid ""
 "href=\"/philosophy/not-ipr.html\">further explanation</a> of how this term "
 "spreads confusion and bias."
 msgstr ""
-"1980lerde &ldquo;fikri mülkiyet hakları&rdquo; [:intellectual property] "
-"&ldquo;konusunda&rdquo; konuşmanın ne kadar karışık olduğunu farketmemiştim. "
-"Terim açıktır ki taraflıdır; çok kurnaz gerçek şudur ki çok farklı konular "
-"üzerine tamamen farklı yasaları bir araya getirmektedir. Bu günlerde "
-"kişilerin &ldquo;fikri mülkiyet hakları&rdquo; terimini tamamen redetmesine "
-"çabalıyorum, başkaları bunun uyumlu, tutarlı bir konu olduğunu sanmasın "
-"diye. Açık olmanın bir yolu patentleri, telif hakkını, ve markaları ayrı "
-"ayrı tartışmaktır. <a href=\"/philosophy/not-ipr.html\">Daha fazla "
-"açıklamayla</a> bu terimin yaydığı karışıklık ve taraflılığı görebilirsiniz."
+"1980lerde &ldquo;fikri mülkiyet&rdquo; &ldquo;konusunda&rdquo; konuşmanın ne "
+"kadar karışık olduğunu farketmemiştim. Terim açıktır ki taraflıdır; çok "
+"kurnaz gerçek şudur ki çok farklı konular üzerine tamamen farklı yasaları "
+"bir araya getirmektedir. Bu günlerde kişilerin &ldquo;fikri mülkiyet&rdquo; "
+"terimini tamamen redetmesine çabalıyorum, başkaları bunun uyumlu, tutarlı "
+"bir konu olduğunu sanmasın diye. Açık olmanın bir yolu patentleri, telif "
+"hakkını, ve markaları ayrı ayrı tartışmaktır. <a href=\"/philosophy/not-ipr."
+"html\">Daha fazla açıklamayla</a> bu terimin yaydığı karışıklık ve "
+"taraflılığı görebilirsiniz."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Subsequently we learned to distinguish between &ldquo;free software&rdquo; "
-"and &ldquo;freeware&rdquo;.  The term &ldquo;freeware&rdquo; means software "
+"and &ldquo;freeware.&rdquo; The term &ldquo;freeware&rdquo; means software "
 "you are free to redistribute, but usually you are not free to study and "
 "change the source code, so most of it is not free software.  See &ldquo;<a "
 "href=\"/philosophy/words-to-avoid.html#Freeware\">Confusing Words and "
 "Phrases</a>&rdquo; for more explanation."
 msgstr ""
-"Sonradan &ldquo;özgür yazılım&rdquo; ve &ldquo;ücretsiz yazılım&rdquo; [:"
-"freeware] terimlerini ayırmayı öğrendik. \"Ücretsiz yazılım\" teriminin "
+"Sonradan &ldquo;özgür yazılım&rdquo; ve &ldquo;ücretsiz yazılım&rdquo; "
+"terimlerini ayırmayı öğrendik. &ldquo;Ücretsiz yazılım&rdquo; teriminin "
 "anlamı dağıtmakta özgür olduğunuz, ancak genellikle kaynak kodu "
 "çalışamayacağınız, değiştiremeyeceğinizdir, bu yüzden çoğu özgür yazılım "
 "değildir. Daha fazla açıklama için <a href=\"/philosophy/words-to-avoid."
@@ -1356,14 +1363,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -1378,11 +1385,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1985, 1993, 2003, 2005, 2007, 2008, 2009, 2010, 2014, 2015 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1985, 1993, 2004, 2005, 2007, 2009, 2010, 2015, 2021 Free "
+"Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1985, 1993, 2003, 2005, 2007, 2008, 2009, 2010, 2014, 2015 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1985, 1993, 2004, 2005, 2007, 2009, 2010, 2015, 2021 Free "
+"Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
