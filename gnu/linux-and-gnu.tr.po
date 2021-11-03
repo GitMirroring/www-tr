@@ -409,8 +409,8 @@ msgstr ""
 "bazı BSD programları kullandığı gibi bazı GNU programları da kullanmaktadır; "
 "ancak, bütün olarak ele alındığında, ayrı ayrı gelişen iki farklı sistemdir. "
 "BSD geliştiricileri bir çekirdek yazmadı ve GNU sistemine eklemedi ve GNU/"
-"BSD gibi bir isim duruma uymayacaktı&#8239;<a class=\"ftn\" href=\"#gnubsd"
-"\">[5]</a>."
+"BSD gibi bir isim duruma uymayacaktı&#8239;<a class=\"ftn\" href=\"#gnubsd\">"
+"[5]</a>."
 
 #. type: Content of: <div><h3>
 msgid "Footnotes"
