@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary.html\n"
-"POT-Creation-Date: 2021-11-05 05:57+0000\n"
-"PO-Revision-Date: 2021-11-06 09:10+0100\n"
+"POT-Creation-Date: 2021-11-12 18:55+0000\n"
+"PO-Revision-Date: 2021-11-14 08:36+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -236,6 +236,17 @@ msgid "<a href=\"/proprietary/malware-cars.html\">Cars</a>"
 msgstr "<a href=\"/proprietary/malware-cars.html\">Arabalar</a>"
 
 #. type: Content of: <div><table><tr><td><ul><li>
+msgid ""
+"<a href=\"/proprietary/malware-in-online-conferencing.html\">Conferencing</a>"
+msgstr ""
+"<a href=\"/proprietary/malware-in-online-conferencing.html\">Konferans "
+"Sistemleri</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
+msgid "<a href=\"/proprietary/malware-education.html\">Education</a>"
+msgstr "<a href=\"/proprietary/malware-education.html\">Eğitim</a>"
+
+#. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-games.html\">Games</a>"
 msgstr "<a href=\"/proprietary/malware-games.html\">Oyunlar</a>"
 
@@ -246,13 +257,6 @@ msgstr "<a href=\"/proprietary/malware-mobiles.html\">Mobil aygıtlar</a>"
 #. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-webpages.html\">Webpages</a>"
 msgstr "<a href=\"/proprietary/malware-webpages.html\">Web sayfaları</a>"
-
-#. type: Content of: <div><table><tr><td><ul><li>
-msgid ""
-"<a href=\"/proprietary/malware-in-online-conferencing.html\">Conferencing</a>"
-msgstr ""
-"<a href=\"/proprietary/malware-in-online-conferencing.html\">Konferans "
-"Sistemleri</a>"
 
 #. type: Content of: <div><table><tr><td><ul><li>
 msgid "<a href=\"/proprietary/malware-adobe.html\">Adobe</a>"
@@ -333,6 +337,24 @@ msgstr ""
 #. type: Content of: <div><h3>
 msgid "Latest additions"
 msgstr "Son eklenenler"
+
+#. type: Content of: <div><ul><li><p>
+msgid ""
+"A pacemaker running proprietary code <a href=\"https://www.wired.com/2016/02/"
+"i-want-to-know-what-code-is-running-inside-my-body/\">was misconfigured and "
+"could have killed the implanted person</a>. In order to find out what was "
+"wrong and get it fixed, the person needed to break into the remote device "
+"that sets parameters in the pacemaker (possibly infringing upon "
+"manufacturer's rights under the DMCA). If this system had run free software, "
+"it could have been fixed much sooner."
+msgstr ""
+"Özel mülk yazılım çalıştıran bir kalp pili <a href=\"https://www.wired."
+"com/2016/02/i-want-to-know-what-code-is-running-inside-my-body/\">takılı "
+"kişiyi öldürebilecek şekilde yanlış ayarlanmıştı</a>. Hatayı bulmak ve "
+"düzeltmek için, insanın (muhtemelen imalatçının DMCA kapsamındaki haklarını "
+"ihlal ederek) kalp pilindeki parametreleri ayarlayan uzaktaki aygıta girmesi "
+"gerekti. Eğer bu sistem özgür yazılımla çalışıyor olsaydı, çok daha kısa "
+"sürede düzeltilebilirdi."
 
 #. type: Content of: <div><ul><li><p>
 msgid ""
@@ -428,34 +450,6 @@ msgstr ""
 "Bu, onu üreten şirketler iletişim kurabilen bir aygıtta özgür olmayan "
 "yazılım olmasının doğal bir sonucudur."
 
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"<a href=\"https://www.elsalvador.com/eldiariodehoy/app-chivo-bitcoin-pone-en-"
-"riesgo-datos-personales-de-usuarios/852310/2021/\">El Salvador "
-"Dictatorship's Chivo wallet is spyware</a>, it's a proprietary program that "
-"breaks users' freedom and spies on people; demands personal data such as the "
-"national ID number and does face recognition, and it is bad security for its "
-"data. It also asks for almost every malware permission in people's "
-"smartphones."
-msgstr ""
-"<a href=\"https://www.elsalvador.com/eldiariodehoy/app-chivo-bitcoin-pone-en-"
-"riesgo-datos-personales-de-usuarios/852310/2021/\">El Salvador "
-"Diktatörlüğünün Chivo cüzdanı bir casus yazılım</a>, kullanıcıların "
-"özgürlüğünü bozan ve insanları gizlice izleyen özel mülk bir program; ulusal "
-"kimlik numarası gibi kişisel veri talep ediyor ve yüz tanıma yapıyor, ve "
-"veri güvenliği kötü.Üstelik insanların akıllı telefonundaki tüm kötücül "
-"izinleri de talep ediyor."
-
-#. type: Content of: <div><ul><li><p>
-msgid ""
-"The article criticizes it for faults in &ldquo;data protection&rdquo;, "
-"though <a href=\"/philosophy/surveillance-vs-democracy.html\">&ldquo;data "
-"protection&rdquo; is the wrong approach to privacy anyway</a>."
-msgstr ""
-"Makale onu, &ldquo;veri koruma&rdquo;daki hataları için eleştiriyor, halbuki "
-"<a href=\"/philosophy/surveillance-vs-democracy.html\">&ldquo;veri "
-"koruma&rdquo; gizlilik için hatalı bir yaklaşım</a>."
-
 #. type: Content of: <div><p>
 msgid "<a href=\"/proprietary/all.html\">More items&hellip;</a>"
 msgstr "<a href=\"/proprietary/all.html\">Daha fazlası&hellip;</a>"
@@ -535,6 +529,32 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "<a href=\"https://www.elsalvador.com/eldiariodehoy/app-chivo-bitcoin-pone-"
+#~ "en-riesgo-datos-personales-de-usuarios/852310/2021/\">El Salvador "
+#~ "Dictatorship's Chivo wallet is spyware</a>, it's a proprietary program "
+#~ "that breaks users' freedom and spies on people; demands personal data "
+#~ "such as the national ID number and does face recognition, and it is bad "
+#~ "security for its data. It also asks for almost every malware permission "
+#~ "in people's smartphones."
+#~ msgstr ""
+#~ "<a href=\"https://www.elsalvador.com/eldiariodehoy/app-chivo-bitcoin-pone-"
+#~ "en-riesgo-datos-personales-de-usuarios/852310/2021/\">El Salvador "
+#~ "Diktatörlüğünün Chivo cüzdanı bir casus yazılım</a>, kullanıcıların "
+#~ "özgürlüğünü bozan ve insanları gizlice izleyen özel mülk bir program; "
+#~ "ulusal kimlik numarası gibi kişisel veri talep ediyor ve yüz tanıma "
+#~ "yapıyor, ve veri güvenliği kötü.Üstelik insanların akıllı telefonundaki "
+#~ "tüm kötücül izinleri de talep ediyor."
+
+#~ msgid ""
+#~ "The article criticizes it for faults in &ldquo;data protection&rdquo;, "
+#~ "though <a href=\"/philosophy/surveillance-vs-democracy.html\">&ldquo;data "
+#~ "protection&rdquo; is the wrong approach to privacy anyway</a>."
+#~ msgstr ""
+#~ "Makale onu, &ldquo;veri koruma&rdquo;daki hataları için eleştiriyor, "
+#~ "halbuki <a href=\"/philosophy/surveillance-vs-democracy.html\">&ldquo;"
+#~ "veri koruma&rdquo; gizlilik için hatalı bir yaklaşım</a>."
 
 #~ msgid ""
 #~ "Google's proprietary Chrome web browser <a href=\"https://www."
