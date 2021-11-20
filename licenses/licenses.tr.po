@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: licenses.html\n"
-"POT-Creation-Date: 2021-08-24 14:55+0000\n"
-"PO-Revision-Date: 2021-09-12 07:13+0200\n"
+"POT-Creation-Date: 2021-11-18 11:56+0000\n"
+"PO-Revision-Date: 2021-11-20 19:07+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid "Licenses - GNU Project - Free Software Foundation"
@@ -83,7 +83,7 @@ msgstr "<a href=\"#WhatIsCopyleft\">Copyleft Nedir?</a>"
 msgid "<a href=\"#OtherWorks\">Licenses for Other Types of Works</a>"
 msgstr "<a href=\"#OtherWorks\">Diğer Çalışma Türleri için Lisanslar</a>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Published software should be <a href=\"/philosophy/free-sw.html\">free "
 "software</a>.  To make it free software, you need to release it under a free "
@@ -101,7 +101,7 @@ msgstr ""
 "yazılım lisanslarını</a> da kullanıyoruz. GNU yazılımı için sadece GNU GPL "
 "ile uyumlu lisansları kullanıyoruz."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Documentation for free software should be <a href=\"/philosophy/free-doc.html"
 "\">free documentation</a>, so that people can redistribute it and improve it "
@@ -119,7 +119,7 @@ msgstr ""
 "ancak nadiren <a href=\"/licenses/license-list.html#DocumentationLicenses"
 "\">diğer özgür belgelendirme lisanslarını</a> da kullanıyoruz."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "If you've started a new project and you're not sure what license to use, <a "
 "href=\"/licenses/license-recommendations.html\">&ldquo;How to choose a "
@@ -135,7 +135,7 @@ msgstr ""
 "başvuru listesine ihtiyacınız varsa, <a href=\"/licenses/recommended-"
 "copylefts.html\">önerilen copyleft lisansları</a> sayfamız var."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "We also have a page that discusses <a href=\"/licenses/bsd.html\">the BSD "
 "License Problem</a>."
@@ -143,11 +143,11 @@ msgstr ""
 "Ayrıca <a href=\"/licenses/bsd.html\">BSD lisans sorununu</a> ele alan bir "
 "sayfamız var."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "Evaluating Licenses"
 msgstr "Lisansları Değerlendirme"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "If you come across a license not mentioned in our <a href=\"/licenses/"
 "license-list.html\">license list</a>, you can ask us to evaluate whether it "
@@ -165,11 +165,11 @@ msgstr ""
 "lisans alışılmadık koşullara sahipse, bu çetin felsefi sorunlar doğurabilir, "
 "bu yüzden hızlı bir şekilde değerlendirme sözü veremiyoruz."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "Common Resources for our Software Licenses"
 msgstr "Yazılım Lisanslarımız için Başlıca Kaynaklar"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "We have a number of resources to help people understand and use our various "
 "licenses:"
@@ -177,7 +177,7 @@ msgstr ""
 "Çeşitli lisanslarımızı insanların anlaması ve kullanması için bazı "
 "kaynaklarımız var:"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/gpl-faq.html\">Frequently Asked Questions about the GNU "
 "licenses</a>"
@@ -185,7 +185,7 @@ msgstr ""
 "<a href=\"/licenses/gpl-faq.html\">GNU Lisansları hakkında Sıkça Sorular "
 "Sorular</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/gpl-howto.html\">How to use GNU licenses for your own "
 "software</a>"
@@ -193,7 +193,7 @@ msgstr ""
 "<a href=\"/licenses/gpl-howto.html\">GNU Lisanslarını Kendi Yazılımınız için "
 "Nasıl Kullanabilirsiniz</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/gpl-violation.html\">What to do if you see a violation "
 "of a GNU license</a>"
@@ -201,7 +201,7 @@ msgstr ""
 "<a href=\"/licenses/gpl-violation.html\">Bir GNU Lisansı İhlaliyle "
 "Karşılaşırsanız Ne Yapmalısınız</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/license-compatibility.html\">License Compatibility and "
 "Relicensing</a>"
@@ -209,13 +209,13 @@ msgstr ""
 "<a href=\"/licenses/license-compatibility.html\">Lisans Uyumluluğu ve "
 "Yeniden Lisanslama</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/license-list.html\">List of Free Software Licenses</a>"
 msgstr ""
 "<a href=\"/licenses/license-list.html\">Özgür Yazılım Lisansları Listesi</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/philosophy/university.html\">Releasing Free Software if you work "
 "at a university</a>"
@@ -223,7 +223,7 @@ msgstr ""
 "<a href=\"/philosophy/university.html\">Üniversitede çalışmanız durumunda "
 "özgür yazılımın yayınlanması</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/why-assign.html\">Why the FSF gets copyright assignments "
 "from contributors</a>"
@@ -231,7 +231,7 @@ msgstr ""
 "<a href=\"/licenses/why-assign.html\">FSF katkı sağlayanlardan neden telif "
 "hakkı devri alıyor</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/graphics/license-logos.html\">GNU license logos</a> to use with "
 "your project"
@@ -239,7 +239,7 @@ msgstr ""
 "Projenizde kullanmanız için <a href=\"/graphics/license-logos.html\">GNU "
 "lisans logoları</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"http://www.fsf.org/licensing\">The FSF Licensing &amp; Compliance "
 "Lab</a>"
@@ -247,7 +247,7 @@ msgstr ""
 "<a href=\"http://www.fsf.org/licensing\">FSF Lisanslama &amp; Uyumluluk Lab</"
 "a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/license-list.html#LicensingEmailAddress\">&lt;"
 "licensing@fsf.org&gt;</a> for general licensing help"
@@ -255,11 +255,11 @@ msgstr ""
 "Genel olarak lisans hakkında yardım almak için <a href=\"/licenses/license-"
 "list.html#LicensingEmailAddress\">&lt;licensing@fsf.org&gt;</a>"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "The GNU General Public License"
 msgstr "GNU Genel Kamu Lisansı"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The GNU General Public License is often called the GNU GPL for short; it is "
 "used by most GNU programs, and by more than half of all free software "
@@ -269,7 +269,7 @@ msgstr ""
 "GNU programı tarafından ve bütün özgür yazılım paketlerinin yarıdan fazlası "
 "kullanılıyor. Lisansın en son sürümü 3."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "The GNU General Public License is available in these formats: <a href=\"/"
 "licenses/gpl.html\">HTML</a>, <a href=\"/licenses/gpl.txt\">plain text</a>, "
@@ -289,12 +289,12 @@ msgstr ""
 "tek başına yayınlanmak üzere biçimlendirilmemiştir, başka bir belgeye ekleme "
 "amacıyla tasarlanmıştır."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid "<a href=\"/licenses/quick-guide-gplv3.html\">A Quick Guide to GPLv3</a>"
 msgstr ""
 "<a href=\"/licenses/quick-guide-gplv3.html\">GPLv3 için Hızlı Kılavuz</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/old-licenses/old-licenses.html#GPL\">Older versions of "
 "the GNU GPL</a>"
@@ -302,11 +302,11 @@ msgstr ""
 "<a href=\"/licenses/old-licenses/old-licenses.html#GPL\">GNU GPL Eski "
 "sürümleri</a>"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "The GNU Lesser General Public License"
 msgstr "GNU Kısıtlı Genel Kamu Lisansı"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The GNU Lesser General Public License is used by a few (not by any means "
 "all) GNU libraries.  The latest version is version 3."
@@ -314,7 +314,7 @@ msgstr ""
 "GNU Kısıtlı Genel Kamu Lisansı, az sayıda (kesinlikle hepsinde değil) GNU "
 "kütüphanesinde kullanılıyor. Lisansın en son sürümü 3."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "The GNU Lesser General Public License text is available in these formats: <a "
 "href=\"/licenses/lgpl.html\">HTML</a>, <a href=\"/licenses/lgpl.txt\">plain "
@@ -332,7 +332,7 @@ msgstr ""
 "belgeler tek başına yayınlanmak üzere biçimlendirilmemiştir, başka bir "
 "belgeye ekleme amacıyla tasarlanmıştır."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/why-not-lgpl.html\">Why you shouldn't use the Lesser GPL "
 "for your next library</a>"
@@ -340,7 +340,7 @@ msgstr ""
 "<a href=\"/licenses/why-not-lgpl.html\">Bir Sonraki Kütüphaneniz İçin Neden "
 "Kısıtlı GPL Kullanmamalısınız</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/old-licenses/old-licenses.html#LGPL\">Older versions of "
 "the GNU LGPL</a>"
@@ -348,11 +348,11 @@ msgstr ""
 "<a href=\"/licenses/old-licenses/old-licenses.html#LGPL\">GNU LGPL Eski "
 "Sürümleri</a>"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "The GNU Affero General Public License"
 msgstr "GNU Affero Genel Kamu Lisansı"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The GNU Affero General Public License is based on the GNU GPL, but has an "
 "additional term to allow users who interact with the licensed software over "
@@ -366,7 +366,7 @@ msgstr ""
 "bir yazılım için insanların GNU AGPL kullanmayı düşünmesini öneriyoruz. "
 "Lisansın en son sürümü 3."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "The GNU Affero General Public License text is available in these formats: <a "
 "href=\"/licenses/agpl.html\">HTML</a>, <a href=\"/licenses/agpl.txt\">plain "
@@ -385,15 +385,15 @@ msgstr ""
 "licenses/agpl.rtf\">RTF</a>. Bu belgeler tek başına yayınlanmak üzere "
 "biçimlendirilmemiştir, başka bir belgeye ekleme amacıyla tasarlanmıştır."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid "<a href=\"/licenses/why-affero-gpl.html\">Why the Affero GPL</a>"
 msgstr "<a href=\"/licenses/why-affero-gpl.html\">Neden Affero GPL</a>"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "The GNU Free Documentation License"
 msgstr "GNU Özgür Belgelendirme Lisansı"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The GNU Free Documentation License is a form of copyleft intended for use on "
 "a manual, textbook or other document to assure everyone the effective "
@@ -406,7 +406,7 @@ msgstr ""
 "kılavuzlarda, kitaplarda veya diğer belgelerde kullanılmak üzere tasarlanmış "
 "bir copyleft lisansıdır. Lisansın en son sürümü 1.3."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "The GNU Free Documentation License text is available in these formats: <a "
 "href=\"/licenses/fdl.html\">HTML</a>, <a href=\"/licenses/fdl.txt\">plain "
@@ -426,14 +426,14 @@ msgstr ""
 "a>. Bu belgeler tek başına yayınlanmak üzere biçimlendirilmemiştir, başka "
 "bir belgeye ekleme amacıyla tasarlanmıştır."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/why-gfdl.html\">Why publishers should use the GNU FDL</a>"
 msgstr ""
 "<a href=\"/licenses/why-gfdl.html\">Yayıncılar neden GNU FDL kullanmalıdır</"
 "a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/fdl.html#addendum\">How to use the GNU FDL for your "
 "documentation</a>"
@@ -441,12 +441,12 @@ msgstr ""
 "<a href=\"/licenses/fdl.html#addendum\">Belgelendirmeniz için GNU FDL nasıl "
 "kullanılır</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid "<a href=\"/licenses/fdl-howto.html\">Tips on using the GNU FDL</a>"
 msgstr ""
 "<a href=\"/licenses/fdl-howto.html\">GNU FDL kullanmak için ipuçları</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/fdl-howto-opt.html\">How to use the optional features of "
 "the GNU FDL</a>"
@@ -454,7 +454,7 @@ msgstr ""
 "<a href=\"/licenses/fdl-howto-opt.html\">GNU FDL isteğe bağlı özellikleri "
 "nasıl kullanılır</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/old-licenses/old-licenses.html#FDL\"> Older versions of "
 "the GNU FDL</a>"
@@ -462,11 +462,11 @@ msgstr ""
 "<a href=\"/licenses/old-licenses/old-licenses.html#FDL\"> GNU FDL eski "
 "sürümleri</a>"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "Exceptions to GNU Licenses"
 msgstr "GNU Lisansı İstisnaları"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Some GNU programs have additional permissions or special exceptions to "
 "specific terms in one of the main licenses.  Since some of those are "
@@ -480,82 +480,80 @@ msgstr ""
 "oluşturuyorlar, bunları <a href=\"/licenses/exceptions.html\">istisnalar "
 "sayfasında</a> toplamaya başladık."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "License URLs"
 msgstr "Lisans Bağlantıları"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "When linking to our licenses, it's usually best to link to the latest "
-"version; hence the standard URLs such as <code>http://www.gnu.org/licenses/"
+"version; hence the standard URLs such as <code>https://www.gnu.org/licenses/"
 "gpl.html</code> have no version number.  Occasionally, however, you may want "
 "to link to a specific version of a given license.  In those situations, you "
 "can use the following links [<a href=\"#urlskip\">skip links</a>]:"
 msgstr ""
 "Lisanslarımıza bağlantı verirken, çoğu zaman en son sürüme bağlantı vermek "
-"en iyisidir; dolayısıyla <code>http://www.gnu.org/licenses/gpl.html</code> "
+"en iyisidir; dolayısıyla <code>https://www.gnu.org/licenses/gpl.html</code> "
 "gibi standart URL'lerde bir sürüm numarası yok. Yine de arada sırada belli "
 "bir lisansın belirli bir sürümüne bağlantı vermek isteyebilirsiniz. Bu "
 "durumda aşağıdaki bağlantıları kullanabilirsiniz [<a href=\"#urlskip"
 "\">bağlantıları atla</a>]:"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <dl><dt>
 msgid "GNU General Public License (GPL)"
 msgstr "GNU Genel Kamu Lisansı (GPL)"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <dl><dd>
 msgid ""
-"<a href=\"http://www.gnu.org/licenses/gpl-3.0.html\">GPLv3</a>, <a href="
-"\"http://www.gnu.org/licenses/gpl-2.0.html\">GPLv2</a>, <a href=\"http://www."
-"gnu.org/licenses/gpl-1.0.html\">GPLv1</a>"
+"<a href=\"/licenses/gpl-3.0.html\">GPLv3</a>, <a href=\"/licenses/gpl-2.0."
+"html\">GPLv2</a>, <a href=\"/licenses/gpl-1.0.html\">GPLv1</a>"
 msgstr ""
-"<a href=\"http://www.gnu.org/licenses/gpl-3.0.html\">GPLv3</a>, <a href="
-"\"http://www.gnu.org/licenses/gpl-2.0.html\">GPLv2</a>, <a href=\"http://www."
-"gnu.org/licenses/gpl-1.0.html\">GPLv1</a>"
+"<a href=\"https://www.gnu.org/licenses/gpl-3.0.html\">GPLv3</a>, <a href="
+"\"https://www.gnu.org/licenses/gpl-2.0.html\">GPLv2</a>, <a href=\"http://"
+"www.gnu.org/licenses/gpl-1.0.html\">GPLv1</a>"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <dl><dt>
 msgid "GNU Lesser General Public License (LGPL)"
 msgstr "GNU Kısıtlı Genel Kamu Lisansı (LGPL)"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <dl><dd>
 msgid ""
-"<a href=\"http://www.gnu.org/licenses/lgpl-3.0.html\">LGPLv3</a>, <a href="
-"\"http://www.gnu.org/licenses/lgpl-2.1.html\">LGPLv2.1</a>"
+"<a href=\"/licenses/lgpl-3.0.html\">LGPLv3</a>, <a href=\"/licenses/lgpl-2.1."
+"html\">LGPLv2.1</a>"
 msgstr ""
-"<a href=\"http://www.gnu.org/licenses/lgpl-3.0.html\">LGPLv3</a>, <a href="
-"\"http://www.gnu.org/licenses/lgpl-2.1.html\">LGPLv2.1</a>"
+"<a href=\"https://www.gnu.org/licenses/lgpl-3.0.html\">LGPLv3</a>, <a href="
+"\"https://www.gnu.org/licenses/lgpl-2.1.html\">LGPLv2.1</a>"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <dl><dt>
 msgid "GNU Affero General Public License (AGPL)"
 msgstr "GNU Affero Genel Kamu Lisansı (AGPL)"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <dl><dd>
 msgid ""
-"<a href=\"http://www.gnu.org/licenses/agpl-3.0.html\">GNU AGPLv3</a> (The <a "
-"href=\"https://web.archive.org/web/20190826200024/http://www.affero.org/"
-"oagpl.html\">Affero General Public License version 1</a> is not a GNU "
-"license, but it was designed to serve a purpose much like the GNU AGPL's.)"
+"<a href=\"/licenses/agpl-3.0.html\">GNU AGPLv3</a> (The <a href=\"https://"
+"web.archive.org/web/20190826200024/http://www.affero.org/oagpl.html\">Affero "
+"General Public License version 1</a> is not a GNU license, but it was "
+"designed to serve a purpose much like the GNU AGPL's.)"
 msgstr ""
-"<a href=\"http://www.gnu.org/licenses/agpl-3.0.html\">GNU AGPLv3</a> (<a "
+"<a href=\"https://www.gnu.org/licenses/agpl-3.0.html\">GNU AGPLv3</a> (<a "
 "href=\"https://web.archive.org/web/20190826200024/http://www.affero.org/"
 "oagpl.html\">Affero Genel Kamu Lisansı sürüm 1</a> bir GNU lisansı değil, "
 "ancak GNU AGPL lisanslarıyla aynı işe yaramak üzere tasarlanmıştı.)"
 
-#. type: Content of: <div><dl><dt>
+#. type: Content of: <dl><dt>
 msgid "GNU Free Documentation License (FDL)"
 msgstr "GNU Özgür Belgelendirme Lisansı (FDL)"
 
-#. type: Content of: <div><dl><dd>
+#. type: Content of: <dl><dd>
 msgid ""
-"<a href=\"http://www.gnu.org/licenses/fdl-1.3.html\">FDLv1.3</a>, <a href="
-"\"http://www.gnu.org/licenses/fdl-1.2.html\">FDLv1.2</a>, <a href=\"http://"
-"www.gnu.org/licenses/fdl-1.1.html\">FDLv1.1</a>"
+"<a href=\"/licenses/fdl-1.3.html\">FDLv1.3</a>, <a href=\"/licenses/fdl-1.2."
+"html\">FDLv1.2</a>, <a href=\"/licenses/fdl-1.1.html\">FDLv1.1</a>"
 msgstr ""
-"<a href=\"http://www.gnu.org/licenses/fdl-1.3.html\">FDLv1.3</a>, <a href="
-"\"http://www.gnu.org/licenses/fdl-1.2.html\">FDLv1.2</a>, <a href=\"http://"
+"<a href=\"https://www.gnu.org/licenses/fdl-1.3.html\">FDLv1.3</a>, <a href="
+"\"https://www.gnu.org/licenses/fdl-1.2.html\">FDLv1.2</a>, <a href=\"https://"
 "www.gnu.org/licenses/fdl-1.1.html\">FDLv1.1</a>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Stable links to each license's alternative formats are available on its "
 "respective page.  Not every version of every license is available in every "
@@ -567,15 +565,15 @@ msgstr ""
 "Eğer mevcut olmayan birini istiyorsanız, lütfen <a href=\"mailto:"
 "licensing@gnu.org\">bize e-posta atın</a>."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid "See also the <a href=\"old-licenses/\">old licenses page</a>."
 msgstr "See also the <a href=\"old-licenses/\">eski lisanslar sayfası</a>."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "Unofficial Translations"
 msgstr "Resmi Olmayan Çeviriler"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Legally speaking, the original (English) version of the licenses is what "
 "specifies the actual distribution terms for GNU programs and others that use "
@@ -590,7 +588,7 @@ msgstr ""
 "olmayan çevirilere ilişkin düzenlemelerimizi takip etmeleri şartıyla "
 "veriyoruz."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The FSF does not approve license translations as officially valid.  The "
 "reason is that checking them would be difficult and expensive (needing the "
@@ -606,7 +604,7 @@ msgstr ""
 "felaket olabilir. Çeviriler gayrı resmi kaldığı sürece yasal bir zararları "
 "dokunmaz."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "To underscore the fact that these translations are not officially valid, we "
 "do not publish translations.  To make that clear, we don't post them on gnu."
@@ -616,13 +614,13 @@ msgstr ""
 "çevirileri yayınlamıyoruz. Açıklamak gerekirse, gnu.org'ta veya başka bir "
 "GNU ve FSF web sitesinde onları yayınlamıyoruz, sadece bağlantı veriyoruz."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/translations.html\">List of unofficial translations</a>"
 msgstr ""
 "<a href=\"/licenses/translations.html\">Resmi olmayan çevirilerin listesi</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"/licenses/translations.html#rules\">How to create an unofficial "
 "translation</a>"
@@ -630,11 +628,11 @@ msgstr ""
 "<a href=\"/licenses/translations.html#rules\">Resmi olmayan bir çeviri nasıl "
 "oluşturulur</a>"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "Verbatim Copying and Distribution"
 msgstr "Birebir [<em>Verbatim</em>] Kopyalama ve Dağıtım"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The standard copyright terms for GNU web pages is now the <a href=\"http://"
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
@@ -646,7 +644,7 @@ msgstr ""
 "Türetilemez 4.0 Uluslararası</a> lisansıdır. Önceden (ve bazı sayfalarda "
 "hala) şu lisanstı:"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <blockquote><p>
 msgid ""
 "Verbatim copying and distribution of this entire article are permitted "
 "worldwide, without royalty, in any medium, provided this notice is preserved."
@@ -655,7 +653,7 @@ msgstr ""
 "telif hakkı ücreti olmadan, herhangi bir ortamda, bu uyarının korunması "
 "şartıyla izin verilmiştir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Please note the following commentary about this &ldquo;verbatim "
 "license&rdquo; by Eben Moglen:"
@@ -663,7 +661,7 @@ msgstr ""
 "Eben Moglen'in bu &ldquo;birebir lisans&rdquo; hakkındaki aşağıdaki yorumunu "
 "dikkate alın:"
 
-#. type: Content of: <div><blockquote><p>
+#. type: Content of: <blockquote><p>
 msgid ""
 "&ldquo;Our intention in using the phrase &lsquo;verbatim copying in any "
 "medium&rsquo; is not to require retention of page headings and footers or "
@@ -677,11 +675,11 @@ msgstr ""
 "(HTML olmayan ortamda notlar veya diğer bazı yazdırılmış URL biçiminde) ağ "
 "bağlantılarının korunması gerekiyor.&rdquo;"
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "List of Free Software Licenses"
 msgstr "Özgür Yazılım Lisansları Listesi"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <ul><li><p>
 msgid ""
 "If you are contemplating writing a new license, please contact the FSF by "
 "writing to <a href=\"mailto:licensing@fsf.org\">&lt;licensing@fsf.org&gt;</"
@@ -696,7 +694,7 @@ msgstr ""
 "geliyor; ihtiyaçlarınızı karşılayacak mevcut bir Özgür Yazılım lisansı "
 "bulmanıza yardımcı olabiliriz."
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <ul><li><p>
 msgid ""
 "If that isn't possible, if you really need a new license, with our help you "
 "can ensure that the license really is a Free Software license and avoid "
@@ -706,11 +704,11 @@ msgstr ""
 "lisansın gerçekten bir Özgür Yazılım lisansı olduğunu güvenceye almakta ve "
 "çeşitli uygulama sorunlarından kaçınmanızda yardımcı olabiliriz."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "What Is Copyleft?"
 msgstr "Copyleft Nedir?"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "<a href=\"/licenses/copyleft.html\"><em>Copyleft</em></a> is a general "
 "method for making a program free software and requiring all modified and "
@@ -721,7 +719,7 @@ msgstr ""
 "sürümlerinin de özgür yazılım olmasını gerektirmeye ilişkin genel bir "
 "yöntemdir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The simplest way to make a program free is to put it in the <a href=\"/"
 "philosophy/categories.html#PublicDomainSoftware\">public domain</a>, "
@@ -744,7 +742,7 @@ msgstr ""
 "özgün geliştiricinin onlara vermek istediği özgürlüğe sahip değillerdir; "
 "ortadaki kişi bu özgürlükleri kaldırıp attı."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "In the <a href=\"/gnu/thegnuproject.html\">GNU project</a>, our aim is to "
 "give <em>all</em> users the freedom to redistribute and change GNU "
@@ -765,7 +763,7 @@ msgstr ""
 "özgürlüğünü de birlikte sunması gerektiğini söylüyor. Copyleft her "
 "kullanıcının özgürlüğe sahip olmasını güvence altına alır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Copyleft also provides an <a href=\"/philosophy/pragmatic.html\">incentive</"
 "a> for other programmers to add to free software.  Important free programs "
@@ -775,7 +773,7 @@ msgstr ""
 "için bir <a href=\"/philosophy/pragmatic.html\">teşvik</a> sunar. GNU C++ "
 "derleyicisi gibi önemli özgür programlar sırf bu yüzden mevcutlar."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Copyleft also helps programmers who want to contribute <a href=\"/software/"
 "software.html#develop\">improvements</a> to <a href=\"/philosophy/free-sw."
@@ -793,7 +791,7 @@ msgstr ""
 "topluma katkı olarak vermek isteyebilir, ancak işvereni bu değişiklikleri "
 "özel mülk bir ürüne dönüştürmek isteyebilir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "When we explain to the employer that it is illegal to distribute the "
 "improved version except as free software, the employer usually decides to "
@@ -803,7 +801,7 @@ msgstr ""
 "olduğunu açıkladığımızda, işveren genellikle onu atmak yerine özgür yazılım "
 "olarak yayınlamayı tercih ediyor."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "To copyleft a program, we first state that it is copyrighted; then we add "
 "distribution terms, which are a legal instrument that gives everyone the "
@@ -818,7 +816,7 @@ msgstr ""
 "şartlarını ekliyoruz. Böylece, kod ve özgürlükler yasal olarak birbirinden "
 "ayrılmaz hale geliyorlar."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Proprietary software developers use copyright to take away the users' "
 "freedom; we use copyright to guarantee their freedom.  That's why we reverse "
@@ -830,7 +828,7 @@ msgstr ""
 "copyright&rdquo; yerine &ldquo;copyleft&rdquo; şeklinde ismi tersine "
 "çeviriyoruz."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Copyleft is a general concept; there are many ways to fill in the details.  "
 "In the GNU Project, the specific distribution terms that we use are "
@@ -842,7 +840,7 @@ msgstr ""
 "Lisansı, GNU Kısıtlı Genel Kamu Lisansı ve GNU Özgür Belgelendirme Lisansı "
 "kapsamındadır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The appropriate license is included in many manuals and in each GNU source "
 "code distribution."
@@ -850,7 +848,7 @@ msgstr ""
 "Uygun lisans bir çok kılavuzda ve her bir GNU kaynak kod dağıtımına dahil "
 "edilmiştir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The GNU GPL is designed so that you can easily apply it to your own program "
 "if you are the copyright holder.  You don't have to modify the GNU GPL to do "
@@ -866,7 +864,7 @@ msgstr ""
 "GPL metnini kullanmanız gerektiğini unutmayın. Yekpare bir bütündür ve kısmi "
 "kopyalara izin yoktur (LGPL, AGPL ve FDL için de böyledir)."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Using the same distribution terms for many different programs makes it easy "
 "to copy code between various different programs.  Since they all have the "
@@ -882,11 +880,11 @@ msgstr ""
 "değiştirmeniz için bir hüküm içerir, böylece GPL tarafından kapsanan bir "
 "başka programa kod kopyalayabilirsiniz."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "Licenses for Other Types of Works"
 msgstr "Diğer Çalışma Türleri için Lisanslar"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "We believe that published software and documentation should be <a href=\"/"
 "philosophy/free-doc.html\">free software and free documentation</a>.  We "
@@ -900,7 +898,7 @@ msgstr ""
 "Belgelendirme Lisansı</a> (GNU FDL) gibi lisansları kullanarak, özgür "
 "yapılmasını öneriyoruz."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "For essays of opinion and scientific papers, we recommend either the <a href="
 "\"http://creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons "
@@ -912,7 +910,7 @@ msgstr ""
 "Türetilemez 3.0 Birleşik Devletler Lisansı</a> veya basitçe yukarıda verilen "
 "&ldquo;sadece birebir kopyalama&rdquo; lisanslarını öneriyoruz.."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "We don't take the position that artistic or entertainment works must be "
 "free, but if you want to make one free, we recommend the <a href=\"//"
