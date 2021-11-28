@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2021-07-21 16:56+0000\n"
-"PO-Revision-Date: 2021-07-23 08:14+0200\n"
+"POT-Creation-Date: 2021-11-25 08:57+0000\n"
+"PO-Revision-Date: 2021-11-28 11:08+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. type: Content of: <title>
@@ -482,6 +482,16 @@ msgstr ""
 #. type: Content of: <div><div><p>
 msgid "<a href=\"/gnu/gnu.html\">More information</a>"
 msgstr "<a href=\"/gnu/gnu.html\">Daha Fazla Bilgi</a>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"This year, choose Freedom as a gift.  Here's an <strong><a href=\"https://"
+"www.fsf.org/blogs/community/fsf-giving-guide-freedom-is-the-greatest-gift-of-"
+"all\"> Ethical Tech Giving Guide</a></strong>"
+msgstr ""
+"Bu yıl hediye olarak Özgürlüğü seçin. <strong><a href=\"https://www.fsf.org/"
+"blogs/community/fsf-giving-guide-freedom-is-the-greatest-gift-of-all\">Etik "
+"Teknoloji Hediye Rehberi</a>ne bakabilirsiniz</strong>"
 
 #. type: Content of: <div><div><div><p>
 msgid ""

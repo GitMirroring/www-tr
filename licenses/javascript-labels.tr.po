@@ -6,25 +6,25 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-labels.html\n"
-"POT-Creation-Date: 2021-03-15 11:26+0000\n"
-"PO-Revision-Date: 2021-03-17 06:24+0100\n"
+"POT-Creation-Date: 2021-11-26 10:27+0000\n"
+"PO-Revision-Date: 2021-11-28 11:10+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid "JavaScript License Web Labels - GNU Project - Free Software Foundation"
 msgstr "JavaScript Lisans Web Etiketleri - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <div><h2>
+#. type: Content of: <h2>
 msgid "JavaScript License Web Labels"
 msgstr "JavaScript Lisans Web Etiketleri"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "If you are a webmaster deploying minified JavaScript on a site, here's a "
 "method for stating their licenses and source code locations without altering "
@@ -42,7 +42,7 @@ msgstr ""
 "html\">JavaScript'inizi Özgürleştirmek</a></em> yazısının 3.2. bölümünde "
 "önerilen ek izni içermiyor."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The JavaScript license web labels method is meant for files of minified "
 "JavaScript code.  This method complies with the relevant conditions in the "
@@ -54,7 +54,7 @@ msgstr ""
 "uyumludur ve LibreJS'nin bir sitedeki bilgilerin doğruluğunu onaylamasını "
 "sağlar."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Using web labels presumes that the corresponding JavaScript source files "
 "carry license notices that properly release them under a free license.  The "
@@ -68,7 +68,7 @@ msgstr ""
 "özgür kaynak kodunun uygun bir şekilde yayınlanması için lisansın "
 "belirtilmesi esastır. Henüz bunu yapmamışsanız, lütfen ilk önce bunu yapın."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "You can use web labels on non-minified JavaScript files too, to indicate "
 "their licenses in a way a program can recognize; but these are source files, "
@@ -81,7 +81,7 @@ msgstr ""
 "okunabilir lisans bildirimlerini koymayı unutmayın. Bu bildirimleri ihmal "
 "etmek, bu dosyaların yasal durumu hakkında belirsizlik yaratacaktır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The web labels method is not applicable to inline JavaScript included "
 "directly in HTML pages &mdash; their license information should be <a href="
@@ -93,7 +93,7 @@ msgstr ""
 "software/librejs/free-your-javascript.html\">doğrudan bulundukları "
 "sayfalarda belirtilmelidir</a>."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "For more explanation of why we designed this format, see the <a href=\"/"
 "licenses/javascript-labels-rationale.html\">rationale</a>."
@@ -102,11 +102,11 @@ msgstr ""
 "licenses/javascript-labels-rationale.html\">gerekçe açıklamamıza</a> "
 "bakabilirsiniz."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "Writing the labels page"
 msgstr "Etiketler sayfasını yazmak"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Add a page for JavaScript license web labels to your site.  You can use "
 "whatever path or filename is most convenient for you; others will find it "
@@ -126,7 +126,7 @@ msgstr ""
 "sitede kullanılan bağımsız bir JavaScript dosyası, lisansı ve ziyaretçilerin "
 "kaynak koduna nasıl erişebileceği hakkında bilgi sunmalıdır."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The first cell of each row names a JavaScript file used by the site.  The "
 "cell must contain an anchor tag that links to that file, just as "
@@ -136,7 +136,7 @@ msgstr ""
 "ismini içerecektir. Hücre bu dosyaya bağlantı etiketini içermelidir, tam da "
 "sitedeki <code>script</code> etiketlerinde olduğu gibi."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The second cell provides information about the license of this JavaScript "
 "file.  The cell must contain an anchor tag whose link refers to the full "
@@ -152,33 +152,33 @@ msgstr ""
 "altında olup olmadığına ilişkin bilgi de yer almalıdır. İyi şekildeki lisans "
 "tanımlayıcıları ve ilişkili bağlantıları şöyledir:"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid "<a href=\"/licenses/gpl-2.0.html\">GNU-GPL-2.0-or-later</a>"
 msgstr "<a href=\"/licenses/gpl-2.0.html\">GNU-GPL-2.0-or-later</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid "<a href=\"/licenses/gpl-3.0.html\">GNU-GPL-3.0-or-later</a>"
 msgstr "<a href=\"/licenses/gpl-3.0.html\">GNU-GPL-3.0-or-later</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid "<a href=\"/licenses/lgpl-2.1.html\">GNU-LGPL-2.1-or-later</a>"
 msgstr "<a href=\"/licenses/lgpl-2.1.html\">GNU-LGPL-2.1-or-later</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid "<a href=\"/licenses/lgpl-3.0.html\">GNU-LGPL-3.0-or-later</a>"
 msgstr "<a href=\"/licenses/lgpl-3.0.html\">GNU-LGPL-3.0-or-later</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid "<a href=\"/licenses/agpl-3.0.html\">GNU-AGPL-3.0-or-later</a>"
 msgstr "<a href=\"/licenses/agpl-3.0.html\">GNU-AGPL-3.0-or-later</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"http://www.apache.org/licenses/LICENSE-2.0\">Apache-2.0-only</a>"
 msgstr ""
 "<a href=\"http://www.apache.org/licenses/LICENSE-2.0\">Apache-2.0-only</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"http://directory.fsf.org/wiki/License:BSD_3Clause\">Modified-BSD</"
 "a>"
@@ -186,7 +186,7 @@ msgstr ""
 "<a href=\"http://directory.fsf.org/wiki/License:BSD_3Clause\">Modified-BSD</"
 "a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid ""
 "<a href=\"http://creativecommons.org/publicdomain/zero/1.0/legalcode"
 "\">CC0-1.0-only</a>"
@@ -194,16 +194,16 @@ msgstr ""
 "<a href=\"http://creativecommons.org/publicdomain/zero/1.0/legalcode"
 "\">CC0-1.0-only</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid "<a href=\"http://www.jclark.com/xml/copying.txt\">Expat</a>"
 msgstr "<a href=\"http://www.jclark.com/xml/copying.txt\">Expat</a>"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <ul><li>
 msgid "<a href=\"https://www.mozilla.org/en-US/MPL/2.0/\">MPL-2.0-or-later</a>"
 msgstr ""
 "<a href=\"https://www.mozilla.org/en-US/MPL/2.0/\">MPL-2.0-or-later</a>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "The third cell provides a link to the JavaScript's source code.  The source "
 "code file can be a single, unminified JavaScript file, a <code>.tar.gz</"
@@ -225,7 +225,7 @@ msgstr ""
 "JavaScript, zaten kaynak kodu biçimindeyse, bu hücrede aynı URL'ye yine "
 "bağlantı verin."
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "Below is an example table for illustration.  This site just uses one "
 "JavaScript file: a minified version of jQuery 1.7, distributed under the "
@@ -237,7 +237,7 @@ msgstr ""
 "dağıtılan sıkıştırılmış bir jQuery 1.7 dosyası. Tablo dosyayı karşılık gelen "
 "lisans bilgisi ve tam kaynak koduna bir bağlantıyla listeliyor:"
 
-#. type: Content of: <div><pre>
+#. type: Content of: <pre>
 #, no-wrap
 msgid ""
 "<code>&lt;table id=&quot;jslicense-labels1&quot;&gt;\n"
@@ -266,7 +266,7 @@ msgstr ""
 "&lt;/table&gt;\n"
 "</code>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "This page may include other text and markup, including your site's normal "
 "layout and navigation tools, but the table must be displayed prominently on "
@@ -276,11 +276,11 @@ msgstr ""
 "başka metin ve biçimlendirmeleri içerebilir, ancak tablo sayfada belirgin "
 "bir şekilde gösterilmelidir."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "Links to the labels page"
 msgstr "Etiketler sayfasına bağlantılar"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "On each page that uses JavaScript, include a link that points to the labels "
 "page described above.  Mark this link with the attribute <code>rel=&quot;"
@@ -292,7 +292,7 @@ msgstr ""
 "</code> ile işaretleyin, böylece otomatik araçlar onu bulabilsin. Örneğin, "
 "nihai bağlantınız şöyle olabilir:"
 
-#. type: Content of: <div><pre>
+#. type: Content of: <pre>
 #, no-wrap
 msgid ""
 "<code>&lt;a href=&quot;/about/javascript&quot; rel=&quot;jslicense&quot;&gt;JavaScript license information&lt;/a&gt;\n"
@@ -301,7 +301,7 @@ msgstr ""
 "<code>&lt;a href=&quot;/about/javascript&quot; rel=&quot;jslicense&quot;&gt;JavaScript lisans bilgisi&lt;/a&gt;\n"
 "</code>"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "This link can be small, but it should be clearly visible to people who visit "
 "your site."
@@ -309,11 +309,11 @@ msgstr ""
 "Bu bağlantı küçük olabilir ama sitenizi ziyaret eden insanlar tarafında "
 "kolayca görülebilmelidir."
 
-#. type: Content of: <div><h3>
+#. type: Content of: <h3>
 msgid "Notes"
 msgstr "Notlar"
 
-#. type: Content of: <div><p>
+#. type: Content of: <p>
 msgid ""
 "If you do these things, you will comply with the relevant conditions in the "
 "GNU software licenses, such as the GNU General Public License.  They should "
@@ -376,10 +376,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid ""
-"Copyright &copy; 2015, 2017, 2018, 2019, 2021 Free Software Foundation, Inc."
-msgstr ""
-"Copyright &copy; 2015, 2017, 2018, 2019, 2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2012, 2015, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2012, 2015, 2021 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
