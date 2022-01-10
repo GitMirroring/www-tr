@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fdl-howto-opt.html\n"
-"POT-Creation-Date: 2016-11-18 06:58+0000\n"
-"PO-Revision-Date: 2021-02-15 22:59+0100\n"
+"POT-Creation-Date: 2022-01-02 19:55+0000\n"
+"PO-Revision-Date: 2022-01-10 19:57+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -24,15 +24,15 @@ msgstr ""
 "GFDL'nin İsteğe Bağlı Özellikleri Nasıl Kullanılır - GNU Projesi - Özgür "
 "Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "How to Use the Optional Features of the GFDL"
 msgstr "GFDL'nin İsteğe Bağlı Özellikleri Nasıl Kullanılır"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"/licenses/fdl.html\">GNU FDL</a> (GNU Free Documentation "
 "License)  includes two optional features, <a href="
@@ -46,7 +46,7 @@ msgstr ""
 "href=\"#SEC2\"><strong>kapak metinleri</strong></a>. Kılavuzun lisans "
 "bildirimi bu özellikleri kullanıp kullanmadığınızı belirtmelidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The simplest case is that you do not use these features.  Then the license "
 "notice should say so, like this:"
@@ -54,24 +54,23 @@ msgstr ""
 "En basit durum, bu özellikleri kullanmadığınız durumdur. Bu durumda lisans "
 "bildirimi şöyle bir şey söylemelidir:"
 
-#. type: Content of: <pre>
-#, no-wrap
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
-"      no Back-Cover Texts.  A copy of the license is included in the\n"
-"      section entitled \"GNU Free Documentation License\".\n"
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation License, Version 1.3 or any later "
+"version published by the Free Software Foundation; with no Invariant "
+"Sections, no Front-Cover Texts, and no Back-Cover Texts.  A copy of the "
+"license is included in the section entitled \"GNU Free Documentation License"
+"\"."
 msgstr ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
-"      no Back-Cover Texts.  A copy of the license is included in the\n"
-"      section entitled \"GNU Free Documentation License\".\n"
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation License, Version 1.3 or any later "
+"version published by the Free Software Foundation; with no Invariant "
+"Sections, no Front-Cover Texts, and no Back-Cover Texts.  A copy of the "
+"license is included in the section entitled \"GNU Free Documentation License"
+"\"."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But if you want to use these features, here is an explanation of what they "
 "are intended for and how to use them."
@@ -79,11 +78,11 @@ msgstr ""
 "Ancak eğer bu özellikler kullanmak istiyorsanız, bu özelliklerin amacına ve "
 "nasıl kullanılabileceğinize yönelik açıklama aşağıdadır."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Invariant sections"
 msgstr "Değişmeyen Kısımlar"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The idea of invariant sections is that they give you a way to express "
 "nontechnical personal opinions about the topic."
@@ -91,7 +90,7 @@ msgstr ""
 "Değişmeyen kısımlar fikri, konu hakkındaki teknik olmayan kişisel "
 "düşüncelerinizi ifade etmeniz için bir yol sunmaya yarar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The classical example of an invariant nontechnical section in a free manual "
 "is the <a href=\"/gnu/manifesto.html\">GNU Manifesto</a>, which is included "
@@ -119,26 +118,23 @@ msgstr ""
 "kullanmadık. Bugün GNU FDL kullanarak bunu yapmak için, lisans bildirimini "
 "şu şekilde yazardık:"
 
-#. type: Content of: <pre>
-#, no-wrap
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with the Invariant Sections being just \"GNU\n"
-"      Manifesto\", with no Front-Cover Texts, and with no Back-Cover\n"
-"      Texts.  A copy of the license is included in the section\n"
-"      entitled \"GNU Free Documentation License\".\n"
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation License, Version 1.3 or any later "
+"version published by the Free Software Foundation; with the Invariant "
+"Sections being just &ldquo;GNU Manifesto,&rdquo; with no Front-Cover Texts, "
+"and with no Back-Cover Texts.  A copy of the license is included in the "
+"section entitled &ldquo;GNU Free Documentation License.&rdquo;"
 msgstr ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with the Invariant Sections being just \"GNU\n"
-"      Manifesto\", with no Front-Cover Texts, and with no Back-Cover\n"
-"      Texts.  A copy of the license is included in the section\n"
-"      entitled \"GNU Free Documentation License\".\n"
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation License, Version 1.3 or any later "
+"version published by the Free Software Foundation; with the Invariant "
+"Sections being just &ldquo;GNU Manifesto,&rdquo; with no Front-Cover Texts, "
+"and with no Back-Cover Texts.  A copy of the license is included in the "
+"section entitled &ldquo;GNU Free Documentation License.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This says that the section &ldquo;GNU Manifesto&rdquo; is the only invariant "
 "section."
@@ -146,7 +142,7 @@ msgstr ""
 "Bu metin, &ldquo;GNU Manifesto&rdquo; bölümünün tek değişmeyen kısım "
 "olduğunu söylüyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The old Emacs Manual license did not allow others who modify and "
 "redistribute the manual to add new invariant sections.  But while "
@@ -161,7 +157,7 @@ msgstr ""
 "yazarların yapabildiği gibi değişmeyen kısımlar yazabilmesinin ahlaken çok "
 "daha tutarlı olacağını düşündüm. FDL buna izin verir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But that feature requires a safeguard to prevent it from being abused to "
 "endanger the free status of the manual.  Person B who modifies a manual that "
@@ -181,7 +177,7 @@ msgstr ""
 "gerekir; belgenin kendisinin başkalarınca değiştirilebilir olması gerekir. "
 "FDL'nin değişmeyen kısımlar eklemeye yönelik koşulları bu güvenceyi sağlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is no need for a manual to have any invariant sections.  The simplest "
 "case is to have none at all.  You do not have to list the GNU FDL itself as "
@@ -199,11 +195,11 @@ msgstr ""
 "ayrım yapar. Bu bölümleri değişmeyen olarak listelememelisiniz, çünkü FDL bu "
 "bölümler için kuralları zaten belirlemiştir."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Cover texts"
 msgstr "Kapak Metinleri"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A cover text is a short piece of text that you insist must be printed on the "
 "cover of the manual when the manual is published, even if someone else is "
@@ -218,7 +214,7 @@ msgstr ""
 "arka kapakta yazılması gereken bir &ldquo;arka kapak metni&rdquo; "
 "tanımlayabilirsiniz. Her birinden sadece bir tane tanımlayabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Cover texts are a new feature, so I cannot cite past examples of their use, "
 "but the intended purpose is simple.  They are meant to give the original "
@@ -232,16 +228,15 @@ msgstr ""
 "kopyaları almaya teşvik etmenin bir yoludur. Örneğin, arka kapak metni "
 "olarak şöyle bir şey tanımladığımız farz edebiliriz:"
 
-#. type: Content of: <pre>
-#, no-wrap
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"    Free Manuals Inc. paid Alyssa P. Hacker to write this manual\n"
-"    and asks for your support through buying the Free Manuals edition.\n"
+"Free Manuals Inc. paid Alyssa P. Hacker to write this manual and asks for "
+"your support through buying the Free Manuals edition."
 msgstr ""
-"    Free Manuals Inc. paid Alyssa P. Hacker to write this manual\n"
-"    and asks for your support through buying the Free Manuals edition.\n"
+"Free Manuals Inc. paid Alyssa P. Hacker to write this manual and asks for "
+"your support through buying the Free Manuals edition."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This might help Free Manuals Inc. succeed in the business of publishing free "
 "manuals&mdash;at least, that is the plan.  To specify this back-cover text, "
@@ -251,26 +246,25 @@ msgstr ""
 "yardımcı olabilir, en azından plan bu. Bu arka kapak metnini belirtmek için, "
 "Free Manuals Inc. lisans bildirimini şu şekilde yazmalıdır:"
 
-#. type: Content of: <pre>
-#, no-wrap
+#. type: Content of: <div><blockquote><p>
 msgid ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
-"      one Back-Cover Text: \"Free Manuals Inc. paid Alyssa P. Hacker to\n"
-"      write this manual and asks for your support through buying the\n"
-"      Free Manuals edition.\"  A copy of the license is included in the\n"
-"      section entitled \"GNU Free Documentation License\".\n"
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation License, Version 1.3 or any later "
+"version published by the Free Software Foundation; with no Invariant "
+"Sections, no Front-Cover Texts, and one Back-Cover Text: &ldquo;Free Manuals "
+"Inc. paid Alyssa P. Hacker to write this manual and asks for your support "
+"through buying the Free Manuals edition.&rdquo; A copy of the license is "
+"included in the section entitled &ldquo;GNU Free Documentation License."
+"&rdquo;"
 msgstr ""
-"      Permission is granted to copy, distribute and/or modify this\n"
-"      document under the terms of the GNU Free Documentation License,\n"
-"      Version 1.3 or any later version published by the Free Software\n"
-"      Foundation; with no Invariant Sections, no Front-Cover Texts, and\n"
-"      one Back-Cover Text: \"Free Manuals Inc. paid Alyssa P. Hacker to\n"
-"      write this manual and asks for your support through buying the\n"
-"      Free Manuals edition.\"  A copy of the license is included in the\n"
-"      section entitled \"GNU Free Documentation License\".\n"
+"Permission is granted to copy, distribute and/or modify this document under "
+"the terms of the GNU Free Documentation License, Version 1.3 or any later "
+"version published by the Free Software Foundation; with no Invariant "
+"Sections, no Front-Cover Texts, and one Back-Cover Text: &ldquo;Free Manuals "
+"Inc. paid Alyssa P. Hacker to write this manual and asks for your support "
+"through buying the Free Manuals edition.&rdquo; A copy of the license is "
+"included in the section entitled &ldquo;GNU Free Documentation License."
+"&rdquo;"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -298,14 +292,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -319,8 +313,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2000, 2008, 2014, 2016 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2000, 2008, 2014, 2016 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2000, 2008, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2000, 2008, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

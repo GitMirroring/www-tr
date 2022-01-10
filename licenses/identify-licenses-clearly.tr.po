@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: identify-licenses-clearly.html\n"
-"POT-Creation-Date: 2021-05-19 11:25+0000\n"
-"PO-Revision-Date: 2021-05-21 15:24+0200\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-10 20:05+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -25,21 +25,18 @@ msgstr ""
 "&ldquo;GNU GPL 2 altında lisanslanmıştır&rdquo; demeyin! - GNU Projesi - "
 "Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid ""
 "For Clarity's Sake, Please Don't Say &ldquo;Licensed under GNU GPL 2&rdquo;!"
 msgstr ""
 "Anlaşılabilirlik adına, lütfen &ldquo;GNU GPL 2 altında "
 "lisanslanmıştır&rdquo; demeyin!"
 
-#. type: Content of: <p>
-msgid ""
-"by <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</strong></a>"
-msgstr ""
-"yazan <a href=\"http://www.stallman.org/\"><strong>Richard Stallman</"
-"strong></a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When I wrote the GNU General Public License (GNU GPL), in 1989, I recognized "
 "that changes might be necessary: the FSF might someday have reasons to "
@@ -53,7 +50,7 @@ msgstr ""
 "sürüm&rdquo; dedim ve kullanıcıların programlarını sonraki lisans "
 "sürümlerine güncelleyebilmesi için bir çerçeve oluşturdum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There was no customary way of doing this with a free license; as far as I "
 "know, it had never been done before. Developers had released a new version "
@@ -69,7 +66,7 @@ msgstr ""
 "Ancak halihazırda yayınlanmış program sürümleri için gelecekteki bir lisansı "
 "kullanma seçeneğini kullanıcılara öneren sistematik bir yol oluşturulmamıştı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I did not know how developers would respond to this innovation, so I decided "
 "to give each developer a choice about allowing future versions. This meant "
@@ -87,7 +84,7 @@ msgstr ""
 "ettikleri yer, her kaynak dosyanın başında yer alan <b>lisans bildirimiydi</"
 "b>. Bu GPL'nin karar ifade edilsin dediği yerdi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The Free Software Foundation urged developers to choose <b>or any later "
 "version</b>, since that meant users would be free to use that program under "
@@ -101,7 +98,7 @@ msgstr ""
 "kullanmakta özgür olacakları anlamına geliyordu. Ve eğer bir gün gelir de "
 "sürüm 4 çıkarırsak onu sürüm 4 altında da kullanmakta özgür olacaklardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Since then, the FSF has released GNU GPL version 2 in 1991 and version 3 in "
 "2007. Each version offers developers the choice to insist on that one "
@@ -115,7 +112,7 @@ msgstr ""
 "sunuyor. (GPL 3 &ldquo;vekil&rdquo; [proxy] seçeneği de sunuyor, belirli bir "
 "web sayfası sonradan belirli bir gelecekteki sürümü kullanma izni verebilir.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Publishing programs with license upgrade permission is vital to avoid "
 "incompatibility between programs released under different GPL versions."
@@ -124,7 +121,7 @@ msgstr ""
 "yayınlanmış programlar arasındaki uyumsuzluklardan kaçınmak için çok "
 "önemlidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Two different copyleft licenses are almost inevitably incompatible in the "
 "absence of some explicit compatibility mechanism. That is because each one "
@@ -138,12 +135,12 @@ msgstr ""
 "gerektirmesidir. Sonuç olarak, sadece GPL sürüm 2 altında yayınlanmış bir "
 "kod, sadece GPL sürüm 3 altında yayınlanmış bir kodla birleştirilemez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The mechanism for compatibility between GPL versions is to release a program "
 "under &ldquo;version N or any later version.&rdquo; A program released under "
 "GPL-2.0-or-later can be merged with code under GPL-3.0-or-later, because "
-"&ldquo;3 or later&rdquo; is a subset of &ldquo;2 or later&rdquo;."
+"&ldquo;3 or later&rdquo; is a subset of &ldquo;2 or later.&rdquo;"
 msgstr ""
 "GPL sürümleri arasındaki uyumluluk için düzenek bir programı &ldquo;sürüm N "
 "veya daha sonraki bir sürüm&rdquo; altında yayınlamaktır. GPL-2.0-or-later "
@@ -152,7 +149,7 @@ msgstr ""
 "çünkü &ldquo;3 veya sonraki&rdquo; &ldquo;2 veya sonraki&rdquo;'nin bir alt "
 "kümesidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some developers say, &ldquo;I will release now under GNU GPL version 3 "
 "only.  When I see GPL version 4, if I like it, I will relicense my program "
@@ -160,7 +157,7 @@ msgid ""
 "author, provided you're still alive, healthy, contactable, and paying "
 "attention at that time. But copyright lasts an insanely long time nowadays; "
 "in the absence of major reforms, the copyright on your code will last 70 "
-"years after your death, in the US (and 100 years, in Mexico). Have you made "
+"years after your death in the US (and 100 years in Mexico). Have you made "
 "arrangements for your heirs to consider the question of relicensing your "
 "code to GPL version 4 if you are no longer around to consider it?"
 msgstr ""
@@ -175,7 +172,7 @@ msgstr ""
 "kodunuzu GPL sürüm 4 altında yeniden lisanslamaları için varisleriniz için "
 "gerekli düzenlemeleri yaptınız mı?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But trouble will happen even during your lifetime. What if we release GNU "
 "GPL version 4 ten years from now, and by that time 50 others have added to "
@@ -192,7 +189,7 @@ msgstr ""
 "kısımların GPL 4 kullanım iznini o zaman almak için bağlantıya geçmek büyük "
 "bir iş olacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The way to avoid these problems is by approving future GPL versions in the "
 "license notice at the outset. Please put on each nontrivial file of the "
@@ -204,7 +201,7 @@ msgstr ""
 "kaynak dosyaya kullandığınız GPL sürümünün sonunda gösterilmiş biçimdeki "
 "lisans bildirimini koyun."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Because we handle license compatibility this way, when people tell you a "
 "program is released &ldquo;under GNU GPL version 2,&rdquo; they are leaving "
@@ -219,7 +216,7 @@ msgstr ""
 "altında mı yayınlanmış? Kodu GPL-3.0-or-later [GPL-3.0-veya-sonraki] altında "
 "yayınlanmış paketlerle birleştirebilir misiniz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When sites such as GitHub invite developers to choose &ldquo;GPL 3&rdquo; or "
 "&ldquo;GPL 2&rdquo; among other license options, and don't raise the issue "
@@ -238,7 +235,7 @@ msgstr ""
 "belirginleştirmelerine yol açar. Ayrıca ikinci seçeneğin gelecekteki "
 "uyumsuzluklardan nasıl kaçındığını açıklama imkanı da sunar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Abbreviated license indicators such as &ldquo;GPL-2.0&rdquo; or &ldquo;"
 "GPL-3.0&rdquo; will lead to confusion too. People and organizations that "
@@ -252,40 +249,40 @@ msgstr ""
 "bir ayrım yapılması gerektiğinin farkına varmadan her iki durumda da &ldquo;"
 "GPL-2.0&rdquo; yazmaya yatkın olacaklardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "Therefore, when you use SPDX license indicators, please use these:"
 msgstr ""
 "Bu yüzden, SPDX lisans tanımlayıcı kullanırken, şunlardan birini kullanın:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "GPL-2.0-only or GPL-2.0-or-later"
 msgstr "GPL-2.0-only veya GPL-2.0-or-later"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "GPL-3.0-only or GPL-3.0-or-later"
 msgstr "GPL-3.0-only veya GPL-3.0-or-later"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "LGPL-2.0-only or LGPL-2.0-or-later"
 msgstr "LGPL-2.0-only veya LGPL-2.0-or-later"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "LGPL-2.1-only or LGPL-2.1-or-later"
 msgstr "LGPL-2.1-only veya LGPL-2.1-or-later"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "LGPL-3.0-only or LGPL-3.0-or-later"
 msgstr "LGPL-3.0-only veya LGPL-3.0-or-later"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "AGPL-3.0-only or AGPL-3.0-or-later"
 msgstr "AGPL-3.0-only veya AGPL-3.0-or-later"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "GFDL-1.3-only or GFDL-1.3-or-later"
 msgstr "GFDL-1.3-only veya GFDL-1.3-or-later"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Please do not use the old, ambiguous license indicators, which will be "
 "deprecated:"
@@ -293,35 +290,35 @@ msgstr ""
 "Lütfen aşağıdaki eski, muğlak lisans tanımlayıcılarını kullanmayın, zamanla "
 "bunlar kullanımdan kalkacaktır:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "GPL-2.0"
 msgstr "GPL-2.0"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "GPL-3.0"
 msgstr "GPL-3.0"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "LGPL-2.0"
 msgstr "LGPL-2.0"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "LGPL-2.1"
 msgstr "LGPL-2.1"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "LGPL-3.0"
 msgstr "LGPL-3.0"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "AGPL-3.0"
 msgstr "AGPL-3.0"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "GFDL-1.3."
 msgstr "GFDL-1.3."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Giving developers the choice of GPL version &ldquo;1 only&rdquo; or GPL "
 "version &ldquo;1 or later&rdquo; seemed obligatory in 1989, but it has "
@@ -343,7 +340,7 @@ msgstr ""
 "Commons copyleft lisansı, CC BY-SA, kullanıcıların çalışmayı "
 "değiştirdiklerinde lisans sürümünü yükseltmelerine de izin verir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Perhaps we should switch to that approach for future versions of the GNU "
 "GPL. But that is something to think about in the future."
@@ -351,7 +348,7 @@ msgstr ""
 "Belki de GNU GPL'nin gelecekteki sürümlerinde bu yaklaşıma geçmeliyiz. Ama "
 "bu gelecekte düşünmemiz gereken bir şey."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We thank SPDX for deciding to change the short identifiers for the GNU "
 "family of licenses to make the &ldquo;or later&rdquo; versus &ldquo;"
@@ -369,7 +366,7 @@ msgstr ""
 "kalkacak. İnsanları, bir an önce muğlak tanımlayıcılar yerine bu yeni "
 "belirsizliğe yer vermeyen tanımlayıcıları kullanmaya çağırıyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By using identifiers that are explicit as to <b>only</b> or <b>any later "
 "version</b>, we can make the community aware of the difference and encourage "
@@ -427,8 +424,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2017, 2018, 2020, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2017, 2018, 2020, 2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2017, 2020, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2017, 2020, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

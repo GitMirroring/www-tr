@@ -12,7 +12,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rms-nyu-2001-transcript.html\n"
-"POT-Creation-Date: 2021-11-08 12:56+0000\n"
+"POT-Creation-Date: 2021-12-25 21:25+0000\n"
 "PO-Revision-Date: 2021-11-14 08:32+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -30,15 +30,15 @@ msgid ""
 msgstr ""
 "Özgür Yazılım: Özgürlük ve İşbirliği - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Free Software: Freedom and Cooperation"
 msgstr "Özgür Yazılım: Özgürlük ve İşbirliği"
 
-#. type: Content of: <address>
+#. type: Content of: <div><address>
 msgid "by Richard Stallman"
 msgstr "yazan Richard Stallman"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Transcript of a speech that was given at New York University in New York, "
 "NY, on 29 May 2001."
@@ -46,7 +46,7 @@ msgstr ""
 "29 Mayıs 2001 tarihinde New York'taki New York Üniversitesi'nde yapılan "
 "konuşmanın çözümlemesidir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "A <a href=\"/philosophy/rms-nyu-2001-transcript.txt\">plain text</a> version "
 "of this transcript and a <a href=\"/philosophy/rms-nyu-2001-summary.txt"
@@ -56,7 +56,7 @@ msgstr ""
 "a> sürümü ve <a href=\"/philosophy/rms-nyu-2001-summary.txt\">özeti</a> de "
 "vardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>URETSKY</strong>: I'm Mike Uretsky.  I'm over at the Stern School of "
 "Business.  I'm also one of the Co-Directors of the Center for Advanced "
@@ -70,7 +70,7 @@ msgstr ""
 "geldiniz demek istiyorum. Size konuşmacıyı takdim edecek olan Ed'e mikrofonu "
 "vermeden önce bazı açıklamalarda bulunmak istiyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The role of a university is a place to foster debate and to have interesting "
 "discussions.  And the role of a major university is to have particularly "
@@ -84,7 +84,7 @@ msgstr ""
 "seminer bu kalıba girer. Açık kaynak tartışmasını özellikle ilginç "
 "buluyorum. Bir anlamda &hellip; <i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: I do free software.  Open source is a different "
 "movement.  <i>[Laughter] [Applause]</i>"
@@ -92,7 +92,7 @@ msgstr ""
 "<strong>STALLMAN</strong>: Özgür yazılım yapıyorum. Açık kaynak farklı bir "
 "harekettir. <i>[Dinleyiciler güler] [Alkış]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>URETSKY</strong>: When I first started in the field in the '60's, "
 "basically software was free.  And we went in cycles.  It became free, and "
@@ -107,7 +107,7 @@ msgstr ""
 "gerçekleşen birçok hareket, tam olarak da benzer bir çevrim tipinde hareket "
 "etti."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There's a very interesting French philosopher, Pierre Levy, who talks about "
 "movement to this direction and who talks about the move into cyberspace as "
@@ -127,7 +127,7 @@ msgstr ""
 "teselli gibi olan çok sayıda disiplinin sınırlarının ötesine giden bir şey "
 "olmasını umuyoruz. Bazı çok ilginç tartışmaları dört gözle bekliyoruz. Ed?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>SCHONBERG</strong>: I'm Ed Schonberg from the Computer Science "
 "Department at the Courant Institute.  Let me welcome you all to this event.  "
@@ -146,7 +146,7 @@ msgstr ""
 "tartışmanın parametrelerini ciddi ölçüde düzeltebilir ve <i>[Dinleyiciler "
 "güler]</i> keskin hale getirebilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, let me make the briefest possible introduction to somebody who doesn't "
 "need one.  Richard is the perfect example of somebody who, by acting "
@@ -167,7 +167,7 @@ msgstr ""
 "geliştirmiştir. Richard Stallman'a hoş geldiniz demek istiyorum. <i>[Alkış]</"
 "i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Can someone lend me a watch? <i>[Laughter]</i> "
 "Thank you.  So, I'd like to thank Microsoft for providing me the opportunity "
@@ -191,7 +191,7 @@ msgstr ""
 "çalışmamızın açık kaynakla işinin olmadığını fark etmemektedir, çünkü "
 "insanlar açık kaynak ifadesini bulmadan önce işin çoğunu gerçekleştirdik."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We are in the free software movement, and I'm going to speak about what the "
 "free software movement is about, what it means, what we have done, and, "
@@ -205,7 +205,7 @@ msgstr ""
 "nasıl bir ilgisi olduğu hakkında ve sosyal hayatın bazı diğer alanları "
 "hakkında bir şeyler söyleyeceğim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, some of you may not ever write computer programs, but perhaps you "
 "cook.  And if you cook, unless you're really great, you probably use "
@@ -240,7 +240,7 @@ msgstr ""
 "kopyasını verebilirsiniz. Bunlar, herhangi bir tipteki işlevsel olarak "
 "yararlı yemek tarifleriyle yapabileceğiniz doğal şeylerdir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now a recipe is a lot like a computer program.  A computer program's a lot "
 "like a recipe: a series of steps to be carried out to get some result that "
@@ -267,7 +267,7 @@ msgstr ""
 "olduğunuz için, bilgisayar programınızın bir kopyasını verirsiniz. Bu, nazik "
 "bir insan olmanın yoludur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So imagine what it would be like if recipes were packaged inside black "
 "boxes.  You couldn't see what ingredients they're using, let alone change "
@@ -285,7 +285,7 @@ msgstr ""
 "dünyasında durum aynen böyledir. Bu, diğer insanlara karşı genel inceliğin "
 "olmadığı ya da engellendiği bir dünyadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, why did I notice this? I noticed this because I had the good fortune in "
 "the 1970's to be part of a community of programmers who shared software.  "
@@ -316,7 +316,7 @@ msgstr ""
 "yaşıyorduk. Ve bildiğimiz kadarıyla, bu şekilde yaşamayı sürdürecektik. Bu "
 "nedenle özgür yazılım vardı ama özgür yazılım hareketi yoktu."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But then our community was destroyed by a series of calamities that happened "
 "to it.  Ultimately it was wiped out.  Ultimately, the PDP-10 computer which "
@@ -337,7 +337,7 @@ msgstr ""
 "bunun devamı gelmezse, tüm çalışmanız boşa gider, işe yaramaz. Ve bizim "
 "başımıza da bu geldi. 20 yıllık çalışma boşa gitti."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But before this happened, I had an experience that prepared me, helped me "
 "see what to do, helped prepare me to see what to do when this happened, "
@@ -362,7 +362,7 @@ msgstr ""
 "bu sıkışmayı çözecek birileri bulunur. Yazıcıda sıkışma oldu ve kimse "
 "görmedi. Bu nedenle yazıcı uzun süre sorunlu halde kaldı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Well, we had an idea for how to deal with this problem.  Change it so that "
 "whenever the printer gets a jam, the machine that runs the printer can tell "
@@ -379,7 +379,7 @@ msgstr ""
 "kullanıcılar, bir çıktı bekliyorlarsa ve yazıcıda sıkışma olduğunu "
 "biliyorlarsa, sonsuza kadar oturup beklemeyecek ve sorunu çözeceklerdi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But at that point, we were completely stymied, because the software that ran "
 "that printer was not free software.  It had come with the printer, and it "
@@ -395,7 +395,7 @@ msgstr ""
 "olmamıza rağmen, ne de olsa kendi zaman paylaşımlı sistemimizi yazmıştık, bu "
 "özelliği yazıcı yazılımına ekleme konusunda tamamıyla çaresizdik."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And we just had to suffer with waiting.  It would take an hour or two to get "
 "your printout because the machine would be jammed most of the time.  And "
@@ -422,7 +422,7 @@ msgstr ""
 "geliştirmemizi önleyerek bizi engellemekteydi. Bu nedenle tabi ki bir miktar "
 "küskünlük hissettik."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And then I heard that somebody at Carnegie Mellon University had a copy of "
 "that software.  So I was visiting there later, so I went to his office and I "
@@ -446,7 +446,7 @@ msgstr ""
 "soyutlanmış bir olay değil ayrıca önemli olan ve çok sayıda kimseyi "
 "etkileyen sosyal bir fenomen görmekte olduğumu fark ettim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This was&mdash;for me&mdash;I was lucky, I only got a taste of it, but other "
 "people had to live in this all the time.  So I thought about it at length.  "
@@ -473,7 +473,7 @@ msgstr ""
 "doğmamış olanlardır. Çünkü Dünya gezegeninin tüm nüfusu ile işbirliği "
 "yapmayı reddetmeye söz verdi. Bir gizlilik anlaşması imzaladı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, this was my first, direct encounter with a non-disclosure agreement, "
 "and it taught me an important lesson&mdash;a lesson that's important because "
@@ -506,7 +506,7 @@ msgstr ""
 "biri imzalayacak.&rdquo; Vicdanlarını rahatlatmak için çeşitli bahaneler "
 "bulurlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But when somebody invited me to sign a non-disclosure agreement, my "
 "conscience was already sensitized.  It remembered how angry I had been, when "
@@ -539,7 +539,7 @@ msgstr ""
 "Ve böylece, yazılım gibi genel olarak yararlı teknik bilgi için bir gizlilik "
 "anlaşması imzalamadım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now there are other kinds of information which raise different ethical "
 "issues.  For instance, there's personal information.  You know, if you "
@@ -556,7 +556,7 @@ msgstr ""
 "bilgi değildir. En azından, muhtemelen genel olarak yararlı değildir. <i>"
 "[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There is a small chance&mdash;and it's a possibility though&mdash;that you "
 "might reveal to me some marvelous new sex technique, <i>[Laughter]</i> and I "
@@ -583,7 +583,7 @@ msgstr ""
 "tutmaya söz verirsek – gizli tutarsak – o zaman alanımızın misyonuna ihanet "
 "ederiz. Ve bunu yapmamaya karar verdim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But, meanwhile my community had collapsed, and that was collapsing, and that "
 "left me in a bad situation.  You see, the whole Incompatible Timesharing "
@@ -619,7 +619,7 @@ msgstr ""
 "Hayatımı insanlar arasında duvarlar örmek için harcadım&rdquo; diyeceğimi ve "
 "hayatımdan utanç duyacağımı fark ettim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So I looked for another alternative, and there was an obvious one.  I could "
 "leave the software field and do something else.  Now I had no other special "
@@ -667,7 +667,7 @@ msgstr ""
 "anlamına gelirdi. Bu nedenle, yeteneklerimi kötüye kullanmak yerine harcamak "
 "daha iyidir ancak hâlâ yine de gerçekten de iyi değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So for those reasons, I decided to look for some other alternative.  What "
 "can an operating system developer do that would actually improve the "
@@ -712,7 +712,7 @@ msgstr ""
 "sistemi geliştirirken ya da geliştirmeye çalışırken...yaşlı bir halde tabi "
 "ki ölmeye karar verdim. <i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, of course I had to decide what kind of operating system it should be.  "
 "There are some technical design decisions to be made.  I decided to make the "
@@ -750,7 +750,7 @@ msgstr ""
 "fazla çalışma gerekiyor. Unix yerine sizin sisteminizi kullanmamız çok "
 "zorlayıcı, bu nedenle Unix'le çalışmaya devam edeceğiz&rdquo;."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, if I wanted to actually create a community where there would be people "
 "in it, people using this free system, and enjoying the benefits of liberty "
@@ -777,7 +777,7 @@ msgstr ""
 "içindedir ve söz konusu parçayı kim yazmaya karar verirse, o kişi tarafından "
 "gerçekleştirilebilir. Başlangıçta gerçekleştirilmeleri gerekmez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So all we had to do to start work was find a name for the system.  Now, we "
 "hackers always look for a funny or naughty name for a program, because "
@@ -817,7 +817,7 @@ msgstr ""
 "yeni sürüm Zwei olarak adlandırıldı, Başlangıçta Zwei Eine İdi. <i>"
 "[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So I looked for a recursive acronym for Something is not Unix.  And I tried "
 "all 26 letters, and discovered that none of them was a word.  <i>[Laughter]</"
@@ -859,7 +859,7 @@ msgstr ""
 "<i>[Dinleyiciler güler]</i> böylece GNU'yu, bu bir hayvan adı olduğunda, "
 "doğru şekilde telaffuz etmeyi bileceğim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But, when it's the name of our system, the correct pronunciation is &ldquo;"
 "guh-NEW&rdquo;&mdash;pronounce the hard &ldquo;G.&rdquo; If you talk about "
@@ -876,7 +876,7 @@ msgstr ""
 "olacaktır, GNU, kaç insan onu yanlışlıkla Linux olarak adlandırırsa "
 "adlandırsın. <i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, in January 1984, I quit my job at MIT to start writing pieces of GNU.  "
 "They were nice enough to let me keep using their facilities though.  And, at "
@@ -912,7 +912,7 @@ msgstr ""
 "Emacs benim kullanabilmem için yeterince iyi bir şekilde çalıştığında, diğer "
 "insanlar da onu kullanmak istemiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So I had to work out the details of distribution.  Of course, I put a copy "
 "in the anonymous FTP directory, and that was fine for people who were on the "
@@ -947,7 +947,7 @@ msgstr ""
 "size Emacs'ın bandını yollayayım.&rdquo; Ve siparişler gelmeye başladı. "
 "Yılın ortası itibariyle siparişler arttı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I was getting 8 to 10 orders a month.  And, if necessary, I could have lived "
 "on just that, because I've always lived cheaply. I live like a student, "
@@ -969,7 +969,7 @@ msgstr ""
 "olarak ne yapmanız gerektiğini zorla kabul ettirir. Sizin için gerçekten de "
 "önemli olan şeyi yapamazsınız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, that was fine, but people used to ask me, &ldquo;What do you mean it's "
 "free software if it costs $150?&rdquo; <i>[Laughter]</i> Well, the reason "
@@ -1001,7 +1001,7 @@ msgstr ""
 "olan konu bu değil. Burada önemli olan konu özgürlük. Kullanan kişi "
 "programcı olsun olmasın, yazılımı kullanan herkes için özgürlük."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So at this point I should give you the definition of free software.  I "
 "better get to some real details, you see, because just saying &ldquo;I "
@@ -1017,7 +1017,7 @@ msgstr ""
 "özgürlükler nelerdir, herkesin sahip olduğundan emin olduğumuz özgürlükler "
 "midir?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And now, I will give my answer to that question for the particular area of "
 "using software.  A program is free software for you, a particular user, if "
@@ -1027,7 +1027,7 @@ msgstr ""
 "ilişkin cevabı vereceğim. Aşağıdaki özgürlüklere sahipseniz, bir program "
 "sizin için &ldquo;özgür yazılım&rdquo;dır:"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "First, Freedom Zero is the freedom to run the program for any purpose, any "
 "way you like."
@@ -1035,7 +1035,7 @@ msgstr ""
 "İlk olarak, Özgürlük Sıfır, programı istediğiniz amaç için, istediğiniz "
 "şekilde çalıştırabilme özgürlüğüdür."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Freedom One is the freedom to help yourself by changing the program to suit "
 "your needs."
@@ -1043,7 +1043,7 @@ msgstr ""
 "Özgürlük Bir, programı ihtiyaçlarınıza uygun olacak şekilde değiştirebilme "
 "özgürlüğüdür."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "Freedom Two is the freedom to help your neighbor by distributing copies of "
 "the program."
@@ -1051,7 +1051,7 @@ msgstr ""
 "Özgürlük İki, programın kopyalarını dağıtarak komşunuza yardım edebilme "
 "özgürlüğüdür."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "And Freedom Three is the freedom to help build your community by publishing "
 "an improved version so others can get the benefit of your work."
@@ -1060,7 +1060,7 @@ msgstr ""
 "oluşturma özgürlüğüdür, böylece başkaları da çalışmalarınızdan "
 "faydalanabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you have all of these freedoms, the program is free software, for "
 "you&mdash;and that's crucial.  That's why I phrase it that way.  I'll "
@@ -1074,7 +1074,7 @@ msgstr ""
 "şimdi özgür yazılımın ne olduğunu açıklayacağım, bu, çok daha temel bir "
 "sorudur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, Freedom Zero's pretty obvious.  If you're not even allowed to run the "
 "program anyway you like, it is a pretty damn restrictive program.  But as it "
@@ -1093,7 +1093,7 @@ msgstr ""
 "ve Üçtür, bu nedenle bu özgürlükleri ve niçin önemli olduklarını "
 "açıklayacağım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom One is the freedom to help yourself by changing the software to suit "
 "your needs.  This could mean fixing bugs.  It could mean adding new "
@@ -1107,7 +1107,7 @@ msgstr ""
 "Navajo'ya dönüştürülmesi anlamına gelebilir. Herhangi bir değişiklik yapmak "
 "isterseniz, söz konusu değişikliği özgürce yapabilmelisiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, it's obvious that professional programmers can make use of this freedom "
 "very effectively, but not just them.  Anybody of reasonable intelligence can "
@@ -1128,7 +1128,7 @@ msgstr ""
 "durum da, ABD.'nin 2. Dünya Savaşında motorize bir orduya sahip olmasını ve "
 "savaşı kazanmasını sağlamıştır. Bu tip insanlara sahip olmak çok önemlidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And if you are a people person, and you really don't want to learn "
 "technology at all, that probably means that you have a lot of friends, and "
@@ -1145,7 +1145,7 @@ msgstr ""
 "değiştirir misin? Bu özelliği ekler misin?&rdquo; Böylece, çok sayıda insan "
 "programdan faydalanabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, if you don't have this freedom, it causes practical, material harm to "
 "society.  It makes you a prisoner of your software.  I explained what that "
@@ -1158,7 +1158,7 @@ msgstr ""
 "kötü bir şekilde çalışmıştır ve bu sorunu gideremezdik çünkü yazılımımızın "
 "kölesiydik."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But it also affects people's morale.  You know if the computer is constantly "
 "frustrating to use, and people are using it, their lives are going to be "
@@ -1184,7 +1184,7 @@ msgstr ""
 "kötüdür ve bu, toplumun bütünü için kötüdür. Bu, Özgürlük Birdir, kendinize "
 "yardım etme özgürlüğüdür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom Two is the freedom to help your neighbor by distributing copies of "
 "the program.  Now, for beings that can think and learn, sharing useful "
@@ -1210,7 +1210,7 @@ msgstr ""
 "tarafından paylaşmanın önemi fark edilmiştir ve açık bir şekilde bu "
 "davranışı yüreklendirmeye çalışmaktadırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When I was going to kindergarten, the teachers were trying to teach us this "
 "attitude&mdash;the spirit of sharing&mdash;by having us do it.  They figured "
@@ -1239,7 +1239,7 @@ msgstr ""
 "İnsanların kendilerine de özen göstermeleri gereklidir. Ancak bunu biraz "
 "daha büyütebilirsek, hepimiz daha iyi durumda olacağız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nowadays, according to the U.S. Government, teachers are supposed to do the "
 "exact opposite.  &ldquo;Oh, Johnny, you brought software to school.  Well, "
@@ -1250,7 +1250,7 @@ msgstr ""
 "&ldquo;Johnny, yazılımı okula getirdin. Paylaşma. Hayır. Paylaşmak "
 "yanlıştır. Paylaşmak senin bir korsan olduğun anlamına gelir.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What do they mean when they say &ldquo;pirate&rdquo;? They're saying that "
 "helping your neighbor is the moral equivalent of attacking a ship.  <i>"
@@ -1260,7 +1260,7 @@ msgstr ""
 "etmenin bir gemiye saldırmakla ahlaki açıdan eş değer olduğunu söylerler. <i>"
 "[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What would Buddha or Jesus say about that? Now, take your favorite religious "
 "leader.  I don't know, maybe Manson would have said something different.  <i>"
@@ -1270,11 +1270,11 @@ msgstr ""
 "Bilmiyorum, belki de Manson farklı bir şeyler söyler. <i>[Dinleyiciler güler]"
 "</i> L. Ron Hubbard'ın ne söyleyeceğini kim bilebilir? Ama &hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>QUESTION</strong>: <i>[Inaudible]</i>"
 msgstr "<strong>SORU</strong>: <i>[Anlaşılmıyor]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Of course, he's dead.  But they don't admit "
 "that.  What?"
@@ -1282,7 +1282,7 @@ msgstr ""
 "<strong>STALLMAN</strong>: Tabi ki, o ölmüştür. Ama bunu kabul etmezler. "
 "Efendim?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: So are the others, also dead.  <i>[Laughter] "
 "[Inaudible]</i> Charles Manson's also dead.  <i>[Laughter]</i> They're dead, "
@@ -1292,7 +1292,7 @@ msgstr ""
 "[Anlaşılmıyor]</i> Charles Manson da ölüdür. <i>[Dinleyiciler güler]</i> "
 "Hepsi ölüler, İsa ölü, Buda ölü&hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Yes, that's true.  <i>[Laughter]</i> So I guess, "
 "in that regard, L. Ron Hubbard is no worse than the others.  <i>[Laughter]</"
@@ -1302,7 +1302,7 @@ msgstr ""
 "nedenle tahmin ediyorum ki, bu anlamda, L. Ron Hubbard diğerlerinden daha "
 "kötü değil. <i>[Dinleyiciler güler]</i> Her neyse<i>[Anlaşılmıyor]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: L. Ron always used free software&mdash;it freed "
 "him from Zanu.  <i>[Laughter]</i>"
@@ -1310,7 +1310,7 @@ msgstr ""
 "<strong>SORU</strong>:L. Ron her zaman özgür yazılım kullandı – bu, onu "
 "Zanu'dan kurtardı. <i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Anyway, so, I think this is actually the most "
 "important reason why software should be free: We can't afford to pollute "
@@ -1332,7 +1332,7 @@ msgstr ""
 "üzerinde bir etkimiz olacaktır ve bu, iyi bir etki değildir. Bu, Özgürlük "
 "İkidir, komşunuza yardım etme özgürlüğünüzdür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Oh, and by the way, if you don't have that freedom, it doesn't just cause "
 "this harm to society's psycho-social resource, it also causes waste&mdash;"
@@ -1368,7 +1368,7 @@ msgstr ""
 "bir anlamı olmayacaktı. Arabalar gibi fiziksel nesneler için, ek nesneler, "
 "her bir numuneyi üretmek için kaynaklar kullanılacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But for software that's not true.  Anybody can make another copy.  And it's "
 "almost trivial to do it.  It takes no resources, except a tiny bit of "
@@ -1399,7 +1399,7 @@ msgstr ""
 "dayanak noktalarına bağlı olduğunun incelenmesi çok önemlidir. Bu nedenle, "
 "bu Özgürlük İkidir, komşunuza yardım edebilme özgürlüğünüzdür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom Three is the freedom to help build your community by publishing an "
 "improved version of the software.  People used to say to me, &ldquo;If the "
@@ -1422,7 +1422,7 @@ msgstr ""
 "100,000'den fazla insanın ise gönüllü olarak çalıştığı gerçeğini görürüz. "
 "Birçok farklı nedenle özgür yazılım üzerinde çalışan çok sayıda insan vardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When I first released GNU Emacs&mdash;the first piece of the GNU system that "
 "people actually wanted to use&mdash;and when it started having users, after "
@@ -1442,7 +1442,7 @@ msgstr ""
 "geldi, o kadar çok mesaj geldi ki, bu kadar çok yardımın kullanılması büyük "
 "bir işti. Microsoft'un böyle bir problemi yoktur. <i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Eventually, people noted this phenomenon.  You see, in the 1980's a lot of "
 "us thought that maybe free software wouldn't be as good as the nonfree "
@@ -1464,7 +1464,7 @@ msgstr ""
 "söylemeye başladı. Özgür yazılım, özel mülk alternatiflerinden daha güçlü ve "
 "güvenilirdi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the early '90's, somebody found a way to do a scientific measurement of "
 "reliability of software.  Here's what he did.  He took several sets of "
@@ -1501,7 +1501,7 @@ msgstr ""
 "kanser klinikleri ve 911 operasyonları vardır çünkü GNU çok güvenilirdir ve "
 "güvenilirlik onlar için çok önemlidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Anyway, there's even a group of people who focus on this particular benefit "
 "as the reason they give, the main reason they give, why users should be "
@@ -1520,7 +1520,7 @@ msgstr ""
 "pratik ve maddi çıkarlar gibi hususlar hakkında konuştuğumu fark edersiniz. "
 "Bunlar çok önemlidir. Bu, özgür yazılım hareketidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "That other group of people&mdash;which is called the open source "
 "movement&mdash;they only cite the practical benefits.  They deny that this "
@@ -1544,7 +1544,7 @@ msgstr ""
 "dereceye kadar budur, insanları benzer bir yöne sürerler ancak tamamıyla "
 "farklı – temel olarak farklı felsefi nedenler için bunu yaparlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Because on the deepest issue of all, you know, on the ethical question, the "
 "two movements disagree.  You know, in the free software movement we say, "
@@ -1569,7 +1569,7 @@ msgstr ""
 "bulunmuştur ve pratik projelerde [onlarla] birlikte çalışırız. Ancak felsefi "
 "olarak, burada, büyük bir anlaşmazlık mevcuttur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Unfortunately, the open source movement is the one that gets the support of "
 "business the most, and so most articles about our work describe it as open "
@@ -1589,11 +1589,11 @@ msgstr ""
 "felsefenin tarafını tutacağız. Bunu bilmenizi isterim, bilmeden başka "
 "birilerini yanlış yönlendirmenizi istemem."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "But also, so that you can think about where you stand."
 msgstr "Ancak ayrıca, nerede durduğunuzu da bilmenizi isterim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You know, which movement you support is up to you.  You might agree with the "
 "free software movements and my views.  You might agree with the open source "
@@ -1605,7 +1605,7 @@ msgstr ""
 "aynı fikirde olabilirsiniz. Ama her ikisiyle de farklı fikirlerde de "
 "olabilirsiniz. Bu politik alanlarda nerede duracağınıza karar verin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But if you agree with the free software movement&mdash;if you see that "
 "there's an issue here that the people whose lives are controlled and "
@@ -1620,7 +1620,7 @@ msgstr ""
 "yapmanızın bir yolu, &ldquo;özgür yazılım&rdquo; terimini kullanmak ve "
 "insanların bizim var olduğumuzu bilmelerini sağlamaya yardımcı olmaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, Freedom Three is very important both practically and psycho-socially.  "
 "If you don't have this freedom, it causes practical material harm, because "
@@ -1644,7 +1644,7 @@ msgstr ""
 "bir savaştaymış gibi davrandığını görürsünüz. Ancak birbirleriyle paylaşımda "
 "bulunmazlarsa, tümü geride tutulmuş olur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, those are the three freedoms that distinguish free software from typical "
 "software.  Freedom One is the freedom to help yourself, making changes to "
@@ -1669,7 +1669,7 @@ msgstr ""
 "dinleyiciyi gösterir.]</i> Bu, sizin için özgür yazılım mıdır? <i>[Başka bir "
 "dinleyiciyi gösterir.]</i> Evet?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: Can you explain a bit about the difference "
 "between Freedom Two and Three? <i>[inaudible]</i>"
@@ -1677,7 +1677,7 @@ msgstr ""
 "<strong>SORU</strong>: Özgürlük İki ile Özgürlük Üç arasındaki fark hakkında "
 "biraz bilgi verir misiniz? <i>[anlaşılmıyor]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Well, they certainly relate, because if you don't "
 "have freedom to redistribute at all, you certainly don't have freedom to "
@@ -1687,11 +1687,11 @@ msgstr ""
 "dağıtma özgürlüğünüz yoksa, kesinlikle değiştirilmiş bir sürümü dağıtma "
 "özgürlüğünüz de yoktur ancak bunlar farklı işlemlerdir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>QUESTION</strong>: Oh."
 msgstr "<strong>SORU</strong>:Oh."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Freedom Two is, you know, read it, you make an "
 "exact copy, and hand it to your friends, so now your friend can use it.  Or "
@@ -1704,7 +1704,7 @@ msgstr ""
 "onları bir grup insana satabilirsiniz ve onlar da bu yazılımı "
 "kullanabilirler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Freedom Three is where you make improvements&mdash;or at least you think "
 "they're improvements, and some other people may agree with you.  So that's "
@@ -1725,7 +1725,7 @@ msgstr ""
 "nedenler için, kaynak koduna erişim, özgür yazılım için bir ön şarttır, bir "
 "şarttır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, why do I define it in terms of whether it's free software for <em>you</"
 "em>? The reason is that sometimes the same program can be free software for "
@@ -1763,7 +1763,7 @@ msgstr ""
 "bu özgürlüklerin hiçbirine sahip değildiler. Bu, <em>onlar</em> için özgür "
 "yazılım değildi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, the paradox was that whether X was free software depended on where you "
 "made the measurement.  If you made the measurement coming out of the "
@@ -1787,7 +1787,7 @@ msgstr ""
 "sayıda insan bizim yazılımımızı kullanıyor.&rdquo; Ve bu, doğrudur. Çok "
 "sayıda insan yazılımlarını kullanıyordu ancak özgürlüğe sahip değildi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Well, in the GNU project, if that same thing had happened to GNU software, "
 "it would have been a failure, because our goal wasn't just to be popular; "
@@ -1807,7 +1807,7 @@ msgstr ""
 "çalıştırıyorsa, bu, bir başarı olmayacaktır. Her şey, hedefe benzemeyen bir "
 "yola sapacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, I looked for a way to stop that from happening.  The method I came up "
 "with is called &ldquo;copyleft.&rdquo; It's called copyleft because it's "
@@ -1833,7 +1833,7 @@ msgstr ""
 "değiştirme yetkiniz var. değiştirilmiş ve genişletilmiş sürümleri dağıtma "
 "hakkınız var. İstediğiniz gibi değiştirin.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But there is a condition.  And the condition, of course, is the reason why "
 "we go to all this trouble, so that we could put the condition in.  The "
@@ -1857,7 +1857,7 @@ msgstr ""
 "programın diğer kısımları için de bu durum geçerlidir. Söz konusu programın "
 "tümü, onlar için özgür yazılım olmalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The freedoms to change and redistribute this program become inalienable "
 "rights&mdash;a concept from the Declaration of Independence.  Rights that we "
@@ -1873,7 +1873,7 @@ msgstr ""
 "açan bir lisanstır çünkü gerçekten de topluluğumuzda parazit gibi davranan "
 "kimselere hayır deme gücüne sahiptir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are lots of people who don't appreciate the ideals of freedom.  And "
 "they'd be very glad to take the work that we have done, and use it to get a "
@@ -1891,7 +1891,7 @@ msgstr ""
 "programlarımızın gelişmiş sürümleriyle sürekli olarak rekabet etmek zorunda "
 "kalacağız. Bu, eğlenceli bir durum değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And, a lot of people also feel&mdash;you know, I'm willing to volunteer my "
 "time to contribute to the community, but why should I volunteer my time to "
@@ -1906,7 +1906,7 @@ msgstr ""
 "kötü olmadığını bile düşünebilir ancak bunu yapacak olanlar kendilerine para "
 "ödenmesini isterler. Ben, kişisel olarak, bunu hiç yapmazdım bile."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But both of these groups of people&mdash;both the ones like me who say, "
 "&ldquo;I don't want to help that nonfree program to get a foothold in our "
@@ -1926,7 +1926,7 @@ msgstr ""
 "dağıtamazsın&rdquo;. Bununla birlikte, X Windows lisansı gibi Copyleft "
 "olmayan lisanslar buna izin vermektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So that is the big division between the two categories of free "
 "software&mdash;license-wise.  There are the programs that are copylefted so "
@@ -1942,7 +1942,7 @@ msgstr ""
 "konusu programın özgürlüğünü kaldırabilirsiniz. Özgür olmayan sürümler de "
 "edinebilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And that problem exists today.  There are still nonfree versions of X "
 "Windows being used on our free operating systems.  There is even "
@@ -1960,7 +1960,7 @@ msgstr ""
 "yapabilecekleri olası en iyi şeyi yapmadıklarını söyleyebilirim. Ancak "
 "hepimizin kullanabileceği çok sayıda yazılım yayınlamışlardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You know, there's a big difference between less than perfect, and evil.  "
 "There are many gradations of good and bad.  We have to resist the temptation "
@@ -1978,7 +1978,7 @@ msgstr ""
 "edebilirlerdi ve özgürlüğü inkâr eden sürümlerin başkaları tarafından "
 "dağıtılmasını önleyebilirlerdi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, the fact that the GNU General Public License defends your freedom, uses "
 "copyright law to defend your freedom, is, of course, why Microsoft is "
@@ -1994,7 +1994,7 @@ msgstr ""
 "geliştirme yapmak istemektedir, ya da yalnızca uyumsuz değişikliklere "
 "ihtiyaç duyarlar. <i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You know, with Microsoft's marketing clout, they don't need to make it "
 "better to have their version supplant ours.  They just have to make it "
@@ -2016,7 +2016,7 @@ msgstr ""
 "değişiklikler olmalıdır. Bu nedenle bu, iki yollu bir işbirliğidir, gerçek "
 "bir işbirliğidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Many companies&mdash;even big companies like IBM and HP are willing to use "
 "our software on this basis.  IBM and HP contribute substantial improvements "
@@ -2033,7 +2033,7 @@ msgstr ""
 "zaman haklı olabilirler. <i>[Dinleyiciler güler]</i> Bu konu hakkında daha "
 "sonra açıklama yapacağım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I should finish the historical story.  You see, we set out in 1984 not just "
 "to write some free software but to do something much more coherent: to "
@@ -2060,7 +2060,7 @@ msgstr ""
 "sistemi vardır. Copyleft edilmediği doğrudur ancak bu, özgür yazılımdır, bu "
 "nedenle onu kullanabiliriz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, I had wanted to put a window system into GNU from day one.  I wrote a "
 "couple of window systems at MIT before I started GNU.  And so, even though "
@@ -2089,7 +2089,7 @@ msgstr ""
 "kodu, başlangıç olarak, Berkeley'deki kayan nokta üzerinde araştırma yapan "
 "farklı bir gruba aitti. Ve bu nedenle, bu parçalara uyduk."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In October 1985, we founded the Free Software Foundation.  So please note, "
 "the GNU project came first.  The Free Software Foundation came after, about "
@@ -2115,7 +2115,7 @@ msgstr ""
 "güler]</i> GNU'nun bir kısmının da bu şekilde yazılmış olduğuna "
 "inanmaktayım. Ve böylece hedefimize yaklaşmaktayız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "By 1991, there was just one major piece missing, and that was the kernel.  "
 "Now, why did I put off the kernel? Probably because it doesn't really matter "
@@ -2154,7 +2154,7 @@ msgstr ""
 "ayıklama ortamına sahipti ve güvenilmezdi. GNU çekirdeğinin çalıştırılması "
 "bizim yıllarımızı aldı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But, fortunately, our community did not have to wait for the GNU kernel.  "
 "Because in 1991, Linus Torvalds developed another free kernel called Linux.  "
@@ -2179,7 +2179,7 @@ msgstr ""
 "tam bir işletim sistemi elde etmek için Linux'ı GNU sisteminin geri "
 "kalanıyla birleştirdi. Esasen, GNU artı Linux birleşimini oluşturdular."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But, they didn't realize that's what they were doing.  You see, they said, "
 "We have a kernel&mdash;let's look around and see what other pieces we can "
@@ -2197,7 +2197,7 @@ msgstr ""
 "şeyi bulabiliriz. Tüm bu farklı şeyleri alalım ve bir araya getirelim ve bir "
 "sistem elde edelim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "They didn't know that most of what they found was pieces of the GNU system.  "
 "So they didn't realize that they were fitting Linux into the gap in the GNU "
@@ -2209,18 +2209,18 @@ msgstr ""
 "değildiler. Linux'ı alıp Linux'tan bir sistem yaptıklarını düşünüyorlardı. "
 "Bu nedenle bunu bir Linux sistemi olarak adlandırdılar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>STALLMAN</strong>: Can't hear you&mdash;what?"
 msgstr "<strong>STALLMAN</strong>: Sizi duyamıyorum, efendim?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Well, it's just not&mdash;you know, it's "
 "provincial."
 msgstr ""
 "<strong>STALLMAN</strong>: Güzel, sadece o değil, biliyorsun, dar görüşlülük."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: But it's more good fortune then finding X and "
 "Mach?"
@@ -2228,7 +2228,7 @@ msgstr ""
 "<strong>SORU</strong>:Ancak bu durum, X Window Sistemini ve Mach'ı bulmaktan "
 "daha şanslı bir durum değil midir?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Right.  The difference is that the people who "
 "developed X and Mach didn't have the goal of making a complete free "
@@ -2246,7 +2246,7 @@ msgstr ""
 "sistemin yararlı kısımlarını yazmıştır. Ancak bunu, sistemin tamamlanmasını "
 "istedikleri için yapmamışlardır. Başka gerekçeleri vardı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now the people who developed X&mdash;they thought that designing across the "
 "network window system would be a good project, and it was.  And it turned "
@@ -2265,7 +2265,7 @@ msgstr ""
 "Bu, iyi bir şeydir. Ancak esas vizyona sahip değildirler. Bu vizyon GNU "
 "Projesindedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And, so, we were the ones whose&mdash;every little piece that didn't get "
 "done by somebody else, we did it.  Because we knew that we wouldn't have a "
@@ -2295,7 +2295,7 @@ msgstr ""
 "Ve başka birinin bunu yapmasını bekleyemezdik. Bu nedenle, bunu yapmamız "
 "veya başka birilerine yaptırmamız gerekiyordu."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, although at this point thousands of people in projects have contributed "
 "to this system, there is one project which is the reason that this system "
@@ -2307,7 +2307,7 @@ msgstr ""
 "mevcuttur ve bu da GNU Projesidir. Bu <em>sistem</em> temelde GNU "
 "Sistemidir, o zamandan beri başka şeyler de eklenmiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, however, the practice of calling the system Linux has been a great blow "
 "to the GNU Project, because we don't normally get credit for what we've "
@@ -2328,7 +2328,7 @@ msgstr ""
 "adlandırma alışkanlığı yalnızca bir hatadır. Sistemi GNU/Linux olarak "
 "adlandırmanızı rica ederim ve böylece itibarından payımızı alabiliriz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: You need a mascot! Get yourself a stuffed animal! "
 "<i>[Laughter]</i>"
@@ -2336,15 +2336,15 @@ msgstr ""
 "<strong>SORU</strong>:Bir maskota ihtiyacınız var! Peluş bir hayvan edinin! "
 "<i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>STALLMAN</strong>: We have one."
 msgstr "<strong>STALLMAN</strong>:Bir tane var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>QUESTION</strong>: You do?"
 msgstr "<strong>SORU</strong>:Var mı?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: We have an animal&mdash;a gnu.  <i>[Laughter]</i> "
 "Anyway.  So, yes, when you draw a penguin, draw a gnu next to it.  <i>"
@@ -2356,7 +2356,7 @@ msgstr ""
 "de gnu çizin. <i>[Dinleyiciler güler]</i> Ancak soruları sona saklayalım. "
 "Daha anlatacak çok şeyim var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, why am I so concerned about this? You know, why do I think it is worth "
 "bothering you and perhaps giving you a, perhaps lowering your opinion of me, "
@@ -2372,7 +2372,7 @@ msgstr ""
 "Tabi ki, bu programı &ldquo;Stallmanix&rdquo; olarak adlandırmanızı "
 "istemiyorum, öyle değil mi? <i>[Dinleyiciler güler][Alkış]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I'm asking you to call it GNU, because I want the GNU Project to get "
 "credit.  And there's a very specific reason for that, which is a lot more "
@@ -2390,7 +2390,7 @@ msgstr ""
 "politik ve toplumsal ideallerden, söz etmezler. Çünkü bu idealleri ortaya "
 "çıkaran GNU'dur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The ideas associated with Linux&mdash;the philosophy is very different.  It "
 "is basically the apolitical philosophy of Linus Torvalds.  So, when people "
@@ -2410,7 +2410,7 @@ msgstr ""
 "Ben bir Linux kullanıcısıyım, GNU kullanıcısı değilim.&rdquo; <i>"
 "[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What irony! If they only knew! If they knew that the system they liked&mdash;"
 "or, in some cases, love and go wild over&mdash;is our idealistic, political "
@@ -2420,7 +2420,7 @@ msgstr ""
 "sevdikleri ve çıldırdıkları, sistemin bizim idealist, politik felsefemiz "
 "sayesinde gerçekleştiğini bilselerdi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "They still wouldn't have to agree with us.  But at least they'd see a reason "
 "to take it seriously, to think about it carefully, to give it a chance.  "
@@ -2443,7 +2443,7 @@ msgstr ""
 "kendileri karar vermelidirler. Ancak bu felsefenin sağladığı sonuçlar için "
 "itibarının yararını sağlamasını isterim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you look around in our community, you'll find that almost everywhere, the "
 "institutions are calling the system Linux.  You know, reporters mostly call "
@@ -2467,7 +2467,7 @@ msgstr ""
 "paketleyen firmalara baktığınızda, bu firmaların birçoğu bu sistemi Linux "
 "olarak adlandırmaktadır. Ve tümü de bu sisteme özgür olmayan yazılım ekler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "See, the GNU GPL says that if you take code, and some code out of a GPL-"
 "covered program, and add some more code to make a bigger program, that whole "
@@ -2504,7 +2504,7 @@ msgstr ""
 "Kullanıcılara şunu söylemektedirler: &ldquo;Özgür olmayan yazılımın "
 "kullanılması iyidir. Hatta bunu hediye olarak veriyoruz.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you look at the magazines about the use of the GNU/Linux system, most of "
 "them have a title like &ldquo;Linux-something or other.&rdquo; So they're "
@@ -2524,7 +2524,7 @@ msgstr ""
 "sahip olmak için <em>para</em> bile ödeyebilirsiniz.&rdquo; <i>[Dinleyiciler "
 "güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And they call these things &ldquo;value-added packages,&rdquo; which makes a "
 "statement about their values.  They're saying: Value practical convenience, "
@@ -2543,7 +2543,7 @@ msgstr ""
 "size vermek için uğraştığımız özgürlüğün faydalarının tadını çıkarın. Bu "
 "paketler, size bir zincir üzerinde eğilme imkânını vermektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And then if you look at the trade shows&mdash;about the use of the, "
 "dedicated to the use of, the GNU/Linux system, they all call themselves "
@@ -2569,7 +2569,7 @@ msgstr ""
 "budur. Lütfen insanları sistemin nereden ve niçin geldiği konusunda "
 "bilgilendirin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Of course, just by using that name, you won't be making an explanation of "
 "the history.  You can type four extra characters and write GNU/Linux; you "
@@ -2588,7 +2588,7 @@ msgstr ""
 "ve yaşamlarıyla nasıl bir ilişkisinin olduğunu göreceklerdir. Ve bu, "
 "doğrudan büyük bir fark yaratmaktadır. Bu nedenle, lütfen bize yardım edin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You'll note that Microsoft called the GPL an &ldquo;open source license."
 "&rdquo; They don't want people to be thinking in terms of freedom as the "
@@ -2606,7 +2606,7 @@ msgstr ""
 "vatandaş ya da devlet adamı gibi düşünmesini istemezler, Bu, onlar için "
 "zıttır, düşmancadır. En azından mevcut iş modellerine karşı zıttır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, how does free software&hellip;well, I can tell you about how free "
 "software relates to our society.  A secondary topic that might be of "
@@ -2622,7 +2622,7 @@ msgstr ""
 "de olsa, gelişmiş ülkelerdeki birçok işyerinde yazılım kullanılmaktadır. "
 "Yalnızca küçük bir kısmı yazılım geliştirmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And free software is tremendously advantageous for any company that uses "
 "software, because it means that you're in control.  Basically, free software "
@@ -2643,7 +2643,7 @@ msgstr ""
 "dikkat eder, özen gösterirseniz, o zaman söyleyecek bir şeyleriniz olur. "
 "özel mülk yazılım söz konusu olduğunda, söyleyecek bir şeyiniz olmaz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "With free software, you can change what you want to change.  And it doesn't "
 "matter that there are no programmers in your company; that's fine.  You "
@@ -2666,7 +2666,7 @@ msgstr ""
 "bitirirsiniz?&rdquo; Ve işi yapmazlarsa, gidip başka birilerini "
 "bulabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There's a free market for support.  So, any business that cares about "
 "support will find a tremendous advantage in free software.  With proprietary "
@@ -2702,7 +2702,7 @@ msgstr ""
 "hatayı giderip gidermediğimizi görebilirsiniz.&rdquo; <i>[Dinleyiciler güler]"
 "</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Support providers for free software can't get away with that.  They have to "
 "please the customers.  Of course, you can get a lot of good support gratis.  "
@@ -2718,7 +2718,7 @@ msgstr ""
 "isterseniz, en iyisi bir firma ile anlaşma yapın ve onlara ücret ödeyin. Ve "
 "bu, tabi ki, özgür yazılım işinin çalışma şekillerinden birisidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another advantage of free software for businesses that use software is "
 "security and privacy.  And this applies to individuals as well, but I "
@@ -2730,7 +2730,7 @@ msgstr ""
 "bağlamında gündeme getirdim. İşte, bir program özel mülk olduğunda, "
 "gerçekten de ne yaptığını bile söyleyemezsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It could have features, deliberately put in that you wouldn't like if you "
 "knew about them, like it might have a backdoor to let the developer get into "
@@ -2756,7 +2756,7 @@ msgstr ""
 "nokta şudur: Bu, özgür yazılım değildir, bu hataları bulamazsınız. Ve bu "
 "hataları gideremezsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Nobody has the time to check the source of every program he runs.  You're "
 "not going to do that.  But with free software there's a large community, and "
@@ -2790,7 +2790,7 @@ msgstr ""
 "bu özelliğe sahip olmayan değiştirilmiş bir sürüm hazırlanacaktır. Ve daha "
 "sonra tümü de söz konusu sürümü kullanarak çalışmaya başlayacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In fact, we can all reason enough, we can all figure this out enough steps "
 "ahead, that we probably won't put in that feature.  After all, you're "
@@ -2810,7 +2810,7 @@ msgstr ""
 "dünyasında, kral, müşteri değildir. Çünkü siz yalnızca bir müşterisinizdir. "
 "Kullandığınız yazılımda söz hakkınız yoktur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In this respect, free software is a new mechanism for democracy to operate.  "
 "Professor Lessig, now at Stanford, noted that code functions as a kind of "
@@ -2842,7 +2842,7 @@ msgstr ""
 "herkes, gitmek istediği yönde basitçe adımlar atarak toplumsal karara "
 "katkıda bulunur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And you're free to take as many steps, personally, as you want to take.  A "
 "business is free to commission as many steps as they find useful to take.  "
@@ -2853,7 +2853,7 @@ msgstr ""
 "atmalarının yararlı olduğu kadar adımı atmakta özgürdür. Ve tüm bu şeyleri "
 "topladığınızda, bu, yazılımın hangi yönde gittiğini söyler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And it's often very useful to be able to take pieces out of some existing "
 "program, presumably usually large pieces, of course, and then write a "
@@ -2869,7 +2869,7 @@ msgstr ""
 "parçaları alamazsanız, tamamını yeni baştan yazmak size pahalıya mal "
 "olacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another thing that results from the fact that the user is king is that we "
 "tend to be very good about compatibility and standardization.  Why? Because "
@@ -2901,7 +2901,7 @@ msgstr ""
 "biçimlerinde değişiklikler yaptıklarını görürsünüz, bunun tek nedeni, "
 "insanların en yeni sürümü satın almalarını sağlamaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Archivists are finding a problem now, that files written on computers ten "
 "years ago often can't be accessed; they were written with proprietary "
@@ -2921,7 +2921,7 @@ msgstr ""
 "Aslında, kendi verilerinizi saklamak için özgür olmayan programı kullanarak, "
 "kendinizi tuzağa düşürüyorsunuz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, I've talked about how free software affects most business.  But how does "
 "it affect that particular narrow area which is software business? Well, the "
@@ -2950,7 +2950,7 @@ msgstr ""
 "firma içinde kullanım için bir firma tarafından geliştirilen her türlü "
 "<em>özel</em> program özgür yazılımdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And the issue doesn't really arise for software that goes in a watch or a "
 "microwave oven or an automobile ignition system.  Because those are places "
@@ -2974,7 +2974,7 @@ msgstr ""
 "geliştiricileri, özel yazılım yazmak için günlük işler alabilirler. <i>"
 "[Dinleyiciler güler]</i> Bunlardan çok fazla vardır; oran çok büyüktür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But, as it happens, there is free software business.  There are free "
 "software companies, and at the press conference that I'm going to have, "
@@ -2989,7 +2989,7 @@ msgstr ""
 "yayınlamak için yararlı özgür yazılım parçaları geliştiren firmalar da "
 "vardır ve onların geliştirdiği özgür yazılım önemli ölçüdedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, how do free software businesses work? Well, some of them sell copies.  "
 "You know, you're free to copy it but they can still sell thousands of copies "
@@ -3016,7 +3016,7 @@ msgstr ""
 "yaptım. Ayrıca dersler de verdim. Ve 1990 yılına kadar bunu yapmayı "
 "sürdürdüm. 1990 yılında büyük bir ödül kazandım ve bunu yapmayı bıraktım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But, 1990 was when the first corporation free software business was formed, "
 "which was Cygnus Support.  And their business was to do, essentially, the "
@@ -3050,7 +3050,7 @@ msgstr ""
 "şeyi bozdular. Ancak açgözlü olmadan önce, yıllarını başarı içinde "
 "geçirdiler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, this illustrates one of the exciting things about free software.  Free "
 "software demonstrates that you don't need to raise capital to develop free "
@@ -3080,7 +3080,7 @@ msgstr ""
 "yükseltmelerine ihtiyaç duymamaktayız. Her şekilde işi yaptırırız. İşi zaten "
 "yaptırıyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "People used to say we could never do a complete free operating system.  Now "
 "we've done that and a tremendous amount more.  And I would say that we're "
@@ -3100,7 +3100,7 @@ msgstr ""
 "yarısından fazlasının Web sunucusu olarak Apache ile GNU/Linux üzerinde "
 "çalıştığı bir dünyada gerçekleşmiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: <i>[Inaudible]</i> &hellip; What did you say "
 "before, Linux?"
@@ -3108,15 +3108,15 @@ msgstr ""
 "<strong>SORU</strong>:<i>[Anlaşılmıyor]</i> &hellip; Daha önce ne dediniz, "
 "Linux mu?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>STALLMAN</strong>: I said GNU/Linux."
 msgstr "<strong>STALLMAN</strong>:GNU/Linux dedim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>QUESTION</strong>: You did?"
 msgstr "<strong>SORU</strong>:Öyle mi dediniz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Yes, if I'm talking about the kernel, I call it "
 "Linux.  You know, that's it's name.  The kernel was written by Linus "
@@ -3128,7 +3128,7 @@ msgstr ""
 "tarafından yazılmıştır ve yazara duyulan saygıdan ötürü, bu çekirdeği "
 "yalnızca onun verdiği isimle adlandırabiliriz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Anyway, but in general, in business most users are not using it.  Most home "
 "users are not using our system yet.  So, when they are, we should "
@@ -3144,7 +3144,7 @@ msgstr ""
 "büyütecektir. Bu nedenle, bu noktada, bu işi yapabileceğimiz konusunda "
 "oldukça güvenim var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And, this is important, because Microsoft asks us to feel desperate.  They "
 "say, The only way you can have software to run, the only way you can have "
@@ -3160,7 +3160,7 @@ msgstr ""
 "kontrol edelim, böylece sizden çok para alabiliriz ve bu paranın belirli bir "
 "oranını yazılım geliştirmek için kullanıp geri kalanını kâr yaparız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Well, you shouldn't ever feel that desperate.  You shouldn't ever feel so "
 "desperate that you give up your freedom.  That's very dangerous."
@@ -3168,7 +3168,7 @@ msgstr ""
 "Hiçbir zaman çaresiz hissetmemelisiniz. Çok çaresiz hissedip özgürlüğünüzü "
 "feda etmemelisiniz. Bu çok tehlikelidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another thing that Microsoft, well, not just Microsoft, people who don't "
 "support free software generally adopt a value system in which the only thing "
@@ -3183,7 +3183,7 @@ msgstr ""
 "Kısa vadeli düşünme ve dar düşünme. Onların varsayımına göre, birilerinin "
 "özgürlük adına fedakarlık yapması saçmadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Yesterday, a lot of people were making speeches about Americans who made "
 "sacrifices for the freedom of their compatriots.  Some of them made great "
@@ -3197,7 +3197,7 @@ msgstr ""
 "için yaşamlarını bile feda etmişlerdi. (En azından bazı durumlarda; tahmin "
 "ederim ki, Vietnam'daki savaşı burada görmezden gelmeliyiz.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<i>[Editor's note: The day before was &ldquo;Memorial Day&rdquo; in the "
 "USA.  Memorial Day is a day where war heros are commemorated.]</i>"
@@ -3205,7 +3205,7 @@ msgstr ""
 "<i>[Editörün notu: Önceki gün, ABD'de &ldquo;Anma Günü&rdquo;ydü. Anma Günü "
 "savaş kahramanlarının anıldığı bir tatil günüdür.]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But, fortunately, to maintain our freedom in using software, doesn't call "
 "for big sacrifices. Just tiny, little sacrifices are enough, like learning a "
@@ -3233,11 +3233,11 @@ msgstr ""
 "yalnızca söz konusu yatırımdan kimin beş on senti alacağını saymadan yeterli "
 "uzun vadeli görüşe sahip olmamız gereklidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "So, at this point, I'm essentially done."
 msgstr "Böylece, bu noktada, anlatacaklarım sona erdi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "I'd like to mention that there's a new approach to free software business "
 "being proposed by Tony Stanco, which he calls &ldquo;Free Developers,&rdquo; "
@@ -3257,11 +3257,11 @@ msgstr ""
 "taban olarak özgür yazılımı kullanıyor olacaklardır, bu şekilde büyük "
 "maliyet tasarrufu sağlamayı planlamaktadırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "And so now I guess that I should ask for questions."
 msgstr "Ve şimdi sorularınızı bekliyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Could you speak up a bit louder please? I can't "
 "really hear you."
@@ -3269,7 +3269,7 @@ msgstr ""
 "<strong>STALLMAN</strong>: Biraz yüksek sesle konuşabilir misiniz lütfen? "
 "Sizi gerçekten duyamıyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: How could a company like Microsoft include a free "
 "software contract?"
@@ -3277,7 +3277,7 @@ msgstr ""
 "<strong>SORU</strong>: Microsoft gibi bir firma bir özgür yazılım "
 "sözleşmesini nasıl içerebilir?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Well, actually, Microsoft is planning to shift a "
 "lot of its activity into services.  And what they're planning to do is "
@@ -3295,7 +3295,7 @@ msgstr ""
 "Microsoft programını kullanmanız gerektiği anlamına gelecektir … böylece "
 "tümü birbiriyle ilişkilidir. Planları budur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, the interesting thing is that selling those services doesn't raise the "
 "ethical issue of free software or nonfree software.  It might be perfectly "
@@ -3314,7 +3314,7 @@ msgstr ""
 "kullanmaktır ve bu, yakın zamanda bir makalede açıklanmıştır. Diğer "
 "insanlar, bunun, neti Microsoft Firma Kasabasına dönüştürdüğünü söylemiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And this is relevant because, you know, the trial court in the Microsoft "
 "antitrust trial recommended breaking up the company, Microsoft.  But in a "
@@ -3326,7 +3326,7 @@ msgstr ""
 "yaramayacak biçimde, işletim sistemi kısmına ve uygulama kısmına bölünmesi "
 "şeklinde."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But having seen that article, I now see a useful, effective way to split up "
 "Microsoft into the services part and the software part, to require them to "
@@ -3343,7 +3343,7 @@ msgstr ""
 "ediyorum ki, hizmeti almak için ödeme yapmaları gereklidir. Evet, bu "
 "tamamdır. Bu, tamamen farklı bir konudur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If Microsoft is split up in this way [&hellip;] services and software, they "
 "will not be able to use their software to crush competition with Microsoft "
@@ -3359,7 +3359,7 @@ msgstr ""
 "belki de siz insanlar bunu Microsoft hizmetleriyle konuşmak için "
 "kullanacaksınız, bu bizim için önemli değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Because, after all, although Microsoft is the proprietary software company "
 "that has subjugated the most people&mdash;the others have subjugated fewer "
@@ -3383,7 +3383,7 @@ msgstr ""
 "çok fazla odaklanmamalıyız. Bu, onları çok önemli yapmaz. Bu, hepsi ve "
 "hepsinin sonu değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: Earlier, you were discussing the philosophical "
 "differences between open source software and free software.  How do you feel "
@@ -3400,7 +3400,7 @@ msgstr ""
 "hazırladığı görülmektedir? Ve basitçe Intel sistemlerinde çalışan yazılımın "
 "hazırlandığı görülmektedir?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: I don't see an ethical issue there.  Although, in "
 "fact, companies that make computers sometimes port the GNU/Linux system to "
@@ -3417,7 +3417,7 @@ msgstr ""
 "Linux'ın desteklenmesi birkaç ay boyunca beş mühendisin çalışmasını "
 "gerektirecekti. Bu, kolayca yapılabilir bir şeydi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, of course, I encourage people to use <code>autoconf</code>, which is a "
 "GNU package that makes it easier to make your programs portable.  I "
@@ -3432,7 +3432,7 @@ msgstr ""
 "gönderdiğinde, o zaman bunu göz önünde bulundurmalısınız. Ancak bunu etik "
 "bir husus olarak görmüyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: Two comments.  One is: Recently, you spoke at "
 "MIT.  I read the transcript.  And someone asked about patents, and you said "
@@ -3444,7 +3444,7 @@ msgstr ""
 "dediniz ki &ldquo;patentler tamamen farklı bir konudur. Bu konuda yorumum "
 "yok.&rdquo;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Right.  I actually have a lot to say about "
 "patents, but it takes an hour.  <i>[Laughter]</i>"
@@ -3452,7 +3452,7 @@ msgstr ""
 "<strong>STALLMAN</strong>: Doğru. Patentler hakkında aslında söyleyecek çok "
 "şeyim var ama bu, bir saati bulur. <i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: I wanted to say this: It seems to me that there "
 "is an issue.  I mean, there is a reason that companies call both patents and "
@@ -3472,7 +3472,7 @@ msgstr ""
 "ancak söz konusu motivasyon, gerçekten de genel hizmet hususu değildir ama "
 "özel çıkarları için firmaların tekel sağlama motivasyonudur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: I understand.  But, well, I want to respond "
 "because there's not too much time.  So I'd like to respond to that."
@@ -3480,7 +3480,7 @@ msgstr ""
 "<strong>STALLMAN</strong>: Anlıyorum. Ama, iyi, yanıtlamak istiyorum çünkü "
 "çok fazla zaman yok. Bu yüzden bunu yanıtlamak istiyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "You're right that that's what they want.  But there's another reason why "
 "they want to use the term intellectual property.  It's that they don't want "
@@ -3495,7 +3495,7 @@ msgstr ""
 "tamamen farklı olduğu için, yazılım telif haklarının ve yazılım "
 "patentlerinin etkileri tamamen farklıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Software patents are a restriction on programmers, prohibiting them from "
 "writing certain kinds of programs, whereas copyright doesn't do that.  With "
@@ -3508,7 +3508,7 @@ msgstr ""
 "kendinize yazıyorsanız, dağıtmanıza izin verilmektedir. Bu nedenle, bu "
 "hususların ayrılması çok önemlidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "They have a little bit in common, at a very low level, and everything else "
 "is different.  So, please, to encourage clear thinking, discuss copyright or "
@@ -3522,7 +3522,7 @@ msgstr ""
 "tartışmayın. fikri mülkiyet hakkında bir fikrim yoktur. Telif hakları, "
 "patentler ve yazılım hakkında düşüncelerim vardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: You mentioned at the beginning that a functional "
 "language, like recipes, are computer programs.  There's a cross a little bit "
@@ -3535,7 +3535,7 @@ msgstr ""
 "programlarına büyük bir geçiş vardır – &ldquo;fonksiyonel dil&rdquo;in "
 "tanımı çok geniştir. DVD konusunda bu, neden olan problemi oluşturmaktadır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: The issues are partly similar but partly "
 "different, for things that are not functional in nature.  Part of the issue "
@@ -3552,7 +3552,7 @@ msgstr ""
 "olmalıdır. Biliyorsunuz, ders kitapları, belgeler, sözlükler ve tarifler "
 "özgür olmalıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: I was just wondering on online music. There are "
 "similarities and differences created all through."
@@ -3560,7 +3560,7 @@ msgstr ""
 "<strong>SORU</strong>: Yalnızca online müziği merak ediyordum. Bir yandan "
 "öbür yana oluşturulmuş benzerlikler ve farklar mevcuttur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Right.  I'd say that the minimum freedom that we "
 "should have for any kind of published information is the freedom to non-"
@@ -3582,7 +3582,7 @@ msgstr ""
 "değiştirilmemelidir. Ve bu belki de onların tüm ticari dağıtımını kapsayan "
 "telif hakkına sahip olunmasının tamam olduğu anlamına gelmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Please remember that according to the U.S. Constitution, the purpose of "
 "copyright is to benefit the public.  It is to modify the behavior of certain "
@@ -3605,7 +3605,7 @@ msgstr ""
 "gerçekleşen bilgi alışverişinden faydalananların iyiliğinedir. Ve bu hedefle "
 "fikir birliği içerisindeyim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But in the age of the computer networks, the method is no longer tenable, "
 "because it now requires draconian laws that invade everybody's privacy and "
@@ -3624,7 +3624,7 @@ msgstr ""
 "kısıtlamadır. Bu nedenle güç ilişkisi, aynı kanun yürürlükte olsa bile, 180 "
 "derece döndü."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: So you can have the same thing&mdash;but like in "
 "making music from other music?"
@@ -3632,11 +3632,11 @@ msgstr ""
 "<strong>SORU</strong>: Böylece başka bir müzikten müzik yapmak gibi bir şeye "
 "sahip olabilir misiniz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>STALLMAN</strong>: Right.  That is an interesting &hellip;"
 msgstr "<strong>STALLMAN</strong>: Doğru. Bu ilginç &hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: And unique, new works, you know, it's still a lot "
 "of cooperation."
@@ -3644,7 +3644,7 @@ msgstr ""
 "<strong>SORU</strong>: Ve benzersiz, yeni çalışmalar, işte, hâlâ çok "
 "miktarda işbirliği var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: It is.  And I think that probably requires some "
 "kind of fair use concept.  Certainly making a few seconds of sample and "
@@ -3661,7 +3661,7 @@ msgstr ""
 "içinde olurlarsa, emin değilim, ama olmalılar. Sistemde mevcut olduğu "
 "haliyle gerçek bir değişiklik var olmayacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: What do you think about publishing public "
 "information in proprietary formats?"
@@ -3669,7 +3669,7 @@ msgstr ""
 "<strong>SORU</strong>: Özel mülk biçimlerde genel bilgilerin yayınlanması "
 "hakkında ne düşünüyorsunuz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Oh, it shouldn't be.  I mean, the government "
 "should never require citizens to use a nonfree program to access, to "
@@ -3680,7 +3680,7 @@ msgstr ""
 "kendisine erişmeleri için özgür olmayan bir programın kullanılmasını hiçbir "
 "zaman istememelidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: I have been, what I will now say, a GNU/Linux "
 "user&hellip;"
@@ -3688,11 +3688,11 @@ msgstr ""
 "<strong>SORU</strong>: Şimdi söyleyeceğim şeyi yani GNU/Linux kullanıcısı "
 "olmuştum&hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>STALLMAN</strong>: Thank you.  <i>[Laughter]</i>"
 msgstr "<strong>STALLMAN</strong>: Teşekkürler.  <i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: &hellip;for the past four years.  The one thing "
 "that has been problematical for me and is something that is essential, I "
@@ -3702,11 +3702,11 @@ msgstr ""
 "hepimiz için önemli olan şeylerden biri de zannediyorum ki Web'e göz "
 "atmaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>STALLMAN</strong>: Yes."
 msgstr "<strong>STALLMAN</strong>: Evet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: One thing that has been decidedly a weakness in "
 "using a GNU/Linux system has been browsing the web, because the prevailing "
@@ -3716,11 +3716,11 @@ msgstr ""
 "noktalardan bir tanesi Web'de tarama yapılmasıdır çünkü bu konudaki yaygın "
 "araç Netscape'tir&hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>STALLMAN</strong>: &hellip;is not free software."
 msgstr "<strong>STALLMAN</strong>: &hellip;ve özgür yazılım değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Let me respond to this.  I want to get to the point, for the sake of getting "
 "in more.  So, yes.  There has been a terrible tendency for people to use "
@@ -3745,7 +3745,7 @@ msgstr ""
 "yaptığınızı bilmiyorsanız, özgür bir sistemin bulunması çok zordur. Ya da "
 "tabi ki, Netscape Navigatörü kuramazsınız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Now, in fact, there have been free web browsers for many years.  There is a "
 "free web browser that I used to use called Lynx.  It's a free web browser "
@@ -3758,7 +3758,7 @@ msgstr ""
 "Bunun büyük bir avantajı vardır, bunda reklamları görmezsiniz. <i>"
 "[Dinleyiciler güler] [Alkış]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But anyway, there is a free graphical project called Mozilla, which is now "
 "getting to the point where you can use it.  And I occasionally use it."
@@ -3767,11 +3767,11 @@ msgstr ""
 "ulaşan özgür bir grafik arayüzlü proje vardır. Ve ben onu arada sırada "
 "kullanıyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>QUESTION</strong>: Konqueror 2.01 has been very good."
 msgstr "<strong>SORU</strong>: Konqueror 2.01 çok iyidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Oh, OK.  So that's another free graphical "
 "browser.  So, we're finally solving that problem, I guess."
@@ -3780,7 +3780,7 @@ msgstr ""
 "arayüzlü tarayıcıdır. Böylece, sonunda tahmin ediyorum ki bu problemi "
 "çözüyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: Can you talk to me about that philosophical/"
 "ethical division between free software and open source? Do you feel that "
@@ -3790,13 +3790,13 @@ msgstr ""
 "etik ayrımdan bahsedebilir misiniz? Bunların uzlaştırılamaz olduğunu mu "
 "hissediyorsunuz? &hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<i>[Recording switches tapes; end of question and start of answer is missing]"
 "</i>"
 msgstr "<i>[Kayıt kaset değişimi; sorunun sonu ve yanıtın başı eksik]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: &hellip; to a freedom, and ethics.  Or whether "
 "you just say, Well, I hope that you companies will decide it's more "
@@ -3806,7 +3806,7 @@ msgstr ""
 "henüz söylediğiniz gibi, umarım ki, siz firmalar, bizim bu şeyleri yapmamıza "
 "izin vermemizin daha kârlı olduğuna karar verirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But, as I said, in a lot of practical work, it doesn't really matter what a "
 "person's politics are.  When a person offers to help the GNU project, we "
@@ -3823,7 +3823,7 @@ msgstr ""
 "bunları özgür yazılım olarak adlandırmanız gerektiğini söyleriz. GNU Projesi "
 "hakkında konuşmadığınızda ne söylediğiniz, size kalmıştır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: The company, IBM, started a campaign for "
 "government agencies, to sell their big new machines, that they used Linux as "
@@ -3833,7 +3833,7 @@ msgstr ""
 "birimleri için IBM firması bir kampanya başlatmıştır, satış noktası olarak "
 "Linux'ı kullanmışlar ve Linux olarak adlandırmışlardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Yes, of course, it's really the GNU/Linux "
 "systems. <i>[Laughter]</i>"
@@ -3841,7 +3841,7 @@ msgstr ""
 "<strong>STALLMAN</strong>: Evet. Tabi ki, bunlar gerçekten de GNU/Linux "
 "sistemleridir. <i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: That's right! Well, tell the top sales person.  "
 "He doesn't know anything for GNU."
@@ -3849,15 +3849,15 @@ msgstr ""
 "<strong>SORU</strong>: Bu doğrudur. En üstteki satış elemanına söyleyin. GNU "
 "hakkında bir şey bilmiyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>STALLMAN</strong>: I have to tell who?"
 msgstr "<strong>STALLMAN</strong>: Kime söylemeliyim?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>QUESTION</strong>: The top sales person."
 msgstr "<strong>SORU</strong>: En üstteki satış elemanı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Oh yes.  The problem is that they've already "
 "carefully decided what they want to say for reasons of their advantage.  And "
@@ -3875,7 +3875,7 @@ msgstr ""
 "bu gibi hususlar hakkında düşünmekteyse, bu şekilde bir karara varabilir. "
 "Ancak bu çok büyük bir ortaklık değildir. Bu, bir utançtır, ayıptır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There's another more important and more substantive issue about what IBM is "
 "doing.  They're saying that they're putting a billion dollars into &ldquo;"
@@ -3906,7 +3906,7 @@ msgstr ""
 "IBM'den bir milyar dolar aldım&rdquo; diyemezsiniz. <i>[Dinleyiciler güler]</"
 "i> Bu, olayların aşırı derecede basitleştirilmesidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: Can you talk a little bit more about the thinking "
 "that went into the General Public License?"
@@ -3914,7 +3914,7 @@ msgstr ""
 "<strong>SORU</strong>: Genel Kamu Lisansı'na ilişkin düşünceler hakkında "
 "biraz bilgi verebilir misiniz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Well, here's the&mdash;I'm sorry, I'm answering "
 "his question now. <i>[Laughter]</i>"
@@ -3922,7 +3922,7 @@ msgstr ""
 "<strong>STALLMAN</strong>: Şimdi, burada, özür dilerim, sorusunu şimdi "
 "yanıtlıyorum. <i>[Dinleyiciler güler]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>SCHONBERG</strong>: Do you want to reserve some time for the press "
 "conference? Or do you want to continue here?"
@@ -3930,7 +3930,7 @@ msgstr ""
 "<strong>SCHONBERG</strong>: Basın toplantısı için zaman ayırmak istiyor "
 "musunuz? Yoksa burada mı devam etmek istiyorsunuz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Who is here for the press conference? Not a lot "
 "of press.  Oh, three&hellip; OK.  Can you afford if we&hellip; if I go on "
@@ -3942,7 +3942,7 @@ msgstr ""
 "üzere on dakika gibi bir şey istesem kabul eder misiniz? Tamam. O zaman, "
 "herkesin sorusunu yanıtlamayla devam edelim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, the thinking that went into the GNU GPL? Part of it was that I wanted to "
 "protect the freedom of the community against the phenomena that I just "
@@ -3963,7 +3963,7 @@ msgstr ""
 "yazabileceğimi ve çok sayıda insanın programı kullanacağını düşündüm, ancak "
 "o insanların özgürlüğü olmayacaktı. Ve bunun ana noktası nedir?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But the other issue I was thinking about was, I wanted to give the community "
 "a feeling that it was not a doormat, a feeling that it was not prey to any "
@@ -3987,7 +3987,7 @@ msgstr ""
 "geldi ve özgür sürümlerin yerini aldı. Ve o zaman, neyi başarmış oldunuz? "
 "Yalnızca bir özel mülk yazılım projesine katkıda bulunmuş oldunuz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And when people see that that's happening, when people see, other people "
 "take what I do, and they don't ever give back, it can be demoralizing.  And, "
@@ -4013,7 +4013,7 @@ msgstr ""
 "insanlar bir tartışma bile yaşadılar ancak bunu nasıl durdurabileceğimize "
 "ilişkin bir fikrimiz yoktu."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, the GPL is designed to stop that.  And it says, Yes, you are welcome to "
 "join the community and use this code.  You can use it to do all sorts of "
@@ -4026,7 +4026,7 @@ msgstr ""
 "topluluğumuza, topluluğumuzun bir kısmına, özgür dünyanın bir kısmına "
 "yayınlamanız gereklidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, in fact, there are still many ways that people can get the benefit of "
 "our work and not contribute, like you don't have to write any software.  "
@@ -4047,7 +4047,7 @@ msgstr ""
 "verdi: Evet, herkes tarafından ayakaltına alınmayacağız. Bunun karşısında "
 "ayakta duracağız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: Yes, my question was, considering free but not "
 "copylefted software, since anybody can pick it up and make it proprietary, "
@@ -4059,11 +4059,11 @@ msgstr ""
 "hale getirebileceği için, birilerinin bu yazılımı alıp üzerinde bazı "
 "değişiklikler yapıp sonuçtaki yazılımı GPL altında yayınlaması mümkün müdür?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>STALLMAN</strong>: Yes, it is possible."
 msgstr "<strong>STALLMAN</strong>: Evet, bu mümkündür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: Then, that would make all future copies then be "
 "GPL'ed."
@@ -4071,7 +4071,7 @@ msgstr ""
 "<strong>SORU</strong>: O zaman bu, gelecekteki tüm kopyaların GPL'lenmesine "
 "neden olacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: From that branch.  But here's why we don't do "
 "that."
@@ -4079,11 +4079,11 @@ msgstr ""
 "<strong>STALLMAN</strong>: O açıdan öyle. Ancak neden bunu yapmadığımızın "
 "nedenleri şunlardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>QUESTION</strong>: Hmm?"
 msgstr "<strong>SORU</strong>: Hım?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Here's why we don't generally do that.  Let me "
 "explain."
@@ -4091,11 +4091,11 @@ msgstr ""
 "<strong>STALLMAN</strong>: Neden genellikle bunu yapmıyoruz, açıklamama izin "
 "verin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>QUESTION</strong>: OK, yes."
 msgstr "<strong>SORU</strong>: Tamam, evet."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: We could, if we wanted to, take X Windows, and "
 "make a GPL-covered copy and make changes in that.  But there's a much larger "
@@ -4111,7 +4111,7 @@ msgstr ""
 "bu, iyi bir davranış değildir. Ve onlar, bizim topluluğumuzun bir "
 "parçasıdır, topluluğumuza katkıda bulunmaktadırlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Second, it would backfire against us, because they're doing a lot more work "
 "on X than we would be.  So, our version would be inferior to theirs, and "
@@ -4122,11 +4122,11 @@ msgstr ""
 "sürümünden daha kötü olacaktır ve insanlar, bizim sürümümüzü "
 "kullanmayacaktır, neden başımızı derde sokalım ki?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>QUESTION</strong>: Mmm hmm."
 msgstr "<strong>SORU</strong>: Mmm hmm."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: So when a person has written some improvement to "
 "X Windows, what I say that person should do is cooperate with the X "
@@ -4141,7 +4141,7 @@ msgstr ""
 "yazılım parçası geliştirmektedirler. Onlarla işbirliği yapmak bizim için "
 "iyidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: Except, considering X, in particular, about two "
 "years ago, the X Consortium that was far into the nonfree open source&hellip;"
@@ -4149,7 +4149,7 @@ msgstr ""
 "<strong>SORU</strong>: Yaklaşık iki yıl önceki özgür olmayan açık kaynağa "
 "çok yakın olan X Konsorsiyumu hariç olmak üzere&hellip;"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Well, actually it <em>wasn't</em> open sourced.  "
 "It wasn't open sourced, either.  They may have said it was.  I can't "
@@ -4166,7 +4166,7 @@ msgstr ""
 "da benzeri bir şeyleri dağıtamıyordunuz. Bu, hem Özgür Yazılım hareketi hem "
 "de Açık Kaynak hareketi tarafından kabul edilemez olan bir kısıtlamaydı."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "And yes, that's what using a non-copyleft license leaves you open to.  In "
 "fact, the X Consortium, they had a very rigid policy.  They say: If your "
@@ -4178,7 +4178,7 @@ msgstr ""
 "demekteydiler: Programınız azıcık bile copyleft edilmiş olsa, dağıtmayız "
 "bile. Dağıtımımıza koymayacağız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, a lot of people were pressured in this way into not copylefting.  And "
 "the result was that all of their software was wide open, later on.  When the "
@@ -4193,7 +4193,7 @@ msgstr ""
 "dediklerinde, bu onların çok da etik olmayan hareketler yaptıklarını "
 "göstermiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But, given the situation, would we really want to scrape up the resources to "
 "maintain an alternate GPL-covered version of X? And it wouldn't make any "
@@ -4205,7 +4205,7 @@ msgstr ""
 "hiçbir anlamı olmayacaktı. Yapmamız gereken başka birçok şey vardır. Bunun "
 "yerine onları yapalım. X geliştiricileriyle işbirliği yapabiliriz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: Do you have a comment, is the GNU a trademark? "
 "And is it practical to include it as part of the GNU General Public License "
@@ -4215,7 +4215,7 @@ msgstr ""
 "yorumunuz var mı? Ve ticari markalara izin vererek bunu, GNU Genel Kamu "
 "Lisansının bir parçası olarak içermek pratik midir?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: We are, actually, applying for trademark "
 "registration on GNU.  But it wouldn't really have anything to do with that.  "
@@ -4225,7 +4225,7 @@ msgstr ""
 "uygulamaktayız. Ancak, bunun bir önemi yok. Bunun sebebini açıklamak uzun "
 "sürer."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: You could require the trademark be displayed with "
 "GPL-covered programs."
@@ -4233,7 +4233,7 @@ msgstr ""
 "<strong>SORU</strong>: Ticari markanın GPL kapsamlı programlarda "
 "görüntülenmesine gereksinim duyardınız."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: No, I don't think so.  The licenses cover "
 "individual programs.  And when a given program is part of the GNU Project, "
@@ -4245,7 +4245,7 @@ msgstr ""
 "hiç kimse bu konu hakkında yalan söylemez. Bir bütün olarak sistemin ismi "
 "farklı bir husustur. Ve bu, bir yan husustur. Daha fazla tartışılmaya değmez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>QUESTION</strong>: If there was a button that you could push and "
 "force all companies to free their software, would you press it?"
@@ -4254,7 +4254,7 @@ msgstr ""
 "firmaları yazılımlarını özgürleştirmeye zorlayabilseydiniz, bu düğmeye basar "
 "mıydınız?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: Well, I would only use this for published "
 "software.  You know, I think that people have the right to write a program "
@@ -4273,7 +4273,7 @@ msgstr ""
 "Bu yanlıştır, ancak farklı bir yanlış tipidir. Aynı alanda olmasına rağmen, "
 "farklı bir husustur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But yes, I think all published software should be free software.  And "
 "remember, when it's not free software, that's because of government "
@@ -4290,7 +4290,7 @@ msgstr ""
 "kullanmamızı polis gücüyle önleyebilir. Bu nedenle kesinlikle bunun bir sona "
 "erdirilmesini isterim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>SCHONBERG</strong>: Richard's presentation has invariably generated "
 "an enormous amount of intellectual energy.  I would suggest that some of it "
@@ -4300,7 +4300,7 @@ msgstr ""
 "enerji oluşturmuştur. Umarım ki, bu enerjinin bir kısmı özgür yazılımın "
 "kullanılmasına ve muhtemelen de yazılmasına dönüşür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We should close the proceedings shortly.  I want to say that Richard has "
 "injected into a profession which is known in the general public for its "
@@ -4314,11 +4314,11 @@ msgstr ""
 "görülmemiş bir davranıştır. Ve bunun için ona çok borçluyuz. Şimdi bir ara "
 "olduğunu belirtmek isterim."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<i>[Applause]</i>"
 msgstr "<i> [Alkışlar]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<strong>STALLMAN</strong>: You are free to leave at any time, you know. <i>"
 "[Laughter]</i> I'm not holding you prisoner here."
@@ -4326,15 +4326,15 @@ msgstr ""
 "<strong>STALLMAN</strong>: İstediğiniz zaman gitmekte özgürsünüz, "
 "biliyorsunuz. <i>[Dinleyiciler güler]</i> Sizi burada köle olarak tutmuyorum."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<i>[Audience adjourns&hellip;]</i>"
 msgstr "<i>[Dinleyiciler dağılır&hellip;]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<i>[overlapping conversations&hellip;]</i>"
 msgstr "<i>[üst üste binmiş konuşmalar&hellip;]</i>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid "<strong>STALLMAN</strong>: One final thing.  Our website: www.gnu.org"
 msgstr "<strong>STALLMAN</strong>: Son bir şey. Websitemiz: www.gnu.org"
 

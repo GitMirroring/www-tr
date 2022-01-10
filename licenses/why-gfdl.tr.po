@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-gfdl.html\n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2021-02-13 17:07+0100\n"
+"POT-Creation-Date: 2022-01-02 17:26+0000\n"
+"PO-Revision-Date: 2022-01-10 20:22+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -24,15 +24,15 @@ msgid ""
 msgstr ""
 "Yayıncılar neden GNU FDL kullanmalıdır - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why publishers should use the GNU FDL"
 msgstr "Yayıncılar neden GNU FDL kullanmalıdır"
 
-#. type: Content of: <p>
-msgid "by <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
-msgstr "yazan <a href=\"http://www.stallman.org/\">Richard Stallman</a>"
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Can technical writers earn money by writing free documentation for free "
 "software? We seriously hope so, and that is the reason for the GNU Free "
@@ -42,7 +42,7 @@ msgstr ""
 "kazanabilirler mi? Cidden bunu umuyoruz ve bu da GNU Özgür Belgelendirme "
 "Lisansı'nın nedenidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GFDL is meant as a way to enlist commercial publishers in funding free "
 "documentation without surrendering any vital liberty.  The &ldquo;cover "
@@ -62,7 +62,7 @@ msgstr ""
 "özellikle yayınevi şirketlerinin personeline, hukukçulara, özgür "
 "belgelendirme yazarlarına ve genel olarak topluluğa danıştım."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "At least two commercial publishers of software manuals have told me they are "
 "interested in using this license.  The future is never a sure thing, but the "
@@ -102,14 +102,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -123,17 +123,17 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2000, 2007, 2008, 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2000, 2007, 2008, 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2000, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2000, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
 "Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.

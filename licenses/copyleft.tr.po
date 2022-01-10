@@ -12,8 +12,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: copyleft.html\n"
-"POT-Creation-Date: 2018-01-01 05:57+0000\n"
-"PO-Revision-Date: 2021-02-15 12:57+0200\n"
+"POT-Creation-Date: 2022-01-02 16:26+0000\n"
+"PO-Revision-Date: 2022-01-10 17:36+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid "What is Copyleft? - GNU Project - Free Software Foundation"
@@ -31,11 +31,11 @@ msgstr "Copyleft nedir? - GNU Projesi - Özgür Yazılım Vakfı"
 msgid "GNU, FSF, Free Software Foundation, Linux, Copyleft"
 msgstr "GNU, FSF, Özgür Yazılım Vakfı, Linux, Copyleft"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "What is Copyleft?"
 msgstr "Copyleft Nedir?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft is a general method for making a program (or other work) free (<a "
 "href=\"/philosophy/free-sw.html\">in the sense of freedom, not &ldquo;zero "
@@ -47,7 +47,7 @@ msgstr ""
 "değiştirilmiş ve geliştirilmiş sürümlerinin de özgür yazılım olması için "
 "genel bir yöntemdir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The simplest way to make a program free software is to put it in the <a href="
 "\"/philosophy/categories.html#PublicDomainSoftware\">public domain</a>, "
@@ -70,7 +70,7 @@ msgstr ""
 "insanlar, özgün yazarın onlara sağladığı özgürlüğe sahip olamazlar; aradaki "
 "insanlar bu özgürlüğü yok etmiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the <a href=\"/gnu/thegnuproject.html\">GNU project</a>, our aim is to "
 "give <em>all</em> users the freedom to redistribute and change GNU "
@@ -91,7 +91,7 @@ msgstr ""
 "kimselere bu özgürlüğü aktarmaları gerektiğini söyler. Copyleft, her "
 "kullanıcının özgürlüğe sahip olmasını güvence altına alır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft also provides an <a href=\"/philosophy/pragmatic.html\">incentive</"
 "a> for other programmers to add to free software.  Important free programs "
@@ -101,24 +101,24 @@ msgstr ""
 "<a href=\"/philosophy/pragmatic.html\">güdü</a> de oluşturur. GNU C++ "
 "derleyicisi gibi önemli özgür programlar yalnızca bu nedenden dolayı varlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Copyleft also helps programmers who want to contribute <a href=\"/prep/tasks."
+"Copyleft also helps programmers who want to contribute <a href=\"/help/help."
 "html\">improvements</a> to <a href=\"/philosophy/free-sw.html\">free "
 "software</a> get permission to do so.  These programmers often work for "
 "companies or universities that would do almost anything to get more money.  "
 "A programmer may want to contribute her changes to the community, but her "
 "employer may want to turn the changes into a proprietary software product."
 msgstr ""
-"Copyleft ayrıca geliştirdiği <a href=\"/prep/tasks.html\">özellikleri</a> <a "
-"href=\"/philosophy/free-sw.html\">özgür yazılım</a>a aktarmak isteyen "
+"Copyleft ayrıca geliştirdiği <a href=\"/help/help.html\">iyileştirmeleri</a> "
+"<a href=\"/philosophy/free-sw.html\">özgür yazılım</a>a aktarmak isteyen "
 "programcıların bunu yapması için izin almalarına da yardımcı olmaktadır. Bu "
 "programcılar, daha fazla para kazanmak için hemen hemen her şeyi yapacak "
 "olan firmalar veya üniversiteler için çalışmaktadır. Bir programcı, "
 "değişikliklerini kamuya aktarmak isteyebilir ancak işvereni, "
 "değişikliklerini özel mülk bir yazılım ürününe dönüştürmek isteyebilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When we explain to the employer that it is illegal to distribute the "
 "improved version except as free software, the employer usually decides to "
@@ -128,7 +128,7 @@ msgstr ""
 "yasa dışı olduğunu açıkladığımızda, işveren genelde bu yazılımı çöpe atmak "
 "yerine özgür yazılım olarak dağıtmayı tercih etmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "To copyleft a program, we first state that it is copyrighted; then we add "
 "distribution terms, which are a legal instrument that gives everyone the "
@@ -143,7 +143,7 @@ msgstr ""
 "şartları aynı kalacak şekilde herkese sağlayan yasal bir araçtır. Böylece "
 "kod ve özgürlükler yasal olarak ayrılmaz hale gelir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software developers use copyright to take away the users' "
 "freedom; we use copyright to guarantee their freedom.  That's why we reverse "
@@ -154,13 +154,13 @@ msgstr ""
 "garanti etmek için kullanmaktayız. İsmini, &ldquo;copyright&rdquo;'tan "
 "(telif hakkı) &ldquo;copyleft&rdquo;'e çevirmemizin nedeni budur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft is a way of using the copyright on the program.  It doesn't mean "
 "abandoning the copyright; in fact, doing so would make copyleft impossible.  "
 "The &ldquo;left&rdquo; in &ldquo;copyleft&rdquo; is not a reference to the "
 "verb &ldquo;to leave&rdquo;&mdash;only to the direction which is the mirror "
-"image of &ldquo;right&rdquo;."
+"image of &ldquo;right.&rdquo;"
 msgstr ""
 "Copyleft, program üzerinde telif hakkını kullanmanın bir yoldur. Telif "
 "hakkından vazgeçmek anlamına gelmez; gerçekte, telif hakkından vazgeçmek "
@@ -169,7 +169,7 @@ msgstr ""
 "bırakmak) fiiline bir atıf değildir; sadece &ldquo;right&rdquo; (sağ) "
 "yönünün tersini temsil etmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Copyleft is a general concept, and you can't use a general concept directly; "
 "you can only use a specific implementation of the concept.  In the GNU "
@@ -191,7 +191,7 @@ msgstr ""
 "sağlayanlardan telif hakkı devirlerini neden aldığına</a> ilişkin bilgileri "
 "de okuyabilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "An alternate form of copyleft, the <a href=\"/licenses/agpl.html\">GNU "
 "Affero General Public License (AGPL)</a> is designed for programs that are "
@@ -205,22 +205,22 @@ msgstr ""
 "kullanılan değiştirilmiş sürümlerin kaynak kod olarak da kamuya "
 "yayınlanmasını güvence altına alır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A compromise form of copyleft, the <a href=\"/licenses/lgpl.html\">GNU "
 "Lesser General Public License (LGPL)</a> applies to a few (but not all) GNU "
 "libraries. To learn more about properly using the LGPL, please read the "
-"article <a href=\"/philosophy/why-not-lgpl.html\"><cite>Why you shouldn't "
-"use the Lesser GPL for your next library</cite></a>."
+"article &ldquo;<a href=\"/philosophy/why-not-lgpl.html\">Why you shouldn't "
+"use the Lesser GPL for your next library</a>.&rdquo;"
 msgstr ""
 "Uzlaşmacı bir copyleft biçimi olan <a href=\"/licenses/lgpl.html\">GNU "
 "Kısıtlı Genel Kamu Lisansı (LGPL)</a> bazı (ama tümü değil) GNU "
 "kütüphanelerine uygulanmaktadır. LGPL'i uygun bir şekilde kullanmak için "
-"daha fazlasını öğrenmek üzere, lütfen <a href=\"/philosophy/why-not-lgpl.html"
-"\"><cite>Bir Sonraki Kütüphaneniz İçin Neden Kısıtlı GPL Kullanmamalısınız</"
-"cite></a> yazısını okuyun."
+"daha fazlasını öğrenmek üzere, lütfen &ldquo;<a href=\"/philosophy/why-not-"
+"lgpl.html\">Bir Sonraki Kütüphaneniz İçin Neden Kısıtlı GPL "
+"Kullanmamalısınız</a>&rdquo; yazısını okuyun."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"/licenses/fdl.html\">GNU Free Documentation License (FDL)</a> "
 "is a form of copyleft intended for use on a manual, textbook or other "
@@ -233,7 +233,7 @@ msgstr ""
 "dağıtılmasına yönelik etkin bir özgürlük sağlamak için kullanılması "
 "amaçlanan bir copyleft biçimidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The appropriate license is included in many manuals and in each GNU source "
 "code distribution."
@@ -241,7 +241,7 @@ msgstr ""
 "Uygun lisans bir çok rehberde ve her bir GNU kaynak kodu dağıtımında "
 "içerilmiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "All these licenses are designed so that you can easily apply them to your "
 "own works, assuming you are the copyright holder.  You don't have to modify "
@@ -254,7 +254,7 @@ msgstr ""
 "lisansın bir kopyasını barındırmanız ve kaynak kodlarda uygun bir şekilde "
 "lisansa yönelik bildirimleri eklemeniz yeterlidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Using the same distribution terms for many different programs makes it easy "
 "to copy code between various different programs.  When they all have the "
@@ -273,7 +273,7 @@ msgstr ""
 "Lesser GPL'nin 3. sürümü, GPL 3. sürüme bir istisna olarak eklenmiştir, "
 "uyumluluk böylece otomatikleşmiştir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you would like to copyleft your program with the GNU GPL or the GNU LGPL, "
 "please see the <a href=\"/licenses/gpl-howto.html\">license instructions "
@@ -287,7 +287,7 @@ msgstr ""
 "gerektiğini unutmayın. Her biri bir bütündür ve kısmi kopyalara izin "
 "verilmemektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you would like to copyleft your manual with the GNU FDL, please see the "
 "instructions at the <a href=\"/licenses/fdl.html#addendum\">end</a> of the "
@@ -299,12 +299,12 @@ msgstr ""
 "<a href=\"/licenses/fdl-howto.html\">GFDL açıklamalar sayfasını</a> "
 "inceleyin. Yine kısmi kopyalara izin verilmemektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "It is a legal mistake to use a backwards C in a circle instead of a "
 "copyright symbol.  Copyleft is based legally on copyright, so the work "
 "should have a copyright notice.  A copyright notice requires either the "
-"copyright symbol (a C in a circle) or the word &ldquo;Copyright&rdquo;."
+"copyright symbol (a C in a circle) or the word &ldquo;Copyright.&rdquo;"
 msgstr ""
 "Telif hakkı simgesi yerine bir çember içerisinde ters C kullanmak yasal bir "
 "hatadır. Copyleft yasal olarak telif hakkına (copyright) dayanmaktadır, "
@@ -312,7 +312,7 @@ msgstr ""
 "ibaresinin ya telif hakkı simgesini (çember içinde C) veya &ldquo;"
 "Copyright&rdquo; kelimesini içermesi gerekmektedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A backwards C in a circle has no special legal significance, so it doesn't "
 "make a copyright notice.  It may be amusing in book covers, posters, and "
@@ -351,14 +351,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -373,12 +373,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2014, 2015, 2016, 2017, 2018 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1996-2001, 2004, 2005, 2007-2009, 2013, 2016, 2022 Free "
+"Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
-"2006, 2007, 2008, 2009, 2014, 2015, 2016, 2017, 2018 Özgür Yazılım Vakfı "
+"Copyright &copy; 1996-2001, 2004, 2005, 2007-2009, 2013, 2016, 2022 Free "
 "Software Foundation, Inc."
 
 #. type: Content of: <div><p>

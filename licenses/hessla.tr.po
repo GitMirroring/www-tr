@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: hessla.html\n"
-"POT-Creation-Date: 2020-07-22 10:25+0000\n"
-"PO-Revision-Date: 2021-02-21 08:56+0100\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-10 20:03+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,17 +15,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid "The HESSLA's Problems - GNU Project - Free Software Foundation"
 msgstr "HESSLA'nın Sorunları - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "The HESSLA's Problems"
 msgstr "HESSLA'nın Sorunları"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The <a href=\"https://directory.fsf.org/wiki/License:HESSLA\">Hacktivismo "
 "Enhanced-Source Software License Agreement</a> (HESSLA) is a software source "
@@ -48,7 +48,7 @@ msgstr ""
 "amaçlarına sempati besleyen insan topluluğunun, ilkelerini ihlal etmeden "
 "HESSLA kapsamındaki yazılıma katkı sağlayamamasıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The restrictions in the HESSLA prohibit specific activities that are "
 "inexcusable: violations of human rights, and introduction of features that "
@@ -63,12 +63,12 @@ msgstr ""
 "neden kullanım ve değiştirilmiş sürümlerin işlevselliği üzerindeki tüm "
 "kısıtlamaları reddetme şeklinde genel politikaya bağlı kalıyoruz?"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we were ever going to make an exception to our principles of free "
 "software, here would be the place to do it.  But it would be a mistake to do "
 "so: <a href=\"/philosophy/programs-must-not-limit-freedom-to-run.html\"> it "
-"would do harm to free software movement and would achieve nothing.</a> "
+"would do harm to the free software movement and would achieve nothing.</a> "
 "Trying to stop those particular activities with a software license is either "
 "unnecessary or ineffective."
 msgstr ""
@@ -79,7 +79,7 @@ msgstr ""
 "faaliyetleri, bir yazılım lisansıyla durdurmaya çalışmak ya gereksizdir ya "
 "da etkisizdir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In regard to modified versions, the HESSLA's restrictions are unnecessary.  "
 "The GNU GPL is, in general, sufficient protection against privacy-violating "
@@ -95,7 +95,7 @@ msgstr ""
 "gelişmiş bir sürümü yayınlamasını sağlar. Kullanıcılar da kişisel "
 "bilgilerinin bildirilmesini istemiyorlarsa bu sürüme geçebilirler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As for restricting the use of the software by governments that violate human "
 "rights, this is likely to be ineffective.  There are many other programs "
@@ -137,14 +137,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -158,8 +158,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2008, 2014, 2020 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2002, 2008, 2014, 2020 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2002, 2013, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2002, 2013, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

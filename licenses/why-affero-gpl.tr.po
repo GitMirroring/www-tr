@@ -6,26 +6,26 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-affero-gpl.html\n"
-"POT-Creation-Date: 2015-05-10 22:25+0000\n"
-"PO-Revision-Date: 2020-03-29 20:26+0200\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-10 20:20+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Language: tr\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid "Why the GNU Affero GPL - GNU Project - Free Software Foundation"
 msgstr "Neden GNU Affero GPL - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why the Affero GPL"
 msgstr "Neden Affero GPL"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Affero General Public License is a modified version of the ordinary "
 "GNU GPL version 3.  It has one added requirement: if you run a modified "
@@ -39,7 +39,7 @@ msgstr ""
 "kurmasına izin verirseniz sunucunuzun da üstünde çalışan değiştirilmiş "
 "sürüme karşılık gelen kaynak kodu indirmelerine izin vermesi gerekir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The purpose of the GNU Affero GPL is to prevent a problem that affects "
 "developers of free programs that are often used on servers."
@@ -47,7 +47,7 @@ msgstr ""
 "GNU Affero GPL'nin amacı, sunucularda sıklıkla kullanılan özgür program "
 "geliştiricilerini etkileyen bir sorunu önlemektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Suppose you develop and release a free program under the ordinary GNU GPL.  "
 "If developer D modifies the program and releases it, the GPL requires him to "
@@ -61,7 +61,7 @@ msgstr ""
 "kopyasını alırsanız değişikliklerinin bir kısmını veya tamamını kendi "
 "sürümünüze dâhil etmekte özgürsünüz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But suppose the program is mainly useful on servers.  When D modifies the "
 "program, he might very likely run it on his own server and never release "
@@ -75,7 +75,7 @@ msgstr ""
 "kaynak kodunun bir kopyasını alamazsınız, bu yüzden onun değişikliklerini "
 "sürümünüze dâhil etme şansınız olmaz. Bu sonucu beğenmeyebilirsiniz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Using the GNU Affero GPL avoids that outcome.  If D runs his version on a "
 "server that everyone can use, you too can use it.  Assuming he has followed "
@@ -91,7 +91,7 @@ msgstr ""
 "yapabilir ve daha sonra onun değişikliklerini sürümünüze dâhil "
 "edebilirsiniz. (Eğer buna uymuyorsa avukatınız şikayet etsin.)"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Both the ordinary GNU GPL, version 3, and the GNU Affero GPL have text "
 "allowing you to link together modules under these two licenses in one "
@@ -101,7 +101,7 @@ msgstr ""
 "modülleri tek bir programda birbirine bağlamanızı sağlayan bir metne "
 "sahiptir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Affero GPL does not address the problem of <a href=\"/philosophy/who-"
 "does-that-server-really-serve.html\"> Service as a Software Substitute "
@@ -111,7 +111,7 @@ msgstr ""
 "\">Yazılım Yerine Hizmet (<abbr title=\" Service as a Software Substitute"
 "\">SaaSS</abbr>)</a> sorununu ele almaz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "SaaSS means that users use someone else's web server to do their own "
 "computing.  This requires them to send their data to the server, which does "
@@ -125,7 +125,7 @@ msgstr ""
 "gerçekleştirir ve sonuçları onlara geri gönderir. SaaSS bir haksızlıktır "
 "çünkü kullanıcılar bu şekilde yapıldığında bilişimlerini denetleyemezler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If some program on this server is released under the GNU Affero GPL, the "
 "server is required to offer the users the corresponding source of that "
@@ -141,7 +141,7 @@ msgstr ""
 "verilerini başka şekillerde inceleyebileceğini veya değiştirebileceğini de "
 "söylemez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We don't see any sensible way to address the SaaSS problem with license "
 "conditions on particular programs.  Even to write a legal condition to "
@@ -158,7 +158,7 @@ msgstr ""
 "SaaSS'ın doğasında yanlış olanı düzelten hiçbir şey görmüyoruz. Bu nedenle "
 "SaaSS sorununa çözümümüz basit: SaaSS hizmetlerini kullanmayı reddedin."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If a program is meant specifically and only for SaaSS, you shouldn't write "
 "it.  But many programs are useful for a variety of kinds of services, "
@@ -198,14 +198,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -219,17 +219,17 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2010, 2013, 2014, 2015 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2010, 2013, 2014, 2015 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2010, 2013, 2015, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2010, 2013, 2015, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
 "Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.

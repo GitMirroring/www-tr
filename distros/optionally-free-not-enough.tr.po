@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: optionally-free-not-enough.html\n"
-"POT-Creation-Date: 2021-11-26 06:28+0000\n"
+"POT-Creation-Date: 2021-12-25 21:25+0000\n"
 "PO-Revision-Date: 2021-05-09 08:04+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -22,11 +22,11 @@ msgid "Optionally Free Is Not Enough - GNU Project - Free Software Foundation"
 msgstr ""
 "İsteğe Bağlı Olarak Özgür Yeterli Değil - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Optionally Free Is Not Enough"
 msgstr "İsteğe Bağlı Olarak Özgür Yeterli Değil"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "There are distros we decline to recommend that offer the user the option of "
 "installing only free software.  Given that option, a user who values freedom "
@@ -38,7 +38,7 @@ msgstr ""
 "veren ve konu hakkında düşünen bir kullanıcı, bu dağıtımların özgürlüğüne "
 "saygı göstermesini sağlayabilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "A distro that offers that option is clearly better than one that fails to "
 "offer that option.  But that option does not make the distro ok to recommend "
@@ -56,7 +56,7 @@ msgstr ""
 "yönlendirmek istemiyoruz. Uygulamalarımızı bunu olasılık dışı bırakacak "
 "şekilde seçtik."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Thus, our decision about recommending a distro depends on who we would "
 "recommend it to.  For instance, it could be:"
@@ -64,7 +64,7 @@ msgstr ""
 "Bu yüzden, bir dağıtımı önerip önermeme kararımız, kime önerdiğimize de "
 "bağlıdır. Mesela şunlar olabilir:"
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid ""
 "Specific committed free software supporters that we know will make an effort "
 "to avoid nonfree software."
@@ -72,11 +72,11 @@ msgstr ""
 "Bildiğimiz belirli, sadık özgür yazılım destekçileri özgür olmayan "
 "yazılımlardan kaçınmak için çaba gösterecektir."
 
-#. type: Content of: <ol><li>
+#. type: Content of: <div><ol><li>
 msgid "A large and diverse group, such as, perhaps, the public in general."
 msgstr "Büyük ve çeşitli bir grup, örneğin, belki de genel olarak halk."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We could recommend the distro privately to people in that first group if the "
 "distro provides a clear and reliable way to reject nonfree software."
@@ -84,7 +84,7 @@ msgstr ""
 "Eğer dağıtım, özgür olmayan yazılımı reddetmek için açık ve güvenilir bir "
 "yol sağlıyorsa, ilk gruptaki kişilere dağıtımı özel olarak önerebiliriz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, when it comes to recommending a distro to the general public, we "
 "should insist (and we do insist) on an explicit commitment not to offer or "
@@ -96,7 +96,7 @@ msgstr ""
 "ısrarcıyız). Böylece, halkın bu dağıtımı önermemiz sonucunda herhangi bir "
 "özgür olmayan yazılım kurmasına yol açmayacağını bilebiliriz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "What distros should an install fest recommend or install for the public? On "
 "moral grounds, an install fest should not recommend or install nonfree "
@@ -111,7 +111,7 @@ msgstr ""
 "olmadan hayal kırıklığıyla oradan ayrılacak ve GNU/Linux'un bir başarısızlık "
 "olduğunu düşüneceklerdir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We thought of an idea for how to reconcile these two needs: the install fest "
 "installs a free distro, then <a href=\"/philosophy/install-fest-devil.html"

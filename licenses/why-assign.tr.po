@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: why-assign.html\n"
-"POT-Creation-Date: 2018-01-01 05:57+0000\n"
-"PO-Revision-Date: 2021-02-13 16:41+0100\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-10 20:21+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,30 +15,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid ""
-"Why the FSF gets copyright assignments from contributors - GNU Project - "
+"Why the FSF Gets Copyright Assignments from Contributors - GNU Project - "
 "Free Software Foundation"
 msgstr ""
-"FSF katkı sağlayanlardan neden telif hakkı devri alıyor - GNU Projesi - "
+"FSF Katkı Sağlayanlardan Neden Telif Hakkı Devri Alıyor - GNU Projesi - "
 "Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
-msgid "Why the FSF gets copyright assignments from contributors"
-msgstr "FSF katkı sağlayanlardan neden telif hakkı devri alıyor"
+#. type: Content of: <div><h2>
+msgid "Why the FSF Gets Copyright Assignments from Contributors"
+msgstr "FSF Katkı Sağlayanlardan Neden Telif Hakkı Devri Alıyor"
 
-#. type: Content of: <p>
-msgid ""
-"by <strong>Professor Eben Moglen</strong>, Columbia University Law School"
-msgstr ""
-"yazan <strong>Professor Eben Moglen</strong>, Columbia Üniversitesi Hukuk "
-"Fakültesi"
+#. type: Content of: <div><address>
+msgid "by Professor Eben Moglen, Columbia University Law School"
+msgstr "yazan Profesör Eben Moglen, Columbia Üniversitesi Hukuk Fakültesi"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><div><p>
 msgid ""
-"[Explanatory note added in Jan 2013: this point applies to the packages that "
+"Explanatory note added in Jan 2013: this point applies to the packages that "
 "are FSF-copyrighted.  When the developers of a program make it a GNU "
 "package, they can decide either to give the copyright to the FSF so it can "
 "enforce the GPL for the package, or else to keep the copyright as well as "
@@ -46,9 +43,9 @@ msgid ""
 "copyrighted package, then the FSF asks for copyright assignments for further "
 "contributions, and this page explains why.  <a href=\"https://www.fsf.org/"
 "bulletin/2014/spring/copyright-assignment-at-the-fsf\"> Additional pertinent "
-"explanation</a>.]"
+"explanation</a>."
 msgstr ""
-"[Ocak 2013'te eklenen açıklayıcı not: bu husus FSF'nin telif hakkına sahip "
+"Ocak 2013'te eklenen açıklayıcı not: bu husus FSF'nin telif hakkına sahip "
 "olduğu paketler için geçerlidir. Bir programın geliştiricileri onu GNU "
 "paketi yaparlarsa, telif hakkını FSF'ye devretmek, böylece GPL'in "
 "uygulanmasını FSF'nin yapmasını veya kendilerinde tutmak ve GPL'in "
@@ -56,9 +53,9 @@ msgstr ""
 "hakkı FSF'de olan bir paket yaparlarsa, FSF daha sonraki katkılar için de "
 "telif hakkı devrini ister, bu sayfada bu durumun gerekçesi açıklanıyor. <a "
 "href=\"https://www.fsf.org/bulletin/2014/spring/copyright-assignment-at-the-"
-"fsf\"> Ek ilgili açıklama</a>.]"
+"fsf\"> Ek ilgili açıklama</a>."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Under US copyright law, which is the law under which most free software "
 "programs have historically been first published, there are very substantial "
@@ -77,7 +74,7 @@ msgstr ""
 "lisansı uygulayabilir. Eğer telifli bir çalışmanın birçok yazarı varsa, "
 "başarılı bir uygulama bütün yazarların işbirliğine bağlıdır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In order to make sure that all of our copyrights can meet the recordkeeping "
 "and other requirements of registration, and in order to be able to enforce "
@@ -124,14 +121,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -146,11 +143,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001, 2008, 2009, 2014, 2017, 2018 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2001, 2013, 2014, 2017, 2022 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2001, 2008, 2009, 2014, 2017, 2018 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2001, 2013, 2014, 2017, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

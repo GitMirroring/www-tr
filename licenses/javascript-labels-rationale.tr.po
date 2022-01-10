@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: javascript-labels-rationale.html\n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2021-02-21 08:43+0100\n"
+"POT-Creation-Date: 2022-01-02 17:25+0000\n"
+"PO-Revision-Date: 2022-01-10 20:07+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,33 +15,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid ""
-"JavaScript License Web Labels: Background and rationale - GNU Project - Free "
+"JavaScript License Web Labels: Background and Rationale - GNU Project - Free "
 "Software Foundation"
 msgstr ""
-"JavaScript Lisans Web Etiketleri: Arka plan ve gerekçe - GNU Projesi - Özgür "
+"JavaScript Lisans Web Etiketleri: Arka Plan ve Gerekçe - GNU Projesi - Özgür "
 "Yazılım Vakfı"
 
-#. type: Content of: <h2>
-msgid "JavaScript License Web Labels: Background and rationale"
-msgstr "JavaScript Lisans Web Etiketleri: Arka plan ve gerekçe"
+#. type: Content of: <div><h2>
+msgid "JavaScript License Web Labels: Background and Rationale"
+msgstr "JavaScript Lisans Web Etiketleri: Arka Plan ve Gerekçe"
 
-#. type: Content of: <h3>
-msgid "Introduction"
-msgstr "Giriş"
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"Users browsing the Web nowadays typically run huge amounts of proprietary "
+"Users browsing the web nowadays typically run huge amounts of proprietary "
 "software on their computers, often unknowingly.  Free software is succeeding "
 "on the desktop partly because of the copyleft protection guaranteeing users "
 "be told up front when a particular program is free for them to use, study, "
 "share, and modify.  On the Web, browsers download and run JavaScript without "
-"ever informing users of the program's license or their freedoms &mdash; or "
-"how other programs deny users' freedoms."
+"ever informing users of the program's license or their freedoms&mdash;or how "
+"other programs deny users' freedoms."
 msgstr ""
 "Webte gezinen kullanıcılar günümüzde, kendi bilgisayarlarında sıklıkla, çoğu "
 "kez bilmeden, muazzam miktarlarda özel mülk yazılım çalıştırıyorlar. Özgür "
@@ -53,15 +49,15 @@ msgstr ""
 "engellediği konusunda) hiç bilgilendirmeden JavaScript indirip, "
 "çalıştırıyorlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
-"To address this problem, we developed the <a href=\"/software/librejs\"> "
-"LibreJS program </a> which recognizes nontrivial JavaScript code and checks "
-"its license.  Its functioning depends on specifying licenses in a way that a "
-"program which lacks human intelligence can reliably recognize.  In addition, "
-"all GNU software licenses require distributors to state the license with the "
-"software, so recipients know their rights, and to say where to find the "
-"source code."
+"To address this problem, we developed the <a href=\"/software/librejs"
+"\">LibreJS program</a> which recognizes nontrivial JavaScript code and "
+"checks its license.  Its functioning depends on specifying licenses in a way "
+"that a program which lacks human intelligence can reliably recognize.  In "
+"addition, all GNU software licenses require distributors to state the "
+"license with the software, so recipients know their rights, and to say where "
+"to find the source code."
 msgstr ""
 "Bu sorunu çözmek için, önemli JavaScript kodunu tanıyan ve lisansını "
 "denetleyen <a href=\"/software/librejs\"> LibreJS programını</a> "
@@ -71,7 +67,7 @@ msgstr ""
 "(böylece alıcılar haklarını bilirler) ve kaynak kodun nereden "
 "bulunabileceğini söylemesini gerektiriyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The simple way to specify the license is with a <a href=\"/philosophy/"
 "javascript-trap.html\"> stylized comment in the JavaScript code</a>.  "
@@ -85,11 +81,11 @@ msgstr ""
 "lisanslarını belirtmeleri için başka bir yöntem geliştirdik: <a href=\"/"
 "licenses/javascript-labels.html\"> JavaScript web etiketleri</a>."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Rationale"
 msgstr "Gerekçe"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Conditions in free software licenses to include a copy of the license terms "
 "and access to source code are almost always easy to follow when software is "
@@ -109,7 +105,7 @@ msgstr ""
 "yüzden, örneğin, lisans tarafından gerektirilen diğer kaynakları içeren bir "
 "arşiv dosyası gönderemezler)."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "These issues combined leave webmasters with few obvious ways to provide "
 "additional material required by free software licenses.  The simplest "
@@ -138,11 +134,11 @@ msgstr ""
 "gereğine uygun olarak belirgin ama kafa karıştırıcı olmayacak bir şekilde bu "
 "kaynakları yayınlayabilecekleri bir alan veriyor."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Machine readability"
 msgstr "Makinelerce Okunabilirlik"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In order to make it easier for people to reject nonfree JavaScript in their "
 "browsers, our method is specific enough for a plug-in or other software to "
@@ -167,7 +163,7 @@ msgstr ""
 "olmayan JavaScript çalıştırmaktan kaçınmasına yardımcı olan bir eklentidir "
 "ve yeteneklerini iyileştirmek için bu denetimleri gerçekleştirecektir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We considered using another format like RDF as the basis for our system, in "
 "order to simplify this job for programmers by giving them more detailed "
@@ -182,11 +178,11 @@ msgstr ""
 "biçimlendirilmiş HTML kullanımı, bu öncelikleri karşılayan en iyi seçenek "
 "oldu."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Next steps"
 msgstr "Sonraki adımlar"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We are not saying that webmasters that host free software JavaScript must "
 "follow this specific method to comply with the licenses.  Every free "
@@ -206,7 +202,7 @@ msgstr ""
 "bilgisini ziyaretçiler için (günümüze kadar çözülmesi zorluk yaratan) "
 "rahatça erişilir kılma gibi bir yararı var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "We are very interested to hear feedback and suggestions about other ways we "
 "might accomplish the same goals, while making the system more useful for "
@@ -259,14 +255,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -280,17 +276,17 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2012, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2012, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
 "Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
@@ -306,3 +302,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "Introduction"
+#~ msgstr "Giriş"

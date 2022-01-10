@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: rms-why-gplv3.html\n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2020-03-28 13:03+0100\n"
+"POT-Creation-Date: 2022-01-08 16:55+0000\n"
+"PO-Revision-Date: 2022-01-10 20:19+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,21 +15,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid "Why Upgrade to GPLv3 - GNU Project - Free Software Foundation"
 msgstr "Neden GPLv3'e Yükseltilmeli - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why Upgrade to GPLv3"
 msgstr "Neden GPLv3'e Yükseltilmeli"
 
-#. type: Content of: <p>
-msgid "by <strong>Richard Stallman</strong>"
-msgstr "yazan <strong>Richard Stallman</strong>"
+#. type: Content of: <div><address>
+msgid "by Richard Stallman"
+msgstr "yazan Richard Stallman"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "<a href=\"/licenses/gpl.html\">Version 3 of the GNU General Public License</"
 "a> (GNU GPL) has been released, enabling free software packages to upgrade "
@@ -41,7 +41,7 @@ msgstr ""
 "özgür yazılım paketlerinin GPL'nin 2. sürümünden yükseltilmesine olanak "
 "sağladı. Bu yazıda lisansı yükseltmenin neden önemli olduğu açıklanıyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "First of all, it is important to note that upgrading is a choice.  GPL "
 "version 2 will remain a valid license, and no disaster will happen if some "
@@ -53,7 +53,7 @@ msgstr ""
 "GPLv2 kapsamında kalırken diğerlerinin GPLv3'e geçmesi felaket "
 "getirmeyecektir. Bu iki lisans uyumsuz olsa da, bu esas bir sorun değildir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When we say that GPLv2 and GPLv3 are incompatible, it means there is no "
 "legal way to combine code under GPLv2 with code under GPLv3 in a single "
@@ -74,7 +74,7 @@ msgstr ""
 "ekleyebiliriz ancak bu yeterli olmayacaktır, çünkü GPLv2'nin de benzer bir "
 "maddeye ihtiyacı olacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Fortunately, license incompatibility matters only when you want to link, "
 "merge or combine code from two different programs into a single program.  "
@@ -94,7 +94,7 @@ msgstr ""
 "şekilde Bash ve GCC GPLv3'e taşınırken, Linux GPLv2 altında kalsa da "
 "herhangi bir uyuşmazlık yoktur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Keeping a program under GPLv2 won't create problems.  The reason to migrate "
 "is because of the existing problems that GPLv3 will address."
@@ -102,7 +102,7 @@ msgstr ""
 "Bir programı GPLv2 altında tutmak sorun değildir. Geçişin nedeni, GPLv3'ün "
 "mevcut sorunlara çözüm getirmesi olacaktır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One major danger that GPLv3 will block is tivoization.  Tivoization means "
 "certain &ldquo;appliances&rdquo; (which have computers inside)  contain GPL-"
@@ -123,12 +123,12 @@ msgstr ""
 "üreticileri özgür yazılımın sağladığı özgürlükten yararlanır, ancak aynı "
 "şekilde davranmanıza izin vermezler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Some argue that competition between appliances in a free market should "
 "suffice to keep nasty features to a low level.  Perhaps competition alone "
 "would avoid arbitrary, pointless misfeatures like &ldquo;Must shut down "
-"between 1pm and 5pm every Tuesday&rdquo;, but even so, a choice of masters "
+"between 1pm and 5pm every Tuesday,&rdquo; but even so, a choice of masters "
 "isn't freedom.  Freedom means <em>you</em> control what your software does, "
 "not merely that you can beg or threaten someone else who decides for you."
 msgstr ""
@@ -141,7 +141,7 @@ msgstr ""
 "karar vermek üzere başka birine yalvarmanız veya gözdağı vermeniz anlamına "
 "gelmez."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In the crucial area of Digital Restrictions Management (DRM)&mdash;nasty "
 "features designed to restrict your use of the data in your computer&mdash;"
@@ -149,10 +149,10 @@ msgid ""
 "the Digital Millennium Copyright Act and similar laws, it is illegal, in the "
 "US and many other countries, to distribute DVD players unless they restrict "
 "the user according to the official rules of the DVD conspiracy (its web site "
-"is <a href=\"http://www.dvdcca.org/\">http://www.dvdcca.org/</a>, but the "
-"rules do not seem to be published there).  The public can't reject DRM by "
-"buying non-DRM players because none are available.  No matter how many "
-"products you can choose from, they all have equivalent digital handcuffs."
+"is <a href=\"http://www.dvdcca.org/\">www.dvdcca.org/</a>, but the rules do "
+"not seem to be published there).  The public can't reject DRM by buying non-"
+"DRM players because none are available.  No matter how many products you can "
+"choose from, they all have equivalent digital handcuffs."
 msgstr ""
 "Çok önemli Dijital Kısıtlamalar Yönetimi (<abbr title=\"Digital Restrictions "
 "Management\">DRM</abbr>) (bilgisayarınızdaki verileri kullanımınızı "
@@ -161,12 +161,12 @@ msgstr ""
 "Yasası ve benzeri yasalar uyarınca, ABD ve diğer birçok ülkede, DVD "
 "oynatıcısının resmî kurallarına göre kullanıcıyı kısıtlamadığı sürece DVD "
 "oynatıcıları dağıtmak yasalara aykırıdır (Web sitesi <a href=\"http://www."
-"dvdcca.org/\">http://www.dvdcca.org/</a> ancak kurallar burada yayımlanmış "
-"gibi görünmüyor.). Halk, DRM olmayan oynatıcıları satın alarak DRM'yi "
-"reddedemez çünkü böyle oynatıcılar mevcut değiller. Hangi ürünü seçerseniz "
-"seçin, hepsinde eş değer bir dijital kelepçe bulunur."
+"dvdcca.org/\">www.dvdcca.org</a> ancak kurallar burada yayımlanmış gibi "
+"görünmüyor.). Halk, DRM olmayan oynatıcıları satın alarak DRM'yi reddedemez "
+"çünkü böyle oynatıcılar mevcut değiller. Hangi ürünü seçerseniz seçin, "
+"hepsinde eş değer bir dijital kelepçe bulunur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "GPLv3 ensures you are free to remove the handcuffs.  It doesn't forbid DRM, "
 "or any kind of feature.  It places no limits on the substantive "
@@ -183,7 +183,7 @@ msgstr ""
 "özgürlükten mahrum etmesinin yoludur; GPLv3, özgürlüğünüzü korumak için "
 "tivoizasyonu yasaklıyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The ban on tivoization applies to any product whose use by consumers is to "
 "be expected, even occasionally.  GPLv3 tolerates tivoization only for "
@@ -194,7 +194,7 @@ msgstr ""
 "yalnızca işletmeler ve kuruluşlar için tasarlanmış ürünler için tivoizasyonu "
 "hoşgörür."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Another threat that GPLv3 resists is that of patent deals like the Novell-"
 "Microsoft pact.  Microsoft wants to use its thousands of patents to make "
@@ -209,7 +209,7 @@ msgstr ""
 "Anlaşma, Microsoft patentlerinden Novell'in müşterilerine oldukça kısıtlı "
 "bir koruma sunuyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Microsoft made a few mistakes in the Novell-Microsoft deal, and GPLv3 is "
 "designed to turn them against Microsoft, extending that limited patent "
@@ -221,13 +221,13 @@ msgstr ""
 "tüm topluma genişletti. Bu korumadan yararlanmak için programların GPLv3 "
 "kullanması gerekiyor."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Microsoft's lawyers are not stupid, and next time they may manage to avoid "
-"those mistakes.  GPLv3 therefore says they don't get a &ldquo;next "
-"time&rdquo;.  Releasing a program under GPL version 3 protects it from "
-"Microsoft's future attempts to make redistributors collect Microsoft "
-"royalties from the program's users."
+"those mistakes.  GPLv3 therefore says they don't get a &ldquo;next time."
+"&rdquo; Releasing a program under GPL version 3 protects it from Microsoft's "
+"future attempts to make redistributors collect Microsoft royalties from the "
+"program's users."
 msgstr ""
 "Microsoft'un avukatları aptal değiller ve bir dahaki sefere bu hatalardan "
 "kaçınmayı başarabilirler. GPLv3 bu nedenle &ldquo;bir dahaki "
@@ -236,7 +236,7 @@ msgstr ""
 "kullanıcılarından Microsoft telif hakkı ücretleri toplamalarını sağlama "
 "girişimlerine karşı programı korur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "GPLv3 also provides users with explicit patent protection from the program's "
 "contributors and redistributors.  With GPLv2, users rely on an implicit "
@@ -250,7 +250,7 @@ msgstr ""
 "dağıttıkları kişilere dava açmayacağından emin olmak için örtük bir patent "
 "lisansına güvenirler."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The explicit patent license in GPLv3 does not go as far as we might have "
 "liked.  Ideally, we would make everyone who redistributes GPL-covered code "
@@ -276,7 +276,7 @@ msgstr ""
 "daha küçük geliştiricilere zorbalık yapmak için kullanır. Zaten patentler "
 "özgür yazılım geliştirmeyi engelliyorlar."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The only way to make software development safe is to abolish software "
 "patents, and we aim to achieve this some day.  But we cannot do this through "
@@ -295,7 +295,7 @@ msgstr ""
 "patentlerden koruyabilir. Bunu GPLv3 ile yapmaya çalışırsak, başarısız "
 "oluruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Therefore, GPLv3 seeks to limit and channel the danger.  In particular, we "
 "have tried to save free software from a fate worse than death: to be made "
@@ -314,7 +314,7 @@ msgstr ""
 "emin olur. Ayrıca diğer patent sahipleriyle bu yapmak için dolap "
 "çevirmelerini de engeller."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Further advantages of GPLv3 include better internationalization, gentler "
 "termination, support for BitTorrent, and compatibility with the Apache "
@@ -324,7 +324,7 @@ msgstr ""
 "nazik sonlandırma, BitTorrent için destek ve Apache lisansı ile uyumluluk "
 "bulunmaktadır. Sonuç olarak yükseltmek için bir yığın neden var."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Change is unlikely to cease once GPLv3 is released.  If new threats to "
 "users' freedom develop, we will have to develop GPL version 4.  It is "
@@ -336,10 +336,10 @@ msgstr ""
 "geliştirmemiz gerekecek. Eğer bir tane yazarsak, programların GPLv4'e "
 "yükseltmede sorun yaşamayacağından emin olmak önemlidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "One way to do this is to release a program under &ldquo;GPL version 3 or any "
-"later version&rdquo;.  Another way is for all the contributors to a program "
+"later version.&rdquo; Another way is for all the contributors to a program "
 "to state a proxy who can decide on upgrading to future GPL versions.  The "
 "third way is for all the contributors to assign copyright to one designated "
 "copyright holder, who will be in a position to upgrade the license version.  "
@@ -380,14 +380,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -401,17 +401,17 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2007, 2009, 2014 Richard Stallman"
-msgstr "Copyright &copy; 2007, 2009, 2014 Richard Stallman"
+msgid "Copyright &copy; 2007, 2009, 2022 Richard Stallman"
+msgstr "Copyright &copy; 2007, 2009, 2022 Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
 "Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.

@@ -1,21 +1,21 @@
 # Turkish translation of https://www.gnu.org/licenses/why-not-lgpl.html
 # Copyright (C) 2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# 
+#
 # The FLOSS Information <theflossinformation@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: why-not-lgpl.html\n"
-"POT-Creation-Date: 2016-11-13 05:55+0000\n"
-"PO-Revision-Date: 2020-04-01 22:18+0300\n"
-"Last-Translator: The FLOSS Information <theflossinformation@gmail.com>\n"
+"POT-Creation-Date: 2022-01-02 17:26+0000\n"
+"PO-Revision-Date: 2022-01-10 20:22+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 19.12.3\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -25,21 +25,11 @@ msgstr ""
 "Bir Sonraki Kütüphaneniz İçin Neden Kısıtlı GPL Kullanmamalısınız? - GNU "
 "Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Why you shouldn't use the Lesser GPL for your next library"
 msgstr "Bir Sonraki Kütüphaneniz İçin Neden Kısıtlı GPL Kullanmamalısınız?"
 
-#. type: Content of: <blockquote><p>
-msgid ""
-"See <a href=\"/licenses/license-recommendations.html\">&ldquo;How to choose "
-"a license for your own work&rdquo;</a> for general recommendations about "
-"choosing a license for your work."
-msgstr ""
-"Çalışmanız için bir lisans seçmeye ilişkin genel öneriler için bkz. <a href="
-"\"/licenses/license-recommendations.html\">&ldquo;“Kendi Çalışmanız İçin Bir "
-"Lisans Nasıl Seçilir?”&rdquo;</a>."
-
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The GNU Project has two principal licenses to use for libraries.  One is the "
 "GNU Lesser GPL; the other is the ordinary GNU GPL.  The choice of license "
@@ -53,7 +43,17 @@ msgstr ""
 "kullanımına izin verir; bir kütüphane için normal GPL'yi kullanmak sadece "
 "özgür programlar için kullanılabilir hâle getirir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><div><p>
+msgid ""
+"See <a href=\"/licenses/license-recommendations.html\">&ldquo;How to choose "
+"a license for your own work&rdquo;</a> for general recommendations about "
+"choosing a license for your work."
+msgstr ""
+"Çalışmanız için bir lisans seçmeye ilişkin genel öneriler için bkz. <a href="
+"\"/licenses/license-recommendations.html\">&ldquo;“Kendi Çalışmanız İçin Bir "
+"Lisans Nasıl Seçilir?”&rdquo;</a>."
+
+#. type: Content of: <div><p>
 msgid ""
 "Which license is best for a given library is a matter of strategy, and it "
 "depends on the details of the situation.  At present, most GNU libraries are "
@@ -68,7 +68,7 @@ msgstr ""
 "<strong>normal GPL altında</strong> yayımlanacak daha fazla kütüphane "
 "arıyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software developers have the advantage of money; free software "
 "developers need to make advantages for each other.  Using the ordinary GPL "
@@ -83,7 +83,7 @@ msgstr ""
 "bunu kullanamazken özgür yazılım geliştiricilerinin kullanabilecekleri bir "
 "kütüphanedir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Using the ordinary GPL is not advantageous for every library.  There are "
 "reasons that can make it better to use the Lesser GPL in certain cases.  The "
@@ -99,7 +99,7 @@ msgstr ""
 "durumda kütüphane herhangi bir özel avantaj sağlamaz, bu yüzden bu kitaplık "
 "için Kısıtlı GPL kullanmak daha iyidir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This is why we used the Lesser GPL for the GNU C library.  After all, there "
 "are plenty of other C libraries; using the GPL for ours would have driven "
@@ -111,7 +111,7 @@ msgstr ""
 "geliştiricilerini bir başkasını kullanmaya yönlendirmiş olacaktı&mdash;onlar "
 "için sorun değil, sadece bizim için."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "However, when a library provides a significant unique capability, like GNU "
 "Readline, that's a horse of a different color.  The Readline library "
@@ -129,7 +129,7 @@ msgstr ""
 "bir destek sağlıyor. En az bir uygulama programı bugün özgür bir yazılımdır "
 "çünkü bu özellikle Readline'nin kullanımı için gerekliydi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If we amass a collection of powerful GPL-covered libraries that have no "
 "parallel available to proprietary software, they will provide a range of "
@@ -149,7 +149,7 @@ msgstr ""
 "yapma özgürlüğüne kavuşmaya başladıkça bazı ticari projeler de bu şekilde "
 "etkilenebilir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Proprietary software developers, seeking to deny the free competition an "
 "important advantage, will try to convince authors not to contribute "
@@ -168,7 +168,7 @@ msgstr ""
 "toplumun her şeyden önce ihtiyaç duyduğu şey olduğu fikrini "
 "rasyonelleştirmesi kolaydır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "But we should not listen to these temptations, because we can achieve much "
 "more if we stand together.  We free software developers should support one "
@@ -212,14 +212,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -234,11 +234,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1999, 2007, 2013, 2014, 2015, 2016 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1999, 2007, 2015, 2016, 2022 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1999, 2007, 2013, 2014, 2015, 2016 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1999, 2007, 2015, 2016, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
