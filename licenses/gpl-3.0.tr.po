@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-3.0.html\n"
-"POT-Creation-Date: 2020-11-10 10:25+0000\n"
-"PO-Revision-Date: 2020-11-10 18:31+0100\n"
+"POT-Creation-Date: 2022-01-10 19:26+0000\n"
+"PO-Revision-Date: 2022-01-11 06:59+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,32 +15,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid ""
 "The GNU General Public License v3.0 - GNU Project - Free Software Foundation"
 msgstr "GNU Genel Kamu Lisansı v3.0 - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "GNU General Public License"
 msgstr "GNU Genel Kamu Lisansı"
 
-#. type: Attribute 'alt' of: <img>
+#. type: Attribute 'alt' of: <div><img>
 msgid "[GPLv3 Logo]"
 msgstr "[GPLv3 Logosu]"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/licenses/quick-guide-gplv3.html\">A Quick Guide to GPLv3</a>"
 msgstr ""
 "<a href=\"/licenses/quick-guide-gplv3.html\">GPLv3 İçin Hızlı Bir Kılavuz</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/licenses/rms-why-gplv3.html\">Why Upgrade to GPLv3</a>"
 msgstr ""
 "<a href=\"/licenses/rms-why-gplv3.html\">Neden GPLv3'e Yükseltilmeli</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/licenses/gpl-faq.html\">Frequently Asked Questions about the GNU "
 "licenses</a>"
@@ -48,7 +48,7 @@ msgstr ""
 "<a href=\"/licenses/gpl-faq.html\">GNU lisansları hakkında Sıkça Sorulan "
 "Sorular</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/licenses/gpl-howto.html\">How to use GNU licenses for your own "
 "software</a>"
@@ -56,11 +56,11 @@ msgstr ""
 "<a href=\"/licenses/gpl-howto.html\">GNU lisanslarını kendi yazılımınız için "
 "nasıl kullanabilirsiniz</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/licenses/translations.html\">Translations of the GPL</a>"
 msgstr "<a href=\"/licenses/translations.html\">GPL'nin Çevirileri</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "The GPL in other formats: <a href=\"/licenses/gpl-3.0.txt\">plain text</a>, "
 "<a href=\"/licenses/gpl-3.0.texi\">Texinfo</a>, <a href=\"/licenses/gpl-3.0."
@@ -78,7 +78,7 @@ msgstr ""
 "licenses/gpl-3.0.rst\">reStructuredText</a>, <a href=\"/licenses/gpl-3.0.md"
 "\">Markdown</a> ve <a href=\"/licenses/gpl-3.0.rtf\">RTF</a>."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/graphics/license-logos.html\">GPLv3 logos</a> to use with your "
 "project"
@@ -86,7 +86,7 @@ msgstr ""
 "Projenizde kullanmanız için <a href=\"/graphics/license-logos.html\">GPLv3 "
 "logoları</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/licenses/old-licenses/old-licenses.html#GPL\">Old versions of the "
 "GNU GPL</a>"
@@ -94,7 +94,7 @@ msgstr ""
 "<a href=\"/licenses/old-licenses/old-licenses.html#GPL\">GNU GPL'nin eski "
 "sürümleri</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/licenses/gpl-violation.html\">What to do if you see a possible "
 "GPL violation</a>"
@@ -128,14 +128,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "

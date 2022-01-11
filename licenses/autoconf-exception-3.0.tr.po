@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: autoconf-exception-3.0.html\n"
-"POT-Creation-Date: 2014-03-14 04:31+0000\n"
-"PO-Revision-Date: 2021-02-12 22:49+0100\n"
+"POT-Creation-Date: 2022-01-10 19:26+0000\n"
+"PO-Revision-Date: 2022-01-11 06:53+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -23,9 +23,22 @@ msgid ""
 msgstr ""
 "Autoconf Yapılandırma Betiği İstisnası - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Autoconf Configure Script Exception"
 msgstr "Autoconf Yapılandırma Betiği İstisnası"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/licenses/exceptions.html\">Exceptions to GNU Licenses</a>"
+msgstr ""
+"<a href=\"/licenses/exceptions.html\">GNU Lisanslarının İstisnaları</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/licenses/translations.html#Exceptions\">Translations of the "
+"Autoconf Configure Script Exception</a>"
+msgstr ""
+"<a href=\"/licenses/translations.html#Exceptions\">Autoconf Yapılandırma "
+"Betiği İstisnası Çevirileri</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -53,14 +66,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "

@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: exceptions.html\n"
-"POT-Creation-Date: 2017-09-04 10:56+0000\n"
-"PO-Revision-Date: 2021-02-13 08:46+0100\n"
+"POT-Creation-Date: 2022-01-10 19:26+0000\n"
+"PO-Revision-Date: 2022-01-11 06:54+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,21 +15,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid "Exceptions to GNU Licenses - GNU Project - Free Software Foundation"
 msgstr "GNU Lisansları İstisnaları - GNU Projesi - Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "Exceptions to GNU Licenses"
 msgstr "GNU Lisansları İstisnaları"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Autoconf Configure Script Exception"
 msgstr "Autoconf Yapılandırma Betiği İstisnası"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The purpose of this exception is to allow distribution of Autoconf's typical "
 "output under terms of the recipient's choice (including proprietary).  This "
@@ -41,7 +41,7 @@ msgstr ""
 "aksi durumda GPLv3 altında lisanslanacak olan, kendi kodunu içerdiği için bu "
 "gereklidir."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/licenses/autoconf-exception.html\">Autoconf Configure Script "
 "Exception</a>"
@@ -49,11 +49,11 @@ msgstr ""
 "<a href=\"/licenses/autoconf-exception.html\">Autoconf Yapılandırma Betiği "
 "İstisnası</a>"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "GCC Runtime Library Exception"
 msgstr "GCC Çalışma Zamanı Kütüphanesi İstisnası"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The purpose of this exception is to allow developers to compile non-GPLed "
 "software with GCC, as long as they don't use proprietary plugins or other "
@@ -65,14 +65,14 @@ msgstr ""
 "derlemelerine izin vermektir. Bunun için ilave izin gerekmektedir, çünkü "
 "normalde GCC, oluşturduğu ikili dosyalarda bazı GPL'li kodu da içerir."
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/licenses/gcc-exception.html\">GCC Runtime Library Exception</a>"
 msgstr ""
 "<a href=\"/licenses/gcc-exception.html\">GCC Çalışma Zamanı Kütüphanesi "
 "İstinası</a>"
 
-#. type: Content of: <ul><li>
+#. type: Content of: <div><ul><li>
 msgid ""
 "<a href=\"/licenses/gcc-exception-faq.html\">Rationale document and "
 "Frequently Asked Questions</a>"
@@ -80,26 +80,26 @@ msgstr ""
 "<a href=\"/licenses/gcc-exception-faq.html\">Gerekçe belgesi ve Sıkça "
 "Sorulan Sorular</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "URLs"
 msgstr "URL'ler"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When linking to the exceptions of GNU licenses, it's usually best to link to "
-"the latest version; hence the standard URLs such as http://www.gnu.org/"
-"licenses/gcc-exception.html have no version number.  Occasionally, however, "
-"you may want to link to a specific version of a given license exception.  In "
-"those situations, you can use the following links:"
+"the latest version; hence the standard URLs such as <code>https://www.gnu."
+"org/licenses/gcc-exception.html</code> have no version number.  "
+"Occasionally, however, you may want to link to a specific version of a given "
+"license exception.  In those situations, you can use the following links:"
 msgstr ""
 "GNU lisanslarına istisnaları bağlarken, en son sürüme bağlantı vermek "
-"genellikle en iyisidir. Bu nedenle http://www.gnu.org/licenses/gcc-exception."
-"html gibi standart URL'lerin sürüm numarası yoktur. Ancak arada sırada "
-"belirli bir lisans istisnasının belirli bir sürümüne bağlantı vermek "
-"isteyebilirsiniz. Bu gibi durumlarda, aşağıdaki bağlantıları "
+"genellikle en iyisidir. Bu nedenle <code>https://www.gnu.org/licenses/gcc-"
+"exception.html</code> gibi standart URL'lerin sürüm numarası yoktur. Ancak "
+"arada sırada belirli bir lisans istisnasının belirli bir sürümüne bağlantı "
+"vermek isteyebilirsiniz. Bu gibi durumlarda, aşağıdaki bağlantıları "
 "kullanabilirsiniz:"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "<a href=\"/licenses/autoconf-exception-3.0.html\">Autoconf Configure Script "
 "Exception v3.0</a>"
@@ -107,7 +107,7 @@ msgstr ""
 "<a href=\"/licenses/autoconf-exception-3.0.html\">Autoconf Yapılandırma "
 "Betiği İstisnası 3.0</a>"
 
-#. type: Content of: <dl><dd>
+#. type: Content of: <div><dl><dd>
 msgid ""
 "<a href=\"/licenses/gcc-exception-3.1.html\">GCC RLE v3.1</a>, <a href=\"/"
 "licenses/gcc-exception-3.0.html\">GCC RLE v3</a>"
@@ -115,7 +115,7 @@ msgstr ""
 "<a href=\"/licenses/gcc-exception-3.1.html\">GCC RLE v3.1</a>, <a href=\"/"
 "licenses/gcc-exception-3.0.html\">GCC RLE v3</a>"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid ""
 "<a href=\"/licenses/translations.html#Exceptions\">Unofficial Translations</"
 "a>"
@@ -149,14 +149,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -170,8 +170,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2009, 2013, 2014, 2017 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2009, 2013, 2014, 2017 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2009, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2009, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

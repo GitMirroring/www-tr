@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gcc-exception-3.1-faq.html\n"
-"POT-Creation-Date: 2014-04-05 00:01+0000\n"
-"PO-Revision-Date: 2021-02-21 13:04+0100\n"
+"POT-Creation-Date: 2022-01-10 19:26+0000\n"
+"PO-Revision-Date: 2022-01-11 06:58+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -25,15 +25,15 @@ msgstr ""
 "GCC Çalışma Zamanı Kütüphanesi İstisnası Gerekçesi ve SSS - GNU Projesi - "
 "Özgür Yazılım Vakfı"
 
-#. type: Content of: <h2>
+#. type: Content of: <div><h2>
 msgid "GCC Runtime Library Exception Rationale and FAQ"
 msgstr "GCC Çalışma Zamanı Kütüphanesi İstisnası Gerekçeleri ve SSS"
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Introduction"
 msgstr "Giriş"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "On June 29th, 2007 the Free Software Foundation released GPLv3.  It was "
 "immediately adopted by fifteen GNU projects, and more made the switch in the "
@@ -45,7 +45,7 @@ msgstr ""
 "geçiş yaptı. Çoğu GCC kaynak kodu tabanı 4.2.2 sürümünde yeni lisansa göç "
 "etti ve şimdi bu süreci tamamlamaya hazırlanıyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The licenses for some libraries that accompany GCC have not been changed "
 "yet.  These libraries are automatically used by the object code that GCC "
@@ -71,7 +71,7 @@ msgstr ""
 "sınırlamak için küçük kütüphaneler kullanmanın, önemsiz bir ayrıntının "
 "önemli bir duruma etki edecek gibi gözükmesiydi."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Therefore, these libraries have always had license exceptions that allow "
 "people to distribute the object code GCC produces under any license.  We are "
@@ -87,7 +87,7 @@ msgstr ""
 "verdiğimiz tüm GCC kullanımlarına izin vermeyi amaçlıyor. Ancak bu fırsatı "
 "üç amaca ulaşmak üzere istisnayı güncellemek için kullanmaya karar verdik:"
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Take advantage of GPLv3's new provisions.  GPLv3 features a number of new "
 "terms which benefit all software.  These include section 7, which "
@@ -102,7 +102,7 @@ msgstr ""
 "katacak ve 7. bölümdeki değişkenler kapsamında çalışacak şekilde "
 "güncellememiz gerekiyor."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Lay the groundwork for a plugin infrastructure in GCC.  For a while now, the "
 "GCC developers have considered adding a plugin framework to the compiler.  "
@@ -124,7 +124,7 @@ msgstr ""
 "var. Güncellenen istisna bu gibi istismarları engelleyerek, GCC ekibinin "
 "eklenti geliştirilmesini beklemesine olanak veriyor."
 
-#. type: Content of: <ul><li><p>
+#. type: Content of: <div><ul><li><p>
 msgid ""
 "Make exceptions throughout the GCC code base consistent.  Over the years, as "
 "new files were added to GCC that needed to carry this license exception, we "
@@ -141,7 +141,7 @@ msgstr ""
 "bütün bu dosyalar hazırladığımız yeni tek istisna metnini kullanabilecek, "
 "koda yönelik yasal gözden geçirmelerin yapılmasını kolaylaştıracak."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As with GPLv3, we worked hard to listen to various users' concerns while we "
 "drafted this, and address them appropriately.  All told, we have spent more "
@@ -160,7 +160,7 @@ msgstr ""
 "topluluğunu güçlendirecektir, olanak vereceği derleyici geliştirmelerini "
 "sabırsızlıkla bekliyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "Because GCC is such a crucial part of developers' lives, we're expecting "
 "lots of questions about these changes, and we want to make sure that they're "
@@ -177,11 +177,11 @@ msgstr ""
 "licensing@fsf.org&gt;</a> adresini kullanarak bizimle bağlantı kurmaktan "
 "lütfen çekinmeyin."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "How the Exception Works"
 msgstr "İstisna Nasıl Çalışıyor"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "The permission you need&mdash;to convey the object code from these GCC "
 "libraries under your own project's license&mdash;is primarily contained in "
@@ -190,7 +190,7 @@ msgstr ""
 "İhtiyaç duyduğunuz &mdash;bu GCC kütüphanelerinden nesne kodunu kendi "
 "projenizin lisansıyla taşıma&mdash; izni esasen 1. bölümde yer alıyor:"
 
-#. type: Content of: <blockquote><p>
+#. type: Content of: <div><blockquote><p>
 msgid ""
 "You have permission to propagate a work of Target Code formed by combining "
 "the Runtime Library with Independent Modules, even if such propagation would "
@@ -213,7 +213,7 @@ msgstr ""
 "Bağımsız Modüllerin lisanslamasıyla tutarlı olacak bir şekilde, istediğiniz "
 "koşullarda yayabilirsiniz.]"
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "This section uses many defined terms, and their specific meanings are "
 "integral to how the exception works.  This section looks at how these terms "
@@ -223,7 +223,7 @@ msgstr ""
 "bu terimlerin anlamlarına çok bağlı. Bu bölümde bu terimlerin başlıca "
 "senaryolarla ilişkisine bakıyoruz."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When you write your software, it consists of a set of source code files.  "
 "Each file is an &ldquo;Independent Module,&rdquo; as long as it doesn't "
@@ -233,7 +233,7 @@ msgstr ""
 "bir dosya, GCC kütüphanelerinden herhangi bir kaynak kod içermedikçe &ldquo;"
 "Bağımsız bir Modüldür&rdquo; [Independent Module]."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "When you compile those source code files, they usually go through a series "
 "of steps: source code generation, preprocessing, compilation to low-level "
@@ -260,7 +260,7 @@ msgstr ""
 "ara gösterim oluşturmak için kullanılmadığı sürece &ldquo;Hedef Kod&rdquo;"
 "tur."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "In order to take advantage of this permission, the Compilation Process that "
 "you use to create Target Code has to be &ldquo;Eligible,&rdquo; which means "
@@ -287,7 +287,7 @@ msgstr ""
 "birlikte GPL ile uyumsuz yazılımı kullanamayacağınız tek yer ana derleme "
 "çalışmasını yaparkendir."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "So, if you use GCC, with or without GPL-compatible enhancements, that would "
 "be an Eligible Compilation Process.  If you only use GPL-incompatible "
@@ -309,7 +309,7 @@ msgstr ""
 "bu Uygun Derleme Süreci <em>olmayacaktır</em>. Bu, örneğin, GCC'yi özel mülk "
 "bir eklentiyle kullanırsanız olacak olandır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "As long as you use an Eligible Compilation Process, then you have permission "
 "to take the Target Code that GCC generates and propagate it &ldquo;under "
@@ -318,7 +318,7 @@ msgstr ""
 "Uygun Derleme Süreci kullandığınız sürece, GCC'nin ürettiği Hedef Kodu "
 "almaya ve &ldquo;istediğiniz koşullar altında&rdquo; yaymaya izniniz vardır."
 
-#. type: Content of: <p>
+#. type: Content of: <div><p>
 msgid ""
 "If you did use GPL-incompatible software in conjunction with GCC during the "
 "Compilation Process, you would not be able to take advantage of this "
@@ -333,11 +333,11 @@ msgstr ""
 "herhangi bir kısmını yaymak için GPL'nin şartlarını izlemeniz gerekecekti. "
 "GCC'yi kendi GPL uyumsuz yazılımınızı geliştirmek için kullanamazsınız."
 
-#. type: Content of: <h3>
+#. type: Content of: <div><h3>
 msgid "Frequently Asked Questions"
 msgstr "Sıkça Sorulan Sorular"
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "I am using a standard release of GCC (such as one provided by the FSF, or "
 "with my operating system) to compile GPL-incompatible software.  How does "
@@ -347,7 +347,7 @@ msgstr ""
 "işletim sistemimle gelen) standart bir GCC sürümü kullanıyorum, bu "
 "değişiklik beni nasıl etkiler?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "It should not affect you at all.  Unless you've configured GCC to output "
 "intermediate representation&mdash;which is rare&mdash;the new exception is "
@@ -359,11 +359,11 @@ msgstr ""
 "yaparken herhangi bir lisans yükümlülüğünüz olmayacak şekilde "
 "tasarlanmıştır, tıpkı eski istisnaların olduğu gibi."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Who does this change affect?"
 msgstr "Bu değişiklik kimi etkiliyor?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Nobody who is currently using GCC should be affected by this change.  The "
 "only changes in policy are meant to prevent developers from making certain "
@@ -380,7 +380,7 @@ msgstr ""
 "devam edebilmelerini güvence altına almak için GCC geliştiricileriyle yakın "
 "bir şekilde çalışıyordu."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "I use GCC in conjunction with proprietary preprocessors and/or source "
 "generators to compile my program.  Can I still take advantage of the "
@@ -390,7 +390,7 @@ msgstr ""
 "üreticilerle birlikte kullanıyorum. Yine de bu istisnadan yararlanabilir "
 "miyim?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Yes.  The Compilation Process can start with any &ldquo;code entirely "
 "represented in a high-level, non-intermediate language.&rdquo; This includes "
@@ -405,7 +405,7 @@ msgstr ""
 "durumda Derleme Süreci herhangi bir özel mülk yazılım içermez. Uygun olarak "
 "nitelenebilir ve bu program için istisna kullanılabilir."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "I use GCC in conjunction with proprietary assemblers and/or linkers to "
 "compile my program.  Can I still take advantage of the exception?"
@@ -414,7 +414,7 @@ msgstr ""
 "bağlayıcılarla birlikte kullanıyorum. Yine de bu istisnadan yararlanabilir "
 "miyim?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Yes.  The Compilation Process ends when the compiler generates Target Code, "
 "which includes output that is &ldquo;suitable for input to an assembler, "
@@ -432,7 +432,7 @@ msgstr ""
 "herhangi bir özel mülk yazılım içermez. Uygun olarak nitelenebilir ve bu "
 "program için istisna kullanılabilir."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "I use GCC to compile parts of my program, and a proprietary compiler to "
 "compile other parts.  The pieces are combined afterward, during assembler or "
@@ -443,7 +443,7 @@ msgstr ""
 "veya bağlama aşamasında bir araya getiriliyor. Yine de bu istisnadan "
 "yararlanabilir miyim?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Yes.  In this case, each Independent Module is turned into Target Code "
 "through an Eligible Compilation Process.  Even though different modules will "
@@ -454,7 +454,7 @@ msgstr ""
 "Hedef Kod'a dönüşüyor. Her ne kadar farklı modüller farklı süreçlerden geçse "
 "de, bu program için istisna kullanılabilir."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "I use a proprietary compiler toolchain without any parts of GCC to compile "
 "my program, and link it with libstdc++.  My program itself does not include "
@@ -467,7 +467,7 @@ msgstr ""
 "şekilde herhangi bir çalışma zamanı kütüphanesi kodu içermiyor. Yine de bu "
 "istisnadan yararlanabilir miyim?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Yes.  While combining libgcc with GCC-compiled object code is probably the "
 "most common way the exception is used, neither the GPL nor the GCC Runtime "
@@ -482,7 +482,7 @@ msgstr ""
 "görmüyor. Aynı izinler, hangi metodu kullandığınızdan bağımsız olarak, aynı "
 "koşullar altında sizin için de geçerli."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Note that if you distribute libstdc++ as an independent library, you will "
 "need to follow the terms of the GPL when doing so.  For example, if you "
@@ -499,15 +499,15 @@ msgstr ""
 "programınız için GCC Çalışma Zamanı Kütüphanesi İstisnası'ndan yararlanmaya "
 "uygun olduğunuz sürece, GPL'nin koşulları sizi etkilemez."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "Why is compiler intermediate representation excluded from the definition of "
-"&ldquo;Target Code?&rdquo;"
+"&ldquo;Target Code&rdquo;?"
 msgstr ""
 "Neden derleyicinin ara gösterimi &ldquo;Hedef Kod&rdquo; tanımı kapsamında "
 "değil?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "When we first considered adding a plugin infrastructure to GCC, we were "
 "deeply concerned about the possibility that someone would write a plugin "
@@ -525,7 +525,7 @@ msgstr ""
 "sürmemiz bizim için zor olabilirdi, bu yüzden bu gibi düzenlemelerden "
 "caydırmak istedik."
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "We do that by excluding such output from the definition of Target Code.  "
 "Because of this, even if someone writes a plugin that saves this information "
@@ -542,7 +542,7 @@ msgstr ""
 "hiçbir program istisna kapsamında yer almayacak; GCC'nin sonuçta oluşturduğu "
 "nesne kodunun, GPL şartları kapsamında dağıtılması gerekecek."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid ""
 "If I write some code in assembly language, can I combine that with other "
 "object code compiled normally, and still take advantage of the exception?"
@@ -551,7 +551,7 @@ msgstr ""
 "derlenmiş başka kodlarla birleştirebilir miyim ve yine de bu istisnadan "
 "yararlanabilir miyim?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Yes, as long as all of the object code was compiled through an Eligible "
 "Compilation Process.  The process of running hand-written assembly through "
@@ -565,11 +565,11 @@ msgstr ""
 "olmayan dilde[] temsil edilen kodu... Hedef Koda dönüştür[düğü]&rdquo; için "
 "bir Derleme Sürecidir."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "What libraries does the GCC Runtime Library Exception cover?"
 msgstr "GCC Çalışma Zamanı Kütüphanesi İstisnası hangi kütüphaneleri kapsıyor?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "The GCC Runtime Library Exception covers any file that has a notice in its "
 "license headers stating that the exception applies.  This includes libgcc, "
@@ -581,11 +581,11 @@ msgstr ""
 "kapsamda libgcc, libstdc++, libfortran, libgomp, libdecnumber, libgcov, ve "
 "GCC ile dağıtılan diğer kütüphaneler var."
 
-#. type: Content of: <dl><dt>
+#. type: Content of: <div><dl><dt>
 msgid "Will Classpath use this new exception?"
 msgstr "Classpath bu yeni istisnayı mı kullanacak?"
 
-#. type: Content of: <dl><dd><p>
+#. type: Content of: <div><dl><dd><p>
 msgid ""
 "Even though Classpath's current exception serves a similar purpose, we are "
 "not updating it at this time.  Because of recent developments in the free "
@@ -623,14 +623,14 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
+"\">Translations README</a> for information on coordinating and contributing "
 "translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
@@ -644,17 +644,17 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2014 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2014 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2009, 2010, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2009, 2010, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
 "This page is licensed under a <a rel=\"license\" href=\"http://"
-"creativecommons.org/licenses/by-nd/3.0/us/\">Creative Commons Attribution-"
-"NoDerivs 3.0 United States License</a>."
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
 msgstr ""
 "Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"nd/3.0/us/deed.tr\">Creative Commons Atıf-Türetilemez 3.0 Birleşik Devletler "
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
 "Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
