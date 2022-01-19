@@ -303,7 +303,7 @@ msgstr ""
 "ile <a href=\"/licenses/gpl-faq.html#WhatDoesCompatMean\">uyumludurlar</a>.</"
 "strong>"
 
-#. both generic and version-specific anchors
+#.  both generic and version-specific anchors 
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"GNUGPL\"></a> <a id=\"GNUGPLv3\" href=\"/licenses/gpl.html\"> GNU "
@@ -589,7 +589,7 @@ msgstr ""
 "\"#ArtisticLicense\">Sanatsal Lisans 1.0</a>'ın anlaşılmazlığını gidermeye "
 "yönelik asgari düzeyde değişiklikler içerir."
 
-#. misspelled id, leave for compatibility
+#.  misspelled id, leave for compatibility 
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"BerkleyDB\"></a> <a id=\"BerkeleyDB\" href=\"https://directory.fsf."
@@ -774,7 +774,7 @@ msgstr ""
 "ile uyumludur. <a href=\"#FreeBSD\">FreeBSD (&ldquo;2-maddeli BSD&rdquo; de "
 "deniyor) lisansıyla</a> neredeyse özdeştir."
 
-#. without decimal, leave for compatibility
+#.  without decimal, leave for compatibility 
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"eCos20\"></a> <a id=\"eCos2.0\" href=\"https://directory.fsf.org/"
@@ -1022,11 +1022,11 @@ msgstr ""
 
 #. type: Content of: <div><dl><dt>
 msgid ""
-"<a id=\"informal\"> Informal license</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#informal\">#informal</a>)</span>"
+"<a id=\"informal\"> Informal license</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#informal\">#informal</a>)</span>"
 msgstr ""
-"<a id=\"informal\">Gayriresmî lisans</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#informal\">#informal</a>)</span>"
+"<a id=\"informal\">Gayriresmî lisans</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#informal\">#informal</a>)</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -1262,7 +1262,7 @@ msgstr ""
 "hoşgörülü bir copyleft olmayan özgür yazılım lisansıdır, GNU GPL ile "
 "uyumludur."
 
-#. lc `s', leave for compatibility
+#.  lc `s', leave for compatibility 
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"NetscapeJavascript\"></a> <a id=\"NetscapeJavaScript\"></a> License "
@@ -1423,12 +1423,12 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"Ruby\" href=\"https://directory.fsf.org/wiki/License:Ruby\"> License "
-"of Ruby</a> <span class=\"anchor-reference-id\">(<a href=\"#Ruby\">#Ruby</"
-"a>)</span>"
+"of Ruby</a> <span class=\"anchor-reference-id\">(<a href=\"#Ruby\">#Ruby</a>)"
+"</span>"
 msgstr ""
 "<a id=\"Ruby\" href=\"https://directory.fsf.org/wiki/License:Ruby\">Ruby "
-"Lisansı</a> <span class=\"anchor-reference-id\">(<a href=\"#Ruby\">#Ruby</"
-"a>)</span>"
+"Lisansı</a> <span class=\"anchor-reference-id\">(<a href=\"#Ruby\">#Ruby</a>)"
+"</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -1619,12 +1619,12 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"Vim\" href=\"https://directory.fsf.org/wiki/License:Vim7.2\"> "
-"License of Vim, Version 6.1 or later</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#Vim\">#Vim</a>)</span>"
+"License of Vim, Version 6.1 or later</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#Vim\">#Vim</a>)</span>"
 msgstr ""
 "<a id=\"Vim\" href=\"https://directory.fsf.org/wiki/License:Vim7.2\">Vim "
-"Lisansı, Sürüm 6.1 ve sonrası later</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#Vim\">#Vim</a>)</span>"
+"Lisansı, Sürüm 6.1 ve sonrası later</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#Vim\">#Vim</a>)</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -1647,12 +1647,12 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"WebM\" href=\"https://directory.fsf.org/wiki/License:WebM\"> License "
-"of WebM</a> <span class=\"anchor-reference-id\">(<a href=\"#WebM\">#WebM</"
-"a>)</span>"
+"of WebM</a> <span class=\"anchor-reference-id\">(<a href=\"#WebM\">#WebM</a>)"
+"</span>"
 msgstr ""
 "<a id=\"WebM\" href=\"https://directory.fsf.org/wiki/License:WebM\">WebM "
-"Lisansı</a> <span class=\"anchor-reference-id\">(<a href=\"#WebM\">#WebM</"
-"a>)</span>"
+"Lisansı</a> <span class=\"anchor-reference-id\">(<a href=\"#WebM\">#WebM</a>)"
+"</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -1837,18 +1837,18 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"ZLib\" href=\"https://directory.fsf.org/wiki/License:Zlib\"> License "
-"of ZLib</a> <span class=\"anchor-reference-id\">(<a href=\"#ZLib\">#ZLib</"
-"a>)</span>"
+"of ZLib</a> <span class=\"anchor-reference-id\">(<a href=\"#ZLib\">#ZLib</a>)"
+"</span>"
 msgstr ""
 "<a id=\"ZLib\" href=\"https://directory.fsf.org/wiki/License:Zlib\">ZLib "
-"Lisansı</a> <span class=\"anchor-reference-id\">(<a href=\"#ZLib\">#ZLib</"
-"a>)</span>"
+"Lisansı</a> <span class=\"anchor-reference-id\">(<a href=\"#ZLib\">#ZLib</a>)"
+"</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid "This is a free software license, and compatible with the GPL."
 msgstr "Bu bir özgür yazılım lisansıdır ve GPL ile uyumludur."
 
-#. without decimal, leave for compatibility
+#.  without decimal, leave for compatibility 
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"Zope20\"></a> <a id=\"Zope2.0\" href=\"https://directory.fsf.org/"
@@ -2266,8 +2266,8 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"EPL\" href=\"https://directory.fsf.org/wiki/License:EPLv1.0\"> "
-"Eclipse Public License Version 1.0</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#EPL\">#EPL</a>)</span>"
+"Eclipse Public License Version 1.0</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#EPL\">#EPL</a>)</span>"
 msgstr ""
 "<a id=\"EPL\" href=\"https://directory.fsf.org/wiki/License:"
 "EPLv1.0\">Eclipse Kamu Lisansı Sürüm 1.0</a> <span class=\"anchor-reference-"
@@ -2290,8 +2290,8 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"EPL2\" href=\"https://directory.fsf.org/wiki/License:EPL-2.0\"> "
-"Eclipse Public License Version 2.0</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#EPL2\">#EPL2</a>)</span>"
+"Eclipse Public License Version 2.0</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#EPL2\">#EPL2</a>)</span>"
 msgstr ""
 "<a id=\"EPL2\" href=\"https://directory.fsf.org/wiki/License:"
 "EPL-2.0\">Eclipse Kamu Lisansı Sürüm 2.0</a> <span class=\"anchor-reference-"
@@ -2325,7 +2325,7 @@ msgstr ""
 "yayınlamaya kabaca denk). Ancak, bu belirtme olmadan EPL2, GPL ile uyumsuz "
 "kalmaya devam eder."
 
-#. old id, leave for compatibility
+#.  old id, leave for compatibility 
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"EUPL\"></a> <a id=\"EUPL-1.1\" href=\"https://directory.fsf.org/wiki/"
@@ -2685,8 +2685,8 @@ msgstr "Not: Bu yorumlar LPPL'nin 1.2 sürümü (3 Eylül 1999) içindir."
 msgid ""
 "<a id=\"lucent102\" href=\"https://directory.fsf.org/wiki/License:"
 "LucentPLv1.02\"> Lucent Public License Version 1.02 (Plan 9 license)</a> "
-"<span class=\"anchor-reference-id\"> (<a href=\"#lucent102\">#lucent102</"
-"a>)</span>"
+"<span class=\"anchor-reference-id\"> (<a href=\"#lucent102\">#lucent102</a>)"
+"</span>"
 msgstr ""
 "<a id=\"lucent102\" href=\"https://directory.fsf.org/wiki/License:"
 "LucentPLv1.02\">Lucent Kamu Lisansı Sürüm 1.02 (Plan 9 lisansı)</a> <span "
@@ -2727,8 +2727,8 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"ms-rl\" href=\"https://directory.fsf.org/wiki/License:MsRL\"> "
-"Microsoft Reciprocal License (Ms-RL)</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#ms-rl\">#ms-rl</a>)</span>"
+"Microsoft Reciprocal License (Ms-RL)</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#ms-rl\">#ms-rl</a>)</span>"
 msgstr ""
 "<a id=\"ms-rl\" href=\"https://directory.fsf.org/wiki/License:MsRL"
 "\">Microsoft Karşılıklı Lisansı (<abbr title=\"Microsoft Reciprocal License"
@@ -2803,8 +2803,8 @@ msgid ""
 msgstr ""
 "<a id=\"NOSL\" href=\"https://directory.fsf.org/wiki/License:"
 "NOSLv1.0\">Netizen Açık Kaynak Lisansı (<abbr title=\"Netizen Open Source "
-"License\">NOSL</abbr>), Sürüm 1.0</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#NOSL\">#NOSL</a>)</span>"
+"License\">NOSL</abbr>), Sürüm 1.0</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#NOSL\">#NOSL</a>)</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -2828,8 +2828,8 @@ msgid ""
 msgstr ""
 "<a id=\"NPL\" href=\"https://directory.fsf.org/wiki?title=License:"
 "NPLv1.1\">Netscape Kamu Lisansı (<abbr title=\"Netscape Public License"
-"\">NPL</abbr>)</a>, sürümler 1.0 ve 1.1 <span class=\"anchor-reference-id"
-"\">(<a href=\"#NPL\">#NPL</a>)</span>"
+"\">NPL</abbr>)</a>, sürümler 1.0 ve 1.1 <span class=\"anchor-reference-id\">"
+"(<a href=\"#NPL\">#NPL</a>)</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -3063,8 +3063,8 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"QPL\" href=\"https://directory.fsf.org/wiki/License:QPLv1.0\"> Q "
-"Public License (QPL), Version 1.0</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#QPL\">#QPL</a>)</span>"
+"Public License (QPL), Version 1.0</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#QPL\">#QPL</a>)</span>"
 msgstr ""
 "<a id=\"QPL\" href=\"https://directory.fsf.org/wiki/License:QPLv1.0\">Q Kamu "
 "Lisansı (<abbr title=\"Q Public License\">QPL</abbr>), Version 1.0</a> <span "
@@ -3231,8 +3231,8 @@ msgid ""
 "\"#Yahoo\">#Yahoo</a>)</span>"
 msgstr ""
 "<a id=\"Yahoo\" href=\"https://directory.fsf.org/wiki/License:"
-"YPLv1.1\">Yahoo! Kamu Lisansı 1.1</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#Yahoo\">#Yahoo</a>)</span>"
+"YPLv1.1\">Yahoo! Kamu Lisansı 1.1</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#Yahoo\">#Yahoo</a>)</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -3890,8 +3890,8 @@ msgid ""
 "\">#JSON</a>)</span>"
 msgstr ""
 "<a id=\"JSON\" href=\"https://directory.fsf.org/wiki/License:JSON\">JSON "
-"Lisansı</a> <span class=\"anchor-reference-id\">(<a href=\"#JSON\">#JSON</"
-"a>)</span>"
+"Lisansı</a> <span class=\"anchor-reference-id\">(<a href=\"#JSON\">#JSON</a>)"
+"</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -3916,8 +3916,8 @@ msgid ""
 "\"#ksh93\">#ksh93</a>)</span>"
 msgstr ""
 "<a id=\"ksh93\" href=\"https://directory.fsf.org/wiki/License:"
-"Old_ksh93\">ksh93'nin eski lisansı</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#ksh93\">#ksh93</a>)</span>"
+"Old_ksh93\">ksh93'nin eski lisansı</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#ksh93\">#ksh93</a>)</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -4005,7 +4005,7 @@ msgstr ""
 "vatandaşıysanız, lütfen NASA'ya yazın ve onlara gerçek bir özgür yazılım "
 "lisansı kullanma çağrısında bulunun."
 
-#. old id, leave for compatibility
+#.  old id, leave for compatibility 
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"OculusRift\"></a> <a id=\"OculusRiftSDK\" href=\"https://directory."
@@ -4060,7 +4060,7 @@ msgstr ""
 "Başka ek vahim kusurlar olabilir; bu kadar çok kusur bulunca, daha fazlası "
 "için bakmayı bıraktık."
 
-#. old id, leave for compatibility
+#.  old id, leave for compatibility 
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"OPL\"></a> <a id=\"OpenPublicL\" href=\"https://directory.fsf.org/"
@@ -4137,12 +4137,12 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"PINE\" href=\"https://directory.fsf.org/wiki/License:PINE\">License "
-"of PINE</a> <span class=\"anchor-reference-id\">(<a href=\"#PINE\">#PINE</"
-"a>)</span>"
+"of PINE</a> <span class=\"anchor-reference-id\">(<a href=\"#PINE\">#PINE</a>)"
+"</span>"
 msgstr ""
 "<a id=\"PINE\" href=\"https://directory.fsf.org/wiki/License:PINE\">PINE "
-"Lisansı</a> <span class=\"anchor-reference-id\">(<a href=\"#PINE\">#PINE</"
-"a>)</span>"
+"Lisansı</a> <span class=\"anchor-reference-id\">(<a href=\"#PINE\">#PINE</a>)"
+"</span>"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -4672,7 +4672,7 @@ msgstr ""
 "koşul eklemeyin&rdquo; demesi ve GNU FDL'nin, Ortak Belgelendirme Lisansında "
 "yer almayan ek koşullara sahip olmasıdır."
 
-#. old id, leave for compatibility
+#.  old id, leave for compatibility 
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"RealOPL\"></a> <a id=\"OpenPublicationL\" href=\"https://opencontent."
@@ -4776,7 +4776,7 @@ msgstr ""
 "<strong>Aşağıdaki lisanslar özgür belge lisansı niteliği <em>taşımıyor</em>:"
 "</strong>"
 
-#. brief id, leave for compatibility
+#.  brief id, leave for compatibility 
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"OCL\"></a> <a id=\"OpenContentL\" href=\"https://web.archive.org/"
@@ -4883,8 +4883,8 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"GPLOther\" href=\"/licenses/gpl.html\"> GNU General Public License</"
-"a> <span class=\"anchor-reference-id\"> (<a href=\"#GPLOther\">#GPLOther</"
-"a>)</span>"
+"a> <span class=\"anchor-reference-id\"> (<a href=\"#GPLOther\">#GPLOther</a>)"
+"</span>"
 msgstr ""
 "<a id=\"GPLOther\" href=\"/licenses/gpl.html\">GNU Genel Kamu Lisansı</a> "
 "<span class=\"anchor-reference-id\"> (<a href=\"#GPLOther\">#GPLOther</a>)</"
@@ -5199,8 +5199,8 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"GPLFonts\" href=\"/licenses/gpl.html\"> GNU General Public License</"
-"a> <span class=\"anchor-reference-id\"> (<a href=\"#GPLFonts\">#GPLFonts</"
-"a>)</span>"
+"a> <span class=\"anchor-reference-id\"> (<a href=\"#GPLFonts\">#GPLFonts</a>)"
+"</span>"
 msgstr ""
 "<a id=\"GPLFonts\" href=\"/licenses/gpl.html\">GNU Genel Kamu Lisansı</a> "
 "<span class=\"anchor-reference-id\"> (<a href=\"#GPLFonts\">#GPLFonts</a>)</"
@@ -5245,8 +5245,8 @@ msgstr ""
 #. type: Content of: <div><dl><dt>
 msgid ""
 "<a id=\"ecfonts\" href=\"https://directory.fsf.org/wiki/License:LaTeX_ecfonts"
-"\">License of the ec fonts for LaTeX</a> <span class=\"anchor-reference-id"
-"\">(<a href=\"#ecfonts\">#ecfonts</a>)</span>"
+"\">License of the ec fonts for LaTeX</a> <span class=\"anchor-reference-id\">"
+"(<a href=\"#ecfonts\">#ecfonts</a>)</span>"
 msgstr ""
 "<a id=\"ecfonts\" href=\"https://directory.fsf.org/wiki/License:LaTeX_ecfonts"
 "\">LaTeX ec yazı tipleri lisansı</a> <span class=\"anchor-reference-id\">(<a "
