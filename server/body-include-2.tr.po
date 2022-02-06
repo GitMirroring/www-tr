@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-2.html\n"
-"POT-Creation-Date: 2020-11-09 22:25+0000\n"
-"PO-Revision-Date: 2020-11-10 18:29+0100\n"
+"POT-Creation-Date: 2022-02-01 10:27+0000\n"
+"PO-Revision-Date: 2022-02-06 11:46+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. type: Content of: <div>
 msgid ""
@@ -49,6 +49,10 @@ msgid "<a href=\"/software/software.html\">SOFTWARE</a>"
 msgstr "<a href=\"/software/software.html\">YAZILIMLAR</a>"
 
 #. type: Content of: <div><ul><li>
+msgid "<a href=\"/distros/distros.html\">DISTROS</a>"
+msgstr "<a href=\"/distros/distros.html\">DAĞITIMLAR</a>"
+
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"/doc/doc.html\">DOCS</a>"
 msgstr "<a href=\"/doc/doc.html\">BELGELEME</a>"
 
@@ -65,12 +69,12 @@ msgid "<a href=\"/graphics/graphics.html\">GNU&nbsp;ART</a>"
 msgstr "<a href=\"/graphics/graphics.html\">GNU&nbsp;SANATI</a>"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"/people/people.html\">GNU'S&nbsp;WHO?</a>"
-msgstr "<a href=\"/people/people.html\">GNU&nbsp;KİM?</a>"
+msgid "<a href=\"/fun/humor.html\">FUN</a>"
+msgstr "<a href=\"/fun/humor.html\">EĞLENCE</a>"
 
 #. type: Content of: <div><ul><li>
-msgid "<a href=\"/server/sitemap.html\">SITEMAP</a>"
-msgstr "<a href=\"/server/sitemap.html\">SİTE&nbsp;HARİTASI</a>"
+msgid "<a href=\"/people/people.html\">GNU'S&nbsp;WHO?</a>"
+msgstr "<a href=\"/people/people.html\">GNU&nbsp;KİM?</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"//directory.fsf.org\">SOFTWARE&nbsp;DIRECTORY</a>"
@@ -79,3 +83,7 @@ msgstr "<a href=\"//directory.fsf.org\">YAZILIM&nbsp;DİZİNİ</a>"
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"https://h-node.org/\">HARDWARE</a>"
 msgstr "<a href=\"https://h-node.org/\">DONANIM</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/server/sitemap.html\">SITEMAP</a>"
+msgstr "<a href=\"/server/sitemap.html\">SİTE&nbsp;HARİTASI</a>"
