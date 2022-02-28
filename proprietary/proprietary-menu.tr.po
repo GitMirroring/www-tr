@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-menu.html\n"
-"POT-Creation-Date: 2021-11-21 19:26+0000\n"
-"PO-Revision-Date: 2021-11-24 16:51+0100\n"
+"POT-Creation-Date: 2022-02-27 15:57+0000\n"
+"PO-Revision-Date: 2022-02-28 06:50+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. type: Content of: <div><div>
 msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#9650;</a>"
@@ -47,6 +47,10 @@ msgid ""
 "<a href=\"/proprietary/proprietary-censorship.html#content\">Censorship</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-censorship.html#content\">Sansür</a>"
+
+#. type: Content of: <div><div><dl><dd><ul><li>
+msgid "<a href=\"/proprietary/proprietary-coercion.html#content\">Coercion</a>"
+msgstr "<a href=\"/proprietary/proprietary-coercion.html#content\">Zorlama</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><li>
 msgid "<a href=\"/proprietary/proprietary-coverups.html#content\">Coverups</a>"
