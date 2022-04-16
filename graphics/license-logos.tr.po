@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: license-logos.html\n"
-"POT-Creation-Date: 2019-06-27 09:56+0000\n"
-"PO-Revision-Date: 2021-02-15 12:55+0200\n"
+"POT-Creation-Date: 2022-04-12 15:55+0000\n"
+"PO-Revision-Date: 2022-04-16 13:53+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. type: Content of: <title>
 msgid "GNU License Logos - GNU Project - Free Software Foundation"
@@ -58,8 +58,8 @@ msgid ""
 "assure your users that their freedom is being protected."
 msgstr ""
 "Eğer <a href=\"/licenses/fdl.html\">GFDL</a>, veya GNU <a href=\"/licenses/"
-"gpl.html\">GPL</a>, <a href=\"/licenses/lgpl.html\">LGPL</a>, veya <a href="
-"\"/licenses/agpl.html\">AGPL</a> sürüm 3 altında bir çalışma "
+"gpl.html\">GPL</a>, <a href=\"/licenses/lgpl.html\">LGPL</a>, veya <a "
+"href=\"/licenses/agpl.html\">AGPL</a> sürüm 3 altında bir çalışma "
 "yayınlıyorsanız, lisansın tanıtımını yapmak için aşağıdaki logoları "
 "sitenizde veya uygulamanızda kullanmakta özgürsünüz. Bu logolar hemen "
 "tanınırlar ve kullanıcılara özgürlüklerinin korunduğuna ilişkin güvence "
@@ -105,8 +105,8 @@ msgstr "<a href=\"/graphics/gplv3-with-text-136x68.png\">"
 #. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Large GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük GPLv3 logosu]"
-"&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük GPLv3 "
+"logosu]&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 6.6kB (136x68)"
@@ -119,8 +119,8 @@ msgstr "<a href=\"/graphics/lgplv3-with-text-154x68.png\">"
 #. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Large LGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük LGPLv3 logosu]"
-"&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük LGPLv3 "
+"logosu]&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 7.3kB (154x68)"
@@ -134,8 +134,8 @@ msgstr "<a href=\"/graphics/agplv3-with-text-162x68.png\">"
 msgid ""
 "&nbsp;[Large GNU AGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük AGPLv3 logosu]"
-"&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren büyük AGPLv3 "
+"logosu]&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 8.5kB (162x68)"
@@ -152,8 +152,8 @@ msgstr "<a href=\"/graphics/gplv3-with-text-84x42.png\">"
 #. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Small GPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük GPLv3 logosu]"
-"&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük GPLv3 "
+"logosu]&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 3.3kB (84x42)"
@@ -166,8 +166,8 @@ msgstr "<a href=\"/graphics/lgplv3-with-text-95x42.png\">"
 #. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Small LGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük LGPLv3 logosu]"
-"&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük LGPLv3 "
+"logosu]&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 3.7kB (95x42)"
@@ -181,8 +181,8 @@ msgstr "<a href=\"/graphics/agplv3-with-text-100x42.png\">"
 msgid ""
 "&nbsp;[Small GNU AGPLv3 logo with &ldquo;Free as in Freedom&rdquo;]&nbsp;"
 msgstr ""
-"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük AGPLv3 logosu]"
-"&nbsp;"
+"&nbsp;[&ldquo;Free as in Freedom&rdquo; metnini içeren küçük AGPLv3 "
+"logosu]&nbsp;"
 
 #. type: Content of: <div><table><tr><td>
 msgid "PNG&nbsp; 4.0kB (100x42)"
@@ -269,8 +269,8 @@ msgid "PNG&nbsp; 2.7kB (88x31)"
 msgstr "PNG&nbsp; 2.7kB (88x31)"
 
 #. type: Content of: <div><table><tr><td><a>
-msgid "<a href=\"lgplv3-88x31.png\">"
-msgstr "<a href=\"lgplv3-88x31.png\">"
+msgid "<a href=\"/graphics/lgplv3-88x31.png\">"
+msgstr "<a href=\"/graphics/lgplv3-88x31.png\">"
 
 #. type: Attribute 'alt' of: <div><table><tr><td><a><img>
 msgid "&nbsp;[Small LGPLv3 logo]&nbsp;"
@@ -322,17 +322,19 @@ msgstr "&nbsp;[Alternatif GNU lisans logoları]&nbsp;"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"PNG&nbsp; <a href=\"license-logos-by-christian-candena-cc-by.png\">8kB</a> "
-"(500x54)"
+"PNG&nbsp; <a href=\"/graphics/license-logos-by-christian-candena-cc-by."
+"png\">8kB</a> (500x54)"
 msgstr ""
-"PNG&nbsp; <a href=\"license-logos-by-christian-candena-cc-by.png\">8kB</a> "
-"(500x54)"
+"PNG&nbsp; <a href=\"/graphics/license-logos-by-christian-candena-cc-by."
+"png\">8kB</a> (500x54)"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"SVG&nbsp; <a href=\"license-logos-by-christian-candena-cc-by.svg\">420kB</a>"
+"SVG&nbsp; <a href=\"/graphics/license-logos-by-christian-candena-cc-by."
+"svg\">420kB</a>"
 msgstr ""
-"SVG&nbsp; <a href=\"license-logos-by-christian-candena-cc-by.svg\">420kB</a>"
+"SVG&nbsp; <a href=\"/graphics/license-logos-by-christian-candena-cc-by."
+"svg\">420kB</a>"
 
 #. type: Content of: <div><div><h3>
 msgid "Copyright and license"
@@ -375,8 +377,8 @@ msgid ""
 "Available under the <a rel=\"license\" href=\"https://creativecommons.org/"
 "licenses/by/3.0/\">Creative Commons Attribution 3.0 Unported License</a>."
 msgstr ""
-"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by/3.0/deed.tr"
-"\">Creative Commons Atıf 3.0 Yerelleştirilmemiş (CC BY 3.0)</a> altında "
+"<a rel=\"license\" href=\"https://creativecommons.org/licenses/by/3.0/deed."
+"tr\">Creative Commons Atıf 3.0 Yerelleştirilmemiş (CC BY 3.0)</a> altında "
 "lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
@@ -384,24 +386,24 @@ msgstr ""
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<ul>\n"
-"<li>\"Free as in Freedom\" ifadesinin Türkçesi \"Özgürlükteki gibi Özgür"
-"\"dür. \"Free\" kelimesinin İngilizce'de \"bedelsiz\" ve \"özgür\" şeklinde "
-"iki anlamı olmasından dolayı kullanılan ifade.</li>\n"
+"<li>\"Free as in Freedom\" ifadesinin Türkçesi \"Özgürlükteki gibi "
+"Özgür\"dür. \"Free\" kelimesinin İngilizce'de \"bedelsiz\" ve \"özgür\" "
+"şeklinde iki anlamı olmasından dolayı kullanılan ifade.</li>\n"
 "</ul>"
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF.  Broken links and other corrections or suggestions "
-"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
-"org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other "
+"ways to contact</a> the FSF.  Broken links and other corrections or "
+"suggestions can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 msgstr ""
 "Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
 "gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
 "contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
-"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
-"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu."
+"org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -416,9 +418,9 @@ msgstr ""
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and submitting "
-"translations of this article."
+"Please see the <a href=\"/server/standards/README.translations."
+"html\">Translations README</a> for information on coordinating and "
+"contributing translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
 "önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
@@ -427,15 +429,15 @@ msgstr ""
 "BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
-"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
-"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-"
+"tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""
-"<em>Page text:</em>&nbsp; Copyright &copy; 2019 Free Software Foundation, "
+"<em>Page text:</em>&nbsp; Copyright &copy; 2022 Free Software Foundation, "
 "Inc."
 msgstr ""
-"<em>Sayfadaki metin:</em>&nbsp; Copyright &copy; 2019 Free Software "
+"<em>Sayfadaki metin:</em>&nbsp; Copyright &copy; 2022 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -461,3 +463,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "<a href=\"lgplv3-88x31.png\">"
+#~ msgstr "<a href=\"lgplv3-88x31.png\">"
