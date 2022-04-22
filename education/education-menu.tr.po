@@ -8,15 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: education-menu.html\n"
 "Report-Msgid-Bugs-To: Webmasters <webmasters@gnu.org>\n"
-"POT-Creation-Date: 2021-09-29 06:26+0000\n"
-"PO-Revision-Date: 2021-10-02 07:58+0200\n"
+"POT-Creation-Date: 2022-04-20 17:56+0000\n"
+"PO-Revision-Date: 2022-04-22 18:29+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. type: Content of: <div><div>
 msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#9650;</a>"
@@ -34,36 +34,17 @@ msgstr "<a href=\"/education/education.html#content\">Ana sayfa</a>"
 msgid "<a href=\"/education/edu-cases.html#content\">Case studies</a>"
 msgstr "<a href=\"/education/edu-cases.html#content\">Durum çalışmaları</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><li>
-msgid "<a href=\"/education/edu-cases-argentina.html#content\">Argentina</a>"
-msgstr "<a href=\"/education/edu-cases-argentina.html#content\">Arjantin</a>"
-
-#. type: Content of: <div><div><dl><dd><ul><li>
-msgid "<a href=\"/education/edu-cases-india.html#content\">India</a>"
-msgstr "<a href=\"/education/edu-cases-india.html#content\">Hindistan</a>"
-
 #. type: Content of: <div><div><dl><dt>
 msgid "<a href=\"/education/edu-resources.html#content\">Resources</a>"
 msgstr "<a href=\"/education/edu-resources.html#content\">Kaynaklar</a>"
 
-#. type: Content of: <div><div><dl><dd><ul><li>
+#. type: Content of: <div><div><dl><dt>
 msgid ""
-"<a href=\"/education/edu-software.html#content\">Educational Software</a>"
-msgstr "<a href=\"/education/edu-software.html#content\">Eğitsel Yazılım</a>"
-
-#. type: Content of: <div><div><dl><dd><ul><li>
-msgid ""
-"<a href=\"/education/edu-projects.html#content\">Groups &amp; projects</a>"
+"<a href=\"/education/bigtech-threats-to-education-and-society.html#content"
+"\">Big Tech Threats</a>"
 msgstr ""
-"<a href=\"/education/edu-projects.html#content\">Gruplar ve projeler</a>"
-
-#. type: Content of: <div><div><dl><dd><ul><li>
-msgid ""
-"<a href=\"/education/edu-free-learning-resources.html#content\">Free "
-"learning resources</a>"
-msgstr ""
-"<a href=\"/education/edu-free-learning-resources.html#content\">Özgür "
-"öğrenme kaynakları</a>"
+"<a href=\"/education/bigtech-threats-to-education-and-society.html#content"
+"\">Büyük Teknolojilerin Tehditleri</a>"
 
 #. type: Content of: <div><div><dl><dt>
 msgid ""
@@ -140,6 +121,31 @@ msgid ""
 "<a href=\"/education/misc/edu-misc.html#content\">Miscellaneous materials</a>"
 msgstr ""
 "<a href=\"/education/misc/edu-misc.html#content\">Çeşitli materyaller</a>"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-cases-argentina.html#content\">Argentina</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-cases-argentina.html#content\">Arjantin</a>"
+
+#~ msgid "<a href=\"/education/edu-cases-india.html#content\">India</a>"
+#~ msgstr "<a href=\"/education/edu-cases-india.html#content\">Hindistan</a>"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-software.html#content\">Educational Software</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-software.html#content\">Eğitsel Yazılım</a>"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-projects.html#content\">Groups &amp; projects</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-projects.html#content\">Gruplar ve projeler</a>"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-free-learning-resources.html#content\">Free "
+#~ "learning resources</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-free-learning-resources.html#content\">Özgür "
+#~ "öğrenme kaynakları</a>"
 
 #~ msgid ""
 #~ "<a href=\"/education/edu-cases-argentina-ecen.html#content\">ECE Neuquén</"

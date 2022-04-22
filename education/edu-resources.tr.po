@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-resources.html\n"
-"POT-Creation-Date: 2021-05-26 21:26+0000\n"
-"PO-Revision-Date: 2020-05-31 08:58+0200\n"
+"POT-Creation-Date: 2022-04-20 17:55+0000\n"
+"PO-Revision-Date: 2022-04-22 18:27+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. type: Content of: <title>
 msgid "Educational Resources - GNU Project - Free Software Foundation"
@@ -71,25 +71,17 @@ msgstr ""
 "projeler, eğitim alanında özgür yazılım kullanımını teşvik etmek için GNU "
 "Projesi ilkelerine uyan insan toplulukları ve daha fazlası."
 
-#. type: Content of: <div><h3>
-msgid "Table of Contents"
-msgstr "İçindekiler"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-software.html\">Educational Free Software</a>"
-msgstr "<a href=\"/education/edu-software.html\">Eğitsel Özgür Yazılım</a>"
-
-#. type: Content of: <div><ul><li>
-msgid "<a href=\"/education/edu-projects.html\">Groups and Projects</a>"
-msgstr "<a href=\"/education/edu-projects.html\">Gruplar ve Projeler</a>"
-
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"/education/edu-free-learning-resources.html\">Free Learning "
-"Resources</a>"
+"&nbsp;<a href=\"/education/edu-software.html\">Educational Free Software</"
+"a>&nbsp; &nbsp;<a href=\"/education/edu-projects.html\">Groups and Projects</"
+"a>&nbsp; &nbsp;<a href=\"/education/edu-free-learning-resources.html\">Free "
+"Learning Resources</a>&nbsp;"
 msgstr ""
-"<a href=\"/education/edu-free-learning-resources.html\">Özgür Öğrenme "
-"Kaynakları</a>"
+"&nbsp;<a href=\"/education/edu-software.html\">Eğitsel Özgür Yazılım</"
+"a>&nbsp; &nbsp;<a href=\"/education/edu-projects.html\">Grup ve Projeler</"
+"a>&nbsp; &nbsp;<a href=\"/education/edu-free-learning-resources.html\">Özgür "
+"Öğrenme Kaynakları</a>&nbsp;"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div><div>
@@ -139,9 +131,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2012, 2016, 2018-2021 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018-2022 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2012, 2016, 2018-2021 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2012, 2016, 2018-2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -167,3 +159,20 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "Table of Contents"
+#~ msgstr "İçindekiler"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-software.html\">Educational Free Software</a>"
+#~ msgstr "<a href=\"/education/edu-software.html\">Eğitsel Özgür Yazılım</a>"
+
+#~ msgid "<a href=\"/education/edu-projects.html\">Groups and Projects</a>"
+#~ msgstr "<a href=\"/education/edu-projects.html\">Gruplar ve Projeler</a>"
+
+#~ msgid ""
+#~ "<a href=\"/education/edu-free-learning-resources.html\">Free Learning "
+#~ "Resources</a>"
+#~ msgstr ""
+#~ "<a href=\"/education/edu-free-learning-resources.html\">Özgür Öğrenme "
+#~ "Kaynakları</a>"

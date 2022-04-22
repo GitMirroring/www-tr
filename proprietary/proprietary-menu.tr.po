@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-menu.html\n"
-"POT-Creation-Date: 2022-02-27 15:57+0000\n"
-"PO-Revision-Date: 2022-02-28 06:50+0100\n"
+"POT-Creation-Date: 2022-04-20 18:56+0000\n"
+"PO-Revision-Date: 2022-04-22 18:32+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -165,7 +165,7 @@ msgstr ""
 "\">Konferans Sistemleri</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><li>
-msgid "<a href=\"/proprietary/malware-edtech.html#content\">Ed Tech</a>"
+msgid "<a href=\"/proprietary/malware-edtech.html#content\">EdTech</a>"
 msgstr ""
 "<a href=\"/proprietary/malware-edtech.html#content\">Eğitim Teknolojileri</a>"
 

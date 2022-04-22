@@ -6,16 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: dangers-of-proprietary-systems-in-online-teaching.html\n"
-"POT-Creation-Date: 2021-05-26 21:26+0000\n"
-"PO-Revision-Date: 2021-01-16 09:16+0100\n"
+"POT-Creation-Date: 2022-04-20 17:55+0000\n"
+"PO-Revision-Date: 2022-04-22 18:25+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: \n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -108,26 +108,22 @@ msgstr ""
 "software-for-education.html\">özgürlüğe saygılı yazılım</a> bulunabilir ve "
 "bunlar özel mülkiyet benzerleri yerine tercih edilmelidir."
 
-#. type: Content of: <div><p>
-msgid "Follow the links below to learn more."
-msgstr "Daha fazlasını öğrenmek için aşağıdaki bağlantıları ziyaret edin."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"/education/teachers-help-students-resist-zoom.html\">Teachers: "
-"Help Your Students Resist Zoom</a>"
-msgstr ""
-"<a href=\"/education/teachers-help-students-resist-zoom.html\">Öğretmenler: "
-"Öğrencilerinize Zoom'a Direnmekte Yardımcı Olun</a>"
-
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "See how people are <a href=\"/education/successful-resistance-against-"
-"nonfree-software.html\"> successfully resisting nonfree software</a>."
+"nonfree-software.html#content\"> successfully resisting nonfree software</a>."
 msgstr ""
 "İnsanların nasıl da <a href=\"/education/successful-resistance-against-"
-"nonfree-software.html\"> özgür olmayan yazılımlara başarılı bir şekilde "
-"direndiğini</a> görün."
+"nonfree-software.html#content\"> özgür olmayan yazılımlara başarılı bir "
+"şekilde direndiğini</a> görün."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"/education/teachers-help-students-resist-zoom.html#content"
+"\">Teachers: Help Your Students Resist Zoom</a>"
+msgstr ""
+"<a href=\"/education/teachers-help-students-resist-zoom.html#content"
+"\">Öğretmenler: Öğrencilerinize Zoom'a Direnmekte Yardımcı Olun</a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div><div>
@@ -176,8 +172,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2020, 2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2020, 2021, 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020, 2021, 2022 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -202,6 +198,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "Follow the links below to learn more."
+#~ msgstr "Daha fazlasını öğrenmek için aşağıdaki bağlantıları ziyaret edin."
 
 #~ msgid "Copyright &copy; 2020 Free Software Foundation, Inc."
 #~ msgstr "Copyright &copy; 2020 Free Software Foundation, Inc."
