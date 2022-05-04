@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: license-logos.html\n"
-"POT-Creation-Date: 2022-04-12 15:55+0000\n"
-"PO-Revision-Date: 2022-04-16 13:53+0200\n"
+"POT-Creation-Date: 2022-05-02 09:56+0000\n"
+"PO-Revision-Date: 2022-05-04 05:38+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -313,8 +313,8 @@ msgid "Alternative logos <span>by Christian Cadena</span>"
 msgstr "Alternatif logoları <span>tasarlayan Christian Cadena</span>"
 
 #. type: Content of: <div><div><a>
-msgid "<a href=\"license-logos-by-christian-candena-cc-by.svg\">"
-msgstr "<a href=\"license-logos-by-christian-candena-cc-by.svg\">"
+msgid "<a href=\"/graphics/license-logos-by-christian-candena-cc-by.svg\">"
+msgstr "<a href=\"/graphics/license-logos-by-christian-candena-cc-by.svg\">"
 
 #. type: Attribute 'alt' of: <div><div><a><img>
 msgid "&nbsp;[Alternative GNU license logos]&nbsp;"
