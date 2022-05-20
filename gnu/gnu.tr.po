@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
-"POT-Creation-Date: 2021-10-24 18:55+0000\n"
-"PO-Revision-Date: 2021-10-25 14:36+0200\n"
+"POT-Creation-Date: 2022-05-17 10:30+0000\n"
+"PO-Revision-Date: 2022-05-20 06:24+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. type: Content of: <title>
 msgid "About the GNU Operating System - GNU project - Free Software Foundation"
@@ -87,6 +87,18 @@ msgstr ""
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/gnu/manifesto.html\"> The GNU Manifesto</a>"
 msgstr "<a href=\"/gnu/manifesto.html\">GNU Bildirisi</a>"
+
+#. #set var='DATE' value='<span class="date-tag">
+#. *[1984]</span>'
+#.   
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/gnu/first-hackers-conference-1984.html\"> First Hackers "
+"Conference</a>"
+msgstr ""
+"<a href=\"/gnu/first-hackers-conference-1984.html\"> İlk Hackers Konferansı</"
+"a>"
 
 #. #set var='DATE' value='<span class="date-tag">
 #. *[1983]</span>'
@@ -160,10 +172,10 @@ msgstr ""
 "bir makale, <cite>The New York Times</cite> gazetesinde 11 Ocak 1989 yılında "
 "yayınlanmıştır. Bu makaledeki bir sorun, propaganda terimi &ldquo;fikri "
 "mülkiyet&rdquo;i, tutarlı bir şeymiş gibi kullanmasıdır. Bu terim öyle bir "
-"karışıktır ki, hakkında konuşmak <a href=\"/philosophy/not-ipr.html"
-"\">anlamsızdır</a>. Makale Symbolics konusunda da muğlaktır. Stallman MIT'de "
-"çalışırken, bağımsız olarak, Symbolics'in kendi MIT Lisp Makine Sistemi "
-"sürümünde yaptığı iyileştirmelere benzeyen ve yerlerine geçecek "
+"karışıktır ki, hakkında konuşmak <a href=\"/philosophy/not-ipr."
+"html\">anlamsızdır</a>. Makale Symbolics konusunda da muğlaktır. Stallman "
+"MIT'de çalışırken, bağımsız olarak, Symbolics'in kendi MIT Lisp Makine "
+"Sistemi sürümünde yaptığı iyileştirmelere benzeyen ve yerlerine geçecek "
 "iyileştirmeler yazması gerekiyordu."
 
 #. type: Content of: <div><p>
@@ -306,10 +318,10 @@ msgstr "(9965) GNU"
 msgid ""
 "Main-belt asteroid <a href=\"https://www.minorplanetcenter.net/db_search/"
 "show_object?object_id=9965\">(9965)  GNU</a>, provisionally designated as "
-"1992 EF<sub>2</sub>, was named after the GNU project in the <a href="
-"\"https://www.minorplanetcenter.net/iau/ECS/MPCArchive/2000/MPC_20001111.pdf"
-"\">Minor Planet Circular 41571</a>. The asteroid was discovered at Kitt Peak "
-"by Spacewatch on the 5<sup>th</sup> March 1992."
+"1992 EF<sub>2</sub>, was named after the GNU project in the <a "
+"href=\"https://www.minorplanetcenter.net/iau/ECS/MPCArchive/2000/"
+"MPC_20001111.pdf\">Minor Planet Circular 41571</a>. The asteroid was "
+"discovered at Kitt Peak by Spacewatch on the 5<sup>th</sup> March 1992."
 msgstr ""
 "Ana kuşak asteroit <a href=\"https://www.minorplanetcenter.net/db_search/"
 "show_object?object_id=9965\">(9965)  GNU</a>, geçici ismi 1992 EF<sub>2</"
@@ -325,17 +337,17 @@ msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF.  Broken links and other corrections or suggestions "
-"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
-"org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other "
+"ways to contact</a> the FSF.  Broken links and other corrections or "
+"suggestions can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 msgstr ""
 "Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
 "gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
 "contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
-"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
-"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu."
+"org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -350,9 +362,9 @@ msgstr ""
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and contributing "
-"translations of this article."
+"Please see the <a href=\"/server/standards/README.translations."
+"html\">Translations README</a> for information on coordinating and "
+"contributing translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
 "önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
@@ -361,16 +373,16 @@ msgstr ""
 "BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
-"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
-"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-"
+"tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021, 2022 Free "
+"Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021, 2022 Free "
+"Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -389,8 +401,8 @@ msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
 "<li>T. E. Kalaycı, 2020.</li>\n"
-"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
-"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail."
+"com\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
 "</ul>"
 
 #.  timestamp start 
