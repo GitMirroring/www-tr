@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
-"POT-Creation-Date: 2022-04-12 09:56+0000\n"
-"PO-Revision-Date: 2022-04-16 13:58+0200\n"
+"POT-Creation-Date: 2022-06-16 07:56+0000\n"
+"PO-Revision-Date: 2022-06-17 20:06+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -145,6 +145,61 @@ msgstr ""
 "&ldquo;ifşacıyı yakalamak&rdquo; onu teşhis etmek için yeterli bir erişim "
 "gerekçesiyse, bu sınırlama ifşacıları korumak için yeterli olmaz. Daha da "
 "fazlasını yapmamız gerekiyor."
+
+#. type: Content of: <div><div><h3>
+msgid "Table of contents"
+msgstr "İçindekiler"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"#upperlimit\">The Upper Limit on Surveillance in a Democracy</a>"
+msgstr "<a href=\"#upperlimit\">Demokraside Gözetim Üst Sınırı</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"#willbemisused\">Information, Once Collected, Will Be Misused</a>"
+msgstr ""
+"<a href=\"#willbemisused\">Bilgi Bir Kez Toplanırsa Kötüye Kullanılacak</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"#technical\">Robust Protection for Privacy Must Be Technical</a>"
+msgstr "<a href=\"#technical\">Gizlilik İçin Güçlü Koruma Teknik Olmalı</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#commonsense\">First, Don't Be Foolish</a>"
+msgstr "<a href=\"#commonsense\">İlk olarak, Akılsız Olma</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"#privacybydesign\">We Must Design Every System for Privacy</a>"
+msgstr ""
+"<a href=\"#privacybydesign\">Her Sistemi Gizlilik İçin Tasarlamalıyız</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"#dispersal\">Remedy for Collecting Data: Leaving It Dispersed</a>"
+msgstr "<a href=\"#dispersal\">Veri Toplamak İçin Çare: Dağınık Bırakmak</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#digitalcash\">Remedy for Internet Commerce Surveillance</a>"
+msgstr "<a href=\"#digitalcash\">İnternet Ticareti Gözetimi İçin Çare</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#travel\">Remedy for Travel Surveillance</a>"
+msgstr "<a href=\"#travel\">Seyahat Gözetimi İçin Çare</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#communications\">Remedy for Communications Dossiers</a>"
+msgstr "<a href=\"#communications\">İletişim Dosyaları İçin Çare</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#necessary\">But Some Surveillance Is Necessary</a>"
+msgstr "<a href=\"#necessary\">Ancak Biraz Gözetim Gerekli</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#conclusion\">Conclusion</a>"
+msgstr "<a href=\"#conclusion\">Sonuç</a>"
 
 #. type: Content of: <div><h3>
 msgid "The Upper Limit on Surveillance in a Democracy"
@@ -1093,6 +1148,10 @@ msgid ""
 msgstr ""
 "Ancak gazetecilik bir işin parçası olarak yapılsa bile gözetimden "
 "korunmalıdır."
+
+#. type: Content of: <div><h3>
+msgid "Conclusion"
+msgstr "Sonuç"
 
 #. type: Content of: <div><div><p>
 msgid ""
