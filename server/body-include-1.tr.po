@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2022-06-17 16:56+0000\n"
-"PO-Revision-Date: 2022-06-17 20:08+0200\n"
+"POT-Creation-Date: 2022-07-07 19:25+0000\n"
+"PO-Revision-Date: 2022-07-10 08:11+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -32,25 +32,24 @@ msgstr ""
 "olabilecek itici güçtür."
 
 #. type: Content of: <div><div><p>
-msgid "Donate today to help us reach our spring goal of $67,000 by July 8."
-msgstr ""
-"8 Temmuz'a kadar $67,000 bahar hedefimize ulaşmak için şimdi bağış yapın."
+msgid "Donate today to help us reach our spring goal of $67,000."
+msgstr "$67,000 bahar hedefimize ulaşmak için şimdi bağış yapın."
 
-#. #echo encoding='none' var='fr_link' 
+#. #echo encoding='none' var='fr_link'
 #. type: Content of: <div><div><p>
 msgid "Read more &gt;"
 msgstr "Daha fazlası için &gt;"
 
 #. #set var='span_goal' value='<span class="goal">
 #. '
-#.       
+#.
 #. #set var='a_close' value='</span>
 #. </a>'
-#.       
+#.
 #. #echo encoding='none' var='fr_link'
-#.       
+#.
 #. #echo encoding='none' var='span_goal'
-#.       
+#.
 #. type: Content of: <div><div><div>
 msgid "$67,000"
 msgstr "$67,000"
@@ -69,8 +68,8 @@ msgstr "<strong>GNU</strong> <span class=\"hide\">İşletim Sistemi</span></a>"
 
 #. type: Content of: <div><p>
 msgid ""
-"<small id=\"fsf-support\">Supported by the <a href=\"#mission-statement"
-"\">Free Software Foundation</a></small>"
+"<small id=\"fsf-support\">Supported by the <a href=\"#mission-"
+"statement\">Free Software Foundation</a></small>"
 msgstr ""
 "<small id=\"fsf-support\"><a href=\"#mission-statement\">Özgür Yazılım "
 "Vakfı</a> Tarafından Destekleniyor</small>"
@@ -87,7 +86,7 @@ msgstr ""
 msgid "&nbsp;[Search www.gnu.org]&nbsp;"
 msgstr "&nbsp;[www.gnu.org'da Ara]&nbsp;"
 
-#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/" 
+#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/"
 #. type: Content of: <div><div><a>
 msgid ""
 "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container\">"
@@ -98,23 +97,23 @@ msgstr ""
 msgid "&nbsp;[Languages]&nbsp;"
 msgstr "&nbsp;[Languages - Diller]&nbsp;"
 
-#. #endif 
+#. #endif
 #. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
 #~ msgid ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input "
+#~ "type=\"hidden\" name=\"group[25]\" value=\"1\" /> <input "
+#~ "name=\"cancelURL\" type=\"hidden\" value=\"https://crm.fsf.org/civicrm/"
+#~ "profile?reset=1&amp;gid=31\" /> <input name=\"_qf_default\" "
+#~ "type=\"hidden\" value=\"Edit:cancel\" />"
 #~ msgstr ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input "
+#~ "type=\"hidden\" name=\"group[25]\" value=\"1\" /> <input "
+#~ "name=\"cancelURL\" type=\"hidden\" value=\"https://crm.fsf.org/civicrm/"
+#~ "profile?reset=1&amp;gid=31\" /> <input name=\"_qf_default\" "
+#~ "type=\"hidden\" value=\"Edit:cancel\" />"
 
 #~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
 #~ msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
@@ -157,8 +156,8 @@ msgstr "</a>"
 #~ "Bağışınız tüm kullanıcılar için özgürlük yolunda öncülük etmemize "
 #~ "yardımcı oluyor. 19 Temmuz'dan önce bağışta bulunarak, hedefimizi "
 #~ "arttırmamıza yardımcı olun. 11000 dolara kadar yapılan her katkıya "
-#~ "karşılık cömert bağışçılar da bağış yapacaklar.  <span class=\"highlight"
-#~ "\">Ayrıntılı bilgi &gt;</span>"
+#~ "karşılık cömert bağışçılar da bağış yapacaklar.  <span "
+#~ "class=\"highlight\">Ayrıntılı bilgi &gt;</span>"
 
 #~ msgid ""
 #~ "<a href=\"https://fsf.org/appeal?pk_campaign=fall20&amp;pk_kwd=banner\"> "
@@ -208,8 +207,8 @@ msgstr "</a>"
 # type: Content of: <body><div>
 #~ msgid ""
 #~ "<span class=\"netscape4\"><a href=\"#content\">Skip to content</a> | | <a "
-#~ "href=\"#searcher\">Skip to search</a> | </span><a href=\"#translations"
-#~ "\">Translations of this page</a>"
+#~ "href=\"#searcher\">Skip to search</a> | </span><a "
+#~ "href=\"#translations\">Translations of this page</a>"
 #~ msgstr ""
 #~ "<span class=\"netscape4\"><a href=\"#content\">İçeriği göster</a> | | <a "
 #~ "href=\"#searcher\">Aramaya atla</a> | </span><a href=\"#translations\">Bu "
