@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-29 17:55+0000\n"
-"PO-Revision-Date: 2022-06-10 06:37+0200\n"
+"POT-Creation-Date: 2022-08-13 16:25+0000\n"
+"PO-Revision-Date: 2022-08-14 15:15+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -174,6 +174,18 @@ msgstr "&ldquo;<a href=\"#FOSS\">ÖAKY</a>&rdquo; |"
 msgid "&ldquo;<a href=\"#FreelyAvailable\">Freely available</a>&rdquo; |"
 msgstr ""
 "&ldquo;<a href=\"#FreelyAvailable\">Özgürce edinilebilen yazılım</a>&rdquo; |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
+msgid "&ldquo;<a href=\"#Freemium\">Freemium</a>&rdquo; |"
+msgstr ""
+"&ldquo;<a href=\"#Freemium\">Satın alma opsiyonlu bedava (Freemium)</"
+"a>&rdquo; |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
+msgid "&ldquo;<a href=\"#FreeToPlay\">Free-to-play</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#FreeToPlay\">Oynaması bedava</a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
@@ -1041,13 +1053,13 @@ msgstr ""
 msgid ""
 "We first condemned this usage of &ldquo;content&rdquo; in 2002.  Since then, "
 "Tom Chatfield recognized the same point <a href=\"https://www.theguardian."
-"com/culture/2016/aug/02/how-to-deal-with-trump-trolls-online\">in the "
-"Guardian</a>:"
+"com/culture/2016/aug/02/how-to-deal-with-trump-trolls-online\"> in <cite>The "
+"Guardian</cite></a>:"
 msgstr ""
 "&ldquo;İçerik&rdquo; kullanımını ilk olarak 2002 tarihinde eleştirmiştik. Bu "
 "durum Tom Chatfield tarafından <a href=\"https://www.theguardian.com/"
-"culture/2016/aug/02/how-to-deal-with-trump-trolls-online\">Guardian</a>'da "
-"da anlatılıyor:"
+"culture/2016/aug/02/how-to-deal-with-trump-trolls-online\"><cite>The "
+"Guardian</cite>'da</a> da anlatılıyor:"
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
@@ -1071,6 +1083,27 @@ msgstr ""
 "Başka bir ifadeyle, &ldquo;içerik&rdquo; yayınları ve yazılanları, "
 "İnternetin &ldquo;tüpleri&rdquo; içerisinde taşınmaya ve ölçülmeye uygun bir "
 "çeşit püre biçimine indirger."
+
+#. type: Content of: <div><p>
+msgid ""
+"Later, <a href=\"https://www.theguardian.com/film/2022/aug/03/tax-concerns-"
+"axed-batgirl-but-studios-will-suffer-if-they-become-too-cynical\"> Peter "
+"Bradshaw noticed it too.</a>"
+msgstr ""
+"Daha sonra, <a href=\"https://www.theguardian.com/film/2022/aug/03/tax-"
+"concerns-axed-batgirl-but-studios-will-suffer-if-they-become-too-cynical\"> "
+"Peter Bradshaw da bunun farkına vardı.</a>"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"This is what happens when studios treat movies as pure, undifferentiated "
+"corporate &ldquo;content,&rdquo; a Gazprom pipeline of superhero mush which "
+"can be turned off when the accountants say that it makes sense to do so."
+msgstr ""
+"Stüdyolar filmlere saf, tekdüze, şirketsel &ldquo;içerik&rdquo; olarak "
+"yaklaştıklarında bu olur, muhasebeciler yapmanın mantıklı olduğunu "
+"söylediğinde kapatılabilen süper kahramanlık peltesinden oluşan bir Gazprom "
+"boru hattı."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1518,6 +1551,47 @@ msgstr ""
 "yazılım&rdquo;dır. &ldquo;Özgür yazılım&rdquo; ise bir kopyaya sahip "
 "kullanıcıların özgürlükleriyle tanımlanmıştır. Bunlar farklı sorulara farklı "
 "yanıtlardır."
+
+#. type: Content of: <div><h3>
+msgid "&ldquo;Freemium&rdquo;"
+msgstr "&ldquo;Satın alma opsiyonlu bedava (Freemium)&rdquo;"
+
+#. type: Content of: <div><p>
+msgid ""
+"The confusing term &ldquo;freemium&rdquo; is used in marketing to describe "
+"<em>nonfree</em> software whose standard version is gratis, with paid "
+"<em>nonfree</em> add-ons available."
+msgstr ""
+"Kafa karıştırıcı &ldquo;freemium&rdquo; (satın alma opsiyonlu bedava) terimi "
+"pazarlamada standart sürümü bedelsiz olan <em>özgür olmayan</em> yazılımı "
+"tanımlamak için kullanılıyor."
+
+#. type: Content of: <div><p>
+msgid ""
+"Using this term works against the free software movement, because it leads "
+"people to think of &ldquo;free&rdquo; as meaning &ldquo;zero price.&rdquo;"
+msgstr ""
+"Bu terimi kullanmak, insanların &ldquo;free (özgür)&rdquo;yi &ldquo;sıfır "
+"fiyatlı&rdquo; olarak düşünmesine yol açtığı için, özgür yazılım hareketinin "
+"aleyhinedir."
+
+#. type: Content of: <div><h3>
+msgid "&ldquo;Free-to-play&rdquo;"
+msgstr "&ldquo;Oynaması bedava&rdquo;"
+
+#. type: Content of: <div><p>
+msgid ""
+"The confusing term &ldquo;free-to-play&rdquo; is used in marketing to "
+"describe <em>nonfree</em> games which don't require a payment before a user "
+"starts to play.  In many of these games, doing well in the game requires "
+"paying later, so the term &ldquo;gratis-to-start&rdquo; is a more accurate "
+"description."
+msgstr ""
+"Kafa karıştırıcı &ldquo;oynaması bedava&rdquo; terimi pazarlamada kullanıcı "
+"oynamaya başladığında bir ödeme gerektirmeyen <em>özgür olmayan</em> "
+"oyunları tanımlamak için kullanılıyor. Bu oyunların çoğunda başarı kazanmak "
+"daha sonra bir ödeme gerektiriyor, bu nedenle &ldquo;başlaması "
+"bedelsiz&rdquo; çok daha uygun bir tanımdır."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Freeware&rdquo;"
