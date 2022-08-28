@@ -6,16 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2022-01-19 13:59+0000\n"
-"PO-Revision-Date: 2022-01-19 18:21+0100\n"
+"POT-Creation-Date: 2022-08-25 23:55+0000\n"
+"PO-Revision-Date: 2022-08-28 12:55+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -321,6 +321,24 @@ msgstr ""
 "çekirdekle paketlenmiş sürücülerde özgür olmayan ikili blob’ları içerir ve "
 "depolarında özgür olmayan programlar içerir. Hatta sahipli çözücüler "
 "(codec’ler) içerir."
+
+#. type: Content of: <div><h3>
+msgid "NixOS"
+msgstr "NixOS"
+
+#. type: Content of: <div><p>
+msgid ""
+"NixOS doesn't have any policy that completely forbids nonfree software. "
+"Instead, it has an option that needs to be activated to install nonfree "
+"packages. But even with that option disabled, it still ships nonfree blobs "
+"in its main repository, either with Linux (the kernel), or through separate "
+"package(s) like sof-firmware."
+msgstr ""
+"NixOS'un özgür olmayan yazılımı tamamen yasaklayan herhangi bir politikası "
+"yok. Bunun yerine özgür olmayan paketlerin yüklenmesi için etkinleştirilmesi "
+"gereken bir seçeneği var. Ama bu seçenek devre dışı olsa bile ana deposunda, "
+"ya Linux (çekirdeği) ile ya da aygıt yazılımları gibi farklı paketler "
+"aracılığıyla özgür olmayan kod yığınlarını barındırıyor."
 
 #. type: Content of: <div><h3>
 msgid "openSUSE"
