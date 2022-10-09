@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2022-09-10 15:25+0000\n"
+"POT-Creation-Date: 2022-10-03 07:55+0000\n"
 "PO-Revision-Date: 2022-09-17 07:24+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -50,18 +50,6 @@ msgid ""
 msgstr ""
 "GNU, özellikle kullanıcılarına özgürlük sağlamak için geliştirilen tek "
 "işletim sistemidir. GNU nedir ve hangi özgürlük tehlikede?"
-
-#. type: Content of: <p><a>
-msgid "<a href=\"/ghm/2022/\">"
-msgstr "<a href=\"/ghm/2022/\">"
-
-#. type: Attribute 'alt' of: <p><a><img>
-msgid "GNU Hackers' Meeting 2022 - İzmir, Turkey"
-msgstr "GNU Hacker Buluşması 2022 - İzmir, Türkiye"
-
-#. type: Content of: <div><div><div><h3>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Attribute 'label' of: <div><div><div><video><track>
 msgid "English"
@@ -134,6 +122,10 @@ msgid ""
 msgstr ""
 "&nbsp;[IceWM pencere yöneticisi ile Dragora&nbsp;3.0-beta1'in ekran "
 "görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><h3>
+msgid "</a>"
+msgstr "</a>"
 
 #. type: Content of: <div><div><div><div><p>
 msgid ""
@@ -752,6 +744,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "<a href=\"/ghm/2022/\">"
+#~ msgstr "<a href=\"/ghm/2022/\">"
+
+#~ msgid "GNU Hackers' Meeting 2022 - İzmir, Turkey"
+#~ msgstr "GNU Hacker Buluşması 2022 - İzmir, Türkiye"
 
 #~ msgid "Persian"
 #~ msgstr "Farsça"
