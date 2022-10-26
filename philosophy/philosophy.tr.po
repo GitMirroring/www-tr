@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophy.html\n"
-"POT-Creation-Date: 2022-07-17 19:25+0000\n"
-"PO-Revision-Date: 2022-07-18 22:02+0200\n"
+"POT-Creation-Date: 2022-10-20 10:26+0000\n"
+"PO-Revision-Date: 2022-10-26 11:25+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. type: Content of: <title>
 msgid "Philosophy of the GNU Project - GNU Project - Free Software Foundation"
@@ -76,11 +76,11 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
-"See <a href=\"//audio-video.gnu.org/\">audio-video.gnu.org</a> for "
-"recordings of Richard Stallman's speeches."
+"See the <a href=\"/audio-video/philosophy-recordings.html\"> Audio&nbsp;&amp;"
+"&nbsp;Video section</a> for recordings of Richard Stallman's speeches."
 msgstr ""
-"Richard Stallman'ın konuşma kayıtları için <a href=\"//audio-video.gnu.org/"
-"\">audio-video.gnu.org</a> adresine bakabilirsiniz."
+"Richard Stallman'ın konuşma kayıtları için <a href=\"/audio-video/philosophy-"
+"recordings.html\">Ses&nbsp;ve&nbsp;Video bölümüne</a> bakabilirsiniz."
 
 #. type: Content of: <h3>
 msgid "Introduction"
