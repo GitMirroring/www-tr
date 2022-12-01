@@ -23,7 +23,7 @@ msgstr ""
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
 
-#. #echo encoding='none' var='fr_link'
+#. #echo encoding='none' var='fr_link' 
 #. type: Content of: <div><div><p>
 msgid ""
 "The future of sharing is up to you! Join the FSF by Dec 31 to defend your "
@@ -33,13 +33,13 @@ msgstr ""
 "Aralık'a kadar FSF'ye katılın."
 
 #. #echo encoding='none'
-#. var='fr_link'
+#.      var='fr_link' 
 #. type: Content of: <div><div><p>
 msgid "READ&nbsp;MORE"
 msgstr "DAHA&nbsp;FAZLASI"
 
 #. #if expr="yes != $hide_goal"
-#.
+#.        
 #. type: Content of: <div><div><div>
 msgid "<span class=\"goal\">455&nbsp;Members</span>"
 msgstr "<span class=\"goal\">455&nbsp;Üye</span>"
@@ -58,8 +58,8 @@ msgstr "<strong>GNU</strong> <span class=\"hide\">İşletim Sistemi</span></a>"
 
 #. type: Content of: <div><p>
 msgid ""
-"<small id=\"fsf-support\">Supported by the <a href=\"#mission-"
-"statement\">Free Software Foundation</a></small>"
+"<small id=\"fsf-support\">Supported by the <a href=\"#mission-statement"
+"\">Free Software Foundation</a></small>"
 msgstr ""
 "<small id=\"fsf-support\"><a href=\"#mission-statement\">Özgür Yazılım "
 "Vakfı</a> Tarafından Destekleniyor</small>"
@@ -76,7 +76,7 @@ msgstr ""
 msgid "&nbsp;[Search www.gnu.org]&nbsp;"
 msgstr "&nbsp;[www.gnu.org'da Ara]&nbsp;"
 
-#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/"
+#. #if expr="$TRANSLATION_LIST = /<span dir=\"ltr\">/" 
 #. type: Content of: <div><div><a>
 msgid ""
 "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container\">"
@@ -87,23 +87,23 @@ msgstr ""
 msgid "&nbsp;[Languages]&nbsp;"
 msgstr "&nbsp;[Languages - Diller]&nbsp;"
 
-#. #endif
+#. #endif 
 #. type: Content of: <div><div>
 msgid "</a>"
 msgstr "</a>"
 
 #~ msgid ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input "
-#~ "type=\"hidden\" name=\"group[25]\" value=\"1\" /> <input "
-#~ "name=\"cancelURL\" type=\"hidden\" value=\"https://crm.fsf.org/civicrm/"
-#~ "profile?reset=1&amp;gid=31\" /> <input name=\"_qf_default\" "
-#~ "type=\"hidden\" value=\"Edit:cancel\" />"
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
+#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
+#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
+#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
+#~ "cancel\" />"
 #~ msgstr ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input "
-#~ "type=\"hidden\" name=\"group[25]\" value=\"1\" /> <input "
-#~ "name=\"cancelURL\" type=\"hidden\" value=\"https://crm.fsf.org/civicrm/"
-#~ "profile?reset=1&amp;gid=31\" /> <input name=\"_qf_default\" "
-#~ "type=\"hidden\" value=\"Edit:cancel\" />"
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
+#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
+#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
+#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
+#~ "cancel\" />"
 
 #~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
 #~ msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
@@ -161,8 +161,8 @@ msgstr "</a>"
 #~ "Bağışınız tüm kullanıcılar için özgürlük yolunda öncülük etmemize "
 #~ "yardımcı oluyor. 19 Temmuz'dan önce bağışta bulunarak, hedefimizi "
 #~ "arttırmamıza yardımcı olun. 11000 dolara kadar yapılan her katkıya "
-#~ "karşılık cömert bağışçılar da bağış yapacaklar.  <span "
-#~ "class=\"highlight\">Ayrıntılı bilgi &gt;</span>"
+#~ "karşılık cömert bağışçılar da bağış yapacaklar.  <span class=\"highlight"
+#~ "\">Ayrıntılı bilgi &gt;</span>"
 
 #~ msgid ""
 #~ "<a href=\"https://fsf.org/appeal?pk_campaign=fall20&amp;pk_kwd=banner\"> "
@@ -212,8 +212,8 @@ msgstr "</a>"
 # type: Content of: <body><div>
 #~ msgid ""
 #~ "<span class=\"netscape4\"><a href=\"#content\">Skip to content</a> | | <a "
-#~ "href=\"#searcher\">Skip to search</a> | </span><a "
-#~ "href=\"#translations\">Translations of this page</a>"
+#~ "href=\"#searcher\">Skip to search</a> | </span><a href=\"#translations"
+#~ "\">Translations of this page</a>"
 #~ msgstr ""
 #~ "<span class=\"netscape4\"><a href=\"#content\">İçeriği göster</a> | | <a "
 #~ "href=\"#searcher\">Aramaya atla</a> | </span><a href=\"#translations\">Bu "
