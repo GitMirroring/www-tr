@@ -1,0 +1,204 @@
+# Turkish translation of https://www.gnu.org/gnu/yes-give-it-away.html
+# Copyright (C) 2022 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+#
+# Anıl Maviş, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: yes-give-it-away.html\n"
+"POT-Creation-Date: 2021-11-28 08:27+0000\n"
+"PO-Revision-Date: 2022-12-01 09:28+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. type: Content of: <title>
+msgid "Yes, Give It Away - GNU Project - Free Software Foundation"
+msgstr "Evet, Dağıtın Gitsin - GNU Projesi - Özgür Yazılım Derneği"
+
+#. type: Content of: <div><h2>
+msgid "Yes, Give It Away"
+msgstr "Evet, Dağıtın Gitsin"
+
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Editor's note: This text was found in a file dated May 1983, though it is "
+"not clear whether it was written then or earlier.  In May 1983 Richard "
+"Stallman was privately considering plans to develop a free operating system, "
+"but he may not yet have decided to make it a Unix-like system rather than "
+"something like the MIT Lisp Machine."
+msgstr ""
+"Yayımcı notu: Bu yazı Mayıs 1983 tarihli bir dosyada bulundu, ancak yazının "
+"o yılda mı yoksa daha önce mi yazıldığı belli değildir. Mayıs 1983'te "
+"Richard Stallman özel olarak özgür bir işletim sistemi geliştirme planları "
+"yapıyordu, ancak daha MIT Lisp Makinesi gibi bir sistem yerine Unix benzeri "
+"bir sistem yapmaya karar vermemiş olabilir."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"He had not yet conceptually distinguished the two meanings of &ldquo;"
+"free&rdquo;; this message is formulated in terms of gratis copies, but take "
+"for granted that this means users also have freedom."
+msgstr ""
+"Daha &ldquo;özgür (free)&rdquo; kavramının iki anlamını ayırt etmemişti; bu "
+"ileti kullanmak için ücret ödenmeyen (gratis) kopyalar için yazılmış, ancak "
+"kullanıcıların özgürlüğünün (freedom) olduğu anlamını da varsayın."
+
+#. type: Content of: <div><p>
+msgid ""
+"One of the important reasons for giving software away free is to enable the "
+"users to change it.  This allows them to make better use of it, and also "
+"encourages and enables them to contribute to the effort.  Furthermore, they "
+"develop self-reliance, confidence, and a sense of responsibility."
+msgstr ""
+"Yazılımı karşılık beklemeden dağıtmanın önemli nedenlerinden biri de "
+"kullanıcıların yazılımı değiştirebilmelerini sağlamaktır. Bu, yazılımın daha "
+"iyi kullanılmasını sağlamakla kalmayıp onları bu çabaya katkıda bulunmaya "
+"iter. Üstelik öz güven, güven, ve sorumluluk duygusu geliştirirler."
+
+#. type: Content of: <div><p>
+msgid ""
+"I've often heard that Americans will think something is worthless if it's "
+"free.  It might be true, but it's not rational.  People have a right to be "
+"neurotic but we should not encourage this.  In the mean time, giving "
+"software away is not &ldquo;treating it as worthless&rdquo; just because "
+"some masochists might conclude it was worthless."
+msgstr ""
+"Amerikalıların, bir şey karşılıksız verildiğinde onun değersiz olduğunu "
+"düşüneceğini sık sık duydum. Bu doğru olabilir, ancak rasyonel değildir. "
+"Kişiler isterse nevrotik olabilirler ama onları buna özendirmemeliyiz. Bu "
+"arada, salt kimi mazoşistler yazılımın değersiz olduğu sonucuna varabilir "
+"diye onu dağıtmak &ldquo;ona değersizmiş gibi davranmak&rdquo; değildir."
+
+#. type: Content of: <div><p>
+msgid ""
+"Users would not change software if it were worthless; rather, because it is "
+"worth more to them as changed than before.  Some central maintenance is also "
+"useful, but there are other ways to provide for this aside from hassling the "
+"users."
+msgstr ""
+"Kullanıcılar yazılımları değersiz olduğu için değil, değiştirdiklerinde "
+"kendileri için eskisinden daha değerli olduğundan dolayı değiştirirler. Kimi "
+"merkezi bakımlar da yararlıdır, ancak bunu sağlamanın kullanıcılarla "
+"uğraşmaktan başka yolları da vardır."
+
+#. type: Content of: <div><p>
+msgid ""
+"I have a lot of experience with sharing software and having the users change "
+"it.  I find that"
+msgstr ""
+"Yazılım paylaşmak ile kullanıcıların onu değiştirmesini sağlamak konularında "
+"olan azımsanmayacak düzeydeki deneyimlerime dayanarak şu sonuçlara vardım"
+
+#. type: Content of: <div><ol><li>
+msgid "there is little tendency to believe EMACS is worthless"
+msgstr "EMACS'ın değersiz olduğuna inanma eğilimi çok az"
+
+#. type: Content of: <div><ol><li>
+msgid "users change EMACS a lot"
+msgstr "kullanıcılar EMACS'ı çok değiştiriyor"
+
+#. type: Content of: <div><ol><li>
+msgid "users' changes contribute to EMACS development"
+msgstr "kullanıcıların değişiklikleri EMACS'ın gelişmesine katkıda bulunuyor"
+
+#. type: Content of: <div><ol><li>
+msgid "centralized maintenance of EMACS continues"
+msgstr "EMACS'ın merkezi bakımı sürüyor"
+
+#. type: Content of: <div><p>
+msgid ""
+"I approached users in a non-manipulative cooperative spirit, and they "
+"reacted enthusiastically and cooperatively.  When told that restrictions are "
+"being imposed to trick their neuroses or because they are assumed in advance "
+"to be incompetent, they feel justifiable resentment.  They also tend to "
+"become incompetent and neurotic as a result."
+msgstr ""
+"Kullanıcılara manipülatif olmayan iş birlikçi bir yaklaşım sergilediğimde "
+"onlar da ilgili, iş birlikçi bir biçimde tepki verdiler. Onlara nevrozlarını "
+"kandırmak için veya önceden yetersiz oldukları varsayıldığından kısıtlamalar "
+"getirildiği söylendiğinde doğal olarak bir kızgınlık durumuna girerler. "
+"Sonuç olarak da yetersiz, nevrotik olma eğilimindedirler."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other "
+"ways to contact</a> the FSF.  Broken links and other corrections or "
+"suggestions can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
+msgstr ""
+"Genel FSF &amp; GNU sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu."
+"org&gt;</a> adresine gönderin.  Ayrıca FSF ile <a href=\"/contact/"
+"\">iletişim kurmanın başka yolları</a> da var.  Bozuk bağlantılar, "
+"düzeltmeler, öneriler <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a> adresine gönderilebilir."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations."
+"html\">Translations README</a> for information on coordinating and "
+"contributing translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-"
+"tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 1983, 2015, 2021 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1983, 2015, 2021 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>Anıl Maviş, 2022.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
