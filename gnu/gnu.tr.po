@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
 "POT-Creation-Date: 2022-05-17 10:30+0000\n"
-"PO-Revision-Date: 2022-05-20 06:24+0200\n"
+"PO-Revision-Date: 2022-12-01 15:15+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. type: Content of: <title>
 msgid "About the GNU Operating System - GNU project - Free Software Foundation"
@@ -210,7 +210,7 @@ msgstr ""
 #. #echo encoding='none' var='DATE' 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/gnu/yes-give-it-away.html\"> Yes, Give It Away</a>"
-msgstr "<a href=\"/gnu/yes-give-it-away.html\">Evet, Onu Verin</a>"
+msgstr "<a href=\"/gnu/yes-give-it-away.html\">Evet, Dağıtın Gitsin</a>"
 
 #. type: Content of: <div><h3>
 msgid "GNU Structure"
