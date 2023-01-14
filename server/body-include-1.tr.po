@@ -8,8 +8,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2022-12-11 15:25+0000\n"
-"PO-Revision-Date: 2022-12-11 20:44+0100\n"
+"POT-Creation-Date: 2023-01-03 19:25+0000\n"
+"PO-Revision-Date: 2023-01-14 10:47+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -26,11 +26,11 @@ msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
 #. #echo encoding='none' var='fr_link' 
 #. type: Content of: <div><div><p>
 msgid ""
-"The future of sharing is up to you! Join the FSF by Dec 31 to defend your "
+"The future of sharing is up to you! Join the FSF by Jan 20 to defend your "
 "freedom to share."
 msgstr ""
-"Paylaşmanın geleceği size bağlı! Paylaşım özgürlüğünüzü savunmak için 31 "
-"Aralık'a kadar FSF'ye katılın."
+"Paylaşmanın geleceği size bağlı! Paylaşım özgürlüğünüzü savunmak için 20 "
+"Ocak'a kadar FSF'ye katılın."
 
 #. #echo encoding='none'
 #.      var='fr_link' 
@@ -58,8 +58,8 @@ msgstr "<strong>GNU</strong> <span class=\"hide\">İşletim Sistemi</span></a>"
 
 #. type: Content of: <div><p>
 msgid ""
-"<small id=\"fsf-support\">Supported by the <a href=\"#mission-"
-"statement\">Free Software Foundation</a></small>"
+"<small id=\"fsf-support\">Supported by the <a href=\"#mission-statement"
+"\">Free Software Foundation</a></small>"
 msgstr ""
 "<small id=\"fsf-support\"><a href=\"#mission-statement\">Özgür Yazılım "
 "Vakfı</a> Tarafından Destekleniyor</small>"
@@ -67,6 +67,10 @@ msgstr ""
 #. type: Content of: <div><div><div><a>
 msgid "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
 msgstr "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
+
+#. type: Attribute 'title' of: <div><div><div><a><img>
+msgid "Site search"
+msgstr "Sitede Arama"
 
 #. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid "&nbsp;[Search www.gnu.org]&nbsp;"
@@ -76,32 +80,37 @@ msgstr "&nbsp;[www.gnu.org'da Ara]&nbsp;"
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <div><div><div>
-msgid "<a href=\"#language-container\">LANGUAGES</a>"
-msgstr "<a href=\"#language-container\">LANGUAGES</a>"
+#. type: Content of: <div><div><div><a>
+msgid "<a href=\"#language-container\">"
+msgstr "<a href=\"#language-container\">"
+
+#. type: Attribute 'title' of: <div><div><div><a><img>
+msgid "Languages"
+msgstr "Diller"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid "&nbsp;[Other languages]&nbsp;"
+msgstr "&nbsp;[Diğer diller]&nbsp;"
 
 #~ msgid ""
-#~ "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-"
-#~ "container\">"
+#~ "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container"
+#~ "\">"
 #~ msgstr ""
-#~ "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-"
-#~ "container\">"
-
-#~ msgid "&nbsp;[Languages]&nbsp;"
-#~ msgstr "&nbsp;[Languages - Diller]&nbsp;"
+#~ "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container"
+#~ "\">"
 
 #~ msgid ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input "
-#~ "type=\"hidden\" name=\"group[25]\" value=\"1\" /> <input "
-#~ "name=\"cancelURL\" type=\"hidden\" value=\"https://crm.fsf.org/civicrm/"
-#~ "profile?reset=1&amp;gid=31\" /> <input name=\"_qf_default\" "
-#~ "type=\"hidden\" value=\"Edit:cancel\" />"
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
+#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
+#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
+#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
+#~ "cancel\" />"
 #~ msgstr ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input "
-#~ "type=\"hidden\" name=\"group[25]\" value=\"1\" /> <input "
-#~ "name=\"cancelURL\" type=\"hidden\" value=\"https://crm.fsf.org/civicrm/"
-#~ "profile?reset=1&amp;gid=31\" /> <input name=\"_qf_default\" "
-#~ "type=\"hidden\" value=\"Edit:cancel\" />"
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
+#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
+#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
+#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
+#~ "cancel\" />"
 
 #~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
 #~ msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
@@ -159,8 +168,8 @@ msgstr "<a href=\"#language-container\">LANGUAGES</a>"
 #~ "Bağışınız tüm kullanıcılar için özgürlük yolunda öncülük etmemize "
 #~ "yardımcı oluyor. 19 Temmuz'dan önce bağışta bulunarak, hedefimizi "
 #~ "arttırmamıza yardımcı olun. 11000 dolara kadar yapılan her katkıya "
-#~ "karşılık cömert bağışçılar da bağış yapacaklar.  <span "
-#~ "class=\"highlight\">Ayrıntılı bilgi &gt;</span>"
+#~ "karşılık cömert bağışçılar da bağış yapacaklar.  <span class=\"highlight"
+#~ "\">Ayrıntılı bilgi &gt;</span>"
 
 #~ msgid ""
 #~ "<a href=\"https://fsf.org/appeal?pk_campaign=fall20&amp;pk_kwd=banner\"> "
@@ -204,14 +213,11 @@ msgstr "<a href=\"#language-container\">LANGUAGES</a>"
 #~ "fsf.org/appeal?pk_campaign=spring20&amp;pk_kwd=banner\">Devamını "
 #~ "okuyun&nbsp;></a></em>"
 
-#~ msgid "Set language"
-#~ msgstr "Dili ayarla"
-
 # type: Content of: <body><div>
 #~ msgid ""
 #~ "<span class=\"netscape4\"><a href=\"#content\">Skip to content</a> | | <a "
-#~ "href=\"#searcher\">Skip to search</a> | </span><a "
-#~ "href=\"#translations\">Translations of this page</a>"
+#~ "href=\"#searcher\">Skip to search</a> | </span><a href=\"#translations"
+#~ "\">Translations of this page</a>"
 #~ msgstr ""
 #~ "<span class=\"netscape4\"><a href=\"#content\">İçeriği göster</a> | | <a "
 #~ "href=\"#searcher\">Aramaya atla</a> | </span><a href=\"#translations\">Bu "

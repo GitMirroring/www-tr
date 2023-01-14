@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gethelp.html\n"
-"POT-Creation-Date: 2015-09-25 05:55+0000\n"
-"PO-Revision-Date: 2021-02-11 07:18+0100\n"
+"POT-Creation-Date: 2022-12-25 01:55+0000\n"
+"PO-Revision-Date: 2023-01-14 10:51+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. type: Content of: <title>
 msgid "Getting help with GNU software - GNU Project - Free Software Foundation"
@@ -28,23 +28,16 @@ msgstr "GNU yazılımları için yardım edinmek"
 
 #. type: Content of: <p>
 msgid ""
-"The Free Software Foundation does not provide technical support.  Our "
-"mission is developing, preserving, and protecting <a href=\"/philosophy/free-"
-"sw.html\">free software</a>.  We leave it to others to earn a living "
-"providing support.  We see programmers as providing a service, much as "
-"doctors and lawyers do now; both medical and legal knowledge are freely "
-"redistributable, but their practitioners charge for service.  So "
-"<strong>please do not email us or call the FSF Office for technical support."
+"The GNU Project does not provide technical support, and neither does the "
+"Free Software Foundation.  Our mission is developing, preserving, and "
+"protecting <a href=\"/philosophy/free-sw.html\">free software</a>. "
+"<strong>Please do not email us or call the FSF Office for technical support."
 "</strong>"
 msgstr ""
-"Özgür Yazılım Vakfı teknik destek sağlamaz. Görevimiz <a href=\"/philosophy/"
-"free-sw.html\">özgür yazılımı</a> korumak ve sürdürmektir. Destek işini "
-"ondan geçimini sürdürmeleri için başkalarına bırakıyoruz. Programcıları, "
-"tıpkı doktorların ve avukatların şimdi yaptığı gibi, hem tıbbi hem de hukuk "
-"bilgisinin özgürce dağıtıldığı günümüzde uygulayıcıların hizmetleri "
-"karşılığında bedel almaları gibi, hizmet sağlayanlar olarak görüyoruz. Bu "
-"nedenle <strong>lütfen teknik destek için FSF ofisini aramayın veya bize e-"
-"posta atmayın.</strong>"
+"Ne GNU Projesi ne de Özgür Yazılım Vakfı teknik destek sağlar. Misyonumuz <a "
+"href=\"/philosophy/free-sw.html\">özgür yazılım</a>ı geliştirmek, sürdürmek "
+"ve korumaktır. <strong>Lütfen teknik destek için bize e-posta göndermeyin "
+"veya FSF ofisini aramayın.</strong>"
 
 #. type: Content of: <p>
 msgid ""
@@ -178,15 +171,15 @@ msgid ""
 "Messages to GNU mailing lists have a limit of about 200k, and will reject "
 "anything larger than that.  Uploads to <a href=\"http://savannah.gnu.org"
 "\">Savannah</a> have a limit of 16 MB.  The best approach is to put the "
-"files on the web and include a url in your message.  If you have no way to "
+"files on the web and include a URL in your message.  If you have no way to "
 "do that, then ask about it; something can be worked out."
 msgstr ""
 "Hata bildirimi gönderirken, lütfen çok büyük ekler eklemeyin. GNU e-posta "
-"listelerinde iletilerin boyut sınırı 200k civarındadır ve bundan büyük "
-"herşey reddedilecektir. <a href=\"http://savannah.gnu.org\">Savannah</a> "
+"listelerinde iletilerin boyut sınırı 200k civarındadır ve bundan büyük her "
+"şey reddedilecektir. <a href=\"http://savannah.gnu.org\">Savannah</a> "
 "sistemine yüklemelerin sınırı 16 MB'tır. En iyi yaklaşım dosyaları webe "
-"yüklemek ve iletinizde URL bağlantısını paylaşmaktır. Bunu yapmanız mümkün "
-"değilse bize durum hakkında ulaşın, mutlaka yapacak bir şey buluruz."
+"yüklemek ve iletinizde URL'yi paylaşmaktır. Bunu yapmanız mümkün değilse "
+"bize durum hakkında ulaşın, mutlaka yapacak bir şey buluruz."
 
 #. type: Content of: <h3>
 msgid "Getting general help"
@@ -253,7 +246,7 @@ msgstr ""
 #.         Please send your comments and general suggestions in this regard
 #.         to <a href="mailto:web-translators@gnu.org">
 #.         &lt;web-translators@gnu.org&gt;</a>.</p>
-#.         <p>For information on coordinating and submitting translations of
+#.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
 #.         README</a>. 
@@ -275,9 +268,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2008, 2009, 2010, 2014, 2015 Free Software Foundation, Inc."
+"Copyright &copy; 2008, 2009, 2010, 2014, 2015, 2022 Free Software "
+"Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2008, 2009, 2010, 2014, 2015 Free Software Foundation, Inc."
+"Copyright &copy; 2008, 2009, 2010, 2014, 2015, 2022 Free Software "
+"Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -302,6 +297,25 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "The Free Software Foundation does not provide technical support.  Our "
+#~ "mission is developing, preserving, and protecting <a href=\"/philosophy/"
+#~ "free-sw.html\">free software</a>.  We leave it to others to earn a living "
+#~ "providing support.  We see programmers as providing a service, much as "
+#~ "doctors and lawyers do now; both medical and legal knowledge are freely "
+#~ "redistributable, but their practitioners charge for service.  So "
+#~ "<strong>please do not email us or call the FSF Office for technical "
+#~ "support.</strong>"
+#~ msgstr ""
+#~ "Özgür Yazılım Vakfı teknik destek sağlamaz. Görevimiz <a href=\"/"
+#~ "philosophy/free-sw.html\">özgür yazılımı</a> korumak ve sürdürmektir. "
+#~ "Destek işini ondan geçimini sürdürmeleri için başkalarına bırakıyoruz. "
+#~ "Programcıları, tıpkı doktorların ve avukatların şimdi yaptığı gibi, hem "
+#~ "tıbbi hem de hukuk bilgisinin özgürce dağıtıldığı günümüzde "
+#~ "uygulayıcıların hizmetleri karşılığında bedel almaları gibi, hizmet "
+#~ "sağlayanlar olarak görüyoruz. Bu nedenle <strong>lütfen teknik destek "
+#~ "için FSF ofisini aramayın veya bize e-posta atmayın.</strong>"
 
 #~ msgid ""
 #~ "Please see the <a href=\"/server/standards/README.translations.html"
