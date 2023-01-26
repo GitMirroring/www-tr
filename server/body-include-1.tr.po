@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2023-01-03 19:25+0000\n"
+"POT-Creation-Date: 2023-01-20 16:55+0000\n"
 "PO-Revision-Date: 2023-01-14 10:47+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -23,26 +23,39 @@ msgstr ""
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
 
-#. #echo encoding='none' var='fr_link' 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><form><div>
 msgid ""
-"The future of sharing is up to you! Join the FSF by Jan 20 to defend your "
-"freedom to share."
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
 msgstr ""
-"Paylaşmanın geleceği size bağlı! Paylaşım özgürlüğünüzü savunmak için 20 "
-"Ocak'a kadar FSF'ye katılın."
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Düzenle:iptal\" />"
 
-#. #echo encoding='none'
-#.      var='fr_link' 
-#. type: Content of: <div><div><p>
-msgid "READ&nbsp;MORE"
-msgstr "DAHA&nbsp;FAZLASI"
+#. type: Content of: <div><form><div><label>
+msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
+msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
 
-#. #if expr="yes != $hide_goal"
-#.        
-#. type: Content of: <div><div><div>
-msgid "<span class=\"goal\">455&nbsp;Members</span>"
-msgstr "<span class=\"goal\">455&nbsp;Üye</span>"
+#. type: Content of: <div><form><div>
+msgid ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+msgstr ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
+
+#. type: Content of: <div><div>
+msgid ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
@@ -93,43 +106,24 @@ msgid "&nbsp;[Other languages]&nbsp;"
 msgstr "&nbsp;[Diğer diller]&nbsp;"
 
 #~ msgid ""
+#~ "The future of sharing is up to you! Join the FSF by Jan 20 to defend your "
+#~ "freedom to share."
+#~ msgstr ""
+#~ "Paylaşmanın geleceği size bağlı! Paylaşım özgürlüğünüzü savunmak için 20 "
+#~ "Ocak'a kadar FSF'ye katılın."
+
+#~ msgid "READ&nbsp;MORE"
+#~ msgstr "DAHA&nbsp;FAZLASI"
+
+#~ msgid "<span class=\"goal\">455&nbsp;Members</span>"
+#~ msgstr "<span class=\"goal\">455&nbsp;Üye</span>"
+
+#~ msgid ""
 #~ "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container"
 #~ "\">"
 #~ msgstr ""
 #~ "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container"
 #~ "\">"
-
-#~ msgid ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
-#~ msgstr ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
-
-#~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
-#~ msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
-
-#~ msgid ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
-#~ msgstr ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
-
-#~ msgid ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
 
 #~ msgid ""
 #~ "Free software is the driving force that can help bring major change to "

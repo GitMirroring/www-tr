@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-howto.html\n"
-"POT-Creation-Date: 2022-01-02 18:25+0000\n"
-"PO-Revision-Date: 2022-01-10 20:01+0100\n"
+"POT-Creation-Date: 2023-01-21 12:25+0000\n"
+"PO-Revision-Date: 2023-01-26 23:09+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -47,8 +47,8 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"For further information, see our list of <a href=\"/licenses/gpl-faq.html"
-"\">frequently asked questions about our licenses</a>."
+"For further information, see our list of <a href=\"/licenses/gpl-faq."
+"html\">frequently asked questions about our licenses</a>."
 msgstr ""
 "Daha fazla bilgi için, <a href=\"/licenses/gpl-faq.html\">lisanslarımız "
 "hakkında sıkça sorulan sorular</a> listemize bakabilirsiniz."
@@ -128,6 +128,42 @@ msgstr ""
 "hakkı bildirimi (örneğin &ldquo;Copyright 1999 Terry Jones&rdquo;), ve "
 "programın GNU Genel Kamu Lisansı (veya Kısıtlı GPL, veya Affero GPL) "
 "şartları altında dağıtıldığını söyleyen kopyalama izni beyanı."
+
+#. type: Content of: <div><div><h3>
+msgid "Table of contents"
+msgstr "İçindekiler"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#copyright-disclaimer\">The copyright disclaimer</a>"
+msgstr "<a href=\"#copyright-disclaimer\">Telif hakkı feragatnamesi</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#copyright-notice\">The copyright notice</a>"
+msgstr "<a href=\"#copyright-notice\">Telif hakkı bildirimi</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#license-files\">The license files</a>"
+msgstr "<a href=\"#license-files\">Lisans dosyaları</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#license-notices\">The license notices</a>"
+msgstr "<a href=\"#license-notices\">Lisans bildirimleri</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#why-license-notices\">Why license notices?</a>"
+msgstr "<a href=\"#why-license-notices\">Neden lisans bildirimleri?</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#startup-notice\">The startup notice</a>"
+msgstr "<a href=\"#startup-notice\">Başlangıç bildirimi</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#affero-notice\">The Affero notice</a>"
+msgstr "<a href=\"#affero-notice\">Affero bildirimi</a>"
+
+#. type: Content of: <div><div><ul><li>
+msgid "<a href=\"#miscellaneous\">Miscellaneous</a>"
+msgstr "<a href=\"#miscellaneous\">Diğer</a>"
 
 #. type: Content of: <div><h3>
 msgid "The copyright disclaimer"
@@ -483,8 +519,8 @@ msgid ""
 msgstr ""
 "Etkileşimli programlar için, programın başladığında telif hakkı ve kopyalama "
 "izni hakkında kısa bir bildirim göstermesi genel olarak iyi bir fikirdir. Bu "
-"konu hakkında daha fazla bilgi için <a href=\"/licenses/gpl-3.0.html#howto"
-"\">GNU GPL'nin sonuna</a> bakabilirsiniz."
+"konu hakkında daha fazla bilgi için <a href=\"/licenses/gpl-3.0."
+"html#howto\">GNU GPL'nin sonuna</a> bakabilirsiniz."
 
 #. type: Content of: <div><h3>
 msgid "The Affero notice"
@@ -550,8 +586,8 @@ msgstr ""
 "üzere, tüm özgür yazılım programları Özgür Yazılım Dizin'inde listelemek "
 "istiyoruz. Bu nedenle lütfen programınız için, kullanışlı bir noktaya "
 "ulaştığı zaman bir girdi gönderin. Bilgi ve çevrim içi gönderim formu için "
-"<a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:Participate"
-"\">Dizin vikisine</a> bakabilirsiniz."
+"<a href=\"https://directory.fsf.org/wiki/Free_Software_Directory:"
+"Participate\">Dizin vikisine</a> bakabilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -571,15 +607,15 @@ msgstr ""
 msgid ""
 "You are welcome to use any of our licenses even if your program is not a GNU "
 "package; indeed, we hope you will.  They're available to everyone.  If you'd "
-"like to advertise your use of a particular license, feel free to use <a href="
-"\"/graphics/license-logos.html\" title=\"GNU License Logos\">one of our "
+"like to advertise your use of a particular license, feel free to use <a "
+"href=\"/graphics/license-logos.html\" title=\"GNU License Logos\">one of our "
 "logos</a>."
 msgstr ""
 "Programınız bir GNU paketi olmasa bile herhangi bir lisansımızı kullanmanızı "
 "memnuniyetle karşılarız; doğrusu umarım kullanırsınız. Herkesin kullanımına "
-"açıklar. Belirli bir lisansı kullandığınızı duyurmak istiyorsanız, <a href="
-"\"/graphics/license-logos.html\" title=\"GNU License Logos\">logolarımızdan "
-"birini</a> kullanmakta özgürsünüz."
+"açıklar. Belirli bir lisansı kullandığınızı duyurmak istiyorsanız, <a "
+"href=\"/graphics/license-logos.html\" title=\"GNU License "
+"Logos\">logolarımızdan birini</a> kullanmakta özgürsünüz."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -588,17 +624,17 @@ msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF.  Broken links and other corrections or suggestions "
-"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
-"org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other "
+"ways to contact</a> the FSF.  Broken links and other corrections or "
+"suggestions can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 msgstr ""
 "Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
 "gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
 "contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
-"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
-"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu."
+"org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -613,9 +649,9 @@ msgstr ""
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and contributing "
-"translations of this article."
+"Please see the <a href=\"/server/standards/README.translations."
+"html\">Translations README</a> for information on coordinating and "
+"contributing translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
 "önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
@@ -624,15 +660,15 @@ msgstr ""
 "BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
-"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
-"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-"
+"tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001, 2007-2009, 2011, 2017, 2018, 2022 Free Software "
+"Copyright &copy; 2001, 2007-2009, 2011, 2017, 2018, 2022, 2023 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2001, 2007-2009, 2011, 2017, 2018, 2022 Free Software "
+"Copyright &copy; 2001, 2007-2009, 2011, 2017, 2018, 2022, 2023 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
