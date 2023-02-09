@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: categories.html\n"
-"POT-Creation-Date: 2022-11-23 19:58+0000\n"
-"PO-Revision-Date: 2022-12-01 09:10+0100\n"
+"POT-Creation-Date: 2023-01-31 09:25+0000\n"
+"PO-Revision-Date: 2023-02-09 18:33+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -32,27 +32,42 @@ msgstr ""
 msgid "Categories of Free and Nonfree Software"
 msgstr "Özgür Olan ve Özgür Olmayan Yazılım Kategorileri"
 
-#. type: Content of: <div><div>
+#. type: Content of: <div><div><object>
 msgid ""
 "<object type=\"image/svg+xml\" data=\"/philosophy/category.svg\" title="
-"\" [Categories of software] \" width=\"680px\" height=\"auto\"></object>"
+"\" [Categories of software] \" width=\"680\" height=\"645\">"
 msgstr ""
 "<object type=\"image/svg+xml\" data=\"/philosophy/category.svg\" title="
-"\" [Yazılım kategorileri] \" width=\"680px\" height=\"auto\"></object>"
+"\" [Yazılım Kategorileri] \" width=\"680\" height=\"645\">"
+
+#. type: Attribute 'alt' of: <div><div><object><img>
+msgid "[Categories of software]"
+msgstr "[Yazılım Kategorileri]"
+
+#. type: Content of: <div><div>
+msgid "</object>"
+msgstr "</object>"
 
 #. type: Content of: <div><div><p>
 msgid ""
-"This clickable diagram explains the different categories of software. It is "
-"available as <a href=\"/philosophy/category.svg\">SVG</a> and <a href=\"/"
-"philosophy/category.png\">PNG</a> images, under the terms of the <a href="
-"\"https://creativecommons.org/licenses/by-sa/4.0/\" rel=\"license\">Creative "
-"Commons Attribution-ShareAlike 4.0 International</a> license."
+"This diagram explains the different categories of software. It is available "
+"as <a href=\"/philosophy/category.svg\">SVG</a> and <a href=\"/philosophy/"
+"category.png\">PNG</a> images, under the terms of the <a href=\"https://"
+"creativecommons.org/licenses/by-sa/4.0/\" rel=\"license\">Creative Commons "
+"Attribution-ShareAlike 4.0 International</a> license."
 msgstr ""
-"Bu tıklanabilir şema, farklı yazılım kategorilerini açıklıyor. <a href="
-"\"https://creativecommons.org/licenses/by-sa/4.0/deed.tr\" rel=\"license"
-"\">Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası</a> lisansı "
-"kapsamında <a href=\"/philosophy/category.svg\">SVG</a> ve <a href=\"/"
-"philosophy/category.png\">PNG</a> resimleri olarak erişilebilir."
+"Bu şema farklı yazılım kategorilerini açıklıyor. <a href=\"https://"
+"creativecommons.org/licenses/by-sa/4.0/deed.tr\" rel=\"license\">Creative "
+"Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası</a> lisansı kapsamında <a "
+"href=\"/philosophy/category.svg\">SVG</a> ve <a href=\"/philosophy/category."
+"png\">PNG</a> resimleri olarak erişilebilir."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Note: the diagram is clickable if your browser completely supports the SVG "
+"format."
+msgstr ""
+"Not: şema tarayıcınız SVG biçimini tamamen desteklediğinde tıklanabilirdir."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -873,11 +888,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996-1998, 2001-2005, 2007, 2009-2012, 2015, 2019, 2022 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1996-1998, 2001-2005, 2007, 2009-2012, 2015, 2019, 2022, "
+"2023 Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996-1998, 2001-2005, 2007, 2009-2012, 2015, 2019, 2022 "
-"Free Software Foundation, Inc."
+"Copyright &copy; 1996-1998, 2001-2005, 2007, 2009-2012, 2015, 2019, 2022, "
+"2023 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -914,9 +929,6 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
-
-#~ msgid "[Categories of software]"
-#~ msgstr "[Yazılım Kategorileri]"
 
 #~ msgid ""
 #~ "A private program is free software in a trivial sense if its unique user "
