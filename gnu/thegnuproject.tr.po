@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: thegnuproject.html\n"
-"POT-Creation-Date: 2021-12-25 21:25+0000\n"
-"PO-Revision-Date: 2021-11-02 17:33+0100\n"
+"POT-Creation-Date: 2023-05-04 00:25+0000\n"
+"PO-Revision-Date: 2023-05-06 09:34+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. type: Content of: <title>
 msgid "About the GNU Project - GNU Project - Free Software Foundation"
@@ -2186,12 +2186,12 @@ msgstr ""
 #. type: Content of: <div><ol><li>
 msgid ""
 "2008 note: this issue extends to the BIOS as well.  There is a free BIOS, <a "
-"href=\"https://libreboot.org/\">LibreBoot</a> (a distribution of coreboot); "
+"href=\"https://libreboot.at/\">LibreBoot</a> (a distribution of coreboot); "
 "the problem is getting specs for machines so that LibreBoot can support them "
 "without nonfree &ldquo;blobs.&rdquo;"
 msgstr ""
 "2008 notu: bu konu BIOS'a da genişletilebilir. Özgür bir BIOS vardır, <a "
-"href=\"http://www.libreboot.org/\">LibreBoot</a>, sorun (bir coreboot "
+"href=\"http://www.libreboot.at/\">LibreBoot</a>, sorun (bir coreboot "
 "dağıtımı olan) LibreBoot'un özgür olmayan &ldquo;bloblar&rdquo; olmadan "
 "destekleyebilmesini sağlamak için makine belirtimlerini elde etmektir."
 
@@ -2275,10 +2275,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1998, 2005, 2008, 2010, 2012, 2015, 2017, 2018, 2021 "
+"Copyright &copy; 1998, 2005, 2008, 2010, 2012, 2015, 2017, 2018, 2021, 2023 "
 "Richard Stallman"
 msgstr ""
-"Copyright &copy; 1998, 2005, 2008, 2010, 2012, 2015, 2017, 2018, 2021 "
+"Copyright &copy; 1998, 2005, 2008, 2010, 2012, 2015, 2017, 2018, 2021, 2023 "
 "Richard Stallman"
 
 #. type: Content of: <div><p>
