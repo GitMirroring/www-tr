@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnu.html\n"
-"POT-Creation-Date: 2022-05-17 10:30+0000\n"
-"PO-Revision-Date: 2022-12-01 15:15+0100\n"
+"POT-Creation-Date: 2023-05-15 18:25+0000\n"
+"PO-Revision-Date: 2023-05-23 06:25+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. type: Content of: <title>
 msgid "About the GNU Operating System - GNU project - Free Software Foundation"
@@ -177,6 +177,20 @@ msgstr ""
 "çalışırken, bağımsız olarak, Symbolics'in kendi MIT Lisp Makine Sistemi "
 "sürümünde yaptığı iyileştirmelere benzeyen ve yerlerine geçecek "
 "iyileştirmeler yazması gerekiyordu."
+
+#. #set var='DATE' value='<span class="date-tag">
+#. [1983]</span>'
+#.    
+#. #echo encoding='none' var='DATE' 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/gnu/road-to-gnu.html\"> The Road to GNU</a> &mdash; Richard "
+"Stallman describes the experiences that prepared him to fight for a free "
+"software world."
+msgstr ""
+"<a href=\"/gnu/road-to-gnu.html\">GNU'ya Giden Yol</a> &mdash; Richard "
+"Stallman, özgür yazılım dünyası mücadelesi için kendisini hazırlayan "
+"deneyimleri betimliyor."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -378,11 +392,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021, 2022 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021, 2022, 2023 "
+"Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021, 2022 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 2002, 2006-2008, 2011, 2014-2016, 2020, 2021, 2022, 2023 "
+"Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

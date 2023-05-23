@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-addictions.html\n"
-"POT-Creation-Date: 2022-11-12 21:26+0000\n"
-"PO-Revision-Date: 2022-11-20 07:39+0100\n"
+"POT-Creation-Date: 2023-05-15 14:55+0000\n"
+"PO-Revision-Date: 2023-05-23 06:37+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. type: Content of: <title>
 msgid "Proprietary Addictions - GNU Project - Free Software Foundation"
@@ -459,6 +459,55 @@ msgstr ""
 "bir yolu; bildirimleri kapatmak ve platformdaki verilerinizi mümkün "
 "olduğunca az miktarda tutmaktır."
 
+#. type: Content of: <div><div><h4>
+msgid "Nonfree smartphone software"
+msgstr "Özgür olmayan akıllı telefon yazılımı"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Parents are very concerned about the <a href=\"https://www.freerangekids.com/"
+"worried-your-child-is-already-a-screen-addict-theres-hope/\"> intentional "
+"addictiveness of the software that their children use on snoop-phones</a>."
+msgstr ""
+"Ebeveynler <a href=\"https://www.freerangekids.com/worried-your-child-is-"
+"already-a-screen-addict-theres-hope/\">çocuklarının kullandığı hafiye "
+"telefonların yazılımlarındaki kasıtlı bağımlılık</a> konusunda çok "
+"kaygılılar."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The &ldquo;<a href=\"https://www.nysun.com/article/how-manipulative-tech-a-"
+"mashup-of-psychology-and-technology-keeps-children-glued-to-screens"
+"\">manipulative tech</a>,&rdquo; which underpins addictive features that the "
+"article naively attributes to &ldquo;screens,&rdquo; is in fact implemented "
+"by software: partly in the operating system and partly in some apps.  These "
+"features can be designed to do nasty things because they are <a href="
+"\"https://fsf.org/tedx\">nonfree software</a>: their code is controlled by "
+"some &ldquo;owner,&rdquo; in this case a powerful company, rather than by "
+"the users.  If they were free programs, the user community could reprogram "
+"them so as to be less addictive."
+msgstr ""
+"Yazının safça &ldquo;ekranlara&rdquo; mal ettiği bağımlılık yapan "
+"özellikleri destekleyen &ldquo;<a href=\"https://www.nysun.com/article/how-"
+"manipulative-tech-a-mashup-of-psychology-and-technology-keeps-children-glued-"
+"to-screens\">manipülatif teknoloji</a>&rdquo;, gerçekte yazılım tarafından "
+"gerçekleştiriliyor: kısmen işletim sisteminde kısmen de uygulamalarda. Bu "
+"özellikler kötü şeyler yapmak üzere tasarlanmış çünkü <a href=\"https://fsf."
+"org/tedx\">özgür olmayan yazılımlardır</a>: kodları bir &ldquo;sahip&rdquo; "
+"tarafından denetleniyor, bu örnekte güçlü bir şirket tarafından, "
+"kullanıcıları tarafından değil. Özgür program olsalardı, kullanıcı topluluğu "
+"daha az bağımlılık yapacak şekilde onları tekrar programlayabilirdi."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"By freeing ourselves from these companies' power to require use of software "
+"they control for accessing their &ldquo;services,&rdquo; we will also reduce "
+"the harm that online dis-services can do."
+msgstr ""
+"Bu şirketlerin, &ldquo;hizmetlerine&rdquo; erişmek için denetledikleri "
+"yazılımı kullanmayı zorlayan iktidarlarından kendimizi özgürleştirerek, "
+"hizmetsizliklerin yapabileceği zararları da azaltacağız."
+
 #. type: Content of: <div><div><h3>
 msgid "Examples of addictive software"
 msgstr "Bağımlılık yapan yazılım örnekleri"
@@ -694,8 +743,10 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2019, 2020, 2021, 2022 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2019, 2020, 2021, 2022 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2019, 2020, 2021, 2022, 2023 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2019, 2020, 2021, 2022, 2023 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
