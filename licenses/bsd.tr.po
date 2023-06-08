@@ -1,7 +1,7 @@
 # Turkish translation of http://www.gnu.org/licenses/bsd.html
 # Copyright (C) 2020 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# Mert Gör <mertgor@dismail.de>, 2020.
+# Mert Gör <mertgor@masscollabs.xyz>, 2020.
 #
 msgid ""
 msgstr ""
@@ -360,8 +360,8 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>Mert Gör <a href=\"mailto:mertgor@dismail.de\">&lt;mertgor@dismail.de&gt;"
-"</a>, 2020</li>\n"
+"<li>Mert Gör <a href=\"mailto:mertgor@masscollabs.xyz\">&lt;"
+"mertgor@masscollabs.xyz&gt;</a>, 2020</li>\n"
 "</ul>"
 
 #.  timestamp start 
