@@ -1,0 +1,277 @@
+# Turkish translation of https://www.gnu.org/gnu/first-hackers-conference-1984.html
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Mert Gör <mertgor@masscollabs.xyz>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: first-hackers-conference-1984.html\n"
+"POT-Creation-Date: 2022-06-27 10:26+0000\n"
+"PO-Revision-Date: 2023-06-08 08:40+0200\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. type: Content of: <title>
+msgid ""
+"Richard Stallman at the First Hackers Conference in 1984 - GNU Project - "
+"Free Software Foundation"
+msgstr ""
+"Richard Stallman 1984'teki İlk Hackerlar Konferansında - GNU Projesi - Özgür "
+"Yazılım Vakfı"
+
+#. type: Content of: <div><h2>
+msgid "Richard Stallman at the First Hackers Conference in 1984"
+msgstr "Richard Stallman, 1984'teki İlk Hackerlar Konferansında"
+
+#. type: Content of: <div><p>
+msgid ""
+"The first Hackers Conference was held in Sausalito, California, in November "
+"1984. The makers of the documentary <cite>Hackers: Wizards of the Electronic "
+"Age</cite> interviewed Richard Stallman at the event.  They included only "
+"parts of the interviews in the film, but made some other footage available. "
+"Stallman's statements at the conference went beyond what he had written in "
+"the <a href=\"/gnu/initial-announcement.html\">initial announcement of GNU</"
+"a>."
+msgstr ""
+"İlk Hacker Konferansı Kasım 1984'te California, Sausalito'da yapıldı. "
+"<cite>Hackers: Wizards of the Electronic Age</cite> belgeselinin yapımcıları "
+"etkinlikte Richard Stallman ile röportaj yaptı. Röportajların yalnızca bazı "
+"kısımlarını filme dahil ettiler, ancak başka bazı görüntüleri de kullanıma "
+"sundular. Stallman'ın konferanstaki açıklamaları, <a href=\"/gnu/initial-"
+"announcement.html\">GNU'nun ilk duyurusunda</a> yazdıklarının ötesine geçti."
+
+#. type: Content of: <div><p>
+msgid ""
+"It was at this conference that Richard Stallman first publicly and "
+"explicitly stated the idea that <em>all software should be free</em>, and "
+"makes it clear that &ldquo;free&rdquo; refers to freedom, not price, by "
+"saying that software should be <em>freely</em> accessible to everyone. This "
+"was probably the first time he made that distinction to the public."
+msgstr ""
+"Richard Stallman, <em>tüm yazılımların özgür olması</em> fikrini ilk kez bu "
+"konferansta alenen ve açıkça ifade etti ve &ldquo;özgür&rdquo; yazılımın "
+"herkes tarafından <em>özgürce</em> erişilebilir olması gerektiğini "
+"söyleyerek fiyata değil özgürlüğe atıfta bulunduğunu açıklığa kavuşturdu. "
+"Muhtemelen bu ayrımı herkesin önünde ilk kez yaptı."
+
+#. type: Content of: <div><p>
+msgid ""
+"Stallman continues by explaining why it is wrong to agree to accept a "
+"program on condition of not sharing it with others. So what can one say "
+"about a business based on developing nonfree software and luring others into "
+"accepting that condition? Such things are bad for society and shouldn't be "
+"done at all. (In later years he used stronger condemnation.)"
+msgstr ""
+"Stallman, bir programı başkalarıyla paylaşmama koşuluyla kabul etmenin neden "
+"yanlış olduğunu açıklayarak devam ediyor. Öyleyse, özgür olmayan yazılım "
+"geliştirmeye ve başkalarını bu koşulu kabul etmeye ikna etmeye dayalı bir iş "
+"hakkında ne söylenebilir? Bu tür şeyler toplum için kötüdür ve kesinlikle "
+"yapılmamalıdır. (Daha sonraki yıllarda kınamasını daha da şiddetlendirdi.)"
+
+#. type: Content of: <div><p>
+msgid "Here are the things he said:"
+msgstr "İşte Stallman'ın söyledikleri:"
+
+#. type: Content of: <div><blockquote><p>
+msgid "<i>&ldquo;My project is to make all software free.&rdquo;</i>"
+msgstr "<i>&ldquo;Projem, tüm yazılımları özgür kılmak.&rdquo;</i>"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"<i>&ldquo;Imagine if you bought a house and the basement was locked and only "
+"the original building contractor had the key. If you needed to make any "
+"change, repair anything, you'd have to go to him, and if he was too busy "
+"doing something else he'd tell you to get lost and you'd be stuck. You are "
+"at that person's mercy and you become downtrodden and resigned. That's what "
+"happens when the blueprints to a computer program are kept secret by the "
+"organization that sells it.  That's the usual way things are done.&rdquo;</"
+"i> <a href=\"//audio-video.gnu.org/video/rms-at-first-hackers-"
+"conference-1984.webm\"> Video</a>"
+msgstr ""
+"<i>&ldquo;Bir ev satın aldığınızı ve bodrum katının kilitli olduğunu ve "
+"anahtarın yalnızca orijinal müteahhitte olduğunu hayal edin. Herhangi bir "
+"değişiklik yapmanız, herhangi bir şeyi onarmanız gerekirse, ona gitmeniz "
+"gerekirdi ve başka bir şey yapmakla çok meşgulse, size kaybolmanızı söyler "
+"ve siz de çıkmaza girersiniz. O kişinin insafına kalırsınız ve ezilirsiniz, "
+"teslim olursunuz. Bir bilgisayar programının şablonları, onu satan kuruluş "
+"tarafından gizli tutulduğunda olan da budur. İşler genelde böyle yapılır."
+"&rdquo;</i> <a href=\"//audio-video.gnu.org/video/rms-at-first-hackers-"
+"conference-1984.webm\"> Video</a >"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"<i>&ldquo;If I'm offered a chance to use a piece of software provided I "
+"would agree not to share it with anyone, I feel that it would be wrong, it "
+"would spiritually&#8239;<a href=\"#Note1\" id=\"Note1-rev\">[1]</a> hurt me "
+"to agree. So I don't want them investing in software that's owned.  And I "
+"don't believe that anything is justified to encourage them to invest in "
+"software that's owned. I think the really great software has been done by "
+"hackers who were doing it because they loved it, because it was playful "
+"cleverness, and that will continue in any case. I think there are "
+"alternative ways of arranging for some amount of money to go into paying "
+"salaries of people, paying them to spend their time writing programs. If "
+"people want certain kinds of programs to be written, they can come up with "
+"other forms of organization&mdash;I can suggest a few&mdash;but the "
+"important thing is there are lots of alternative ways of doing things. This "
+"one has been chosen because it gets the people investing in software "
+"companies the most profits of any of the available ways.&rdquo;</i> <a "
+"href=\"https://web.archive.org/web/20161107235202/https://www.gettyimages."
+"com/detail/video/at-the-first-hackers-conference-in-1984-richard-stallman-"
+"news-footage/146485179\">Video</a>"
+msgstr ""
+"<i>&ldquo;Eğer bana bir yazılımı kullanma şansı verilirse, onu kimseyle "
+"paylaşmamayı kabul edersem, bunun yanlış olacağını düşünürüm, kabul etmem "
+"manevi olarak&#8239;<a href=\"#Note1 \" id=\"Note1-rev\">[1]</a> yaralar. Bu "
+"yüzden sahibi olan yazılıma yatırım yapmalarını istemiyorum. Ve onları "
+"sahibi olan yazılıma yatırım yapmaya teşvik edecek hiçbir şeyin haklı "
+"olduğuna inanmıyorum. Bence gerçekten harika yazılımlar, bunu sevdikleri "
+"için yapan üstadlar tarafından yapıldı, çünkü bu oyunbaz bir zekaydı ve bu "
+"her halükarda devam edecek. İnsanların maaşlarını ödemeleri için bir miktar "
+"para ayarlamanın, zamanlarını program yazmaya harcamaları için ödeme "
+"yapmanın alternatif yolları olduğunu düşünüyorum. İnsanlar belirli türden "
+"programların yazılmasını istiyorlarsa, başka organizasyon biçimleri "
+"bulabilirler&mdash;birkaç tane önerebilirim&mdash;ama önemli olan, bir "
+"şeyler yapmanın pek çok alternatif yolu olmasıdır. Mevcut yol, yazılım "
+"şirketlerine yatırım yapan kişilere mevcut yollardan en fazla kârı sağladığı "
+"için seçildi.&rdquo;</i> <a href=\"https://web.archive.org/"
+"web/20161107235202/https ://www.gettyimages.com/detail/video/at-the-first-"
+"hackers-conference-in-1984-richard-stallman-news-footage/146485179\">Video</"
+"a>"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"<i>&ldquo;I don't think it's a social imperative to give them the most "
+"possible profit. I think the social imperative is that information that's "
+"developed should be accessible to everyone as freely as possible. If we look "
+"at the principle underlying&mdash;the incentive principle, give people "
+"incentives to do the things you wish to encourage&mdash;and then we say, "
+"&lsquo;what are we giving people incentives for?&rsquo; we see that we are "
+"not giving them any incentives to do the things that benefit society most. "
+"If a person has a choice, he can write a program and then encourage everyone "
+"to use it in any way that's good for him or he can write the program and "
+"then market it hoarding the plans, telling people they are not allowed to "
+"share it with their neighbors, being very obnoxious and obstructive.  We see "
+"he has an incentive to be obnoxious and obstructive, he doesn't have an "
+"incentive to cooperate. I think that's sick, I think that's a bad social "
+"organization, because we are encouraging most what's not good for us.&rdquo;"
+"</i> <a href=\"https://web.archive.org/web/20161108001731/https://www."
+"gettyimages.com/detail/video/at-the-first-hackers-conference-in-1984-richard-"
+"stallman-news-footage/146484701\">Video</a>"
+msgstr ""
+"<i>&ldquo;Onlara mümkün olan en fazla kârı vermenin toplumsal bir zorunluluk "
+"olduğunu düşünmüyorum. Bence toplumsal zorunluluk, geliştirilen bilginin "
+"mümkün olduğu kadar özgürce herkes tarafından erişilebilir olması "
+"gerektiğidir. Teşvik ilkesinin altında yatan ilkeye bakarsak, teşvik etmek "
+"istediğiniz şeyleri yapmaları için insanları teşvik ediyor ve sonra &lsquo;"
+"insanları ne için teşvik ediyoruz?&rsquo; diyoruz, topluma en çok yarar "
+"sağlayan şeyleri yapmaları için onlara herhangi bir teşvik vermediğimizi "
+"görüyoruz. Bir kişinin seçme şansı varsa, bir program yazıp herkesi bu "
+"programı kendileri için iyi olan herhangi bir şekilde kullanmaya teşvik "
+"edebilir veya programı yazıp planları istifleyerek insanlara bunu "
+"komşularıyla paylaşmalarına izin verilmediğini söyleyerek pazarlayabilir, "
+"çok iğrenç ve engelleyici. İğrenç ve engelleyici olmak için bir güdüsü "
+"olduğunu görüyoruz, işbirliği yapmak için bir güdüsü yok. Bence bu iğrenç, "
+"bence bu kötü bir toplumsal organizasyon, çünkü çoğu zaman bizim için iyi "
+"olmayan şeyleri teşvik ediyoruz.&rdquo;</i> <a href=\"https://web.archive."
+"org/web/20161108001731/https ://www.gettyimages.com/detail/video/at-the-"
+"first-hackers-conference-in-1984-richard-stallman-news-"
+"footage/146484701\">Video</a>"
+
+#. type: Content of: <div><h3>
+msgid "Footnote"
+msgstr "Dipnot"
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"#Note1-rev\" id=\"Note1\">[1]</a> Subsequently Stallman decided to "
+"stop using the word &ldquo;spiritually,&rdquo; so that people would not "
+"think he meant to refer to anything supernatural."
+msgstr ""
+"<a href=\"#Note1-rev\" id=\"Note1\">[1]</a> Daha sonra Stallman, &ldquo;"
+"manevi olarak&rdquo; [spiritually] ifadesini kullanmayı bıraktı, böylece "
+"insanlar onun doğaüstü herhangi bir şeye atıfta bulunmak istediğini "
+"düşünmeyeceklerdi."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"Burada kullanılan hacker, üstat anlamındadır: teknik beceri sahibi, problem "
+"çözmeden zevk alan ve sınırları aşan kişiler, belirli bir konuda sahip "
+"olduğu bilgiyi kullanıp daha fazlasını öğrenmeye meraklı kişiler."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2022 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2022 Free Software Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>Mert Gör <a href=\"mailto:mertgor@masscollabs.xyz\">&lt;"
+"mertgor@masscollabs.xyz&gt;</a>, 2023.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
