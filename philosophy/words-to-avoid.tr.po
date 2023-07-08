@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-12 20:55+0000\n"
-"PO-Revision-Date: 2023-03-07 22:24+0100\n"
+"POT-Creation-Date: 2023-07-05 10:26+0000\n"
+"PO-Revision-Date: 2023-07-08 12:15+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Loco-Source-Locale: en_AT\n"
 "X-Loco-Parser: loco_parse_po\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -65,6 +65,13 @@ msgstr "&ldquo;<a href=\"#Access\">Erişim</a>&rdquo; |"
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Alternative\">Alternative</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Alternative\">Alternatif</a>&rdquo; |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
+msgid ""
+"&ldquo;<a href=\"#ArtificialIntelligence\">Artificial Intelligence</"
+"a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#ArtificialIntelligence\">Yapay Zekâ</a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
@@ -272,6 +279,13 @@ msgstr "&ldquo;<a href=\"#Photoshop\">Photoshop</a>&rdquo; |"
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Piracy\">Piracy</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Piracy\">Korsanlık</a>&rdquo; |"
+
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
+msgid "&ldquo;<a href=\"#Players\">Players (said of businesses)</a>&rdquo; |"
+msgstr ""
+"&ldquo;<a href=\"#Players\">Oyuncular (işletmeler hakkında söylenen)</"
+"a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
@@ -518,6 +532,108 @@ msgstr ""
 "alternatif olarak tanımlamak için bir neden vardır."
 
 #. type: Content of: <div><h3>
+msgid "&ldquo;Artificial Intelligence&rdquo;"
+msgstr "&ldquo;Yapay Zekâ&rdquo;"
+
+#. type: Content of: <div><p>
+msgid ""
+"The moral panic over ChatGPT has led to confusion because people often speak "
+"of it as &ldquo;artificial intelligence.&rdquo; Is ChatGPT an instance of "
+"artificial intelligence? Should we call it that? Following Professor Sussman "
+"of the MIT Artificial Intelligence Lab, I contend we should not."
+msgstr ""
+"ChatGPT üzerine yaşanan ahlaki panik, sıklıkla sanki o &ldquo;Yapay "
+"Zekâ&rdquo;ymış gibi insanların konuşma karmaşasına yol açtı. ChatGPT bir "
+"yapay zekâ örneği mi? Öyle adlandırmalıyız? MIT Yapay Zekâ laboratuvarından "
+"Profesör Sussman'ı takip ederek, öyle adlandırmamamız gerektiğini öne "
+"sürüyorum."
+
+#. type: Content of: <div><p>
+msgid ""
+"Normally, &ldquo;intelligence&rdquo; means having knowledge and "
+"understanding, at least about some kinds of things.  A true artificial "
+"intelligence should have some knowledge and understanding.  General "
+"artificial intelligence would be able to know and understand about all sorts "
+"of things; that does not exist, but we do have systems of limited artificial "
+"intelligence which can know and understand in certain limited fields."
+msgstr ""
+"Normalde, &ldquo;zekâ&rdquo;, en azından bazı şeyler hakkında bilgi ve "
+"kavrayışa sahip olma anlamına gelir. Hakiki bir Yapay Zekâ biraz bilgi ve "
+"kavrayışa sahip olmalıdır. Genel yapay zekâ her tür şeyi bilebilecek ve "
+"kavrayabilecektir; bu mevcut değil, ancak bazı sınırlı alanlarda bilen ve "
+"kavrayabilen sınırlı yapay zekâ sistemlerine sahibiz."
+
+#. type: Content of: <div><p>
+msgid ""
+"By contrast, ChatGPT knows nothing and understands nothing.  Its output is "
+"nothing more than smooth babbling.  Anything it states or implies about "
+"reality is fabrication (unless &ldquo;fabrication&rdquo; implies more "
+"knowledge than that system really has).  Seeking correct answers to any real "
+"question in ChatGPT output is utter folly, as many have discovered."
+msgstr ""
+"Buna karşın, ChatGPT hiç bir şey bilmiyor ve hiç bir şey anlamıyor. Çıktısı "
+"pürüzsüz gevezelikten başka bir şey değil. Gerçeklik üzerine söylediği veya "
+"kastettiği herhangi bir şey uydurmadır (eğer &ldquo;uydurma&rdquo; sistemin "
+"gerçekte olduğundan daha fazla bilgi kastetmiyorsa). ChatGPT çıktısında "
+"herhangi bir gerçek soruya doğru yanıtları aramak, birçok kişinin de "
+"keşfettiği üzere, tam bir akılsızlıktır."
+
+#. type: Content of: <div><p>
+msgid ""
+"We can refer to ChatGPT and such like as generative neural network systems, "
+"because that's how they work.  They train neural networks to recognize "
+"patterns, and then generate output by following them."
+msgstr ""
+"ChatGPT ve benzerlene üretici yapay sinir ağı sistemi olarak işaret "
+"edebiliriz, çünkü bu şekilde çalışıyorlar. Desenleri tanımak için sinir "
+"ağları eğitiyorlar ve daha sonra onları izleyerek çıktı üretiyorlar."
+
+#. type: Content of: <div><p>
+msgid ""
+"There are systems which use neural networks to learn to recognize specific "
+"important patterns in data.  Their output can reflect real knowledge&mdash;"
+"for instance, whether an image of tissue shows a certain medical condition.  "
+"Scientists validate the output by comparing the system's judgment against "
+"experimental tests.  That justifies referring to these systems as &ldquo;"
+"artificial intelligence.&rdquo; Likewise the systems that antisocial media "
+"use to decide what to show or recommend to a user, since the companies "
+"validate that they actually &ldquo;work&rdquo; in the sense of increasing "
+"&ldquo;user engagement,&rdquo; even though that manipulation of users may be "
+"harmful <em>to them and society as a whole</em>."
+msgstr ""
+"Veride belirli önemli desenleri tanımayı öğrenen sinir ağları kullanan "
+"sistemler var. Çıktıları hakiki bilgiyi yansıtabilir, örneğin bir doku "
+"görüntüsü belirli bir sağlık durumunu gösteriyor mu göstermiyor mu gibi. "
+"Bilim insanları, sistemin deneysel sınamalara karşı yargısını "
+"karşılaştırarak çıktılarını doğruluyorlar. Bu da bu sistemleri &ldquo;yapay "
+"zekâ&rdquo; olarak adlandırmayı haklı çıkarıyor. Aynı şekilde antisosyal "
+"medynın kullanıcıya ne gösterip göstermeyeceğine karar veren sistemler de "
+"öyle, ne de olsa şirketler bunların gerçekten &ldquo;çalıştığını&rdquo;, "
+"artan &ldquo;kullanıcı etkileşimi&rdquo; anlamında doğruluyor, her ne kadar "
+"kullanıcıların manipülasyonu <em>hem kullanıcılara hem de bir bütün olarak "
+"topluma</em> zararlı olsa da."
+
+#. type: Content of: <div><p>
+msgid ""
+"Businesses and governments use similar systems to evaluate how to deal with "
+"potential clients or people accused of various things.  These evaluation "
+"results are often validated carelessly and the result can be systematic "
+"injustice.  But since it purports to understand, it qualifies at least as "
+"attempted artificial intelligence.  Artificial intelligence can be broken, "
+"or systematically biased, or work badly, just as natural intelligence can "
+"be.  Here we are concerned with whether the term fits specific instances, "
+"not with whether it does good."
+msgstr ""
+"İşletmeler ve hükümetler benzeri sistemleri olası müşteriler ve belirli "
+"şeylerle suçlanan insanlarla nasıl ilgilenebileceğini değerlendirmek için de "
+"kullanıyorlar. Bu değerlendirme sonuçları dikkatsizce doğrulanıyor ve sonuç "
+"sistemli adaletsizlik olabiliyor. Ancak anlama mefhumuna sahip olduğu için, "
+"en azından yapay zekâ çabası olarak nitelenebilirler. Yapay zekâ bozuk "
+"olabilir veya sistematik olarak yanlı olabilir veya kötü çalışabilir, tıpkı "
+"doğal zekâ gibi. Burada terimin belirli örneklere uyup uymadığına bakıyoruz, "
+"iyi olup olmadığına değil."
+
+#. type: Content of: <div><h3>
 msgid "&ldquo;Assets&rdquo;"
 msgstr "&ldquo;Varlıklar&rdquo;"
 
@@ -525,13 +641,13 @@ msgstr "&ldquo;Varlıklar&rdquo;"
 msgid ""
 "To refer to published works as &ldquo;assets,&rdquo; or &ldquo;digital "
 "assets,&rdquo; is even worse than calling them <a href=\"#Content\">&ldquo;"
-"content&rdquo;</a>&mdash;it presumes they have no value to society except "
+"content&rdquo;</a>&mdash;it dismisses their value to society aside from "
 "commercial value."
 msgstr ""
 "Yayınlanmış çalışmalardan &ldquo;varlıklar&rdquo; veya &ldquo;dijital "
 "varlıklar&rdquo; olarak söz etmenin, onlardan <a href=\"#Content\">&ldquo;"
 "içerik&rdquo;</a> olarak söz etmekten daha da kötü olduğunu düşünüyoruz. "
-"Çünkü, çalışmaların ticari değeri dışında toplumsal bir değere sahip "
+"Çünkü, çalışmaların ticari değeri dışındaki toplumsal değerini  sahip "
 "olmadıklarını varsayıyor."
 
 #. type: Content of: <div><h3>
@@ -2110,6 +2226,43 @@ msgstr ""
 "sadece, özel mülk olduğu için kaçınılması gereken bir görüntü düzenleme "
 "programının ismidir. Örneğin <a href=\"https://www.gimp.org/\">GIMP</a> gibi "
 "bir çok özgür alternatifi vardır."
+
+#. type: Content of: <div><h3>
+msgid "&ldquo;Players&rdquo; (said of businesses)"
+msgstr "&ldquo;Oyuncular&rdquo; (işletmeler hakkında söylenen)"
+
+#. type: Content of: <div><p>
+msgid ""
+"To describe businesses as &ldquo;players&rdquo; presumes that they are "
+"motivated purely and simply by &ldquo;winning&rdquo; what they treat as a "
+"poker-like game&mdash;in effect, subordinating all else to profit.  Often "
+"businesses (and their executives) do act that way, but not always, and we "
+"often pressure them to respect other values as well."
+msgstr ""
+"İşletmeleri &ldquo;oyuncular&rdquo; olarak tanımlamak, tamamen ve sadece "
+"&ldquo;kazanmakla&rdquo; güdülendikleri varsayımında bulunmaktır, pokervari "
+"bir oyundaymışçasına davrandıkları şey aslında tüm diğer herşeyi kâra tabi "
+"kılmalarıdır. Çoğunlukla işletmeler (ve yöneticileri) bu şekilde davranırlar "
+"ama her zaman değil ve biz de onlara başka değerlere de saygı duymaları "
+"yönünde baskı uygularız."
+
+#. type: Content of: <div><p>
+msgid ""
+"The moral cynicism of &ldquo;players&rdquo; resonates with a general "
+"condemnation of business, which to some extent business in general deserves; "
+"at the same time, it tends to dissuade the attempt to judge any business's "
+"acts or practices in moral terms.  Even to raise the question of whether a "
+"certain business treats people unjustly is dissuaded by the &ldquo;"
+"players&rdquo; metaphor's murmuring, in the background, &ldquo;Why bother "
+"asking?&rdquo; I suggest avoiding that metaphor."
+msgstr ""
+"&ldquo;Oyuncular&rdquo; şeklinde ahlaki sinizm, genel olarak şirketlerin "
+"belli bir dereceye kadar hak ettiği şirketlere yönelik genel kınamayla dolu "
+"olsa da, aynı zamanda herhangi bir işletmenin eylem ve uygulamalarını ahlaki "
+"koşullarla yargılama çabalarından caydırma eğilimi gösterir. Hatta belli bir "
+"işletmenin insanlara adaletsiz davranıp davranmadığı sorusundan da, &ldquo;"
+"oyuncular&rdquo; mecazının arka planındaki &ldquo;sormaya ne gerek "
+"var&rdquo;? mırıltısıyla vazgeçiliyor. Bu mecazdan kaçınılmasını öneriyorum."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Piracy&rdquo;"
