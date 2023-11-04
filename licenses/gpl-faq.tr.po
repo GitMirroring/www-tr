@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-faq.html\n"
-"POT-Creation-Date: 2023-03-01 18:25+0000\n"
+"POT-Creation-Date: 2023-11-03 05:26+0000\n"
 "PO-Revision-Date: 2023-03-07 06:10+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -1169,17 +1169,6 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"#WillYouMakeAnException\">Using a certain GNU program under the "
-"GPL does not fit our project to make proprietary software.  Will you make an "
-"exception for us? It would mean more users of that program.</a>"
-msgstr ""
-"<a href=\"#WillYouMakeAnException\">GPL altında belli bir GNU programını "
-"kullanmak, özel mülk yapma projemize uymuyor. Bizim için istisna yapar "
-"mısın? Bu, bu programın daha fazla kullanıcısı olacağı anlamına gelecektir.</"
-"a>"
-
-#. type: Content of: <div><ul><li>
-msgid ""
 "<a href=\"#IfInterpreterIsGPL\">If a programming language interpreter is "
 "released under the GPL, does that mean programs written to be interpreted by "
 "it must be under GPL-compatible licenses?</a>"
@@ -1239,6 +1228,17 @@ msgid ""
 msgstr ""
 "<a href=\"#NFUseGPLPlugins\">GPL kapsamındaki bir eklentiyi yüklemek için "
 "tasarlanmış özgür olmayan bir program yayımlayabilir miyim?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#WillYouMakeAnException\">Using a certain GNU program under the "
+"GPL does not fit our project to make proprietary software.  Will you make an "
+"exception for us? It would mean more users of that program.</a>"
+msgstr ""
+"<a href=\"#WillYouMakeAnException\">GPL altında belli bir GNU programını "
+"kullanmak, özel mülk yapma projemize uymuyor. Bizim için istisna yapar "
+"mısın? Bu, bu programın daha fazla kullanıcısı olacağı anlamına gelecektir.</"
+"a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -4449,6 +4449,55 @@ msgstr ""
 
 #. type: Content of: <dl><dt>
 msgid ""
+"Using a certain GNU program under the GPL does not fit our project to make "
+"proprietary software.  Will you make an exception for us? It would mean more "
+"users of that program.  <span class=\"anchor-reference-id\">(<a href="
+"\"#WillYouMakeAnException\" >#WillYouMakeAnException</a>)</span>"
+msgstr ""
+"GPL altında belli bir GNU programını kullanmak, özel mülk yapma projemize "
+"uymuyor. Bizim için istisna yapar mısın? Bu, bu programın daha fazla "
+"kullanıcısı olacağı anlamına gelecekti. <span class=\"anchor-reference-id\">"
+"(<a href=\"#WillYouMakeAnException\">#WillYouMakeAnException</a>)</span>"
+
+#. type: Content of: <dl><dd><p>
+msgid "Sorry, we don't make such exceptions.  It would not be right."
+msgstr "Özür dileriz, bu gibi istisnalar yapmıyoruz. Doğru olmaz."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"Maximizing the number of users is not our aim.  Rather, we are trying to "
+"give the crucial freedoms to as many users as possible.  In general, "
+"proprietary software projects hinder rather than help the cause of freedom."
+msgstr ""
+"Kullanıcı sayısını en üst düzeye çıkarmak hedefimiz değil. Aslında mümkün "
+"olduğunca çok kullanıcıya çok önemli özgürlükler vermeye çalışıyoruz. Genel "
+"olarak özel mülk yazılım projeleri, özgürlük mücadelesine yardım etmek "
+"yerine engel olur."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"We do occasionally make license exceptions to assist a project which is "
+"producing free software under a license other than the GPL.  However, we "
+"have to see a good reason why this will advance the cause of free software."
+msgstr ""
+"GPL dışındaki bir lisans altında özgür yazılım üreten bir projeye yardımcı "
+"olmak için ara sıra lisans istisnaları yaparız. Ancak bunun özgür yazılım "
+"mücadelesini ilerletmesi için iyi bir neden görmeliyiz."
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"We also do sometimes change the distribution terms of a package, when that "
+"seems clearly the right way to serve the cause of free software; but we are "
+"very cautious about this, so you will have to show us very convincing "
+"reasons."
+msgstr ""
+"Ayrıca özgür yazılım mücadelesine hizmet etmek için doğru bir yol olduğu "
+"açıkça görüldüğünde ara sıra bir paketin dağıtım koşullarını değiştiririz; "
+"ancak bu konuda çok dikkatliyiz, bu yüzden bize çok ikna edici nedenler "
+"göstermeniz gerekecektir."
+
+#. type: Content of: <dl><dt>
+msgid ""
 "I'd like to incorporate GPL-covered software in my proprietary system.  Can "
 "I do this by putting a &ldquo;wrapper&rdquo; module, under a GPL-compatible "
 "lax permissive license (such as the X11 license) in between the GPL-covered "
@@ -5180,55 +5229,6 @@ msgstr ""
 "Bu nedenle her kütüphane için hangi lisansın kullanılacağına her bir duruma "
 "bakarak karar veriyoruz. Sorunu nasıl yargıladığımıza ilişkin <a href=\"/"
 "licenses/why-not-lgpl.html\">uzun bir açıklama</a> var."
-
-#. type: Content of: <dl><dt>
-msgid ""
-"Using a certain GNU program under the GPL does not fit our project to make "
-"proprietary software.  Will you make an exception for us? It would mean more "
-"users of that program.  <span class=\"anchor-reference-id\">(<a href="
-"\"#WillYouMakeAnException\" >#WillYouMakeAnException</a>)</span>"
-msgstr ""
-"GPL altında belli bir GNU programını kullanmak, özel mülk yapma projemize "
-"uymuyor. Bizim için istisna yapar mısın? Bu, bu programın daha fazla "
-"kullanıcısı olacağı anlamına gelecekti. <span class=\"anchor-reference-id\">"
-"(<a href=\"#WillYouMakeAnException\">#WillYouMakeAnException</a>)</span>"
-
-#. type: Content of: <dl><dd><p>
-msgid "Sorry, we don't make such exceptions.  It would not be right."
-msgstr "Özür dileriz, bu gibi istisnalar yapmıyoruz. Doğru olmaz."
-
-#. type: Content of: <dl><dd><p>
-msgid ""
-"Maximizing the number of users is not our aim.  Rather, we are trying to "
-"give the crucial freedoms to as many users as possible.  In general, "
-"proprietary software projects hinder rather than help the cause of freedom."
-msgstr ""
-"Kullanıcı sayısını en üst düzeye çıkarmak hedefimiz değil. Aslında mümkün "
-"olduğunca çok kullanıcıya çok önemli özgürlükler vermeye çalışıyoruz. Genel "
-"olarak özel mülk yazılım projeleri, özgürlük mücadelesine yardım etmek "
-"yerine engel olur."
-
-#. type: Content of: <dl><dd><p>
-msgid ""
-"We do occasionally make license exceptions to assist a project which is "
-"producing free software under a license other than the GPL.  However, we "
-"have to see a good reason why this will advance the cause of free software."
-msgstr ""
-"GPL dışındaki bir lisans altında özgür yazılım üreten bir projeye yardımcı "
-"olmak için ara sıra lisans istisnaları yaparız. Ancak bunun özgür yazılım "
-"mücadelesini ilerletmesi için iyi bir neden görmeliyiz."
-
-#. type: Content of: <dl><dd><p>
-msgid ""
-"We also do sometimes change the distribution terms of a package, when that "
-"seems clearly the right way to serve the cause of free software; but we are "
-"very cautious about this, so you will have to show us very convincing "
-"reasons."
-msgstr ""
-"Ayrıca özgür yazılım mücadelesine hizmet etmek için doğru bir yol olduğu "
-"açıkça görüldüğünde ara sıra bir paketin dağıtım koşullarını değiştiririz; "
-"ancak bu konuda çok dikkatliyiz, bu yüzden bize çok ikna edici nedenler "
-"göstermeniz gerekecektir."
 
 #. type: Content of: <dl><dt>
 msgid ""
