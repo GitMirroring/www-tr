@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: help.html\n"
-"POT-Creation-Date: 2022-05-14 15:25+0000\n"
-"PO-Revision-Date: 2022-05-15 10:24+0200\n"
+"POT-Creation-Date: 2023-11-21 11:26+0000\n"
+"PO-Revision-Date: 2023-12-02 10:18+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -74,6 +74,12 @@ msgstr ""
 "<a href=\"#develop\">GNU işletim sisteminin geliştirilmesine yardım edin</a>"
 
 #. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#smallprograms\">Important new small-to-medium programs needed</a>"
+msgstr ""
+"<a href=\"#smallprograms\">Gerekli önemli yeni küçük-orta programlar</a>"
+
+#. type: Content of: <div><ul><li>
 msgid "<a href=\"#helpgnu\">Help support GNU development and use</a>"
 msgstr ""
 "<a href=\"#helpgnu\">GNU geliştirimini ve kullanımını desteklemeye yardım "
@@ -109,6 +115,20 @@ msgid ""
 msgstr ""
 "GNU yazılımı için özgür <a href=\"/philosophy/free-doc.html\">kılavuzlar ve "
 "başka belgeler</a> yazın."
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"Volunteer to convert documentation from various formats to the <a href=\"/"
+"software/texinfo/texinfo.html\">Texinfo</a> format. This is something we "
+"need occasionally. We would like to have a list of people we could ask on "
+"these occasions. If you want to volunteer, please send mail to <a href="
+"\"mailto:gvc@gnu.org\">&lt;gvc@gnu.org&gt;</a>."
+msgstr ""
+"Çeşitli biçimleri <a href=\"/software/texinfo/texinfo.html\">Texinfo</a> "
+"biçimine dönüştürmek için gönüllü olun. Bu arada sırada ihtiyaç duyduğumuz "
+"bir şey. Bu durumlarda ulaşabileceğimiz bir kişi listesine sahip olmak "
+"istiyoruz. Gönüllü olmak istiyorsanız, lütfen <a href=\"mailto:gvc@gnu.org"
+"\">&lt;gvc@gnu.org&gt;</a> adresine bir e-posta gönderin."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -168,11 +188,13 @@ msgstr ""
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"Improve <a href=\"/accessibility/accessibility.html\">accessibility of free "
-"software</a>."
+"Improve <a href=\"/accessibility/accessibility.html\">accessibility</a> of "
+"free software and web pages to meet the needs of all users regardless of "
+"disability."
 msgstr ""
-"<a href=\"/accessibility/accessibility.html\">Özgür yazılımın "
-"erişilebilirliğini</a> iyileştirin."
+"Özgür yazılım ve web sayfalarının <a href=\"/accessibility/accessibility.html"
+"\">erişilebilirliğini</a>,  engellilikleri ne olursa olsun tüm "
+"kullanıcıların ihtiyaçlarını karşılayacak şekilde iyileştirin."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -184,15 +206,6 @@ msgstr ""
 "GNU'ya bağışlayın. <a href=\"/philosophy/university.html\">Üniversiteyi onu "
 "nasıl özgür yazılım olarak yayımlamanıza izin verecek hâle "
 "getirebileceğinizi</a> görün."
-
-#. type: Content of: <div><p>
-msgid ""
-"If you want to volunteer to work on GNU software, see <a href=\"/software/"
-"tasklist/howto-volunteer.html\"> how to volunteer</a>."
-msgstr ""
-"GNU yazılımı üzerinde çalışmak için gönüllü olmak istiyorsanız <a href=\"/"
-"software/tasklist/howto-volunteer.html\">nasıl gönüllü olabileceğinize</a> "
-"bakın."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -241,7 +254,7 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "The GNU Volunteer Coordinators <a href=\"mailto:gvc@gnu.org\">&lt;gvc@gnu."
-"org&gt;</a> can assist you if you would like to help development GNU "
+"org&gt;</a> can assist you if you would like to help developing GNU "
 "software. They will be able to put you in touch with other people interested "
 "in or working on similar projects. When you have selected a task from our "
 "task lists, please let them know you're interested in working on it."
@@ -387,14 +400,6 @@ msgstr ""
 #. type: Content of: <div><ul><li>
 msgid "Donate <a href=\"/help/help-hardware.html\">hardware</a> to the FSF."
 msgstr "FSF'ye <a href=\"/help/help-hardware.html\">donanım</a> bağışlayın."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"Take on one of the <a href=\"/server/tasks.html\">jobs</a> we need done for "
-"this <a href=\"/server/server.html\">web server</a>."
-msgstr ""
-"Bu <a href=\"/server/server.html\">web sunucusu</a> için yapmamız gereken <a "
-"href=\"/server/tasks.html\">işlerden</a> birini yapın."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -649,8 +654,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1996-2008, 2013-2022 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1996-2008, 2013-2022 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1996-2008, 2013-2023 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1996-2008, 2013-2023 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -676,6 +681,21 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "If you want to volunteer to work on GNU software, see <a href=\"/software/"
+#~ "tasklist/howto-volunteer.html\"> how to volunteer</a>."
+#~ msgstr ""
+#~ "GNU yazılımı üzerinde çalışmak için gönüllü olmak istiyorsanız <a href=\"/"
+#~ "software/tasklist/howto-volunteer.html\">nasıl gönüllü olabileceğinize</"
+#~ "a> bakın."
+
+#~ msgid ""
+#~ "Take on one of the <a href=\"/server/tasks.html\">jobs</a> we need done "
+#~ "for this <a href=\"/server/server.html\">web server</a>."
+#~ msgstr ""
+#~ "Bu <a href=\"/server/server.html\">web sunucusu</a> için yapmamız gereken "
+#~ "<a href=\"/server/tasks.html\">işlerden</a> birini yapın."
 
 #~ msgid ""
 #~ "Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, "

@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: first-hackers-conference-1984.html\n"
-"POT-Creation-Date: 2022-06-27 10:26+0000\n"
-"PO-Revision-Date: 2023-06-08 08:40+0200\n"
+"POT-Creation-Date: 2023-11-21 16:26+0000\n"
+"PO-Revision-Date: 2023-11-26 09:43+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -189,14 +189,19 @@ msgstr "Dipnot"
 
 #. type: Content of: <div><p>
 msgid ""
-"<a href=\"#Note1-rev\" id=\"Note1\">[1]</a> Subsequently Stallman decided to "
-"stop using the word &ldquo;spiritually,&rdquo; so that people would not "
-"think he meant to refer to anything supernatural."
+"<a href=\"#Note1-rev\" id=\"Note1\">[1]</a> Stallman was referring to the "
+"tendency for your choices to affect your subsequent ways of thinking and "
+"deciding&mdash;that they train your mind to give increased heed or decreased "
+"heed to your conscience.  Subsequently Stallman decided to stop using the "
+"word &ldquo;spiritually&rdquo; to refer to this, so that people would not "
+"think he meant anything supernatural."
 msgstr ""
-"<a href=\"#Note1-rev\" id=\"Note1\">[1]</a> Daha sonra Stallman, &ldquo;"
-"manevi olarak&rdquo; [spiritually] ifadesini kullanmayı bıraktı, böylece "
-"insanlar onun doğaüstü herhangi bir şeye atıfta bulunmak istediğini "
-"düşünmeyeceklerdi."
+"<a href=\"#Note1-rev\" id=\"Note1\">[1]</a> Stallman tercihlerinizin daha "
+"sonraki düşünme ve karar verme yollarını etkileme eğilimini "
+"kastediyordu&mdash;bilincinizi daha fazla veya daha az önemseyecek şekilde "
+"aklınızı eğitiyorlar. Daha sonra Stallman bunu kastetmek için &ldquo;manevi "
+"olarak&rdquo; [spiritually] ifadesini kullanmayı bıraktı, böylece insanlar "
+"onun doğaüstü herhangi bir şeye atıfta bulunmak istediğini düşünmeyeceklerdi."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -248,8 +253,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2022 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2022 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2022, 2023 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2022, 2023 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

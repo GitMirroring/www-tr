@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2023-11-14 00:55+0000\n"
-"PO-Revision-Date: 2023-09-12 06:36+0200\n"
+"POT-Creation-Date: 2023-11-26 10:55+0000\n"
+"PO-Revision-Date: 2023-12-02 10:12+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4\n"
 
 #. type: Content of: <title>
 msgid "The GNU Operating System and the Free Software Movement"
@@ -498,6 +498,14 @@ msgstr "&mdash;Benjamin Franklin"
 
 #. type: Content of: <div><div><div><p>
 msgid ""
+"This year, choose Freedom as a gift. <strong><a href=\"https://www.fsf.org/"
+"givingguide/v14/\"> Ethical Tech Giving Guide</a></strong>"
+msgstr ""
+"Bu yıl hediye olarak Özgürlüğü seçin. <strong><a href=\"https://www.fsf.org/"
+"givingguide/v14/\"> Etik Teknoloji Hediye Rehberi</a></strong>"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
 "The GNU Project strongly urges the community to communicate in ways that are "
 "friendly, welcoming and kind. See the <a href=\"/philosophy/kind-"
 "communication.html\"> GNU Kind Communications Guidelines</a>."
@@ -745,13 +753,6 @@ msgstr "Son Güncelleme:"
 
 #~ msgid "40th GNU Anniversary Hacker Meeting"
 #~ msgstr "40. GNU Yıl Dönümü Hacker Buluşması"
-
-#~ msgid ""
-#~ "This year, choose Freedom as a gift. <strong><a href=\"https://www.fsf."
-#~ "org/givingguide/v13/\"> Ethical Tech Giving Guide</a></strong>"
-#~ msgstr ""
-#~ "Bu yıl hediye olarak Özgürlüğü seçin. <strong><a href=\"https://www.fsf."
-#~ "org/givingguide/v13/\"> Etik Teknoloji Hediye Rehberi</a></strong>"
 
 #~ msgid ""
 #~ "<strong>GNU and FSF move official IRC channels to Libera.Chat network.  "
