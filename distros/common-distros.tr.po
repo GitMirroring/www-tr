@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: common-distros.html\n"
-"POT-Creation-Date: 2023-11-21 13:56+0000\n"
-"PO-Revision-Date: 2023-11-26 09:10+0100\n"
+"POT-Creation-Date: 2024-01-06 03:25+0000\n"
+"PO-Revision-Date: 2024-01-13 07:23+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -131,8 +131,8 @@ msgstr ""
 "üzerinden dağıtmama konusunda da bir politikaya sahip değildir."
 
 #. type: Content of: <div><h3>
-msgid "Canaima"
-msgstr "Canaima"
+msgid "Canaima GNU/Linux"
+msgstr "Canaima GNU/Linux"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -240,18 +240,16 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"It is no longer easy to install only the free packages of Debian.  In "
-"effect, Debian has become more like the other nonfree distros.  While Debian "
-"does provide options at boot time to avoid nonfree firmware, that does not "
-"change our conclusion. See <a href=\"/distros/optionally-free-not-enough.html"
-"\"> Optionally Free Is Not Enough</a>."
+"It is no longer easy to install only the free packages of Debian.  There are "
+"ways to request this, but they require specific knowledge.  See <a href=\"/"
+"distros/optionally-free-not-enough.html\"> Optionally Free Is Not Enough</"
+"a>.  In effect, Debian has become more like the other nonfree distros."
 msgstr ""
-"Artık Debian'ın sadece özgür paketlerini kurmak o kadar da kolay değil. "
-"Aslında Debian da diğer özgür olmayan dağıtımlar gibi oldu. Her ne kadar "
-"Debian bilgisayar başlarken özgür olmayan aygıt yazılımlarından kaçınma "
-"imkanı verse de, bu kararımızı değiştirmiyor.  <a href=\"/distros/optionally-"
-"free-not-enough.html\">İsteğe bağlı özgürlük yeterli değildir</a> yazısına "
-"bakın."
+"Artık Debian'ın sadece özgür paketlerini kurmak o kadar da kolay değil. Bunu "
+"yapmanın çeşitli yolları var ama belirli bir bilgi gerektiriyor. <a href=\"/"
+"distros/optionally-free-not-enough.html\">İsteğe bağlı özgürlük yeterli "
+"değildir</a> yazısına bakın. Aslında Debian da diğer özgür olmayan "
+"dağıtımlar gibi oldu."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -691,12 +689,12 @@ msgstr ""
 "değiştirilmiş bir sürümüdür."
 
 #. type: Content of: <div><h3>
-msgid "Graphene OS"
-msgstr "Graphene OS"
+msgid "GrapheneOS"
+msgstr "GrapheneOS"
 
 #. type: Content of: <div><p>
 msgid ""
-"Graphene OS is a version of Android which is described as &ldquo;open source,"
+"GrapheneOS is a version of Android which is described as &ldquo;open source,"
 "&rdquo; but it seems to include software that <a href=\"/philosophy/open-"
 "source-misses-the-point.html\"> isn't free software or even &ldquo;open "
 "source&rdquo;</a>.  For instance, it comes with firmware programs for "
@@ -704,7 +702,7 @@ msgid ""
 "source code.  It is said to be &ldquo;de-Googled,&rdquo; but includes a way "
 "to download and install the nonfree Google Play program."
 msgstr ""
-"Graphene OS, &ldquo;açık kaynak&rdquo; olarak tanımlanan bir Android "
+"GrapheneOS, &ldquo;açık kaynak&rdquo; olarak tanımlanan bir Android "
 "sürümüdür, ancak <a href=\"/philosophy/open-source-misses-the-point.html"
 "\">özgür yazılım ve hatta &ldquo;açık kaynak&rdquo; olmayan</a> yazılım "
 "içeriyor gibi gözüküyor. Örneğin, kurulmak üzere aygıt yazılımı "
@@ -801,9 +799,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2009-2019, 2021, 2022, 2023 Free Software Foundation, Inc."
+"Copyright &copy; 2009-2019, 2021, 2022, 2023, 2024 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 2009-2019, 2021, 2022, 2023 Free Software Foundation, Inc."
+"Copyright &copy; 2009-2019, 2021, 2022, 2023, 2024 Free Software Foundation, "
+"Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -829,6 +829,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "Canaima"
+#~ msgstr "Canaima"
 
 #~ msgid ""
 #~ "It is no longer easy to install only the free packages of Debian.  In "

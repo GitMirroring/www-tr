@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2023-05-20 08:56+0000\n"
+"POT-Creation-Date: 2024-01-01 05:26+0000\n"
 "PO-Revision-Date: 2023-05-23 06:29+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -1452,10 +1452,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023 Free Software "
+"Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023, 2024 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023 Free Software "
+"Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023, 2024 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -1489,6 +1489,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023 Free Software "
+#~ "Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023 Free Software "
+#~ "Foundation, Inc."
 
 #~ msgid "Open Source?"
 #~ msgstr "Açık Kaynak?"

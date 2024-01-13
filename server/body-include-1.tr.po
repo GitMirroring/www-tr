@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2023-11-14 06:26+0000\n"
-"PO-Revision-Date: 2023-11-14 21:15+0100\n"
+"POT-Creation-Date: 2024-01-02 17:56+0000\n"
+"PO-Revision-Date: 2024-01-13 07:50+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -27,11 +27,11 @@ msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
 #. #echo encoding='none' var='fr_link' 
 #. type: Content of: <div><div><p>
 msgid ""
-"<b>Invest in the future: Donate by Dec 31</b> to fuel our advocacy for free "
-"software in education!"
+"<b>Boost free software education:</b> Donate to help us reach our stretch "
+"goal!"
 msgstr ""
-"<b>Geleceğe yatırım yapın: 31 Aralık'a kadar bağış yapın</b>, eğitimde özgür "
-"yazılımı savunmamızı destekleyin!"
+"<b>Özgür yazılım eğitimini destekle:</b> Büyümüş hedefimize ulaşmamış için "
+"bize bağış yapın!"
 
 #. #echo encoding='none'
 #.      var='fr_link' 
@@ -41,8 +41,8 @@ msgstr "Şimdi&nbsp;Bağış&nbsp;Yapın"
 
 #. #if expr="yes != $hide_goal" 
 #. type: Content of: <div><div><div>
-msgid "<span class=\"goal\">$375,000</span>"
-msgstr "<span class=\"goal\">$375.000</span>"
+msgid "<span class=\"goal\">$425,000</span>"
+msgstr "<span class=\"goal\">$425,000</span>"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
@@ -83,6 +83,13 @@ msgstr "<a href=\"#language-container\">"
 #. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid "&nbsp;[Other languages]&nbsp;"
 msgstr "&nbsp;[Diğer diller]&nbsp;"
+
+#~ msgid ""
+#~ "<b>Invest in the future: Donate by Dec 31</b> to fuel our advocacy for "
+#~ "free software in education!"
+#~ msgstr ""
+#~ "<b>Geleceğe yatırım yapın: 31 Aralık'a kadar bağış yapın</b>, eğitimde "
+#~ "özgür yazılımı savunmamızı destekleyin!"
 
 #~ msgid ""
 #~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"

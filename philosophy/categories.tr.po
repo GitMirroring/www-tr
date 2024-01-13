@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: categories.html\n"
-"POT-Creation-Date: 2023-01-31 09:25+0000\n"
+"POT-Creation-Date: 2024-01-01 05:25+0000\n"
 "PO-Revision-Date: 2023-02-09 18:33+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -889,10 +889,10 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Copyright &copy; 1996-1998, 2001-2005, 2007, 2009-2012, 2015, 2019, 2022, "
-"2023 Free Software Foundation, Inc."
+"2023, 2024 Free Software Foundation, Inc."
 msgstr ""
 "Copyright &copy; 1996-1998, 2001-2005, 2007, 2009-2012, 2015, 2019, 2022, "
-"2023 Free Software Foundation, Inc."
+"2023, 2024 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -929,6 +929,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Copyright &copy; 1996-1998, 2001-2005, 2007, 2009-2012, 2015, 2019, 2022, "
+#~ "2023 Free Software Foundation, Inc."
+#~ msgstr ""
+#~ "Copyright &copy; 1996-1998, 2001-2005, 2007, 2009-2012, 2015, 2019, 2022, "
+#~ "2023 Free Software Foundation, Inc."
 
 #~ msgid ""
 #~ "A private program is free software in a trivial sense if its unique user "

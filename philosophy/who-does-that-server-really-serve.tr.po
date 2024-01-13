@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: who-does-that-server-really-serve.html\n"
-"POT-Creation-Date: 2023-11-09 19:25+0000\n"
+"POT-Creation-Date: 2024-01-01 05:26+0000\n"
 "PO-Revision-Date: 2023-11-14 21:09+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -1132,11 +1132,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2023 Richard "
-"Stallman"
+"Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2023, 2024 "
+"Richard Stallman"
 msgstr ""
-"Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2023 Richard "
-"Stallman"
+"Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2023, 2024 "
+"Richard Stallman"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1162,6 +1162,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2023 Richard "
+#~ "Stallman"
+#~ msgstr ""
+#~ "Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2023 Richard "
+#~ "Stallman"
 
 #~ msgid "See also:"
 #~ msgstr "Ayrıca Bkz:"
