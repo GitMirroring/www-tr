@@ -74,11 +74,11 @@ msgstr ""
 
 #. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-incompatibility."
-"html#content\">Incompatibility</a>"
+"<a href=\"/proprietary/proprietary-incompatibility.html#content"
+"\">Incompatibility</a>"
 msgstr ""
-"<a href=\"/proprietary/proprietary-incompatibility."
-"html#content\">Uyumsuzluk</a>"
+"<a href=\"/proprietary/proprietary-incompatibility.html#content"
+"\">Uyumsuzluk</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
@@ -118,8 +118,8 @@ msgstr "<a href=\"/proprietary/proprietary-sabotage.html#content\">Sabotaj</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/proprietary-subscriptions."
-"html#content\">Subscriptions</a>"
+"<a href=\"/proprietary/proprietary-subscriptions.html#content"
+"\">Subscriptions</a>"
 msgstr ""
 "<a href=\"/proprietary/proprietary-subscriptions.html#content\">Abonelikler</"
 "a>"
@@ -158,11 +158,11 @@ msgstr "<a href=\"/proprietary/malware-cars.html#content\">Arabalar</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><li>
 msgid ""
-"<a href=\"/proprietary/malware-in-online-conferencing."
-"html#content\">Conferencing</a>"
+"<a href=\"/proprietary/malware-in-online-conferencing.html#content"
+"\">Conferencing</a>"
 msgstr ""
-"<a href=\"/proprietary/malware-in-online-conferencing."
-"html#content\">Konferans Sistemleri</a>"
+"<a href=\"/proprietary/malware-in-online-conferencing.html#content"
+"\">Konferans Sistemleri</a>"
 
 #. type: Content of: <div><div><dl><dd><ul><li>
 msgid "<a href=\"/proprietary/malware-edtech.html#content\">EdTech</a>"
