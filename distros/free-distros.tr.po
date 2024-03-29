@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2023-10-29 17:25+0000\n"
-"PO-Revision-Date: 2023-10-30 06:08+0100\n"
+"POT-Creation-Date: 2024-03-27 20:25+0000\n"
+"PO-Revision-Date: 2024-03-29 14:44+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -256,11 +256,11 @@ msgstr "Hyperbola"
 
 #. type: Content of: <table><tr><td>
 msgid ""
-"<em>Hyperbola GNU/Linux-libre</em>, a long-term support simplicity-focused "
-"distribution based on Arch GNU/Linux."
+"<em>Hyperbola GNU/Linux-libre</em>, an independent long-term support "
+"simplicity-focused system-distribution."
 msgstr ""
-"<em>Hyperbola GNU/Linux-libre</em>, uzun süreli desteğe sahip, basitliğe "
-"odaklı, Arch GNU/Linux tabanlı bir dağıtımdır."
+"<em>Hyperbola GNU/Linux-libre</em>, bağımsız uzun süreli destekli, basitliğe "
+"odaklı bir sistem-dağıtımdır."
 
 #. type: Content of: <table><tr><td><a>
 msgid "<a href=\"https://www.parabola.nu\">"
@@ -595,8 +595,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2004-2015, 2017-2023 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2004-2015, 2017-2023 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2004-2015, 2017-2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2004-2015, 2017-2024 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

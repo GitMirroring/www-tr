@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: optionally-free-not-enough.html\n"
-"POT-Creation-Date: 2022-01-19 13:59+0000\n"
-"PO-Revision-Date: 2022-01-19 18:29+0100\n"
+"POT-Creation-Date: 2024-03-25 08:26+0000\n"
+"PO-Revision-Date: 2024-03-29 14:45+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. type: Content of: <title>
 msgid "Optionally Free Is Not Enough - GNU Project - Free Software Foundation"
@@ -114,15 +114,15 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "We thought of an idea for how to reconcile these two needs: the install fest "
-"installs a free distro, then <a href=\"/philosophy/install-fest-devil.html"
-"\">&ldquo;the devil&rdquo; (a person wearing a devil mask) offers to install "
-"the nonfree drivers or blobs that machine needs</a>."
+"installs a free distro, then &ldquo;<a href=\"/philosophy/install-fest-devil."
+"html\">the devil</a>&rdquo; (a person wearing a devil mask) offers to "
+"install the nonfree drivers or blobs that machine needs."
 msgstr ""
 "Bu iki ihtiyacı uzlaştırmaya yönelik bir fikir düşündük: şenlikte özgür bir "
-"dağıtım kurulur, daha sonra <a href=\"/philosophy/install-fest-devil.html"
-"\">&ldquo;şeytan&rdquo; (şeytan maskesi giyen bir kişi) makinenin ihtiyaç "
+"dağıtım kurulur, daha sonra &ldquo;<a href=\"/philosophy/install-fest-devil."
+"html\">şeytan</a>&rdquo; (şeytan maskesi giyen bir kişi) makinenin ihtiyaç "
 "duyduğu özgür olmayan sürücüleri ve aygıt yazılımı parçalarını kurmayı "
-"önerir</a>."
+"önerir."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -171,8 +171,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2012, 2021, 2022 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2012, 2021, 2022 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2012, 2021, 2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2012, 2021, 2024 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
