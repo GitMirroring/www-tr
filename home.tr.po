@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2024-02-21 20:26+0000\n"
-"PO-Revision-Date: 2024-02-24 11:56+0100\n"
+"POT-Creation-Date: 2024-04-16 08:25+0000\n"
+"PO-Revision-Date: 2024-04-20 13:03+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. type: Content of: <title>
 msgid "The GNU Operating System and the Free Software Movement"
@@ -113,15 +113,13 @@ msgstr "<a href=\"/distros/free-distros.html\">GNU/Linux'u Deneyin</a>"
 
 #. #if expr="$DISTRO = dragora" 
 #. type: Content of: <div><div><div><div><a>
-msgid "<a href=\"/distros/screenshots/dragora-ice.png\">"
-msgstr "<a href=\"/distros/screenshots/dragora-ice.png\">"
+msgid "<a href=\"/distros/screenshots/dragora-tde.jpg\">"
+msgstr "<a href=\"/distros/screenshots/dragora-tde.jpg\">"
 
 #. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
-msgid ""
-"&nbsp;[Screenshot of Dragora&nbsp;3.0-beta1 with IceWM window manager]&nbsp;"
+msgid "&nbsp;[Screenshot of Dragora&nbsp;3.0-beta2 with TDE desktop]&nbsp;"
 msgstr ""
-"&nbsp;[IceWM pencere yöneticisi ile Dragora&nbsp;3.0-beta1'in ekran "
-"görüntüsü]&nbsp;"
+"&nbsp;[TDE masaüstü ile Dragora&nbsp;3.0-beta'nın ekran görüntüsü]&nbsp;"
 
 #. type: Content of: <div><div><div><h3>
 msgid "</a>"
@@ -130,12 +128,12 @@ msgstr "</a>"
 #. type: Content of: <div><div><div><div><p>
 msgid ""
 "<small><a href=\"https://dragora.org/en/index.html\"> Dragora&nbsp;3.0-"
-"beta1</a> with customized <a href=\"https://ice-wm.org/\"> IceWM</a> window "
-"manager</small>"
+"beta2</a> with <a href=\"https://www.trinitydesktop.org/\">TDE</a> desktop</"
+"small>"
 msgstr ""
-"<small>Kişiselleştirilmiş <a href=\"https://ice-wm.org/\">IceWM</a> pencere "
-"yöneticisi ile <a href=\"https://dragora.org/en/index.html"
-"\">Dragora&nbsp;3.0-beta1</a></small>"
+"<small><a href=\"https://www.trinitydesktop.org/\">TDE</a> masaüstü ile <a "
+"href=\"https://dragora.org/en/index.html\"> Dragora&nbsp;3.0-beta2</a></"
+"small>"
 
 #. #endif 
 #. #if expr="$DISTRO = guix" 
@@ -244,8 +242,8 @@ msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
 msgstr "<a href=\"/home.html?distro=dragora#gnu-linux\">"
 
 #. type: Content of: <div><div><div><div><div><p>
-msgid "<small>Dragora / IceWM</small>"
-msgstr "<small>Dragora / IceWM</small>"
+msgid "<small>Dragora / TDE</small>"
+msgstr "<small>Dragora / TDE</small>"
 
 #. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
@@ -747,6 +745,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "&nbsp;[Screenshot of Dragora&nbsp;3.0-beta1 with IceWM window manager]"
+#~ "&nbsp;"
+#~ msgstr ""
+#~ "&nbsp;[IceWM pencere yöneticisi ile Dragora&nbsp;3.0-beta1'in ekran "
+#~ "görüntüsü]&nbsp;"
 
 #~ msgid "<a href=\"/gnu40/\">"
 #~ msgstr "<a href=\"/gnu40/\">"
