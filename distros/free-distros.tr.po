@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2024-03-27 20:25+0000\n"
-"PO-Revision-Date: 2024-03-29 14:44+0100\n"
+"POT-Creation-Date: 2024-04-22 00:26+0000\n"
+"PO-Revision-Date: 2024-04-23 21:57+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -189,8 +189,8 @@ msgid "Brief Description"
 msgstr "Kısa Açıklaması"
 
 #. type: Content of: <table><tr><td><a>
-msgid "<a href=\"https://dragora.org/en/index.html\">"
-msgstr "<a href=\"https://dragora.org/en/index.html\">"
+msgid "<a href=\"https://dragora.org/index.html\">"
+msgstr "<a href=\"https://dragora.org/index.html\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
 msgid "Dragora GNU/Linux-Libre"
@@ -233,8 +233,8 @@ msgid "<a href=\"/software/guix/\">"
 msgstr "<a href=\"/software/guix/\">"
 
 #. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "guix"
-msgstr "guix"
+msgid "Guix"
+msgstr "Guix"
 
 #. type: Content of: <table><tr><td>
 msgid ""
@@ -625,6 +625,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "guix"
+#~ msgstr "guix"
 
 #~ msgid "<a href=\"http://www.gnewsense.org/\">"
 #~ msgstr "<a href=\"http://www.gnewsense.org/\">"
