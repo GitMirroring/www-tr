@@ -3,11 +3,12 @@
 # This file is distributed under the same license as the original article.
 #
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
+# T. E. Kalayci, 2022, 2024.
 # May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-india.html\n"
-"POT-Creation-Date: 2022-05-02 13:55+0000\n"
+"POT-Creation-Date: 2024-05-13 12:59+0000\n"
 "PO-Revision-Date: 2022-05-04 05:42+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -60,7 +61,7 @@ msgstr ""
 msgid "Case Studies in India"
 msgstr "Hindistan'daki Durum Çalışmaları"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "An <a href=\"/education/edu-system-india.html\">article</a> by Indian "
 "scientist Dr. V. Sasi Kumar which explains in detail how the education "
@@ -79,7 +80,7 @@ msgstr ""
 "\">IT@School</a> projesi sayesinde binlerce okulda özgür yazılımı başarıyla "
 "uygulayan, Hindistan'da eyalet olan Kerala'yı da kapsıyor."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Some notions on the <a href= \"https://en.wikipedia.org/wiki/"
 "Education_in_India\">education system of India</a> can also be found in "
@@ -88,7 +89,7 @@ msgstr ""
 "<a href= \"https://en.wikipedia.org/wiki/Education_in_India\">Hindistan'ın "
 "eğitim sistemi</a> ile ilgili bazı düşünceler Vikipedi'de de bulunabilir."
 
-#. type: Content of: <div><p>
+#. type: Content of: <div><div><p>
 msgid ""
 "Below are listed some of the educational institutions in India who are using "
 "free software."
@@ -96,7 +97,7 @@ msgstr ""
 "Aşağıda Hindistan'da özgür yazılım kullanan bazı eğitim kurumları "
 "listelenmiştir."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href= \"/education/edu-cases-india-ambedkar.html\">Ambedkar Community "
 "Computing Center (AC3)</a>"
@@ -104,7 +105,7 @@ msgstr ""
 "<a href= \"/education/edu-cases-india-ambedkar.html\">Ambedkar Topluluğu "
 "Bilişim Merkezi (AC3)</a>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "A group of free software advocates set up a computing center in a slum in "
 "Bangalore to teach computer skills to underprivileged children."
@@ -113,7 +114,7 @@ msgstr ""
 "olanakları az olan çocuklara bilgisayar becerileri öğretmek için bir bilişim "
 "merkezi kurdu."
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><div><ul><li>
 msgid ""
 "<a href= \"/education/edu-cases-india-irimpanam.html\">Vocational Higher "
 "Secondary School Irimpanam (VHSS Irimpanam)</a>"
@@ -121,7 +122,7 @@ msgstr ""
 "<a href= \"/education/edu-cases-india-irimpanam.html\">Irimpanam Mesleki "
 "Okulu (VHSS Irimpanam)</a>"
 
-#. type: Content of: <div><ul><li><p>
+#. type: Content of: <div><div><ul><li><p>
 msgid ""
 "One of the several thousand schools that are using exclusively free software "
 "as the result of a <a href= \"https://web.archive.org/web/20180211103420/"
@@ -180,8 +181,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2011, 2022 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2011, 2022 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2011, 2022, 2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2011, 2022, 2024 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -201,12 +202,16 @@ msgstr ""
 "<ul>\n"
 "<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
 "\">&lt;theflossinformation@gmail.com&gt;</a>, 2020</li>\n"
+"<li>T. E. Kalaycı, 2022, 2024.</li>\n"
 "</ul>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "Copyright &copy; 2011, 2022 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2011, 2022 Free Software Foundation, Inc."
 
 #~ msgid ""
 #~ "Copyright &copy; 2011, 2015, 2016, 2020, 2021 Free Software Foundation, "

@@ -1,13 +1,13 @@
 # Turkish translation of https://www.gnu.org/education/dangers-of-proprietary-systems-in-online-teaching.html
 # Copyright (C) 2021 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# T. E. Kalayci, 2021.
+# T. E. Kalayci, 2021, 2022, 2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: dangers-of-proprietary-systems-in-online-teaching.html\n"
-"POT-Creation-Date: 2022-04-20 17:55+0000\n"
-"PO-Revision-Date: 2022-04-22 18:25+0200\n"
+"POT-Creation-Date: 2024-05-14 04:58+0000\n"
+"PO-Revision-Date: 2024-05-25 12:22+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: \n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -56,10 +56,10 @@ msgid ""
 "a>&nbsp;/ <a href=\"/education/dangers-of-proprietary-systems-in-online-"
 "teaching.html\">Online teaching</a>&nbsp;/"
 msgstr ""
-"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a href="
-"\"/education/resisting-proprietary-software.html\">Direniş</a>&nbsp;/ <a "
-"href=\"/education/dangers-of-proprietary-systems-in-online-teaching.html"
-"\">Çevrim içi öğretim</a>&nbsp;/"
+"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a "
+"href=\"/education/resisting-proprietary-software.html\">Direniş</a>&nbsp;/ "
+"<a href=\"/education/dangers-of-proprietary-systems-in-online-teaching."
+"html\">Çevrim içi öğretim</a>&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "The Dangers of Proprietary Systems in Online Teaching"
@@ -108,22 +108,26 @@ msgstr ""
 "software-for-education.html\">özgürlüğe saygılı yazılım</a> bulunabilir ve "
 "bunlar özel mülkiyet benzerleri yerine tercih edilmelidir."
 
-#. type: Content of: <div><div><p>
-msgid ""
-"See how people are <a href=\"/education/successful-resistance-against-"
-"nonfree-software.html#content\"> successfully resisting nonfree software</a>."
-msgstr ""
-"İnsanların nasıl da <a href=\"/education/successful-resistance-against-"
-"nonfree-software.html#content\"> özgür olmayan yazılımlara başarılı bir "
-"şekilde direndiğini</a> görün."
+#. type: Content of: <div><p>
+msgid "See also:"
+msgstr "Ayrıca Bkz:"
 
 #. type: Content of: <div><div><p>
 msgid ""
-"<a href=\"/education/teachers-help-students-resist-zoom.html#content"
-"\">Teachers: Help Your Students Resist Zoom</a>"
+"<a href=\"/education/successful-resistance-against-nonfree-software."
+"html#content\"> Successful Resistance Against Nonfree Software</a>"
 msgstr ""
-"<a href=\"/education/teachers-help-students-resist-zoom.html#content"
-"\">Öğretmenler: Öğrencilerinize Zoom'a Direnmekte Yardımcı Olun</a>"
+"<a href=\"/education/successful-resistance-against-nonfree-software."
+"html#content\">Özgür Olmayan Yazılıma Karşı Başarılı Direniş</a>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"/education/teachers-help-students-resist-zoom."
+"html#content\">Teachers: Help Your Students Resist Zoom</a>"
+msgstr ""
+"<a href=\"/education/teachers-help-students-resist-zoom."
+"html#content\">Öğretmenler: Öğrencilerinize Zoom'a Direnmekte Yardımcı Olun</"
+"a>"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div><div>
@@ -132,17 +136,17 @@ msgstr "  "
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF.  Broken links and other corrections or suggestions "
-"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
-"org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other "
+"ways to contact</a> the FSF.  Broken links and other corrections or "
+"suggestions can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 msgstr ""
 "Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
 "gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
 "contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
-"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
-"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu."
+"org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -157,9 +161,9 @@ msgstr ""
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and contributing "
-"translations of this article."
+"Please see the <a href=\"/server/standards/README.translations."
+"html\">Translations README</a> for information on coordinating and "
+"contributing translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
 "önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
@@ -168,12 +172,12 @@ msgstr ""
 "BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
-"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
-"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-"
+"tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2020, 2021, 2022 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2020, 2021, 2022 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2020, 2021, 2022, 2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2020, 2021, 2022, 2024 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -191,7 +195,7 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>T. E. Kalaycı, 2021.</li>\n"
+"<li>T. E. Kalaycı, 2021, 2022, 2024.</li>\n"
 "</ul>"
 
 #.  timestamp start 

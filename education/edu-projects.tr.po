@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the original article.
 #
 # The FLOSS Information <theflossinformation@gmail.com>, 2020.
+# T. E. Kalayci, 2021, 2023, 2024.
 # May 2020: update to new layout (T. Godefroy).
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-projects.html\n"
-"POT-Creation-Date: 2023-09-30 10:55+0000\n"
-"PO-Revision-Date: 2023-10-15 06:55+0200\n"
+"POT-Creation-Date: 2024-05-18 13:55+0000\n"
+"PO-Revision-Date: 2024-05-25 12:37+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -52,8 +53,8 @@ msgid ""
 "</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
 "href=\"/education/edu-resources.html\">Resources</a>&nbsp;/"
 msgstr ""
-"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a href="
-"\"/education/edu-resources.html\">Eğitim Kaynakları</a>&nbsp;/"
+"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a "
+"href=\"/education/edu-resources.html\">Eğitim Kaynakları</a>&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Groups and Projects"
@@ -94,6 +95,24 @@ msgstr ""
 "yaratmak ve özgür yazılımın faydalarını sağlamak için var. Özgür yazılım ve "
 "kullanıcılarına karşı ayrımcılığı yasaklayan yasal bir çerçeve hedefliyorlar."
 "&rdquo;"
+
+#. type: Content of: <div><div><dl><dt>
+msgid "<a href=\"https://fuss.bz.it/page/info/\">FUSS Project</a>"
+msgstr "<a href=\"https://fuss.bz.it/page/info/\">FUSS Project</a>"
+
+#. type: Content of: <div><div><dl><dd>
+msgid ""
+"FUSS (Free Upgrade for a Digitally Sustainable School) is a project started "
+"in Italy in 2005 with the aim of bringing free software to schools in the "
+"Autonomous Province of Bolzano. It led to the migration to free software of "
+"<a href=\"/education/edu-cases-italy-south-tyrol.html\">all schools in "
+"Italian language</a> in South Tyrol."
+msgstr ""
+"FUSS (Dijital olarak Sürdürülebilir Okul için Özgür Güncelleme), İtalya'da "
+"Bolzano Özerk Bölgesindeki okullara özgür yazılım edindirme amacıyla 2005 "
+"yılında başlayan bir projedir. Güney Tirol'deki <a href=\"/education/edu-"
+"cases-italy-south-tyrol.html\">İtalyanca dilindeki tüm okulların</a> özgür "
+"yazılıma geçmesine yol açmıştır."
 
 #. type: Content of: <div><div><dl><dt>
 msgid ""
@@ -184,8 +203,8 @@ msgid ""
 "The name of the group refers to the Greek philosopher <a href=\"http://en."
 "wikipedia.org/wiki/Hypatia\">Hypatia.</a>"
 msgstr ""
-"Grubun adı Yunan filozofu <a href=\"http://en.wikipedia.org/wiki/Hypatia"
-"\">Hypatia</a>'dan geliyor."
+"Grubun adı Yunan filozofu <a href=\"http://en.wikipedia.org/wiki/"
+"Hypatia\">Hypatia</a>'dan geliyor."
 
 #. type: Content of: <div><div><dl><dt>
 msgid ""
@@ -234,17 +253,17 @@ msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF.  Broken links and other corrections or suggestions "
-"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
-"org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other "
+"ways to contact</a> the FSF.  Broken links and other corrections or "
+"suggestions can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 msgstr ""
 "Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
 "gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
 "contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
-"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
-"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu."
+"org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -259,9 +278,9 @@ msgstr ""
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and contributing "
-"translations of this article."
+"Please see the <a href=\"/server/standards/README.translations."
+"html\">Translations README</a> for information on coordinating and "
+"contributing translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
 "önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
@@ -270,14 +289,16 @@ msgstr ""
 "BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
-"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
-"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-"
+"tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2016, 2018-2021, 2023 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2016, 2018-2021, 2023, 2024 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 2011, 2016, 2018-2021, 2023 Free Software Foundation, Inc."
+"Copyright &copy; 2011, 2016, 2018-2021, 2023, 2024 Free Software Foundation, "
+"Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -295,17 +316,15 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
-"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020</li>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail."
+"com\">&lt;theflossinformation@gmail.com&gt;</a>, 2020</li>\n"
+"<li>T. E. Kalayci, 2021, 2023, 2024</li>\n"
 "</ul>"
 
 #.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
-
-#~ msgid "<a href=\"http://guri.hipatia.net/\">GURI</a>"
-#~ msgstr "<a href=\"http://guri.hipatia.net/\">GURI</a>"
 
 #~ msgid "<a href=\"http://hipatia.net/\">Hipatia</a>"
 #~ msgstr "<a href=\"http://hipatia.net/\">Hipatia</a>"
@@ -336,5 +355,5 @@ msgstr "Son Güncelleme:"
 #~ "OFSET grubunun önemli bir başarısı, geometri öğretiminde yaygın olarak "
 #~ "kullanılan bir program olan <a href=\"/software/dr-geo/\">Dr. Geo</"
 #~ "a>'dur. OFSET, sınıf için faydalı uygulamalar içeren önyüklenebilir bir "
-#~ "USB belleği olan <a href=\"https://usb.freeduc.org/index-en.html"
-#~ "\">Freeduc-USB</a>'yi de geliştirdi."
+#~ "USB belleği olan <a href=\"https://usb.freeduc.org/index-en."
+#~ "html\">Freeduc-USB</a>'yi de geliştirdi."
