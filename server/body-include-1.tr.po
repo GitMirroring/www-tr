@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2024-06-24 19:25+0000\n"
+"POT-Creation-Date: 2024-08-24 17:55+0000\n"
 "PO-Revision-Date: 2024-06-27 20:56+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -24,47 +24,39 @@ msgstr ""
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
 
-#. #echo encoding='none' var='fr_link' 
-#. type: Content of: <div><div><p>
-msgid "<b>We urgently need your financial support!</b>"
-msgstr "<b>Acilen finansal desteğinize ihtiyacımız var!</b>"
-
-#. #echo encoding='none' var='fr_link' 
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><form><div>
 msgid ""
-"The FSF's commitment is unwavering, but we urgently need your financial "
-"support.  New and renewing associate members will help us bring free "
-"software to every facet of people's lives. Help us reach our goal of 200 new "
-"members by July 19."
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
 msgstr ""
-"FSF'nin adanmışlığı değişmez ancak acilen finansal desteğinize ihtiyacımız "
-"var. Yeni ve yenilenen üyeler özgür yazılımı insanların yaşamlarının her "
-"yönüne taşımamıza yardımcı olacaktır. 19 Temmuz'a kadar yeni 200 üye "
-"hedefimize ulaşmamıza yardımcı olun. "
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Düzenle:iptal\" />"
 
-#. #echo encoding='none'
-#.      var='fr_link' 
-#. type: Content of: <div><div><p>
-msgid "Join&nbsp;today"
-msgstr "Şimdi&nbsp;katılın"
+#. type: Content of: <div><form><div><label>
+msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
+msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
 
-#. #echo
-#.        encoding='none' var='a_close' 
-#. type: Content of: <div><div><p>
-msgid "<span class=\"space\">&nbsp;</span>"
-msgstr "<span class=\"space\">&nbsp;</span>"
+#. type: Content of: <div><form><div>
+msgid ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+msgstr ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
 
-#. #echo encoding='none'
-#.      var='fr1_link'
-#.      
-#. type: Content of: <div><div><p>
-msgid "Convince&nbsp;a&nbsp;friend"
-msgstr "Bir&nbsp;arkadaşınızı&nbsp;ikna&nbsp;edin"
-
-#. #if expr="yes != $hide_goal" 
-#. type: Content of: <div><div><div>
-msgid "<span class=\"goal\">200</span>"
-msgstr "<span class=\"goal\">200</span>"
+#. type: Content of: <div><div>
+msgid ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
@@ -86,17 +78,9 @@ msgstr ""
 "<small id=\"fsf-support\"><a href=\"#mission-statement\">Özgür Yazılım "
 "Vakfı</a> Tarafından Destekleniyor</small>"
 
-#. type: Content of: <div><div><div><a>
-msgid "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
-msgstr "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
-
-#. type: Attribute 'alt' of: <div><div><div><a><img>
+#. type: Attribute 'alt' of: <div><div><div><img>
 msgid "&nbsp;[Search www.gnu.org]&nbsp;"
 msgstr "&nbsp;[www.gnu.org'da Ara]&nbsp;"
-
-#. type: Content of: <div><div><div>
-msgid "</a>"
-msgstr "</a>"
 
 #. type: Content of: <div><div><div><a>
 msgid "<a href=\"#language-container\">"
@@ -106,37 +90,44 @@ msgstr "<a href=\"#language-container\">"
 msgid "&nbsp;[Other languages]&nbsp;"
 msgstr "&nbsp;[Diğer diller]&nbsp;"
 
-#~ msgid ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
-#~ "cancel\" />"
-#~ msgstr ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
-#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
-#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
-#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Düzenle:"
-#~ "iptal\" />"
+#. type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
 
-#~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
-#~ msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
+#~ msgid "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
+#~ msgstr "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
 
-#~ msgid ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
-#~ msgstr ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
+#~ msgid "<b>We urgently need your financial support!</b>"
+#~ msgstr "<b>Acilen finansal desteğinize ihtiyacımız var!</b>"
 
+#, fuzzy
+#~| msgid ""
+#~| "The FSF's commitment is unwavering, but we urgently need your financial "
+#~| "support.  New and renewing associate members will help us bring free "
+#~| "software to every facet of people's lives. Help us reach our goal of 200 "
+#~| "new members by July 19."
 #~ msgid ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+#~ "The FSF's commitment is unwavering, but we urgently need your financial "
+#~ "support.  New and renewing associate members will help us bring free "
+#~ "software to every facet of people's lives. Help us reach our goal of 200 "
+#~ "new members by July 26."
 #~ msgstr ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
+#~ "FSF'nin adanmışlığı değişmez ancak acilen finansal desteğinize "
+#~ "ihtiyacımız var. Yeni ve yenilenen üyeler özgür yazılımı insanların "
+#~ "yaşamlarının her yönüne taşımamıza yardımcı olacaktır. 19 Temmuz'a kadar "
+#~ "yeni 200 üye hedefimize ulaşmamıza yardımcı olun. "
+
+#~ msgid "Join&nbsp;today"
+#~ msgstr "Şimdi&nbsp;katılın"
+
+#~ msgid "<span class=\"space\">&nbsp;</span>"
+#~ msgstr "<span class=\"space\">&nbsp;</span>"
+
+#~ msgid "Convince&nbsp;a&nbsp;friend"
+#~ msgstr "Bir&nbsp;arkadaşınızı&nbsp;ikna&nbsp;edin"
+
+#~ msgid "<span class=\"goal\">200</span>"
+#~ msgstr "<span class=\"goal\">200</span>"
 
 #~ msgid ""
 #~ "<b>Boost free software education:</b> Donate to help us reach our stretch "
