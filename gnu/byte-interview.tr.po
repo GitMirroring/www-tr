@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: byte-interview.html\n"
-"POT-Creation-Date: 2021-11-02 11:26+0000\n"
-"PO-Revision-Date: 2021-11-02 16:44+0100\n"
+"POT-Creation-Date: 2024-09-10 09:55+0000\n"
+"PO-Revision-Date: 2024-09-14 09:13+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -62,11 +62,12 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "Stallman is widely known as the author of EMACS, a powerful text editor that "
-"he developed at the <abbr title=\"Massachusetts Institute of Technology"
-"\">MIT</abbr> Artificial Intelligence Laboratory.  It is no coincidence that "
-"the first piece of software produced as part of the GNU project was a new "
-"implementation of EMACS.  GNU EMACS has already achieved a reputation as one "
-"of the best implementations of EMACS currently available at any price."
+"he developed at the <abbr title=\"Massachusetts Institute of "
+"Technology\">MIT</abbr> Artificial Intelligence Laboratory.  It is no "
+"coincidence that the first piece of software produced as part of the GNU "
+"project was a new implementation of EMACS.  GNU EMACS has already achieved a "
+"reputation as one of the best implementations of EMACS currently available "
+"at any price."
 msgstr ""
 "Stallman, <abbr title=\"Massachusetts Institute of Technology\">MIT</abbr> "
 "Yapay Zekâ Laboratuvarında geliştirdiği güçlü bir metin düzenleyicisi olan "
@@ -949,8 +950,8 @@ msgstr "<strong>BYTE</strong>: Şu anda resmî GNU dağıtım bandında neler va
 #. type: Content of: <div><p>
 msgid ""
 "<strong>Stallman</strong>: Right now the tape contains GNU EMACS (one "
-"version fits all computers); Bison, a program that replaces <abbr title="
-"\"Yet Another Compiler Compiler\">YACC</abbr>; MIT Scheme, which is "
+"version fits all computers); Bison, a program that replaces <abbr "
+"title=\"Yet Another Compiler Compiler\">YACC</abbr>; MIT Scheme, which is "
 "Professor Sussman's super-simplified dialect of LISP; and Hack, a dungeon-"
 "exploring game similar to Rogue."
 msgstr ""
@@ -986,20 +987,25 @@ msgstr ""
 "Ave., Cambridge, MA 02139&mdash;yazınız."
 
 #. type: Content of: <div><address>
-msgid "[The current address (since 2005) is:"
-msgstr "[Şu anki adres (2005'ten beri):"
+msgid "[<em>The FSF has been operating remotely since September 1, 2024.</em>"
+msgstr ""
+"[<em>FSF 1 Eylül 2024 tarihinden itibaren uzaktan çalışmaya geçmiştir.</em>"
+
+#. type: Content of: <div><address>
+msgid "Current postal address:"
+msgstr "Mevcut posta adresi:"
 
 #. type: Content of: <div><address>
 msgid ""
-"Free Software Foundation, 51 Franklin St, Fifth Floor, Boston, MA "
-"02110-1301, USA."
+"Free Software Foundation, 31&nbsp;Milk&nbsp;St&nbsp;#&nbsp;960789, Boston,"
+"&nbsp;MA&nbsp;02196,&nbsp;USA"
 msgstr ""
-"Free Software Foundation 51 Franklin St, Fifth Floor Boston, MA 02110-1301, "
-"USA."
+"Free Software Foundation, 31&nbsp;Milk&nbsp;St&nbsp;#&nbsp;960789, Boston,"
+"&nbsp;MA&nbsp;02196,&nbsp;USA"
 
 #. type: Content of: <div><address>
 msgid "Voice: +1-617-542-5942"
-msgstr " Ses: +1-617-542-5942"
+msgstr "Ses: +1-617-542-5942"
 
 #. type: Content of: <div><address>
 msgid "Fax: +1-617-542-2652]"
@@ -1052,17 +1058,17 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF.  Broken links and other corrections or suggestions "
-"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
-"org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other "
+"ways to contact</a> the FSF.  Broken links and other corrections or "
+"suggestions can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 msgstr ""
 "Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
 "gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
 "contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
-"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
-"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu."
+"org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -1074,12 +1080,12 @@ msgstr ""
 #.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
-#.         README</a>. 
+#.         README</a>.
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and contributing "
-"translations of this article."
+"Please see the <a href=\"/server/standards/README.translations."
+"html\">Translations README</a> for information on coordinating and "
+"contributing translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
 "önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
@@ -1088,12 +1094,12 @@ msgstr ""
 "BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
-"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
-"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-"
+"tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1999, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1999, 2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1999, 2021, 2024 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1999, 2021, 2024 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1111,11 +1117,21 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
-"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail."
+"com\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
 "</ul>"
 
-#.  timestamp start 
+#.  timestamp start
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "[The current address (since 2005) is:"
+#~ msgstr "[Şu anki adres (2005'ten beri):"
+
+#~ msgid ""
+#~ "Free Software Foundation, 51 Franklin St, Fifth Floor, Boston, MA "
+#~ "02110-1301, USA."
+#~ msgstr ""
+#~ "Free Software Foundation 51 Franklin St, Fifth Floor Boston, MA "
+#~ "02110-1301, USA."
