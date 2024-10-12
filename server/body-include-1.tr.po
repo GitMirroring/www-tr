@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2024-09-09 16:57+0000\n"
+"POT-Creation-Date: 2024-10-26 05:55+0000\n"
 "PO-Revision-Date: 2024-06-27 20:56+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -79,22 +79,24 @@ msgstr ""
 "Vakfı</a> Tarafından Destekleniyor</small>"
 
 #. type: Content of: <div><div><div><a>
+msgid "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
+msgstr "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
+
+#. type: Attribute 'alt' of: <div><div><div><a><img>
+msgid "&nbsp;[Search www.gnu.org]&nbsp;"
+msgstr "&nbsp;[www.gnu.org'da Ara]&nbsp;"
+
+#. type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><div><div><a>
 msgid "<a href=\"#language-container\">"
 msgstr "<a href=\"#language-container\">"
 
 #. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid "&nbsp;[Other languages]&nbsp;"
 msgstr "&nbsp;[Diğer diller]&nbsp;"
-
-#. type: Content of: <div><div><div>
-msgid "</a>"
-msgstr "</a>"
-
-#~ msgid "&nbsp;[Search www.gnu.org]&nbsp;"
-#~ msgstr "&nbsp;[www.gnu.org'da Ara]&nbsp;"
-
-#~ msgid "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
-#~ msgstr "<a href=\"//www.gnu.org/cgi-bin/estseek.cgi\">"
 
 #~ msgid "<b>We urgently need your financial support!</b>"
 #~ msgstr "<b>Acilen finansal desteğinize ihtiyacımız var!</b>"
