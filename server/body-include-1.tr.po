@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2024-10-26 05:55+0000\n"
-"PO-Revision-Date: 2024-06-27 20:56+0200\n"
+"POT-Creation-Date: 2024-11-13 15:26+0000\n"
+"PO-Revision-Date: 2024-11-14 20:13+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -18,45 +18,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
-#. type: Content of: <div>
+#. type: Content of: <div><p>
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
 
-#. type: Content of: <div><form><div>
+#. type: Content of: <div><div><p>
+msgid "<b>Come build a better world with us!</b>"
+msgstr "<b>Gelin bizimle daha iyi bir dünya inşa edin!</b>"
+
+#. #echo encoding='none' var='fr_link' 
+#. type: Content of: <div><div><p>
 msgid ""
-"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
-"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
-"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
-"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
+"Please don't scroll past this. We've been building a better world with free "
+"software since 1985.  Today, we ask for your support. Only with your help "
+"can the FSF continue to be the cornerstone of a more just digital society! "
+"Donate to help us reach the goal of USD $400,000 by Dec 31."
 msgstr ""
-"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
-"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
-"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
-"name=\"_qf_default\" type=\"hidden\" value=\"Düzenle:iptal\" />"
+"Lütfen hemen aşağı kaydırmayın. 1985'ten beri özgür yazılımla daha iyi bir "
+"dünya inşa etmeye çalışıyoruz. Bugün, desteğinizi istiyoruz. FSF yalnızca "
+"sizin yardımınızla daha adil bir dijital dünyanın köşe taşı olmaya devam "
+"edebilir! 31 Aralık'a kadar 400,000$ hedefimize ulaşmamıza yardım etmek için "
+"bağış yapın."
 
-#. type: Content of: <div><form><div><label>
-msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
-msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
+#. #echo encoding='none'
+#.       var='fr_link' 
+#. type: Content of: <div><div><p>
+msgid "Donate"
+msgstr "Bağış Yapın"
 
-#. type: Content of: <div><form><div>
-msgid ""
-"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
-"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
-msgstr ""
-"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-"maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> <input "
-"type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
-
+#. #if expr="yes != $hide_goal" 
+#. #echo encoding='none' var='span_goal' 
 #. type: Content of: <div><div>
-msgid ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
-msgstr ""
-"<a href=\"https://www.fsf.org/associate/support_freedom?"
-"referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
+msgid "$400,000"
+msgstr "400,000$"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
@@ -97,6 +93,38 @@ msgstr "<a href=\"#language-container\">"
 #. type: Attribute 'alt' of: <div><div><div><a><img>
 msgid "&nbsp;[Other languages]&nbsp;"
 msgstr "&nbsp;[Diğer diller]&nbsp;"
+
+#~ msgid ""
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
+#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
+#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
+#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Edit:"
+#~ "cancel\" />"
+#~ msgstr ""
+#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden"
+#~ "\" name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type="
+#~ "\"hidden\" value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;"
+#~ "gid=31\" /> <input name=\"_qf_default\" type=\"hidden\" value=\"Düzenle:"
+#~ "iptal\" />"
+
+#~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
+#~ msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
+
+#~ msgid ""
+#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+#~ "maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> "
+#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+#~ msgstr ""
+#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+#~ "maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> "
+#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
+
+#~ msgid ""
+#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
+#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
+#~ "referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
 
 #~ msgid "<b>We urgently need your financial support!</b>"
 #~ msgstr "<b>Acilen finansal desteğinize ihtiyacımız var!</b>"
@@ -191,9 +219,6 @@ msgstr "&nbsp;[Diğer diller]&nbsp;"
 
 #~ msgid "Read more &gt;"
 #~ msgstr "Daha fazlası için &gt;"
-
-#~ msgid "$67,000"
-#~ msgstr "$67,000"
 
 #~ msgid ""
 #~ "Your example can empower users just like you to take important steps "
