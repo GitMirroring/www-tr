@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: philosophy.html\n"
-"POT-Creation-Date: 2022-10-20 10:26+0000\n"
-"PO-Revision-Date: 2022-10-26 11:25+0200\n"
+"POT-Creation-Date: 2025-01-17 08:56+0000\n"
+"PO-Revision-Date: 2025-01-25 08:37+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Content of: <title>
 msgid "Philosophy of the GNU Project - GNU Project - Free Software Foundation"
@@ -42,8 +42,8 @@ msgid ""
 "and change the program in source code form, (2) to redistribute exact "
 "copies, and (3) to distribute modified versions."
 msgstr ""
-"Tam olarak özgür yazılım kullanıcıların <a href=\"/philosophy/free-sw.html"
-"\">dört temel özgürlüğe</a> sahip olduğu anlamına gelir: (0) programı "
+"Tam olarak özgür yazılım kullanıcıların <a href=\"/philosophy/free-sw."
+"html\">dört temel özgürlüğe</a> sahip olduğu anlamına gelir: (0) programı "
 "çalıştırma, (1) kaynak kodunu kullanarak onu öğrenme ve değiştirme, (2) "
 "tamamen aynı kopyaları yeniden dağıtır, (3) değiştirilmiş sürümleri dağıtma."
 
@@ -85,6 +85,14 @@ msgstr ""
 #. type: Content of: <h3>
 msgid "Introduction"
 msgstr "Giriş"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"<a href=\"https://www.fsf.org/news/anchoring-the-fsf-in-its-values\"> "
+"Anchoring the FSF in its values</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/news/anchoring-the-fsf-in-its-values\">FSF'yi "
+"değerlerine demirleme</a>"
 
 #. type: Content of: <div><div><ul><li>
 msgid "<a href=\"/philosophy/free-sw.html\">What is Free Software?</a>"
@@ -152,8 +160,8 @@ msgstr ""
 
 #. type: Content of: <div><div><ul><li>
 msgid ""
-"<a href=\"/philosophy/when-free-software-isnt-practically-superior.html"
-"\">When Free Software Isn't (Practically) Superior</a>"
+"<a href=\"/philosophy/when-free-software-isnt-practically-superior."
+"html\">When Free Software Isn't (Practically) Superior</a>"
 msgstr ""
 "<a href=\"/philosophy/when-free-software-isnt-practically-superior.html\"> "
 "Özgür Yazılımın (Pratik Olarak) Üstün Olmadığı Zaman</a>"
@@ -180,9 +188,9 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
-"We also keep a list of <a href=\"/links/links.html#FreedomOrganizations"
-"\">Organizations that Work for Freedom in Computer Development and "
-"Electronic Communications</a>."
+"We also keep a list of <a href=\"/links/links."
+"html#FreedomOrganizations\">Organizations that Work for Freedom in Computer "
+"Development and Electronic Communications</a>."
 msgstr ""
 "Ayrıca <a href=\"/links/links.html#FreedomOrganizations\">Bilgisayar "
 "Geliştirme ve Elektronik İletişim alanlarında Özgürlük için Çalışan "
@@ -195,17 +203,17 @@ msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
-"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
-"to contact</a> the FSF.  Broken links and other corrections or suggestions "
-"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
-"org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
+"org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other "
+"ways to contact</a> the FSF.  Broken links and other corrections or "
+"suggestions can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;"
+"webmasters@gnu.org&gt;</a>."
 msgstr ""
 "Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
 "gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
 "contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
-"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
-"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu."
+"org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -217,12 +225,12 @@ msgstr ""
 #.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
-#.         README</a>. 
+#.         README</a>.
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/README.translations.html"
-"\">Translations README</a> for information on coordinating and contributing "
-"translations of this article."
+"Please see the <a href=\"/server/standards/README.translations."
+"html\">Translations README</a> for information on coordinating and "
+"contributing translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
 "önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
@@ -231,12 +239,14 @@ msgstr ""
 "BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
-"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
-"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-"
+"tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2013, 2015-2018, 2022 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2013, 2015-2018, 2022 Free Software Foundation, Inc."
+msgid ""
+"Copyright &copy; 2013, 2015-2018, 2022, 2025 Free Software Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2013, 2015-2018, 2022, 2025 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -257,7 +267,7 @@ msgstr ""
 "<li>T. E. Kalaycı, 2020.</li>\n"
 "</ul>"
 
-#.  timestamp start 
+#.  timestamp start
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
@@ -267,8 +277,8 @@ msgstr "Son Güncelleme:"
 #~ "Daha ayrıntılı yazılar için, yukarıdaki menüden bir bölüm seçebilirsiniz."
 
 #~ msgid ""
-#~ "We also maintain a list of <a href=\"/philosophy/latest-articles.html"
-#~ "\">most recently added articles</a>."
+#~ "We also maintain a list of <a href=\"/philosophy/latest-articles."
+#~ "html\">most recently added articles</a>."
 #~ msgstr ""
 #~ "Ayrıca <a href=\"/philosophy/latest-articles.html\">yakın geçmişte "
 #~ "eklenmiş olan yazıların</a> bir listesini de tutuyoruz."

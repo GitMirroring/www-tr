@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2025-01-09 05:55+0000\n"
+"POT-Creation-Date: 2025-01-22 02:55+0000\n"
 "PO-Revision-Date: 2025-01-15 21:36+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -20,36 +20,43 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.5\n"
 
-#. type: Content of: <div><p>
+#. type: Content of: <div>
 msgid "<a class=\"skip\" href=\"#content\"><b>Skip to main text</b></a>"
 msgstr "<a class=\"skip\" href=\"#content\"><b>Ana metne geç</b></a>"
 
-#. type: Content of: <div><div><p>
-msgid "<b>Help us in this last stretch of our fundraiser</b>"
-msgstr "<b>Bağış kampanyamızın bu son aşamasında bize yardım edin</b>"
-
-#. #echo encoding='none' var='fr_link'
-#. type: Content of: <div><div><p>
+#. type: Content of: <div><form><div>
 msgid ""
-"Technological freedom is more important than ever. Your contribution ensures "
-"we can respond to new threats. Donate to help us reach our goal of $400,000 "
-"USD by Jan 17."
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Edit:cancel\" />"
 msgstr ""
-"Teknolojik özgürlük her zamankinden daha önemli. Katkınız yeni tehditlere "
-"yanıt verebilmemizi sağlayacaktır. Hedefimiz olan 400.000 ABD dolarına "
-"ulaşmamıza yardımcı olmak için 17 Ocak'a kadar bağışta bulunun."
+"<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input type=\"hidden\" "
+"name=\"group[25]\" value=\"1\" /> <input name=\"cancelURL\" type=\"hidden\" "
+"value=\"https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31\" /> <input "
+"name=\"_qf_default\" type=\"hidden\" value=\"Düzenle:iptal\" />"
 
-#. #echo encoding='none'
-#.       var='fr_link'
-#. type: Content of: <div><div><p>
-msgid "Donate"
-msgstr "Bağış Yapın"
+#. type: Content of: <div><form><div><label>
+msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
+msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
 
-#. #if expr="yes != $hide_goal"
-#. #echo encoding='none' var='span_goal'
+#. type: Content of: <div><form><div>
+msgid ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
+msgstr ""
+"<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
+"maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> <input "
+"type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
+
 #. type: Content of: <div><div>
-msgid "$400,000"
-msgstr "400,000$"
+msgid ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
 
 #. type: Content of: <div><p><a>
 msgid "<a href=\"/\">"
@@ -65,8 +72,8 @@ msgstr "<strong>GNU</strong> <span class=\"hide\">İşletim Sistemi</span></a>"
 
 #. type: Content of: <div><p>
 msgid ""
-"<small id=\"fsf-support\">Supported by the <a href=\"#mission-"
-"statement\">Free Software Foundation</a></small>"
+"<small id=\"fsf-support\">Supported by the <a href=\"#mission-statement"
+"\">Free Software Foundation</a></small>"
 msgstr ""
 "<small id=\"fsf-support\"><a href=\"#mission-statement\">Özgür Yazılım "
 "Vakfı</a> Tarafından Destekleniyor</small>"
@@ -91,6 +98,24 @@ msgstr "<a href=\"#language-container\">"
 msgid "&nbsp;[Other languages]&nbsp;"
 msgstr "&nbsp;[Diğer diller]&nbsp;"
 
+#~ msgid "<b>Help us in this last stretch of our fundraiser</b>"
+#~ msgstr "<b>Bağış kampanyamızın bu son aşamasında bize yardım edin</b>"
+
+#~ msgid ""
+#~ "Technological freedom is more important than ever. Your contribution "
+#~ "ensures we can respond to new threats. Donate to help us reach our goal "
+#~ "of $400,000 USD by Jan 17."
+#~ msgstr ""
+#~ "Teknolojik özgürlük her zamankinden daha önemli. Katkınız yeni tehditlere "
+#~ "yanıt verebilmemizi sağlayacaktır. Hedefimiz olan 400.000 ABD dolarına "
+#~ "ulaşmamıza yardımcı olmak için 17 Ocak'a kadar bağışta bulunun."
+
+#~ msgid "Donate"
+#~ msgstr "Bağış Yapın"
+
+#~ msgid "$400,000"
+#~ msgstr "400,000$"
+
 #~ msgid "<b>Come build a better world with us!</b>"
 #~ msgstr "<b>Gelin bizimle daha iyi bir dünya inşa edin!</b>"
 
@@ -105,38 +130,6 @@ msgstr "&nbsp;[Diğer diller]&nbsp;"
 #~ "yalnızca sizin yardımınızla daha adil bir dijital dünyanın köşe taşı "
 #~ "olmaya devam edebilir! 31 Aralık'a kadar 400,000$ hedefimize ulaşmamıza "
 #~ "yardım etmek için bağış yapın."
-
-#~ msgid ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input "
-#~ "type=\"hidden\" name=\"group[25]\" value=\"1\" /> <input "
-#~ "name=\"cancelURL\" type=\"hidden\" value=\"https://crm.fsf.org/civicrm/"
-#~ "profile?reset=1&amp;gid=31\" /> <input name=\"_qf_default\" "
-#~ "type=\"hidden\" value=\"Edit:cancel\" />"
-#~ msgstr ""
-#~ "<input name=\"postURL\" type=\"hidden\" value=\"\" /> <input "
-#~ "type=\"hidden\" name=\"group[25]\" value=\"1\" /> <input "
-#~ "name=\"cancelURL\" type=\"hidden\" value=\"https://crm.fsf.org/civicrm/"
-#~ "profile?reset=1&amp;gid=31\" /> <input name=\"_qf_default\" "
-#~ "type=\"hidden\" value=\"Düzenle:iptal\" />"
-
-#~ msgid "<a href=\"//www.fsf.org/fss\">Free Software Supporter</a>:"
-#~ msgstr "<a href=\"//www.fsf.org/fss\">Özgür Yazılım Destekçisi</a>:"
-
-#~ msgid ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"email address\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Sign up\" />"
-#~ msgstr ""
-#~ "<input type=\"text\" id=\"frmEmail\" name=\"email-Primary\" size=\"18\" "
-#~ "maxlength=\"80\" value=\"e-posta adresi\" onfocus=\"this.value=''\"/> "
-#~ "<input type=\"submit\" name=\"_qf_Edit_next\" value=\"Kaydol\" />"
-
-#~ msgid ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">JOIN&nbsp;THE&nbsp;FSF</a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.fsf.org/associate/support_freedom?"
-#~ "referrer=4052\">FSF'YE&nbsp;KATILIN!</a>"
 
 #~ msgid "<b>We urgently need your financial support!</b>"
 #~ msgstr "<b>Acilen finansal desteğinize ihtiyacımız var!</b>"
@@ -211,11 +204,11 @@ msgstr "&nbsp;[Diğer diller]&nbsp;"
 #~ msgstr "DAHA&nbsp;FAZLASI"
 
 #~ msgid ""
-#~ "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-"
-#~ "container\">"
+#~ "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container"
+#~ "\">"
 #~ msgstr ""
-#~ "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-"
-#~ "container\">"
+#~ "</a> <a id=\"language-button\" class=\"switch\" href=\"#language-container"
+#~ "\">"
 
 #~ msgid ""
 #~ "Free software is the driving force that can help bring major change to "
@@ -251,8 +244,8 @@ msgstr "&nbsp;[Diğer diller]&nbsp;"
 #~ "Bağışınız tüm kullanıcılar için özgürlük yolunda öncülük etmemize "
 #~ "yardımcı oluyor. 19 Temmuz'dan önce bağışta bulunarak, hedefimizi "
 #~ "arttırmamıza yardımcı olun. 11000 dolara kadar yapılan her katkıya "
-#~ "karşılık cömert bağışçılar da bağış yapacaklar.  <span "
-#~ "class=\"highlight\">Ayrıntılı bilgi &gt;</span>"
+#~ "karşılık cömert bağışçılar da bağış yapacaklar.  <span class=\"highlight"
+#~ "\">Ayrıntılı bilgi &gt;</span>"
 
 #~ msgid ""
 #~ "<a href=\"https://fsf.org/appeal?pk_campaign=fall20&amp;pk_kwd=banner\"> "
@@ -299,8 +292,8 @@ msgstr "&nbsp;[Diğer diller]&nbsp;"
 # type: Content of: <body><div>
 #~ msgid ""
 #~ "<span class=\"netscape4\"><a href=\"#content\">Skip to content</a> | | <a "
-#~ "href=\"#searcher\">Skip to search</a> | </span><a "
-#~ "href=\"#translations\">Translations of this page</a>"
+#~ "href=\"#searcher\">Skip to search</a> | </span><a href=\"#translations"
+#~ "\">Translations of this page</a>"
 #~ msgstr ""
 #~ "<span class=\"netscape4\"><a href=\"#content\">İçeriği göster</a> | | <a "
 #~ "href=\"#searcher\">Aramaya atla</a> | </span><a href=\"#translations\">Bu "
