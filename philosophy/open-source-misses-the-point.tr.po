@@ -972,9 +972,9 @@ msgid ""
 "web/20010618050431/itworld.com/AppDev/350/LWD010523vcontrol4/pfindex.html\"> "
 "Live and let license</a> that gives his perspective on this issue."
 msgstr ""
-"Joe Barr'ın <a href=\"https://web.archive.org/web/20010618050431/itworld.com/AppDev/350/LWD010523vcontrol4/pfindex.html"
-"\">Live and let license</a> başlıklı, bu konu üzerine bakış açısını sunan "
-"bir yazı yazmıştır."
+"Joe Barr'ın <a href=\"https://web.archive.org/web/20010618050431/itworld.com/"
+"AppDev/350/LWD010523vcontrol4/pfindex.html\">Live and let license</a> "
+"başlıklı, bu konu üzerine bakış açısını sunan bir yazı yazmıştır."
 
 #. type: Content of: <div><ul><li>
 msgid ""

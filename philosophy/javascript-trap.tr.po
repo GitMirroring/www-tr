@@ -528,7 +528,7 @@ msgid ""
 "Parunakian for bringing the problem to my attention."
 msgstr ""
 "<strong>Teşekkürler:</strong> <a href=\"/people/people.html#mattlee\">Matt "
-"Lee</a> ve <a href=\"https://johnresig.org\">John Resig</a>'e önerdiğimiz "
+"Lee</a> ve <a href=\"https://johnresig.com\">John Resig</a>'e önerdiğimiz "
 "ölçütleri tanımlamamıza yardım ettikleri için ve hususu dikkatime sunduğu "
 "için David Parunakian'a teşekkür ediyorum."
 

@@ -46,19 +46,18 @@ msgstr "Neden FDL'nin yeni bir ikincil sürümünü yayınladınız?"
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
-"Late last year, the Wikimedia Foundation, which oversees the <a "
-"href=\"https://www.wikipedia.org\">Wikipedia</a> project, passed a "
-"resolution asking us to update the FDL so as to allow Wikipedia and similar "
-"Wikis using the FDL to also use the <a href=\"https://creativecommons.org/"
-"licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike (CC&nbsp;BY-"
-"SA) 3.0 license</a>."
+"Late last year, the Wikimedia Foundation, which oversees the <a href="
+"\"https://www.wikipedia.org\">Wikipedia</a> project, passed a resolution "
+"asking us to update the FDL so as to allow Wikipedia and similar Wikis using "
+"the FDL to also use the <a href=\"https://creativecommons.org/licenses/by-"
+"sa/3.0/\">Creative Commons Attribution-ShareAlike (CC&nbsp;BY-SA) 3.0 "
+"license</a>."
 msgstr ""
 "Geçen yılın sonunda, <a href=\"https://www.wikipedia.org\">Vikipedi</a> "
 "projesini yöneten Wikimedia Vakfı, FDL'yi kullanan Vikipedi ve benzeri "
-"Vikilerin, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed."
-"tr\">Creative Commons Atıf-AynıLisanslaPaylaş (CC&nbsp;BY-SA) 3.0 "
-"lisansının</a> da kullanımına izin vermesini bizden isteyen bir tasarı "
-"geçirdiler."
+"Vikilerin, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.tr"
+"\">Creative Commons Atıf-AynıLisanslaPaylaş (CC&nbsp;BY-SA) 3.0 lisansının</"
+"a> da kullanımına izin vermesini bizden isteyen bir tasarı geçirdiler."
 
 #. type: Content of: <div><dl><dd><p>
 msgid ""
@@ -293,17 +292,17 @@ msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu."
-"org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other "
-"ways to contact</a> the FSF.  Broken links and other corrections or "
-"suggestions can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;"
-"webmasters@gnu.org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
 msgstr ""
 "Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
 "gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
 "contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
-"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu."
-"org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -315,12 +314,12 @@ msgstr ""
 #.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
-#.         README</a>.
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/README.translations."
-"html\">Translations README</a> for information on coordinating and "
-"contributing translations of this article."
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
 "önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
@@ -329,8 +328,8 @@ msgstr ""
 "BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
 "çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
 "<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
-"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-"
-"tr\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 2008, 2022 Free Software Foundation, Inc."
@@ -355,7 +354,7 @@ msgstr ""
 "<li>T. E. Kalaycı, 2021.</li>\n"
 "</ul>"
 
-#.  timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
