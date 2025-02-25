@@ -1,0 +1,330 @@
+# Turkish translation of https://www.gnu.org/philosophy/freedom-or-power.html
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Mert Gör <mertgor@masscollabs.xyz>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: freedom-or-power.html\n"
+"POT-Creation-Date: 2021-09-05 08:26+0000\n"
+"PO-Revision-Date: 2025-02-25 08:54+0100\n"
+"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. type: Content of: <title>
+msgid "Freedom Or Power? - GNU Project - Free Software Foundation"
+msgstr "Özgürlük mü Güç mü? - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, general, public, license, gpl, "
+"general public license, freedom, software, power, rights"
+msgstr ""
+"GNU, FSF, Özgür Yazılım Vakfı, Linux, genel, kamu, lisans, gpl, genel kamu "
+"lisansı, özgürlük, yazılım, güç, haklar"
+
+#. type: Attribute 'content' of: <meta>
+msgid ""
+"In this essay, Freedom or Power?, Bradley M. Kuhn and Richard M. Stallman "
+"discuss the reasons that the free software movement doesn't advocate the so-"
+"called freedom to choose any license you want for software you write."
+msgstr ""
+"Özgürlük mü Güç mü? makalesinde , Bradley M. Kuhn ve Richard M. Stallman, "
+"özgür yazılım hareketinin neden yazdığınız yazılım için istediğiniz lisansı "
+"seçme özgürlüğünü savunmadığının nedenlerini tartışıyorlar."
+
+#. type: Content of: <div><h2>
+msgid "Freedom or Power?"
+msgstr "Özgürlük mü Güç mü?"
+
+#. type: Content of: <div><address>
+msgid "by Bradley M. Kuhn and Richard M. Stallman"
+msgstr "yazan Bradley M. Kuhn ve Richard M. Stallman"
+
+#. type: Content of: <div><blockquote><p>
+msgid ""
+"The love of liberty is the love of others; the love of power is the love of "
+"ourselves. &mdash;<i>William&nbsp;Hazlitt</i>"
+msgstr ""
+"Özgürlük sevgisi başkalarına yönelik sevgidir; güç sevgisi ise kendimize "
+"olan sevgidir. &mdash;<i>William&nbsp;Hazlitt</i>"
+
+#. type: Content of: <div><p>
+msgid ""
+"In the free software movement, we stand for freedom for the users of "
+"software.  We formulated our views by looking at what freedoms are necessary "
+"for a good way of life, and permit useful programs to foster a community of "
+"goodwill, cooperation, and collaboration.  <a href=\"/philosophy/free-sw.html"
+"\">Our criteria for free software</a> specify the freedoms that a program's "
+"users need so that they can cooperate in a community."
+msgstr ""
+"Özgür yazılım hareketinde, yazılım kullanıcıları için özgürlüğü savunuyoruz. "
+"Görüşlerimizi, iyi bir yaşam biçimi için hangi özgürlüklerin gerekli "
+"olduğuna bakarak formüle ettik ve yararlı programların iyi niyet, işbirliği "
+"ve ortak çalışma topluluğuna katkı sunmasına izin verdik. <a href=\"/"
+"philosophy/free-sw.html\">Özgür yazılım için kriterlerimiz</a>, bir "
+"programın kullanıcılarının bir toplulukta işbirliği yapabilmeleri için "
+"ihtiyaç duydukları özgürlükleri belirler."
+
+#. type: Content of: <div><p>
+msgid ""
+"We stand for freedom for programmers as well as for other users.  Most of us "
+"are programmers, and we want freedom for ourselves as well as for you.  But "
+"each of us uses software written by others, and we want freedom when using "
+"that software, not just when using our own code.  We stand for freedom for "
+"all users, whether they program often, occasionally, or not at all."
+msgstr ""
+"Programcılar olduğu kadar diğer kullanıcılar için de özgürlüğü savunuyoruz. "
+"Çoğumuz programcıyız ve hem kendimiz hem de sizin için özgürlük istiyoruz. "
+"Ancak her birimiz başkaları tarafından yazılmış yazılımları kullanıyoruz ve "
+"sadece kendi kodumuzu kullanırken değil, bu yazılımları kullanırken de "
+"özgürlük istiyoruz. Sık sık, ara sıra veya hiç programlama yapmasalar da tüm "
+"kullanıcılar için özgürlüğü savunuyoruz."
+
+#. type: Content of: <div><p>
+msgid ""
+"However, one so-called freedom that we do not advocate is the &ldquo;freedom "
+"to choose any license you want for software you write.&rdquo; We reject this "
+"because it is really a form of power, not a freedom."
+msgstr ""
+"Ancak, savunmadığımız sözde özgürlüklerden biri de &ldquo;yazdığınız yazılım "
+"için istediğiniz lisansı seçebilme özgürlüğü&rdquo;dür. Bu özgürlüğü "
+"reddediyoruz çünkü bu gerçek bir özgürlük değil, bir güç elde etme, iktidar "
+"biçimidir."
+
+#. type: Content of: <div><p>
+msgid ""
+"This oft overlooked distinction is crucial.  Freedom is being able to make "
+"decisions that affect mainly you; power is being able to make decisions that "
+"affect others more than you.  If we confuse power with freedom, we will fail "
+"to uphold real freedom."
+msgstr ""
+"Bu sıklıkla göz ardı edilen ayrım çok önemlidir. Özgürlük, esas olarak sizi "
+"etkileyen kararlar alabilmektir; güç ise sizden daha çok başkalarını "
+"etkileyen kararlar alabilmektir. Gücü özgürlükle karıştırırsak, gerçek "
+"özgürlüğü savunamayız."
+
+#. type: Content of: <div><p>
+msgid ""
+"Making a program proprietary is an exercise of power.  Copyright law today "
+"grants software developers that power, so they and only they choose the "
+"rules to impose on everyone else&mdash;a relatively small number of people "
+"make the basic software decisions for all users, typically by denying their "
+"freedom.  When users lack the freedoms that define free software, they can't "
+"tell what the software is doing, can't check for back doors, can't monitor "
+"possible viruses and worms, can't find out what personal information is "
+"being reported (or stop the reports, even if they do find out).  If it "
+"breaks, they can't fix it; they have to wait for the developer to exercise "
+"its power to do so.  If it simply isn't quite what they need, they are stuck "
+"with it.  They can't help each other improve it."
+msgstr ""
+"Bir programı özel mülkiyet haline getirmek bir güç kullanımıdır. Günümüzde "
+"telif hakkı yasası yazılım geliştiricilerine bu gücü veriyor, böylece sadece "
+"onlar herkese uygulanacak kuralları seçiyorlar; nispeten az sayıda insan tüm "
+"kullanıcılar için temel yazılım kararlarını alır, ve genellikle onların "
+"özgürlüklerini reddederek bunu yaparlar. Kullanıcılar özgür yazılımı "
+"tanımlayan özgürlüklerden yoksun olduğunda, yazılımın ne yaptığını "
+"söyleyemezler, arka kapıları kontrol edemezler, olası virüsleri ve "
+"solucanları izleyemezler, hangi kişisel bilgilerin bildirildiğini "
+"öğrenemezler (veya bulsalar bile bildirimleri durduramazlar). Bozulursa, onu "
+"düzeltemezler; geliştiricinin bunu yapmak için gücünü kullanmasını beklemek "
+"zorundadırlar. Eğer tam olarak ihtiyaç duydukları şey değilse, onunla baş "
+"başa kalırlar. Yazılımı geliştirme konusunda birbirlerine yardım edemezler."
+
+#. type: Content of: <div><p>
+msgid ""
+"Proprietary software developers are often businesses.  We in the free "
+"software movement are not opposed to business, but we have seen what happens "
+"when a software business has the &ldquo;freedom&rdquo; to impose arbitrary "
+"rules on the users of software.  Microsoft is an egregious example of how "
+"denying users' freedoms can lead to direct harm, but it is not the only "
+"example.  Even when there is no monopoly, proprietary software harms "
+"society.  A choice of masters is not freedom."
+msgstr ""
+"Özel mülk yazılım geliştiricileri genellikle işletmelerdir. Özgür yazılım "
+"hareketindeki bizler işletmelere karşı değiliz, ancak bir yazılım "
+"işletmesinin yazılım kullanıcılarına keyfi kurallar dayatma &ldquo;"
+"özgürlüğüne&rdquo; sahip olduğunda neler olduğunu gördük. Örneğin Microsoft, "
+"kullanıcıların özgürlüklerini reddetmenin doğrudan zarara yol açabileceğinin "
+"korkunç bir örneğidir, ancak tek örnek değildir. Tekel olmadığında bile, "
+"özel mülk yazılım topluma zarar verir. Efendilerin seçimi özgürlük değildir."
+
+#. type: Content of: <div><p>
+msgid ""
+"Discussions of rights and rules for software have often concentrated on the "
+"interests of programmers alone.  Few people in the world program regularly, "
+"and fewer still are owners of proprietary software businesses.  But most of "
+"humanity now uses computers (specifically, smartphones) and thus uses "
+"software, so software developers now control the way they live, do business, "
+"communicate, and are entertained.  The ethical and political issues are not "
+"addressed by the slogan of &ldquo;freedom of choice (for developers only)."
+"&rdquo;"
+msgstr ""
+"Yazılımlar için haklar ve kurallar hakkındaki tartışmalar genellikle "
+"yalnızca programcıların çıkarlarına yoğunlaşmıştır. Dünyada çok az insan "
+"düzenli olarak programlama yapıyor ve daha da azı özel mülk yazılım "
+"işletmelerinin sahibidir. Ancak insanlığın çoğu artık bilgisayar kullanıyor "
+"(özellikle akıllı telefonlar) ve dolayısıyla yazılımları kullanıyor, bu "
+"nedenle yazılım geliştiricileri artık insanların yaşam biçimlerini, iş yapma "
+"biçimlerini, iletişimlerini ve eğlenme biçimlerini kontrol ediyorlar. Etik "
+"ve politik meseleler &ldquo;seçme özgürlüğü (sadece geliştiriciler için)"
+"&rdquo; sloganıyla ele alınmıyor."
+
+#. type: Content of: <div><p>
+msgid ""
+"If &ldquo;code is law,&rdquo; <a href=\"#f1\">(1)</a> then the real question "
+"we face is: who should control the code you use&mdash;you, or an elite few? "
+"We believe you are entitled to control the software you use, and giving you "
+"that control is the goal of free software."
+msgstr ""
+"Eğer &ldquo;kod kanunsa&rdquo; <a href=\"#f1\">(1)</a> o zaman karşı karşıya "
+"olduğumuz gerçek soru şudur: kullandığınız kodu kim kontrol etmelidir, siz "
+"mi yoksa birkaç seçkin mi? Kullandığınız yazılımı kontrol etme hakkınız "
+"olduğuna inanıyoruz ve özgür yazılımın amacı size bu kontrolü vermektir."
+
+#. type: Content of: <div><p>
+msgid ""
+"We believe you should decide what to do with the software you use; however, "
+"that is not what today's law says.  Current copyright law places us in the "
+"position of power over users of our code, whether we like it or not.  The "
+"ethical response to this situation is to proclaim freedom for each user, "
+"just as the Bill of Rights was supposed to exercise government power by "
+"guaranteeing each citizen's freedoms.  That is what the <a href=\"/licenses/"
+"copyleft.html\">GNU General Public License</a> is for: it puts you in "
+"control of your usage of the software while <a href=\"/philosophy/why-"
+"copyleft.html\">protecting you from others</a> who would like to take "
+"control of your decisions."
+msgstr ""
+"Kullandığınız yazılımla ne yapacağınıza karar vermeniz gerektiğine "
+"inanıyoruz; ancak, bugünün yasası bunu söylemiyor. Mevcut telif hakkı "
+"yasası, ister beğenelim ister beğenmeyelim, bizi kodumuzu kullananlar "
+"üzerinde güç sahibi bir konuma yerleştiriyor. Bu duruma verilecek etik "
+"yanıt, tıpkı Haklar Bildirgesi'nin, hükümetin gücünü her vatandaşın "
+"özgürlüğünü garanti altına alarak kullanmasını gerektirmesi gibi, her "
+"kullanıcı için özgürlük ilan etmektir. <a href=\"/licenses/copyleft.html"
+"\">GNU Genel Kamu Lisansı</a> bunun içindir: Yazılım kullanımınızı kontrol "
+"etmenizi sağlarken, kararlarınızı kontrol etmek isteyen <a href=\"/"
+"philosophy/why-copyleft.html\">başkalarından sizi korur</a>."
+
+#. type: Content of: <div><p>
+msgid ""
+"As more and more users realize that code is law, and come to feel that they "
+"too deserve freedom, they will see the importance of the freedoms we stand "
+"for, just as more and more users have come to appreciate the practical value "
+"of the free software we have developed."
+msgstr ""
+"Giderek daha fazla kullanıcı kodun bir yasa olduğunu fark edip, kendilerinin "
+"de özgürlüğü hak ettiğini hissettikçe, savunduğumuz özgürlüklerin önemini "
+"görecek, tıpkı giderek daha fazla kullanıcının geliştirdiğimiz özgür "
+"yazılımların pratik değerini takdir etmesi gibi."
+
+#. type: Content of: <div><h3>
+msgid "Footnote"
+msgstr "Dipnot"
+
+#. type: Content of: <div><ol><li>
+msgid ""
+"William J. Mitchell, <cite>City of Bits: Space, Place, and the Infobahn</"
+"cite> (Cambridge, Mass.: MIT Press, 1995), p. 111, as quoted by Lawrence "
+"Lessig in <cite>Code and Other Laws of Cyberspace, Version 2.0</cite> (New "
+"York, NY: Basic Books, 2006), p. 5."
+msgstr ""
+"William J. Mitchell, <cite>City of Bits: Space, Place, and the Infobahn</"
+"cite> (Cambridge, Mass.: MIT Press, 1995), s. 111, alıntılayan Lawrence "
+"Lessig, <cite>Code and Other Laws of Cyberspace, Version 2.0</cite> (New "
+"York, NY: Basic Books, 2006), s. 5."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"This essay is published in <a href=\"https://shop.fsf.org/product/free-"
+"software-free-society/\"><cite>Free Software, Free Society: The Selected "
+"Essays of Richard M. Stallman</cite></a>."
+msgstr ""
+"Bu yazı <a href=\"https://shop.fsf.org/product/free-software-free-society/"
+"\"><cite>Özgür Yazılım, Özgür Toplum: Richard M. Stallman'ın Seçme Yazıları</"
+"cite></a> kitabında yayınlanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+#
+#
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2001, 2009, 2021 Bradley M. Kuhn and Richard M. Stallman"
+msgstr ""
+"Copyright &copy; 2001, 2009, 2021 Bradley M. Kuhn and Richard M. Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"Verbatim copying and distribution of this entire article is permitted "
+"without royalty in any medium, provided this notice is preserved."
+msgstr ""
+"Bu makalenin tamamının kelimesi kelimesine kopyalanmasına ve dağıtılmasına, "
+"bu uyarının korunması koşuluyla herhangi bir ortamda telif hakkı olmaksızın "
+"izin verilir."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>Mert Gör <a href=\"mailto:mertgor@masscollabs.xyz\">&lt;"
+"mertgor@masscollabs.xyz&gt;</a>, 2025</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
