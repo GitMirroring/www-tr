@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: upgrade-windows.html\n"
-"POT-Creation-Date: 2021-09-05 10:26+0000\n"
-"PO-Revision-Date: 2021-07-23 16:06+0200\n"
+"POT-Creation-Date: 2025-04-13 15:58+0000\n"
+"PO-Revision-Date: 2025-04-14 21:31+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -88,11 +88,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Our advice to those using any version of Windows is to <a href=\"https://"
-"upgradefromwindows.org\">upgrade to GNU/Linux</a>."
+"Our advice to those using any version of Windows is to <a href=\"https://www."
+"fsf.org/windows\">upgrade to GNU/Linux</a>."
 msgstr ""
 "Windows'un herhangi bir sürümünü kullananlara önerimiz, <a href=\"https://"
-"upgradefromwindows.org\">GNU/Linux'a yükseltmeleridir</a>."
+"www.fsf.org/windows\">GNU/Linux'a yükseltmeleridir</a>."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -158,8 +158,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2019, 2021 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2019, 2021 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2019, 2025 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2019, 2025 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
