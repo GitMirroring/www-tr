@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-menu.html\n"
-"POT-Creation-Date: 2024-01-23 17:27+0000\n"
-"PO-Revision-Date: 2024-01-27 12:27+0100\n"
+"POT-Creation-Date: 2025-05-09 12:27+0000\n"
+"PO-Revision-Date: 2025-05-11 08:50+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Poedit 3.5\n"
 
 #. type: Content of: <div><div>
 msgid "<a href=\"#content\"><span>BACK TO TOP </span>&#9650;</a>"
@@ -24,6 +24,13 @@ msgstr "<a href=\"#content\"><span>BAŞA DÖN </span>&#9650;</a>"
 #. type: Content of: <div><div><h3>
 msgid "Proprietary malware"
 msgstr "Özel mülk kötücül yazılım"
+
+#. type: Content of: <div><div><dl><dt>
+msgid ""
+"<a href=\"/proprietary/all.html#content\">All items added since 2018</a>"
+msgstr ""
+"<a href=\"/proprietary/all.html#content\">2018'den beri eklenen tüm öğeler</"
+"a>"
 
 #. type: Content of: <div><div><dl><dt>
 msgid "By type"
