@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2025-01-26 12:56+0000\n"
-"PO-Revision-Date: 2025-02-01 08:06+0100\n"
+"POT-Creation-Date: 2025-07-26 18:26+0000\n"
+"PO-Revision-Date: 2025-07-30 21:02+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 #. type: Content of: <title>
 msgid "The GNU Operating System and the Free Software Movement"
@@ -116,186 +116,182 @@ msgstr ""
 msgid "<a href=\"/distros/free-distros.html\">Try GNU/Linux</a>"
 msgstr "<a href=\"/distros/free-distros.html\">GNU/Linux'u Deneyin</a>"
 
-#. #if expr="$DISTRO = dragora" 
-#. type: Content of: <div><div><div><div><a>
-msgid "<a href=\"/distros/screenshots/dragora-tde.jpg\">"
-msgstr "<a href=\"/distros/screenshots/dragora-tde.jpg\">"
+#. type: Content of: <div><div><div><p>
+msgid "<small><a href=\"#btn-right\">[Skip screenshots]</a></small>"
+msgstr "<small><a href=\"#btn-right\">[Ekran görüntülerini atla]</a></small>"
+
+#. type: Content of: <div><div><div><div><div><p><a>
+msgid "<a href=\"#dragora\">"
+msgstr "<a href=\"#dragora\">"
 
 #. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
 msgid "&nbsp;[Screenshot of Dragora&nbsp;3.0-beta2 with TDE desktop]&nbsp;"
 msgstr ""
 "&nbsp;[TDE masaüstü ile Dragora&nbsp;3.0-beta'nın ekran görüntüsü]&nbsp;"
 
+#. type: Content of: <div><div><div><div><div><p>
+msgid "Dragora / TDE</a>"
+msgstr "Dragora / TDE</a>"
+
+#. type: Content of: <div><div><div><div><div><p><a>
+msgid "<a href=\"#guix\">"
+msgstr "<a href=\"#guix\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Guix&nbsp;1.4.0 with Plasma desktop]&nbsp;"
+msgstr "&nbsp;[Plasma masaüstü ile Guix&nbsp;1.4.0'ın ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><div><div><p>
+msgid "Guix / Plasma</a>"
+msgstr "Guix / Plasma</a>"
+
+#. type: Content of: <div><div><div><div><div><p><a>
+msgid "<a href=\"#hyperbola\">"
+msgstr "<a href=\"#hyperbola\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Hyperbola with i3 window manager]&nbsp;"
+msgstr "&nbsp;[i3 pencere yöneticisi ile Hyperbola'nın ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><div><div><p>
+msgid "Hyperbola / i3</a>"
+msgstr "Hyperbola / i3</a>"
+
+#. type: Content of: <div><div><div><div><div><p><a>
+msgid "<a href=\"#parabola\">"
+msgstr "<a href=\"#parabola\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Parabola with LXDE desktop]&nbsp;"
+msgstr "&nbsp;[LXDE masaüstü ile Parabola'nın ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><div><div><p>
+msgid "Parabola / LXDE</a>"
+msgstr "Parabola / LXDE</a>"
+
+#. type: Content of: <div><div><div><div><div><p><a>
+msgid "<a href=\"#pureos\">"
+msgstr "<a href=\"#pureos\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of PureOS&nbsp;10.3 with GNOME&nbsp;3 desktop]&nbsp;"
+msgstr ""
+"&nbsp;[GNOME&nbsp;3 masaüstü ile PureOS&nbsp;10.3'ün ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><div><div><p>
+msgid "PureOS / GNOME3</a>"
+msgstr "PureOS / GNOME3</a>"
+
+#. type: Content of: <div><div><div><div><div><p><a>
+msgid "<a href=\"#trisquel\">"
+msgstr "<a href=\"#trisquel\">"
+
+#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
+msgid "&nbsp;[Screenshot of Trisquel&nbsp;11 with MATE desktop]&nbsp;"
+msgstr "&nbsp;[MATE masaüstü ile Trisquel&nbsp;11'un ekran görüntüsü]&nbsp;"
+
+#. type: Content of: <div><div><div><div><div><p>
+msgid "Trisquel / MATE</a>"
+msgstr "Trisquel / MATE</a>"
+
+#. type: Content of: <div><div><div><div><div>
+msgid ""
+"<a class=\"close-screenshot\" title=\"close\" href=\"#skip-screenshots"
+"\">&times;</a>"
+msgstr ""
+"<a class=\"close-screenshot\" title=\"close\" href=\"#skip-screenshots"
+"\">&times;</a>"
+
+#. type: Content of: <div><div><div><div><div><a>
+msgid "<a href=\"/distros/screenshots/dragora-tde.jpg\">"
+msgstr "<a href=\"/distros/screenshots/dragora-tde.jpg\">"
+
 #. type: Content of: <div><div><div><h3>
 msgid "</a>"
 msgstr "</a>"
 
-#. type: Content of: <div><div><div><div><p>
+#. type: Content of: <div><div><div><div><div><p>
 msgid ""
-"<small><a href=\"https://dragora.org/index.html\"> Dragora&nbsp;3.0-beta2</"
-"a> with <a href=\"https://www.trinitydesktop.org/\">TDE</a> desktop</small>"
+"<a href=\"https://dragora.org/index.html\"> Dragora&nbsp;3.0-beta2</a> with "
+"<a href=\"https://www.trinitydesktop.org/\">TDE</a> desktop"
 msgstr ""
-"<small><a href=\"https://www.trinitydesktop.org/\">TDE</a> masaüstü ile <a "
-"href=\"https://dragora.org/index.html\"> Dragora&nbsp;3.0-beta2</a></small>"
+"<a href=\"https://www.trinitydesktop.org/\">TDE</a> masaüstü ile <a href="
+"\"https://dragora.org/index.html\"> Dragora&nbsp;3.0-beta2</a>"
 
-#. #endif 
-#. #if expr="$DISTRO = guix" 
-#. type: Content of: <div><div><div><div><a>
-msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
-msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
+#. type: Content of: <div><div><div><div><div><a>
+msgid "<a href=\"https://guix.gnu.org/static/media/img/plasma.png\">"
+msgstr "<a href=\"https://guix.gnu.org/static/media/img/plasma.png\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
-msgid "&nbsp;[Screenshot of Guix&nbsp;0.15 with GNOME&nbsp;3 desktop]&nbsp;"
-msgstr ""
-"&nbsp;[GNOME&nbsp;3 masaüstü ile Guix&nbsp;0.15'in ekran görüntüsü]&nbsp;"
-
-#. type: Content of: <div><div><div><div><p>
+#. type: Content of: <div><div><div><div><div><p>
 msgid ""
-"<small><a href=\"/software/guix/\">Guix&nbsp;0.15</a> with <a href=\"https://"
-"www.gnome.org/\">GNOME&nbsp;3</a> desktop, Epiphany web browser, Totem video "
-"player, and GNOME terminal emulator</small>"
+"<a href=\"/software/guix/\">Guix&nbsp;1.4.0</a> with <a href=\"https://kde."
+"org/plasma-desktop/\">Plasma</a> desktop, terminal emulator, and system "
+"settings"
 msgstr ""
-"<small><a href=\"https://www.gnome.org/\">GNOME&nbsp;3</a> masaüstü ile <a "
-"href=\"/software/guix/\">Guix&nbsp;0.15</a>, Epiphany web tarayıcısı, Totem "
-"video oynatıcısı ve GNOME uçbirim öykünücüsü</small>"
+"<a href=\"https://kde.org/plasma-desktop/\">Plasma</a> masaüstü, uçbirim "
+"öykünücü ve sistem ayarları ile <a href=\"/software/guix/\">Guix&nbsp;1.4.0</"
+"a>"
 
-#. #endif 
-#. #if expr="$DISTRO = hyperbola" 
-#. type: Content of: <div><div><div><div><a>
+#. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
 msgstr "<a href=\"/distros/screenshots/hyperbola-i3.png\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
-msgid "&nbsp;[Screenshot of Hyperbola with i3 window manager]&nbsp;"
-msgstr "&nbsp;[i3 pencere yöneticisi ile Hyperbola'nın ekran görüntüsü]&nbsp;"
-
-#. type: Content of: <div><div><div><div><p>
+#. type: Content of: <div><div><div><div><div><p>
 msgid ""
-"<small><a href=\"https://www.hyperbola.info/\"> Hyperbola&nbsp;0.3</a> with "
-"<a href=\"https://i3wm.org/\">i3 window manager</a>, cool-retro-term "
-"(terminal emulator), Gimp (image editor), and Iceweasel-UXP (web browser)</"
-"small>"
+"<a href=\"https://www.hyperbola.info/\"> Hyperbola</a> with <a href="
+"\"https://i3wm.org/\">i3 window manager</a>, cool-retro-term (terminal "
+"emulator), Gimp (image editor), and Iceweasel-UXP (web browser)"
 msgstr ""
-"<small><a href=\"https://i3wm.org/\">i3 pencere yöneticisi</a> ile <a href="
+"<a href=\"https://i3wm.org/\">i3 pencere yöneticisi</a> ile <a href="
 "\"https://www.hyperbola.info/\">Hyperbola&nbsp;0.3</a>, cool-retro-term "
 "(uçbirim öykünücüsü), Gimp (görüntü düzenleyicisi) ve Iceweasel-UXP (web "
-"tarayıcısı)</small>"
+"tarayıcısı)"
 
-#. #endif 
-#. #if expr="$DISTRO = parabola" 
-#. type: Content of: <div><div><div><div><a>
+#. type: Content of: <div><div><div><div><div><a>
 msgid "<a href=\"/distros/screenshots/parabola2020-lxde.jpg\">"
 msgstr "<a href=\"/distros/screenshots/parabola2020-lxde.jpg\">"
 
-#. type: Attribute 'alt' of: <div><div><div><div><a><img>
-msgid "&nbsp;[Screenshot of Parabola with LXDE desktop]&nbsp;"
-msgstr "&nbsp;[LXDE masaüstü ile Parabola'nın ekran görüntüsü]&nbsp;"
-
-#. type: Content of: <div><div><div><div><p>
+#. type: Content of: <div><div><div><div><div><p>
 msgid ""
-"<small><a href=\"https://www.parabola.nu\">Parabola&nbsp;2020</a> with <a "
-"href=\"http://lxde.sourceforge.net/about.html\">LXDE desktop</a></small>"
+"<a href=\"https://www.parabola.nu\">Parabola</a> with <a href=\"http://lxde."
+"sourceforge.net/about.html\">LXDE desktop</a>"
 msgstr ""
-"<small><a href=\"http://lxde.sourceforge.net/about.html\">LXDE masaüstü</a> "
-"ile <a href=\"https://www.parabola.nu\">Parabola&nbsp;2020</a></small>"
+"<a href=\"http://lxde.sourceforge.net/about.html\">LXDE masaüstü</a> ile <a "
+"href=\"https://www.parabola.nu\">Parabola</a>"
 
-#. #endif 
-#. #if expr="$DISTRO = pureos" 
-#. type: Content of: <div><div><div><div><a>
-msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
-msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
-
-#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
-msgid "&nbsp;[Screenshot of PureOS&nbsp;8 with GNOME&nbsp;3 desktop]&nbsp;"
-msgstr ""
-"&nbsp;[GNOME&nbsp;3 masaüstü ile PureOS&nbsp;8'in ekran görüntüsü]&nbsp;"
-
-#. type: Content of: <div><div><div><div><p>
+#. type: Content of: <div><div><div><div><div><a>
 msgid ""
-"<small><a href=\"https://www.pureos.net/\">PureOS&nbsp;8</a> with <a href="
-"\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, PureBrowser (web "
-"browser), and Gimp (image editor)</small>"
+"<a href=\"https://upload.wikimedia.org/wikipedia/commons/4/44/Pureos-desktop-"
+"byzantium.jpg\">"
 msgstr ""
-"<small><a href=\"https://www.gnome.org/\">GNOME&nbsp;3</a> masaüstü ile <a "
-"href=\"https://www.pureos.net/\">PureOS&nbsp;8</a>, PureBrowser (web "
-"tarayıcısı) ve Gimp (görüntü düzenleyicisi)</small>"
+"<a href=\"https://upload.wikimedia.org/wikipedia/commons/4/44/Pureos-desktop-"
+"byzantium.jpg\">"
 
-#. #endif 
-#. #if expr="$DISTRO = trisquel" 
-#. type: Content of: <div><div><div><div><a>
-msgid "<a href=\"https://trisquel.info/files/screenshots/t10-office_0.jpg\">"
-msgstr "<a href=\"https://trisquel.info/files/screenshots/t10-office_0.jpg\">"
-
-#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
-msgid "&nbsp;[Screenshot of Trisquel&nbsp;10 with MATE desktop]&nbsp;"
-msgstr "&nbsp;[Trisquel&nbsp;10'un MATE masaüstü ile ekran görüntüsü]&nbsp;"
-
-#. type: Content of: <div><div><div><div><p>
+#. type: Content of: <div><div><div><div><div><p>
 msgid ""
-"<small><a href=\"https://trisquel.info\">Trisquel&nbsp;10</a> with <a href="
+"<a href=\"https://www.pureos.net/\">PureOS&nbsp;10.3</a> with <a href="
+"\"https://www.gnome.org/\">GNOME&nbsp;3</a> desktop, photo manager, web "
+"browser, and music player"
+msgstr ""
+"<a href=\"https://www.gnome.org/\">GNOME&nbsp;3</a> masaüstü, fotoğraf "
+"yöneticisi, web tarayıcısı ve müzik oynatıcı ile <a href=\"https://www."
+"pureos.net/\">PureOS&nbsp;10.3</a>"
+
+#. type: Content of: <div><div><div><div><div><a>
+msgid ""
+"<a href=\"https://trisquel.info/files/screenshots/aramo-libreoffice_0.jpg\">"
+msgstr ""
+"<a href=\"https://trisquel.info/files/screenshots/aramo-libreoffice_0.jpg\">"
+
+#. type: Content of: <div><div><div><div><div><p>
+msgid ""
+"<a href=\"https://trisquel.info\">Trisquel&nbsp;11</a> with <a href="
 "\"https://mate-desktop.org/\">MATE</a> desktop, and part of the <a href="
-"\"https://www.libreoffice.org/\">LibreOffice</a> suite.</small>"
+"\"https://www.libreoffice.org/\">LibreOffice</a> suite"
 msgstr ""
-"<small><a href=\"https://mate-desktop.org/\">MATE</a> masaüstü ile <a href="
-"\"https://trisquel.info\">Trisquel&nbsp;10</a>, ve <a href=\"https://www."
-"libreoffice.org/\">LibreOffice</a> paketinin bir kısmı.</small>"
-
-#. type: Content of: <div><div><div><div><div><a>
-msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=dragora#gnu-linux\">"
-
-#. type: Content of: <div><div><div><div><div><p>
-msgid "<small>Dragora / TDE</small>"
-msgstr "<small>Dragora / TDE</small>"
-
-#. type: Content of: <div><div><div><div><div><a>
-msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
-
-#. type: Content of: <div><div><div><div><div><p>
-msgid "<small>Guix / GNOME3</small>"
-msgstr "<small>Guix / GNOME3</small>"
-
-#. type: Content of: <div><div><div><div><div><a>
-msgid "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
-
-#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
-msgid "&nbsp;[Screenshot of Hyperbola&nbsp;0.3 with i3 window manager]&nbsp;"
-msgstr ""
-"&nbsp;[i3 pencere yöneticisi ile Hyperbola&nbsp;0.3'ün ekran görüntüsü]&nbsp;"
-
-#. type: Content of: <div><div><div><div><div><p>
-msgid "<small>Hyperbola / i3</small>"
-msgstr "<small>Hyperbola / i3</small>"
-
-#. type: Content of: <div><div><div><div><div><a>
-msgid "<a href=\"/home.html?distro=parabola#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=parabola#gnu-linux\">"
-
-#. type: Attribute 'alt' of: <div><div><div><div><div><a><img>
-msgid "&nbsp;[Screenshot of Parabola&nbsp;2020 with LXDE desktop]&nbsp;"
-msgstr "&nbsp;[LXDE masaüstü ile Parabola&nbsp;2020'nin ekran görüntüsü]&nbsp;"
-
-#. type: Content of: <div><div><div><div><div><p>
-msgid "<small>Parabola / LXDE</small>"
-msgstr "<small>Parabola / LXDE</small>"
-
-#. type: Content of: <div><div><div><div><div><a>
-msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
-
-#. type: Content of: <div><div><div><div><div><p>
-msgid "<small>PureOS / GNOME3</small>"
-msgstr "<small>PureOS / GNOME3</small>"
-
-#. type: Content of: <div><div><div><div><div><a>
-msgid "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
-msgstr "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
-
-#. type: Content of: <div><div><div><div><div><p>
-msgid "<small>Trisquel / MATE</small>"
-msgstr "<small>Trisquel / MATE</small>"
+"<a href=\"https://mate-desktop.org/\">MATE</a> masaüstü ile <a href="
+"\"https://trisquel.info\">Trisquel&nbsp;11</a>, ve <a href=\"https://www."
+"libreoffice.org/\">LibreOffice</a> paketinin bir kısmı"
 
 #. type: Content of: <div><div><div>
 msgid ""
@@ -746,6 +742,43 @@ msgstr ""
 msgid "Updated:"
 msgstr "Son Güncelleme:"
 
+#~ msgid "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
+#~ msgstr "<a href=\"/distros/screenshots/guixSD-gnome3.jpg\">"
+
+#~ msgid "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
+#~ msgstr "<a href=\"/distros/screenshots/pureos8-gnome3.jpg\">"
+
+#~ msgid "<a href=\"/home.html?distro=dragora#gnu-linux\">"
+#~ msgstr "<a href=\"/home.html?distro=dragora#gnu-linux\">"
+
+#~ msgid "<a href=\"/home.html?distro=guix#gnu-linux\">"
+#~ msgstr "<a href=\"/home.html?distro=guix#gnu-linux\">"
+
+#~ msgid "<small>Guix / GNOME3</small>"
+#~ msgstr "<small>Guix / GNOME3</small>"
+
+#~ msgid "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
+#~ msgstr "<a href=\"/home.html?distro=hyperbola#gnu-linux\">"
+
+#~ msgid ""
+#~ "&nbsp;[Screenshot of Hyperbola&nbsp;0.3 with i3 window manager]&nbsp;"
+#~ msgstr ""
+#~ "&nbsp;[i3 pencere yöneticisi ile Hyperbola&nbsp;0.3'ün ekran görüntüsü]"
+#~ "&nbsp;"
+
+#~ msgid "<a href=\"/home.html?distro=parabola#gnu-linux\">"
+#~ msgstr "<a href=\"/home.html?distro=parabola#gnu-linux\">"
+
+#~ msgid "&nbsp;[Screenshot of Parabola&nbsp;2020 with LXDE desktop]&nbsp;"
+#~ msgstr ""
+#~ "&nbsp;[LXDE masaüstü ile Parabola&nbsp;2020'nin ekran görüntüsü]&nbsp;"
+
+#~ msgid "<a href=\"/home.html?distro=pureos#gnu-linux\">"
+#~ msgstr "<a href=\"/home.html?distro=pureos#gnu-linux\">"
+
+#~ msgid "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
+#~ msgstr "<a href=\"/home.html?distro=trisquel#gnu-linux\">"
+
 #~ msgid ""
 #~ "This year, <a href=\"https://www.fsf.org/blogs/community/2024-ethical-"
 #~ "tech-giving-guide\"> choose Freedom as a gift</a>. <strong><a href="
@@ -766,9 +799,6 @@ msgstr "Son Güncelleme:"
 #~ msgstr ""
 #~ "&nbsp;[IceWM pencere yöneticisi ile Dragora&nbsp;3.0-beta1'in ekran "
 #~ "görüntüsü]&nbsp;"
-
-#~ msgid "<a href=\"/gnu40/\">"
-#~ msgstr "<a href=\"/gnu40/\">"
 
 #~ msgid "40th GNU Anniversary Hacker Meeting"
 #~ msgstr "40. GNU Yıl Dönümü Hacker Buluşması"
