@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2025-09-08 15:55+0000\n"
-"PO-Revision-Date: 2025-09-19 19:43+0200\n"
+"POT-Creation-Date: 2025-09-30 07:55+0000\n"
+"PO-Revision-Date: 2025-10-23 09:19+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -529,6 +529,10 @@ msgstr ""
 "href=\"/software/guile-sdl/\">guile-sdl</a>, <a href=\"/software/superopt/"
 "\">superopt</a>"
 
+#. type: Content of: <div><div><div><ul><li>
+msgid "."
+msgstr "."
+
 #. type: Content of: <div><div><div><p>
 msgid "Also, these packages are looking for co-maintainers:"
 msgstr "Ayrıca bu paketler yardımcı sorumlular arıyor:"
@@ -538,18 +542,12 @@ msgid ""
 "<a href=\"/software/aspell/\">aspell</a>, <a href=\"/software/bison/"
 "\">bison</a>, <a href=\"/software/gnuae/\">gnuae</a>, <a href=\"/software/"
 "gnubik/\">gnubik</a>, <a href=\"/software/metaexchange/\">metaexchange</a>, "
-"<a href=\"/software/powerguru/\">powerguru</a>, <a href=\"/software/xboard/"
-"\">xboard</a>"
+"<a href=\"/software/powerguru/\">powerguru</a>"
 msgstr ""
 "<a href=\"/software/aspell/\">aspell</a>, <a href=\"/software/bison/"
 "\">bison</a>, <a href=\"/software/gnuae/\">gnuae</a>, <a href=\"/software/"
 "gnubik/\">gnubik</a>, <a href=\"/software/metaexchange/\">metaexchange</a>, "
-"<a href=\"/software/powerguru/\">powerguru</a>, <a href=\"/software/xboard/"
-"\">xboard</a>"
-
-#. type: Content of: <div><div><div><ul><li>
-msgid "."
-msgstr "."
+"<a href=\"/software/powerguru/\">powerguru</a>"
 
 #. type: Content of: <div><div><div><p>
 msgid "See the package web pages for more information."

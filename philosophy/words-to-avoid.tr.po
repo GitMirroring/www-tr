@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-21 11:55+0000\n"
-"PO-Revision-Date: 2025-09-28 14:40+0200\n"
+"POT-Creation-Date: 2025-09-30 10:25+0000\n"
+"PO-Revision-Date: 2025-10-23 09:32+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -350,6 +350,11 @@ msgid "&ldquo;<a href=\"#SourceModel\">Source model</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SourceModel\">Kaynak model</a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
+msgid "&ldquo;<a href=\"#Steward\">Steward</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#Steward\">Sorumlu</a>&rdquo; |"
+
+#.  GNUN-SORT-NEXT-ITEM 
 #. #if expr="$LANGUAGE_SUFFIX	= /^.(es)$/" 
 #.  TRANSLATORS: translate if this word is used often in your
 #.      language to refer to mobile computers; otherwise,
@@ -366,6 +371,12 @@ msgstr "&ldquo;<a href=\"#Terminal\">Uçbirim</a>&rdquo; |"
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Theft\">Theft</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Theft\">Hırsızlık</a>&rdquo; |"
+
+#.  GNUN-SORT-END-KEY 
+#.  GNUN-SORT-NEXT-ITEM 
+#. type: Content of: <div><div><p>
+msgid "&ldquo;<a href=\"#Tool\">Tool</a>&rdquo; |"
+msgstr "&ldquo;<a href=\"#Tool\">Araç</a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
@@ -619,7 +630,7 @@ msgid ""
 "understanding that verbiage semantically.  This conclusion has received "
 "support from the paper titled <a href=\"https://link.springer.com/"
 "article/10.1007/s10676-024-09775-5\"> <cite>ChatGPT is bullshit</cite></a> "
-"by <a href=\"#ft1\">Hicks et al.</a>, (2024)."
+"by <a href=\"#ft1\">Hicks et al.</a> (2024)."
 msgstr ""
 "&ldquo;Zırva üreticileri&rdquo; laf kalabalığını anlamsal olarak kavramadan "
 "dünya hakkında iddialar içeren pürüzsüz tınlayan laf kalabalığı üreten "
@@ -688,16 +699,18 @@ msgid ""
 "organism shows a certain medical condition, <a href=\"https://www."
 "theguardian.com/environment/2024/apr/03/early-warning-system-track-asian-"
 "hornets-university-of-exeter\">whether an insect is a bee-eating Asian "
-"hornet</a>, or <a href=\"https://www.theguardian.com/society/article/2024/"
+"hornet</a>, <a href=\"https://www.theguardian.com/society/article/2024/"
 "aug/19/ai-may-help-experts-identify-toddlers-at-risk-of-autism-researchers-"
-"say\">whether a toddler may be at risk of becoming autistic</a>.  Scientists "
-"validate the output by comparing the system's judgment against experimental "
-"tests.  That justifies referring to these systems as &ldquo;artificial "
-"intelligence.&rdquo; Likewise the systems that antisocial media use to "
-"decide what to show or recommend to a user, since the companies validate "
-"that they actually understand what will increase &ldquo;user engagement,"
-"&rdquo; even though that manipulation of users may be harmful <em>to them "
-"and to society as a whole</em>."
+"say\">whether a toddler may be at risk of becoming autistic</a>, or <a href="
+"\"https://www.theguardian.com/artanddesign/2025/sep/27/caravaggio-the-lute-"
+"player-badminton-ai-analysis\">how well a certain art work matches some "
+"artist's style and habits</a>.  Scientists validate the system by comparing "
+"its judgment against experimental tests.  That justifies referring to these "
+"systems as &ldquo;artificial intelligence.&rdquo; Likewise the systems that "
+"antisocial media use to decide what to show or recommend to a user, since "
+"the companies validate that they actually understand what will increase "
+"&ldquo;user engagement,&rdquo; even though that manipulation of users may be "
+"harmful <em>to them and to society as a whole</em>."
 msgstr ""
 "Veride belirli önemli desenleri tanımayı öğrenen makine öğrenmesi kullanan "
 "sistemler var. Çıktıları (mükemmel bir doğrulukta olmasa bile) hakiki "
@@ -707,15 +720,17 @@ msgstr ""
 "hornets-university-of-exeter\">bir böcek arı yiyen Asya eşek arısı mı değil "
 "mi</a>, veya  or <a href=\"https://www.theguardian.com/society/article/2024/"
 "aug/19/ai-may-help-experts-identify-toddlers-at-risk-of-autism-researchers-"
-"say\">minik bir çocuğun otizm sendromu olma riski var mı yok mu</a>. gibi. "
-"Bilim insanları, sistemin deneysel sınamalara karşı yargısını "
-"karşılaştırarak çıktılarını doğruluyorlar. Bu da bu sistemleri &ldquo;yapay "
-"zekâ&rdquo; olarak adlandırmayı haklı çıkarıyor. Aynı şekilde antisosyal "
-"medyanın kullanıcıya ne gösterip göstermeyeceğine karar veren sistemler de "
-"öyle, ne de olsa şirketler bunların gerçekten anladığını, artan &ldquo;"
-"kullanıcı etkileşimi&rdquo; anlamında doğruluyor, her ne kadar "
-"kullanıcıların manipülasyonu <em>hem kullanıcılara hem de bir bütün olarak "
-"topluma</em> zararlı olsa da."
+"say\">minik bir çocuğun otizm sendromu olma riski var mı yok mu</a> veya <a "
+"href=\"https://www.theguardian.com/artanddesign/2025/sep/27/caravaggio-the-"
+"lute-player-badminton-ai-analysis\">bir sanat eseri sanatçının tarzı ve "
+"alışkanlıklarını ne kadar iyi yansıtır</a> gibi. Bilim insanları sistemin "
+"kararlarını deneysel testlerle karşılaştırarak doğruluyorlar. Bu da bu "
+"sistemleri &ldquo;yapay zekâ&rdquo; olarak adlandırmayı haklı çıkarıyor. "
+"Aynı şekilde antisosyal medyanın kullanıcıya ne gösterip göstermeyeceğine "
+"karar veren sistemler de öyle, ne de olsa şirketler bunların gerçekten "
+"anladığını, artan &ldquo;kullanıcı etkileşimi&rdquo; anlamında doğruluyor, "
+"her ne kadar kullanıcıların manipülasyonu <em>hem kullanıcılara hem de bir "
+"bütün olarak topluma</em> zararlı olsa da."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -2316,8 +2331,9 @@ msgstr ""
 "açık kaynak&rdquo; terimini kullanmaktan kaçının. Bu terimler farklı "
 "değerlere sahip <a href=\"/philosophy/open-source-misses-the-point.html"
 "\">farklı konumları</a> temsil ediyor. Özgür yazılım hareketi, bir hak "
-"mücadelesi olarak bilişimdeki özgürlüğünüz için kampanyalar yürütüyor. Açık "
-"kaynak hareketsizliği hiç bir şey için bu şekilde bir kampanya yürütmüyor."
+"mücadelesi olarak hesaplamadaki özgürlüğünüz için kampanyalar yürütüyor. "
+"Açık kaynak hareketsizliği hiç bir şey için bu şekilde bir kampanya "
+"yürütmüyor."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -2887,6 +2903,34 @@ msgstr ""
 "sağlamış oluyor."
 
 #. type: Content of: <div><h3>
+msgid "&ldquo;Steward&rdquo;"
+msgstr "&ldquo;Steward&rdquo;"
+
+#. type: Content of: <div><p>
+msgid ""
+"We urge you to completely avoid use of the word &ldquo;steward&rdquo; in "
+"association with any free program or with free software in general.  A "
+"European Union Directive has given the word a precise legal meaning which "
+"implies certain legal responsibilities.  Let's not risk imposing "
+"responsibilities on free software developers by casually calling people "
+"&ldquo;stewards.&rdquo;"
+msgstr ""
+"Herhangi bir özgür programla veya genel olarak özgür yazılımla bağlantılı "
+"olarak &ldquo;sorumlu&rdquo; (steward) kelimesinin kullanımından tamamen "
+"kaçınmanızı rica ederiz. Avrupa Birliği Direktifi, bu kelimeye belirli yasal "
+"sorumlulukları içeren kesin bir yasal anlam vermiştir. İnsanları gelişigüzel "
+"bir şekilde &ldquo;sorumlu&rdquo; olarak adlandırarak özgür yazılım "
+"geliştiricilerine sorumluluk yükleme riskine girmeyelim."
+
+#. type: Content of: <div><p>
+msgid ""
+"However, if your lawyer has given you specific legal advice about this, we "
+"encourage you to follow it."
+msgstr ""
+"Ancak, avukatınız bu konuda size özel hukuki tavsiye vermişse verdiği "
+"tavsiyeye uymanızı öneririz."
+
+#. type: Content of: <div><h3>
 msgid "&ldquo;Terminal&rdquo;"
 msgstr "&ldquo;Uçbirim&rdquo;"
 
@@ -2900,8 +2944,8 @@ msgstr ""
 "Mobil telefonlar ve tabletler bilgisayardır ve insanlar bu aygıtlardaki "
 "hesaplamalarını özgür yazılım kullanarak yapabilmelidir. Onları &ldquo;"
 "uçbirim (terminal)&rdquo; olarak adlandırmak, bu aygıtların sunuculara "
-"bağlanmak için uygun olduğunu varsayar, bu da kendi hesaplamalarınız yapmak "
-"için kötü bir yoldur."
+"bağlanmak için uygun olduğunu varsayar, bu da kendi bilişiminizi yapmak için "
+"kötü bir yoldur."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Theft&rdquo;"
@@ -2970,6 +3014,65 @@ msgstr ""
 "href=\"https://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-"
 "terms-in-hotfile-trial-131129/\">&ldquo;korsanlık&rdquo; ve &ldquo;"
 "hırsızlık&rdquo; kelimelerini karalama</a> olarak tanımlamıştır."
+
+#. type: Content of: <div><h3>
+msgid "&ldquo;Tool&rdquo;"
+msgstr "&ldquo;Araç&rdquo;"
+
+#. type: Content of: <div><p>
+msgid "If someone invites you to use a &ldquo;tool&rdquo;, watch out!"
+msgstr ""
+"Birisi sizi bir &ldquo;araç&rdquo; kullanmaya davet ederse, dikkatli olun!"
+
+#. type: Content of: <div><p>
+msgid ""
+"We used to use the word &ldquo;tool&rdquo; to refer to programs that "
+"programmers use in software development&mdash;such as the GNU Compiler "
+"Collection.  No problem with that meaning."
+msgstr ""
+"Eskiden, GNU Derleyici Koleksiyonu gibi, yazılım geliştirmede programcıların "
+"kullandığı programları ifade etmek için &ldquo;araç&rdquo; kelimesini "
+"kullanırdık. Bu anlamda bir sorun yok."
+
+#. type: Content of: <div><p>
+msgid ""
+"Nowadays we see people using the word &ldquo;tool&rdquo; to lump together "
+"programs and remote services, treating that difference as insignificant.  "
+"Morally, that distinction is crucial: a program that you can install to do "
+"your computing can respect your freedom (if it is free software), but a "
+"service <a href=\"/philosophy/who-does-that-server-really-serve.html\">to do "
+"some of <em>your</em> computing while running on someone else's server</a> "
+"cannot possibly respect your freedom."
+msgstr ""
+"Günümüzde insanlar, programları ve uzaktan hizmetleri aynı kefeye koyarak "
+"&ldquo;araç&rdquo; kelimesini kullanıyor ve bu fark önemsizmiş gibi "
+"görüyorlar. Ahlaki açıdan bu ayrım çok önemlidir: bilgisayarınızda "
+"çalıştırmak için yükleyebileceğiniz bir program özgürlüğünüzü koruyabilir "
+"(eğer özgür yazılım ise), ancak başka birinin sunucusunda çalışırken <a href="
+"\"/philosophy/who-does-that-server-really-serve.html\"><em>sizin</em> için "
+"hesaplama yapan</a> bir hizmet özgürlüğünüzü koruyamaz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Please avoid using the word &ldquo;tool&rdquo; with this vague meaning.  "
+"When you're talking about a program, always call it a &ldquo;program&rdquo; "
+"if it is a program released for users to run.  (If it is not free/libre, it "
+"is usually better not to mention it at all.)"
+msgstr ""
+"Bu belirsiz anlamdaki &ldquo;araç&rdquo; kelimesini kullanmaktan kaçının. "
+"Bir programdan bahsederken, kullanıcıların çalıştırması için yayınlanmış bir "
+"programsa, her zaman &ldquo;program&rdquo; olarak adlandırın. (Eğer özgür "
+"bir program değilse genellikle hiç bahsetmemek daha iyidir.)"
+
+#. type: Content of: <div><p>
+msgid ""
+"On the other hand, if it is a service and what it does is the user's own "
+"computing, that's worse than a nonfree program, so best not to promote it at "
+"all."
+msgstr ""
+"Öte yandan eğer bir hizmetse ve yaptığı şey kullanıcının kendi bilişim "
+"işlemleri ise, bu özgür olmayan bir programdan daha kötüdür, bu yüzden onu "
+"hiç tanıtmamak en iyisidir."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Trusted Computing&rdquo;"
