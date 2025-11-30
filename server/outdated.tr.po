@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: outdated.html\n"
-"POT-Creation-Date: 2025-10-01 19:25+0000\n"
+"POT-Creation-Date: 2025-11-16 16:57+0000\n"
 "PO-Revision-Date: 2021-04-14 20:04+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #. #set var="ORIGINAL_LINK"
 #.        value="<a class=\"original-link\" href=\"${ORIGINAL_FILE}.en\">" 
-#. #if expr="${OUTDATED_SINCE} != ''" 
+#. #if expr='${OUTDATED_SINCE} != $empty' 
 #.  TRANSLATORS: The date will follow this string. 
 #. type: Content of: <div><div><p>
 msgid "This translation may not reflect the changes made since"
@@ -65,7 +65,7 @@ msgid "<span>.</span>"
 msgstr "<span>.</span>"
 
 #
-#. #if expr="${DIFF_FILE} != ''" 
+#. #if expr='${DIFF_FILE} != $empty' 
 #. #set var="DIFF_LINK" value="<a href=\"${DIFF_FILE}\">" 
 #. TRANSLATORS: The link to the page with differences
 #.              will follow this string. 
@@ -87,7 +87,7 @@ msgstr "<span class=\"outdated-html-dummy-span\">.</span>"
 
 # type: Content of: <div><p>
 #. #endif 
-#. #if expr='${LANGUAGE_SUFFIX} = /^[.](es|fr)$/' 
+#. #if expr='${LANGUAGE_SUFFIX} = /^[.](es|fr)\$/' 
 #. TRANSLATORS: Please replace web-translators@gnu.org with the email address
 #.              of your translation team. 
 #. type: Content of: outside any tag (error?)

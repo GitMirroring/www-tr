@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: head-include-2.html\n"
-"POT-Creation-Date: 2025-07-22 16:27+0000\n"
+"POT-Creation-Date: 2025-11-11 05:57+0000\n"
 "PO-Revision-Date: 2024-11-14 20:14+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -22,12 +22,16 @@ msgstr ""
 msgid "width=device-width, initial-scale=1"
 msgstr "width=device-width, initial-scale=1"
 
-#~ msgid ""
-#~ "\n"
-#~ "#fundraiser { direction: ltr; }\n"
-#~ msgstr ""
-#~ "\n"
-#~ "#fundraiser { direction: ltr; }\n"
+#.  TRANSLATORS: Change direction to rtl if you translate
+#.      the fundraiser and your script is right-to-left.  
+#. type: Content of: <style>
+#, no-wrap
+msgid ""
+"\n"
+"#fundraiser { direction: ltr; }\n"
+msgstr ""
+"\n"
+"#fundraiser { direction: ltr; }\n"
 
 #~ msgid ""
 #~ "@media (min-width: 0) {\n"

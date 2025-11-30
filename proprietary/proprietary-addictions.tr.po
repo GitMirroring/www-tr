@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: proprietary-addictions.html\n"
-"POT-Creation-Date: 2025-07-12 12:55+0000\n"
-"PO-Revision-Date: 2025-07-19 15:55+0200\n"
+"POT-Creation-Date: 2025-11-16 08:26+0000\n"
+"PO-Revision-Date: 2025-11-30 16:41+0100\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.7\n"
 
 #. type: Content of: <title>
 msgid "Proprietary Addictions - GNU Project - Free Software Foundation"
@@ -198,13 +198,13 @@ msgstr "Rekabetçilik"
 
 #. type: Content of: <div><div><dl><dd>
 msgid ""
-"<a href=\"https://www.ncesc.com/gaming-pedia/why-are-competitive-games-"
-"addicting/\"> Competing with other gamers</a> can make a game more "
+"<a href=\"https://www.gameslearningsociety.org/wiki/why-are-competitive-"
+"games-addicting/\"> Competing with other gamers</a> can make a game more "
 "enjoyable, but it also increases addictiveness."
 msgstr ""
-"<a href=\"https://www.ncesc.com/gaming-pedia/why-are-competitive-games-"
-"addicting/\"> Diğer oyuncularla rekabet etmek</a> bir oyunu daha eğlenceli "
-"hale getirebilir, ancak aynı zamanda bağımlılığı da artırır."
+"<a href=\"https://www.gameslearningsociety.org/wiki/why-are-competitive-"
+"games-addicting/\"> Diğer oyuncularla rekabet etmek</a> bir oyunu daha "
+"eğlenceli hale getirebilir, ancak aynı zamanda bağımlılığı da artırır."
 
 #. type: Content of: <div><div><p>
 msgid ""
