@@ -1,0 +1,674 @@
+# Turkish translation of https://www.gnu.org/education/drm-in-school-ebooks-when-life-imitates-dystopian-stories.html
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Mert Gör <mertgor@masscollabs.xyz>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drm-in-school-ebooks-when-life-imitates-dystopian-"
+"stories.html\n"
+"POT-Creation-Date: 2021-12-20 18:55+0000\n"
+"PO-Revision-Date: 2025-12-24 18:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+#. type: Content of: <title>
+msgid ""
+"DRM In School eBooks: When Life Imitates Dystopian Stories - GNU Project - "
+"Free Software Foundation"
+msgstr ""
+"Okullarda Kullanılan E-Kitaplarda DRM: Hayat Distopik Hikayeleri Taklit "
+"Ettiğinde - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <div><a>
+msgid "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+msgstr "<a id=\"side-menu-button\" class=\"switch\" href=\"#navlinks\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "Education Contents"
+msgstr "Eğitim İçerikleri"
+
+#. type: Attribute 'alt' of: <div><a><img>
+msgid "&nbsp;[Education Contents]&nbsp;"
+msgstr "&nbsp;[Eğitim İçerikleri]&nbsp;"
+
+#. type: Content of: <div>
+msgid "</a>"
+msgstr "</a>"
+
+#. type: Content of: <div><p><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><p><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div><p>
+msgid ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Education</a>&nbsp;/ <a "
+"href=\"/education/education.html#indepth\">In&nbsp;Depth</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/education/education.html\">Eğitim</a>&nbsp;/ <a "
+"href=\"/education/education.html#indepth\">Derinlemesine</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "DRM In School eBooks: When Life Imitates Dystopian Stories"
+msgstr ""
+"Okullarda Kullanılan E-Kitaplarda DRM: Hayat Distopik Hikayeleri Taklit "
+"Ettiğinde"
+
+#. type: Content of: <div><address>
+msgid ""
+"by Barra O'Cathain <a href=\"#barra\" id=\"barra-rev\"><sup>[*]</sup></a>"
+msgstr ""
+"Yazan: Barra O'Cathain <a href=\"#barra\" id=\"barra-rev\"><sup>[*]</sup></a>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"It always feels surreal to come across situations that are just a little too "
+"close to something you've read. It's even worse when you realize that "
+"something you've read is a dystopian story warning about the dangers of "
+"corporate greed and abuse of students."
+msgstr ""
+"Okuduğunuz bir şeye çok benzeyen durumlarla karşılaşmak her zaman gerçeküstü "
+"bir his uyandırır. Hele ki okuduğunuz şeyin, şirketlerin açgözlülüğünün ve "
+"öğrencilerin istismarının tehlikelerine dair uyarıda bulunan distopik bir "
+"öykü olduğunu fark ettiğinizde durum daha da kötüleşir."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"In February 1997, the magazine <cite>Communications of the <abbr "
+"title=\"Association for Computing Machinery\">ACM</abbr></cite> published "
+"Richard M. Stallman's <a href=\"/philosophy/right-to-read.html\"> <cite>The "
+"Right to Read</cite></a>, a cautionary tale of a future where publishers and "
+"the government crack down on so-called piracy&nbsp;<a href=\"#piracy\" "
+"id=\"piracy-rev\">[1]</a> to a massive extent."
+msgstr ""
+"Şubat 1997'de <cite>Communications of the <abbr title=\"Association for "
+"Computing Machinery\">ACM</abbr></cite> dergisi, Richard M. Stallman'ın <a "
+"href=\"/philosophy/right-to-read.html\"> <cite>Okuma Hakkı</cite></a> adlı "
+"eserini yayınladı; bu eser, yayıncıların ve hükümetin sözde korsanlığa<a "
+"href=\"#piracy\" id=\"piracy-rev\">[1]</a> büyük ölçüde müdahale ettiği bir "
+"geleceğin uyarıcı öyküsüdür."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"In <cite>The Right to Read</cite>, a college student named Lissa Lenz has an "
+"issue. Her computer, which contains all her textbooks and is the only tool "
+"for writing her midterm project, breaks down. She asks her friend Dan "
+"Halbert to borrow his computer. This is a big problem for Dan. If Lissa were "
+"to read his books, the SPA&mdash;a government agency created to combat "
+"sharing&mdash;would arrest him for copyright infringement and brand him a "
+"criminal. In the end, out of concern for his friend, he does the "
+"unthinkable: he gives Lissa his password in an attempt to hide the copyright "
+"infringement from the SPA, breaking the law with that simple act."
+msgstr ""
+"<cite>Okuma Hakkı</cite> adlı öyküde, Lissa Lenz adında bir üniversite "
+"öğrencisinin bir sorunu vardır. Tüm ders kitaplarını içeren ve ara sınav "
+"projesini yazmak için tek aracı olan bilgisayarı bozulur. Arkadaşı Dan "
+"Halbert'ten bilgisayarını ödünç almasını ister. Bu, Dan için büyük bir "
+"sorundur. Eğer Lissa onun kitaplarını okursa, paylaşımı engellemek için "
+"kurulmuş bir devlet kurumu olan SPA (Yazılım Paylaşımı Koruma Kurumu) onu "
+"telif hakkı ihlali nedeniyle tutuklayacak ve suçlu ilan edecektir. Sonunda, "
+"arkadaşı için duyduğu endişeden dolayı, akıl almaz bir şey yapar: Telif "
+"hakkı ihlalini SPA'dan gizlemek amacıyla Lissa'ya parolasını verir ve bu "
+"basit hareketle yasayı çiğner."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Stallman predicted a lot of bad things in that piece of fiction. Sadly, they "
+"have already come true. <cite>The Right to Read</cite> is no longer a "
+"hypothetical scenario, no longer just a story warning about a possible "
+"future."
+msgstr ""
+"Stallman o kurgusal eserinde birçok kötü şeyi öngörmüştü. Ne yazık ki, "
+"bunlar çoktan gerçekleşti. <cite>Okuma Hakkı</cite> artık varsayımsal bir "
+"senaryo değil, artık sadece olası bir gelecek hakkında uyarıda bulunan bir "
+"hikaye değil."
+
+#. type: Content of: <div><div><p>
+msgid "It is our <em>present</em>."
+msgstr "Bu bizim <em>şimdimiz</em>."
+
+#. type: Content of: <div><div><h3>
+msgid "What is DRM?"
+msgstr "DRM nedir?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"DRM is an initialism which is supposed to stand for &ldquo;Digital Rights "
+"Management,&rdquo; but in practice it's more accurate to say it stands for "
+"&ldquo;Digital <em>Restrictions</em> Management.&rdquo; It refers to any "
+"means used to control copyrighted and proprietary digital works and "
+"hardware. Its purpose is to restrict what users can do. DRM is an umbrella "
+"term for various tools aimed at achieving that goal, such as legal "
+"agreements (which is the technique the dis-service in question is using), or "
+"malware that seeks to prevent specific actions. For example, to prevent "
+"users from connecting to a website through the TOR network or from outside "
+"of a certain geographical area (Ireland, in my case). For some examples of "
+"Digital Restrictions Management, take a look at the page on <a href=\"/"
+"proprietary/proprietary-drm.html\">proprietary DRM</a>"
+msgstr ""
+"DRM, &ldquo;Dijital Hak Yönetimi,&rdquo; anlamına gelen bir kısaltmadır, "
+"ancak pratikte &ldquo;Dijital <em>Kısıtlamalar</em> Yönetimi&rdquo; demek "
+"daha doğrudur. Telif hakkıyla korunan ve tescilli dijital eserleri ve "
+"donanımı kontrol etmek için kullanılan her türlü yöntemi ifade eder. Amacı, "
+"kullanıcıların yapabileceklerini kısıtlamaktır. DRM, bu amaca ulaşmayı "
+"hedefleyen çeşitli araçlar için kullanılan genel bir terimdir; örneğin, "
+"yasal anlaşmalar (söz konusu kötü amaçlı yazılımın kullandığı teknik) veya "
+"belirli eylemleri engellemeyi amaçlayan kötü amaçlı yazılımlar. Örneğin, "
+"kullanıcıların TOR ağı üzerinden veya belirli bir coğrafi alanın (benim "
+"durumumda İrlanda) dışından bir web sitesine bağlanmasını engellemek gibi. "
+"Dijital Kısıtlamalar Yönetimi örnekleri için, <a href=\"/proprietary/"
+"proprietary-drm.html\">özel mülk DRM sayfasına göz atabilirsiniz.</a>"
+
+#. type: Content of: <div><div><h3>
+msgid "A Real-Life Encounter With Becoming Illegal"
+msgstr "Yasadışı Hale Gelmeyle İlgili Gerçek Bir Deneyim"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"During the course of my secondary school education, I was contacted by a "
+"friend who was finding it difficult to study because he had managed to mess "
+"things up by leaving his textbooks in his locker over a mid-term break.  "
+"Silly mistake aside, I thought nothing of lending him a modified version of "
+"my password so that he could access my copies of the ebooks, hosted at the "
+"publisher's platform (the &ldquo;service&rdquo;). He'd be able to study and "
+"pass the upcoming exams, no harm done. Little did I know that, according to "
+"the terms and conditions of the dis-service, I had just committed the most "
+"vile, despicable act a human being could commit: help my friend&mdash;or, in "
+"the eyes of the publisher, &ldquo;piracy.&rdquo;"
+msgstr ""
+"Ortaokul yıllarımda, bir arkadaşım ara tatilde ders kitaplarını dolabında "
+"unutup işleri karıştırdığı için ders çalışmakta zorlandığını söyleyerek "
+"benimle iletişime geçti. Aptalca bir hata olsa da, yayıncının platformunda "
+"(&ldquo;hizmet&rdquo;) barındırılan e-kitaplarımın kopyalarına erişebilmesi "
+"için ona şifremin değiştirilmiş bir versiyonunu vermekte bir sakınca "
+"görmedim. Böylece ders çalışıp yaklaşan sınavları geçebilecekti, hiçbir "
+"zarar yoktu. Ancak, bu hizmetin şartlarına göre, bir insanın işleyebileceği "
+"en iğrenç, en aşağılık eylemi gerçekleştirdiğimin farkında değildim: "
+"arkadaşıma yardım etmek &mdash;ya da yayıncının gözünde "
+"&ldquo;korsanlık&rdquo;."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The terms and conditions&nbsp;<a href=\"#terms\" id=\"terms-rev\">[2]</a> of "
+"the dis-service are somewhat hard to find, which makes one feel the "
+"publisher is untrustworthy. They are not readily available on the login page "
+"or on the main library page; instead, they are hidden in the help section.  "
+"I won't quote them exactly, but they do expressly forbid the sharing of "
+"passwords. They also contain several other things worth noting, which I will "
+"discuss later."
+msgstr ""
+"Hizmetin şart ve koşullarını&nbsp;<a href=\"#terms\" id=\"terms-rev\">[2]</"
+"a>bulmak biraz zor, bu da yayıncının güvenilmez olduğu izlenimini "
+"uyandırıyor. Giriş sayfasında veya ana kütüphane sayfasında kolayca "
+"bulunmuyorlar; bunun yerine yardım bölümünde gizlenmişler. Bunları tam "
+"olarak alıntılamayacağım, ancak parolaların paylaşılmasını açıkça "
+"yasaklıyorlar. Ayrıca, daha sonra ele alacağım dikkate değer birkaç şey daha "
+"içeriyorlar."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The terms and conditions are very, very clear about one thing: you're not "
+"allowed to share the ebook in any way, with any means, under any "
+"circumstances."
+msgstr ""
+"Şartlar ve koşullar tek bir konuda çok, çok açık: E-kitabı hiçbir şekilde, "
+"hiçbir yolla ve hiçbir koşul altında paylaşmanıza izin verilmiyor."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Let me clear up one thing. I don't actually own the ebook. The physical "
+"version of the book proudly displays a notice on the cover saying you'll get "
+"a free ebook version along with your purchase. That's misleading, at best.  "
+"What I get is a time-limited license to access its contents, exclusively on "
+"the publisher's proprietary platform. I can't download it to get a local "
+"copy to read offline because the publisher claims it's &ldquo;too big&rdquo; "
+"to fit in removable media, ignoring the fact that I may just want it on my "
+"hard drive. I decided to see if the claim was true and found that the grand "
+"total size of the ebook came in orders of magnitude lower than even the "
+"capacity of a CD-R disc. Are we really to believe the reason we can't "
+"download a copy of a digital book is that it can't fit in removable media? "
+"In my opinion, the real reason they don't want people to download copies is "
+"to prevent sharing."
+msgstr ""
+"Bir şeyi açıklığa kavuşturayım. Aslında e-kitabın sahibi değilim. Kitabın "
+"fiziksel versiyonunun kapağında, satın alımınızla birlikte ücretsiz bir e-"
+"kitap sürümü alacağınız gururla belirtiliyor. Bu, en iyi ihtimalle "
+"yanıltıcı. Aldığım şey, içeriğine yalnızca yayıncının özel platformunda "
+"erişim sağlayan, zaman sınırlı bir lisans. Yayıncı, çıkarılabilir medyaya "
+"sığmayacak kadar &ldquo;çok büyük&rdquo; olduğunu iddia ettiği için "
+"çevrimdışı okumak üzere yerel bir kopyasını indiremiyorum; oysa ben sadece "
+"sabit diskimde olmasını isteyebilirim. Bu iddianın doğru olup olmadığını "
+"görmek için denedim ve e-kitabın toplam boyutunun, bir CD-R diskinin "
+"kapasitesinden bile kat kat daha küçük olduğunu gördüm. Dijital bir kitabın "
+"kopyasını indiremememizin nedeninin çıkarılabilir medyaya sığmaması olduğuna "
+"gerçekten inanmalı mıyız? Bence, insanların kopyalarını indirmelerini "
+"istememelerinin gerçek nedeni, paylaşımı engellemektir."
+
+#. type: Content of: <div><div><h3>
+msgid "Common Restrictions"
+msgstr "Genel Kısıtlamalar"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Some new schools where I live in Ireland are using iPads (which have a whole "
+"host of <a href=\"/proprietary/malware-apple.html\">privacy and ethical "
+"concerns</a> in and of themselves) with the goal of moving all their "
+"students' books to these online dis-services. Benefits cited often include "
+"reduced weight in students' bags, ease of organization, and multimedia "
+"capabilities. All of which are true, but what is often neglected is that the "
+"move to digital devices requires students to agree to terms of service "
+"imposed by companies. These terms restrict students' ability to explore, "
+"research, and <em>learn</em>."
+msgstr ""
+"İrlanda'da yaşadığım yerdeki bazı yeni okullar, öğrencilerin tüm kitaplarını "
+"bu çevrimiçi hizmetlere taşımak amacıyla iPad'leri <a href=\"/proprietary/"
+"malware-apple.html\">(ki bu cihazların kendi başına bir sürü gizlilik ve "
+"etik sorunu var)</a> kullanıyor. Sıklıkla belirtilen faydalar arasında "
+"öğrencilerin çantalarındaki ağırlığın azalması, düzenleme kolaylığı ve "
+"multimedya özellikleri yer alıyor. Bunların hepsi doğru, ancak genellikle "
+"göz ardı edilen şey, dijital cihazlara geçişin öğrencilerin şirketler "
+"tarafından dayatılan hizmet şartlarını kabul etmelerini gerektirmesidir. Bu "
+"şartlar, öğrencilerin keşfetme, araştırma ve <em>öğrenme</em> yeteneklerini "
+"kısıtlıyor."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"There are also a lot of practical downsides to ebooks on these platforms.  "
+"They have to be used with a constant connection to the Internet, which will "
+"be difficult for many schools to maintain. They can't be downloaded, so "
+"students who don't have easy access to the Internet will be essentially "
+"stuck with no books. They may not be supported on all devices, or may be "
+"restricted to a single operating system or browser. Probably the biggest "
+"downside is that they can be obtained only from one centralized location, "
+"with authorized access granted only to the person who paid for it, and taken "
+"away after a limited time. Could you imagine a company coming to your "
+"graduation and wordlessly snatching your physical books back? A silly, "
+"ridiculous image, but it's what happens with ebooks."
+msgstr ""
+"Bu platformlardaki e-kitapların birçok pratik dezavantajı da var. Sürekli "
+"internet bağlantısı gerektiriyorlar ki bu birçok okul için zor olacaktır. "
+"İndirilemiyorlar, bu nedenle internete kolay erişimi olmayan öğrenciler "
+"esasen kitapsız kalacaklar. Tüm cihazlarda desteklenmeyebilirler veya tek "
+"bir işletim sistemi veya tarayıcıyla sınırlı olabilirler. Muhtemelen en "
+"büyük dezavantajı, yalnızca tek bir merkezi konumdan edinilebilmeleri, "
+"yetkili erişimin yalnızca ödeme yapan kişiye verilmesi ve sınırlı bir süre "
+"sonra geri alınmasıdır. Mezuniyet töreninize gelen bir şirketin sessizce "
+"fiziksel kitaplarınızı geri aldığını hayal edebiliyor musunuz? Saçma, gülünç "
+"bir görüntü, ama e-kitaplarda olan tam olarak bu."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"When schools use physical books, students at least have the option of buying "
+"them second-hand, or getting them handed down from a friend or a sibling. If "
+"the practice of getting an ebook access code from a single centralized "
+"publisher continues, we may see a publisher's monopoly where textbooks "
+"needed for our free education are held away from us with a massive price "
+"tag. We may end up with a situation like Texas Instruments, where a company "
+"with a stranglehold on education can charge astronomical prices without the "
+"need to innovate or upgrade. Such a position was gained by pushing "
+"themselves as the educational standard in the National Council of Teachers "
+"of Mathematics. Once established as such, the company began to abuse its "
+"position by refusing to reduce the price of their calculators as they become "
+"cheaper to manufacture year after year. This leaves the company with gross "
+"profit margins of up to 90 percent, all the while making it very difficult "
+"for lower income families to educate their children."
+msgstr ""
+"Okullar fiziksel kitaplar kullandığında, öğrenciler en azından ikinci el "
+"kitap satın alma veya bir arkadaşından ya da kardeşinden miras alma "
+"seçeneğine sahip oluyorlar. Tek bir merkezi yayıncıdan e-kitap erişim kodu "
+"alma uygulaması devam ederse, ücretsiz eğitimimiz için gerekli ders "
+"kitaplarının devasa bir fiyat etiketiyle bizden uzak tutulduğu bir yayıncı "
+"tekelini görebiliriz. Texas Instruments gibi bir durumla karşılaşabiliriz; "
+"eğitim alanında tekel kurmuş bir şirket, yenilik yapma veya geliştirme "
+"ihtiyacı duymadan astronomik fiyatlar talep edebilir. Bu konum, Ulusal "
+"Matematik Öğretmenleri Konseyi'nde eğitim standardı olarak kendilerini öne "
+"sürerek elde edildi. Bu şekilde yerleştikten sonra, şirket, hesap "
+"makinelerinin üretim maliyetleri her geçen yıl düşerken fiyatlarını "
+"düşürmeyi reddederek konumunu kötüye kullanmaya başladı. Bu durum, şirketin "
+"%90'a varan brüt kâr marjlarına sahip olmasına yol açarken, düşük gelirli "
+"ailelerin çocuklarını eğitmesini çok zorlaştırıyor."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Students don't have much of a say about which platforms they'll be required "
+"to use. The school may give them an email address, provided by Microsoft "
+"Office&nbsp;365, and require them to agree to the terms imposed by the "
+"publisher. Students may need books from different publishers, and may have "
+"to agree to multiple contracts. And even if they do agree to a given version "
+"of a contract, most publishers reserve the right to change it.  Perhaps the "
+"publisher might&mdash;as I discovered in the terms of the dis-service I "
+"mentioned earlier&mdash;reserve the right to later charge fees to access the "
+"books. Do the students really have a choice? Not at the moment.  Unless "
+"something changes, they don't have a choice. They're forced to accept the "
+"terms, no matter what they think of them, otherwise they lose their chances "
+"for education by losing their books."
+msgstr ""
+"Öğrencilerin hangi platformları kullanmaları gerektiği konusunda pek söz "
+"hakları yok. Okul, Microsoft Office 365 tarafından sağlanan bir e-posta "
+"adresi verebilir ve yayıncının koyduğu şartları kabul etmelerini "
+"isteyebilir. Öğrencilerin farklı yayıncılardan kitaplara ihtiyacı olabilir "
+"ve birden fazla sözleşmeyi kabul etmek zorunda kalabilirler. Ve belirli bir "
+"sözleşme sürümünü kabul etseler bile, çoğu yayıncı bunu değiştirme hakkını "
+"saklı tutar. Belki de yayıncı (daha önce bahsettiğim hizmet dışı bırakma "
+"şartlarında keşfettiğim gibi) kitaplara erişim için daha sonra ücret talep "
+"etme hakkını saklı tutabilir. Öğrencilerin gerçekten bir seçeneği var mı? Şu "
+"anda yok. Bir şey değişmedikçe, bir seçenekleri yok. Ne düşündüklerine "
+"bakılmaksızın şartları kabul etmek zorundalar, aksi takdirde kitaplarını "
+"kaybederek eğitim şanslarını kaybederler."
+
+#. type: Content of: <div><div><h3>
+msgid "Challenging the Assumptions"
+msgstr "Varsayımlara Meydan Okumak"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Some may say that these terms are reasonable, that students aren't entitled "
+"to learn how the tools they use during their education work, or to share "
+"information with their peers."
+msgstr ""
+"Bazıları bu şartların makul olduğunu, öğrencilerin eğitimleri sırasında "
+"kullandıkları araçların nasıl çalıştığını öğrenme veya akranlarıyla bilgi "
+"paylaşma hakkına sahip olmadıklarını söyleyebilir."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Would you object to a student reading her schoolbook while on holidays in "
+"France? If she reads it while traveling to Northern Ireland? On a bus? In a "
+"public library?"
+msgstr ""
+"Bir öğrencinin Fransa'da tatildeyken okul kitabını okumasına itiraz eder "
+"miydiniz? Kuzey İrlanda'ya seyahat ederken okursa? Otobüste okursa? Halk "
+"kütüphanesinde okursa?"
+
+#. type: Content of: <div><div><p>
+msgid "Of course not."
+msgstr "Tabii ki değil."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Would you also object to, say, a student lending a copy of his book to a "
+"friend? Allowing someone sitting next to him to look at his book? If a "
+"student copies a sentence from a book into his notes, is he a thief or a "
+"pirate? Should the teacher report him for illegal activity?"
+msgstr ""
+"Peki, bir öğrencinin kitabının bir kopyasını bir arkadaşına ödünç vermesine "
+"de itiraz eder miydiniz? Yanında oturan birinin kitabına bakmasına izin "
+"vermesine? Bir öğrenci kitaptan bir cümleyi not defterine kopyalarsa, hırsız "
+"mı yoksa korsan mı sayılır? Öğretmen onu yasa dışı faaliyetten dolayı ihbar "
+"etmeli mi?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"And what if the student were to ask how the book was bound? How the paper "
+"was made? What the ink was made up of? How the process of writing works? How "
+"they are delivered to bookstores to be sold? Should this student be punished "
+"for attempting to learn about the publisher's techniques?"
+msgstr ""
+"Peki ya öğrenci kitabın nasıl ciltlendiğini, kağıdın nasıl yapıldığını, "
+"mürekkebin neyden yapıldığını, yazım sürecinin nasıl işlediğini, kitapların "
+"satılmak üzere kitapçılara nasıl teslim edildiğini sorarsa? Bu öğrenci, "
+"yayıncının teknikleri hakkında bilgi edinmeye çalıştığı için "
+"cezalandırılmalı mı?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"And finally, would you object to students selling their textbooks when they "
+"no longer have a need for them? To giving away their notes, made using "
+"information from the book, to other students? Would you say students "
+"shouldn't be allowed to give away their book if it has a line crossed out "
+"and rewritten?"
+msgstr ""
+"Son olarak, öğrencilerin artık ihtiyaç duymadıkları ders kitaplarını "
+"satmalarına itiraz eder miydiniz? Kitaptaki bilgileri kullanarak "
+"hazırladıkları notları diğer öğrencilere vermelerine? Kitabın üzerinde bir "
+"çizgi çizilmiş ve yeniden yazılmışsa, öğrencilerin kitabı başkalarına "
+"vermelerine izin verilmemesi gerektiğini söyler miydiniz?"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"My friend made quite an apt summary: <q>It's like [school systems] put the "
+"rights of companies over the rights of the students.</q>"
+msgstr ""
+"Arkadaşım oldukça yerinde bir özet yaptı: <q>Sanki [okul sistemleri] "
+"şirketlerin haklarını öğrencilerin haklarının önüne koyuyor.</q>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"With the current landscape of educational institutions planning to introduce "
+"new technologies, we need to be careful. Without proper consideration and "
+"action, we may find ourselves in a reality even closer to the one described "
+"in <cite>The Right to Read</cite>. School boards have already made mistakes "
+"in the past, like with Texas Instruments. I would urge everyone to start "
+"pushing against this sort of terms. Here are some suggestions:"
+msgstr ""
+"Eğitim kurumlarının yeni teknolojileri uygulamaya koyma planlarının mevcut "
+"durumu göz önüne alındığında, dikkatli olmalıyız. Uygun değerlendirme ve "
+"eylem olmadan, kendimizi <cite>Okuma Hakkı</cite>nda anlatılanlara çok daha "
+"yakın bir gerçeklikte bulabiliriz. Okul yönetim kurulları geçmişte Texas "
+"Instruments örneğinde olduğu gibi hatalar yaptı. Herkesi bu tür şartlara "
+"karşı çıkmaya teşvik ediyorum. İşte bazı öneriler:"
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"During the decision process about which textbooks to use, you could petition "
+"your school to consider the terms and conditions of ebook services and make "
+"it a requirement that ebooks be DRM-free and downloadable."
+msgstr ""
+"Kullanılacak ders kitaplarıyla ilgili karar verme sürecinde, okulunuzdan e-"
+"kitap hizmetlerinin şartlarını ve koşullarını gözden geçirmesini ve e-"
+"kitapların DRM'siz ve indirilebilir olmasını zorunlu hale getirmesini talep "
+"edebilirsiniz."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"You could start the preparation of a textbook for your local curriculum and "
+"publish it under a free license such as the <a href=\"/licenses/"
+"licenses.html#FDL\">GNU Free Documentation License</a>, <a href=\"https://"
+"creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA</a>, or similar."
+msgstr ""
+"Yerel müfredatınız için bir ders kitabı hazırlamaya başlayabilir ve bunu <a "
+"href=\"/licenses/licenses.html#FDL\">GNU Özgür Belgeleme Lisansı</a>, <a "
+"href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.tr\">CC BY-SA</a> "
+"veya benzeri özgür bir lisans altında yayınlayabilirsiniz."
+
+#. type: Content of: <div><div><ul><li>
+msgid ""
+"Support the FSF's <a href=\"https://www.defectivebydesign.org/"
+"ebooks.html\">campaign</a> to abolish eBook DRM."
+msgstr ""
+"FSF'nin e-kitap DRM'sini kaldırmaya yönelik <a href=\"https://"
+"www.defectivebydesign.org/ebooks.html\">kampanyasını</a> destekleyin."
+
+#. type: Content of: <div><div><p>
+msgid "Let's make sure schools don't punish learning."
+msgstr "Okulların öğrenmeyi cezalandırmadığından emin olalım."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Let's make sure <a href=\"/philosophy/ebooks-must-increase-freedom.html\"> "
+"ebooks increase our freedom, not decrease it</a>."
+msgstr ""
+"Gelin, e-kitapların özgürlüğümüzü azaltmaması, artırması gerektiğine "
+"sağlayalım<a href=\"/philosophy/ebooks-must-increase-freedom.html\">."
+
+#. type: Content of: <div><h3>
+msgid "Author's Notes"
+msgstr "Yazarın Notları"
+
+#. type: Content of: <div><ol><li>
+msgid ""
+"<a href=\"#piracy-rev\" id=\"piracy\">&#8593;</a> &ldquo;Piracy&rdquo; is a "
+"<a href=\"/philosophy/words-to-avoid.html#Piracy\">smear word</a>."
+msgstr ""
+"<a href=\"#piracy-rev\" id=\"piracy\">&#8593;</a> \"Korsanlık\" bir <a "
+"href=\"/philosophy/words-to-avoid.html#Piracy\">karalama kelimesidir</a>."
+
+#. type: Content of: <div><ol><li>
+msgid ""
+"<a href=\"#terms-rev\" id=\"terms\">&#8593;</a> Some notes from the Terms "
+"and Conditions of dis-services:"
+msgstr ""
+"Hizmetsizliğin Şart ve Koşullarından bazı<a href=\"#terms-rev\" "
+"id=\"terms\">&#8593;</a> notlar:"
+
+#. type: Content of: <div><ol><li><ul><li>
+msgid "Passwords must not be shared."
+msgstr "Parolalar kesinlikle paylaşılmamalıdır."
+
+#. type: Content of: <div><ol><li><ul><li>
+msgid ""
+"The publisher reserves the right to later charge for access to the dis-"
+"service."
+msgstr ""
+"Yayıncı, söz konusu hizmete erişim için daha sonra ücret talep etme hakkını "
+"saklı tutar."
+
+#. type: Content of: <div><ol><li><ul><li>
+msgid ""
+"The reader can't distribute any information from the dis-service unless in "
+"ways explicitly allowed."
+msgstr ""
+"Okuyucu, açıkça izin verilen yöntemler dışında, bu hizmetten elde ettiği "
+"hiçbir bilgiyi dağıtamaz."
+
+#. type: Content of: <div><ol><li><ul><li>
+msgid ""
+"It is forbidden to attempt to learn how the dis-service works by reverse-"
+"engineering, attempting to derive source code, or by any other means."
+msgstr ""
+"Sistemin çalışma prensibini tersine mühendislik yoluyla, kaynak kodunu elde "
+"etmeye çalışarak veya başka herhangi bir yolla öğrenmeye teşebbüs etmek "
+"yasaktır."
+
+#. type: Content of: <div><ol><li><ul><li>
+msgid ""
+"The books are region-locked (only accessible in a certain area) to the "
+"Republic of Ireland."
+msgstr ""
+"Kitaplar, İrlanda Cumhuriyeti'ne özel olarak bölgesel kısıtlamaya tabidir "
+"(sadece belirli bir bölgeden erişilebilir)."
+
+#. type: Content of: <div><ol><li><ul><li>
+msgid ""
+"No warranties are provided. The dis-service shall not be liable for any "
+"damages, yet expects you to be liable for damages to them."
+msgstr ""
+"Hiçbir garanti verilmemektedir. Hizmet sağlayıcı herhangi bir zarardan "
+"sorumlu tutulmayacak, ancak sizin onlara vereceğiniz zararlardan sorumlu "
+"olmanızı beklemektedir."
+
+#. type: Content of: <div><h3>
+msgid "Thanks"
+msgstr "Teşekkürler"
+
+#. type: Content of: <div><p>
+msgid ""
+"Thanks to Richard Stallman, Andy Oram, and the GNU Education Team for the "
+"idea and the help."
+msgstr ""
+"Fikir ve yardımları için Richard Stallman, Andy Oram ve GNU Eğitim Ekibine "
+"teşekkürler."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"#barra-rev\" id=\"barra\">[*]</a> Barra O'Cathain is a young "
+"hacker from Ireland. He is currently persuing a bachelor's degree in "
+"Computer Science. His fascination with free software and programming began "
+"when he came across the Quake III Arena source code, which was made "
+"available under the GNU GPL in 2005."
+msgstr ""
+"<a href=\"#barra-rev\" id=\"barra\">[*]</a> Barra O'Cathain, İrlandalı genç "
+"bir bilgisayar üstadıdır. Şu anda Bilgisayar Bilimleri alanında lisans "
+"derecesi almaktadır. Özgür yazılım ve programlamaya olan ilgisi, 2005 "
+"yılında GNU GPL lisansı altında kullanıma sunulan Quake III Arena kaynak "
+"koduna rastlamasıyla başladı."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+"Bu yazıda kullanılan hacker, üstat anlamındadır: teknik beceri sahibi, "
+"problem çözmeden zevk alan ve sınırları aşan kişiler, belirli bir konuda "
+"sahip olduğu bilgiyi kullanıp daha fazlasını öğrenmeye meraklı kişiler."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
+"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
+"other corrections or suggestions can be sent to <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> adresine iletin. FSF ile "
+"iletişim kurmanın <a href=\"/contact/\">başka yolları</a> da vardır. Lütfen "
+"çalışmayan bağlantıları ve başka düzeltmeleri veya önerilerinizi <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine "
+"gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/"
+"README.translations.html\">Translations README</a> for information on "
+"coordinating and contributing translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-"
+"translators@gnu.org\">bize&nbsp;bildirin</a>.</p><p>Bu yazının çeviri "
+"düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href=\"/server/"
+"standards/README.translations.html\">Çeviriler BENİOKU</a> sayfasına bakın. "
+"Bu sayfanın ve diğer tüm sayfaların Türkçe çevirileri gönüllüler tarafından "
+"yapılmaktadır; Türkçe niteliği yüksek bir <a href=\"/"
+"home.html\">www.gnu.org</a> için bize yardımcı olmak istiyorsanız, <a "
+"href=\"https://savannah.gnu.org/projects/www-tr\">çalışma&nbsp;sayfamızı</a> "
+"ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 2021 Barra O'Cathain"
+msgstr "Copyright &copy; 2021 Barra O'Cathain"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution 4.0 "
+"International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/"
+"4.0/\">Creative Commons Attribution 4.0 Uluslararası Lisansı</a> kapsamında "
+"lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>Mert Gör <a "
+"href=\"mailto:mertgor@masscollabs.xyz\">&lt;mertgor@masscollabs.xyz&gt;</a>, "
+"2025.</li>\n"
+"</ul>"
+
+#.  timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

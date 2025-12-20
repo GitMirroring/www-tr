@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: words-to-avoid.html\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-30 10:25+0000\n"
+"POT-Creation-Date: 2025-12-17 10:27+0000\n"
 "PO-Revision-Date: 2025-10-23 09:32+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -355,7 +355,7 @@ msgid "&ldquo;<a href=\"#Steward\">Steward</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Steward\">Sorumlu</a>&rdquo; |"
 
 #.  GNUN-SORT-NEXT-ITEM 
-#. #if expr="$LANGUAGE_SUFFIX	= /^.(es)$/" 
+#. #if expr="$LANGUAGE_SUFFIX	= /^.(es)\$/" 
 #.  TRANSLATORS: translate if this word is used often in your
 #.      language to refer to mobile computers; otherwise,
 #.      fill the translation with a space. 

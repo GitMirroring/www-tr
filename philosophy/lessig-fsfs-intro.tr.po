@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: lessig-fsfs-intro.html\n"
-"POT-Creation-Date: 2024-01-01 05:26+0000\n"
+"POT-Creation-Date: 2025-12-18 19:31+0000\n"
 "PO-Revision-Date: 2023-05-13 07:01+0200\n"
 "Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -491,8 +491,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2002, 2023, 2024 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2002, 2023, 2024 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2002, 2023, 2024, 2025 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2002, 2023, 2024, 2025 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -521,6 +521,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "Copyright &copy; 2002, 2023, 2024 Free Software Foundation, Inc."
+#~ msgstr "Copyright &copy; 2002, 2023, 2024 Free Software Foundation, Inc."
 
 #~ msgid "Copyright &copy; 2002, 2023 Free Software Foundation, Inc."
 #~ msgstr "Copyright &copy; 2002, 2023 Free Software Foundation, Inc."
