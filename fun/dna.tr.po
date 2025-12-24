@@ -1,0 +1,370 @@
+# Turkish translation of https://www.gnu.org/fun/jokes/dna.html
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# A. Arslan <aydoganarslantash@pm.me>, 2025
+#
+# SPDX-FileCopyrightText: 2025 aydo <aydoganarslantash@pm.me>
+msgid ""
+msgstr ""
+"Project-Id-Version: dna.html\n"
+"POT-Creation-Date: 2021-07-14 16:25+0000\n"
+"PO-Revision-Date: 2025-12-24 20:12+0100\n"
+"Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.7\n"
+
+#. type: Content of: <title>
+msgid "Human DNA as C code - GNU Project - Free Software Foundation"
+msgstr "C kodu halinde insan DNA'sı - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <div><a>
+msgid "<a href=\"/\">"
+msgstr "<a href=\"/\">"
+
+#. type: Attribute 'title' of: <div><a><img>
+msgid "GNU Home"
+msgstr "GNU Ana Sayfası"
+
+#. type: Content of: <div>
+msgid ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU humor</a>&nbsp;/ <a "
+"href=\"/fun/humor.html#Software\">Software</a>&nbsp;/"
+msgstr ""
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU mizah</a>&nbsp;/ <a "
+"href=\"/fun/humor.html#Software\">Yazılım</a>&nbsp;/"
+
+#. type: Content of: <div><h2>
+msgid "Human DNA deciphered into C code!"
+msgstr "İnsan DNA’sının şifresi çözülerek C koduna aktarıldı!"
+
+#. type: Content of: <div><address>
+msgid "by Mathew Murphy"
+msgstr "yazan Mathew Murphy"
+
+#. type: Content of: <div><p>
+msgid ""
+"For many years molecular biologists have been mystified by the fact that "
+"very little of an organism's DNA seems to serve any useful function."
+msgstr ""
+"Uzun yıllar boyunca moleküler biyologlar, bir organizmanın DNA’sının sadece "
+"çok küçük bir bölümünün herhangi bir işe yarar işlevi olduğu gerçeği "
+"karşısında şaşkınlık yaşamıştır."
+
+#. type: Content of: <div><p>
+msgid "I have solved the mystery."
+msgstr "Ben bu gizemi çözdüm."
+
+#. type: Content of: <div><p>
+msgid ""
+"The reason why only 30% of human DNA performs any useful function is that "
+"the rest of it is comments."
+msgstr ""
+"İnsan DNA'sının sadece %30'unun herhangi işlevsel bir özelliğe sahip "
+"olmasının nedeni, geri kalan kısmının yorum olması."
+
+#. type: Content of: <div><p>
+msgid ""
+"Once we decode a typical human genome, we see that the contents begin as "
+"follows:"
+msgstr ""
+"Tipik bir insan genomunun şifresini çözdüğümüzde içeriğinin aşağıdaki gibi "
+"başladığını görüyoruz:"
+
+#. type: Content of: <div><pre>
+#, no-wrap
+msgid ""
+"/* HUMAN_DNA.H\n"
+" *\n"
+" * Human Genome\n"
+" * Version 2.1\n"
+" *\n"
+" * (C) God\n"
+" */\n"
+msgstr ""
+"/* INSAN_DNA.H\n"
+" *\n"
+" * Insan Genomu\n"
+" * Versiyon 2.1\n"
+" *\n"
+" * (C) Tanrı\n"
+" */\n"
+
+#. type: Content of: <div><pre>
+#, no-wrap
+msgid ""
+"/* Revision history:\n"
+" *\n"
+" * 0000-00-01 00:00  1.0  Adam.\n"
+" * 0000-00-02 10:00  1.1  Eve.\n"
+" * 0000-00-03 02:11  1.2  Added penis code to male version. A bit messy --\n"
+" *                        will require a rewrite later on to make it neater.\n"
+" * 0017-03-12 03:14  1.3  Added extra sex drive to male.h; took code from\n"
+" *                        elephant-dna.c\n"
+" * 0145-10-03 16:33  1.4  Removed tail.\n"
+" * 1115-00-31 17:20  1.5  Shortened forearms, expanded brain case.\n"
+" * 2091-08-20 13:56  1.6  Opposable thumbs added to hand() routine.\n"
+" * 2501-04-09 14:04  1.7  Minor cosmetic improvements -- skin colour made\n"
+" *                        darker to match my own image.\n"
+" * 2909-07-12 02:21  1.8  Dentition inadequate; added extra 'wisdom' teeth.\n"
+" *                        Must remember to make mouth bigger to compensate.\n"
+" * 4501-12-31 14:18  1.9  Increase average height.\n"
+" * 5533-02-12 17:09  2.0  Added gay option, triggered by high population\n"
+" *                        density, to try and slow the overpopulation problem.\n"
+" * 6004-11-04 16:11  2.1  Made forefinger narrower to fit hole in centre of\n"
+" *                        CD.\n"
+" */\n"
+msgstr ""
+"/* Düzenleme tarihçesi:\n"
+" *\n"
+" * 0000-00-01 00:00  1.0  Adem.\n"
+" * 0000-00-02 10:00  1.1  Havva.\n"
+" * 0000-00-03 02:11  1.2  Erkek versiyonuna penis kodu eklendi. Bu kısım biraz dağınık --\n"
+" *                        daha sonrasında bu kısmı daha temiz olması için  tekrardan yazmak gerek.\n"
+" * 0017-03-12 03:14  1.3 erkek.h'ye ekstra cinsel dürtü eklendi; kod fil-dna.c'den alındı.\n"
+" * 0145-10-03 16:33  1.4  Kuyruk kaldırıldı.\n"
+" * 1115-00-31 17:20  1.5  Ön kol kısaltıldı, beyin kalıbı genişletildi.\n"
+" * 2091-08-20 13:56  1.6  Zıt başparmaklar el() rutinine eklendi.\n"
+" * 2501-04-09 14:04  1.7  Minör kozmetik iyileştirmeler -- ten rengi kendi suretıma \n"
+" *                        benzesin diye koyulaştırıldı.\n"
+" * 2909-07-12 02:21  1.8  Diş dizilimi yetersiz; ekstra 'bilgelik' dişi eklendi.\n"
+" *                        Bunu telafi etmek için ağzı daha büyük yapmayı unutmamalıyım.\n"
+" * 4501-12-31 14:18  1.9  Ortalama boy arttırıldı.\n"
+" * 5533-02-12 17:09  2.0  Aşırı nüfus artışını yavaşlatmak için yüksek nüfus yoğunluğunda tetiklenen gay opsiyonu eklendi. \n"
+" * 6004-11-04 16:11  2.1  CD'nin deliğine sığması için işaret parmağı \n"
+" inceltildi.\n"
+" */\n"
+
+#. type: Content of: <div><pre>
+#, no-wrap
+msgid ""
+"/* Standard definitions\n"
+" */\n"
+"\n"
+"#define SEX male\n"
+"#define HEIGHT 1.84\n"
+"#define MASS 68\n"
+"#define RACE caucasian\n"
+msgstr ""
+"/* Standart tanımlamalar\n"
+" */\n"
+"\n"
+"#define CINSIYET erkek\n"
+"#define BOY 1.84\n"
+"#define AGIRLIK 68\n"
+"#define IRK beyaz\n"
+
+#. type: Content of: <div><pre>
+#, no-wrap
+msgid ""
+"/* Include inherited traits from parent DNA files.\n"
+" *\n"
+" * Files must be pre-processed with MENDEL program to provide proper\n"
+" * inheritance features.\n"
+" */\n"
+"\n"
+"#include \"mother.h\"\n"
+"#include \"father.h\"\n"
+"\n"
+"#ifndef FATHER\n"
+"#warn(\"Father unknown -- guessing\\n\")\n"
+"#include \"bastard.h\"\n"
+"#endif\n"
+msgstr ""
+"/* Ebeveyn DNA dosyalarından kalıtsal özellikleri ekler.\n"
+" *\n"
+" * Dosyalar düzgün kalıtsal özellikleri sağlaması için\n"
+" * MENDEL programıyla ön işlemeden geçmeli.\n"
+" */\n"
+"\n"
+"#include \"anne.h\"\n"
+"#include \"baba.h\"\n"
+"\n"
+"#ifndef BABA\n"
+"#warn(\"Baba bilinmiyor -- tahmin ediliyor\\n\")\n"
+"#include \"piç.h\"\n"
+"#endif\n"
+
+#. type: Content of: <div><pre>
+#, no-wrap
+msgid ""
+"/* Set up sex-specific functions and variables\n"
+" */\n"
+"#include &lt;sex.h&gt;\n"
+"\n"
+"/* Kludged code -- I'll re-design this lot and re-write it as a proper\n"
+" * library sometime soon.\n"
+" */\n"
+"struct genitals\n"
+"   {\n"
+"#ifdef MALE\n"
+"   Penis *jt;\n"
+"#endif\n"
+"   /* G_spot *g;   Removed for debugging purposes */\n"
+"#ifdef FEMALE\n"
+"   Vagina *p;\n"
+"#endif\n"
+"   }\n"
+msgstr ""
+"/* Spesifik cinsiyet fonksiyonlarının ve değişkenlerinin kurulumu\n"
+" */\n"
+"#include &lt;cinsiyet.h&gt;\n"
+"\n"
+"/* İdare etmelik kod ---- bunu bir ara baştan adam gibi\n"
+" * tasarlayıp düzgün bir kütüphane haline getireceğim.\n"
+" */\n"
+"struct cinsel_organlar\n"
+"   {\n"
+"#ifdef ERKEK\n"
+"   Penis *jt;\n"
+"#endif\n"
+"   /* G_noktasi *g;   Hata ayıklamak için çıkarılmıştır */\n"
+"#ifdef KADIN\n"
+"   Vajina *p;\n"
+"#endif\n"
+"   }\n"
+
+#. type: Content of: <div><pre>
+#, no-wrap
+msgid ""
+"/* Initialization bootstrap routine -- called before DNA duplication.\n"
+" * Allocates buffers and sets up protein file pointers\n"
+" */\n"
+"DNA *zygote_initialize(Sperm *, Ovum *);\n"
+msgstr ""
+"/* Başlatma önyükleme rutini -- DNA çoğaltımından önce çağrılır.\n"
+" * Arabellekleri ayırır ve protein dosya işaretçilerini ayarlar.\n"
+" */\n"
+"DNA *zigot_baslat(Sperm *, Yumurta *);\n"
+
+#. type: Content of: <div><pre>
+#, no-wrap
+msgid ""
+"/* MAIN INITIALIZATION CODE\n"
+" *\n"
+" * Returns structures containing pre-processed phenotypes for the organism\n"
+" * to display at birth.\n"
+" *\n"
+" * Will be improved later to make output less ugly.\n"
+" */\n"
+"Characteristic *lookup_phenotype(Identifier *i);\n"
+msgstr ""
+"/* ANA BAŞLATMA KODU\n"
+" *\n"
+" * Organizmanın doğumda sergileyeceği,\n"
+" * ön işlenmiş fenotipleri içeren yapıları döndürür.\n"
+" *\n"
+" * Çıktıyı daha az çirkin yapmak için ileride iyileştirilecektir.\n"
+" */\n"
+"Karakteristik *fenotip_bak(Tanimlayici *i);\n"
+
+#. type: Content of: <div><p>
+msgid "&hellip;and so on."
+msgstr "&hellip;ve böyle gidiyor."
+
+#. type: Content of: <div><p>
+msgid "[ Note that God uses three-space tabs&nbsp;]"
+msgstr "[ Tanrı'nın üç boşluklu tablar kullandığına dikkatinizi çekerim&nbsp;]"
+
+#. type: Content of: <div><p>
+msgid "<a href=\"/fun/jokes/dna.txt\">Original email</a>"
+msgstr "<a href=\"/fun/jokes/dna.txt\">Özgün e-posta</a>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Source:&nbsp; <a href=\"https://www.netfunny.com/rhf/jokes/91q3/"
+"genome.html\"> rec.humor.funny</a> (1991)."
+msgstr ""
+"Kaynak:&nbsp; <a href=\"https://www.netfunny.com/rhf/jokes/91q3/"
+"genome.html\"> rec.humor.funny</a> (1991)."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"&lt;<a href=\"mailto:meta@pobox.com\">Mathew Murphy</a>&gt; kindly released "
+"this joke under GPL. Thanks Mathew!"
+msgstr ""
+"&lt;<a href=\"mailto:meta@pobox.com\">Mathew Murphy</a>&gt; bu espriyi GPL "
+"kapsamında yayımlamayı nezaketle kabul etti. Teşekkürler Mathew!"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*\""
+msgstr ""
+"<p><em>Çevirmen notu: Buradaki mizah unsurları İngilizce kelime oyunlarına "
+"dayanmaktadır. Türkçede anlamı olabildiğince aslına benzer şekilde korumaya "
+"çalıştım fakat yine de anlam kaymaları olmuş olabilir.</em></p>"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
+"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
+"other corrections or suggestions can be sent to <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> adresine iletin. FSF ile "
+"iletişim kurmanın <a href=\"/contact/\">başka yolları</a> da vardır. Lütfen "
+"çalışmayan bağlantıları ve başka düzeltmeleri veya önerilerinizi <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine "
+"gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/"
+"README.translations.html\">Translations README</a> for information on "
+"coordinating and contributing translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-"
+"translators@gnu.org\">bize&nbsp;bildirin</a>.</p><p>Bu yazının çeviri "
+"düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href=\"/server/"
+"standards/README.translations.html\">Çeviriler BENİOKU</a> sayfasına bakın. "
+"Bu sayfanın ve diğer tüm sayfaların Türkçe çevirileri gönüllüler tarafından "
+"yapılmaktadır; Türkçe niteliği yüksek bir <a href=\"/"
+"home.html\">www.gnu.org</a> için bize yardımcı olmak istiyorsanız, <a "
+"href=\"https://savannah.gnu.org/projects/www-tr\">çalışma&nbsp;sayfamızı</a> "
+"ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 1991 Mathew Murphy"
+msgstr "Copyright &copy; 1991 Mathew Murphy"
+
+#. type: Content of: <div><p>
+msgid ""
+"&ldquo;Human DNA deciphered into C code!&rdquo; is licensed under the <a "
+"rel=\"license\" href=\"/licenses/gpl.html\">GNU General Public License</a>, "
+"version&nbsp;2 or later."
+msgstr ""
+"&ldquo;İnsan DNA’sının şifresi çözülerek C koduna aktarıldı!&rdquo; <a "
+"rel=\"license\" href=\"https://www.gnu.org/licenses/gpl-3.0.tr.html\">GNU "
+"Genel Kamu Lisansı</a>, &nbsp;2 veya üstü altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>A. Arslantaş, 2025</li>\n"
+"</ul>"
+
+#.  timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

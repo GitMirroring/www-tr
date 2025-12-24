@@ -1,0 +1,282 @@
+# Turkish translation of https ://www.gnu.org/philosophy/nonfree-games.html
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# Sadi Goktug Deveci, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nonfree-games.html\n"
+"POT-Creation-Date: 2022-06-25 14:25+0000\n"
+"PO-Revision-Date: 2025-12-24 20:26+0100\n"
+"Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.7\n"
+
+#. type: Content of: <title>
+msgid ""
+"Nonfree DRM'd Games on GNU/Linux: Good or Bad? - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+"GNU/Linux Üzerinde Özgür Olmayan DKY'li Oyunlar: İyi mi, Kötü mü? - GNU "
+"Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <div><h2>
+msgid "Nonfree DRM'd Games on GNU/Linux: Good or Bad?"
+msgstr "GNU/Linux Üzerinde Özgür Olmayan DKY'li Oyunlar: İyi mi, Kötü mü?"
+
+#. type: Content of: <div><address>
+msgid "by <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+msgstr "yazan: <a href=\"https://www.stallman.org/\">Richard Stallman</a>"
+
+#. type: Content of: <div><p>
+msgid ""
+"A well known company, Valve, that distributes nonfree computer games with "
+"Digital Restrictions Management, recently announced it would distribute "
+"these games for GNU/Linux.  What good and bad effects can this have?"
+msgstr ""
+"Dijital Kısıtlamalar Yönetimi ile özgür olmayan bilgisayar oyunları dağıtan "
+"Valve isimli tanınmış bir şirket, yakın zamanda bu oyunları GNU/Linux için "
+"de dağıtacağını duyurdu. Bunun ne gibi iyi ve kötü etkileri olabilir?"
+
+#. type: Content of: <div><p>
+msgid ""
+"I suppose that availability of popular nonfree programs on the GNU/Linux "
+"system can boost adoption of the system.  However, the aim of GNU goes "
+"beyond &ldquo;success&rdquo;; its purpose is to <a href=\"/philosophy/free-"
+"software-even-more-important.html\"> bring freedom to the users </a>.  Thus, "
+"the larger question is how this development affects users' freedom."
+msgstr ""
+"Tahmin ediyorum ki popüler özgür olmayan programların GNU/Linux sisteminde "
+"bulunması, sistemin benimsenmesini artırabilir. Ancak GNU'nun amacı "
+"&ldquo;başarı&rdquo;nın ötesindedir; amacı kullanıcılara <a href=\"/"
+"philosophy/free-software-even-more-important.html\">özgürlük sağlamaktır</"
+"a>. Dolayısıyla asıl soru, bu gelişmenin kullanıcıların özgürlüğünü nasıl "
+"etkileyeceğidir."
+
+#. type: Content of: <div><p>
+msgid ""
+"The problem with these games is <em>not</em> that they are <a href=\"/"
+"philosophy/words-to-avoid.html#Commercial\">commercial</a>.  (We see nothing "
+"wrong with that.)  It is <em>not</em> that <a href=\"/philosophy/"
+"selling.html\"> the developers sell copies</a>; that's not wrong either.  "
+"The problem is that the games contain software that is <a href=\"/philosophy/"
+"free-sw.html\">not free</a> (free in the sense of freedom, of course)."
+msgstr ""
+"Bu oyunlardaki sorun, <a href=\"/philosophy/words-to-"
+"avoid.html#Commercial\">ticari</a> olmaları <em>değildir</em>. (Bunda yanlış "
+"bir şey görmüyoruz.) Sorun, <a href=\"/philosophy/"
+"selling.html\">geliştiricilerin kopyalar satması</a> da <em>değildir</em>; "
+"bu da yanlış değildir. Sorun, oyunların <a href=\"/philosophy/free-"
+"sw.html\">özgür olmayan</a> yazılımlar içermesidir."
+
+#. type: Content of: <div><p>
+msgid ""
+"Nonfree game programs (like other nonfree programs) are unethical because "
+"they deny freedom to their users.  (Game art is a different issue, because "
+"it <a href=\"/philosophy/copyright-versus-community.html\">isn't software</"
+"a>.)  If you want freedom, one requisite for it is not having or running "
+"nonfree programs on your computer.  That much is clear."
+msgstr ""
+"Özgür olmayan oyun programları (diğer özgür olmayan programlar gibi) etik "
+"değildir çünkü kullanıcılarının özgürlüğünü reddederler. (Oyun sanatı "
+"çalışmaları farklı bir konudur, çünkü <a href=\"/philosophy/copyright-versus-"
+"community.html\">yazılım değillerdir</a>.) Özgürlük istiyorsanız, bunun bir "
+"gerekliliği bilgisayarınızda özgür olmayan programlar bulundurmamak veya "
+"çalıştırmamaktır. Burası nettir."
+
+#. type: Content of: <div><p>
+msgid ""
+"However, if you're going to use these games, you're better off using them on "
+"GNU/Linux rather than on Microsoft Windows.  At least you avoid <a "
+"href=\"https://www.fsf.org/windows\">the harm to your freedom that Windows "
+"would do</a>."
+msgstr ""
+"Ancak, eğer bu oyunları kullanacaksanız, onları Microsoft Windows yerine GNU/"
+"Linux üzerinde kullanmanız daha iyidir. En azından <a href=\"https://"
+"www.fsf.org/windows\">Windows'un özgürlüğünüze vereceği zarardan</a> "
+"kaçınmış olursunuz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Thus, in direct practical terms, this development can do both harm and "
+"good.  It might encourage GNU/Linux users to install these games, and it "
+"might encourage users of the games to replace Windows with GNU/Linux.  My "
+"guess is that the direct good effect will be bigger than the direct harm.  "
+"But there is also an indirect effect: what does the use of these games teach "
+"people in our community?"
+msgstr ""
+"Bu nedenle, doğrudan pratik terimlerle ifade etmek gerekirse, bu gelişme hem "
+"zarar hem de yarar getirebilir. GNU/Linux kullanıcılarını bu oyunları "
+"kurmaya teşvik edebilir ve oyun kullanıcılarını Windows'u GNU/Linux ile "
+"değiştirmeye teşvik edebilir. Tahminimce doğrudan iyi etki, doğrudan "
+"zarardan daha büyük olacaktır. Ancak dolaylı bir etki de var: Bu oyunların "
+"kullanımı topluluğumuzdaki insanlara ne öğretiyor?"
+
+#. type: Content of: <div><p>
+msgid ""
+"Any GNU/Linux distro that comes with software to offer these games will "
+"teach users that the point is not freedom.  <a href=\"/distros/common-"
+"distros.html\">Nonfree software in GNU/Linux distros</a> already works "
+"against the goal of freedom.  Adding these games to a distro would augment "
+"that effect."
+msgstr ""
+"Bu oyunları sunmak için yazılımla birlikte gelen herhangi bir GNU/Linux "
+"dağıtımı, kullanıcılara meselenin özgürlük olmadığını öğretecektir. <a "
+"href=\"/distros/common-distros.html\">GNU/Linux dağıtımlarındaki özgür "
+"olmayan yazılımlar</a> zaten özgürlük hedefine karşı çalışıyor. Bu oyunları "
+"bir dağıtıma eklemek bu etkiyi artıracaktır."
+
+#. type: Content of: <div><p>
+msgid ""
+"Free software is a matter of freedom, not price.  A free game need not be "
+"gratis.  It is feasible to develop free games commercially, while respecting "
+"your freedom to change the software you use.  Since the art in the game is "
+"not software, it is not ethically imperative to make the art "
+"free&mdash;though free art is an additional contribution.  There is in fact "
+"free game software developed by companies, as well as free games developed "
+"noncommercially by volunteers.  Crowdfunding development will only get "
+"easier."
+msgstr ""
+"Özgür yazılım bir özgürlük meselesidir, fiyat değil. Özgür bir oyunun bedava "
+"olması gerekmez. Kullandığınız yazılımı değiştirme özgürlüğünüze saygı "
+"duyarak, ticari olarak özgür oyunlar geliştirmek mümkündür. Oyunun sanat "
+"kısmı yazılım olmadığından, sanatı özgür kılmak etik bir zorunluluk "
+"değildir&mdash;gerçi özgür sanat ek bir katkıdır. Aslında şirketler "
+"tarafından geliştirilen özgür oyun yazılımlarının yanı sıra gönüllüler "
+"tarafından ticari olmayan şekilde geliştirilen özgür oyunlar da mevcuttur. "
+"Kitle fonlaması ile geliştirme yapmak sadece daha da kolaylaşacaktır."
+
+#. type: Content of: <div><p>
+msgid ""
+"But if we suppose that it is <em>not feasible</em> in the current situation "
+"to develop a certain kind of free game&mdash;what would follow then? There's "
+"no good in writing it as a nonfree game.  To have freedom in your computing, "
+"requires rejecting nonfree software, pure and simple.  You as a freedom-"
+"lover won't use the nonfree game if it exists, so you won't lose anything if "
+"it does not exist."
+msgstr ""
+"Ancak şu anki durumda belirli bir tür özgür oyun geliştirmenin <em>mümkün "
+"olmadığını</em> varsayarsak ne olur? Onu özgür olmayan bir oyun olarak "
+"yazmanın bir yararı yoktur. Bilişiminizde özgürlüğe sahip olmak, özgür "
+"olmayan yazılımı saf ve basit bir şekilde reddetmeyi gerektirir. Bir "
+"özgürlüksever olarak, eğer varsa özgür olmayan oyunu kullanmayacaksınız, "
+"dolayısıyla eğer mevcut değilse hiçbir şey kaybetmezsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"If you want to promote the cause of freedom in computing, please take care "
+"not to talk about the availability of these games on GNU/Linux as support "
+"for our cause.  Instead you could tell people about the <a href=\"https://"
+"libregamewiki.org/Main_Page\">libre games wiki</a> that attempts to catalog "
+"free games, <a href=\"https://forum.freegamedev.net/index.php\"> the Free "
+"Game Dev Forum</a>, and the LibrePlanet Gaming Collective's <a "
+"href=\"https://libreplanet.org/wiki/Group:LibrePlanet_Gaming_Collective\"> "
+"free gaming night.</a>"
+msgstr ""
+"Bilişimde özgürlük davasını desteklemek istiyorsanız, lütfen bu oyunların "
+"GNU/Linux'ta bulunmasından davamıza bir destekmiş gibi bahsetmemeye özen "
+"gösterin. Bunun yerine insanlara özgür oyunları kataloglamaya çalışan <a "
+"href=\"https://libregamewiki.org/Main_Page\">özgür oyunlar vikisinden</a>, "
+"<a href=\"https://forum.freegamedev.net/index.php\"> Özgür Oyun Geliştirme "
+"Forumundan</a> ve LibrePlanet Oyun Kolektifinin <a href=\"https://"
+"libreplanet.org/wiki/Group:LibrePlanet_Gaming_Collective\">özgür oyun "
+"gecesinden</a> bahsedebilirsiniz."
+
+#. type: Content of: <div><h3>
+msgid "Note"
+msgstr "Not"
+
+#. type: Content of: <div><p>
+msgid ""
+"<a href=\"https://web.archive.org/web/20191125215630/http://onpon4.github.io/"
+"articles/gaming-trap.html\"> Watch out for &ldquo;nonfree game data&rdquo; "
+"that actually contains software.</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20191125215630/http://onpon4.github.io/"
+"articles/gaming-trap.html\">Aslında yazılım içeren &ldquo;özgür olmayan oyun "
+"verilerine&rdquo; dikkat edin.</a>"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
+"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
+"other corrections or suggestions can be sent to <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> adresine iletin. FSF ile "
+"iletişim kurmanın <a href=\"/contact/\">başka yolları</a> da vardır. Lütfen "
+"çalışmayan bağlantıları ve başka düzeltmeleri veya önerilerinizi <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine "
+"gönderin."
+
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>. 
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/"
+"README.translations.html\">Translations README</a> for information on "
+"coordinating and contributing translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-"
+"translators@gnu.org\">bize&nbsp;bildirin</a>.</p><p>Bu yazının çeviri "
+"düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href=\"/server/"
+"standards/README.translations.html\">Çeviriler BENİOKU</a> sayfasına bakın. "
+"Bu sayfanın ve diğer tüm sayfaların Türkçe çevirileri gönüllüler tarafından "
+"yapılmaktadır; Türkçe niteliği yüksek bir <a href=\"/"
+"home.html\">www.gnu.org</a> için bize yardımcı olmak istiyorsanız, <a "
+"href=\"https://savannah.gnu.org/projects/www-tr\">çalışma&nbsp;sayfamızı</a> "
+"ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 2012, 2013, 2015, 2016, 2021, 2022 Free Software "
+"Foundation, Inc."
+msgstr ""
+"Copyright &copy; 2012, 2013, 2015, 2016, 2021, 2022 Free Software "
+"Foundation, Inc."
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/"
+"4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası Lisansı</"
+"a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"<li>Sadi Göktuğ Deveci &lt;deveci5739@proton.me&gt;, 2025.</li>\n"
+"</ul>"
+
+#.  timestamp start 
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"
