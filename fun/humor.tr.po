@@ -1,0 +1,620 @@
+# Turkish translation of https://www.gnu.org/fun/humor.html
+# Copyright (C) 2025 Free Software Foundation, Inc.
+# This file is distributed under the same license as the original article.
+# T. E. Kalaycı <tekrei@member.fsf.org>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: humor.html\n"
+"POT-Creation-Date: 2025-04-22 15:26+0000\n"
+"PO-Revision-Date: 2025-12-24 21:56+0100\n"
+"Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n
+"X-Generator: Poedit 3.7\n"
+
+#. type: Content of: <title>
+msgid "Laugh along with GNU - GNU Project - Free Software Foundation"
+msgstr "GNU ile birlikte gülün - GNU Projesi - Özgür Yazılım Vakfı"
+
+#. type: Content of: <div><h2>
+msgid "Laugh along with GNU"
+msgstr "GNU ile birlikte gülün"
+
+#. type: Content of: <div><p>
+msgid ""
+"This section is designed to provide some laughs to the working hackers. It "
+"contains software, documentation, music, poems, etc. submitted by GNU users "
+"and collected by GNU contributors over the years."
+msgstr ""
+"Bu bölüm, çalışan üstatlara biraz eğlence sunmak için tasarlanmıştır. GNU "
+"kullanıcıları tarafından gönderilen ve GNU katkıcıları tarafından yıllar "
+"boyunca toplanan yazılımlar, belgeler, müzikler, şiirler vb. içerir."
+
+#. type: Content of: <div><p>
+msgid ""
+"Nowadays there are many places on the internet where people can publish "
+"jokes, so before submitting a joke to us, please consider publishing it "
+"somewhere else. Jokes submitted by GNU contributors will have a priority.  "
+"Please read the <a href=\"#Guidelines\">Guidelines</a> for details on our "
+"submission policy."
+msgstr ""
+"Günümüzde internette insanların şakalar yayınlayabileceği birçok yer var, bu "
+"yüzden bize bir şaka göndermeden önce lütfen başka bir yerde yayınlamayı "
+"düşünün. GNU katkıcıları tarafından gönderilen şakalar öncelikli olacaktır.  "
+"Gönderim politikamızla ilgili ayrıntılar için lütfen <a "
+"href=\"#Guidelines\">Yönergeler</a> bölümünü okuyun."
+
+#. type: Content of: <div><p>
+msgid ""
+"Many of the graphics in the <a href=\"/graphics/graphics.html\">GNU Art "
+"Gallery</a> also have humorous twists."
+msgstr ""
+"<a href=\"/graphics/graphics.html\">GNU Sanat Galerisi</a>'ndeki grafiklerin "
+"çoğu da mizahi bir yaklaşıma sahiptir."
+
+#. type: Content of: <div><h3>
+msgid "Computing"
+msgstr "Bilişim"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/10-kinds-of-people.html\">10 Kinds of People in the "
+"World</a>"
+msgstr ""
+"<a href=\"/fun/jokes/10-kinds-of-people.html\">Dünyadaki 10 Tür İnsan</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/any-key.html\">Where is any-key??</a>"
+msgstr "<a href=\"/fun/jokes/any-key.html\">Any tuşu nerede??</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/deadbeef.html\">Dead Beef</a>?"
+msgstr "<a href=\"/fun/jokes/deadbeef.html\">Ölü Sığır</a>?"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"What does Dr. Emacs think of the <a href=\"/fun/jokes/"
+"doctor.manifesto.html\">GNU Manifesto</a>?"
+msgstr ""
+"Dr. Emacs, <a href=\"/fun/jokes/doctor.manifesto.html\">GNU Bildirisi</a> "
+"hakkında ne düşünüyor?"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/evilmalware.html\">Why GNU/Linux Viruses are fairly "
+"uncommon</a>"
+msgstr ""
+"<a href=\"/fun/jokes/evilmalware.html\">GNU/Linux virüsleri neden oldukça "
+"nadir </a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/gcc_audio.html\">A Swarm of Gnats?</a>"
+msgstr "<a href=\"/fun/jokes/gcc_audio.html\">Bir Gnat Sürüsü mü?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/gullibility.virus.html\">The Gullibility Virus</a>"
+msgstr "<a href=\"/fun/jokes/gullibility.virus.html\">Saflık Virüsü</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/p5.delay.html\">Top 10 reasons why Intel delayed "
+"announcing the P5</a>"
+msgstr ""
+"<a href=\"/fun/jokes/p5.delay.html\">Intel'in P5'i duyurmayı ertelemesinin "
+"en önemli 10 nedeni</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/programmer.txt\">You know you're a programmer "
+"when&hellip;</a>"
+msgstr ""
+"<a href=\"/fun/jokes/programmer.txt\">Şu durumlarda programcı olduğunuzu "
+"anlarsınız&hellip;</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/unreliable.net.html\">Top 10 Unreliable Networks</a>"
+msgstr "<a href=\"/fun/jokes/unreliable.net.html\">En Güvenilmez 10 Ağ</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "The <a href=\"/fun/jokes/vaxorcist.html\">Vaxorcist</a>"
+msgstr "The <a href=\"/fun/jokes/vaxorcist.html\">Vaxorcist</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/virus-warning.html\">Virus Warning</a>"
+msgstr "<a href=\"/fun/jokes/virus-warning.html\">Virüs Uyarısı</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/xmodmap.html\">Physical Xmodmap, or The Dvorak "
+"Typewriter Hack</a>"
+msgstr ""
+"<a href=\"/fun/jokes/xmodmap.html\">Fiziksel Xmodmap veya Dvorak Daktilo "
+"Hack'i</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20150224010742/http://www.joke-"
+"archives.com/computers/deletedcharacters.html\"> Where Do Deleted Characters "
+"Go?</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20150224010742/http://www.joke-"
+"archives.com/computers/deletedcharacters.html\">Silinen karakterler nereye "
+"gider?</a>"
+
+#. type: Content of: <div><h3>
+msgid "Software"
+msgstr "Yazılım"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/brainfuck.html\">Source code for ed in BrainFuck ;-)</a>"
+msgstr ""
+"<a href=\"/fun/jokes/brainfuck.html\">BrainFuck'ta ed için kaynak kodu ;-)</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/c+-.html\">C more or less</a>"
+msgstr "<a href=\"/fun/jokes/c+-.html\">C çok veya az</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "GPL'd <a href=\"/fun/jokes/dna.html\">source code</a> for humans"
+msgstr ""
+"İnsanlar için GPL lisanslı <a href=\"/fun/jokes/dna.html\">kaynak kodu</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/ed.html\">Source code for ed :-)</a>"
+msgstr "<a href=\"/fun/jokes/ed.html\">ed için kaynak kodu :-)</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/emacs.man\">Emacs man page from Plan9</a>"
+msgstr "<a href=\"/fun/jokes/emacs.man\">Plan9'dan Emacs man sayfası</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/errno.2.html\">Errno codes</a>"
+msgstr "<a href=\"/fun/jokes/errno.2.html\">Errno kodları</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/error-haiku.html\">Error messages</a> in Haiku"
+msgstr "Haiku <a href=\"/fun/jokes/error-haiku.html\">Hata mesajları</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/gcc.html\">Suggested GCC Options</a>"
+msgstr "<a href=\"/fun/jokes/gcc.html\">Önerilen GCC Seçenekleri</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/gnuemacs.html\">GNU Emacs</a>"
+msgstr "<a href=\"/fun/jokes/gnuemacs.html\">GNU Emacs</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/gnu-overflow.html\">GNU-Overflow?</a>"
+msgstr "<a href=\"/fun/jokes/gnu-overflow.html\">GNU-Overflow?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/happy-new-year.html\">Happy New Year in 4 languages</a>"
+msgstr "<a href=\"/fun/jokes/happy-new-year.html\">4 dilde Mutlu Yıllar</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/helloworld.html\">Hello World!</a>"
+msgstr "<a href=\"/fun/jokes/helloworld.html\">Hello World!</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/hello_world_patent.html\">The Swedish YAAS Foundation "
+"Patent</a>"
+msgstr ""
+"<a href=\"/fun/jokes/hello_world_patent.html\">İsveç YAAS Vakfı Patenti</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/long-options.html\">Long Options?</a>"
+msgstr "<a href=\"/fun/jokes/long-options.html\">Uzun Seçenekler?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/merry-xmas.html\">Merry Christmas in 4 languages</a>"
+msgstr "<a href=\"/fun/jokes/merry-xmas.html\">4 dilde Mutlu Noeller</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/pasta.code.html\">Spaghetti Code</a>"
+msgstr "<a href=\"/fun/jokes/pasta.code.html\">Spagetti Kodu</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/santa_comes_to_town.html\">Santa Claus comes to town</a>"
+msgstr ""
+"<a href=\"/fun/jokes/santa_comes_to_town.html\">Noel Baba kasabaya geliyor</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/software.terms.html\">Software Terms</a>"
+msgstr "<a href=\"/fun/jokes/software.terms.html\">Yazılım Terimleri</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/ubuntu.html\">Ubuntu</a>"
+msgstr "<a href=\"/fun/jokes/ubuntu.html\">Ubuntu</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/unix.errors.html\">Unix Error Messages</a>"
+msgstr "<a href=\"/fun/jokes/unix.errors.html\">Unix Hata Mesajları</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"https://web.archive.org/web/20110411021200/https://twitter.com/"
+"1990sLinuxUser\"> Some humor via Twitter</a>"
+msgstr ""
+"<a href=\"https://web.archive.org/web/20110411021200/https://twitter.com/"
+"1990sLinuxUser\">Twitter'den biraz mizah</a>"
+
+#. type: Content of: <div><h3>
+msgid "Documentation"
+msgstr "Belgeleme"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/echo-msg.html\">GNU Echo</a>"
+msgstr "<a href=\"/fun/jokes/echo-msg.html\">GNU Echo</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/ed-msg.html\">Ed, man! !man ed</a>"
+msgstr "<a href=\"/fun/jokes/ed-msg.html\">Ed, man! !man ed</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/gnuemacs.acro.exp.html\">GNU Emacs acronym expansions</"
+"a>"
+msgstr ""
+"<a href=\"/fun/jokes/gnuemacs.acro.exp.html\">GNU Emacs kısaltma "
+"genişletmeleri</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/know.your.sysadmin.html\">Know your system "
+"administrator</a>"
+msgstr ""
+"<a href=\"/fun/jokes/know.your.sysadmin.html\">Sistem yöneticinizi tanıyın</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/power.users.html\">Power Users Guide</a>"
+msgstr ""
+"<a href=\"/fun/jokes/power.users.html\">Yetkili Kullanıcılar Kılavuzu</a>"
+
+#. type: Content of: <div><h3>
+msgid "Science and Engineering"
+msgstr "Bilim ve Mühendislik"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/phone.features.html\">Phone Features</a>"
+msgstr "<a href=\"/fun/jokes/phone.features.html\">Telefon Özellikleri</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/physics.html\">The Physics Store!</a>"
+msgstr "<a href=\"/fun/jokes/physics.html\">Fizik Mağazası!</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "Some <a href=\"/fun/jokes/science.facts.html\">Scientific Facts</a>"
+msgstr "Bazı <a href=\"/fun/jokes/science.facts.html\">Bilimsel Gerçekler</a>"
+
+#. type: Content of: <div><h3>
+msgid "Music"
+msgstr "Müzik"
+
+#. type: Content of: <div><ul><li>
+msgid "See <a href=\"/music/music.html\">GNU Music and Songs</a>"
+msgstr ""
+"<a href=\"/music/music.html\">GNU Müzik ve Şarkılar</a> bölümüne bakın."
+
+#. type: Content of: <div><h3>
+msgid "Poems"
+msgstr "Şiirler"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/hakawatha.html\">Hakawatha</a>"
+msgstr "<a href=\"/fun/jokes/hakawatha.html\">Hakawatha</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/last.bug.html\">The Last Bug</a>"
+msgstr "<a href=\"/fun/jokes/last.bug.html\">Son Hata</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/midnight.dreary.html\">Midnight Dreary</a>"
+msgstr "<a href=\"/fun/jokes/midnight.dreary.html\">Gece Yarısı Kasvetli</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/networkologist.html\">A Networkologist's Christmas</a>"
+msgstr ""
+"<a href=\"/fun/jokes/networkologist.html\">Bir Ağ Bilimcisinin Noeli</a>"
+
+#. type: Content of: <div><h3>
+msgid "Philosophy"
+msgstr "Felsefe"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"See <a href=\"/philosophy/third-party-ideas.html#humor\">the Philosophical "
+"Humor section in Third Party Ideas</a>"
+msgstr ""
+"<a href=\"/philosophy/third-party-ideas.html#humor\">Üçüncü Taraf Fikirleri "
+"bölümündeki Felsefi Mizah kısmına bakın</a>."
+
+#. type: Content of: <div><h3>
+msgid "Societal Issues"
+msgstr "Toplumsal Sorunlar"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/right-to-repair-wins.html\">Right to Repair Wins</a>"
+msgstr ""
+"<a href=\"/fun/jokes/right-to-repair-wins.html\">Onarım Hakkı Kazandı</a>"
+
+#. type: Content of: <div><h3>
+msgid "The Fourth Estate"
+msgstr "Dördüncü Güç"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/look-and-feel.html\">Look and Feel</a>"
+msgstr "<a href=\"/fun/jokes/look-and-feel.html\">Görünüm ve His</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/microsoft-church.html\">Microsoft and the Church</a>"
+msgstr "<a href=\"/fun/jokes/microsoft-church.html\">Microsoft ve Kilise</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/rectium.html\">Rectium?</a>"
+msgstr "<a href=\"/fun/jokes/rectium.html\">Rectium mu?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/unix-hoax.html\">Unix, a Hoax?</a>"
+msgstr "<a href=\"/fun/jokes/unix-hoax.html\">Unix, bir aldatmaca mı?</a>"
+
+#. type: Content of: <div><h3>
+msgid "Dictionary and Word Play"
+msgstr "Sözlük ve Kelime Oyunları"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/anagrams.html\">Anagrams</a> for some common words"
+msgstr ""
+"Bazı yaygın kelimeler için <a href=\"/fun/jokes/anagrams.html\">Anagramlar</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/fsf-in-german.html\">FSF in German</a>"
+msgstr "<a href=\"/fun/jokes/fsf-in-german.html\">Almanca FSF</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/fundefinitions1.html\">Fun Definitions 1</a>"
+msgstr ""
+"<a href=\"/eğlence/şakalar/eğlenceli-tanımlar1.html\">Eğlenceli Tanımlar 1</"
+"a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/fundefinitions2.html\">Fun Definitions 2</a>"
+msgstr "<a href=\"/fun/jokes/fundefinitions2.html\">Eğlenceli Tanımlar 2</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/grammar-in-the-bar.html\">Grammar in the bar</a>"
+msgstr "<a href=\"/fun/jokes/grammar-in-the-bar.html\">Barda gramer</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/musical-pickup.html\">Musical pickup</a>"
+msgstr "<a href=\"/fun/jokes/musical-pickup.html\">Müzikal tanışma</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/panama.html\">Panama</a>"
+msgstr "<a href=\"/fun/jokes/panama.html\">Panama</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/spilling-checker.html\">Spilling Checker</a>"
+msgstr "<a href=\"/fun/jokes/spilling-checker.html\">Dökme Denetleyicisi</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/typoglycemia.html\">Typoglycemia</a>"
+msgstr "<a href=\"/eğlence/şakalar/tipoglisemi.html\">Tipoglisemi</a>"
+
+#. type: Content of: <div><h3>
+msgid "Spam"
+msgstr "Spam"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/spam/sheep.html\">Inflatable Sheep</a>"
+msgstr "<a href=\"/fun/spam/sheep.html\">Şişme Koyun</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/spam/warpgenerator.html\">Dimensional Warp Generator Needed</"
+"a>"
+msgstr ""
+"<a href=\"/fun/spam/warpgenerator.html\">Boyutsal Warp Jeneratörü Gerekli</a>"
+
+#. type: Content of: <div><h3>
+msgid "Unclassified"
+msgstr "Sınıflandırılmamış"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/bug.war.html\">A war against bugs</a>!"
+msgstr "<a href=\"/fun/jokes/bug.war.html\">Hatalarla savaş</a>!"
+
+#. type: Content of: <div><ul><li>
+msgid "Funny <a href=\"/fun/jokes/courtroom.quips.html\">Court Statements</a>"
+msgstr ""
+"Komik <a href=\"/fun/jokes/courtroom.quips.html\">Mahkeme İfadeleri</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/freesoftware.html\">Free Software Hack</a>"
+msgstr "<a href=\"/fun/jokes/freesoftware.html\">Özgür Yazılım Hack</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/gospel.html\">Gospel</a>"
+msgstr "<a href=\"/fun/jokes/gospel.html\">Gospel</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"A luser's <a href=\"/fun/jokes/luser-vs-rms.html\">interaction</a> with <a "
+"href= \"http://www.stallman.org/\">rms</a>"
+msgstr ""
+"Bir luser'ın, <a href=\"http://www.stallman.org/\">rms</a> ile <a href=\"/"
+"fun/jokes/luser-vs-rms.html\">etkileşimi</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/paging.game.html\">The Paging Game</a>"
+msgstr "<a href=\"/fun/jokes/paging.game.html\">Sayfalama Oyunu</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/quotations.html\">Quotations</a>"
+msgstr "<a href=\"/fun/jokes/quotations.html\">Alıntılar</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/smileys.html\">Smileys :-)</a>"
+msgstr "<a href=\"/fun/jokes/smileys.html\">Gülücükler :-)</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/fun/jokes/users-lightbulb.html\">How many GNU/Linux users are "
+"needed to change a light bulb?</a>"
+msgstr ""
+"<a href=\"/fun/jokes/users-lightbulb.html\">Bir ampulü değiştirmek için kaç "
+"tane GNU/Linux kullanıcısı gerekir?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid "<a href=\"/fun/jokes/wolf-logo.html\">The Wolf Logo</a>"
+msgstr "<a href=\"/fun/jokes/wolf-logo.html\">Wolf Logosu</a>"
+
+#. type: Content of: <div><div><h3>
+msgid "Humor Submission Guidelines"
+msgstr "Mizah Gönderim Kuralları"
+
+#. type: Content of: <div><div><p>
+msgid "This is our policy to include something in the fun section:"
+msgstr "Şunlar eğlence bölümüne bir şeyler eklemek için politikamızdır:"
+
+#. type: Content of: <div><div><ol><li>
+msgid "It should be funny."
+msgstr "Komik olmalı."
+
+#. type: Content of: <div><div><ol><li>
+msgid "It has no copyright problems."
+msgstr "Telif hakkı sorunu yoktur."
+
+#. type: Content of: <div><div><ol><li>
+msgid "It is not libelous."
+msgstr "Bu iftira değildir."
+
+#. type: Content of: <div><div><ol><li>
+msgid "It won't offend most ordinary hackers more than is reasonable in humor."
+msgstr ""
+"Çoğu sıradan üstadı mizah sınırları içinde makul ölçüde rahatsız "
+"etmeyecektir."
+
+#. type: Content of: <div><div><ol><li>
+msgid ""
+"Although the humor does not have to be strictly connected to the computers "
+"world, we strongly prefer to reserve these pages for jokes related to free "
+"software, GNU, the UNIX environment, and similar fields."
+msgstr ""
+"Mizahın bilgisayar dünyasıyla sıkı bir bağlantısı olması gerekmese de, bu "
+"sayfaları özgür yazılım, GNU, UNIX ortamı ve benzeri alanlarla ilgili "
+"şakalar için ayırmayı tercih ediyoruz."
+
+#. type: Content of: <div><div><div><h3>
+msgid "Disclaimer"
+msgstr "Feragatname"
+
+#. type: Content of: <div><div><div><p>
+msgid ""
+"Much of the material on this page (and linked to from it) was obtained from "
+"the FSF's email archives of the GNU Project. The Free Software Foundation "
+"claims no copyrights on these."
+msgstr ""
+"Bu sayfadaki (ve bu sayfadan bağlantı verilen) materyallerin çoğu, FSF'nin "
+"GNU Projesi e-posta arşivlerinden elde edilmiştir. Özgür Yazılım Vakfı, "
+"bunlar üzerinde herhangi bir telif hakkı iddiasında bulunmamaktadır."
+
+#. type: Content of: <div><p>
+msgid ""
+"***&nbsp;&nbsp;And we'll end this page with a perfect <a href=\"/fun/jokes/"
+"purchase.agreement.html\">Disclaimer</a>!&nbsp;&nbsp;***"
+msgstr ""
+"***&nbsp;&nbsp;Ve bu sayfayı mükemmel bir <a href=\"/fun/jokes/"
+"purchase.agreement.html\">Feragatname</a> ile bitireceğiz!&nbsp;&nbsp;***"
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " Son Güncelleme:"
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Please send general FSF &amp; GNU inquiries to <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
+"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
+"other corrections or suggestions can be sent to <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a "
+"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> adresine iletin. FSF ile "
+"iletişim kurmanın <a href=\"/contact/\">başka yolları</a> da vardır. Lütfen "
+"çalışmayan bağlantıları ve başka düzeltmeleri veya önerilerinizi <a "
+"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine "
+"gönderin."
+
+#
+#
+#
+#.  TRANSLATORS: Ignore the original text in this paragraph,
+#.         replace it with the translation of these two:
+#.         We work hard and do our best to provide accurate, good quality
+#.         translations.  However, we are not exempt from imperfection.
+#.         Please send your comments and general suggestions in this regard
+#.         to <a href="mailto:web-translators@gnu.org">
+#.         &lt;web-translators@gnu.org&gt;</a>.</p>
+#.         <p>For information on coordinating and contributing translations of
+#.         our web pages, see <a
+#.         href="/server/standards/README.translations.html">Translations
+#.         README</a>.
+#. type: Content of: <div><div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/"
+"README.translations.html\">Translations README</a> for information on "
+"coordinating and contributing translations of this article."
+msgstr ""
+"Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
+"önerilerinizi lütfen <a href=\"mailto:web-"
+"translators@gnu.org\">bize&nbsp;bildirin</a>.</p><p>Bu yazının çeviri "
+"düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href=\"/server/"
+"standards/README.translations.html\">Çeviriler BENİOKU</a> sayfasına bakın. "
+"Bu sayfanın ve diğer tüm sayfaların Türkçe çevirileri gönüllüler tarafından "
+"yapılmaktadır; Türkçe niteliği yüksek bir <a href=\"/"
+"home.html\">www.gnu.org</a> için bize yardımcı olmak istiyorsanız, <a "
+"href=\"https://savannah.gnu.org/projects/www-tr\">çalışma&nbsp;sayfamızı</a> "
+"ziyaret edebilirsiniz."
+
+#. type: Content of: <div><p>
+msgid "Copyright &copy; 1999-2021, 2023, 2025 Richard M. Stallman"
+msgstr "Copyright &copy; 1999-2021, 2023, 2025 Richard M. Stallman"
+
+#. type: Content of: <div><p>
+msgid ""
+"This page is licensed under a <a rel=\"license\" href=\"http://"
+"creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
+"NoDerivatives 4.0 International License</a>."
+msgstr ""
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/"
+"4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası Lisansı</"
+"a> altında lisanslanmıştır."
+
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+#. type: Content of: <div><div>
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr "T. E. Kalaycı, 2025"
+
+#.  timestamp start
+#. type: Content of: <div><p>
+msgid "Updated:"
+msgstr "Son Güncelleme:"

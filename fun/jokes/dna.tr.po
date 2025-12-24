@@ -1,7 +1,7 @@
 # Turkish translation of https://www.gnu.org/fun/jokes/dna.html
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
-# A. Arslan <aydoganarslantash@pm.me>, 2025
+# A. Arslantaş <aydoganarslantash@pm.me>, 2025
 #
 # SPDX-FileCopyrightText: 2025 aydo <aydoganarslantash@pm.me>
 msgid ""
@@ -291,8 +291,8 @@ msgstr ""
 "kapsamında yayımlamayı nezaketle kabul etti. Teşekkürler Mathew!"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
-#. type: Content of: <div><div>
-msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*\""
+#. type: Content of: <div>
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
 msgstr ""
 "<p><em>Çevirmen notu: Buradaki mizah unsurları İngilizce kelime oyunlarına "
 "dayanmaktadır. Türkçede anlamı olabildiğince aslına benzer şekilde korumaya "
@@ -323,7 +323,7 @@ msgstr ""
 #.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
-#.         README</a>.
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
 "Please see the <a href=\"/server/standards/"
@@ -364,7 +364,7 @@ msgstr ""
 "<li>A. Arslantaş, 2025</li>\n"
 "</ul>"
 
-#.  timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
