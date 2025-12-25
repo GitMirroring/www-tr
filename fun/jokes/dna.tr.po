@@ -32,11 +32,11 @@ msgstr "GNU Ana Sayfası"
 
 #. type: Content of: <div>
 msgid ""
-"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU humor</a>&nbsp;/ <a "
-"href=\"/fun/humor.html#Software\">Software</a>&nbsp;/"
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU humor</a>&nbsp;/ <a href="
+"\"/fun/humor.html#Software\">Software</a>&nbsp;/"
 msgstr ""
-"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU mizah</a>&nbsp;/ <a "
-"href=\"/fun/humor.html#Software\">Yazılım</a>&nbsp;/"
+"</a>&nbsp;/ <a href=\"/fun/humor.html#content\">GNU mizah</a>&nbsp;/ <a href="
+"\"/fun/humor.html#Software\">Yazılım</a>&nbsp;/"
 
 #. type: Content of: <div><h2>
 msgid "Human DNA deciphered into C code!"
@@ -276,11 +276,11 @@ msgstr "<a href=\"/fun/jokes/dna.txt\">Özgün e-posta</a>"
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Source:&nbsp; <a href=\"https://www.netfunny.com/rhf/jokes/91q3/"
-"genome.html\"> rec.humor.funny</a> (1991)."
+"Source:&nbsp; <a href=\"https://www.netfunny.com/rhf/jokes/91q3/genome.html"
+"\"> rec.humor.funny</a> (1991)."
 msgstr ""
-"Kaynak:&nbsp; <a href=\"https://www.netfunny.com/rhf/jokes/91q3/"
-"genome.html\"> rec.humor.funny</a> (1991)."
+"Kaynak:&nbsp; <a href=\"https://www.netfunny.com/rhf/jokes/91q3/genome.html"
+"\"> rec.humor.funny</a> (1991)."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -300,18 +300,17 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a "
-"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
-"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
-"other corrections or suggestions can be sent to <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
 msgstr ""
-"Lütfen FSF ve GNU ile ilgili sorularınızı <a "
-"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> adresine iletin. FSF ile "
-"iletişim kurmanın <a href=\"/contact/\">başka yolları</a> da vardır. Lütfen "
-"çalışmayan bağlantıları ve başka düzeltmeleri veya önerilerinizi <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine "
-"gönderin."
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -326,20 +325,19 @@ msgstr ""
 #.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/"
-"README.translations.html\">Translations README</a> for information on "
-"coordinating and contributing translations of this article."
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
-"önerilerinizi lütfen <a href=\"mailto:web-"
-"translators@gnu.org\">bize&nbsp;bildirin</a>.</p><p>Bu yazının çeviri "
-"düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href=\"/server/"
-"standards/README.translations.html\">Çeviriler BENİOKU</a> sayfasına bakın. "
-"Bu sayfanın ve diğer tüm sayfaların Türkçe çevirileri gönüllüler tarafından "
-"yapılmaktadır; Türkçe niteliği yüksek bir <a href=\"/"
-"home.html\">www.gnu.org</a> için bize yardımcı olmak istiyorsanız, <a "
-"href=\"https://savannah.gnu.org/projects/www-tr\">çalışma&nbsp;sayfamızı</a> "
-"ziyaret edebilirsiniz."
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 1991 Mathew Murphy"
@@ -347,13 +345,13 @@ msgstr "Copyright &copy; 1991 Mathew Murphy"
 
 #. type: Content of: <div><p>
 msgid ""
-"&ldquo;Human DNA deciphered into C code!&rdquo; is licensed under the <a "
-"rel=\"license\" href=\"/licenses/gpl.html\">GNU General Public License</a>, "
+"&ldquo;Human DNA deciphered into C code!&rdquo; is licensed under the <a rel="
+"\"license\" href=\"/licenses/gpl.html\">GNU General Public License</a>, "
 "version&nbsp;2 or later."
 msgstr ""
-"&ldquo;İnsan DNA’sının şifresi çözülerek C koduna aktarıldı!&rdquo; <a "
-"rel=\"license\" href=\"https://www.gnu.org/licenses/gpl-3.0.tr.html\">GNU "
-"Genel Kamu Lisansı</a>, &nbsp;2 veya üstü altında lisanslanmıştır."
+"&ldquo;İnsan DNA’sının şifresi çözülerek C koduna aktarıldı!&rdquo; <a rel="
+"\"license\" href=\"https://www.gnu.org/licenses/gpl-3.0.tr.html\">GNU Genel "
+"Kamu Lisansı</a>, &nbsp;2 veya üstü altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>

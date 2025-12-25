@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: surveillance-vs-democracy.html\n"
-"POT-Creation-Date: 2025-02-01 16:25+0000\n"
-"PO-Revision-Date: 2025-02-02 18:54+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"POT-Creation-Date: 2025-12-30 23:26+0000\n"
+"PO-Revision-Date: 2025-12-31 09:31+0100\n"
+"Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.7\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -1209,8 +1209,8 @@ msgstr ""
 "insanlar hakkında büyük veri birikiminin durdurulmasını gerektirir."
 
 #. type: Content of: <div><div><h3>
-msgid "End Note"
-msgstr "Son Not"
+msgid "End Notes"
+msgstr "Son Notlar"
 
 #. type: Content of: <div><div><ol><li>
 msgid ""
@@ -1239,11 +1239,15 @@ msgstr ""
 
 #. type: Content of: <div><div><div><p>
 msgid ""
-"A version of this article was first published in <cite>Wired</cite> in "
-"October&nbsp;2013."
+"A version of this article was first published in <a href=\"https://web."
+"archive.org/web/20131020080900/http://www.wired.com/opinion/2013/10/a-"
+"necessary-evil-what-it-takes-for-democracy-to-survive-surveillance/"
+"\"><cite>Wired</cite></a> in October&nbsp;2013."
 msgstr ""
-"Bu makalenin bir sürümü ilk olarak Ekim&nbsp;2013'te <cite>Wired</cite>'de "
-"yayımlandı."
+"Bu yazının bir versiyonu ilk olarak Ekim&nbsp;2013'te <a href=\"https://web."
+"archive.org/web/20131020080900/http://www.wired.com/opinion/2013/10/a-"
+"necessary-evil-what-it-takes-for-democracy-to-survive-surveillance/"
+"\"><cite>Wired</cite></a> dergisinde yayınlanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
@@ -1319,6 +1323,13 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "A version of this article was first published in <cite>Wired</cite> in "
+#~ "October&nbsp;2013."
+#~ msgstr ""
+#~ "Bu makalenin bir sürümü ilk olarak Ekim&nbsp;2013'te <cite>Wired</"
+#~ "cite>'de yayımlandı."
 
 #~ msgid "Copyright &copy; 2013-2019, 2021, 2022, 2023 Richard Stallman"
 #~ msgstr "Copyright &copy; 2013-2019, 2021, 2022, 2023 Richard Stallman"

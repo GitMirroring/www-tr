@@ -6,16 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: who-does-that-server-really-serve.html\n"
-"POT-Creation-Date: 2024-03-09 16:56+0000\n"
-"PO-Revision-Date: 2024-03-18 19:32+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"POT-Creation-Date: 2026-01-18 17:26+0000\n"
+"PO-Revision-Date: 2026-01-26 17:04+0100\n"
+"Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.7\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -831,6 +831,20 @@ msgstr ""
 "bulut, berrak düşünmenin önünde bir engeldir. Bilişim hakkında berrak bir "
 "şekilde düşünmek için &ldquo;bulut&rdquo; teriminden kaçınalım."
 
+#. type: Content of: <div><p>
+msgid ""
+"<small>In 2008, Stallman warned that <a href=\"https://web.archive.org/"
+"web/20130825032356/https://www.theguardian.com/technology/2008/sep/29/cloud."
+"computing.richard.stallman\">&ldquo;cloud computing&rdquo; is a trap</a>.  "
+"After that, he further developed his <a href=\"/philosophy/words-to-avoid."
+"html#CloudComputing\">analysis of the term</a>.</small>"
+msgstr ""
+"<small>Stallman 2008 yılında <a href=\"https://web.archive.org/"
+"web/20130825032356/https://www.theguardian.com/technology/2008/sep/29/cloud."
+"computing.richard.stallman\">&ldquo;bulut bilişim&rdquo;in bir tuzak</a> "
+"olduğu konusunda uyardı. Daha sonra <a href=\"/philosophy/words-to-avoid."
+"html#CloudComputing\">bu terimin analizini</a> daha da geliştirdi.</small>"
+
 #. type: Content of: <div><h3>
 msgid "Renting a Server Distinguished from SaaSS"
 msgstr "Sunucu Kiralamayı SaaSS'den Ayırt Ayırt Etme"
@@ -1132,10 +1146,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2023, 2024 "
+"Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2023, 2024, 2026 "
 "Richard Stallman"
 msgstr ""
-"Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2023, 2024 "
+"Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2023, 2024, 2026 "
 "Richard Stallman"
 
 #. type: Content of: <div><p>

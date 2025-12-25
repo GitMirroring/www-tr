@@ -11,16 +11,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-sw.html\n"
-"POT-Creation-Date: 2024-01-01 05:26+0000\n"
-"PO-Revision-Date: 2023-05-23 06:29+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"POT-Creation-Date: 2026-01-28 17:57+0000\n"
+"PO-Revision-Date: 2026-02-01 18:46+0100\n"
+"Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.7\n"
 
 #. type: Content of: <title>
 msgid "What is Free Software? - GNU Project - Free Software Foundation"
@@ -968,7 +968,7 @@ msgstr ""
 
 #. type: Content of: <div><h3>
 msgid "Beyond Software"
-msgstr "Yazılımın Yanında"
+msgstr "Yazılımdan Ötesi"
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1014,215 +1014,244 @@ msgstr ""
 "önemli değişikliklerin bir listesini, tam olarak neyin değiştiğini gösteren "
 "bağlantılarla birlikte görebilirsiniz."
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.168&amp;r2=1.169\">Version 1.169</a>: Explain more clearly "
-"why the four freedoms must apply to commercial activity.  Explain why the "
-"four freedoms imply the freedom not to run the program and the freedom to "
-"delete it, so there is no need to state those as separate requirements."
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.168&amp;r2=1.169\">Sürüm 1.169</a>: Dört özgürlüğün ticari "
-"faaliyete de neden uygulanması gerektiği daha net bir şekilde açıklandı. "
-"Dört özgürlüğün neden programı çalıştırmama ve silme özgürlüğünü "
-"kastetmediği, bu yüzden bunları ayrı gereksinimler olarak ifade etmeye gerek "
-"olmadığı açıklandı."
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.169"
+msgstr "Sürüm 1.169"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.164&amp;r2=1.165\">Version 1.165</a>: Clarify that "
-"arbitrary annoyances in the code do not negate freedom 0, and that freedoms "
-"1 and 3 enable users to remove them."
+"Explain more clearly why the four freedoms must apply to commercial "
+"activity.  Explain why the four freedoms imply the freedom not to run the "
+"program and the freedom to delete it, so there is no need to state those as "
+"separate requirements."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.164&amp;r2=1.165\">Sürüm 1.165</a>: Kodtaki nedensiz "
-"sıkıntıların 0 numaralı özgürlüğü çürütemeyeceği ve 1 ve 3 numaralı "
-"özgürlüklerin kullanıcıların bu sıkıntıları kaldırmasına olanak sağladığı "
-"açıklandı."
+"Dört özgürlüğün ticari faaliyete de neden uygulanması gerektiği daha net bir "
+"şekilde açıklandı. Dört özgürlüğün neden programı çalıştırmama ve silme "
+"özgürlüğünü kastetmediği, bu yüzden bunları ayrı gereksinimler olarak ifade "
+"etmeye gerek olmadığı açıklandı."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.165"
+msgstr "Sürüm 1.165"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.152&amp;r2=1.153\">Version 1.153</a>: Clarify that freedom "
-"to run the program means nothing stops you from making it run."
+"Clarify that arbitrary annoyances in the code do not negate freedom 0, and "
+"that freedoms 1 and 3 enable users to remove them."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.152&amp;r2=1.153\">Sürüm 1.153</a>: Programı çalıştırma "
-"özgürlüğünün, hiçbir şeyin onu çalıştırmaktan alıkoyamayacağı anlamına "
-"geldiği açıklandı."
+"Kodtaki nedensiz sıkıntıların 0 numaralı özgürlüğü ortadan kaldırmadığını ve "
+"1 ve 3 numaralı özgürlüklerin kullanıcıların bu sıkıntıları kaldırmasına "
+"olanak sağladığı netleştirildi."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.153"
+msgstr "Sürüm 1.153"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.140&amp;r2=1.141\">Version 1.141</a>: Clarify which code "
-"needs to be free."
+"Clarify that freedom to run the program means nothing stops you from making "
+"it run."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.140&amp;r2=1.141\">Sürüm 1.141</a>: Hangi kodun özgür "
-"olması gerektiği açıklandı."
+"Programı çalıştırma özgürlüğünün, programı çalıştırmanızı engelleyen hiçbir "
+"şeyin olmadığı anlamına geldiği netleştirildi."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.141"
+msgstr "Sürüm 1.141"
+
+#. type: Content of: <div><dl><dd>
+msgid "Clarify which code needs to be free."
+msgstr "Hangi kodun serbest olması gerektiğini netleştirildi."
+
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.135"
+msgstr "Sürüm 1.135"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.134&amp;r2=1.135\">Version 1.135</a>: Say each time that "
-"freedom 0 is the freedom to run the program as you wish."
+"Say each time that freedom 0 is the freedom to run the program as you wish."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.134&amp;r2=1.135\">Sürüm 1.135</a>: Her seferinde 0. "
-"özgürlüğün programı istediğiniz gibi çalıştırma özgürlüğü olduğu söylendi."
+"Her seferinde, 0 numaralı özgürlüğün programı istediğiniz gibi çalıştırma "
+"özgürlüğü olduğu söylendi."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.134"
+msgstr "Sürüm 1.134"
+
+#. type: Content of: <div><dl><dd>
+msgid "Freedom 0 is not a matter of the program's functionality."
+msgstr ""
+"0 numaral özgürlük programın işlevselliği ile ilgili bir konu değildir."
+
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.131"
+msgstr "Sürüm 1.131"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.133&amp;r2=1.134\">Version 1.134</a>: Freedom 0 is not a "
-"matter of the program's functionality."
+"A free license may not require compliance with a nonfree license of another "
+"program."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.133&amp;r2=1.134\">Sürüm 1.134</a>: 0. Özgürlük programın "
-"işlevselliğiyle ilgili bir husus değildir."
+"Özgür bir lisans, başka bir programın özgür olmayan lisansına uyulmasını "
+"gerektirmeyebilir."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.129"
+msgstr "Sürüm 1.129"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.130&amp;r2=1.131\">Version 1.131</a>: A free license may "
-"not require compliance with a nonfree license of another program."
+"State explicitly that choice of law and choice of forum specifications are "
+"allowed.  (This was always our policy.)"
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.130&amp;r2=1.131\">Sürüm 1.131</a>: Özgür bir lisansın "
-"başka bir programın özgür olmayan lisansıyla uygunluk gerektirmeyebilir."
+"Yasa seçimi ve forum tariflerinin seçimi açıkça belirtildi (bu her zaman "
+"politikamızdı)."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.122"
+msgstr "Sürüm 1.122"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.128&amp;r2=1.129\">Version 1.129</a>: State explicitly "
-"that choice of law and choice of forum specifications are allowed.  (This "
-"was always our policy.)"
+"An export control requirement is a real problem if the requirement is "
+"nontrivial; otherwise it is only a potential problem."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.128&amp;r2=1.129\">Sürüm 1.129</a>: Yasa seçimi ve forum "
-"tariflerinin seçimi açıkça belirtildi (bu her zaman politikamızdı)."
+"İhracat denetim gereksinimi, eğer gereksinim kolay değilse gerçek bir "
+"sorundur; aksi durumda sadece olası bir sorundur."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.118"
+msgstr "Sürüm 1.118"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.121&amp;r2=1.122\">Version 1.122</a>: An export control "
-"requirement is a real problem if the requirement is nontrivial; otherwise it "
-"is only a potential problem."
+"Clarification: the issue is limits on your right to modify, not on what "
+"modifications you have made.  And modifications are not limited to &ldquo;"
+"improvements&rdquo;"
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.121&amp;r2=1.122\">Sürüm 1.122</a>: İhracat denetim "
-"gereksinimi, eğer gereksinim kolay değilse gerçek bir sorundur; aksi durumda "
-"sadece olası bir sorundur."
+"Açıklama: bu sorun değiştirme hakkınızı sınırlıyor, ne değişiklik "
+"yaptığınızı değil. Ve değişiklik dediğimiz şey &ldquo;"
+"iyileştirmelerle&rdquo; sınırlı değildir"
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.111"
+msgstr "Sürüm 1.111"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.117&amp;r2=1.118\">Version 1.118</a>: Clarification: the "
-"issue is limits on your right to modify, not on what modifications you have "
-"made.  And modifications are not limited to &ldquo;improvements&rdquo;"
+"Clarify 1.77 by saying that only retroactive <em>restrictions</em> are "
+"unacceptable.  The copyright holders can always grant additional "
+"<em>permission</em> for use of the work by releasing the work in another way "
+"in parallel."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.117&amp;r2=1.118\">Sürüm 1.118</a>: Açıklama: bu sorun "
-"değiştirme hakkınızı sınırlıyor, ne değişiklik yaptığınızı değil. Ve "
-"değişiklik dediğimiz şey &ldquo;iyileştirmelerle&rdquo; sınırlı değildir"
+"1.77 sürümü için, yalnızca geçmişe dönük <em>kısıtlamaların</em> kabul "
+"edilemez olduğu belirtildi. Telif hakkı sahipleri, her zaman, çalışmanın "
+"kullanımı için paralelde başka şekillerde yayınlamaya ilişkin ek "
+"<em>izinler</em> verebilir."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.105"
+msgstr "Sürüm 1.105"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.110&amp;r2=1.111\">Version 1.111</a>: Clarify 1.77 by "
-"saying that only retroactive <em>restrictions</em> are unacceptable.  The "
-"copyright holders can always grant additional <em>permission</em> for use of "
-"the work by releasing the work in another way in parallel."
+"Reflect, in the brief statement of freedom 1, the point (already stated in "
+"version 1.80) that it includes really using your modified version for your "
+"computing."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.110&amp;r2=1.111\">Sürüm 1.111</a>: 1.77 sürümü için, "
-"yalnızca geçmişe dönük <em>kısıtlamaların</em> kabul edilemez olduğu "
-"belirtildi. Telif hakkı sahipleri, her zaman, çalışmanın kullanımı için "
-"paralelde başka şekillerde yayınlamaya ilişkin ek <em>izinler</em> verebilir."
+"1 numaralı özgürlüğünün kısa bir cümlesinde, (halihazırda 1.80 sürümünde "
+"belirtilmiş olan) aslında kendi değiştirilmiş sürümünüzü kendi bilgi "
+"işleminiz için kullanmayı içerdiği hakkındaki husus ifade edildi."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.92"
+msgstr "Sürüm 1.92"
+
+#. type: Content of: <div><dl><dd>
+msgid "Clarify that obfuscated code does not qualify as source code."
+msgstr ""
+"Gizlenmiş kodun kaynak kodu olarak nitelendirilemeyeceğini açıklığa "
+"kavuşturun."
+
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.90"
+msgstr "Sürüm 1.90"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.104&amp;r2=1.105\">Version 1.105</a>: Reflect, in the "
-"brief statement of freedom 1, the point (already stated in version 1.80) "
-"that it includes really using your modified version for your computing."
+"Clarify that freedom 3 means the right to distribute copies of your own "
+"modified or improved version, not a right to participate in someone else's "
+"development project."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.104&amp;r2=1.105\">Sürüm 1.105</a>: 1 numaralı "
-"özgürlüğünün kısa bir cümlesinde, (halihazırda 1.80 sürümünde belirtilmiş "
-"olan) aslında kendi değiştirilmiş sürümünüzü kendi bilgi işleminiz için "
-"kullanmayı içerdiği hakkındaki husus ifade edildi."
+"3 numaralı özgürlüğün kendi değiştirdiğiniz veya geliştirdiğiniz sürümlerin "
+"kopyalarını dağıtma hakkı anlamına geldiği, başkasının geliştirme projesinde "
+"yer alma hakkı olmadığı açıklandı."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.89"
+msgstr "Sürüm 1.89"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.91&amp;r2=1.92\">Version 1.92</a>: Clarify that obfuscated "
-"code does not qualify as source code."
+"Freedom 3 includes the right to release modified versions as free software."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.91&amp;r2=1.92\">Sürüm 1.92</a>: Gizlenmiş kodun kaynak "
-"kod olarak değerlendirilemeyeceği açıklandı."
+"3 numaralı özgürlük değiştirilmiş sürümleri özgür yazılım olarak yayınlama "
+"hakkını içerir."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.80"
+msgstr "Sürüm 1.80"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.89&amp;r2=1.90\">Version 1.90</a>: Clarify that freedom 3 "
-"means the right to distribute copies of your own modified or improved "
-"version, not a right to participate in someone else's development project."
+"Freedom 1 must be practical, not just theoretical; i.e., no tivoization."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.89&amp;r2=1.90\">Sürüm 1.90</a>: 3 numaralı özgürlüğün "
-"kendi değiştirdiğiniz veya geliştirdiğiniz sürümlerin kopyalarını dağıtma "
-"hakkı anlamına geldiği, başkasının geliştirme projesinde yer alma hakkı "
-"olmadığı açıklandı."
+"1 numaralı özgürlük sadece teorik değil, pratik de olmalıdır; yani "
+"tivoizasyon olmamalıdır."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.77"
+msgstr "Sürüm 1.77"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.88&amp;r2=1.89\">Version 1.89</a>: Freedom 3 includes the "
-"right to release modified versions as free software."
+"Clarify that all retroactive changes to the license are unacceptable, even "
+"if it's not described as a complete replacement."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.88&amp;r2=1.89\">Sürüm 1.89</a>: 3 numaralı özgürlük, "
-"değiştirilmiş sürümleri özgür yazılım olarak yayınlama hakkını içerir."
+"Tam bir yerini alma olmasa bile, lisansta geriye dönük değişiklikler "
+"yapmanın kabul edilebilir olmadığını açıklığa kavuştur."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.74"
+msgstr "Sürüm 1.74"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.79&amp;r2=1.80\">Version 1.80</a>: Freedom 1 must be "
-"practical, not just theoretical; i.e., no tivoization."
+"Four clarifications of points not explicit enough, or stated in some places "
+"but not reflected everywhere:"
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.79&amp;r2=1.80\">Sürüm 1.80</a>: 1 numaralı özgürlük "
-"uygulanabilir olmalıdır, yalnızca teorik değil; örn., tivolaştırma olmamalı."
+"Yeterince açık olmayan veya bazı yerlerde sözü geçen ancak her yerde "
+"belirtilmemiş olan dört noktanın açıklamaları:"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.76&amp;r2=1.77\">Version 1.77</a>: Clarify that all "
-"retroactive changes to the license are unacceptable, even if it's not "
-"described as a complete replacement."
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.76&amp;r2=1.77\">Sürüm 1.77</a>: Tam bir yerini alma "
-"olmasa bile, lisansda geriye dönük değişiklikler yapmanın kabuledilebilir "
-"olmadığını açıklığa kavuştur."
-
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.73&amp;r2=1.74\">Version 1.74</a>: Four clarifications of "
-"points not explicit enough, or stated in some places but not reflected "
-"everywhere:"
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.73&amp;r2=1.74\">Sürüm 1.74</a>: Yeterince açık olmayan "
-"veya bazı yerlerde sözü geçen ancak heryerde belirtilmemiş olan dört "
-"noktanın açıklamaları:"
-
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
 "&ldquo;Improvements&rdquo; does not mean the license can substantively limit "
 "what kinds of modified versions you can release.  Freedom 3 includes "
@@ -1233,7 +1262,7 @@ msgstr ""
 "numaralı özgürlük yalnızca değişikliklerin değil, aynı zamanda değiştirilmiş "
 "sürümlerin de dağıtılmasını içerir."
 
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid ""
 "The right to merge in existing modules refers to those that are suitably "
 "licensed."
@@ -1241,114 +1270,119 @@ msgstr ""
 "Varolan modüllerin birleştirilmesi ile, uygun şekilde lisansları olanlar "
 "kastedilmiştir."
 
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid "Explicitly state the conclusion of the point about export controls."
 msgstr ""
 "Dışarı aktarım kontrolleriyle ilgili noktanın neticesini açıkca belirt."
 
-#. type: Content of: <div><ul><li><ul><li>
+#. type: Content of: <div><dl><dd><ul><li>
 msgid "Imposing a license change constitutes revoking the old license."
 msgstr ""
 "Bir lisans değişikliğini yürüre koymak eski lisansı feshetmeyi meydana "
 "getirir."
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.56&amp;r2=1.57\">Version 1.57</a>: Add &ldquo;Beyond "
-"Software&rdquo; section."
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.56&amp;r2=1.57\">Sürüm 1.57</a>: &ldquo;Yazılımın "
-"Ötesinde&rdquo; kısmı eklendi."
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.57"
+msgstr "Sürüm 1.57"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.45&amp;r2=1.46\">Version 1.46</a>: Clarify whose purpose "
-"is significant in the freedom to run the program for any purpose."
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.45&amp;r2=1.46\">Sürüm 1.46</a>: Özgürlükte kimin hangi "
-"neden için olursa olsun programı çalıştırmasının önemi açıklandı."
+#. type: Content of: <div><dl><dd>
+msgid "Add &ldquo;Beyond Software&rdquo; section."
+msgstr "&ldquo;Yazılımın Yanında&rdquo; bölümü eklendi."
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.40&amp;r2=1.41\">Version 1.41</a>: Clarify wording about "
-"contract-based licenses."
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.40&amp;r2=1.41\">Sürüm 1.41</a>: Kontrata dayalı lisanslar "
-"hakkındaki sözleri açıklığa kavuşturuldu."
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.46"
+msgstr "Sürüm 1.46"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.39&amp;r2=1.40\">Version 1.40</a>: Explain that a free "
-"license must allow to you use other available free software to create your "
-"modifications."
+"Clarify whose purpose is significant in the freedom to run the program for "
+"any purpose."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.39&amp;r2=1.40\">Sürüm 1.40</a>: Özgür bir lisansın kendi "
-"değişikliklerinizi yaratmak için diğer mevcut özgür lisansları kullanmanıza "
-"izin vermesi gerektiği anlatıldı."
+"Programı herhangi bir amaçla çalıştırma özgürlüğünde kimin amacının önemli "
+"olduğu netleştirildi."
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.38&amp;r2=1.39\">Version 1.39</a>: Note that it is "
-"acceptable for a license to require you to provide source for versions of "
-"the software you put into public use."
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.38&amp;r2=1.39\">Sürüm 1.39</a>: Bir lisansın, kamusal "
-"kullanıma açık koyulan bir yazılımın sürümleri için kaynak kodunu sağlamayı "
-"gerekli kılmasının kabul edilebilir olduğu belirtildi."
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.41"
+msgstr "Sürüm 1.41"
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.30&amp;r2=1.31\">Version 1.31</a>: Note that it is "
-"acceptable for a license to require you to identify yourself as the author "
-"of modifications.  Other minor clarifications throughout the text."
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.30&amp;r2=1.31\">Sürüm 1.31</a>: Bir lisansın, "
-"değişikliklerin sahibi olarak sizin kendinizi göstermenizi mecbur kılmasının "
-"kabul edilebilir olduğu belirtildi."
+#. type: Content of: <div><dl><dd>
+msgid "Clarify wording about contract-based licenses."
+msgstr "Sözleşme tabanlı lisanslarla ilgili ifadeler netleştirildi."
 
-#. type: Content of: <div><ul><li>
-msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.22&amp;r2=1.23\">Version 1.23</a>: Address potential "
-"problems related to contract-based licenses."
-msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.22&amp;r2=1.23\">Sürüm 1.23</a>: Kontrat tabanlı lisanslar "
-"hakkındaki olası sorunlara işaret edildi."
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.40"
+msgstr "Sürüm 1.40"
 
-#. type: Content of: <div><ul><li>
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.15&amp;r2=1.16\">Version 1.16</a>: Explain why "
-"distribution of binaries is important."
+"Explain that a free license must allow to you use other available free "
+"software to create your modifications."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.15&amp;r2=1.16\">Sürüm 1.16</a>: Çalıştırılabilir "
-"dosyaların dağıtılmasının neden önemli olduğu açıklandı."
+"Özgür bir lisansın kendi değişikliklerinizi yaratmak için diğer mevcut özgür "
+"lisansları kullanmanıza izin vermesi gerektiği anlatıldı."
 
-#. type: Content of: <div><ul><li>
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.39"
+msgstr "Sürüm 1.39"
+
+#. type: Content of: <div><dl><dd>
 msgid ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.10&amp;r2=1.11\">Version 1.11</a>: Note that a free "
-"license may require you to send a copy of versions you distribute to "
-"previous developers on request."
+"Note that it is acceptable for a license to require you to provide source "
+"for versions of the software you put into public use."
 msgstr ""
-"<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
-"root=www&amp;r1=1.10&amp;r2=1.11\">Sürüm 1.11</a>: Özgür bir lisansın, "
-"dağıttığınız sürümlerin bir kopyasını talep durumunda programın sahibine "
-"göndermenizi zorunlu kılabileceği belirtildi."
+"Bir lisansın, kamusal kullanıma açık koyulan bir yazılımın sürümleri için "
+"kaynak kodunu sağlamayı gerekli kılmasının kabul edilebilir olduğu "
+"belirtildi."
+
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.31"
+msgstr "Sürüm 1.31"
+
+#. type: Content of: <div><dl><dd>
+msgid ""
+"Note that it is acceptable for a license to require you to identify yourself "
+"as the author of modifications.  Other minor clarifications throughout the "
+"text."
+msgstr ""
+"Bir lisansın, değişikliklerin sahibi olarak sizin kendinizi göstermenizi "
+"mecbur kılmasının kabul edilebilir olduğu belirtildi."
+
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.23"
+msgstr "Sürüm 1.23"
+
+#. type: Content of: <div><dl><dd>
+msgid "Address potential problems related to contract-based licenses."
+msgstr "Sözleşme tabanlı lisanslarla ilgili olası sorunları ele alındı."
+
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.16"
+msgstr "Sürüm 1.16"
+
+#. type: Content of: <div><dl><dd>
+msgid "Explain why distribution of binaries is important."
+msgstr "İkili dosyaların dağıtımının neden önemli olduğu açıklandı."
+
+#. #echo encoding='none' var='version_link' 
+#. type: Content of: <div><dl><dt>
+msgid "Version 1.11"
+msgstr "1.11"
+
+#. type: Content of: <div><dl><dd>
+msgid ""
+"Note that a free license may require you to send a copy of versions you "
+"distribute to previous developers on request."
+msgstr ""
+"Özgür bir lisansın, dağıttığınız sürümlerin bir kopyasını talep durumunda "
+"programın sahibine göndermenizi zorunlu kılabileceği belirtildi."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1452,11 +1486,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023, 2024 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023, 2024, 2026 Free "
+"Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023, 2024 Free Software "
-"Foundation, Inc."
+"Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023, 2024, 2026 Free "
+"Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1489,6 +1523,125 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.152&amp;r2=1.153\">Version 1.153</a>: Clarify that "
+#~ "freedom to run the program means nothing stops you from making it run."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.152&amp;r2=1.153\">Sürüm 1.153</a>: Programı çalıştırma "
+#~ "özgürlüğünün, hiçbir şeyin onu çalıştırmaktan alıkoyamayacağı anlamına "
+#~ "geldiği açıklandı."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.140&amp;r2=1.141\">Version 1.141</a>: Clarify which "
+#~ "code needs to be free."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.140&amp;r2=1.141\">Sürüm 1.141</a>: Hangi kodun özgür "
+#~ "olması gerektiği açıklandı."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.134&amp;r2=1.135\">Version 1.135</a>: Say each time "
+#~ "that freedom 0 is the freedom to run the program as you wish."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.134&amp;r2=1.135\">Sürüm 1.135</a>: Her seferinde 0. "
+#~ "özgürlüğün programı istediğiniz gibi çalıştırma özgürlüğü olduğu söylendi."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.133&amp;r2=1.134\">Version 1.134</a>: Freedom 0 is not "
+#~ "a matter of the program's functionality."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.133&amp;r2=1.134\">Sürüm 1.134</a>: 0. Özgürlük "
+#~ "programın işlevselliğiyle ilgili bir husus değildir."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.130&amp;r2=1.131\">Version 1.131</a>: A free license "
+#~ "may not require compliance with a nonfree license of another program."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.130&amp;r2=1.131\">Sürüm 1.131</a>: Özgür bir lisansın "
+#~ "başka bir programın özgür olmayan lisansıyla uygunluk gerektirmeyebilir."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.91&amp;r2=1.92\">Version 1.92</a>: Clarify that "
+#~ "obfuscated code does not qualify as source code."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.91&amp;r2=1.92\">Sürüm 1.92</a>: Gizlenmiş kodun kaynak "
+#~ "kod olarak değerlendirilemeyeceği açıklandı."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.88&amp;r2=1.89\">Version 1.89</a>: Freedom 3 includes "
+#~ "the right to release modified versions as free software."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.88&amp;r2=1.89\">Sürüm 1.89</a>: 3 numaralı özgürlük, "
+#~ "değiştirilmiş sürümleri özgür yazılım olarak yayınlama hakkını içerir."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.79&amp;r2=1.80\">Version 1.80</a>: Freedom 1 must be "
+#~ "practical, not just theoretical; i.e., no tivoization."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.79&amp;r2=1.80\">Sürüm 1.80</a>: 1 numaralı özgürlük "
+#~ "uygulanabilir olmalıdır, yalnızca teorik değil; örn., tivolaştırma "
+#~ "olmamalı."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.56&amp;r2=1.57\">Version 1.57</a>: Add &ldquo;Beyond "
+#~ "Software&rdquo; section."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.56&amp;r2=1.57\">Sürüm 1.57</a>: &ldquo;Yazılımın "
+#~ "Ötesinde&rdquo; kısmı eklendi."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.45&amp;r2=1.46\">Version 1.46</a>: Clarify whose "
+#~ "purpose is significant in the freedom to run the program for any purpose."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.45&amp;r2=1.46\">Sürüm 1.46</a>: Özgürlükte kimin hangi "
+#~ "neden için olursa olsun programı çalıştırmasının önemi açıklandı."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.40&amp;r2=1.41\">Version 1.41</a>: Clarify wording "
+#~ "about contract-based licenses."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.40&amp;r2=1.41\">Sürüm 1.41</a>: Kontrata dayalı "
+#~ "lisanslar hakkındaki sözleri açıklığa kavuşturuldu."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.22&amp;r2=1.23\">Version 1.23</a>: Address potential "
+#~ "problems related to contract-based licenses."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.22&amp;r2=1.23\">Sürüm 1.23</a>: Kontrat tabanlı "
+#~ "lisanslar hakkındaki olası sorunlara işaret edildi."
+
+#~ msgid ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.15&amp;r2=1.16\">Version 1.16</a>: Explain why "
+#~ "distribution of binaries is important."
+#~ msgstr ""
+#~ "<a href=\"//web.cvs.savannah.gnu.org/viewvc/www/philosophy/free-sw.html?"
+#~ "root=www&amp;r1=1.15&amp;r2=1.16\">Sürüm 1.16</a>: Çalıştırılabilir "
+#~ "dosyaların dağıtılmasının neden önemli olduğu açıklandı."
 
 #~ msgid ""
 #~ "Copyright &copy; 1996-2002, 2004-2019, 2021, 2022, 2023 Free Software "

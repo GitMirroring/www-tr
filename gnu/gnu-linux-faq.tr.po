@@ -1650,7 +1650,7 @@ msgid ""
 msgstr ""
 "Stallman her seferinde ona &ldquo;Richard Matthew Stallman&rdquo; olarak "
 "seslenmemizi istemiyor. Öyleyse neden her zaman &ldquo;GNU/Linux&rdquo; "
-"demeliyiz? <span class=\"anchor-reference-id\">(<a href=\"#long4\">#uzun4</"
+"demeliyiz? <span class=\"anchor-reference-id\">(<a href=\"#long4\">#long4</"
 "a>)</span>"
 
 #. type: Content of: <div><dl><dd><p>

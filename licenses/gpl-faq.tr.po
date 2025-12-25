@@ -7,16 +7,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gpl-faq.html\n"
-"POT-Creation-Date: 2024-10-15 21:56+0000\n"
-"PO-Revision-Date: 2024-05-04 14:35+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"POT-Creation-Date: 2026-01-13 15:26+0000\n"
+"PO-Revision-Date: 2026-01-13 23:07+0100\n"
+"Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.7\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -724,6 +724,14 @@ msgstr ""
 "<a href=\"#NonvisualLegalNotices\">Programımın doğası gereği görsel olmayan, "
 "etkileşimli kullanıcı arabirimleri var. GPLv3'teki İlgili Yasal Uyarılar "
 "[<em>Appropriate Legal Notices</em>] koşuluna nasıl uyabilirim?</a>"
+
+#. type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"#GPLWithLGPL\">I release my program under LGPLv3.  Why should I "
+"include a copy of the ordinary GNU GPL in my package?</a>"
+msgstr ""
+"<a href=\"#GPLWithLGPL\">Programımı LGPLv3 altında yayınlıyorum.  Neden "
+"paketime normal GNU GPL'nin bir kopyasını eklemeliyim?</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -6787,6 +6795,28 @@ msgstr ""
 
 #. type: Content of: <dl><dt>
 msgid ""
+"I release my program under LGPLv3.  Why should I include a copy of the "
+"ordinary GNU GPL in my package? <span class=\"anchor-reference-id\">(<a href="
+"\"#GPLWithLGPL\" >#GPLWithLGPL</a>)</span>"
+msgstr ""
+"Programımı LGPLv3 altında yayınlıyorum.  Paketime neden normal GNU GPL'nin "
+"bir kopyasını eklemeliyim? <span class=\"anchor-reference-id\">(<a href="
+"\"#GPLWithLGPL\" >#GPLWithLGPL</a>)</span>"
+
+#. type: Content of: <dl><dd><p>
+msgid ""
+"LGPLv3 is designed as a set of additional permissions on top of GPLv3, so "
+"your users need a copy of the GPL in order to understand the licensing "
+"conditions of your package.  We provide a file containing <a href=\"/"
+"licenses/lgpl+gpl-3.0.txt\">LGPLv3 and GPLv3</a>."
+msgstr ""
+"LGPLv3, GPLv3'ün üzerine eklenen bir dizi ek izin olarak tasarlanmıştır, bu "
+"nedenle kullanıcılarınızın paketinizin lisans koşullarını anlamak için "
+"GPL'nin bir kopyasına ihtiyaçları vardır.  <a href=\"/licenses/lgpl+gpl-3.0."
+"txt\">LGPLv3 ve GPLv3</a> içeren bir dosya sağlıyoruz."
+
+#. type: Content of: <dl><dt>
+msgid ""
 "If I give a copy of a GPLv3-covered program to a coworker at my company, "
 "have I &ldquo;conveyed&rdquo; the copy to that coworker? <span class="
 "\"anchor-reference-id\">(<a href=\"#v3CoworkerConveying\" "
@@ -7922,9 +7952,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2001-2019, 2021, 2023, 2024 Free Software Foundation, Inc."
+"Copyright &copy; 2001-2019, 2021, 2023, 2024, 2026 Free Software Foundation, "
+"Inc."
 msgstr ""
-"Copyright &copy; 2001-2019, 2021, 2023, 2024 Free Software Foundation, Inc."
+"Copyright &copy; 2001-2019, 2021, 2023, 2024, 2026 Free Software Foundation, "
+"Inc."
 
 #. type: Content of: <div><p>
 msgid ""
