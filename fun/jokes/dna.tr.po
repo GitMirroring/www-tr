@@ -1,5 +1,5 @@
 # Turkish translation of https://www.gnu.org/fun/jokes/dna.html
-# Copyright (C) YEAR Free Software Foundation, Inc.
+# Copyright (C) 2025 Free Software Foundation, Inc.
 # This file is distributed under the same license as the original article.
 # A. Arslantaş <aydoganarslantash@pm.me>, 2025
 #

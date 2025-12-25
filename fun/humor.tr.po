@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 3.7\n"
 
 #. type: Content of: <title>
@@ -46,8 +46,8 @@ msgstr ""
 "Günümüzde internette insanların şakalar yayınlayabileceği birçok yer var, bu "
 "yüzden bize bir şaka göndermeden önce lütfen başka bir yerde yayınlamayı "
 "düşünün. GNU katkıcıları tarafından gönderilen şakalar öncelikli olacaktır.  "
-"Gönderim politikamızla ilgili ayrıntılar için lütfen <a "
-"href=\"#Guidelines\">Yönergeler</a> bölümünü okuyun."
+"Gönderim politikamızla ilgili ayrıntılar için lütfen <a href=\"#Guidelines"
+"\">Yönergeler</a> bölümünü okuyun."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -78,8 +78,8 @@ msgstr "<a href=\"/fun/jokes/deadbeef.html\">Ölü Sığır</a>?"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"What does Dr. Emacs think of the <a href=\"/fun/jokes/"
-"doctor.manifesto.html\">GNU Manifesto</a>?"
+"What does Dr. Emacs think of the <a href=\"/fun/jokes/doctor.manifesto.html"
+"\">GNU Manifesto</a>?"
 msgstr ""
 "Dr. Emacs, <a href=\"/fun/jokes/doctor.manifesto.html\">GNU Bildirisi</a> "
 "hakkında ne düşünüyor?"
@@ -245,11 +245,11 @@ msgstr "<a href=\"/fun/jokes/unix.errors.html\">Unix Hata Mesajları</a>"
 
 #. type: Content of: <div><ul><li>
 msgid ""
-"<a href=\"https://web.archive.org/web/20110411021200/https://twitter.com/"
-"1990sLinuxUser\"> Some humor via Twitter</a>"
+"<a href=\"https://web.archive.org/web/20110411021200/https://twitter."
+"com/1990sLinuxUser\"> Some humor via Twitter</a>"
 msgstr ""
-"<a href=\"https://web.archive.org/web/20110411021200/https://twitter.com/"
-"1990sLinuxUser\">Twitter'den biraz mizah</a>"
+"<a href=\"https://web.archive.org/web/20110411021200/https://twitter."
+"com/1990sLinuxUser\">Twitter'den biraz mizah</a>"
 
 #. type: Content of: <div><h3>
 msgid "Documentation"
@@ -390,9 +390,7 @@ msgstr "<a href=\"/fun/jokes/fsf-in-german.html\">Almanca FSF</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/fun/jokes/fundefinitions1.html\">Fun Definitions 1</a>"
-msgstr ""
-"<a href=\"/eğlence/şakalar/eğlenceli-tanımlar1.html\">Eğlenceli Tanımlar 1</"
-"a>"
+msgstr "<a href=\"/fun/jokes/fundefinitions1.html\">Eğlenceli Tanımlar 1</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/fun/jokes/fundefinitions2.html\">Fun Definitions 2</a>"
@@ -416,7 +414,7 @@ msgstr "<a href=\"/fun/jokes/spilling-checker.html\">Dökme Denetleyicisi</a>"
 
 #. type: Content of: <div><ul><li>
 msgid "<a href=\"/fun/jokes/typoglycemia.html\">Typoglycemia</a>"
-msgstr "<a href=\"/eğlence/şakalar/tipoglisemi.html\">Tipoglisemi</a>"
+msgstr "<a href=\"/fun/jokes/typoglycemia.html\">Tipoglisemi</a>"
 
 #. type: Content of: <div><h3>
 msgid "Spam"
@@ -541,32 +539,28 @@ msgid ""
 "***&nbsp;&nbsp;And we'll end this page with a perfect <a href=\"/fun/jokes/"
 "purchase.agreement.html\">Disclaimer</a>!&nbsp;&nbsp;***"
 msgstr ""
-"***&nbsp;&nbsp;Ve bu sayfayı mükemmel bir <a href=\"/fun/jokes/"
-"purchase.agreement.html\">Feragatname</a> ile bitireceğiz!&nbsp;&nbsp;***"
+"***&nbsp;&nbsp;Ve bu sayfayı mükemmel bir <a href=\"/fun/jokes/purchase."
+"agreement.html\">Feragatname</a> ile bitireceğiz!&nbsp;&nbsp;***"
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
-msgstr " Son Güncelleme:"
+msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a "
-"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
-"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
-"other corrections or suggestions can be sent to <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
 msgstr ""
-"Lütfen FSF ve GNU ile ilgili sorularınızı <a "
-"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> adresine iletin. FSF ile "
-"iletişim kurmanın <a href=\"/contact/\">başka yolları</a> da vardır. Lütfen "
-"çalışmayan bağlantıları ve başka düzeltmeleri veya önerilerinizi <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine "
-"gönderin."
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
-#
-#
-#
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
 #.         We work hard and do our best to provide accurate, good quality
@@ -577,23 +571,22 @@ msgstr ""
 #.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
-#.         README</a>.
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/"
-"README.translations.html\">Translations README</a> for information on "
-"coordinating and contributing translations of this article."
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
-"önerilerinizi lütfen <a href=\"mailto:web-"
-"translators@gnu.org\">bize&nbsp;bildirin</a>.</p><p>Bu yazının çeviri "
-"düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href=\"/server/"
-"standards/README.translations.html\">Çeviriler BENİOKU</a> sayfasına bakın. "
-"Bu sayfanın ve diğer tüm sayfaların Türkçe çevirileri gönüllüler tarafından "
-"yapılmaktadır; Türkçe niteliği yüksek bir <a href=\"/"
-"home.html\">www.gnu.org</a> için bize yardımcı olmak istiyorsanız, <a "
-"href=\"https://savannah.gnu.org/projects/www-tr\">çalışma&nbsp;sayfamızı</a> "
-"ziyaret edebilirsiniz."
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid "Copyright &copy; 1999-2021, 2023, 2025 Richard M. Stallman"
@@ -605,16 +598,16 @@ msgid ""
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
-"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/"
-"4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası Lisansı</"
-"a> altında lisanslanmıştır."
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
 msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr "T. E. Kalaycı, 2025"
 
-#.  timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
