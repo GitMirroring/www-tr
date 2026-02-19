@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: translations.html\n"
-"POT-Creation-Date: 2025-06-29 19:55+0000\n"
-"PO-Revision-Date: 2026-01-02 20:36+0100\n"
+"POT-Creation-Date: 2026-03-03 15:56+0000\n"
+"PO-Revision-Date: 2026-03-14 16:48+0100\n"
 "Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -242,6 +242,15 @@ msgid ""
 msgstr ""
 "<code>[da]</code> <a href=\"https://raw.githubusercontent.com/scootergrisen/"
 "licenser/master/gpl-3.0.da.txt\">Danca</a> GPL çevirisi (TXT)"
+
+#.  RT #2257164 
+#. type: Content of: <div><ul><li>
+msgid ""
+"<code>[de]</code> <a href=\"https://shrt.day/gnu/gpl_v3_de.txt\">German</a> "
+"translation of the GPL"
+msgstr ""
+"<code>[de]</code> <a href=\"https://shrt.day/gnu/gpl_v3_de.txt\">Almanca</a> "
+"GPL çevirisi"
 
 #.  RT #1891745 
 #. type: Content of: <div><ul><li>
@@ -842,11 +851,11 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 1996-1999, 2008, 2011, 2015, 2022, 2023, 2024, 2025 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 1996-1999, 2008, 2011, 2015, 2022, 2023, 2024, 2025, 2026 "
+"Free Software Foundation, Inc."
 msgstr ""
-"Copyright &copy; 1996-1999, 2008, 2011, 2015, 2022, 2023, 2024, 2025 Free "
-"Software Foundation, Inc."
+"Copyright &copy; 1996-1999, 2008, 2011, 2015, 2022, 2023, 2024, 2025, 2026 "
+"Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

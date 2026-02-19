@@ -6,16 +6,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: license-list.html\n"
-"POT-Creation-Date: 2025-04-08 16:29+0000\n"
-"PO-Revision-Date: 2025-04-12 09:48+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"POT-Creation-Date: 2026-02-04 10:25+0000\n"
+"PO-Revision-Date: 2026-02-19 20:35+0100\n"
+"Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.7\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -4608,6 +4608,41 @@ msgstr ""
 
 #. type: Content of: <div><dl><dt>
 msgid ""
+"<a id=\"SFL\" href=\"https://directory.fsf.org/wiki/License:"
+"SourceFirstLicense-1.1\"> Source First License, version 1.1</a> <span class="
+"\"anchor-reference-id\">(<a href=\"#SFL\">#SFL</a>)</span>"
+msgstr ""
+"<a id=\"SFL\" href=\"https://directory.fsf.org/wiki/License:"
+"SourceFirstLicense-1.1\"> , sürüm 1.1</a> <span class=\"anchor-reference-id"
+"\">(<a href=\"#SFL\">#SFL</a>)</span>"
+
+#. type: Content of: <div><dl><dd><p>
+msgid "This license is also known as the FUTO license."
+msgstr "Bu lisans FUTO lisansı olarak da bilinir."
+
+#. type: Content of: <div><dl><dd><p>
+msgid ""
+"The Source First License 1.1 is a nonfree license because it forbids "
+"commercial use of the program, and also because it restricts release of "
+"versions with modified functionality."
+msgstr ""
+"Source First Lisansı 1.1 programın ticari kullanımını yasakladığı ve ayrıca "
+"değiştirilmiş işlevselliğe sahip sürümlerin yayınlanmasını kısıtladığı için "
+"özgür olmayan bir lisanstır."
+
+#. type: Content of: <div><dl><dd><p>
+msgid ""
+"We urge people to reject programs under this license and to develop free "
+"replacements. Where a previous version was available as free software, "
+"continuing development of that version is an option."
+msgstr ""
+"İnsanlara bu lisans altındaki programları reddetmelerini ve özgür "
+"alternatifler geliştirmelerini öneriyoruz. Eğer önceki bir sürüm özgür "
+"yazılım olarak mevcutsa, seçeneklerden biri geliştirmeye bu sürümden devam "
+"etmektir."
+
+#. type: Content of: <div><dl><dt>
+msgid ""
 "<a id=\"Squeak\" href=\"https://directory.fsf.org/wiki/License:Squeak-old"
 "\">Old Squeak license</a> <span class=\"anchor-reference-id\"> (<a href="
 "\"#Squeak\">#Squeak</a>)</span>"
@@ -5816,8 +5851,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 1999-2025 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 1999-2025 Free Software Foundation, Inc."
+msgid "Copyright &copy; 1999-2026 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 1999-2026 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""

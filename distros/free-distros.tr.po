@@ -7,16 +7,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: free-distros.html\n"
-"POT-Creation-Date: 2025-05-30 16:59+0000\n"
-"PO-Revision-Date: 2024-04-23 21:57+0200\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"POT-Creation-Date: 2026-02-24 10:56+0000\n"
+"PO-Revision-Date: 2026-03-14 16:47+0100\n"
+"Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.7\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -310,22 +310,6 @@ msgstr ""
 "<em>Trisquel</em>, küçük işletmelere, ev kullanıcılarına ve eğitim "
 "merkezlerine yönelik Ubuntu tabanlı bir GNU/Linux dağıtımıdır."
 
-#. type: Content of: <table><tr><td><a>
-msgid "<a href=\"http://www.ututo.org/\">"
-msgstr "<a href=\"http://www.ututo.org/\">"
-
-#. type: Attribute 'alt' of: <table><tr><td><a><img>
-msgid "Ututo"
-msgstr "Ututo"
-
-#. type: Content of: <table><tr><td>
-msgid ""
-"<em>Ututo S</em>, a GNU/Linux 100% free distribution.  It was the first "
-"fully free GNU/Linux system recognized by the GNU Project."
-msgstr ""
-"<em>Ututo S</em> %100 özgür bir GNU/Linux dağıtımıdır. GNU projesi "
-"tarafından ilk onaylanan tamamıyla özgür bir GNU/Linux sistemidir."
-
 #. type: Content of: <h3>
 msgid "Small GNU/Linux distros"
 msgstr "Küçük GNU/Linux dağıtımları"
@@ -548,6 +532,26 @@ msgstr ""
 "Geliştirilmesi durdurulduğu için geliştiricilerin isteği üzerine <em>Mart "
 "2019'da kaldırıldı</em>."
 
+#. type: Content of: <table><tr><td><a>
+msgid "<a href=\"http://www.ututo.org/\">"
+msgstr "<a href=\"http://www.ututo.org/\">"
+
+#. type: Attribute 'alt' of: <table><tr><td><a><img>
+msgid "Ututo"
+msgstr "Ututo"
+
+#. type: Content of: <table><tr><td>
+msgid ""
+"<em>Ututo S</em>, a GNU/Linux 100% free distribution.  It was the first "
+"fully free GNU/Linux system recognized by the GNU Project."
+msgstr ""
+"<em>Ututo S</em> %100 özgür bir GNU/Linux dağıtımıdır. GNU projesi "
+"tarafından ilk onaylanan tamamıyla özgür bir GNU/Linux sistemidir."
+
+#. type: Content of: <table><tr><td>
+msgid "<em>Removed February 2026</em>."
+msgstr "<em>Şubat 2026'da Kaldırıldı</em>."
+
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div>
 msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
@@ -595,8 +599,8 @@ msgstr ""
 "\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
-msgid "Copyright &copy; 2004-2015, 2017-2025 Free Software Foundation, Inc."
-msgstr "Copyright &copy; 2004-2015, 2017-2025 Free Software Foundation, Inc."
+msgid "Copyright &copy; 2004-2015, 2017-2026 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2004-2015, 2017-2026 Free Software Foundation, Inc."
 
 #. type: Content of: <div><p>
 msgid ""
