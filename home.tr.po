@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2026-01-21 12:56+0000\n"
+"POT-Creation-Date: 2026-03-24 04:55+0000\n"
 "PO-Revision-Date: 2026-01-26 17:02+0100\n"
 "Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -67,10 +67,6 @@ msgstr "Deutsch"
 #. type: Attribute 'label' of: <div><div><div><video><track>
 msgid "español"
 msgstr "español"
-
-#. type: Attribute 'label' of: <div><div><div><video><track>
-msgid "español argentino"
-msgstr "español argentino"
 
 #. type: Attribute 'label' of: <div><div><div><video><track>
 msgid "فارسی"
@@ -687,6 +683,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid "español argentino"
+#~ msgstr "español argentino"
 
 #~ msgid "Czech"
 #~ msgstr "Çekçe"
