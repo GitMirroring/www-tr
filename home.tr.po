@@ -3,12 +3,12 @@
 # This file is distributed under the same license as the original article.
 #
 # The FLOSS Information <theflossinformation@yandex.com>, 2019, 2020.
-# T. E. Kalayci, 2020-2024.
+# T. E. Kalayci, 2020-2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: home.html\n"
-"POT-Creation-Date: 2026-03-24 04:55+0000\n"
-"PO-Revision-Date: 2026-01-26 17:02+0100\n"
+"POT-Creation-Date: 2026-03-27 10:57+0000\n"
+"PO-Revision-Date: 2026-03-29 08:26+0200\n"
 "Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.7\n"
+"X-Generator: Poedit 3.9\n"
 
 #. type: Content of: <title>
 msgid "The GNU Operating System and the Free Software Movement"
@@ -146,18 +146,18 @@ msgstr ""
 "href=\"https://dragora.org/index.html\"> Dragora&nbsp;3.0-beta2</a></small>"
 
 #. type: Attribute 'alt' of: <div><div><div><div><p><img>
-msgid "&nbsp;[Screenshot of Guix&nbsp;1.4.0 with Plasma desktop]&nbsp;"
-msgstr "&nbsp;[Plasma masaüstü ile Guix&nbsp;1.4.0'ın ekran görüntüsü]&nbsp;"
+msgid "&nbsp;[Screenshot of Guix&nbsp;1.5.0 with Plasma desktop]&nbsp;"
+msgstr "&nbsp;[Plasma masaüstü ile Guix&nbsp;1.5.0'ın ekran görüntüsü]&nbsp;"
 
 #. type: Content of: <div><div><div><div><p>
 msgid ""
-"<small><a href=\"/software/guix/\">Guix&nbsp;1.4.0</a> with <a href="
-"\"https://kde.org/plasma-desktop/\">Plasma</a> desktop, terminal emulator, "
-"and system settings</small>"
+"<small><a href=\"/software/guix/\">Guix&nbsp;1.5.0</a> with <a href="
+"\"https://kde.org/plasma-desktop/\">Plasma</a> desktop, welcome screen, and "
+"system settings</small>"
 msgstr ""
 "<small><a href=\"https://kde.org/plasma-desktop/\">Plasma</a> masaüstü, "
-"uçbirim öykünücü ve sistem ayarları ile <a href=\"/software/guix/"
-"\">Guix&nbsp;1.4.0</a></small>"
+"hoşgeldiniz ekranı ve sistem ayarları ile <a href=\"/software/guix/"
+"\">Guix&nbsp;1.5.0</a></small>"
 
 #. type: Attribute 'alt' of: <div><div><div><div><p><img>
 msgid "&nbsp;[Screenshot of Hyperbola with i3 window manager]&nbsp;"
@@ -676,7 +676,7 @@ msgstr ""
 "<ul>\n"
 "<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
 "\">&lt;theflossinformation@gmail.com&gt;</a>, 2019, 2020.</li>\n"
-"<li>T. E. Kalayci, 2020-2024.</li>\n"
+"<li>T. E. Kalayci, 2020-2026.</li>\n"
 "</ul>"
 
 #.  timestamp start 

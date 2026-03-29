@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: education.html\n"
-"POT-Creation-Date: 2026-03-20 21:26+0000\n"
-"PO-Revision-Date: 2026-03-25 06:42+0100\n"
+"POT-Creation-Date: 2026-03-29 16:57+0000\n"
+"PO-Revision-Date: 2026-04-04 15:17+0200\n"
 "Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -140,47 +140,68 @@ msgstr ""
 "Bu altı dakikalık videoda Richard Stallman Özgür Yazılımın ilkelerini ve "
 "eğitimle ilişkisini kısa ve öz olarak anlatıyor."
 
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "English"
+msgstr "İngilizce"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "العربية"
+msgstr "Arapça"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Deutsch"
+msgstr "Almanca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "ελληνικά"
+msgstr "yunanca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "español"
+msgstr "ispanyolca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "français"
+msgstr "français"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "italiano"
+msgstr "italyanca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Nederlands"
+msgstr "Flamanca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "português"
+msgstr "Portekizce"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Shqip"
+msgstr "Arnavutça"
+
 #.  TRANSLATORS: Please replace the link to the video with subtitles in
 #.      English with a link to the video with subtitles in your language, 
 #.      if it exists. 
 #. type: Content of: <div><div><div><div><p>
 msgid ""
-"<a href=\"https://audio-video.gnu.org/video/rms-education-es-high-sub.en.webm"
-"\"> Download</a> this video at a higher definition.  <a href=\"/audio-video/"
-"philosophy-recordings.html#rms-200807150\">Other versions</a> of the video."
+"<a href=\"https://audio-video.gnu.org/video/rms-education-es.webm\">Download "
+"WebM (19 MB)</a>. This video is also available <a href=\"/education/misc/edu-"
+"misc.html#rms-movie-subs\">with embedded subtitles</a> in several languages."
 msgstr ""
-"Bu videoyu yüksek çözünürlüklü olarak <a href=\"https://audio-video.gnu.org/"
-"video/rms-education-es-high-sub.en.ogv\">indirebilirsiniz</a>. Videonun <a "
-"href=\"/audio-video/philosophy-recordings.html#rms-200807150\">diğer "
-"sürümleri</a>."
+"<a href=\"https://audio-video.gnu.org/video/rms-education-es.webm\">WebM (19 "
+"MB) indir</a>. Bu video çeşitli <a href=\"/education/misc/edu-misc.html#rms-"
+"movie-subs\">gömülü dillerde de mevcut</a> ."
 
-#.  TRANSLATORS: please add the link to your language here in the first 
-#.      place, followed by a comma. 
 #. type: Content of: <div><div><div><div><p>
 msgid ""
-"Transcriptions of this video are available in <a href=\"/education/misc/rms-"
-"education-es-translation-to-en.txt\">English</a>, <a href=\"/education/misc/"
-"rms-education-es-transcription.txt\">Spanish</a>, and <a href=\"/education/"
-"misc/edu-misc.html#transcription-rms-education\"> other languages</a>."
+"<a href=\"/education/misc/edu-misc.html#subtitles-rms-movie\">Subtitles</a> "
+"(WebVTT/SubRip) and <a href=\"/education/misc/edu-misc.html#transcripts-rms-"
+"movie\">Transcripts</a> are also available for download."
 msgstr ""
-"Bu videonun çözümlemeleri <a href=\"/education/misc/rms-education-es-"
-"translation-to-en.txt\">İngilizce</a>, <a href=\"/education/misc/rms-"
-"education-es-transcription.txt\">İspanyolca</a>, ve <a href=\"/education/"
-"misc/edu-misc.html#transcription-rms-education\"> diğer dillerde</a> mevcut."
-
-#.  TRANSLATORS: please add the link to your language here in the first 
-#.      place, followed by a comma. 
-#. type: Content of: <div><div><div><div><p>
-msgid ""
-"SubRip subtitle files are also available for download in <a href=\"/"
-"education/misc/rms-education-es-sub.en.srt\">English</a>, <a href=\"/"
-"education/misc/rms-education-es-sub.es.srt\">Spanish</a>, and <a href=\"/"
-"education/misc/edu-misc.html#subtitles-rms-education\">other languages</a>."
-msgstr ""
-"SubRip altyazı dosyaları da <a href=\"/education/misc/rms-education-es-sub."
-"en.srt\">İngilizce</a>, <a href=\"/education/misc/rms-education-es-sub.es.srt"
-"\">İspanyolca</a>, ve <a href=\"/education/misc/edu-misc.html#subtitles-rms-"
-"education\">diğer dillerde</a> indirmek için mevcut."
+"<a href=\"/education/misc/edu-misc.html#subtitles-rms-movie\">Altyazılar</a> "
+"(WebVTT/SubRip) ve <a href=\"/education/misc/edu-misc.html#transcripts-rms-"
+"movie\">Dökümler</a> de indirilebilir."
 
 #. type: Content of: <div><div><h3>
 msgid "In Depth"
@@ -299,3 +320,28 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "Transcriptions of this video are available in <a href=\"/education/misc/"
+#~ "rms-education-es-translation-to-en.txt\">English</a>, <a href=\"/"
+#~ "education/misc/rms-education-es-transcription.txt\">Spanish</a>, and <a "
+#~ "href=\"/education/misc/edu-misc.html#transcription-rms-education\"> other "
+#~ "languages</a>."
+#~ msgstr ""
+#~ "Bu videonun çözümlemeleri <a href=\"/education/misc/rms-education-es-"
+#~ "translation-to-en.txt\">İngilizce</a>, <a href=\"/education/misc/rms-"
+#~ "education-es-transcription.txt\">İspanyolca</a>, ve <a href=\"/education/"
+#~ "misc/edu-misc.html#transcription-rms-education\"> diğer dillerde</a> "
+#~ "mevcut."
+
+#~ msgid ""
+#~ "SubRip subtitle files are also available for download in <a href=\"/"
+#~ "education/misc/rms-education-es-sub.en.srt\">English</a>, <a href=\"/"
+#~ "education/misc/rms-education-es-sub.es.srt\">Spanish</a>, and <a href=\"/"
+#~ "education/misc/edu-misc.html#subtitles-rms-education\">other languages</"
+#~ "a>."
+#~ msgstr ""
+#~ "SubRip altyazı dosyaları da <a href=\"/education/misc/rms-education-es-"
+#~ "sub.en.srt\">İngilizce</a>, <a href=\"/education/misc/rms-education-es-"
+#~ "sub.es.srt\">İspanyolca</a>, ve <a href=\"/education/misc/edu-misc."
+#~ "html#subtitles-rms-education\">diğer dillerde</a> indirmek için mevcut."
