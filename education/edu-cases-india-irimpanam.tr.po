@@ -7,15 +7,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: edu-cases-india-irimpanam.html\n"
-"POT-Creation-Date: 2021-05-26 21:26+0000\n"
-"PO-Revision-Date: 2021-01-15 18:33+0100\n"
-"Last-Translator: T. E. Kalayci <tekrei@member.fsf.org>\n"
+"POT-Creation-Date: 2026-04-09 12:56+0000\n"
+"PO-Revision-Date: 2026-04-11 17:12+0200\n"
+"Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.9\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -111,25 +111,27 @@ msgid ""
 "philosophy of the GNU Project, such as the freedom to share knowledge and "
 "the freedom to cooperate with our community by contributing improvements to "
 "computer programs. This awareness about Swathanthra Software <a href="
-"\"#swathanthra\">(1)</a> was largely the result of what we learned at the "
-"meetings organized by the <a href=\"https://web.archive.org/"
-"web/20160621163732/http://www.ilug-cochin.org/\"> Indian Libre User Group "
-"(ILUG-Cochin)</a> in the nearby city of Kochi. Attending those meetings also "
-"helped us to work in close connection with the Free Software community."
+"\"#swathanthra\" id=\"swathanthra-rev\"><sup>[1]</sup></a> was largely the "
+"result of what we learned at the meetings organized by the <a href=\"https://"
+"web.archive.org/web/20160621163732/http://www.ilug-cochin.org/\"> Indian "
+"Libre User Group (ILUG-Cochin)</a> in the nearby city of Kochi.  Attending "
+"those meetings also helped us to work in close connection with the Free "
+"Software community."
 msgstr ""
-"Kurumumuz, bilgisayar programlarında gelişmelere katkıda bulunarak bilgi "
-"paylaşım özgürlüğü ve topluluğumuzla iş birliği yapma özgürlüğü gibi GNU "
-"Projesi felsefesinin temel yönlerinin tanıtımına özel bir ilgi gösterdi. "
-"Swathanthra Software <a href=\"#swathanthra\">(1)</a> hakkındaki bu "
-"farkındalık, büyük ölçüde yakındaki Kochi şehrinde <a href=\"https://web."
-"archive.org/web/20160621163732/http://www.ilug-cochin.org/\"> Indian Libre "
-"User Group (ILUG-Cochin)</a> tarafından düzenlenen toplantılarda "
-"öğrendiklerimizin sonucudur. Bu toplantılara katılmak, Özgür Yazılım "
-"topluluğuyla yakın ilişki içinde çalışmamıza da yardımcı oldu."
+"Kurumumuz, bilgi paylaşma özgürlüğü ve bilgisayar programlarına "
+"iyileştirmeler katarak topluluğumuzla işbirliği yapma özgürlüğü gibi GNU "
+"Projesi felsefesinin temel unsurlarını yaygınlaştırmaya özel bir önem "
+"vermiştir. Swathanthra Yazılımı <a href=\"#swathanthra\" id=\"swathanthra-rev"
+"\"><sup> [1]</sup></a> hakkındaki bu farkındalık, büyük ölçüde yakınlardaki "
+"Kochi şehrinde <a href=\"https://web.archive.org/web/20160621163732/http://"
+"www.ilug-cochin.org/\"> Indian Libre User Group (ILUG-Cochin)</a> tarafından "
+"düzenlenen toplantılarda öğrendiklerimizden kaynaklanıyordu. Bu toplantılara "
+"katılmak, Özgür Yazılım topluluğuyla yakın bir şekilde çalışmamıza da "
+"yardımcı oldu."
 
 #. type: Content of: <div><div><h3>
 msgid "How We Did It"
-msgstr "Nasıl Yaptık?"
+msgstr "Nasıl Yaptık"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -278,6 +280,96 @@ msgstr ""
 msgid "Results"
 msgstr "Sonuçlar"
 
+#. type: Content of: <div><div><p>
+msgid ""
+"The transparency and the cooperative method of Free Software helped students "
+"and teachers to dive deep into technology and make them capable of "
+"contributing to the community in various ways."
+msgstr ""
+"Özgür Yazılımın şeffaflığı ve işbirliğine dayalı yaklaşımı, öğrencilerin ve "
+"öğretmenlerin teknolojiyi derinlemesine incelemelerine yardımcı oldu ve "
+"onlara topluma çeşitli şekillerde katkıda bulunma imkânı sağladı."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"An important contribution was the addition of new stamps in Tux Paint.  A "
+"video was recorded to illustrate how it works and how the activity was done."
+msgstr ""
+"Tux Paint'e yeni damgaların eklenmesi önemli bir katkı oldu. Bu özelliğin "
+"nasıl çalıştığını ve etkinliğin nasıl gerçekleştirildiğini göstermek için "
+"bir video çekildi."
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "English"
+msgstr "İngilizce"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "español"
+msgstr "ispanyolca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "français"
+msgstr "fransızca"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "português"
+msgstr "portekizce"
+
+#. type: Attribute 'label' of: <div><div><div><video><track>
+msgid "Shqip"
+msgstr "Arnavutça"
+
+#. type: Content of: <div><div><div><div><p>
+msgid ""
+"<a href=\"https://audio-video.gnu.org/video/irimpanam-low.webm\">Download "
+"WebM (27 MB)</a>. Higher resolution: <a href=\"https://audio-video.gnu.org/"
+"video/irimpanam-high.webm\">WebM (178 MB)</a> <a href=\"https://audio-video."
+"gnu.org/video/irimpanam-high.ogv\">Ogg (112 MB)</a>.  This video is also "
+"available <a href=\"/education/misc/edu-misc.html#irimpanam-movie-subs"
+"\">with embedded subtitles</a> in several languages."
+msgstr ""
+"<a href=\"https://audio-video.gnu.org/video/irimpanam-low.webm\">WebM'yi "
+"indir (27 MB)</a>. Daha yüksek çözünürlük: <a href=\"https://audio-video.gnu."
+"org/video/irimpanam-high.webm\">WebM (178 MB)</a> <a href=\"https://audio-"
+"video.gnu.org/video/irimpanam-high.ogv\">Ogg (112 MB)</a>. Bu video, <a href="
+"\"/education/misc/edu-misc.html#irimpanam-movie-subs\">birkaç dilde "
+"altyazılı</a> olarak da mevcuttur."
+
+#. type: Content of: <div><div><div><div><p>
+msgid ""
+"<a href=\"/education/misc/edu-misc.html#subtitles-irimpanam\">Subtitles</a> "
+"(WebVTT/SubRip)."
+msgstr ""
+"<a href=\"/education/misc/edu-misc.html#subtitles-irimpanam\">Altyazılar</a> "
+"(WebVTT/SubRip)."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Native flowers were photographed and the pictures edited by 6th and 7th "
+"grade students using the image editing program GIMP. The resulting images "
+"were then integrated in Tux Paint with the name of the flowers written in "
+"Malayalam. As a plus, students recorded with their own voices the name of "
+"the flowers, so when one of the stamps is selected, the user will hear the "
+"name of the flower in Malayalam."
+msgstr ""
+"Yerli çiçeklerin fotoğrafları çekildi ve bu fotoğraflar 6. ve 7. sınıf "
+"öğrencileri tarafından GIMP adlı resim düzenleme programı kullanılarak "
+"düzenlendi. Elde edilen görüntüler daha sonra Tux Paint programına entegre "
+"edildi ve çiçeklerin isimleri Malayalam dilinde yazıldı. Buna ek olarak, "
+"öğrenciler çiçeklerin isimlerini kendi sesleriyle kaydettiler; böylece "
+"damgalardan biri seçildiğinde, kullanıcı çiçeğin ismini Malayalam dilinde "
+"duyacak."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"Another important contribution was the localization of the interface of <a "
+"href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a> in Malayalam, "
+"our mother tongue."
+msgstr ""
+"Bir diğer önemli katkı ise, <a href=\"/education/edu-software-tuxpaint.html"
+"\">Tux Paint</a> uygulamasının kullanıcı arayüzünü ana dilimiz olan "
+"Malayalam diline uyarlama çalışmasıydı."
+
 #. type: Content of: <div><div><div><a>
 msgid "<a href=\"/education/misc/tuxpaint.jpg\">"
 msgstr "<a href=\"/education/misc/tuxpaint.jpg\">"
@@ -297,67 +389,6 @@ msgid ""
 msgstr ""
 "Malayalamcadaki Adeenia çiçeğinin adını söyleyen bir öğrenciyi <a href=\"/"
 "education/misc/adeenia.ogg\">dinleyin</a>."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Education in the State of Kerala has become &ldquo;IT-enabled,&rdquo; "
-"meaning that students are getting first hand technology knowledge while "
-"learning regular curriculum subjects outside the IT Lab. This is possible "
-"due to the large number of high quality educational applications available "
-"in GNU/Linux."
-msgstr ""
-"Kerala Eyaleti'nde eğitim; &ldquo;IT-enabled&rdquo; oldu, bu da öğrencilerin "
-"BT Laboratuvarı dışındaki düzenli müfredat konularını öğrenirken ilk elden "
-"teknoloji bilgisi edindiklerini gösteriyor. Bu, GNU/Linux'ta bulunan çok "
-"sayıda yüksek kaliteli eğitim uygulaması nedeniyle mümkündür."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"The transparency and the cooperative method of Free Software helped students "
-"and teachers to dive deep into technology and made them capable of "
-"contributing to the community in various ways. One important contribution "
-"was the localization of the interface of <a href=\"/education/edu-software-"
-"tuxpaint.html\">Tux Paint</a> in Malayalam, our mother tongue."
-msgstr ""
-"Özgür Yazılım'ın şeffaflığı ve iş birlikçi yöntemi; öğrencilerin ve "
-"öğretmenlerin teknolojiye derinlemesine dalmalarını sağladı ve topluma "
-"çeşitli şekillerde katkıda bulunma yeteneklerini geliştirdi. Önemli bir "
-"katkı, <a href=\"/education/edu-software-tuxpaint.html\">Tux Paint</a>'in "
-"ana dilimiz olan Malayalamcaya yerelleştirilmesiydi."
-
-#. type: Content of: <div><div><p>
-msgid ""
-"Another contribution was the addition of new stamps in TuxPaint. Native "
-"flowers were photographed and the pictures edited by 6th and 7th grade "
-"students using the image editing program GIMP. The resulting images were "
-"then integrated in TuxPaint with the name of the flowers written in "
-"Malayalam. As a plus, students recorded with their own voices the name of "
-"the flowers, so when the user selects one of the stamps, she will hear the "
-"name of the flower in Malayalam. A video was recorded to illustrate how it "
-"works and how the activity was done."
-msgstr ""
-"Bir başka katkı, TuxPaint'e yeni damgaların eklenmesiydi. Yerli çiçekler "
-"fotoğraflandı ve resimler 6. ve 7. sınıf öğrencileri tarafından görüntü "
-"düzenleme programı GIMP kullanılarak düzenlendi. Elde edilen görüntüler daha "
-"sonra Malayalamca yazılan çiçeklerin ismi ile TuxPaint'e entegre edildi. Ek "
-"olarak öğrenciler kendi sesleriyle çiçeklerin adını kaydetti, bu nedenle "
-"kullanıcı damgalardan birini seçtiğinde Malayalamca olarak çiçeğin adını "
-"duyacak. Nasıl çalıştığını ve etkinliğin nasıl yapıldığını gösteren bir "
-"video kaydedildi."
-
-#.  TRANSLATORS: Replace the link to the video with subtitles in English with 
-#.  a link to the video with subtitles in your language, if it exists. Likewise, 
-#.  modify the link to SubRip subtitles accordingly, and replace the word "English" 
-#.  with the name of your language. 
-#. type: Content of: <div><div><p>
-msgid ""
-"<a href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.en.ogv\">Watch "
-"and download the video</a>. <a href=\"/education/misc/irimpanam.en.srt"
-"\">Read and download the English subtitles in SubRip format</a>."
-msgstr ""
-"<a href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.en.ogv"
-"\">Videoyu izleyin ve indirin</a>. <a href=\"/education/misc/irimpanam.en.srt"
-"\">İngilizce alt yazıları SubRip biçimindi okuyun ve indirin</a>."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -381,6 +412,19 @@ msgstr ""
 
 #. type: Content of: <div><div><p>
 msgid ""
+"Education in the State of Kerala has become &ldquo;IT-enabled,&rdquo; "
+"meaning that students are getting first hand technology knowledge while "
+"learning regular curriculum subjects outside the IT Lab. This is possible "
+"due to the large number of high quality educational applications available "
+"in GNU/Linux."
+msgstr ""
+"Kerala Eyaleti'nde eğitim; &ldquo;IT-enabled&rdquo; oldu, bu da öğrencilerin "
+"BT Laboratuvarı dışındaki düzenli müfredat konularını öğrenirken ilk elden "
+"teknoloji bilgisi edindiklerini gösteriyor. Bu, GNU/Linux'ta bulunan çok "
+"sayıda yüksek kaliteli eğitim uygulaması nedeniyle mümkündür."
+
+#. type: Content of: <div><div><p>
+msgid ""
 "As a way of keeping in touch and sharing experiences with other schools and "
 "with the Free Software community, teachers and students each year "
 "participate in events such as the National Free Software Conference and the "
@@ -399,11 +443,6 @@ msgstr ""
 "Bu büyük ölçekli hükümet projesinin başarısı için öğretmenlerin, "
 "öğrencilerin ve yerel grupların bağlılığı ve iş birliği çok önemliydi."
 
-#. type: Content of: <div><div><p>
-msgid ""
-"(1) Swathanthra is the Sanskrit word for &ldquo;free&rdquo; as in freedom."
-msgstr "(1) Swathanthra, &ldquo;özgür&rdquo; için Sanskritçe bir kelimedir."
-
 #. type: Content of: <div><div><h3>
 msgid "Credits"
 msgstr "Atıflar"
@@ -413,13 +452,36 @@ msgid ""
 "Credits for both images shown on this page, as well as for the audio file, "
 "go to Swathanthra Software Koottayma of VHSS Irimpanam, who released them "
 "under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
-"sa/3.0/\"> Creative Commons Attribution-Share Alike 3.0 Unported</a> License."
+"sa/3.0/\"> Creative Commons Attribution-Share Alike 3.0 Unported</a> (CC BY-"
+"SA)  license."
 msgstr ""
-"Bu sayfada gösterilen görüntülerin yanı sıra ses dosyası için verilen "
-"atıflar, bunları <a rel=\"license\" href=\"http://creativecommons.org/"
-"licenses/by-sa/3.0/\"> Creative Commons Attribution-Share Alike 3.0 "
-"Unported</a> lisansı altında yayımlayan Swathanthra Software Koottayma of "
-"VHSS Irimpanam'a aittir."
+"Bu sayfada gösterilen her iki görselin ve ses dosyasının telif hakkı, "
+"bunları <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"sa/3.0/\">Creative Commons Atıf-AynıLisanslaPaylaş 3.0 Unported</a> (CC BY-"
+"SA)  lisansı altında yayınlamıştır."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"The video is a derivate work by the GNU Education Team based on a longer "
+"recording by original author Thomas Yoyaku, professor at the VHSS Irimpanam "
+"school, released under a <a rel=\"license\" href=\"http://creativecommons."
+"org/licenses/by-sa/3.0/\"> Creative Commons Attribution-Share Alike 3.0 "
+"Unported</a> (CC BY-SA)  license."
+msgstr ""
+"Bu video, VHSS Irimpanam okulunda öğretim görevlisi olan orijinal yazar "
+"Thomas Yoyaku’nun daha uzun bir kaydına dayanan ve GNU Eğitim Ekibi "
+"tarafından hazırlanan bir türev eserdir. Video, <a rel=\"license\" href="
+"\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Atıf-"
+"AynıLisanslaPaylaş 3.0 Unported</a> (CC BY-SA)  lisansı altında "
+"yayınlamıştır."
+
+#. type: Content of: <div><div><p>
+msgid ""
+"<a href=\"#swathanthra-rev\" id=\"swathanthra\">[1]</a> Swathanthra is the "
+"Sanskrit word for &ldquo;free&rdquo; as in freedom."
+msgstr ""
+"<a href=\"#swathanthra-rev\" id=\"swathanthra\">[1]</a> Swathanthra, "
+"Sanskritçe’de \"özgürlük\" anlamına gelen bir kelimedir."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
 #. type: Content of: <div><div>
@@ -469,10 +531,10 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2020, 2021 Free Software "
+"Copyright &copy; 2011, 2012, 2016, 2018, 2020, 2021, 2026 Free Software "
 "Foundation, Inc."
 msgstr ""
-"Copyright &copy; 2011, 2012, 2016, 2018, 2020, 2021 Free Software "
+"Copyright &copy; 2011, 2012, 2016, 2018, 2020, 2021, 2026 Free Software "
 "Foundation, Inc."
 
 #. type: Content of: <div><p>
@@ -499,6 +561,15 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
+
+#~ msgid ""
+#~ "<a href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.en.ogv"
+#~ "\">Watch and download the video</a>. <a href=\"/education/misc/irimpanam."
+#~ "en.srt\">Read and download the English subtitles in SubRip format</a>."
+#~ msgstr ""
+#~ "<a href=\"http://audio-video.gnu.org/video/irimpanam-high-sub.en.ogv"
+#~ "\">Videoyu izleyin ve indirin</a>. <a href=\"/education/misc/irimpanam.en."
+#~ "srt\">İngilizce alt yazıları SubRip biçimindi okuyun ve indirin</a>."
 
 #~ msgid ""
 #~ "Copyright &copy; 2011, 2012, 2016, 2018, 2020 Free Software Foundation, "
