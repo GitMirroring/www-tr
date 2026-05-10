@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: who-does-that-server-really-serve.html\n"
-"POT-Creation-Date: 2026-01-18 17:26+0000\n"
-"PO-Revision-Date: 2026-01-26 17:04+0100\n"
+"POT-Creation-Date: 2026-06-09 17:27+0000\n"
+"PO-Revision-Date: 2026-06-13 07:38+0200\n"
 "Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.7\n"
+"X-Generator: Poedit 3.9\n"
 
 #. type: Content of: <title>
 msgid ""
@@ -904,8 +904,8 @@ msgstr ""
 "bu durumlar için sınırları açıklığa kavuşturmadık."
 
 #. type: Content of: <div><p>
-msgid "Here are some line we have drawn so far."
-msgstr "Şimdiye kadar belirlediğimiz şeyler şunlar."
+msgid "Here are some lines we have drawn so far."
+msgstr "İşte şimdiye kadar çizdiğimiz çizgiler."
 
 #. type: Content of: <div><p>
 msgid ""
