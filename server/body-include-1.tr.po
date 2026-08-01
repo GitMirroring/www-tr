@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: body-include-1.html\n"
-"POT-Creation-Date: 2026-01-22 07:25+0000\n"
+"POT-Creation-Date: 2026-07-27 07:55+0000\n"
 "PO-Revision-Date: 2026-01-13 23:03+0100\n"
 "Last-Translator: T. E. Kalaycı <tekrei@member.fsf.org>\n"
 "Language-Team: Turkish <www-tr-comm@gnu.org>\n"
@@ -98,6 +98,17 @@ msgstr "<a href=\"#language-container\">"
 msgid "&nbsp;[Other languages]&nbsp;"
 msgstr "&nbsp;[Diğer diller]&nbsp;"
 
+#, fuzzy
+#~| msgid "<b>We support your freedom!</b>"
+#~ msgid "<b>Commit to freedom</b>"
+#~ msgstr "<b>Özgürlüğünüzü destekliyoruz!</b>"
+
+#~ msgid "Join"
+#~ msgstr "Katıl"
+
+#~ msgid "Read more"
+#~ msgstr "Daha fazla bilgi edinin"
+
 #~ msgid "<b>Push ahead for freedom, become an associate member today!</b>"
 #~ msgstr "<b>Özgürlük için ilerleyin, bugün ortak üye olun!</b>"
 
@@ -113,17 +124,8 @@ msgstr "&nbsp;[Diğer diller]&nbsp;"
 #~ "olacaksınız. Bugün bize katılın ve 100 yeni ortak üye hedefimize "
 #~ "ulaşmamıza yardımcı olun!"
 
-#~ msgid "Join"
-#~ msgstr "Katıl"
-
-#~ msgid "Read more"
-#~ msgstr "Daha fazla bilgi edinin"
-
 #~ msgid "100 New Members"
 #~ msgstr "100 Yeni Üye"
-
-#~ msgid "<b>We support your freedom!</b>"
-#~ msgstr "<b>Özgürlüğünüzü destekliyoruz!</b>"
 
 #~ msgid ""
 #~ "The free software movement has come a long way in forty years. We want to "
