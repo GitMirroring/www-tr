@@ -51,74 +51,74 @@ msgstr ""
 "yönlendiriyor; diğerleri fikir birliğinde olmadığımız ve sizin de "
 "olmayacağınızı umduğumuz bir fikri vurguluyorlar."
 
-#.  GNUN-SORT-START
+#.  GNUN-SORT-START 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Ad-blocker\">Ad-blocker</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Ad-blocker\">Reklam engelleyici</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Access\">Access</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Access\">Erişim</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Alternative\">Alternative</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Alternative\">Alternatif</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;<a href=\"#ArtificialIntelligence\">Artificial Intelligence</"
 "a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#ArtificialIntelligence\">Yapay Zekâ</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Assets\">Assets</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Assets\">Varlıklar</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#BSD-style\">BSD-style</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#BSD-style\">BSD-stili</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Closed\">Closed</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Closed\">Kapalı</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#CloudComputing\">Cloud Computing</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#CloudComputing\">Bulut Hesaplama</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Commercial\">Commercial</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Commercial\">Ticari</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Compensation\">Compensation</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Compensation\">Mükafat</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Consume\">Consume</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Consume\">Tüketim</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Consumer\">Consumer</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Consumer\">Tüketici</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Content\">Content</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Content\">İçerik</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;<a href=\"#ContentManagementSystem\">Content Management System</"
@@ -127,12 +127,12 @@ msgstr ""
 "&ldquo;<a href=\"#ContentManagementSystem\">İçerik Yönetim Sistemi</"
 "a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#CopyrightOwner\">Copyright Owner</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#CopyrightOwner\">Telif hakkı sahibi</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;<a href=\"#CreativeCommonsLicensed\">Creative Commons licensed</"
@@ -141,22 +141,22 @@ msgstr ""
 "&ldquo;<a href=\"#CreativeCommonsLicensed\">Creative Commons lisanslı</"
 "a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Creator\">Creator</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Creator\">Yaratıcı</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#DigitalGoods\">Digital Goods</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#DigitalGoods\">Dijital meta</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#DigitalLocks\">Digital Locks</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#DigitalLocks\">Dijital Kilitler</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;<a href=\"#DigitalRightsManagement\">Digital Rights Management</"
@@ -165,234 +165,234 @@ msgstr ""
 "&ldquo;<a href=\"#DigitalRightsManagement\">Dijital Haklar Yönetimi</"
 "a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Ecosystem\">Ecosystem</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Ecosystem\">Ekosistem</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#FLOSS\">FLOSS</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#FLOSS\">ÖLAKY</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#ForFree\">For free</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#ForFree\">Bedava</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#FOSS\">FOSS</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#FOSS\">ÖAKY</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#FreelyAvailable\">Freely available</a>&rdquo; |"
 msgstr ""
 "&ldquo;<a href=\"#FreelyAvailable\">Özgürce edinilebilen yazılım</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Freemium\">Freemium</a>&rdquo; |"
 msgstr ""
 "&ldquo;<a href=\"#Freemium\">Satın alma opsiyonlu bedava (Freemium)</"
 "a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#FreeToPlay\">Free-to-play</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#FreeToPlay\">Oynaması bedava</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Freeware\">Freeware</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Freeware\">Ücretsiz Yazılım (freeware)</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#GiveAwaySoftware\">Give away software</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#GiveAwaySoftware\">Bağış yazılım</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Google\">Google</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Google\">Google</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Hacker\">Hacker</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;<a href=\"#IntellectualProperty\">Intellectual property</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#IntellectualProperty\">Fikri Mülkiyet</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#InternetofThings\">Internet of Things</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#InternetofThings\">Nesnelerin İnterneti</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#LAMP\">LAMP system</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#LAMP\">LAMP sistemi</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Linux\">Linux system</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Linux\">Linux sistemi</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Market\">Market</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Market\">Pazar</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Modern\">Modern</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Modern\">Modern</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Monetize\">Monetize</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Monetize\">Paraya çevirme</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#MP3Player\">MP3 player</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#MP3Player\">MP3 Çalar</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Open\">Open</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Open\">Açık</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#OptOut\">Opt out</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#OptOut\">Ayrılma</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#PC\">PC</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#PC\">PC</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Photoshop\">Photoshop</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Photoshop\">Photoshop</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Piracy\">Piracy</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Piracy\">Korsanlık</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Players\">Players (said of businesses)</a>&rdquo; |"
 msgstr ""
 "&ldquo;<a href=\"#Players\">Oyuncular (işletmeler hakkında söylenen)</"
 "a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#PowerPoint\">PowerPoint</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#PowerPoint\">PowerPoint</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Product\">Product</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Product\">Ürün</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Protection\">Protection</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Protection\">Koruma</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#RAND\">RAND</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#RAND\">RAND</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#SaaS\">SaaS</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SaaS\">SaaS</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#SellSoftware\">Sell software</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SellSoftware\">Yazılımın satılması</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid ""
 "&ldquo;<a href=\"#SharingPersonalData\">Sharing (personal data)</a>&rdquo; |"
 msgstr ""
 "&ldquo;<a href=\"#SharingPersonalData\">Paylaşım (kişisel veri)</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#SharingEconomy\">Sharing economy</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SharingEconomy\">Paylaşım ekonomisi</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Skype\">Skype</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Skype\">Skype</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#SmartSpeaker\">Smart speaker</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SmartSpeaker\">Akıllı hoparlör</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#SoftwareIndustry\">Software Industry</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SoftwareIndustry\">Yazılım Endüstrisi</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#SourceModel\">Source model</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#SourceModel\">Kaynak model</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Steward\">Steward</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Steward\">Sorumlu</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
-#. #if expr="$LANGUAGE_SUFFIX	= /^.(es)\$/"
+#.  GNUN-SORT-NEXT-ITEM 
+#. #if expr="$LANGUAGE_SUFFIX	= /^.(es)\$/" 
 #.  TRANSLATORS: translate if this word is used often in your
 #.      language to refer to mobile computers; otherwise,
-#.      fill the translation with a space.
-#.  GNUN-SORT-BEGIN-KEY
+#.      fill the translation with a space. 
+#.  GNUN-SORT-BEGIN-KEY 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Terminal\">Terminal</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Terminal\">Uçbirim</a>&rdquo; |"
 
-#.  GNUN-SORT-END-KEY
+#.  GNUN-SORT-END-KEY 
 #. #endif
-#.
-#.  GNUN-SORT-NEXT-ITEM
+#.  
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Theft\">Theft</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Theft\">Hırsızlık</a>&rdquo; |"
 
-#.  GNUN-SORT-END-KEY
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-END-KEY 
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Tool\">Tool</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#Tool\">Araç</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#TrustedComputing\">Trusted Computing</a>&rdquo; |"
 msgstr "&ldquo;<a href=\"#TrustedComputing\">Güvenli İşletim</a>&rdquo; |"
 
-#.  GNUN-SORT-NEXT-ITEM
+#.  GNUN-SORT-NEXT-ITEM 
 #. type: Content of: <div><div><p>
 msgid "&ldquo;<a href=\"#Vendor\">Vendor</a>&rdquo;"
 msgstr "&ldquo;<a href=\"#Vendor\">Satıcı</a>&rdquo;"
@@ -416,8 +416,8 @@ msgid ""
 "When the purpose of some program is to block advertisements, &ldquo;ad-"
 "blocker&rdquo; is a good term for it.  However, the GNU browser IceCat "
 "blocks advertisements that track the user as consequence of broader measures "
-"to prevent surveillance by web sites.  This is not an &ldquo;ad-"
-"blocker,&rdquo; this is <em>surveillance protection</em>."
+"to prevent surveillance by web sites.  This is not an &ldquo;ad-blocker,"
+"&rdquo; this is <em>surveillance protection</em>."
 msgstr ""
 "Bazı programların amacı reklamları engellemek ise, onlar &ldquo;reklam "
 "engelleyici&rdquo; diyebiliriz. Ancak, GNU tarayıcısı IceCat, web "
@@ -513,10 +513,10 @@ msgstr "&ldquo;Alternatif&rdquo;"
 #. type: Content of: <div><p>
 msgid ""
 "We don't describe free software in general as an &ldquo;alternative&rdquo; "
-"to proprietary, because that word presumes all the "
-"&ldquo;alternatives&rdquo; are legitimate and each additional one makes "
-"users better off.  In effect, it assumes that free software ought to coexist "
-"with software that does not respect users' freedom."
+"to proprietary, because that word presumes all the &ldquo;"
+"alternatives&rdquo; are legitimate and each additional one makes users "
+"better off.  In effect, it assumes that free software ought to coexist with "
+"software that does not respect users' freedom."
 msgstr ""
 "Özgür yazılımı, genelde özel mülk yazılıma bir &ldquo;alternatif&rdquo; "
 "olarak tanımlamıyoruz. Çünkü bu kelime bütün &ldquo;alternatiflerin&rdquo; "
@@ -593,19 +593,19 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"These contrast with &ldquo;large language models&rdquo; "
-"(&ldquo;LLMs&rdquo;), systems that predict which words are likely in a given "
-"textual context.  They do not begin to grasp the <em>meanings</em> of their "
-"textual inputs and outputs.  Nonetheless, users who trust those outputs may "
-"<a href=\"https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-"
-"thinking-skills\">let their ability to detect reasoning errors atrophy</a>."
+"These contrast with &ldquo;large language models&rdquo; (&ldquo;"
+"LLMs&rdquo;), systems that predict which words are likely in a given textual "
+"context.  They do not begin to grasp the <em>meanings</em> of their textual "
+"inputs and outputs.  Nonetheless, users who trust those outputs may <a href="
+"\"https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-"
+"skills\">let their ability to detect reasoning errors atrophy</a>."
 msgstr ""
 "Bunlar belirli bir metin bağlamında hangi kelimelerin olası olduğunu tahmin "
 "eden sistemler olan &ldquo;büyük dil modelleri&rdquo; (&ldquo;LLMs&rdquo;) "
 "ile tezat oluşturmaktadır. Bu modeller, metin giriş ve çıkışlarının "
 "<em>anlamlarını</em> kavramaya yaklaşmamaktadır bile. Bununla birlikte, bu "
-"sonuçlara güvenen kullanıcılar <a href=\"https://www.theguardian.com/us-news/"
-"2026/jun/19/chatbots-critical-thinking-skills\">akıl yürütme hatalarını "
+"sonuçlara güvenen kullanıcılar <a href=\"https://www.theguardian.com/us-"
+"news/2026/jun/19/chatbots-critical-thinking-skills\">akıl yürütme hatalarını "
 "tespit etme yeteneklerini köreltebilirler</a>."
 
 #. type: Content of: <div><p>
@@ -614,10 +614,10 @@ msgid ""
 "usage frequencies of phrases in specific contexts.  Anything it states or "
 "implies about reality is not based on knowledge of the situation.  Seeking a "
 "correct answer to a serious question in an LLM-based chatbot is folly, as "
-"many have learned to their dismay.  It should not surprise us that <a "
-"href=\"https://lauren.vortex.com/2026/04/14/google-ai-overviews-"
-"misinformation\">Google's &ldquo;AI&rdquo; Overviews are erroneous a "
-"substantial fraction of the time</a>."
+"many have learned to their dismay.  It should not surprise us that <a href="
+"\"https://lauren.vortex.com/2026/04/14/google-ai-overviews-misinformation"
+"\">Google's &ldquo;AI&rdquo; Overviews are erroneous a substantial fraction "
+"of the time</a>."
 msgstr ""
 "Bir LLM hiçbir şey bilmez ve hiçbir şeyi anlamaz. Ürettiği çıktılar, "
 "yalnızca belirli bağlamlardaki ifadelerin kullanım sıklığına dayanır. "
@@ -630,39 +630,39 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"That weakness is not a matter of implementation details&mdash;it is <a "
-"href=\"https://www.mindprison.cc/p/the-question-that-no-llm-can-answer\"> "
+"That weakness is not a matter of implementation details&mdash;it is <a href="
+"\"https://www.mindprison.cc/p/the-question-that-no-llm-can-answer\"> "
 "inherent in the basic working of LLMs</a>.  An amusing and illuminating "
 "example is what they do with <a href=\"https://techcrunch.com/2026/05/27/why-"
 "googles-ai-cant-spell-google-or-anything-else/\">any question about the "
 "spelling of some word or words</a>.  Another is what happens when training "
 "inputs <a href=\"https://arxiv.org/pdf/2605.13829\">present a statement in a "
-"context that says or implies it is not true</a>.  (Here's a <a "
-"href=\"https://futurism.com/artificial-intelligence/google-ai-overview-scp-"
-"horror-fiction-real\">real example</a>.)  The industry papers over such "
-"flaws with kludges."
+"context that says or implies it is not true</a>.  (Here's a <a href="
+"\"https://futurism.com/artificial-intelligence/google-ai-overview-scp-horror-"
+"fiction-real\">real example</a>.)  The industry papers over such flaws with "
+"kludges."
 msgstr ""
-"Bu zayıflık, uygulama ayrıntılarıyla ilgili bir mesele değildir; bu, <a "
-"href=\"https://www.mindprison.cc/p/the-question-that-no-llm-can-answer\"> "
+"Bu zayıflık, uygulama ayrıntılarıyla ilgili bir mesele değildir; bu, <a href="
+"\"https://www.mindprison.cc/p/the-question-that-no-llm-can-answer\"> "
 "LLM'lerin temel işleyişinde </a> var olan bir durumdur. Eğlenceli ve "
 "aydınlatıcı bir örnek, <a href=\"https://techcrunch.com/2026/05/27/why-"
 "googles-ai-cant-spell-google-or-anything-else/\">bir veya birkaç kelimenin "
 "yazımıyla ilgili herhangi bir soruya</a> nasıl tepki verdikleridir.  Bir "
-"diğeri ise, eğitim girdileri <a href=\"https://arxiv.org/pdf/"
-"2605.13829\">LLM'ye belirli bir ifadenin yanlış olduğunu söylediğinde ne "
+"diğeri ise, eğitim girdileri <a href=\"https://arxiv.org/"
+"pdf/2605.13829\">LLM'ye belirli bir ifadenin yanlış olduğunu söylediğinde ne "
 "olduğu</a>. Sektör, bu tür kusurları geçici çözümlerle örtbas etmektedir."
 
 #. type: Content of: <div><p>
 msgid ""
-"This lack of understanding makes it possible to fool LLMs into doing <a "
-"href=\"https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-"
-"flaw-leaves-llms-vulnerable-to-attack/\">dangerous things</a> they have "
+"This lack of understanding makes it possible to fool LLMs into doing <a href="
+"\"https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-"
+"leaves-llms-vulnerable-to-attack/\">dangerous things</a> they have "
 "supposedly be been &ldquo;taught&rdquo; to refuse to do.  Although they try "
 "to use labels to distinguish the user's requests from their own guidelines, "
 "they don't really understand the labels."
 msgstr ""
-"Bu anlayış eksikliği büyük dil modellerini <a href=\"https://"
-"www.technologyreview.com/2026/07/30/ 1140927/a-fundamental-flaw-leaves-llms-"
+"Bu anlayış eksikliği büyük dil modellerini <a href=\"https://www."
+"technologyreview.com/2026/07/30/ 1140927/a-fundamental-flaw-leaves-llms-"
 "vulnerable-to-attack/\">tehlikeli şeyler</a> yapmalarına neden olmaktadır. "
 "Oysa bu eylemleri yapmamaları sözümona onlara &ldquo;öğretilmiş&rdquo; "
 "olmalıydı. Kullanıcıların isteklerini kendi kurallarından ayırt etmek için "
@@ -671,18 +671,18 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Scammers sometimes lead LLMs to <a href=\"https://www.theguardian.com/money/"
-"2026/jun/07/ai-chatgpt-shopping-scams-fake-websites\"> falsely associate a "
-"real (or former) brand name with a fake (scam) web site</a>, as a means to "
-"swindle users who ask the LLM for information about the brand.  LLMs can't "
-"detect this because they have no actual grasp on reality."
+"Scammers sometimes lead LLMs to <a href=\"https://www.theguardian.com/"
+"money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites\"> falsely "
+"associate a real (or former) brand name with a fake (scam) web site</a>, as "
+"a means to swindle users who ask the LLM for information about the brand.  "
+"LLMs can't detect this because they have no actual grasp on reality."
 msgstr ""
-"Dolandırıcılar bazen, LLM'leri <a href=\"https://www.theguardian.com/money/"
-"2026/jun/07/ai-chatgpt-shopping-scams-fake-websites\"> gerçek (veya eski) "
-"bir marka adını sahte (dolandırıcılık amaçlı) bir web sitesi</a> ile yanlış "
-"bir şekilde ilişkilendirmeye yönlendirerek, LLM'den marka hakkında bilgi "
-"isteyen kullanıcıları dolandırmaya çalışır. LLM'ler gerçekliği tam olarak "
-"kavrayamadıkları için bunu tespit edemezler."
+"Dolandırıcılar bazen, LLM'leri <a href=\"https://www.theguardian.com/"
+"money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites\"> gerçek (veya "
+"eski) bir marka adını sahte (dolandırıcılık amaçlı) bir web sitesi</a> ile "
+"yanlış bir şekilde ilişkilendirmeye yönlendirerek, LLM'den marka hakkında "
+"bilgi isteyen kullanıcıları dolandırmaya çalışır. LLM'ler gerçekliği tam "
+"olarak kavrayamadıkları için bunu tespit edemezler."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -733,12 +733,12 @@ msgstr ""
 #. type: Content of: <div><ul><li>
 msgid ""
 "&ldquo;Generative systems&rdquo; is a suitable term for systems that "
-"generate artistic works for which &ldquo;truth&rdquo; and "
-"&ldquo;falsehood&rdquo; are not applicable."
+"generate artistic works for which &ldquo;truth&rdquo; and &ldquo;"
+"falsehood&rdquo; are not applicable."
 msgstr ""
-"&ldquo;Üretken sistemler&rdquo; &ldquo;doğru&rdquo; ve "
-"&ldquo;yanlışlık&rdquo;kavramlarının uygun olmadığı sanatsal çalışmalar "
-"üreten sistemler için uygun bir terimdir."
+"&ldquo;Üretken sistemler&rdquo; &ldquo;doğru&rdquo; ve &ldquo;"
+"yanlışlık&rdquo;kavramlarının uygun olmadığı sanatsal çalışmalar üreten "
+"sistemler için uygun bir terimdir."
 
 #. type: Content of: <div><ul><li>
 msgid ""
@@ -776,10 +776,9 @@ msgid ""
 msgstr ""
 "Günümüzde makine öğrenimi sistemleri genellikle &ldquo;sinir ağı "
 "sistemleri&rdquo; olarak uygulanmaktadır; bu, bu sistemlerin gerçek sinir "
-"hücrelerinin oldukça basitleştirilmiş modelleri olan "
-"&ldquo;nöronlar&rdquo;dan oluşan bir ağı simüle ederek çalıştığı anlamına "
-"gelir. Ancak, farklı şekilde çalışan başka makine öğrenimi türleri de "
-"bulunmaktadır."
+"hücrelerinin oldukça basitleştirilmiş modelleri olan &ldquo;nöronlar&rdquo;"
+"dan oluşan bir ağı simüle ederek çalıştığı anlamına gelir. Ancak, farklı "
+"şekilde çalışan başka makine öğrenimi türleri de bulunmaktadır."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -788,17 +787,17 @@ msgid ""
 "in data.  Their output can reflect real knowledge (even if not with perfect "
 "accuracy)&mdash;for instance, whether an image of tissue from an organism <a "
 "href=\"https://www.eurekalert.org/news-releases/1107032\">shows a certain "
-"medical condition</a>, <a href=\"https://www.theguardian.com/environment/"
-"2024/apr/03/early-warning-system-track-asian-hornets-university-of-"
-"exeter\">whether an insect is a bee-eating Asian hornet</a>, <a "
-"href=\"https://www.theguardian.com/society/article/2024/aug/19/ai-may-help-"
+"medical condition</a>, <a href=\"https://www.theguardian.com/"
+"environment/2024/apr/03/early-warning-system-track-asian-hornets-university-"
+"of-exeter\">whether an insect is a bee-eating Asian hornet</a>, <a href="
+"\"https://www.theguardian.com/society/article/2024/aug/19/ai-may-help-"
 "experts-identify-toddlers-at-risk-of-autism-researchers-say\">whether a "
 "toddler has a substantial chance of becoming autistic</a>, how a particular "
-"chain of amino acids will <a href=\"https://en.wikipedia.org/wiki/"
-"AlphaFold\">fold up into a protein</a>, or how well a certain art work <a "
-"href=\"https://www.theguardian.com/artanddesign/2025/sep/27/caravaggio-the-"
-"lute-player-badminton-ai-analysis\">matches some artist's style and habits "
-"as determined via data mining from other works by that artist</a>."
+"chain of amino acids will <a href=\"https://en.wikipedia.org/wiki/AlphaFold"
+"\">fold up into a protein</a>, or how well a certain art work <a href="
+"\"https://www.theguardian.com/artanddesign/2025/sep/27/caravaggio-the-lute-"
+"player-badminton-ai-analysis\">matches some artist's style and habits as "
+"determined via data mining from other works by that artist</a>."
 msgstr ""
 "Tüm makine öğrenimi sistemleri, büyük dil modelleri (LLM'ler) kadar akılsız "
 "değildir. Verilerdeki belirli önemli kalıpları tanımak için makine "
@@ -811,20 +810,20 @@ msgstr ""
 "eşek arısı olup olmadığı</a>, <a href=\"https://www.theguardian.com/society/"
 "article/2024/aug/19/ai-may-help-experts-identify-toddlers-at-risk-of-autism-"
 "researchers-say\">bir çocuğun otistik olma ihtimalinin yüksek olup olmadığı</"
-"a>, belirli bir amino asit zincirinin nasıl <a href=\"https://"
-"en.wikipedia.org/ wiki/AlphaFold\">bir proteine katlanacağı</a>, ya da "
-"belirli bir sanat eserinin <a href=\"https://www.theguardian.com/"
-"artanddesign/2025/sep/27/caravaggio-the-lute-player-badminton-ai-"
-"analysis\">o sanatçının diğer eserlerinden veri madenciliği yoluyla "
-"belirlenen stil ve alışkanlıklarıyla ne kadar uyumlu olduğu</a>."
+"a>, belirli bir amino asit zincirinin nasıl <a href=\"https://en.wikipedia."
+"org/ wiki/AlphaFold\">bir proteine katlanacağı</a>, ya da belirli bir sanat "
+"eserinin <a href=\"https://www.theguardian.com/artanddesign/2025/sep/27/"
+"caravaggio-the-lute-player-badminton-ai-analysis\">o sanatçının diğer "
+"eserlerinden veri madenciliği yoluyla belirlenen stil ve alışkanlıklarıyla "
+"ne kadar uyumlu olduğu</a>."
 
 #. type: Content of: <div><p>
 msgid ""
 "Developers validate these systems by comparing the systems' judgments "
 "against known facts.  If a system does this as well as trained human "
 "specialists, we can conclude that the system understands the questions it "
-"was designed to answer, which justifies calling these systems "
-"&ldquo;artificial intelligence.&rdquo;"
+"was designed to answer, which justifies calling these systems &ldquo;"
+"artificial intelligence.&rdquo;"
 msgstr ""
 "Geliştiriciler, bu sistemlerin kararlarını bilinen gerçeklerle "
 "karşılaştırarak doğrularlar.  Eğer bir sistem bunu eğitimli insan uzmanlar "
@@ -875,9 +874,9 @@ msgid ""
 "intelligence can.  When they do well the jobs they were designed to do, that "
 "can benefit people or harm people, in small ways or large ways.  They may "
 "benefit the people in certain roles or positions while harming others.  Here "
-"we are concerned with whether specific systems fit the term "
-"&ldquo;intelligence,&rdquo; not the empirical questions of whether they do "
-"good or harm, but those questions are very important."
+"we are concerned with whether specific systems fit the term &ldquo;"
+"intelligence,&rdquo; not the empirical questions of whether they do good or "
+"harm, but those questions are very important."
 msgstr ""
 "Bu örnekte de görüldüğü gibi, yapay zekâ sistemleri, tıpkı doğal zekânın "
 "yapabileceği gibi, genel olarak zararlı olabilir, sistematik olarak "
@@ -910,12 +909,11 @@ msgstr ""
 msgid ""
 "When bullshit generators output text that appears to make factual statements "
 "but describe nonexistent people, places, and things, or events that did not "
-"happen, it is fashionable to call those statements "
-"&ldquo;hallucinations&rdquo; or say that the system &ldquo;made them "
-"up.&rdquo; That fashion spreads a conceptual confusion, because it presumes "
-"that the system has in general some sort of understanding of the meaning of "
-"its output, and that its understanding was mistaken <em>in a specific case</"
-"em>."
+"happen, it is fashionable to call those statements &ldquo;"
+"hallucinations&rdquo; or say that the system &ldquo;made them up.&rdquo; "
+"That fashion spreads a conceptual confusion, because it presumes that the "
+"system has in general some sort of understanding of the meaning of its "
+"output, and that its understanding was mistaken <em>in a specific case</em>."
 msgstr ""
 "Saçmalık üreten sistemler, gerçekçi ifadeler gibi görünen ancak var olmayan "
 "kişileri, yerleri ve nesneleri ya da hiç yaşanmamış olayları anlatan "
@@ -945,15 +943,15 @@ msgstr "&ldquo;Varlıklar&rdquo;"
 #. type: Content of: <div><p>
 msgid ""
 "To refer to published works as &ldquo;assets,&rdquo; or &ldquo;digital "
-"assets,&rdquo; is even worse than calling them <a "
-"href=\"#Content\">&ldquo;content&rdquo;</a>&mdash;it dismisses their value "
-"to society aside from commercial value."
+"assets,&rdquo; is even worse than calling them <a href=\"#Content\">&ldquo;"
+"content&rdquo;</a>&mdash;it dismisses their value to society aside from "
+"commercial value."
 msgstr ""
 "Yayınlanmış çalışmalardan &ldquo;varlıklar&rdquo; veya &ldquo;dijital "
-"varlıklar&rdquo; olarak söz etmenin, onlardan <a "
-"href=\"#Content\">&ldquo;içerik&rdquo;</a> olarak söz etmekten daha da kötü "
-"olduğunu düşünüyoruz. Çünkü, çalışmaların ticari değeri dışındaki toplumsal "
-"değerini  sahip olmadıklarını varsayıyor."
+"varlıklar&rdquo; olarak söz etmenin, onlardan <a href=\"#Content\">&ldquo;"
+"içerik&rdquo;</a> olarak söz etmekten daha da kötü olduğunu düşünüyoruz. "
+"Çünkü, çalışmaların ticari değeri dışındaki toplumsal değerini  sahip "
+"olmadıklarını varsayıyor."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;BSD-style&rdquo;"
@@ -975,12 +973,12 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"To avoid confusion, it is best to name <a href=\"/licenses/license-"
-"list.html\"> the specific license in question</a> and avoid the vague term "
-"&ldquo;BSD-style.&rdquo;"
+"To avoid confusion, it is best to name <a href=\"/licenses/license-list.html"
+"\"> the specific license in question</a> and avoid the vague term &ldquo;BSD-"
+"style.&rdquo;"
 msgstr ""
-"Kafa karışıklığını önlemek için, söz konusu <a href=\"/licenses/license-"
-"list.html\">lisansın belirtilmesi</a> ve &ldquo;BSD stili&rdquo; ifadesinin "
+"Kafa karışıklığını önlemek için, söz konusu <a href=\"/licenses/license-list."
+"html\">lisansın belirtilmesi</a> ve &ldquo;BSD stili&rdquo; ifadesinin "
 "kullanımının önlenmesi en iyisidir."
 
 #. type: Content of: <div><h3>
@@ -995,18 +993,17 @@ msgid ""
 "confused with the open source camp</a>, so we are careful to avoid saying "
 "things that would encourage people to lump us in with them.  For instance, "
 "we avoid describing nonfree software as &ldquo;closed.&rdquo; We call it "
-"&ldquo;nonfree&rdquo; or <a href=\"/philosophy/"
-"categories.html#ProprietarySoftware\"> &ldquo;proprietary&rdquo;</a>."
+"&ldquo;nonfree&rdquo; or <a href=\"/philosophy/categories."
+"html#ProprietarySoftware\"> &ldquo;proprietary&rdquo;</a>."
 msgstr ""
-"Özgür olmayan yazılımı &ldquo;kapalı&rdquo; olarak tanımlamak, açıkça "
-"&ldquo;açık kaynak&rdquo; terimine işaret eder. Özgür Yazılım hareketinde <a "
-"href=\"/philosophy/open-source-misses-the-point.html\"> açık kaynak kampıyla "
+"Özgür olmayan yazılımı &ldquo;kapalı&rdquo; olarak tanımlamak, açıkça &ldquo;"
+"açık kaynak&rdquo; terimine işaret eder. Özgür Yazılım hareketinde <a href="
+"\"/philosophy/open-source-misses-the-point.html\"> açık kaynak kampıyla "
 "karıştırılmak istemeyiz</a>, bu yüzden insanların bizi onlarla karıştıracağı "
-"şeyleri söylemekten kaçınırız. Örneğin özgür olmayan yazılımı "
-"&ldquo;kapalı&rdquo; olarak tanımlamaktan kaçarız. Bu tür yazılımı "
-"&ldquo;özgür olmayan&rdquo; veya <a href=\"/philosophy/"
-"categories.html#ProprietarySoftware\"> &ldquo;özel mülk&rdquo;</a> olarak "
-"adlandırırız."
+"şeyleri söylemekten kaçınırız. Örneğin özgür olmayan yazılımı &ldquo;"
+"kapalı&rdquo; olarak tanımlamaktan kaçarız. Bu tür yazılımı &ldquo;özgür "
+"olmayan&rdquo; veya <a href=\"/philosophy/categories.html#ProprietarySoftware"
+"\"> &ldquo;özel mülk&rdquo;</a> olarak adlandırırız."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Cloud Computing&rdquo;"
@@ -1044,18 +1041,18 @@ msgstr ""
 msgid ""
 "One of the many meanings of &ldquo;cloud computing&rdquo; is storing your "
 "data in online services.  In most scenarios, that is foolish because it "
-"exposes you to <a href=\"https://www.guardian.co.uk/commentisfree/2011/apr/"
-"25/hackers-spooks-cloud-antiauthoritarian-dream\">surveillance</a>."
+"exposes you to <a href=\"https://www.guardian.co.uk/commentisfree/2011/"
+"apr/25/hackers-spooks-cloud-antiauthoritarian-dream\">surveillance</a>."
 msgstr ""
 "&ldquo;Bulut hesaplama&rdquo;nın birçok anlamından biri verinizi çevrimiçi "
-"hizmetlerde saklamanızdır. Çoğu durumda bu aptalcadır çünkü sizi <a "
-"href=\"https://www.guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-"
-"cloud-antiauthoritarian-dream\">gözetime</a> maruz bırakır."
+"hizmetlerde saklamanızdır. Çoğu durumda bu aptalcadır çünkü sizi <a href="
+"\"https://www.guardian.co.uk/commentisfree/2011/apr/25/hackers-spooks-cloud-"
+"antiauthoritarian-dream\">gözetime</a> maruz bırakır."
 
 #. type: Content of: <div><p>
 msgid ""
-"Another meaning (which overlaps that but is not the same thing)  is <a "
-"href=\"/philosophy/who-does-that-server-really-serve.html\"> Service as a "
+"Another meaning (which overlaps that but is not the same thing)  is <a href="
+"\"/philosophy/who-does-that-server-really-serve.html\"> Service as a "
 "Software Substitute</a>, which denies you control over your computing.  You "
 "should never use SaaSS."
 msgstr ""
@@ -1108,23 +1105,23 @@ msgid ""
 "connection with computing.  Talk about the scenario you mean, and call it by "
 "a specific term."
 msgstr ""
-"Bu farklı bilişim uygulamaları aynı tartışmanın konusu değildir. "
-"&ldquo;Bulut hesaplama&rdquo; teriminin yarattığı karmaşayı önlemenin en iyi "
-"yolu, bulutu hesaplamayla ilişkili olarak kullanmamaktır. Kastettiğiniz "
-"senaryo hakkında konuşun ve onu belirgin adıyla kullanın."
+"Bu farklı bilişim uygulamaları aynı tartışmanın konusu değildir. &ldquo;"
+"Bulut hesaplama&rdquo; teriminin yarattığı karmaşayı önlemenin en iyi yolu, "
+"bulutu hesaplamayla ilişkili olarak kullanmamaktır. Kastettiğiniz senaryo "
+"hakkında konuşun ve onu belirgin adıyla kullanın."
 
 #. type: Content of: <div><p>
 msgid ""
-"Curiously, Larry Ellison, a proprietary software developer, also <a "
-"href=\"https://www.cnet.com/culture/oracles-ellison-nails-cloud-computing/"
-"\"> noted the vacuity of the term &ldquo;cloud computing.&rdquo;</a> He "
-"decided to use the term anyway because, as a proprietary software developer, "
-"he isn't motivated by the same ideals as we are."
+"Curiously, Larry Ellison, a proprietary software developer, also <a href="
+"\"https://www.cnet.com/culture/oracles-ellison-nails-cloud-computing/\"> "
+"noted the vacuity of the term &ldquo;cloud computing.&rdquo;</a> He decided "
+"to use the term anyway because, as a proprietary software developer, he "
+"isn't motivated by the same ideals as we are."
 msgstr ""
-"İlginç biçimde, Larry Ellison, özel mülk yazılım geliştirici, keza <a "
-"href=\"https://www.cnet.com/culture/oracles-ellison-nails-cloud-computing/"
-"\"> &ldquo;bulut hesaplama&rdquo; teriminin anlamsızlığını belirtiyor</a>. "
-"Yine de terimi kullanmaya devam etmeye karar verdi, çünkü özel mülk yazılım "
+"İlginç biçimde, Larry Ellison, özel mülk yazılım geliştirici, keza <a href="
+"\"https://www.cnet.com/culture/oracles-ellison-nails-cloud-computing/\"> "
+"&ldquo;bulut hesaplama&rdquo; teriminin anlamsızlığını belirtiyor</a>. Yine "
+"de terimi kullanmaya devam etmeye karar verdi, çünkü özel mülk yazılım "
 "geliştiricisi olarak bizim ideallerimizle aynı ideallerle güdülenmiyor."
 
 #. type: Content of: <div><h3>
@@ -1133,8 +1130,8 @@ msgstr "&ldquo;Ticari&rdquo;"
 
 #. type: Content of: <div><p>
 msgid ""
-"Please don't use &ldquo;commercial&rdquo; as a synonym for "
-"&ldquo;nonfree.&rdquo; That confuses two entirely different issues."
+"Please don't use &ldquo;commercial&rdquo; as a synonym for &ldquo;nonfree."
+"&rdquo; That confuses two entirely different issues."
 msgstr ""
 "Lütfen &ldquo;ticari&rdquo; ifadesini &ldquo;özgür olmayan&rdquo; anlamında "
 "kullanmayın. Bu, çok farklı iki konunun karışmasına neden olmaktadır."
@@ -1246,12 +1243,12 @@ msgstr ""
 msgid ""
 "Those who use &ldquo;consume&rdquo; in this context will say they don't mean "
 "it literally.  What, then, does it mean? It means to regard copies of "
-"software and other works from a narrow economistic point of view.  "
-"&ldquo;Consume&rdquo; is associated with the economics of material "
-"commodities, such as the fuel or electricity that a car uses up.  Gasoline "
-"is a commodity, and so is electricity.  Commodities are <em>fungible</em>: "
-"there is nothing special about a drop of gasoline that your car burns today "
-"versus another drop that it burned last week."
+"software and other works from a narrow economistic point of view.  &ldquo;"
+"Consume&rdquo; is associated with the economics of material commodities, "
+"such as the fuel or electricity that a car uses up.  Gasoline is a "
+"commodity, and so is electricity.  Commodities are <em>fungible</em>: there "
+"is nothing special about a drop of gasoline that your car burns today versus "
+"another drop that it burned last week."
 msgstr ""
 "&ldquo;Tüketmeyi&rdquo; kullanan kişiler bu bağlamda onu kelime kelimesine "
 "kullanmadıklarını söylerler. Peki o zaman, ne anlama geliyor bu durumda? "
@@ -1270,9 +1267,9 @@ msgid ""
 "accountant of a publishing company, someone who doesn't appreciate the "
 "published works as such.  It is no surprise that proprietary software "
 "developers would like you to think of the use of software as a commodity.  "
-"Their twisted viewpoint comes through clearly in <a href=\"https://"
-"www.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-"
-"million-series-a-funding-2015-6\">this article</a>, which also refers to "
+"Their twisted viewpoint comes through clearly in <a href=\"https://www."
+"businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-"
+"series-a-funding-2015-6\">this article</a>, which also refers to "
 "publications as &ldquo;<a href=\"#Content\">content</a>.&rdquo;"
 msgstr ""
 "Bir hikaye, yazı, program veya şarkının hiçbir özel durumu yokmuş "
@@ -1281,9 +1278,9 @@ msgstr ""
 "yayınevi şirketi muhasebecisi veya sahibinin çarpık bakış açısıdır. Özel "
 "mülk yazılım geliştiricilerin de, yazılımı bir meta olarak düşünmenizi "
 "istemesi hiç şaşırtıcı değildir. Çarpık bakış açıları, yayınlardan da &ldquo;"
-"<a href=\"#Content\">içerik</a>&rdquo; olarak söz eden <a href=\"https://"
-"www.businessinsider.com/former-google-exec-launches-sourcepoint-with-10-"
-"million-series-a-funding-2015-6\">bu yazıda</a> açıkça ortaya çıkıyor."
+"<a href=\"#Content\">içerik</a>&rdquo; olarak söz eden <a href=\"https://www."
+"businessinsider.com/former-google-exec-launches-sourcepoint-with-10-million-"
+"series-a-funding-2015-6\">bu yazıda</a> açıkça ortaya çıkıyor."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1306,8 +1303,8 @@ msgstr ""
 msgid ""
 "It also encourages the acceptance of &ldquo;streaming&rdquo; services, which "
 "use DRM to perversely limit listening to music, or watching video, to "
-"squeeze those activities into the assumptions of the word "
-"&ldquo;consume.&rdquo;"
+"squeeze those activities into the assumptions of the word &ldquo;consume."
+"&rdquo;"
 msgstr ""
 "Bu durum ayrıca, &ldquo;consume.&rdquo; müzik dinlemeyi veya video izlemeyi "
 "bozukça kısıtlayan DRM kullanan &ldquo;akış (streaming)&rdquo; hizmetlerinin "
@@ -1319,20 +1316,19 @@ msgid ""
 "Why is this perverse usage spreading? Some may feel that the term sounds "
 "sophisticated, but rejecting it with cogent reasons can appear even more "
 "sophisticated.  Some want to generalize about all kinds of media, but the "
-"usual English verbs (&ldquo;read,&rdquo; &ldquo;listen to,&rdquo; "
-"&ldquo;watch&rdquo;) don't do this.  Others may be acting from business "
-"interests (their own, or their employers').  Their use of the term in "
-"prestigious forums gives the impression that it's the &ldquo;correct&rdquo; "
-"term."
+"usual English verbs (&ldquo;read,&rdquo; &ldquo;listen to,&rdquo; &ldquo;"
+"watch&rdquo;) don't do this.  Others may be acting from business interests "
+"(their own, or their employers').  Their use of the term in prestigious "
+"forums gives the impression that it's the &ldquo;correct&rdquo; term."
 msgstr ""
 "Neden bu bozuk kullanım yaygınlaşıyor? Kimileri bu terimin karmaşık "
 "olduğunu, ancak onu inandırıcı gerekçelerle reddetmek çok daha karmaşık "
 "olduğunu düşünebilir. Kimileri bütün medya türlerini genelleştirmek istiyor, "
-"ancak alışılmış İngilizce fiiler (&ldquo;okumak (read),&rdquo; "
-"&ldquo;dinlemek (listen to),&rdquo; &ldquo;izlemek (watch)&rdquo;)  buna "
-"yetmiyor. Başkaları kendi veya işverenlerinin işletmelerinin çıkarları "
-"doğrultusunda hareket ediyor olabilir. Saygın forumlarda terimi "
-"kullanışları, bunun &ldquo;doğru&rdquo; terim olduğu izlenimi yaratıyor."
+"ancak alışılmış İngilizce fiiler (&ldquo;okumak (read),&rdquo; &ldquo;"
+"dinlemek (listen to),&rdquo; &ldquo;izlemek (watch)&rdquo;)  buna yetmiyor. "
+"Başkaları kendi veya işverenlerinin işletmelerinin çıkarları doğrultusunda "
+"hareket ediyor olabilir. Saygın forumlarda terimi kullanışları, bunun &ldquo;"
+"doğru&rdquo; terim olduğu izlenimi yaratıyor."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1348,8 +1344,8 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"Those who answer no, please join me in shunning the term "
-"&ldquo;consume&rdquo; for this."
+"Those who answer no, please join me in shunning the term &ldquo;"
+"consume&rdquo; for this."
 msgstr ""
 "Yanıtı hayır olanlar, lütfen bunun için &ldquo;tüketim&rdquo; terimini "
 "kullanmaktan kaçınmaya katılsınlar."
@@ -1367,14 +1363,14 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"If you insist on generalizing, you can use the expression &ldquo;attend "
-"to,&rdquo; which requires less of a stretch than &ldquo;consume.&rdquo; For "
-"a work meant for practical use, &ldquo;use&rdquo; is best."
+"If you insist on generalizing, you can use the expression &ldquo;attend to,"
+"&rdquo; which requires less of a stretch than &ldquo;consume.&rdquo; For a "
+"work meant for practical use, &ldquo;use&rdquo; is best."
 msgstr ""
 "Genelleştirme ısrarınız varsa, &ldquo;tüketime&rdquo; göre daha az esneklik "
 "gerektiren &ldquo;bakmak, ilgilenmek (attend to)&rdquo; fiilini "
-"kullanabilir. Pratik amaçlı bir çalışma için en iyisi "
-"&ldquo;kullanmak&rdquo; fiilidir."
+"kullanabilir. Pratik amaçlı bir çalışma için en iyisi &ldquo;"
+"kullanmak&rdquo; fiilidir."
 
 #. type: Content of: <div><p>
 msgid "See also the following entry."
@@ -1388,8 +1384,8 @@ msgstr "&ldquo;Tüketici&rdquo;"
 msgid ""
 "The term &ldquo;consumer,&rdquo; when used to refer to the users of "
 "computing, is loaded with assumptions we should reject.  Some come from the "
-"idea that using the program &ldquo;consumes&rdquo; the program (see <a "
-"href=\"#Consume\">the previous entry</a>), which leads people to impose on "
+"idea that using the program &ldquo;consumes&rdquo; the program (see <a href="
+"\"#Consume\">the previous entry</a>), which leads people to impose on "
 "copiable digital works the economic conclusions that were drawn about "
 "uncopiable material products."
 msgstr ""
@@ -1410,11 +1406,11 @@ msgid ""
 "control over what a program does</a>."
 msgstr ""
 "Ek olarak, yazılım kullanıcılarını &ldquo;tüketici&rdquo; olarak tanımlamak "
-"kullanıcıları sadece &ldquo;pazarda&rdquo; mevcut olan "
-"&ldquo;ürünleri&rdquo; tercihle sınırlanmış kişiler olarak betimler. Bu "
-"betimlemede kullanıcıların <a href=\"/philosophy/free-software-even-more-"
-"important.html\">programın ne yaptığı üzerinde doğrudan bir denetim "
-"uygulamasına</a> yer yoktur."
+"kullanıcıları sadece &ldquo;pazarda&rdquo; mevcut olan &ldquo;"
+"ürünleri&rdquo; tercihle sınırlanmış kişiler olarak betimler. Bu betimlemede "
+"kullanıcıların <a href=\"/philosophy/free-software-even-more-important.html"
+"\">programın ne yaptığı üzerinde doğrudan bir denetim uygulamasına</a> yer "
+"yoktur."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1423,8 +1419,8 @@ msgid ""
 "than &ldquo;consumers.&rdquo;"
 msgstr ""
 "Çalışmaları sadece edilgen bir şekilde kullanmakla sınırlı olmayan insanları "
-"tanımlamak için &ldquo;tüketiciler&rdquo; kullanımı yerine "
-"&ldquo;bireyler&rdquo; ve &ldquo;yurttaşlar&rdquo; gibi terimleri öneriyoruz."
+"tanımlamak için &ldquo;tüketiciler&rdquo; kullanımı yerine &ldquo;"
+"bireyler&rdquo; ve &ldquo;yurttaşlar&rdquo; gibi terimleri öneriyoruz."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1432,8 +1428,8 @@ msgid ""
 "www.theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-"
 "williams\">noted before</a>."
 msgstr ""
-"&ldquo;Tüketici&rdquo; kelimesinin sorununa <a href=\"https://"
-"www.theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-"
+"&ldquo;Tüketici&rdquo; kelimesinin sorununa <a href=\"https://www."
+"theguardian.com/commentisfree/2013/aug/11/capitalism-language-raymond-"
 "williams\">daha önce dikkat çekilmişti</a>."
 
 #. type: Content of: <div><h3>
@@ -1448,29 +1444,27 @@ msgid ""
 "adopts an attitude you might rather avoid: it treats them as a commodity "
 "whose purpose is to fill a box and make money.  In effect, it disparages all "
 "the works by subordinating them to the box that is full.  To avoid taking "
-"that attitude, you can call them &ldquo;works,&rdquo; "
-"&ldquo;publications,&rdquo; &ldquo;messages,&rdquo; "
-"&ldquo;communications,&rdquo; as well as various other words that are more "
-"specific."
+"that attitude, you can call them &ldquo;works,&rdquo; &ldquo;publications,"
+"&rdquo; &ldquo;messages,&rdquo; &ldquo;communications,&rdquo; as well as "
+"various other words that are more specific."
 msgstr ""
-"Bir rahatlık ve memnuniyet duygusu tanımlamak isterseniz, mutlaka "
-"&ldquo;memnun&rdquo; (&ldquo;content&rdquo;) deyin, ancak insanların "
-"kendilerini ifade etmek için kullandığı çaışmaları ve iletişim biçimlerini "
-"tanımlamaya yönelik isim olarak bu kelimeyi kullanmak, bu çalışmalara "
-"ilişkin belirli bir yaklaşımı, amacı bir kutuyu doldurmak ve para kazanmak "
-"olan birbiriyle değiştirilebilir mallar oldukları yaklaşımını ortaya "
-"çıkarır. Aslında, bu, dolu kutuya tabi kılarak, tüm çalışmaları hor görüyor. "
-"Eğer bu tutumu benimsemiyorsanız, bu kelime yerine &ldquo;çalışmalar&rdquo;, "
-"&ldquo;iletiler&rdquo;, &ldquo;iletişim&rdquo;, vb. daha belirgin kelimeleri "
+"Bir rahatlık ve memnuniyet duygusu tanımlamak isterseniz, mutlaka &ldquo;"
+"memnun&rdquo; (&ldquo;content&rdquo;) deyin, ancak insanların kendilerini "
+"ifade etmek için kullandığı çaışmaları ve iletişim biçimlerini tanımlamaya "
+"yönelik isim olarak bu kelimeyi kullanmak, bu çalışmalara ilişkin belirli "
+"bir yaklaşımı, amacı bir kutuyu doldurmak ve para kazanmak olan birbiriyle "
+"değiştirilebilir mallar oldukları yaklaşımını ortaya çıkarır. Aslında, bu, "
+"dolu kutuya tabi kılarak, tüm çalışmaları hor görüyor. Eğer bu tutumu "
+"benimsemiyorsanız, bu kelime yerine &ldquo;çalışmalar&rdquo;, &ldquo;"
+"iletiler&rdquo;, &ldquo;iletişim&rdquo;, vb. daha belirgin kelimeleri "
 "kullanabilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""
 "Those who use the term &ldquo;content&rdquo; are often the publishers that "
-"push for increased copyright power in the name of the authors "
-"(&ldquo;creators,&rdquo; as they say) of the works.  The term "
-"&ldquo;content&rdquo; reveals their real attitude towards these works and "
-"their authors."
+"push for increased copyright power in the name of the authors (&ldquo;"
+"creators,&rdquo; as they say) of the works.  The term &ldquo;content&rdquo; "
+"reveals their real attitude towards these works and their authors."
 msgstr ""
 "&ldquo;İçerik&rdquo; terimini kullananlar genelde çalışmaların yazarları "
 "(&ldquo;yaratıcıları&rdquo; derler) adına telif hakkının gücünün "
@@ -1510,14 +1504,14 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "We first condemned this usage of &ldquo;content&rdquo; in 2002.  Since then, "
-"Tom Chatfield recognized the same point <a href=\"https://"
-"www.theguardian.com/culture/2016/aug/02/how-to-deal-with-trump-trolls-"
-"online\"> in <cite>The Guardian</cite></a>:"
+"Tom Chatfield recognized the same point <a href=\"https://www.theguardian."
+"com/culture/2016/aug/02/how-to-deal-with-trump-trolls-online\"> in <cite>The "
+"Guardian</cite></a>:"
 msgstr ""
 "&ldquo;İçerik&rdquo; kullanımını ilk olarak 2002 tarihinde eleştirmiştik. Bu "
-"durum Tom Chatfield tarafından <a href=\"https://www.theguardian.com/culture/"
-"2016/aug/02/how-to-deal-with-trump-trolls-online\"><cite>The Guardian</"
-"cite>'da</a> da anlatılıyor:"
+"durum Tom Chatfield tarafından <a href=\"https://www.theguardian.com/"
+"culture/2016/aug/02/how-to-deal-with-trump-trolls-online\"><cite>The "
+"Guardian</cite>'da</a> da anlatılıyor:"
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
@@ -1578,8 +1572,8 @@ msgid ""
 "<a href=\"https://www.theguardian.com/books/2026/jun/27/dave-eggers-once-you-"
 "have-a-machine-think-and-write-for-you-youre-cooked-as-a-species\">Dave "
 "Eggers condemned its use in regard to writing</a>, along with the practice "
-"of delegating one's writing to so-called <a "
-"href=\"#ArtificialIntelligence\">&ldquo;artificial intelligence&rdquo;</a>."
+"of delegating one's writing to so-called <a href=\"#ArtificialIntelligence"
+"\">&ldquo;artificial intelligence&rdquo;</a>."
 msgstr ""
 "<a href=\"https://www.theguardian.com/books/2026/jun/27/dave-eggers-once-you-"
 "have-a-machine-think-and-write-for-you-youre-cooked-as-a-species\" >Dave "
@@ -1594,11 +1588,10 @@ msgid ""
 "the-stupid-tech-content-culture-cycle/\"> the development path of platforms "
 "run by people who base their thinking on that concept</a>."
 msgstr ""
-"&ldquo;İçerik&rdquo; ile kastedilen tutum, <a href=\"https://"
-"www.anildash.com/2022/02/09/the-stupid-tech-content-culture-cycle/"
-"\">düşüncelerini bu kavram üzerine dayandıran insanlarca yürütülen "
-"platformların geliştirme yoluna</a> ilişkin bu eleştirel betimlemede açıkça "
-"resmediliyor."
+"&ldquo;İçerik&rdquo; ile kastedilen tutum, <a href=\"https://www.anildash."
+"com/2022/02/09/the-stupid-tech-content-culture-cycle/\">düşüncelerini bu "
+"kavram üzerine dayandıran insanlarca yürütülen platformların geliştirme "
+"yoluna</a> ilişkin bu eleştirel betimlemede açıkça resmediliyor."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1621,8 +1614,8 @@ msgid ""
 "See also <a href=\"https://www.salon.com/2000/06/14/love_7/\">Courtney "
 "Love's open letter to Steve Case</a> and search for &ldquo;content "
 "provider&rdquo; in that page.  Alas, Ms. Love is unaware that the term "
-"&ldquo;intellectual property&rdquo; is also <a "
-"href=\"#IntellectualProperty\"> biased and confusing</a>."
+"&ldquo;intellectual property&rdquo; is also <a href=\"#IntellectualProperty"
+"\"> biased and confusing</a>."
 msgstr ""
 "<a href=\"https://www.salon.com/2000/06/14/love_7/\">Courtney Love'ın Steve "
 "Case'e açık mektubu</a>nu da okuyun ve o sayfada &ldquo;content "
@@ -1633,9 +1626,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"However, as long as other people use the term &ldquo;content "
-"provider,&rdquo; political dissidents can well call themselves "
-"&ldquo;malcontent providers.&rdquo;"
+"However, as long as other people use the term &ldquo;content provider,"
+"&rdquo; political dissidents can well call themselves &ldquo;malcontent "
+"providers.&rdquo;"
 msgstr ""
 "Diğer insanlar, &ldquo;<i>memnuniyet</i> sağlayıcısını&rdquo; kullandıkları "
 "sürece, politik muhalifler, kendilerini &ldquo;şikayetçi sağlayıcılar&rdquo; "
@@ -1655,11 +1648,11 @@ msgid ""
 "description."
 msgstr ""
 "&ldquo;İçerik yönetimi&rdquo; terimi belirsizliğiyle ödül kazanmalıdır. "
-"&ldquo;İçerik&rdquo;, &ldquo;bir tür bilgi&rdquo; anlamına gelir ve "
-"&ldquo;yönetim&rdquo; ise bu kapsamda &ldquo;bu bilgiyle bir şey "
-"yapmak&rdquo; anlamına gelecektir. Böylece &ldquo;içerik yönetim "
-"sistemi&rdquo;, bir tür bilgiyle birşey yapmak üzere bir sistemdir. "
-"Neredeyse tüm programlar bu tanıma uygundur."
+"&ldquo;İçerik&rdquo;, &ldquo;bir tür bilgi&rdquo; anlamına gelir ve &ldquo;"
+"yönetim&rdquo; ise bu kapsamda &ldquo;bu bilgiyle bir şey yapmak&rdquo; "
+"anlamına gelecektir. Böylece &ldquo;içerik yönetim sistemi&rdquo;, bir tür "
+"bilgiyle birşey yapmak üzere bir sistemdir. Neredeyse tüm programlar bu "
+"tanıma uygundur."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1692,19 +1685,18 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "A few decades ago, copyright holders began trying to reduce awareness of "
-"this point.  In addition to citing frequently the bogus concept of <a "
-"href=\"#IntellectualProperty\">&ldquo;intellectual property,&rdquo;</a> they "
-"also started calling themselves &ldquo;copyright owners.&rdquo; Please join "
-"us in resisting by using the traditional term &ldquo;copyright "
-"holders&rdquo; instead."
+"this point.  In addition to citing frequently the bogus concept of <a href="
+"\"#IntellectualProperty\">&ldquo;intellectual property,&rdquo;</a> they also "
+"started calling themselves &ldquo;copyright owners.&rdquo; Please join us in "
+"resisting by using the traditional term &ldquo;copyright holders&rdquo; "
+"instead."
 msgstr ""
 "Bir kaç on yıl önce, telif hakkı hamilleri bu noktanın farkındalığını "
-"azaltma çabalarına başladılar. <a "
-"href=\"#IntellectualProperty\">&ldquo;Fikri mülkiyet&rdquo;</a> sahte "
-"kavramını sıklıkla atıfta bulunmanın yanında kendilerine de &ldquo;telif "
-"hakkı sahibi&rdquo; demeye başladılar. Lütfen bizimle birlikte geleneksel "
-"terim olan &ldquo;telif hakkı hamili&rdquo; terimini kullanarak buna karşı "
-"koymaya katılın."
+"azaltma çabalarına başladılar. <a href=\"#IntellectualProperty\">&ldquo;"
+"Fikri mülkiyet&rdquo;</a> sahte kavramını sıklıkla atıfta bulunmanın yanında "
+"kendilerine de &ldquo;telif hakkı sahibi&rdquo; demeye başladılar. Lütfen "
+"bizimle birlikte geleneksel terim olan &ldquo;telif hakkı hamili&rdquo; "
+"terimini kullanarak buna karşı koymaya katılın."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Creative Commons licensed&rdquo;"
@@ -1714,8 +1706,8 @@ msgstr "&ldquo;Creative Commons lisanslı&rdquo;"
 msgid ""
 "The most important licensing characteristic of a work is whether it is "
 "free.  Creative Commons publishes seven licenses; three are free (CC BY, CC "
-"BY-SA and CC0) and the rest are nonfree.  Thus, to describe a work as "
-"&ldquo;Creative Commons licensed&rdquo; fails to say whether it is free, and "
+"BY-SA and CC0) and the rest are nonfree.  Thus, to describe a work as &ldquo;"
+"Creative Commons licensed&rdquo; fails to say whether it is free, and "
 "suggests that the question is not important.  The statement may be accurate, "
 "but the omission is harmful."
 msgstr ""
@@ -1729,9 +1721,9 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "To encourage people to pay attention to the most important distinction, "
-"always specify <em>which</em> Creative Commons license is used, as in "
-"&ldquo;licensed under CC BY-SA.&rdquo; If you don't know which license a "
-"certain work carries, find out and then make your statement."
+"always specify <em>which</em> Creative Commons license is used, as in &ldquo;"
+"licensed under CC BY-SA.&rdquo; If you don't know which license a certain "
+"work carries, find out and then make your statement."
 msgstr ""
 "İnsanların en önemli ayrıma dikkat vermesini sağlamak için her zaman "
 "<em>hangi</em> Creative Commons lisansının kullanıldığını, &ldquo;CC BY-SA "
@@ -1807,10 +1799,11 @@ msgid ""
 "Locks are not necessarily oppressive or bad.  You probably own several "
 "locks, and their keys or codes as well; you may find them useful or "
 "troublesome, but they don't oppress you, because you can open and close "
-"them.  Likewise, we find <a href=\"https://www.theguardian.com/technology/"
-"2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-good-guys-"
-"have-keys-to-\">encryption</a> invaluable for protecting our digital files.  "
-"That too is a kind of digital lock that you have control over."
+"them.  Likewise, we find <a href=\"https://www.theguardian.com/"
+"technology/2015/may/01/encryption-wont-work-if-it-has-a-back-door-only-the-"
+"good-guys-have-keys-to-\">encryption</a> invaluable for protecting our "
+"digital files.  That too is a kind of digital lock that you have control "
+"over."
 msgstr ""
 "Kilitlerin baskıcı veya kötü olması şart değil. Sizin de muhakkak bir çok "
 "kilidiniz, anahtarları veya kodları vardır. Onları yararlı veya zahmetli "
@@ -1825,8 +1818,8 @@ msgstr ""
 msgid ""
 "DRM is like a lock placed on you by someone else, who refuses to give you "
 "the key&mdash;in other words, like <em>handcuffs</em>.  Therefore, the "
-"proper metaphor for DRM is &ldquo;digital handcuffs,&rdquo; not "
-"&ldquo;digital locks.&rdquo;"
+"proper metaphor for DRM is &ldquo;digital handcuffs,&rdquo; not &ldquo;"
+"digital locks.&rdquo;"
 msgstr ""
 "DRM sizin üzerinize başkası tarafından koyulan ve size anahtarlarını vermeyi "
 "reddettiği bir kilit gibidir. Başka bir ifadeyle <em>kelepçe</em>dir. "
@@ -1895,9 +1888,9 @@ msgid ""
 "community, as an &ldquo;ecosystem,&rdquo; because that word implies the "
 "absence of ethical judgment."
 msgstr ""
-"Özgür Yazılım topluluğunu veya herhangi bir insan topluluğunu "
-"&ldquo;ekosistem&rdquo; olarak tanımlamak hatalıdır, çünkü bu kelime etik "
-"yokluğunu ima eder."
+"Özgür Yazılım topluluğunu veya herhangi bir insan topluluğunu &ldquo;"
+"ekosistem&rdquo; olarak tanımlamak hatalıdır, çünkü bu kelime etik yokluğunu "
+"ima eder."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -1940,10 +1933,10 @@ msgstr "&ldquo;ÖLAKY&rdquo;"
 #. type: Content of: <div><p>
 msgid ""
 "The term &ldquo;FLOSS,&rdquo; meaning &ldquo;Free/Libre and Open Source "
-"Software,&rdquo; was coined as a way to <a href=\"/philosophy/floss-and-"
-"foss.html\">be neutral between free software and open source</a>.  If "
-"neutrality is your goal, &ldquo;FLOSS&rdquo; is the best way to be neutral.  "
-"But if you want to show you stand for freedom, don't use a neutral term."
+"Software,&rdquo; was coined as a way to <a href=\"/philosophy/floss-and-foss."
+"html\">be neutral between free software and open source</a>.  If neutrality "
+"is your goal, &ldquo;FLOSS&rdquo; is the best way to be neutral.  But if you "
+"want to show you stand for freedom, don't use a neutral term."
 msgstr ""
 "&ldquo;Özgür/Libre ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖLAKK "
 "(FLOSS)&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür "
@@ -1996,19 +1989,18 @@ msgstr "&ldquo;ÖAKY&rdquo;"
 
 #. type: Content of: <div><p>
 msgid ""
-"The term &ldquo;FOSS,&rdquo; meaning &ldquo;Free and Open Source "
-"Software,&rdquo; was coined as a way to <a href=\"/philosophy/floss-and-"
-"foss.html\">be neutral between free software and open source</a>, but it "
-"doesn't really do that.  If neutrality is your goal, &ldquo;FLOSS&rdquo; is "
-"better.  But if you want to show you stand for freedom, don't use a neutral "
-"term."
+"The term &ldquo;FOSS,&rdquo; meaning &ldquo;Free and Open Source Software,"
+"&rdquo; was coined as a way to <a href=\"/philosophy/floss-and-foss.html"
+"\">be neutral between free software and open source</a>, but it doesn't "
+"really do that.  If neutrality is your goal, &ldquo;FLOSS&rdquo; is better.  "
+"But if you want to show you stand for freedom, don't use a neutral term."
 msgstr ""
-"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖAKY "
-"(FOSS)&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür "
-"yazılım ve açık kaynak arasında tarafsız olmanın</a> bir yolu olarak ortaya "
-"kondu, ama aslında bunu başaramıyor. Eğer tarafsızlık amacınızsa, "
-"&ldquo;ÖLAKK&rdquo; daha iyi bir seçenektir. Ancak eğer özgürlüğün tarafını "
-"tuttuğunuzu göstermek istiyorsanız, tarafsız bir terim kullanmayın."
+"&ldquo;Özgür ve Açık Kaynak Yazılım&rdquo; anlamına gelen &ldquo;ÖAKY (FOSS)"
+"&rdquo; terimi <a href=\"/philosophy/floss-and-foss.html\">özgür yazılım ve "
+"açık kaynak arasında tarafsız olmanın</a> bir yolu olarak ortaya kondu, ama "
+"aslında bunu başaramıyor. Eğer tarafsızlık amacınızsa, &ldquo;ÖLAKK&rdquo; "
+"daha iyi bir seçenektir. Ancak eğer özgürlüğün tarafını tuttuğunuzu "
+"göstermek istiyorsanız, tarafsız bir terim kullanmayın."
 
 #. type: Content of: <div><blockquote><p>
 msgid ""
@@ -2022,9 +2014,9 @@ msgstr "&ldquo;Özgürce edinilebilen yazılım&rdquo;"
 
 #. type: Content of: <div><p>
 msgid ""
-"Don't use &ldquo;freely available software&rdquo; as a synonym for "
-"&ldquo;free software.&rdquo; The terms are not equivalent.  Software is "
-"&ldquo;freely available&rdquo; if anyone can easily get a copy.  &ldquo;Free "
+"Don't use &ldquo;freely available software&rdquo; as a synonym for &ldquo;"
+"free software.&rdquo; The terms are not equivalent.  Software is &ldquo;"
+"freely available&rdquo; if anyone can easily get a copy.  &ldquo;Free "
 "software&rdquo; is defined in terms of the freedom of users that have a copy "
 "of it.  These are answers to different questions."
 msgstr ""
@@ -2083,16 +2075,16 @@ msgstr "&ldquo;Ücretsiz Yazılım (freeware)&rdquo;"
 
 #. type: Content of: <div><p>
 msgid ""
-"Please don't use the term &ldquo;freeware&rdquo; as a synonym for "
-"&ldquo;free software.&rdquo; The term &ldquo;freeware&rdquo; was used often "
-"in the 1980s for programs released only as executables, with source code not "
+"Please don't use the term &ldquo;freeware&rdquo; as a synonym for &ldquo;"
+"free software.&rdquo; The term &ldquo;freeware&rdquo; was used often in the "
+"1980s for programs released only as executables, with source code not "
 "available.  Today it has no particular agreed-on definition."
 msgstr ""
-"Lütfen &ldquo;özgür yazılım&rdquo; için eş anlamlı kelime olarak "
-"&ldquo;freeware&rdquo;i kullanmayın. &ldquo;Freeware&rdquo; terimi "
-"1980’lerde yalnızca çalıştırılabilir olarak yayınlanan programlar için "
-"kullanılmıştı, kaynak kodu mevcut değildi. Günümüzde üzerinde fikir "
-"birliğine varılmış bir anlamı yoktur."
+"Lütfen &ldquo;özgür yazılım&rdquo; için eş anlamlı kelime olarak &ldquo;"
+"freeware&rdquo;i kullanmayın. &ldquo;Freeware&rdquo; terimi 1980’lerde "
+"yalnızca çalıştırılabilir olarak yayınlanan programlar için kullanılmıştı, "
+"kaynak kodu mevcut değildi. Günümüzde üzerinde fikir birliğine varılmış bir "
+"anlamı yoktur."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -2130,17 +2122,17 @@ msgstr "&ldquo;Bağış yazılım&rdquo;"
 
 #. type: Content of: <div><p>
 msgid ""
-"It's misleading to use the term &ldquo;give away&rdquo; to mean "
-"&ldquo;distribute a program as free software.&rdquo; This locution has the "
-"same problem as &ldquo;for free&rdquo;: it implies the issue is price, not "
+"It's misleading to use the term &ldquo;give away&rdquo; to mean &ldquo;"
+"distribute a program as free software.&rdquo; This locution has the same "
+"problem as &ldquo;for free&rdquo;: it implies the issue is price, not "
 "freedom.  One way to avoid the confusion is to say &ldquo;release as free "
 "software.&rdquo;"
 msgstr ""
 "&ldquo;Bir programın özgür yazılım olarak dağıtılması&rdquo; anlamında "
-"&ldquo;bağış&rdquo; ifadesinin kullanılması yanıltıcıdır. "
-"&ldquo;Ücretsiz&rdquo;le aynı probleme sahiptir: ücret hususunu "
-"vurgulamakta, özgürlük hususunu vurgulamamaktadır. Kafa karışıklığını "
-"önlemenin bir yolu &ldquo;özgür yazılım olarak yayınla&rdquo; demektir."
+"&ldquo;bağış&rdquo; ifadesinin kullanılması yanıltıcıdır. &ldquo;"
+"Ücretsiz&rdquo;le aynı probleme sahiptir: ücret hususunu vurgulamakta, "
+"özgürlük hususunu vurgulamamaktadır. Kafa karışıklığını önlemenin bir yolu "
+"&ldquo;özgür yazılım olarak yayınla&rdquo; demektir."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Google&rdquo;"
@@ -2151,16 +2143,15 @@ msgid ""
 "Please avoid using the term &ldquo;google&rdquo; as a verb, meaning to "
 "search for something on the internet. &ldquo;Google&rdquo; is just the name "
 "of one particular search engine among others. We suggest to use the term "
-"&ldquo;search the web&rdquo; or (in some contexts) just "
-"&ldquo;search.&rdquo; Try to use a search engine that respects your privacy; "
-"for instance, <a href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not "
-"to track its users.  (There is no way for outsiders to verify claims of that "
-"kind.)"
+"&ldquo;search the web&rdquo; or (in some contexts) just &ldquo;search."
+"&rdquo; Try to use a search engine that respects your privacy; for instance, "
+"<a href=\"https://duckduckgo.com/\">DuckDuckGo</a> claims not to track its "
+"users.  (There is no way for outsiders to verify claims of that kind.)"
 msgstr ""
 "Lütfen İnternet üzerinde bir şey arama fiili olarak &ldquo;google&rdquo; "
 "kullanmayın. &ldquo;Google&rdquo; bir çok arama motorundan sadece belirli "
-"birinin adıdır. &ldquo;Webte aramak&rdquo; veya (bazı bağlamlarda) "
-"&ldquo;aramak&rdquo; fiilini kullanmanızı öneriyoruz. Mahremiyetinize saygı "
+"birinin adıdır. &ldquo;Webte aramak&rdquo; veya (bazı bağlamlarda) &ldquo;"
+"aramak&rdquo; fiilini kullanmanızı öneriyoruz. Mahremiyetinize saygı "
 "gösteren bir arama motoru kullanmayı deneyin, örneğin <a href=\"https://"
 "duckduckgo.com/\">DuckDuckGo</a> kullanıcılarını takip etmediğini iddia "
 "ediyor. (dışarıdakiler olarak bu tür iddiaları doğrulamak mümkün değildir)"
@@ -2171,29 +2162,29 @@ msgstr "&ldquo;Hacker&rdquo;"
 
 #. type: Content of: <div><p>
 msgid ""
-"A hacker is someone who <a href=\"https://stallman.org/articles/on-"
-"hacking.html\"> enjoys playful cleverness</a>&mdash;not necessarily with "
-"computers.  The programmers in the old <abbr title=\"Massachusetts Institute "
-"of Technology\">MIT</abbr> free software community of the 60s and 70s "
-"referred to themselves as hackers.  Around 1980, journalists who discovered "
-"the hacker community mistakenly took the term to mean &ldquo;security "
-"breaker.&rdquo;"
+"A hacker is someone who <a href=\"https://stallman.org/articles/on-hacking."
+"html\"> enjoys playful cleverness</a>&mdash;not necessarily with computers.  "
+"The programmers in the old <abbr title=\"Massachusetts Institute of "
+"Technology\">MIT</abbr> free software community of the 60s and 70s referred "
+"to themselves as hackers.  Around 1980, journalists who discovered the "
+"hacker community mistakenly took the term to mean &ldquo;security breaker."
+"&rdquo;"
 msgstr ""
 "Hacker <a href=\"https://stallman.org/articles/on-hacking.html\">oyuncu "
 "beceriden hoşlanan</a> kişilerdir, bilgisayarlarla olması şart değildir. "
-"Eski 60'lar ve 70'lerdeki <abbr title=\"Massachusetts Institute of "
-"Technology\">MIT</abbr> özgür yazılım topluluğundaki programcılar "
-"kendilerini hacker olarak tanımlamışlardır. 1980 civarında hacker "
-"topluluğunı keşfeden gazeteciler terimi &ldquo;güvenlik kırıcısı&rdquo; "
-"anlamına gelecek şekilde yanlış bir şekilde aldılar."
+"Eski 60'lar ve 70'lerdeki <abbr title=\"Massachusetts Institute of Technology"
+"\">MIT</abbr> özgür yazılım topluluğundaki programcılar kendilerini hacker "
+"olarak tanımlamışlardır. 1980 civarında hacker topluluğunı keşfeden "
+"gazeteciler terimi &ldquo;güvenlik kırıcısı&rdquo; anlamına gelecek şekilde "
+"yanlış bir şekilde aldılar."
 
 #. type: Content of: <div><p>
 msgid ""
-"Please don't spread this mistake.  People who break security are "
-"&ldquo;crackers.&rdquo;"
+"Please don't spread this mistake.  People who break security are &ldquo;"
+"crackers.&rdquo;"
 msgstr ""
-"Lütfen bu hatayı daha fazla yaymayın. Güvenliği kıran kişiler "
-"&ldquo;güvenlik kırıcı&rdquo;lardır (cracker)."
+"Lütfen bu hatayı daha fazla yaymayın. Güvenliği kıran kişiler &ldquo;"
+"güvenlik kırıcı&rdquo;lardır (cracker)."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Intellectual property&rdquo;"
@@ -2205,16 +2196,16 @@ msgid ""
 "property&rdquo;&mdash;a term also applied to patents, trademarks, and other "
 "more obscure areas of law.  These laws have so little in common, and differ "
 "so much, that it is ill-advised to generalize about them.  It is best to "
-"talk specifically about &ldquo;copyright,&rdquo; or about "
-"&ldquo;patents,&rdquo; or about &ldquo;trademarks.&rdquo;"
+"talk specifically about &ldquo;copyright,&rdquo; or about &ldquo;patents,"
+"&rdquo; or about &ldquo;trademarks.&rdquo;"
 msgstr ""
 "Yayıncılar ve avukatlar, telif hakkını &ldquo;fikri mülkiyet&rdquo; olarak "
 "tanımlamaktan hoşlanır, bu terim ayrıca patentler, markalar ve yasanın diğer "
 "belirsiz alanları için de kullanılır. Bu yasalar aslında oldukça az ortak "
 "noktaya sahiptir ve çok farklıdırlar. Onlara ilişkin genelleştirmeler yapmak "
-"sağlıksızdır. En iyisi, &ldquo;telif hakkı&rdquo; hakkında veya "
-"&ldquo;patentler&rdquo; hakkında veya &ldquo;markalar&rdquo; hakkında ayrı "
-"ayrı konuşmaktır."
+"sağlıksızdır. En iyisi, &ldquo;telif hakkı&rdquo; hakkında veya &ldquo;"
+"patentler&rdquo; hakkında veya &ldquo;markalar&rdquo; hakkında ayrı ayrı "
+"konuşmaktır."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -2255,9 +2246,9 @@ msgid ""
 "philosophy/wipo-PublicAwarenessOfCopyright-2002.html\"> starting to make the "
 "World &ldquo;Intellectual Property&rdquo; Organization embarrassed</a>."
 msgstr ""
-"Bu güçlerin &ldquo;haklar&rdquo; olarak ifade edilmesi iki yüzlülüğü <a "
-"href=\"/philosophy/wipo-PublicAwarenessOfCopyright-2002.html\"> Dünya "
-"&ldquo;Fikri Mülkiyet&rdquo; Örgütünü utandırmaya başlamıştır</a>."
+"Bu güçlerin &ldquo;haklar&rdquo; olarak ifade edilmesi iki yüzlülüğü <a href="
+"\"/philosophy/wipo-PublicAwarenessOfCopyright-2002.html\"> Dünya &ldquo;"
+"Fikri Mülkiyet&rdquo; Örgütünü utandırmaya başlamıştır</a>."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Internet of Things&rdquo;"
@@ -2268,30 +2259,30 @@ msgid ""
 "When companies decided to make computerized appliances that would connect "
 "over the internet to the manufacturer's server, and therefore could easily "
 "snoop on their users, they realized that this would not sound very nice.  So "
-"they came up with a cute, appealing name: the &ldquo;Internet of "
-"Things.&rdquo;"
+"they came up with a cute, appealing name: the &ldquo;Internet of Things."
+"&rdquo;"
 msgstr ""
 "Şirketler bilgisayarlaşmış aygıtları İnternet üzerinden imalatçının "
 "sunucusuna bağlanacak, böylece de kolayca kullanıcıları gözetleyebilecekleri "
 "şekilde yapmaya karar verdiklerinde, bunun kulağa çok da iyi gelmeyeceğini "
-"düşündüler. Bu yüzden daha hoş, sempatik bir isim ortaya attılar: "
-"&ldquo;Nesnelerin İnterneti.&rdquo;"
+"düşündüler. Bu yüzden daha hoş, sempatik bir isim ortaya attılar: &ldquo;"
+"Nesnelerin İnterneti.&rdquo;"
 
 #. type: Content of: <div><p>
 msgid ""
-"Experience shows that these products often do <a href=\"https://"
-"www.locusmag.com/Perspectives/2015/09/cory-doctorow-what-if-people-were-"
-"sensors-not-things-to-be-sensed/\"> spy on their users</a>.  They are also "
-"tailor-made for <a href=\"https://archive.ieet.org/articles/"
-"rinesi20150806.html\">giving people biased advice</a>.  In addition, the "
-"manufacturer can <a href=\"/proprietary/proprietary-sabotage.html\"> "
-"sabotage the product</a> by turning off the server it depends on."
+"Experience shows that these products often do <a href=\"https://www.locusmag."
+"com/Perspectives/2015/09/cory-doctorow-what-if-people-were-sensors-not-"
+"things-to-be-sensed/\"> spy on their users</a>.  They are also tailor-made "
+"for <a href=\"https://archive.ieet.org/articles/rinesi20150806.html\">giving "
+"people biased advice</a>.  In addition, the manufacturer can <a href=\"/"
+"proprietary/proprietary-sabotage.html\"> sabotage the product</a> by turning "
+"off the server it depends on."
 msgstr ""
 "Deneyimler bu ürünler sıklıkla <a href=\"https://www.locusmag.com/"
 "Perspectives/2015/09/cory-doctorow-what-if-people-were-sensors-not-things-to-"
-"be-sensed/\">kullanıcılarını gözetlediklerini</a> gösteriyor. Ayrıca <a "
-"href=\"https://archive.ieet.org/articles/rinesi20150806.html\">insanlara "
-"yanlı tavsiyeler verecek</a> şekilde üretildiklerini gösteriyor. Ayrıca, "
+"be-sensed/\">kullanıcılarını gözetlediklerini</a> gösteriyor. Ayrıca <a href="
+"\"https://archive.ieet.org/articles/rinesi20150806.html\">insanlara yanlı "
+"tavsiyeler verecek</a> şekilde üretildiklerini gösteriyor. Ayrıca, "
 "imalatçılar bağlandıkları sunucuyu kapatarak <a href=\"/proprietary/"
 "proprietary-sabotage.html\"> ürüne sabotaj</a> yapabilirler."
 
@@ -2305,11 +2296,11 @@ msgstr "&ldquo;LAMP Sistemi&rdquo;"
 
 #. type: Content of: <div><p>
 msgid ""
-"&ldquo;LAMP&rdquo; stands for &ldquo;Linux, Apache, MySQL and "
-"PHP&rdquo;&mdash;a common combination of software to use on a web server, "
-"except that &ldquo;Linux&rdquo; in this context really refers to the GNU/"
-"Linux system.  So instead of &ldquo;LAMP&rdquo; it should be "
-"&ldquo;GLAMP&rdquo;: &ldquo;GNU, Linux, Apache, MySQL and PHP.&rdquo;"
+"&ldquo;LAMP&rdquo; stands for &ldquo;Linux, Apache, MySQL and PHP&rdquo;"
+"&mdash;a common combination of software to use on a web server, except that "
+"&ldquo;Linux&rdquo; in this context really refers to the GNU/Linux system.  "
+"So instead of &ldquo;LAMP&rdquo; it should be &ldquo;GLAMP&rdquo;: &ldquo;"
+"GNU, Linux, Apache, MySQL and PHP.&rdquo;"
 msgstr ""
 "&ldquo;LAMP&rdquo;, Linux, Apache, MySQL ve PHP (bir web sunucusunda "
 "kullanmak üzere kullanılan başlıca programlar) anlamına geliyor. Sadece "
@@ -2326,8 +2317,8 @@ msgid ""
 "Linux is the name of the kernel that Linus Torvalds developed starting in "
 "1991.  The operating system in which Linux is used is basically GNU with "
 "Linux added.  To call the whole system &ldquo;Linux&rdquo; is both unfair "
-"and confusing.  Please call the complete system <a href=\"/gnu/linux-and-"
-"gnu.html\"> GNU/Linux</a>, both to give the GNU Project credit and to "
+"and confusing.  Please call the complete system <a href=\"/gnu/linux-and-gnu."
+"html\"> GNU/Linux</a>, both to give the GNU Project credit and to "
 "distinguish the whole system from the kernel alone."
 msgstr ""
 "Linux, Linus Torvalds tarafından 1991'lerde geliştirilmesi başlayan "
@@ -2346,8 +2337,8 @@ msgid ""
 "It is misleading to describe the users of free software, or the software "
 "users in general, as a &ldquo;market.&rdquo;"
 msgstr ""
-"Özgür yazılım kullanıcıları veya genel olarak yazılım kullanıcılarını "
-"&ldquo;pazar&rdquo; olarak tanımlamak yanıltıcıdır."
+"Özgür yazılım kullanıcıları veya genel olarak yazılım kullanıcılarını &ldquo;"
+"pazar&rdquo; olarak tanımlamak yanıltıcıdır."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -2445,7 +2436,7 @@ msgstr ""
 msgid "&ldquo;MP3 Player&rdquo;"
 msgstr "&ldquo;MP3 Çalar&rdquo;"
 
-#.  The MP3 patents will reportedly expire by 2018.
+#.  The MP3 patents will reportedly expire by 2018.  
 #. type: Content of: <div><p>
 msgid ""
 "In the late 1990s it became feasible to make portable, solid-state digital "
@@ -2475,9 +2466,9 @@ msgstr ""
 
 #. type: Content of: <div><p>
 msgid ""
-"We suggest the term &ldquo;digital audio player,&rdquo; or simply "
-"&ldquo;audio player&rdquo; when that's clear enough, instead of &ldquo;MP3 "
-"player.&rdquo;"
+"We suggest the term &ldquo;digital audio player,&rdquo; or simply &ldquo;"
+"audio player&rdquo; when that's clear enough, instead of &ldquo;MP3 player."
+"&rdquo;"
 msgstr ""
 "Bu durum yeterince açıksa, &ldquo;MP3 çalar&rdquo; yerine &ldquo;dijital ses "
 "çalar&rdquo; veya basitçe &ldquo;ses çalar&rdquo; terimini öneriyoruz."
@@ -2495,11 +2486,11 @@ msgid ""
 "for your freedom in your computing, as a matter of justice.  The open source "
 "non-movement does not campaign for anything in this way."
 msgstr ""
-"Lütfen &ldquo;özgür yazılım&rdquo; yerine &ldquo;açık&rdquo; veya "
-"&ldquo;açık kaynak&rdquo; terimini kullanmaktan kaçının. Bu terimler farklı "
-"değerlere sahip <a href=\"/philosophy/open-source-misses-the-"
-"point.html\">farklı konumları</a> temsil ediyor. Özgür yazılım hareketi, bir "
-"hak mücadelesi olarak hesaplamadaki özgürlüğünüz için kampanyalar yürütüyor. "
+"Lütfen &ldquo;özgür yazılım&rdquo; yerine &ldquo;açık&rdquo; veya &ldquo;"
+"açık kaynak&rdquo; terimini kullanmaktan kaçının. Bu terimler farklı "
+"değerlere sahip <a href=\"/philosophy/open-source-misses-the-point.html"
+"\">farklı konumları</a> temsil ediyor. Özgür yazılım hareketi, bir hak "
+"mücadelesi olarak hesaplamadaki özgürlüğünüz için kampanyalar yürütüyor. "
 "Açık kaynak hareketsizliği hiç bir şey için bu şekilde bir kampanya "
 "yürütmüyor."
 
@@ -2530,8 +2521,8 @@ msgid ""
 "out&rdquo; implies the choice is a minor matter of convenience. We recommend "
 "&ldquo;reject,&rdquo; &ldquo;shun&rdquo; or &ldquo;escape from.&rdquo;"
 msgstr ""
-"Herhangi bir bilgisayımsal kötü davranış biçimine uygulandığında, "
-"&ldquo;ayrılma&rdquo; terimi, tercih, kolaylık açısından çok önemsizmiş gibi "
+"Herhangi bir bilgisayımsal kötü davranış biçimine uygulandığında, &ldquo;"
+"ayrılma&rdquo; terimi, tercih, kolaylık açısından çok önemsizmiş gibi "
 "gösterir. Onun yerine &ldquo;reddetmek,&rdquo; &ldquo;uzak durmak&rdquo; "
 "veya &ldquo;kaçmak&rdquo; sözcüklerini öneriyoruz."
 
@@ -2600,16 +2591,16 @@ msgid ""
 "condemnation of business, which to some extent business in general deserves; "
 "at the same time, it tends to dissuade the attempt to judge any business's "
 "acts or practices in moral terms.  Even to raise the question of whether a "
-"certain business treats people unjustly is dissuaded by the "
-"&ldquo;players&rdquo; metaphor's murmuring, in the background, &ldquo;Why "
-"bother asking?&rdquo; let's avoid that metaphor."
+"certain business treats people unjustly is dissuaded by the &ldquo;"
+"players&rdquo; metaphor's murmuring, in the background, &ldquo;Why bother "
+"asking?&rdquo; let's avoid that metaphor."
 msgstr ""
 "&ldquo;Oyuncular&rdquo; şeklinde ahlaki sinizm, genel olarak şirketlerin "
 "belli bir dereceye kadar hak ettiği şirketlere yönelik genel kınamayla dolu "
 "olsa da, aynı zamanda herhangi bir işletmenin eylem ve uygulamalarını ahlaki "
 "koşullarla yargılama çabalarından caydırma eğilimi gösterir. Hatta belli bir "
-"işletmenin insanlara adaletsiz davranıp davranmadığı sorusundan da, "
-"&ldquo;oyuncular&rdquo; mecazının arka planındaki &ldquo;sormaya ne gerek "
+"işletmenin insanlara adaletsiz davranıp davranmadığı sorusundan da, &ldquo;"
+"oyuncular&rdquo; mecazının arka planındaki &ldquo;sormaya ne gerek "
 "var&rdquo;? mırıltısıyla vazgeçiliyor. Bu mecazdan kaçınalım."
 
 #. type: Content of: <div><h3>
@@ -2618,12 +2609,12 @@ msgstr "&ldquo;Korsanlık&rdquo;"
 
 #. type: Content of: <div><p>
 msgid ""
-"Publishers often refer to copying they don't approve of as "
-"&ldquo;piracy.&rdquo; In this way, they imply that it is ethically "
-"equivalent to attacking ships on the high seas, kidnapping and murdering the "
-"people on them.  Based on such propaganda, they have procured laws in most "
-"of the world to forbid copying in most (or sometimes all) circumstances.  "
-"(They are still pressuring to make these prohibitions more complete.)"
+"Publishers often refer to copying they don't approve of as &ldquo;piracy."
+"&rdquo; In this way, they imply that it is ethically equivalent to attacking "
+"ships on the high seas, kidnapping and murdering the people on them.  Based "
+"on such propaganda, they have procured laws in most of the world to forbid "
+"copying in most (or sometimes all) circumstances.  (They are still "
+"pressuring to make these prohibitions more complete.)"
 msgstr ""
 "Yayıncılar genelde yasaklanmış kopyalamayı &ldquo;korsanlık&rdquo; olarak "
 "tanımlamaktadır. Bu şekilde, yasadışı kopyalamanın, büyük denizlerde "
@@ -2636,31 +2627,31 @@ msgstr ""
 #. type: Content of: <div><p>
 msgid ""
 "If you don't believe that copying not approved by the publisher is just like "
-"kidnapping and murder, you might prefer not to use the word "
-"&ldquo;piracy&rdquo; to describe it.  Neutral terms such as "
-"&ldquo;unauthorized copying&rdquo; (or &ldquo;prohibited copying&rdquo; for "
-"the situation where it is illegal) are available for use instead.  Some of "
-"us might even prefer to use a positive term such as &ldquo;sharing "
-"information with your neighbor.&rdquo;"
+"kidnapping and murder, you might prefer not to use the word &ldquo;"
+"piracy&rdquo; to describe it.  Neutral terms such as &ldquo;unauthorized "
+"copying&rdquo; (or &ldquo;prohibited copying&rdquo; for the situation where "
+"it is illegal) are available for use instead.  Some of us might even prefer "
+"to use a positive term such as &ldquo;sharing information with your neighbor."
+"&rdquo;"
 msgstr ""
 "Yasadışı kopyalamanın adam kaçırmak ve cinayetle aynı şeyler olmadığına "
 "inanıyorsanız, yasadışı kopyalamayı tanımlamak için &ldquo;korsanlık&rdquo; "
-"sözcüğünü kullanmamayı tercih edebilirsiniz. Bunun yerine, "
-"&ldquo;yasaklanmış kopyalama&rdquo; veya &ldquo;yetkisiz kopyalama&rdquo; "
-"gibi tarafsız ifadeler kullanabilirsiniz. Bazılarımız, &ldquo;bilgiyi "
+"sözcüğünü kullanmamayı tercih edebilirsiniz. Bunun yerine, &ldquo;"
+"yasaklanmış kopyalama&rdquo; veya &ldquo;yetkisiz kopyalama&rdquo; gibi "
+"tarafsız ifadeler kullanabilirsiniz. Bazılarımız, &ldquo;bilgiyi "
 "komşularınızla paylaşmak&rdquo; gibi olumlu bir ifade bile kullanabilir."
 
 #. type: Content of: <div><p>
 msgid ""
 "A US judge, presiding over a trial for copyright infringement, recognized "
 "that <a href=\"https://torrentfreak.com/mpaa-banned-from-using-piracy-and-"
-"theft-terms-in-hotfile-trial-131129/\">&ldquo;piracy&rdquo; and "
-"&ldquo;theft&rdquo; are smear words</a>."
+"theft-terms-in-hotfile-trial-131129/\">&ldquo;piracy&rdquo; and &ldquo;"
+"theft&rdquo; are smear words</a>."
 msgstr ""
 "Telif hakkı ihlali hakkındaki bir davaya başkanlık eden bir ABD hakimi, <a "
 "href=\"https://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-"
-"terms-in-hotfile-trial-131129/\">&ldquo;korsanlık&rdquo; ve "
-"&ldquo;hırsızlık&rdquo; kelimelerini karalama</a> olarak tanımlamıştır."
+"terms-in-hotfile-trial-131129/\">&ldquo;korsanlık&rdquo; ve &ldquo;"
+"hırsızlık&rdquo; kelimelerini karalama</a> olarak tanımlamıştır."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;PowerPoint&rdquo;"
@@ -2671,9 +2662,9 @@ msgid ""
 "Please avoid using the term &ldquo;PowerPoint&rdquo; to mean any kind of "
 "slide presentation.  &ldquo;PowerPoint&rdquo; is just the name of one "
 "particular proprietary program to make presentations.  For your freedom's "
-"sake, you should use only free software to make your "
-"presentations&mdash;which means, <em>not PowerPoint</em>.  Recommended "
-"options include LaTeX's <code>beamer</code> class and LibreOffice Impress."
+"sake, you should use only free software to make your presentations&mdash;"
+"which means, <em>not PowerPoint</em>.  Recommended options include LaTeX's "
+"<code>beamer</code> class and LibreOffice Impress."
 msgstr ""
 "Lütfen herhangi bir yansı sunumunu tanımlamak için &ldquo;PowerPoint&rdquo; "
 "terimini kullanmayınız. &ldquo;PowerPoint&rdquo; sunum yapmak üzere "
@@ -2697,11 +2688,11 @@ msgid ""
 msgstr ""
 "Bir ürün hakkında konuşuyorsanız, elbette ona öyle deyin. Ancak bir "
 "hizmetten söz ediyorsanız, lütfen onu &ldquo;ürün&rdquo; olarak "
-"adlandırmayın. Eğer bir hizmet sağlayıcı, kendi hizmetlerine "
-"&ldquo;ürün&rdquo; diyorsa, lütfen ısrarla ondan &ldquo;hizmet&rdquo; olarak "
-"söz etmeye devam edin. Eğer bir hizmet sağlayıcı bir paket teklifinden "
-"&ldquo;ürün&rdquo; olarak söz ediyorsa lütfen ısrarla ondan "
-"&ldquo;teklif&rdquo; olarak söz etmeye devam edin."
+"adlandırmayın. Eğer bir hizmet sağlayıcı, kendi hizmetlerine &ldquo;"
+"ürün&rdquo; diyorsa, lütfen ısrarla ondan &ldquo;hizmet&rdquo; olarak söz "
+"etmeye devam edin. Eğer bir hizmet sağlayıcı bir paket teklifinden &ldquo;"
+"ürün&rdquo; olarak söz ediyorsa lütfen ısrarla ondan &ldquo;teklif&rdquo; "
+"olarak söz etmeye devam edin."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Protection&rdquo;"
@@ -2725,8 +2716,8 @@ msgstr ""
 msgid ""
 "It is easy to avoid &ldquo;protection&rdquo; and use neutral terms instead.  "
 "For example, instead of saying, &ldquo;Copyright protection lasts a very "
-"long time,&rdquo; you can say, &ldquo;Copyright lasts a very long "
-"time.&rdquo;"
+"long time,&rdquo; you can say, &ldquo;Copyright lasts a very long time."
+"&rdquo;"
 msgstr ""
 "&ldquo;Koruma&rdquo;nın önlenmesi ve onun yerine tarafsız ifadelerin "
 "kullanılması kolaydır. Örneğin, &ldquo;telif hakkı koruması uzun zaman "
@@ -2738,15 +2729,15 @@ msgid ""
 "Likewise, instead of saying, &ldquo;protected by copyright,&rdquo; you can "
 "say, &ldquo;covered by copyright&rdquo; or just &ldquo;copyrighted.&rdquo;"
 msgstr ""
-"Aynı şekilde, &ldquo;telif hakkıyla korunmuştur&rdquo; demek yerine, "
-"&ldquo;telif hakkı kapsamındadır&rdquo; veya sadece &ldquo;teliflidir&rdquo; "
+"Aynı şekilde, &ldquo;telif hakkıyla korunmuştur&rdquo; demek yerine, &ldquo;"
+"telif hakkı kapsamındadır&rdquo; veya sadece &ldquo;teliflidir&rdquo; "
 "diyebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""
 "If you want to criticize copyright rather than be neutral, you can use the "
-"term &ldquo;copyright restrictions.&rdquo; Thus, you can say, "
-"&ldquo;Copyright restrictions last a very long time.&rdquo;"
+"term &ldquo;copyright restrictions.&rdquo; Thus, you can say, &ldquo;"
+"Copyright restrictions last a very long time.&rdquo;"
 msgstr ""
 "Tarafsız olmak yerine telif hakkını eleştirmek istiyorsanız, &ldquo;telif "
 "hakkı kısıtlamaları&rdquo; terimini kullanabilirsiniz. Böylece, &ldquo;telif "
@@ -2778,8 +2769,8 @@ msgid ""
 "Standards bodies that promulgate patent-restricted standards that prohibit "
 "free software typically have a policy of obtaining patent licenses that "
 "require a fixed fee per copy of a conforming program.  They often refer to "
-"such licenses by the term &ldquo;RAND,&rdquo; which stands for "
-"&ldquo;reasonable and non-discriminatory.&rdquo;"
+"such licenses by the term &ldquo;RAND,&rdquo; which stands for &ldquo;"
+"reasonable and non-discriminatory.&rdquo;"
 msgstr ""
 "Özgür yazılımı yasaklayan, patentle sınırlandırılmış standartları yürürlüğe "
 "koyan standart kurumları, tipik olarak uyumlu bir programın her kopyası için "
@@ -2810,8 +2801,8 @@ msgid ""
 "accept and use it merely because patent-wielding companies have made it "
 "widespread is to let those companies dictate the views you express."
 msgstr ""
-"Standart kurumları bu lisansların ayrım yaptığını fark etmeli ve "
-"&ldquo;makul ve ayrım yapmayan&rdquo; ifadesinin kullanımını ya da bunları "
+"Standart kurumları bu lisansların ayrım yaptığını fark etmeli ve &ldquo;"
+"makul ve ayrım yapmayan&rdquo; ifadesinin kullanımını ya da bunları "
 "tanımlamak için &ldquo;RAND&rdquo; ifadesinin kullanımını sona erdirmelidir. "
 "Bunu yapana kadar da, örtbas etmeye katılmak istemeyen diğer yazarlar, bu "
 "terimi kullanmayı reddetmelidir. Patent sahibi olan firmalar "
@@ -2824,10 +2815,10 @@ msgid ""
 "short, as a replacement.  It is accurate because the only condition in these "
 "licenses is a uniform royalty fee."
 msgstr ""
-"Bunun yerine &ldquo;yalnızca tek biçimli ücret&rdquo; ya da kısaca "
-"&ldquo;UFO&rdquo; teriminin kullanılmasını tavsiye ediyoruz. Bu doğru bir "
-"ifadedir, çünkü bu lisanslardaki tek şart, tek biçimli bir hak sahibine "
-"verilen ücrettir."
+"Bunun yerine &ldquo;yalnızca tek biçimli ücret&rdquo; ya da kısaca &ldquo;"
+"UFO&rdquo; teriminin kullanılmasını tavsiye ediyoruz. Bu doğru bir ifadedir, "
+"çünkü bu lisanslardaki tek şart, tek biçimli bir hak sahibine verilen "
+"ücrettir."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;SaaS&rdquo; or &ldquo;Software as a Service&rdquo;"
@@ -2838,10 +2829,9 @@ msgid ""
 "We used to say that SaaS (short for &ldquo;Software as a Service&rdquo;) is "
 "an injustice, but then we found that there was a lot of variation in "
 "people's understanding of which activities count as SaaS.  So we switched to "
-"a new term, &ldquo;Service as a Software Substitute&rdquo; or "
-"&ldquo;SaaSS.&rdquo; This term has two advantages: it wasn't used before, so "
-"our definition is the only one, and it explains what the injustice consists "
-"of."
+"a new term, &ldquo;Service as a Software Substitute&rdquo; or &ldquo;SaaSS."
+"&rdquo; This term has two advantages: it wasn't used before, so our "
+"definition is the only one, and it explains what the injustice consists of."
 msgstr ""
 "SaaS (&ldquo;Hizmet olarak Yazılım&rdquo; kısaltması) bir adaletsizliktir "
 "diyorduk, ancak daha sonra insanların SaaS olarak kabul edilmesi gereken "
@@ -2879,11 +2869,11 @@ msgid ""
 "The term &ldquo;sell software&rdquo; is ambiguous.  Strictly speaking, "
 "exchanging a copy of a free program for a sum of money is <a href=\"/"
 "philosophy/selling.html\"> selling the program</a>, and there is nothing "
-"wrong with doing that.  However, people usually associate the term "
-"&ldquo;selling software&rdquo; with proprietary restrictions on the "
-"subsequent use of the software.  You can be clear, and prevent confusion, by "
-"saying either &ldquo;distributing copies of a program for a fee&rdquo; or "
-"&ldquo;imposing proprietary restrictions on the use of a program.&rdquo;"
+"wrong with doing that.  However, people usually associate the term &ldquo;"
+"selling software&rdquo; with proprietary restrictions on the subsequent use "
+"of the software.  You can be clear, and prevent confusion, by saying either "
+"&ldquo;distributing copies of a program for a fee&rdquo; or &ldquo;imposing "
+"proprietary restrictions on the use of a program.&rdquo;"
 msgstr ""
 "&ldquo;Yazılımın satılması&rdquo; terimi kafa karıştırıcıdır. Kesin "
 "konuşursak, özgür bir programın kopyasının bir para karşılığı verilmesi <a "
@@ -2900,8 +2890,8 @@ msgid ""
 "See <a href=\"/philosophy/selling.html\">Selling Free Software</a> for "
 "further discussion of this issue."
 msgstr ""
-"Bu konu hakkında daha fazla bilgi için, &ldquo;<a href=\"/philosophy/"
-"selling.html\">Özgür Yazılımın Satılması</a>&rdquo; bölümüne bakınız."
+"Bu konu hakkında daha fazla bilgi için, &ldquo;<a href=\"/philosophy/selling."
+"html\">Özgür Yazılımın Satılması</a>&rdquo; bölümüne bakınız."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Sharing (personal data)&rdquo;"
@@ -2910,11 +2900,11 @@ msgstr "&ldquo;Paylaşım (kişisel veri)&rdquo;"
 #. type: Content of: <div><p>
 msgid ""
 "When companies manipulate or lure people into revealing personal data and "
-"thus ceding their privacy, please don't refer to this as "
-"&ldquo;sharing.&rdquo; We use the term &ldquo;sharing&rdquo; to refer to "
-"noncommercial cooperation, including noncommercial redistribution of exact "
-"copies of published works, and we say this is <em>good</em>.  Please don't "
-"apply that word to a practice which is harmful and dangerous."
+"thus ceding their privacy, please don't refer to this as &ldquo;sharing."
+"&rdquo; We use the term &ldquo;sharing&rdquo; to refer to noncommercial "
+"cooperation, including noncommercial redistribution of exact copies of "
+"published works, and we say this is <em>good</em>.  Please don't apply that "
+"word to a practice which is harmful and dangerous."
 msgstr ""
 "Şirketler insanları kişisel verilerini açıklama konusunda, böylece "
 "mahremiyetlerini teslim etme konusunda yönlendirdiklerin veya "
@@ -2959,8 +2949,8 @@ msgid ""
 "A more suitable term for businesses like Uber is the &ldquo;piecework "
 "service economy&rdquo; or &ldquo;gig economy.&rdquo;"
 msgstr ""
-"Uber gibi işletmeler için kullanabileceğimiz daha uygun bir terim "
-"&ldquo;parçabaşı hizmet ekonomisi&rdquo; veya &ldquo;gig ekonomisidir.&rdquo;"
+"Uber gibi işletmeler için kullanabileceğimiz daha uygun bir terim &ldquo;"
+"parçabaşı hizmet ekonomisi&rdquo; veya &ldquo;gig ekonomisidir.&rdquo;"
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Skype&rdquo;"
@@ -2969,14 +2959,13 @@ msgstr "&ldquo;Skype&rdquo;"
 #. type: Content of: <div><p>
 msgid ""
 "Please avoid using the term &ldquo;skype&rdquo; as a verb, meaning any kind "
-"of video communication or telephony over the Internet in general.  "
-"&ldquo;Skype&rdquo; is just the name of one particular proprietary program, "
-"one that <a href=\"/philosophy/proprietary/proprietary-"
-"surveillance.html#SpywareInSkype\"> spies on its users</a>. If you want to "
-"make video and voice calls over the Internet in a way that respects both "
-"your freedom and your privacy, try one of the <a href=\"https://"
-"libreplanet.org/wiki/Group:Skype_Replacement\"> numerous free Skype "
-"replacements</a>."
+"of video communication or telephony over the Internet in general.  &ldquo;"
+"Skype&rdquo; is just the name of one particular proprietary program, one "
+"that <a href=\"/philosophy/proprietary/proprietary-surveillance."
+"html#SpywareInSkype\"> spies on its users</a>. If you want to make video and "
+"voice calls over the Internet in a way that respects both your freedom and "
+"your privacy, try one of the <a href=\"https://libreplanet.org/wiki/Group:"
+"Skype_Replacement\"> numerous free Skype replacements</a>."
 msgstr ""
 "Lütfen &ldquo;skype&rdquo; terimini, herhangi bir görüntülü iletişim veya "
 "genel olarak İnternet üzerinden telefon anlamına gelen fiil olarak "
@@ -3032,18 +3021,18 @@ msgid ""
 "monopolies.  <a href=\"https://web.archive.org/web/20071215073111/http://"
 "eupat.ffii.org/papers/europarl0309/\" title=\"archived version of http://"
 "eupat.ffii.org/papers/europarl0309/\">The European Parliament, rejecting "
-"software patents in 2003, voted to define &ldquo;industry&rdquo; as "
-"&ldquo;automated production of material goods.&rdquo;</a>"
+"software patents in 2003, voted to define &ldquo;industry&rdquo; as &ldquo;"
+"automated production of material goods.&rdquo;</a>"
 msgstr ""
 "&ldquo;Endüstri&rdquo; kelimesi yazılım patentlerinin savunucuları "
 "tarafından propaganda terimi olarak kullanılmaktadır. Yazılım geliştirmeyi "
 "&ldquo;endüstri&rdquo; olarak tanımlamakta, ve bunun patent tekellerine "
-"karşı çıkma anlamına geldiğini söylemektedirler. <a href=\"https://"
-"web.archive.org/web/20071215073111/http://eupat.ffii.org/papers/"
-"europarl0309/\" title=\"archived version of http://eupat.ffii.org/papers/"
-"europarl0309/\"> 2003 yılında yazılım patentlerini reddeden Avrupa "
-"Parlamentosu, &ldquo;endüstri&rdquo;yi &ldquo;malzeme metalarının otomatik "
-"üretimi&rdquo; olarak tanımlamak üzere oy kullandı.</a>"
+"karşı çıkma anlamına geldiğini söylemektedirler. <a href=\"https://web."
+"archive.org/web/20071215073111/http://eupat.ffii.org/papers/europarl0309/\" "
+"title=\"archived version of http://eupat.ffii.org/papers/europarl0309/\"> "
+"2003 yılında yazılım patentlerini reddeden Avrupa Parlamentosu, &ldquo;"
+"endüstri&rdquo;yi &ldquo;malzeme metalarının otomatik üretimi&rdquo; olarak "
+"tanımlamak üzere oy kullandı.</a>"
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Source model&rdquo;"
@@ -3056,10 +3045,10 @@ msgid ""
 "distributed, but the text confuses this with the development methodology.  "
 "It distinguishes &ldquo;open source&rdquo; and &rdquo;shared source&rdquo; "
 "as answers, but they overlap&mdash;Microsoft uses the latter as a marketing "
-"term to cover a range of practices, some of which are &ldquo;open "
-"source.&rdquo; Thus, this term really conveys no coherent information, but "
-"it provides an opportunity to say &ldquo;open source&rdquo; in pages "
-"describing free software programs."
+"term to cover a range of practices, some of which are &ldquo;open source."
+"&rdquo; Thus, this term really conveys no coherent information, but it "
+"provides an opportunity to say &ldquo;open source&rdquo; in pages describing "
+"free software programs."
 msgstr ""
 "Vikipedi &ldquo;kaynak model&rdquo; terimini karışık ve muğlak bir biçimde "
 "kullanıyor. Görünüşte bir programın kaynak kodunun nasıl dağıtıldığına "
@@ -3107,15 +3096,15 @@ msgstr "&ldquo;Uçbirim&rdquo;"
 #. type: Content of: <div><p>
 msgid ""
 "Mobile phones and tablets are computers, and people should be able to do "
-"their computing on them using free software.  To call them "
-"&ldquo;terminals&rdquo; supposes that all they are good for is to connect to "
+"their computing on them using free software.  To call them &ldquo;"
+"terminals&rdquo; supposes that all they are good for is to connect to "
 "servers, which is a bad way to do your own computing."
 msgstr ""
 "Mobil telefonlar ve tabletler bilgisayardır ve insanlar bu aygıtlardaki "
-"hesaplamalarını özgür yazılım kullanarak yapabilmelidir. Onları "
-"&ldquo;uçbirim (terminal)&rdquo; olarak adlandırmak, bu aygıtların "
-"sunuculara bağlanmak için uygun olduğunu varsayar, bu da kendi bilişiminizi "
-"yapmak için kötü bir yoldur."
+"hesaplamalarını özgür yazılım kullanarak yapabilmelidir. Onları &ldquo;"
+"uçbirim (terminal)&rdquo; olarak adlandırmak, bu aygıtların sunuculara "
+"bağlanmak için uygun olduğunu varsayar, bu da kendi bilişiminizi yapmak için "
+"kötü bir yoldur."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Theft&rdquo;"
@@ -3129,24 +3118,24 @@ msgid ""
 "objective truth."
 msgstr ""
 "Oldukça katı, baskıcı bir telif hakkını savunanlar, telif hakkının "
-"çiğnenmesini tanımlamak için &ldquo;çalındı&rdquo; ya da "
-"&ldquo;hırsızlık&rdquo; gibi sözcükleri kullanmaktadırlar. Aynı zamanda, "
-"yasal sistemi, etik üzerinde bir otorite olarak değerlendirmemizi isterler: "
+"çiğnenmesini tanımlamak için &ldquo;çalındı&rdquo; ya da &ldquo;"
+"hırsızlık&rdquo; gibi sözcükleri kullanmaktadırlar. Aynı zamanda, yasal "
+"sistemi, etik üzerinde bir otorite olarak değerlendirmemizi isterler: "
 "kopyalama yasaksa, o zaman yanlış olmalıdır."
 
 #. type: Content of: <div><p>
 msgid ""
-"Under the US legal system, copyright infringement is not theft.  <a "
-"href=\"https://caselaw.findlaw.com/us-supreme-court/473/207.html\"> Laws "
-"about theft are not applicable to copyright infringement</a>.  The "
-"supporters of repressive copyright are making an appeal to "
-"authority&mdash;and misrepresenting what authority says."
+"Under the US legal system, copyright infringement is not theft.  <a href="
+"\"https://caselaw.findlaw.com/us-supreme-court/473/207.html\"> Laws about "
+"theft are not applicable to copyright infringement</a>.  The supporters of "
+"repressive copyright are making an appeal to authority&mdash;and "
+"misrepresenting what authority says."
 msgstr ""
-"ABD yasal sistemi altında telif hakkı ihlali hırsızlık değildir. <a "
-"href=\"https://caselaw.findlaw.com/us-supreme-court/473/207.html\"> "
-"Hırsızlıkla ilgili yasalar, telif hakkı ihlaline uygulanabilir değildir</a>. "
-"Baskıcı telif hakkı savunucuları, otoriteye bir itirazda bulunuyorlar ve "
-"otoritenin söylediğini yanlış sunuyorlar."
+"ABD yasal sistemi altında telif hakkı ihlali hırsızlık değildir. <a href="
+"\"https://caselaw.findlaw.com/us-supreme-court/473/207.html\"> Hırsızlıkla "
+"ilgili yasalar, telif hakkı ihlaline uygulanabilir değildir</a>. Baskıcı "
+"telif hakkı savunucuları, otoriteye bir itirazda bulunuyorlar ve otoritenin "
+"söylediğini yanlış sunuyorlar."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -3155,9 +3144,9 @@ msgid ""
 "which shows what can properly be described as &ldquo;copyright theft.&rdquo;"
 msgstr ""
 "Onları çürütmek için, gerçekten de &ldquo;telif hakkı hırsızlığı&rdquo; "
-"olarak tanımlanabilecek bir durumu gösteren şu <a href=\"https://"
-"www.guardian.co.uk/books/2013/may/04/harper-lee-kill-mockingbird-"
-"copyright\"> gerçek vakayı</a> onlara gösterebilirsiniz."
+"olarak tanımlanabilecek bir durumu gösteren şu <a href=\"https://www."
+"guardian.co.uk/books/2013/may/04/harper-lee-kill-mockingbird-copyright\"> "
+"gerçek vakayı</a> onlara gösterebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -3177,13 +3166,13 @@ msgstr ""
 msgid ""
 "A US judge, presiding over a trial for copyright infringement, recognized "
 "that <a href=\"https://torrentfreak.com/mpaa-banned-from-using-piracy-and-"
-"theft-terms-in-hotfile-trial-131129/\">&ldquo;piracy&rdquo; and "
-"&ldquo;theft&rdquo; are smear-words</a>."
+"theft-terms-in-hotfile-trial-131129/\">&ldquo;piracy&rdquo; and &ldquo;"
+"theft&rdquo; are smear-words</a>."
 msgstr ""
 "Telif hakkı ihlali hakkındaki bir davaya başkanlık eden bir ABD hakimi, <a "
 "href=\"https://torrentfreak.com/mpaa-banned-from-using-piracy-and-theft-"
-"terms-in-hotfile-trial-131129/\">&ldquo;korsanlık&rdquo; ve "
-"&ldquo;hırsızlık&rdquo; kelimelerini karalama</a> olarak tanımlamıştır."
+"terms-in-hotfile-trial-131129/\">&ldquo;korsanlık&rdquo; ve &ldquo;"
+"hırsızlık&rdquo; kelimelerini karalama</a> olarak tanımlamıştır."
 
 #. type: Content of: <div><h3>
 msgid "&ldquo;Tool&rdquo;"
@@ -3218,9 +3207,9 @@ msgstr ""
 "&ldquo;araç&rdquo; kelimesini kullanıyor ve bu fark önemsizmiş gibi "
 "görüyorlar. Ahlaki açıdan bu ayrım çok önemlidir: bilgisayarınızda "
 "çalıştırmak için yükleyebileceğiniz bir program özgürlüğünüzü koruyabilir "
-"(eğer özgür yazılım ise), ancak başka birinin sunucusunda çalışırken <a "
-"href=\"/philosophy/who-does-that-server-really-serve.html\"><em>sizin</em> "
-"için hesaplama yapan</a> bir hizmet özgürlüğünüzü koruyamaz."
+"(eğer özgür yazılım ise), ancak başka birinin sunucusunda çalışırken <a href="
+"\"/philosophy/who-does-that-server-really-serve.html\"><em>sizin</em> için "
+"hesaplama yapan</a> bir hizmet özgürlüğünüzü koruyamaz."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -3274,8 +3263,8 @@ msgid ""
 "includes some free software packages.  However, many programs are developed "
 "by volunteers or organizations which do not intend to sell copies.  These "
 "developers are not vendors.  Likewise, only some of the packagers of GNU/"
-"Linux distributions are vendors.  We recommend the general term "
-"&ldquo;supplier&rdquo; instead."
+"Linux distributions are vendors.  We recommend the general term &ldquo;"
+"supplier&rdquo; instead."
 msgstr ""
 "Lütfen &ldquo;satıcı&rdquo; (vendor) terimini yazılım geliştiren veya "
 "paketleyen herhangi biri için kullanmayın. Çoğu program kopyaların satılması "
@@ -3319,18 +3308,17 @@ msgstr " "
 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please send general FSF &amp; GNU inquiries to <a "
-"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a>.  There are also <a "
-"href=\"/contact/\">other ways to contact</a> the FSF.  Broken links and "
-"other corrections or suggestions can be sent to <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a>."
+"Please send general FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\">&lt;gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways "
+"to contact</a> the FSF.  Broken links and other corrections or suggestions "
+"can be sent to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
 msgstr ""
-"Lütfen FSF ve GNU ile ilgili sorularınızı <a "
-"href=\"mailto:gnu@gnu.org\">&lt;gnu@gnu.org&gt;</a> adresine iletin. FSF ile "
-"iletişim kurmanın <a href=\"/contact/\">başka yolları</a> da vardır. Lütfen "
-"çalışmayan bağlantıları ve başka düzeltmeleri veya önerilerinizi <a "
-"href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine "
-"gönderin."
+"Lütfen FSF ve GNU ile ilgili sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine iletin. FSF ile iletişim kurmanın <a href=\"/"
+"contact/\">başka yolları</a> da vardır. Lütfen çalışmayan bağlantıları ve "
+"başka düzeltmeleri veya önerilerinizi <a href=\"mailto:webmasters@gnu.org"
+"\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
 
 #.  TRANSLATORS: Ignore the original text in this paragraph,
 #.         replace it with the translation of these two:
@@ -3342,23 +3330,22 @@ msgstr ""
 #.         <p>For information on coordinating and contributing translations of
 #.         our web pages, see <a
 #.         href="/server/standards/README.translations.html">Translations
-#.         README</a>.
+#.         README</a>. 
 #. type: Content of: <div><div><p>
 msgid ""
-"Please see the <a href=\"/server/standards/"
-"README.translations.html\">Translations README</a> for information on "
-"coordinating and contributing translations of this article."
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and contributing "
+"translations of this article."
 msgstr ""
 "Çevirilerimizde bulmuş olabileceğiniz hataları, aklınızdaki soru ve "
-"önerilerinizi lütfen <a href=\"mailto:web-"
-"translators@gnu.org\">bize&nbsp;bildirin</a>.</p><p>Bu yazının çeviri "
-"düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href=\"/server/"
-"standards/README.translations.html\">Çeviriler BENİOKU</a> sayfasına bakın. "
-"Bu sayfanın ve diğer tüm sayfaların Türkçe çevirileri gönüllüler tarafından "
-"yapılmaktadır; Türkçe niteliği yüksek bir <a href=\"/"
-"home.html\">www.gnu.org</a> için bize yardımcı olmak istiyorsanız, <a "
-"href=\"https://savannah.gnu.org/projects/www-tr\">çalışma&nbsp;sayfamızı</a> "
-"ziyaret edebilirsiniz."
+"önerilerinizi lütfen <a href=\"mailto:web-translators@gnu.org\">bize&nbsp;"
+"bildirin</a>.</p><p>Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi "
+"için lütfen <a href=\"/server/standards/README.translations.html\">Çeviriler "
+"BENİOKU</a> sayfasına bakın. Bu sayfanın ve diğer tüm sayfaların Türkçe "
+"çevirileri gönüllüler tarafından yapılmaktadır; Türkçe niteliği yüksek bir "
+"<a href=\"/home.html\">www.gnu.org</a> için bize yardımcı olmak "
+"istiyorsanız, <a href=\"https://savannah.gnu.org/projects/www-tr"
+"\">çalışma&nbsp;sayfamızı</a> ziyaret edebilirsiniz."
 
 #. type: Content of: <div><p>
 msgid ""
@@ -3374,9 +3361,9 @@ msgid ""
 "creativecommons.org/licenses/by-nd/4.0/\">Creative Commons Attribution-"
 "NoDerivatives 4.0 International License</a>."
 msgstr ""
-"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/"
-"4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası Lisansı</"
-"a> altında lisanslanmıştır."
+"Bu sayfa <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-"
+"nd/4.0/deed.tr\">Creative Commons Alıntı-Türetilemez 4.0 Uluslararası "
+"Lisansı</a> altında lisanslanmıştır."
 
 #. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
 #. type: Content of: <div><div>
@@ -3384,9 +3371,8 @@ msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
 msgstr ""
 "<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
 "<ul>\n"
-"<li>The FLOSS Information <a "
-"href=\"mailto:theflossinformation@gmail.com\">&lt;theflossinformation@gmail.com&gt;"
-"</a>, 2020.</li>\n"
+"<li>The FLOSS Information <a href=\"mailto:theflossinformation@gmail.com"
+"\">&lt;theflossinformation@gmail.com&gt;</a>, 2020.</li>\n"
 "<li>T. E. Kalaycı, 2009, 2019-2024.</li>\n"
 "<li>Çiğdem Özşar, 2009.</li>\n"
 "<li>Birkan Sarıfakıoğlu, 2009.</li>\n"
@@ -3394,17 +3380,17 @@ msgstr ""
 "<li>İzlem Gözükeleş, 2009.</li>\n"
 "</ul>"
 
-#.  timestamp start
+#.  timestamp start 
 #. type: Content of: <div><p>
 msgid "Updated:"
 msgstr "Son Güncelleme:"
 
 #~ msgid ""
 #~ "There is a specific term for the neural-network systems that generate "
-#~ "textual output which is plausible in terms of grammar and diction: "
-#~ "&ldquo;large language models&rdquo; (&ldquo;LLMs&rdquo;).  These systems "
-#~ "do not begin to grasp the <em>meanings</em> of their textual outputs, so "
-#~ "they are invariably bullshit generators, never artificial intelligence."
+#~ "textual output which is plausible in terms of grammar and diction: &ldquo;"
+#~ "large language models&rdquo; (&ldquo;LLMs&rdquo;).  These systems do not "
+#~ "begin to grasp the <em>meanings</em> of their textual outputs, so they "
+#~ "are invariably bullshit generators, never artificial intelligence."
 #~ msgstr ""
 #~ "Gramer ve üslup açısından makul metin çıktıları üreten sinir ağı "
 #~ "sistemleri için özel bir terim vardır: &ldquo;büyük dil modelleri&rdquo; "
@@ -3413,17 +3399,17 @@ msgstr "Son Güncelleme:"
 #~ "üreten makinelerdir, asla yapay zekâ değildir."
 
 #~ msgid ""
-#~ "The article uses this word over and over, along with "
-#~ "&ldquo;consume&rdquo; and &ldquo;creators.&rdquo; Perhaps that is meant "
-#~ "to illustrate the way those people like to think."
+#~ "The article uses this word over and over, along with &ldquo;"
+#~ "consume&rdquo; and &ldquo;creators.&rdquo; Perhaps that is meant to "
+#~ "illustrate the way those people like to think."
 #~ msgstr ""
 #~ "Yazı bu kelimeyi, &ldquo;tüketim&rdquo; ve &ldquo;yaratıcılar&rdquo; ile "
 #~ "birlikte tekrar tekrar kullanıyor. Belki de bu insanların düşünme şeklini "
 #~ "göstermek istiyor."
 
 #~ msgid ""
-#~ "That weakness is not a matter of implementation details.  It is <a "
-#~ "href=\"https://www.mindprison.cc/p/the-question-that-no-llm-can-answer\"> "
+#~ "That weakness is not a matter of implementation details.  It is <a href="
+#~ "\"https://www.mindprison.cc/p/the-question-that-no-llm-can-answer\"> "
 #~ "inherent in the fundamental approach these systems use</a>."
 #~ msgstr ""
 #~ "Bu zayıflık, uygulama ayrıntılarıyla ilgili bir mesele değildir. Bu, <a "
@@ -3449,17 +3435,17 @@ msgstr "Son Güncelleme:"
 #~ "sistemlerdir."
 
 #~ msgid ""
-#~ "The systems of today that are often (rightly or wrongly) called "
-#~ "&ldquo;artificial intelligence&rdquo; are neural network systems, but in "
-#~ "the future they may be implemented in other ways."
+#~ "The systems of today that are often (rightly or wrongly) called &ldquo;"
+#~ "artificial intelligence&rdquo; are neural network systems, but in the "
+#~ "future they may be implemented in other ways."
 #~ msgstr ""
 #~ "Bu (doğru veya yanlış bir şekilde) &ldquo;yapay zekâ&rdquo; denilen "
 #~ "sistemlerin çoğu sinir ağı sistemleridir, ancak gelecekte başka "
 #~ "şekillerde de gerçekleştirilebilirler."
 
 #~ msgid ""
-#~ "&ldquo;Machine learning systems&rdquo; is basically equivalent to "
-#~ "&ldquo;neural network systems&rdquo; under today's technology."
+#~ "&ldquo;Machine learning systems&rdquo; is basically equivalent to &ldquo;"
+#~ "neural network systems&rdquo; under today's technology."
 #~ msgstr ""
 #~ "&ldquo;Makine öğrenmesi sistemleri&rdquo; bugünün teknolojisinde basitçe "
 #~ "&ldquo;sinir ağı sistemleri&rdquo;ne eşdeğerdir."
@@ -3467,8 +3453,8 @@ msgstr "Son Güncelleme:"
 #~ msgid ""
 #~ "We can refer to ChatGPT and such like as &ldquo;generative neural network "
 #~ "systems&rdquo;, because they are generative systems and use neural "
-#~ "networks.  The narrower term &ldquo;large language models&rdquo; "
-#~ "(&ldquo;LLM&rdquo;) also fits them."
+#~ "networks.  The narrower term &ldquo;large language models&rdquo; (&ldquo;"
+#~ "LLM&rdquo;) also fits them."
 #~ msgstr ""
 #~ "ChatGPT ve benzerlerinden &ldquo;üretici yapay sinir ağı "
 #~ "sistemleri&rdquo; olarak söz edebiliriz, çünkü üretici sistemler ve sinir "
